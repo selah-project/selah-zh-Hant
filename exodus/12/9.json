@@ -5,24 +5,73 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 12,
-  "notes": [
+  "translation": "你們不可吃生的，也不可在水中煮得爛熟，只要用火烤了吃——頭、腿和內臟。",
+  "tokens": [
     {
-      "kind": "error",
-      "subject": "translation",
-      "rationale": "invalid"
+      "surface": "אל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "你們吃"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "它（的任何部分）"
+    },
+    {
+      "surface": "נא",
+      "gloss": "生的"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "煮"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "煮得爛熟"
+    },
+    {
+      "surface": "במים",
+      "gloss": "在水中"
+    },
+    {
+      "surface": "כי",
+      "gloss": "只"
+    },
+    {
+      "surface": "אם",
+      "gloss": "只要"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "烤"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "頭"
+    },
+    {
+      "surface": "על",
+      "gloss": "連同"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "腿"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "和連同"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "內臟"
     }
   ],
-  "translation": "你們不可吃生的，也不可在水裡煮了吃，要用火烤；頭、腿和內臟都要 ⟨את⟩ ⟨את⟩。你們要這樣吃：連牠的頭、牠的腿、以及牠的內臟一起吃。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "03c8e6ad77d0ee0aeb033797fb4e62a140a8c314bc101fddcd8e6bd5172c51fd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/12\/9-12.1792125875073.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
-  "tokens": [],
-  "timestamp": "2026-10-16T04:44:35.074160999Z",
+  "timestamp": "2026-10-16T11:36:08.647813206Z",
   "model": "glm-5.3"
 }
