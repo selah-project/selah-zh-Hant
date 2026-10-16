@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 114,
+  "ref": "psalms 119:114",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתה",
+      "rationale": "希伯來代名詞在句首作謂語用，中文需加繫詞「是」"
+    },
+    {
+      "kind": "addition",
+      "subject": "又是",
+      "rationale": "中文連詞，希伯來文以詞首 ו 承擔"
+    }
+  ],
+  "translation": "你是我的藏身處，又是我的盾牌；我仰望你的話。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0012912ccfab3190faede15b8ae883b42dc59729d781b0882da2feb139e89989",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/113-116.1792144880499.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סתרי",
+      "gloss": "我的藏身處"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "又是我的盾牌"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你是"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "你的話"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "我仰望"
+    }
+  ],
+  "timestamp": "2026-10-16T10:01:20.499823475Z",
+  "model": "glm-5.3"
+}

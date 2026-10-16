@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נקם ינקם",
+      "rationale": "動詞疊語「報復，必被報復」，強調必定受罰"
+    },
+    {
+      "kind": "crux",
+      "subject": "נקם",
+      "rationale": "字根意為「報仇」；和合本作「受刑罰」，譯法有「被報復／被懲罰」之爭"
+    }
+  ],
+  "translation": "若人用棍打 ⟨את⟩ 他的男僕或 ⟨את⟩ 他的女僕，僕人死在他的手下，他必被懲罰。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d5352c7f5f844fac632059f2264444e8979e24fa55031a1f48b238c59e18606d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/21\/17-20.1792126177990.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "若"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "打"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的男僕"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "他的男僕"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的女僕"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "他的女僕"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "用棍"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "死"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "在……之下"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "他的手"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "懲罰"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "必被懲罰"
+    }
+  ],
+  "timestamp": "2026-10-16T04:49:37.992146150Z",
+  "model": "glm-5.3"
+}

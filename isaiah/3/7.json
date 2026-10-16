@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישא",
+      "rationale": "נשא 可作「舉聲」（asv）或「起誓」（kuv\/jps，由 הרים יד 縮略）；此處取「起誓」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חבש",
+      "rationale": "字面為「包紮者」（裹傷的人）；KJV 譯 healer 為引申義。"
+    },
+    {
+      "kind": "you",
+      "subject": "對百姓",
+      "rationale": "拒絕者直接對眾人說話。"
+    }
+  ],
+  "translation": "那日他必起誓說：我必不作裹傷的人，因為我家中沒有餅，也沒有外衣，你們不可立我作百姓的官長。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8caa9ba7f17fbdff8bfa49a025950000c275335c4dfa940f91596b8922267569",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/3\/5-8.1792134503372.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "他必起誓〈說〉"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在那日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "那"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "我必作"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "裹傷的人"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "而在我家中"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "也沒有"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "外衣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "你們立我"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "官長"
+    },
+    {
+      "surface": "עם",
+      "gloss": "百姓的"
+    }
+  ],
+  "timestamp": "2026-10-16T07:08:23.373813292Z",
+  "model": "glm-5.3"
+}

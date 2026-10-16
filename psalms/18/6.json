@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "（陰間）",
+      "rationale": "示阿勒首次出現，依紀律加括註。"
+    },
+    {
+      "kind": "crux",
+      "subject": "קדמוני",
+      "rationale": "字面「在我面前」，可作「先於我（攔阻）」（KJV 的 prevented 是舊義）或「迎面對抗我」。"
+    }
+  ],
+  "translation": "示阿勒（陰間）的繩索四面圍住我，死亡的網羅迎面而來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ba9860e17bc2d3b95092939356ff36087dcf98587ed75d1aacf106c838a4c4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/18\/5-8.1792143374452.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "示阿勒的繩索"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "示阿勒（陰間）"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "四面圍住我"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "迎面而來"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "死亡的網羅"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死亡"
+    }
+  ],
+  "timestamp": "2026-10-16T09:36:14.453960888Z",
+  "model": "glm-5.3"
+}

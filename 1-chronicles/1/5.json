@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "：",
+      "rationale": "希伯來文名單前無動詞或繫詞，中文以冒號引出名單"
+    },
+    {
+      "kind": "measurement",
+      "subject": "家譜名單",
+      "rationale": "閃族譜系的世代計數，創10章平行"
+    }
+  ],
+  "translation": "雅弗的兒子：歌篾、瑪各、瑪代、雅完、土巴、米設、提拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "546c94284ef12ced0d55276aac6c88de94b4219db0e22611faddcdc5cf0b7ea4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/1\/5-8.1792148286572.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "雅弗"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "歌篾"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "瑪各"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "瑪代"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "雅完"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "土巴"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "米設"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "提拉"
+    }
+  ],
+  "timestamp": "2026-10-16T10:58:06.572764437Z",
+  "model": "glm-5.3"
+}

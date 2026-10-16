@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "〈牲畜〉",
+      "rationale": "希伯來文受詞未明言，中文需補出所借之物"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלם ישלם",
+      "rationale": "不定式絕對加動詞的疊用強調「必全然賠還」，中文以「照樣賠還」補償"
+    },
+    {
+      "kind": "crux",
+      "subject": "טרפה（被撕裂）vs ישאל（借用）",
+      "rationale": "希伯來文此節講借用之物受損（依JPS），KJV傳統據不同母本作「被撕裂」，此處依希伯來文本"
+    }
+  ],
+  "translation": "若有人向鄰舍借用〈牲畜〉，牠被折斷或死了，而牠的主人不在與牠同在之處，他必照樣賠還。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dbfb1c578c3168f2288e95847263f2e33eaea289897796e79e8ac31cea707c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/22\/13-16.1792126143622.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "若"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "借用"
+    },
+    {
+      "surface": "איש",
+      "gloss": "有人"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "向"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "鄰舍"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "被折斷"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死了"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "牠的主人"
+    },
+    {
+      "surface": "אין",
+      "gloss": "不在"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "與牠同在"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "賠還"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "必照樣賠還"
+    }
+  ],
+  "timestamp": "2026-10-16T04:49:03.623463804Z",
+  "model": "glm-5.3"
+}

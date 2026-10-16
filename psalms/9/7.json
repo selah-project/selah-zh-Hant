@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרבות",
+      "rationale": "חרבות 可讀作名詞複數『荒場』（KJV『毀滅已終結』）或形容詞『荒涼的』（ASV『永遠荒涼』）"
+    },
+    {
+      "kind": "crux",
+      "subject": "האויב",
+      "rationale": "KJV 作呼格『仇敵啊』；ASV 作主詞『仇敵已終結』，此取後者"
+    }
+  ],
+  "translation": "仇敵已滅盡，荒涼直到永遠；你拔出的眾城，他們的記念也隨之消滅。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "974f917c30c54269f00818dc932492fe7ef12b611bfdb0a0e63d7d7aeb0e2fca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/9\/5-8.1792143269459.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "仇敵"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "已滅盡"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "荒涼"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "直到永遠"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "而眾城"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "你拔出"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "消滅"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "他們的記念"
+    },
+    {
+      "surface": "המה",
+      "gloss": "隨之（他們）"
+    }
+  ],
+  "timestamp": "2026-10-16T09:34:29.460535084Z",
+  "model": "glm-5.3"
+}

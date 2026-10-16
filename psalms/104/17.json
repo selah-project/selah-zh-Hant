@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חסידה",
+      "rationale": "鸛鳥一詞與「慈愛」（חסד）同根，字面是「慈愛之鳥」，中文失去此聯結"
+    },
+    {
+      "kind": "crux",
+      "subject": "ברושים",
+      "rationale": "此樹種不確定：柏樹、松樹或柏香木，各家譯法不一"
+    },
+    {
+      "kind": "addition",
+      "subject": "以……為",
+      "rationale": "中文需要介系結構把「柏樹」與「她的家」連起來，希伯來文僅並列"
+    }
+  ],
+  "translation": "在那裡，飛鳥造〈它們的〉巢；鸛鳥以柏樹為牠的家。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4906a052b5537e6a05aaea946159345b7b9ba26f4c52b35185186f363c706637",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/104\/17-20.1792144603750.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "在那裡"
+    },
+    {
+      "surface": "שם",
+      "gloss": "那裡"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "飛鳥"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "造巢"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "鸛鳥"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "柏樹"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "牠的家"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:43.750597291Z",
+  "model": "glm-5.3"
+}

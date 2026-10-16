@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מצרים במצרים",
+      "rationale": "同詞相疊的內戰句式，連同後四組「X 攻 X」構成階梯式排比。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "סכסכתי",
+      "rationale": "字根本義交織、圍攏，引申挑撥攪動，譯作「使相爭」。"
+    }
+  ],
+  "translation": "我必使埃及人與埃及人相爭，他們各人要攻打自己的弟兄，各人攻打自己的鄰舍；城攻城，國攻國。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5010e7714df50176ee4659e1bf0f70245b8102ea7f0110541ad7f01c6d89ca1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/19\/1-4.1792134920769.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "我必使相爭"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "與埃及"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "他們要攻打"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "自己的弟兄"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "自己的鄰舍"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "攻城"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "國"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "攻國"
+    }
+  ],
+  "timestamp": "2026-10-16T07:15:20.769970132Z",
+  "model": "glm-5.3"
+}

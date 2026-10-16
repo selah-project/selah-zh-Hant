@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-kings 17:31",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נבחז · תרתק",
+      "rationale": "匿哈斯與他珥他僅出現於此，是亞瓦人的神明名。"
+    },
+    {
+      "kind": "elision",
+      "subject": "ואת",
+      "rationale": "「匿哈斯和⟨את⟩他珥他」：ו附於את之上，記號家族一員，一併標出。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אלה",
+      "rationale": "此處אלה指異教神明，譯「神明」；ראשונים抄本作אלהי，皆指西法瓦音的偶像。"
+    }
+  ],
+  "translation": "亞瓦人造了匿哈斯和 ⟨את⟩ 他珥他，西法瓦音人用火焚燒 ⟨את⟩ 自己的兒女獻給亞得米勒和亞拿米勒——這些是西法瓦音的神明。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e7a9fd96d5094ea5756417e9379bfc887e1595f4de89c7f600885bbe247f3c51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/17\/29-32.1792134111359.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "亞瓦人"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "造了"
+    },
+    {
+      "surface": "נבחז",
+      "gloss": "匿哈斯"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "和⟨את⟩",
+      "marks": "他珥他"
+    },
+    {
+      "surface": "תרתק",
+      "gloss": "他珥他"
+    },
+    {
+      "surface": "והספרוים",
+      "gloss": "西法瓦音人"
+    },
+    {
+      "surface": "שרפים",
+      "gloss": "焚燒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自己的兒女"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "他們的兒子"
+    },
+    {
+      "surface": "באש",
+      "gloss": "在火中"
+    },
+    {
+      "surface": "לאדרמלך",
+      "gloss": "給亞得米勒"
+    },
+    {
+      "surface": "וענמלך",
+      "gloss": "和亞拿米勒"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "神明"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "西法瓦音的"
+    }
+  ],
+  "timestamp": "2026-10-16T07:01:51.360624863Z",
+  "model": "glm-5.3"
+}

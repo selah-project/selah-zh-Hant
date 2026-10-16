@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 4:35",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "括號結構",
+      "rationale": "希伯來文連續串接的「某某的兒子」，中文以括號分層以免誤讀為平列人名"
+    },
+    {
+      "kind": "measurement",
+      "subject": "人名清單",
+      "rationale": "本節為家譜名單，屬譜系計數語境"
+    }
+  ],
+  "translation": "還有約珥、約示比雅的兒子耶戶（約示比雅是西萊雅的兒子，西萊雅是亞西伊勒的兒子）。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "701382f13ba3fd654e152d7b2e66e979eb176407587e13cf211b54bd81237362",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/4\/33-36.1792148379952.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "還有約珥"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "耶戶"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "約示比雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "西萊雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "עשיאל",
+      "gloss": "亞西伊勒"
+    }
+  ],
+  "timestamp": "2026-10-16T10:59:39.953314744Z",
+  "model": "glm-5.3"
+}

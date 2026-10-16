@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "隱藏的伊勒",
+      "rationale": "「你是隱藏自己的神」是《以賽亞書》著名的「隱藏之神」宣告——救恩臨到，神自己卻隱藏；歷代譯本一致保留此弔詭。"
+    },
+    {
+      "kind": "addition",
+      "subject": "一位",
+      "rationale": "希伯來文無冠詞於同位語結構中，中文量詞「一位」為語法所需，未加括號以存語流。"
+    }
+  ],
+  "translation": "實在，你是一位隱藏自己的伊勒，以色列的以羅欣，拯救者。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9e62b5db0250147545135f847ad71328911d10f98a2dbd09f1ceabb96b31fc1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/45\/13-16.1792135562101.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "實在"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "隱藏自己"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "的以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "拯救者"
+    }
+  ],
+  "timestamp": "2026-10-16T07:26:02.102429178Z",
+  "model": "glm-5.3"
+}

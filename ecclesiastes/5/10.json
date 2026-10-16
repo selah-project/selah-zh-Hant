@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברבות…רבו",
+      "rationale": "同一詞根「增多」重複：財物增多、消耗者增多，中文無法保留"
+    },
+    {
+      "kind": "addition",
+      "subject": "它",
+      "rationale": "中文需要受詞，希伯來文以詞尾代名詞表達"
+    }
+  ],
+  "translation": "財物增多的時候，吃〈它〉的人也增多；擁有者有什麼益處呢？不過是讓自己的眼睛觀看而已。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4632ec4aaa2098b83ecc721b2b13f6a0616dadb8765a466c0c091d42c1aeb6c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/5\/9-12.1792146922687.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "增多的時候"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "財物"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "增多"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "吃它的人"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "有什麼"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "益處"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "擁有者"
+    },
+    {
+      "surface": "כי",
+      "gloss": "不過"
+    },
+    {
+      "surface": "אם",
+      "gloss": "只是"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "觀看"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "自己的眼睛"
+    }
+  ],
+  "timestamp": "2026-10-16T10:35:22.687902127Z",
+  "model": "glm-5.3"
+}

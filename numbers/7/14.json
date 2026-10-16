@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "舍客勒",
+      "rationale": "希伯來文只寫「十（舍客勒）」，重量單位由上下文補出。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "勺",
+      "rationale": "כף 本義是手掌、掌心；此處指手掌形的小器皿，譯作「勺」。"
+    }
+  ],
+  "translation": "一個金勺，重十舍客勒，盛滿了香。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c846c29cdc00f52bdd43dc2eaa122f53da1229b0a0b968d0f135893ae8328980",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/7\/13-16.1792127555691.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "勺"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一個"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "盛滿"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "香"
+    }
+  ],
+  "timestamp": "2026-10-16T05:12:35.692064316Z",
+  "model": "glm-5.3"
+}

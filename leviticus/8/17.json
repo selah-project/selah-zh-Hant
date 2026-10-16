@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "雅威",
+      "rationale": "יהוה 音譯為雅威，不用「耶和華」或「主」"
+    }
+  ],
+  "translation": "至於 ⟨את⟩ 那公牛、⟨את⟩ 牠的皮、⟨את⟩ 牠的肉和 ⟨את⟩ 牠的糞，他都用火焚燒在營外，正如雅威所吩咐 ⟨את⟩ 摩西的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cdcc32fdaa6fd5fce3931bc5577404b4845e3461ebe4387eb24531f412ee490f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/8\/17-20.1792126854492.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "那公牛"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "那公牛"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "牠的皮"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "牠的皮"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "牠的肉"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "牠的肉"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "牠的糞"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "牠的糞"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "焚燒"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "在外面"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "正如"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "吩咐"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩西"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    }
+  ],
+  "timestamp": "2026-10-16T05:00:54.492837843Z",
+  "model": "glm-5.3"
+}

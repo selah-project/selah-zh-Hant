@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 13:17",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שמעו שמוע",
+      "rationale": "不定詞絕對型加強命令語氣——「聽啊，細聽」，中文以「請細聽」收攏"
+    },
+    {
+      "kind": "invitation",
+      "subject": "全節",
+      "rationale": "約伯對三友的召喚——「請聽我的陳訴」"
+    }
+  ],
+  "translation": "請細聽我的話語，我的陳訴也入你們的耳中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "af8155e1ebacaefae083116b7972d514a09ef593f1a17cd829fbf19eda2cc4e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/13\/17-20.1792145983548.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "請細聽"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "細聽"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "我的話語"
+    },
+    {
+      "surface": "ואחותי",
+      "gloss": "我的陳訴"
+    },
+    {
+      "surface": "באזניכם",
+      "gloss": "你們的耳中"
+    }
+  ],
+  "timestamp": "2026-10-16T10:19:43.548611476Z",
+  "model": "glm-5.3"
+}

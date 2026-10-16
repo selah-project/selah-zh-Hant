@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "在哪裡（重複）",
+      "rationale": "原文單一איו統攝全列；中文重複疑問詞以成自然排比"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלך 三次重複",
+      "rationale": "三個「王」的排比嘲諷，中文保留三次重複"
+    }
+  ],
+  "translation": "哈馬的王在哪裡？亞珥拔的王在哪裡？西法瓦音城的王、希拿和以瓦的王又在哪裡？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cfd5c4226dd0b1eed32ed21ef90266ae0942232603bacbd8db7e45d934a36314",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/19\/13-16.1792134142321.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "在哪裡"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "哈馬"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "和王"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "亞珥拔"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "和王"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "城的"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "西法瓦音"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "希拿"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "和以瓦"
+    }
+  ],
+  "timestamp": "2026-10-16T07:02:22.322469407Z",
+  "model": "glm-5.3"
+}

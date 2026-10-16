@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ביתה",
+      "rationale": "「在家中」（JPS）對比「在家族中」（KJV「in families」）；ביתה 是帶方向詞尾的「往家中」。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "צחיחה",
+      "rationale": "「乾旱灼熱之地」——此詞於《塔納赫》中僅見於此處。"
+    },
+    {
+      "kind": "crux",
+      "subject": "בכושרות",
+      "rationale": "כושרות 複數形意「富足／昌盛」（ASV）；KJV 讀作「鎖鏈之中」（bo-shrōt 串字）。"
+    }
+  ],
+  "translation": "以羅欣使孤獨者安居在家中，領被囚的出來進入富足；惟有悖逆的人住在乾旱灼熱之地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d0d34de8574f5ca09af12f3c917fe14629431bc70132e977351d89f717c99169",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/68\/5-8.1792144062821.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "使……安居"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "孤獨者"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "在家中"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "領……出來"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "被囚的"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "進入富足"
+    },
+    {
+      "surface": "אך",
+      "gloss": "惟有"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "悖逆的人"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "住在"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "乾旱灼熱之地"
+    }
+  ],
+  "timestamp": "2026-10-16T09:47:42.822794979Z",
+  "model": "glm-5.3"
+}

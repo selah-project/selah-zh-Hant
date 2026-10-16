@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "同上節的誓言條件式「我若」；多數譯本作否定句「我不給」，希伯來文無否定詞"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתן",
+      "rationale": "直譯「給」；中文以「容」表達「給眼睛睡覺」的使役結構"
+    }
+  ],
+  "translation": "我不容我的眼睛睡覺，不容我的眼皮打盹，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "50160d280066b0494859aabfcbb8bb1f0ae07e90f934b48a4e3f5fdb316ab3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/132\/1-4.1792144956284.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "我不容"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "睡覺"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "我的眼睛"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "我的眼皮"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "打盹"
+    }
+  ],
+  "timestamp": "2026-10-16T10:02:36.285498222Z",
+  "model": "glm-5.3"
+}

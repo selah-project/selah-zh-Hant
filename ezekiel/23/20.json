@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 23:20",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פלגשיהם",
+      "rationale": "פילגש本指妾／情夫；JPS 讀作「與他們同居之淫慾」，多數譯本作「他們的情夫」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "זרמת",
+      "rationale": "字面為液體的湧流、精液的湧出；委婉作「湧流」保留原字形"
+    }
+  ],
+  "translation": "她戀慕他們的情夫，他們的肉如驢的肉，他們的湧流如馬的湧流。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e8bced39adb3596534f00a4184fafed1cde2a15a62220c9996dbf1342702bb30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/23\/17-20.1792138577589.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותעגבה",
+      "gloss": "她戀慕"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "פלגשיהם",
+      "gloss": "他們的情夫"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "他們"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "חמורים",
+      "gloss": "驢"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "他們的肉"
+    },
+    {
+      "surface": "וזרמת",
+      "gloss": "而……的湧流"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "馬"
+    },
+    {
+      "surface": "זרמתם",
+      "gloss": "他們的湧流"
+    }
+  ],
+  "timestamp": "2026-10-16T08:16:17.590934787Z",
+  "model": "glm-5.3"
+}

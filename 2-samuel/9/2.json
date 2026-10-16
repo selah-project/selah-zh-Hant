@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 9:2",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "有人",
+      "rationale": "希伯來文用未指明主語的複數動詞 ויקראו，中文加「有人」表達。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "是",
+      "rationale": "האתה 是疑問代名詞「你嗎」，中文需加動詞「是」。"
+    }
+  ],
+  "translation": "掃羅家有一個僕人，名叫洗巴。有人叫他來見大衛，王問他說：「你是洗巴嗎？」他說：「僕人正是。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0c217938e14325f5325a284796e91a7b0780ca7e6b13ad5c2d823e880afc207a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/9\/1-4.1792131855983.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "家有"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "一個僕人"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "名叫"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "洗巴"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "有人叫他來"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "אל",
+      "gloss": "見"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "問"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "他"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "你是……嗎"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "洗巴"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "僕人正是"
+    }
+  ],
+  "timestamp": "2026-10-16T06:24:15.984756378Z",
+  "model": "glm-5.3"
+}

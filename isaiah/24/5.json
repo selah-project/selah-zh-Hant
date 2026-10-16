@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 24:5",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "妥拉",
+      "rationale": "תורת 在此為複數，仍以「妥拉」一形到底；不譯作「律法」"
+    },
+    {
+      "kind": "crux",
+      "subject": "חנפה",
+      "rationale": "字根義為褻瀆、玷污：KJV「defiled」、Geneva「deceiveth」——取玷污義"
+    }
+  ],
+  "translation": "這地在其居民底下被玷污，因為他們越過了妥拉、更改了定例、背棄了永遠的約。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1c403e2cd84d7ebd52de58084e75109544b1c2e7e18dbf3110537078f8ab4105",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/24\/5-8.1792134992881.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "這地"
+    },
+    {
+      "surface": "חנפה",
+      "gloss": "被玷污"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "在……底下"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "其居民"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "越過了"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "妥拉"
+    },
+    {
+      "surface": "חלפו",
+      "gloss": "更改了"
+    },
+    {
+      "surface": "חק",
+      "gloss": "定例"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "背棄了"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-10-16T07:16:32.881832739Z",
+  "model": "glm-5.3"
+}

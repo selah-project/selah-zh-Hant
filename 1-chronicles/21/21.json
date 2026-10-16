@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 21:21",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "那裡",
+      "rationale": "中文需要補出方位詞，希伯來文只說「到阿爾南」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "臉伏於地",
+      "rationale": "אפים字面是「鼻孔／臉」，雙數形；譯作「臉」以合中文"
+    }
+  ],
+  "translation": "大衛來到阿爾南那裡，阿爾南觀看，看見⟨את⟩大衛，就從打穀場出來，臉伏於地向大衛下拜。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b26c591b4ee2fe6678ef577f603db03d64996dfbd7849537e334a40be68ce653",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/21\/21-24.1792148900084.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "阿爾南"
+    },
+    {
+      "surface": "ויבט",
+      "gloss": "觀看"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "阿爾南"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "出來"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "打穀場"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "下拜"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "向大衛"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "臉"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "向地"
+    }
+  ],
+  "timestamp": "2026-10-16T11:08:20.084748237Z",
+  "model": "glm-5.3"
+}

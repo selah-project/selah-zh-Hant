@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "魯阿",
+      "rationale": "רוח 譯作「魯阿（靈）」，此處指審判的氣息／精神，不是風"
+    },
+    {
+      "kind": "crux",
+      "subject": "把戰事逐回城門",
+      "rationale": "משיבי מלחמה שערה：或指「使戰爭轉回城門」（退敵於城下），或指「從戰場歸回城門」的戰士"
+    }
+  ],
+  "translation": "並作審判的魯阿（靈），給坐審判之位的；又作力量，給那把戰事逐回城門的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d009954a72b2c994961dde176f4f309a37b9330fd8a4345c3882541b99b39e2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/28\/5-8.1792135057232.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "並作…的魯阿"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "給坐…位的"
+    },
+    {
+      "surface": "על",
+      "gloss": "於"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "又作力量"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "把…逐回的"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戰事"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "城門"
+    }
+  ],
+  "timestamp": "2026-10-16T07:17:37.233369248Z",
+  "model": "glm-5.3"
+}

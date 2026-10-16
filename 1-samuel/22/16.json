@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מות תמות",
+      "rationale": "不定詞絕對型加動詞的強調結構：「死，你必死」＝你必死無疑，中文以「必死」表達"
+    },
+    {
+      "kind": "you",
+      "subject": "to Ahimelech",
+      "rationale": "王直接向亞希米勒宣判死刑"
+    }
+  ],
+  "translation": "王說：「亞希米勒啊，你和你父的全家都必死。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fd62a7b52c9047b14fe1ac45fa93f9b807c18850d3097395a99c3952491bd8a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/22\/13-16.1792131391000.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "必死"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "亞希米勒"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "全"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你父"
+    }
+  ],
+  "timestamp": "2026-10-16T06:16:31.002000244Z",
+  "model": "glm-5.3"
+}

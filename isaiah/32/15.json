@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "魯阿",
+      "rationale": "רוח 屬以羅欣／雅威，故音譯「魯阿」，首次括註「靈」；絕不用「聖靈」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מדבר／כרמל／יער",
+      "rationale": " 曠野—田園—森林三詞倒轉互換，中文按字面保留此逆轉結構"
+    },
+    {
+      "kind": "addition",
+      "subject": "於是",
+      "rationale": "והיה 承接上文作轉折，中文加「於是」"
+    }
+  ],
+  "translation": "直到魯阿（靈）從高處傾注在我們身上，曠野變為田園，田園被看為森林。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "54a4ee93ff5d9edc23a90bf916d9c00ba12541e2f3e4a68dd9dc01f389597b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/32\/13-16.1792135096215.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "傾注"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "在我們身上"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "魯阿（靈）"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "從高處"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "於是"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "變為田園"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "而田園"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "被看為森林"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "被算為"
+    }
+  ],
+  "timestamp": "2026-10-16T07:18:16.216585009Z",
+  "model": "glm-5.3"
+}

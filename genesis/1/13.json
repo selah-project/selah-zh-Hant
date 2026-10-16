@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "於是",
+      "rationale ": "中文需連接詞開句，希伯來文 waw 附於動詞"
+    }
+  ],
+  "translation": "於是有晚上，有早晨，第三日。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a6c8848f1ec5934cf37513f2c9cd4ebec9aad6c165f2a0036feef99f8b86fca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/1\/13-16.1792124534127.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "於是有"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "晚上"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "又有"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "早晨"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "第三"
+    }
+  ],
+  "timestamp": "2026-10-16T04:22:14.128069959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 2:16",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קטר\/יקטירון",
+      "rationale": "同一詞根的不定式絕對形與動詞並置——「燒吧，他們燒」——加強語氣，中文以「先……燒了」略過。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "生命",
+      "rationale": "נפש 本義為呼吸之生命體、喉嚨、食慾；此處「你נפש所渴望的」即你的胃口所想要的。"
+    },
+    {
+      "kind": "crux",
+      "subject": "כיום",
+      "rationale": "「照今日」可指「照今日慣例先燒脂油」，或如部分譯本讀為否定「不可遲延」；KJV 取後者。"
+    },
+    {
+      "kind": "you",
+      "subject": "獻祭的人對少年僕人",
+      "rationale": "本節為直接引語的對話衝突：敬拜者按律法力抗，僕人以強奪回應。"
+    }
+  ],
+  "translation": "那人若對他說：「先照今日的規矩把脂油燒了，然後你隨你生命所渴望的取吧」，他就回答：「不，你要現在就給；若不給，我就強行取走。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a66a902cbb32e94b06154aa409551a1a4108a20f827696d55518340d7eabdf4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/2\/13-16.1792130793281.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "那人"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "讓燒"
+    },
+    {
+      "surface": "יקטירון",
+      "gloss": "他們燒"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "照今日"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "脂油"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "然後取"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為你自己"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "所渴望的"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "你的生命"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "回答"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "כי",
+      "gloss": "的確"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "現在"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "你要給"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "我就取走"
+    },
+    {
+      "surface": "בחזקה",
+      "gloss": "強行"
+    }
+  ],
+  "timestamp": "2026-10-16T06:06:33.282618659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 109:28",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "咒詛／賜福",
+      "rationale": "קלל與ברך對立並置，構成全節的反諷結構"
+    },
+    {
+      "kind": "alternative",
+      "subject": "任憑他們咒詛",
+      "rationale": "יקללו可作祈願「願他們咒詛」或陳述「他們咒詛（卻無效）」，此處取後者語氣"
+    }
+  ],
+  "translation": "任憑他們咒詛，惟願你賜福；他們起來，必蒙羞，你的僕人卻要歡喜。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b36e15f242b8f3ef42b00063f66bc60f70bf1ed4009aa7c9406df4c942a989ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/109\/25-28.1792144713847.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקללו",
+      "gloss": "任憑他們咒詛"
+    },
+    {
+      "surface": "המה",
+      "gloss": "他們"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "惟願你"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "賜福"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "他們起來"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "必蒙羞"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "你的僕人"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "卻要歡喜"
+    }
+  ],
+  "timestamp": "2026-10-16T09:58:33.848724062Z",
+  "model": "glm-5.3"
+}

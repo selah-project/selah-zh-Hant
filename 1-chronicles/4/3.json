@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文需要"
+    },
+    {
+      "kind": "crux",
+      "subject": "伊坦之父",
+      "rationale": "אבי עיטם 可作「伊坦的父親」（家系稱號）或「伊坦城之父」，諸譯本分歧"
+    },
+    {
+      "kind": "measurement",
+      "subject": "家譜名單",
+      "rationale": "本節為猶大支派家譜中的名字列表"
+    }
+  ],
+  "translation": "這些是伊坦之父的後代：以斯列、伊施瑪、伊得巴施；他們姊妹的名字是哈洗勒帕尼。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d79713f6e0008d88764ecbc41ec42f7dcd9f49c737a243bbeae4eadb6ef8379a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/4\/3-4.1792149980891.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "這些是"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "之父"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "伊坦"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "以斯列"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "伊施瑪"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "伊得巴施"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "名字"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "他們姊妹的"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "哈洗勒帕尼"
+    }
+  ],
+  "timestamp": "2026-10-16T11:26:20.892084662Z",
+  "model": "glm-5.3"
+}

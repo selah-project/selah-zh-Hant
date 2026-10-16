@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 49:33",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "被收歸到他的百姓",
+      "rationale": "ויאסף אל עמיו 直譯「被收聚到他的民」，是死亡的委婉語，歷代譯本皆意譯"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויאסף……ויאסף",
+      "rationale": "同一動詞 ואסף 兩次出現（收腳、被收歸），中文無法保留此呼應"
+    },
+    {
+      "kind": "substitution",
+      "subject": "氣絕而死",
+      "rationale": "ויגוע 直譯「呼出氣息」，指斷氣"
+    }
+  ],
+  "translation": "雅各囑咐完了 ⟨את⟩ 他的眾子，就把腳收在床上，氣絕而死，被收歸到他的百姓⟨那裡⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0783602e0e28a75050c9216e4d55c54aea81a80cc2bb3bc6fe006d4b8b929fcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/49\/33-33.1792125635008.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "囑咐完了"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "לצות",
+      "gloss": "囑咐"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的眾子"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "他的眾子"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "就把……收"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "他的腳"
+    },
+    {
+      "surface": "אל",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "床上"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "氣絕而死"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "被收歸"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "他的百姓"
+    }
+  ],
+  "timestamp": "2026-10-16T04:40:35.008843823Z",
+  "model": "glm-5.3"
+}

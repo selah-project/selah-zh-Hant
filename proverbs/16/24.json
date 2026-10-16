@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 16:24",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "魂",
+      "rationale": "נפש本義是氣息、生命活力，非不朽的靈魂"
+    },
+    {
+      "kind": "addition",
+      "subject": "如同",
+      "rationale": "希伯來文無動詞，中文需繫詞連接比喻"
+    }
+  ],
+  "translation": "恩言如同蜂房的蜜，對魂甘甜，對骨頭是醫治。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a2a26b2926c5a6c9d78f47c4d95bc9e829814a7a6e93bf4af424907c3800658b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/16\/21-24.1792145442336.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צוף",
+      "gloss": "蜂房"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "蜜"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "言語"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "恩"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "甘甜"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "對魂"
+    },
+    {
+      "surface": "ומרפא",
+      "gloss": "是醫治"
+    },
+    {
+      "surface": "לעצם",
+      "gloss": "對骨頭"
+    }
+  ],
+  "timestamp": "2026-10-16T10:10:42.337959695Z",
+  "model": "glm-5.3"
+}

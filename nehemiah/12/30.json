@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "自己",
+      "rationale": "希伯來文 וַיִּטַּהֲרוּ 為不及物「成為潔淨」，中文補「自己」以別於下句的及物用法"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויטהרו／ויטהרו",
+      "rationale": "同一動詞根重複兩次（自潔與使潔），中文以「就……又……」保留節奏"
+    }
+  ],
+  "translation": "祭司和利未人就潔淨了自己，又潔淨了 ⟨את⟩ 百姓、⟨ואת⟩ 城門和 ⟨ואת⟩ 城牆。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2d8ceb953828e25d15639d1ac71a2ce37719ed517946bc71ae0940102cab399f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nehemiah\/12\/29-32.1792148244402.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "就潔淨了自己"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "和利未人"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "又潔淨了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "城門"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "城門"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "城牆"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "城牆"
+    }
+  ],
+  "timestamp": "2026-10-16T10:57:24.402825307Z",
+  "model": "glm-5.3"
+}

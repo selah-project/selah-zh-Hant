@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אצמית",
+      "rationale": "רָהַב\/צמת 爭議；KJV『cut off』、JPS『destroy』、BSB『put to silence』——我取『除滅』照字面拔除"
+    },
+    {
+      "kind": "substitution",
+      "subject": "心胸寬闊",
+      "rationale": "רְחַב לֵבָב 直譯『寬廣的心』，希伯來指傲慢自大，非中文『心胸開闊』的正面義"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מלושני",
+      "rationale": "לָשׁוֹן 的分詞形式此處特殊，全塔納赫僅此讒謀用法"
+    }
+  ],
+  "translation": "暗中讒謀鄰舍的，⟨אותו⟩ 我必除滅；眼目高傲、心胸寬闊的，我不能容 ⟨אתו⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "752dc5bdafb1c1ddfe14a1ce4d7bfa2679cce1bf0a40c35d771455eacfa97750",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/101\/5-8.1792144618030.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "讒謀"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "暗中"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "鄰舍"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "他（暗中讒謀者）"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "除滅"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "高傲"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "眼目"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "寬闊"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "心"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "他（眼目高傲者）"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "能容"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:58.030673809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 2:3",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גבהה גבהה",
+      "rationale": "同一詞重複兩次——「高傲、高傲」——疊語加強語氣；中文以「高傲的話」拆譯，重複的音效失落"
+    },
+    {
+      "kind": "crux",
+      "subject": "עתק",
+      "rationale": "字面是「傲慢、無禮之言」，各譯本作 arrogancy／狂妄；亦有人讀作「陳言、老話」（ylt: old saying）"
+    },
+    {
+      "kind": "you",
+      "subject": "向哈拿的仇敵與旁觀者",
+      "rationale": "複數命令式「你們不要」直接斥責聽者"
+    }
+  ],
+  "translation": "你們不要多說高傲的話，不要讓狂妄從你們口中而出，因雅威是知識的伊勒，行為被他衡量。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "de876f4b77ed6ae946f0fbcb09ebde86173e2e0da637a189c61241495c1bd821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/2\/1-4.1792130743125.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תרבו",
+      "gloss": "多"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "說"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "高傲的"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "話"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "而出"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "狂妄"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "從你們口中"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    },
+    {
+      "surface": "דעות",
+      "gloss": "知識"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "被他"
+    },
+    {
+      "surface": "נתכנו",
+      "gloss": "衡量"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "行為"
+    }
+  ],
+  "timestamp": "2026-10-16T06:05:43.126288778Z",
+  "model": "glm-5.3"
+}

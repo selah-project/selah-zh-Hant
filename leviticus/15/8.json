@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 15:8",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨那人⟩",
+      "rationale": "希伯來文省略主語，中文需指明是誰洗（經文指被唾吐的潔淨者，或按另解指患漏症者）"
+    },
+    {
+      "kind": "crux",
+      "subject": "主語",
+      "rationale": "וְכִבֶּס 的主語可指被唾吐的潔淨者（多數譯本），也可指患漏症者本人，希伯來文未明言"
+    }
+  ],
+  "translation": "患漏症者若唾吐在潔淨的人身上，⟨那人⟩要洗自己的衣服，在水裡洗澡，並且不潔淨直到傍晚。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "78721a5269acdcf92bcd6355f88ecfd946ea7775fe5d0303ea6a9804bbcc0e75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/15\/5-8.1792127047987.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "若"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "唾吐"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "患漏症者"
+    },
+    {
+      "surface": "בטהור",
+      "gloss": "在潔淨的人身上"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "要洗"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "自己的衣服"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "並且洗澡"
+    },
+    {
+      "surface": "במים",
+      "gloss": "在水裡"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "並且不潔淨"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "傍晚"
+    }
+  ],
+  "timestamp": "2026-10-16T05:04:07.989228152Z",
+  "model": "glm-5.3"
+}

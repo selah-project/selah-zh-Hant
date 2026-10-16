@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 4:16",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סררה סרר",
+      "rationale": "同一詞根連用兩次造成迴響——倔強的母牛／倔強，中文以重複「倔強」模擬"
+    },
+    {
+      "kind": "crux",
+      "subject": "ירעם",
+      "rationale": "或譯「雅威要牧放他們」（供應）或如JPS作問句「如今雅威豈能牧放他們？」語氣相反，諸本分歧"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כפרה",
+      "rationale": "字面為小母牛，象徵以色列難以駕馭，中文以母牛存其形"
+    }
+  ],
+  "translation": "因為以色列倔強，好像倔強的母牛；如今雅威要牧放他們，如同羊羔在寬闊之地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ca471d80ec8d40abda161aa9c1be7ab32dbac353c5a5b6d0422e21a295f85155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/4\/13-16.1792139389073.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "好像母牛"
+    },
+    {
+      "surface": "סררה",
+      "gloss": "倔強的"
+    },
+    {
+      "surface": "סרר",
+      "gloss": "倔強"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "如今"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "牧放他們"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ככבש",
+      "gloss": "如同羊羔"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "在寬闊之地"
+    }
+  ],
+  "timestamp": "2026-10-16T08:29:49.074562003Z",
+  "model": "glm-5.3"
+}

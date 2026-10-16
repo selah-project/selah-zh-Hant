@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אך",
+      "rationale": "「惟獨」帶出例外：反芻或缺其一者仍不可吃；JPS 讀作「只反芻而不分蹄」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "反芻",
+      "rationale": "מעלה גרה 直譯「把反芻之物帶上來」，沿用第 3 節的譯法保持一詞一形"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מפריס\/מפרסת",
+      "rationale": "分蹄的動詞在第 3、4 節間來回重複，形成潔淨與不潔淨的對照結構"
+    }
+  ],
+  "translation": "惟獨 ⟨את⟩ 這個，你們不可吃：在反芻的之中、在分蹄的之中——⟨את⟩ 駱駝，因為牠反芻，蹄卻不分，牠對你們是不潔淨的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f325a37d19a2507b9a81746b40d2b4bc2c77ccac2efe7b2611dcda5a2983ec1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/11\/1-4.1792126874047.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "惟獨"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這個"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "你們吃"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "在反芻的……之中"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "所反芻之物"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "和在分蹄的……之中"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "蹄"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "駱駝"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "駱駝"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "牠反芻"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "所反芻之物"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "牠"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "而蹄"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "不分"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "牠不裂開"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "不潔淨的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "牠"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "對你們"
+    }
+  ],
+  "timestamp": "2026-10-16T05:01:14.048299941Z",
+  "model": "glm-5.3"
+}

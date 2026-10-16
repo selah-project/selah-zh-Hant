@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 1:4",
+  "book": "ezra",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ינשאוהו \/ הנשאר",
+      "rationale": "「存留者」（נשאר）與「扶持／抬 起」（נשׂא）音近相映，中文難以保留"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ינשאוהו",
+      "rationale": "字面「抬起他」，意為「資助、幫助他上路」"
+    }
+  ],
+  "translation": "凡在寄居之地存留的人，那地的人要用銀子、金子、財物和牲畜幫助他，此外還要為在耶路撒冷的以羅欣的殿獻上甘心祭。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0d0afe178f53c17f1900fbf10b1510bab5300f96599edf87c84488a8386a832f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/1\/1-4.1792147777043.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "存留的人"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "在各"
+    },
+    {
+      "surface": "המקמות",
+      "gloss": "地方"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那裏"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "גר",
+      "gloss": "寄居"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裏"
+    },
+    {
+      "surface": "ינשאוהו",
+      "gloss": "要幫助（抬起）他"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "的人"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "他那地"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "用銀子"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "和金子"
+    },
+    {
+      "surface": "וברכוש",
+      "gloss": "和財物"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "和牲畜"
+    },
+    {
+      "surface": "עם",
+      "gloss": "連同"
+    },
+    {
+      "surface": "הנדבה",
+      "gloss": "甘心祭"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "為……的殿"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "在耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-10-16T10:49:37.044336190Z",
+  "model": "glm-5.3"
+}

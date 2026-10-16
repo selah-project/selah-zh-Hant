@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "亞比篩",
+      "rationale": "第二子句的主語希伯來文未寫明，由上下文補出。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ביד",
+      "rationale": "「交在……手中」是權柄交付的希伯來慣用語，中文沿用同樣說法。"
+    }
+  ],
+  "translation": "其餘的民，他交在≪⟨את⟩ 其餘的民≫他兄弟亞比篩手中，亞比篩就擺列陣勢迎擊亞捫人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8eebf12e4a91924ac82a487f94f9b05d103bfadeba2d6d16feef6b9b48e03179",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/10\/9-12.1792131905559.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "其餘的民"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "其餘的"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "交在"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手中"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "亞比篩"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "他兄弟"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "就擺列陣勢"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "迎擊"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "亞捫"
+    }
+  ],
+  "timestamp": "2026-10-16T06:25:05.560027672Z",
+  "model": "glm-5.3"
+}

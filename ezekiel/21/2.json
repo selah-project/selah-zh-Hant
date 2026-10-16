@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 21:2",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "〈言語〉",
+      "rationale": "והטף「滴下」的受詞在原文隱含，中文補出"
+    },
+    {
+      "kind": "crux",
+      "subject": "南方／耶路撒冷",
+      "rationale": "馬所拉文本作「提幔之路、南地、南方田野的森林」；許多英譯（KJV等）依串珠改讀為「耶路撒冷、聖所、以色列地」，JPS保留原文的南方意象"
+    },
+    {
+      "kind": "you",
+      "subject": "to 以西結",
+      "rationale": "直接稱呼「人子啊」"
+    }
+  ],
+  "translation": "人子啊，你要把你的臉轉向南方之路，向南地滴下〈言語〉，向南方田野的森林說預言。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7da1e21f133e764a4b43af5a86cf8c8724fe0d443257e6cbb7577235c82a2f04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/21\/1-4.1792138439239.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "人子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "שים",
+      "gloss": "把……轉向"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的臉"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "之路"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "南方"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "滴下"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "南地"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "說預言"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יער",
+      "gloss": "森林"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田野的"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "南方（南地）"
+    }
+  ],
+  "timestamp": "2026-10-16T08:13:59.240518443Z",
+  "model": "glm-5.3"
+}

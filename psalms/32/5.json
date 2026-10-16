@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "赦免",
+      "rationale": "נשאת 字面是「擔起、舉起」，在此擔走了罪孽的刑罰"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאתי...עון...חטאתי",
+      "rationale": "「罪」首尾呼應，中間夾著「罪孽」，希伯來文的交錯結構"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "音樂記號，依例譯作（細拉）"
+    }
+  ],
+  "translation": "我的罪，我要使你知曉；我的罪孽，我沒有遮掩。我說：「我要向雅威承認我的過犯」；你就赦免了我罪孽的罪。（細拉）",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "929057b53e058c483a4deb1586a4e22673d6879e0027ed784a7b0d1bb6aaec36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/32\/5-8.1792143514708.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "我的罪"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "我要使你知曉"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "我的罪孽"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "遮掩"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我說"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "承認"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "向"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "我的過犯"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "你就"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "赦免了"
+    },
+    {
+      "surface": "עון",
+      "gloss": "罪孽"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "我的罪"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "（細拉）"
+    }
+  ],
+  "timestamp": "2026-10-16T09:38:34.709312284Z",
+  "model": "glm-5.3"
+}

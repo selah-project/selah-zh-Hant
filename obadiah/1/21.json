@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "obadiah 1:21",
+  "book": "obadiah",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "所有",
+      "rationale": "中文需要「所有」補足歸屬語氣，希伯來文無此字"
+    },
+    {
+      "kind": "crux",
+      "subject": "מושעים",
+      "rationale": "「拯救者」複數——誰是這些拯救者，歷來眾說紛紜"
+    }
+  ],
+  "translation": "拯救者必上到錫安山，審判 ⟨את⟩ 以掃山；國度就歸雅威所有。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b295621b542ba1e56faee8a97993939a2201961f8685e4a6f5f824b62bb74a75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/obadiah\/1\/21-21.1792139733593.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועלו",
+      "gloss": "必上到"
+    },
+    {
+      "surface": "מושעים",
+      "gloss": "拯救者"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "山"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以掃山"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "就歸"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "國度"
+    }
+  ],
+  "timestamp": "2026-10-16T08:35:33.594461771Z",
+  "model": "glm-5.3"
+}

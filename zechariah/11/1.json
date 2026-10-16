@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "啊",
+      "rationale": "中文呼格需要語氣詞，希伯來文以呼格代詞後綴表達"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to 黎巴嫩",
+      "rationale": "向黎巴嫩發出的命令式呼喚，擬人化的 summons"
+    }
+  ],
+  "translation": "黎巴嫩啊，打開你的門，火必吞吃你的香柏樹。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4d06c052a5d3288cae7056fae9d50b3aab8cc71684e5f2d5bbc3d4156d482f88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/zechariah\/11\/1-4.1792143075789.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "打開"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "黎巴嫩"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "你的門"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "必吞吃"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "你的香柏樹"
+    }
+  ],
+  "timestamp": "2026-10-16T09:31:15.790111058Z",
+  "model": "glm-5.3"
+}

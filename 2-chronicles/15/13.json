@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 15:13",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "的",
+      "rationale": "中文關係結構需要連接詞，希伯來文用אשר一詞承擔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "קטן עד גדול",
+      "rationale": "「從小到大、從男到女」是全民事實上的全民清點式表述，無一豁免"
+    }
+  ],
+  "translation": "凡不尋求雅威——以色列的以羅欣——的，必被治死，從小到大，從男到女。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "51afa861ce45eb013f3a06037f7a5a4c4bc533205fe8818c5dd894991f7f455c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/15\/13-16.1792149360123.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "尋求"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "的以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "必被治死"
+    },
+    {
+      "surface": "למן",
+      "gloss": "從"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "小"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "למאיש",
+      "gloss": "從男"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女"
+    }
+  ],
+  "timestamp": "2026-10-16T11:16:00.124249223Z",
+  "model": "glm-5.3"
+}

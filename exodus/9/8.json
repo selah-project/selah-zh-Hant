@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 9:8",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "摩西和亞倫",
+      "rationale": "神直接命令的對象，命令式複數「你們抓」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "煙灰",
+      "rationale": "פיח字面為「輕吹即散的粉末」，煙灰／細塵"
+    },
+    {
+      "kind": "addition",
+      "subject": "牠",
+      "rationale": "中文需受詞代詞指煙灰"
+    }
+  ],
+  "translation": "雅威對摩西和亞倫說：「你們自己滿滿抓一把爐中的煙灰，摩西要把牠撒向天空，在法老眼前。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bd39f570aa916172511f2f0bdf97ee05281021bea126b548275b64ed02f44fa5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/9\/5-8.1792125871036.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "和對"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "你們抓"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "你們自己"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "滿滿"
+    },
+    {
+      "surface": "חפניכם",
+      "gloss": "一把（雙手）"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "煙灰"
+    },
+    {
+      "surface": "כבשן",
+      "gloss": "爐"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "要把牠撒"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "向天空"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "在…眼前"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    }
+  ],
+  "timestamp": "2026-10-16T04:44:31.038474496Z",
+  "model": "glm-5.3"
+}

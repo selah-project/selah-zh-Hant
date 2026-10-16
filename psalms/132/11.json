@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אמת",
+      "rationale": "אמת直譯「真理、確實」，作副詞修飾起誓，譯作「憑信實」"
+    },
+    {
+      "kind": "idiom",
+      "subject": "פרי בטנך",
+      "rationale": "「你腹中的果子」是後代的希伯來委婉語，照字面保留其形像"
+    }
+  ],
+  "translation": "雅威憑信實向大衛起了誓，必不從其中轉回：「我必從你腹中的果子，為你立⟨את⟩寶座。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "21d3a7d3ece29d0a1dc515129376c18e919ada20b7608f0a39f18748c174d874",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/132\/9-12.1792144958854.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "起了誓"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "向大衛"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "憑信實"
+    },
+    {
+      "surface": "לא",
+      "gloss": "必不"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "轉回"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "從其中"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "從……的果子"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "你腹中"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "我必立"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "寶座"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為你"
+    }
+  ],
+  "timestamp": "2026-10-16T10:02:38.855111420Z",
+  "model": "glm-5.3"
+}

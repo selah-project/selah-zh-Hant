@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 20:23",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אל",
+      "rationale": "首個אל按文意作「統管」（over），與第二處על同義，中文以同一詞對齊兩個希伯來介詞。"
+    },
+    {
+      "kind": "crux",
+      "subject": "הכרי והפלתי",
+      "rationale": "基利提人／比利提人：或為外族傭兵衛隊，或解作「執行者與奔跑者」；沿用專名音譯。"
+    }
+  ],
+  "translation": "約押統管以色列的全軍；耶何耶大的兒子比拿雅統管基利提人和比利提人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f23f03b26b43d6965d91580b567b05980f41a1d782a80f5b67c164994f2f107a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/20\/21-24.1792132185654.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "אל",
+      "gloss": "統管"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "軍"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "比拿雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "耶何耶大"
+    },
+    {
+      "surface": "על",
+      "gloss": "統管"
+    },
+    {
+      "surface": "הכרי",
+      "gloss": "基利提人"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "和統管"
+    },
+    {
+      "surface": "הפלתי",
+      "gloss": "比利提人"
+    }
+  ],
+  "timestamp": "2026-10-16T06:29:45.656400074Z",
+  "model": "glm-5.3"
+}

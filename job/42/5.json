@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "耳朵的聽見",
+      "rationale": "לשמע אזן 是「耳朵所聽見的」這一具體意象，直譯保留之"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמע\/שמעתיך",
+      "rationale": "「聽」的詞根在一句中兩次出現（名詞與動詞），中文無法重現此呼應"
+    }
+  ],
+  "translation": "從前我只憑耳朵的聽見聽聞你，如今我的眼親眼看見了你。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5db31f43f4df2a58f39b067c03851af0a814403ecfba73dcddd4ad016dfce239",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/42\/5-8.1792146575149.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "憑……的聽見"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "耳朵"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "我聽聞了你"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "而如今"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的眼"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "看見了你"
+    }
+  ],
+  "timestamp": "2026-10-16T10:29:35.149573979Z",
+  "model": "glm-5.3"
+}

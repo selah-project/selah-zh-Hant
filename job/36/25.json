@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨它⟩",
+      "rationale": "希伯來文 בו 的受詞由上文「他的作為」供給，中文補出代名詞"
+    },
+    {
+      "kind": "substitution",
+      "subject": "必朽的人",
+      "rationale": "אנושׁ 強調必死的凡人，與 אדם（人類）平行成對"
+    }
+  ],
+  "translation": "全人類都觀看⟨它⟩；必朽的人從遠處仰望。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9d0e647d59e2a844a09e99bb31d08222085fe8af42eb0c519d346a2c21dfc3ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/36\/25-28.1792146423038.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人類"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "都觀看"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨它⟩"
+    },
+    {
+      "surface": "אנושׁ",
+      "gloss": "必朽的人"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "仰望"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "從遠處"
+    }
+  ],
+  "timestamp": "2026-10-16T10:27:03.039220225Z",
+  "model": "glm-5.3"
+}

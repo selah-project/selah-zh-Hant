@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 25:21",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他和",
+      "rationale": "希伯來文無此代詞，中文需指明是瑪他提雅本人"
+    },
+    {
+      "kind": "addition",
+      "subject": "共十二人",
+      "rationale": "希伯來文僅說「十二」，中文補「人」以成句"
+    },
+    {
+      "kind": "measurement",
+      "subject": "第十二班次的抽籤",
+      "rationale": "本節屬廿四班次名單，數算聖殿樂師的分班"
+    }
+  ],
+  "translation": "第十四是瑪他提雅，他和他的兒子並他的弟兄共十二人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "59a03a1ea155556f77c2ba978f944335f7a1898dbfd511cbc946139df398d6d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/25\/21-24.1792148937211.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לארבעה",
+      "gloss": "第十四"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十四"
+    },
+    {
+      "surface": "מתתיהו",
+      "gloss": "瑪他提雅"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "他的兒子"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "並他的弟兄"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "十二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "（人）"
+    }
+  ],
+  "timestamp": "2026-10-16T11:08:57.212260451Z",
+  "model": "glm-5.3"
+}

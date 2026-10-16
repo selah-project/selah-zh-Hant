@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 28:2",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "銅",
+      "rationale": "נחושה 是銅；和合本「黃銅」為合金，非原文所指。"
+    }
+  ],
+  "translation": "鐵從塵土中被取出，石頭被熔出銅來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "52dae17b43d3f36ab5283c0c1e3c298701dda8eeb7cf35161e78385598fda6ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/28\/1-4.1792146300754.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "鐵"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "從塵土"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "被取出"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "和石頭"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "被熔出"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "銅"
+    }
+  ],
+  "timestamp": "2026-10-16T10:25:00.754960747Z",
+  "model": "glm-5.3"
+}

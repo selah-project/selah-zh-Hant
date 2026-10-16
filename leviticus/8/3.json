@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "會幕",
+      "rationale": "אהל מועד 直譯「相會之幕」，中文循會幕通稱"
+    }
+  ],
+  "translation": "又要將 ⟨את⟩ 全會眾聚集在會幕門口。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "359e61bd7e59f02f881d920ce9d384266db146429ce2f0bede128791870f4375",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/8\/1-4.1792126779079.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "又將⟨את⟩",
+      "marks": "全會眾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "אל",
+      "gloss": "在"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門口"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "（相會）之幕"
+    }
+  ],
+  "timestamp": "2026-10-16T04:59:39.081769261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 3:13",
+  "book": "habakkuk",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לישע…לישע",
+      "rationale": "「拯救」一詞重複兩次，希伯來詩的疊句，中文保留重複"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "音樂記號，音譯為「細拉」，不譯義"
+    },
+    {
+      "kind": "crux",
+      "subject": "ערות יסוד עד צואר",
+      "rationale": "「露出根基直到頸項」：或指惡人之家被連根拔起，或指身體被剝露至頸（士兵被淹沒於瓦礫之象）"
+    }
+  ],
+  "translation": "你出去拯救你的百姓，拯救 ⟨את⟩ 你的受膏者；你打碎了惡人之家的頭，露出根基直到頸項。細拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "45f117aa822882145116e35a6fa09473d570895da61666be3f0fb7885cb22b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/habakkuk\/3\/13-16.1792142797033.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצאת",
+      "gloss": "你出去"
+    },
+    {
+      "surface": "לישע",
+      "gloss": "拯救"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "לישע",
+      "gloss": "拯救"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的受膏者"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "你的受膏者"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "打碎"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "從…之家"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "露出"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "根基"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "頸項"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-10-16T09:26:37.037072455Z",
+  "model": "glm-5.3"
+}

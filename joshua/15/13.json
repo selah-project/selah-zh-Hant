@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 15:13",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אל פי יהוה",
+      "rationale": "字面「照雅威的口」，意即「照雅威所吩咐的」；中文按慣用語譯出。"
+    },
+    {
+      "kind": "addition",
+      "subject": "城",
+      "rationale": "קרית 本身即「城」，中文補「城」字以成自然地名語序。"
+    },
+    {
+      "kind": "crux",
+      "subject": "קרית ארבע",
+      "rationale": "「基列亞巴」＝「亞巴之城」；KJV 視亞巴為人名（亞衲之父），ASV\/JPS 同，此處按「亞衲族之父亞巴的城」保留兩面。"
+    },
+    {
+      "kind": "addition",
+      "subject": "受詞語序",
+      "rationale": "希伯來文動詞在前（נתן 給了），中文將「雅威吩咐約書亞」提前，屬語序調整。"
+    }
+  ],
+  "translation": "雅威吩咐約書亞，把一份產業分給耶孚尼的兒子迦勒，在猶大子孫中間，就是 ⟨את⟩ 基列亞巴——亞衲族之父亞巴的城，她就是希伯崙。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c9e7ae29ca2806b094a76972840b59ddc25e580f47128bbba2947d2dd006ac4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/15\/13-13.1792142412229.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולכלב",
+      "gloss": "給迦勒"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "耶孚尼"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "分給"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "一份產業"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "在……中間"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "אל",
+      "gloss": "按照"
+    },
+    {
+      "surface": "פי",
+      "gloss": "口（吩咐）"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ליהושע",
+      "gloss": "對約書亞"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "基列亞巴"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "基列（城）"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "亞巴"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "之父"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "亞衲族"
+    },
+    {
+      "surface": "היא",
+      "gloss": "她就是"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "希伯崙"
+    }
+  ],
+  "timestamp": "2026-10-16T09:20:12.230447063Z",
+  "model": "glm-5.3"
+}

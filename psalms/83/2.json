@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תחרש",
+      "rationale": "字根義為「雕刻、刻劃」，此處用作「緘默」；或譯「不作聲」"
+    },
+    {
+      "kind": "you",
+      "subject": "to 以羅欣",
+      "rationale": "詩人直接向以羅欣呼求"
+    }
+  ],
+  "translation": "以羅欣啊，不要向你靜默；不要閉口無言，也不要安息不動，伊勒啊。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "21d8328b83fadc756d7172552d095977548bff823a49a200eb389f27773326b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/83\/1-4.1792144357723.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "靜默"
+    },
+    {
+      "surface": "לך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "閉口無言"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "也不要"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "安息不動"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:37.723963864Z",
+  "model": "glm-5.3"
+}

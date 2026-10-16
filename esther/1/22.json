@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "esther 1:22",
+  "book": "esther",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שרר",
+      "rationale": "動詞「掌權、作主」在《塔納赫》中僅出現於此（並於10章同段重現一次），是稀用詞"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומדבר",
+      "rationale": "末句「說話」的主詞有歧義：每個男人用本族語言說話（ASV／JPS），抑或諭旨需用各族語言頒布（KJV）"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "一省一省、一族一族",
+      "rationale": "希伯來以名詞重複（מדינה ומדינה、עם ועם）表「各」「每一」，中文以疊字重現其節奏"
+    },
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "主詞「王」由上文延續，中文補「他」以明確施動者"
+    }
+  ],
+  "translation": "他差發文書到王的各省，一省一省照它的文字，一族一族照它的語言，使每個男人都在自己家中作主，並照他本族的語言說話。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d54ef545d9d1fad348253490efaf3383695f5d50ee92f440846b8d9698ad5fe0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/esther\/1\/21-22.1792147121928.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "他差發"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "文書"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "כל",
+      "gloss": "各"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "省"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "一省"
+    },
+    {
+      "surface": "ומדינה",
+      "gloss": "一省"
+    },
+    {
+      "surface": "ככתבה",
+      "gloss": "照它的文字"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "並到"
+    },
+    {
+      "surface": "עם",
+      "gloss": "一族"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "一族"
+    },
+    {
+      "surface": "כלשונו",
+      "gloss": "照它的語言"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "使……成為"
+    },
+    {
+      "surface": "כל",
+      "gloss": "每個"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男人"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "作主掌權"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "在自己家中"
+    },
+    {
+      "surface": "ומדבר",
+      "gloss": "並說話"
+    },
+    {
+      "surface": "כלשון",
+      "gloss": "照……的語言"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "他本族"
+    }
+  ],
+  "timestamp": "2026-10-16T10:38:41.929393001Z",
+  "model": "glm-5.3"
+}

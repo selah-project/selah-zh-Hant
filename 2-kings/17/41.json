@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "2-kings 17:41",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "於是",
+      "rationale": "ויהיו 敘事開頭動詞，中文以連詞承接"
+    },
+    {
+      "kind": "substitution",
+      "subject": "國族",
+      "rationale": "גויים 指外邦民族，此處指遷入撒瑪利亞的各民"
+    },
+    {
+      "kind": "crux",
+      "subject": "敬畏與事奉並行",
+      "rationale": "同時敬畏雅威又事奉偶像的混合宗教，是本章結語的尖銳指控"
+    }
+  ],
+  "translation": "於是這些國族敬畏 ⟨את⟩ 雅威，又事奉 ⟨את את⟩ ⟨את⟩ 他們的雕像；他們的兒子和他們的孫子也一樣，他們的祖宗怎樣行，他們就怎樣行，直到今日。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "780839612f5290f3f2f1611271345b764a2dacc02cb8b1ee28576f9b253199f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/17\/41-41.1792134019256.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "於是"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "這些國族"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "他們的雕像"
+    },
+    {
+      "surface": "פסיליהם",
+      "gloss": "他們的雕像"
+    },
+    {
+      "surface": "היו",
+      "gloss": "是"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "事奉"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "他們的兒子"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "和……的兒子"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "他們的孫子"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "怎樣"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "行"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "他們的祖宗"
+    },
+    {
+      "surface": "הם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "行"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    }
+  ],
+  "timestamp": "2026-10-16T07:00:19.257392123Z",
+  "model": "glm-5.3"
+}

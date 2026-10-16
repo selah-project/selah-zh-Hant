@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "孫子",
+      "rationale": "第二個 בן 指孫輩，中文需區分「兒子」與「孫子」"
+    },
+    {
+      "kind": "measurement",
+      "subject": "家譜與支派",
+      "rationale": "人名、父名、支派——名單式確認身分"
+    },
+    {
+      "kind": "you",
+      "subject": "to 摩西",
+      "rationale": "「看哪」（ראה）是對摩西的直接呼喚"
+    }
+  ],
+  "translation": "看哪，我已經提名召了比撒列——烏利的兒子、戶珥的孫子，屬猶大支派的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f6bf04b29791fe11920969691a6ef199183e7df34d81fc743f4f756ced92e8f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/31\/1-4.1792126366309.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "我已經召了"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "提名"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "比撒列"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "烏利"
+    },
+    {
+      "surface": "בן",
+      "gloss": "孫子"
+    },
+    {
+      "surface": "חור",
+      "gloss": "戶珥"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "屬……支派"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    }
+  ],
+  "timestamp": "2026-10-16T04:52:46.310473258Z",
+  "model": "glm-5.3"
+}

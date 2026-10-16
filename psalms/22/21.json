@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש是氣息、生命之力，不是靈魂"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחידתי",
+      "rationale": "「我孤單的」＝我獨一的生命／我所愛的；KJV作my darling，JPS作mine only one"
+    }
+  ],
+  "translation": "求你搶救我的性命脫離刀劍，脫離狗的爪，救我孤單的⟨那一位⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "989c506407807f19a4fb43f58f1bfc1569e7e6136cd123ef91e1a1adc5ab2b16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/22\/21-24.1792143417567.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "求你搶救"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "脫離刀劍"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "脫離……的爪"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "狗"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "我孤單的⟨那一位⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T09:36:57.567671648Z",
+  "model": "glm-5.3"
+}

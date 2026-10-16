@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "就是",
+      "rationale": "גבורי החיל 與前面名詞的同位關係，中文需連接詞標明"
+    },
+    {
+      "kind": "you",
+      "subject": "to 約書亞",
+      "rationale": "雅威直接向約書亞說話"
+    }
+  ],
+  "translation": "雅威對約書亞說：「看哪，我已將耶利哥和⟨את⟩它的王，就是其中的勇士，交在你手中。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "be71cc7ae851ab512c4d6208c291dcb6079c0db26b396ef784b36f0d9c454956",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/6\/1-4.1792129514695.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我已將……交給"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "在你手中"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶利哥"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "耶利哥"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "它的王"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "它的王"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "大能的"
+    }
+  ],
+  "timestamp": "2026-10-16T05:45:14.696139105Z",
+  "model": "glm-5.3"
+}

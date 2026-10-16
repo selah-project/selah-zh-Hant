@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 22:21",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שלוה",
+      "rationale": "「安逸」兼有平安與安舒之意，非單指物質興旺"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jerusalem\/猶大",
+      "rationale": "全段以陰性單數「你」直斥耶路撒冷"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דברתי…שמעת בקולי",
+      "rationale": "「我說話／你說不聽／你不聽我的聲音」首尾呼應，中文保留同一「聽」字"
+    }
+  ],
+  "translation": "我在你的安逸中對你說話，你卻說：「我不聽。」這是你自幼年以來的道路，因為你不聽我的聲音。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f30bdfacf814a6fb61166f402ed87f0688a5868da1959a1890c7653e347e5b16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/22\/21-24.1792136661701.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברתי",
+      "gloss": "我曾說話"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "בשלותיך",
+      "gloss": "在你的安逸中"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "你說"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "我聽"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "你的道路"
+    },
+    {
+      "surface": "מנעוריך",
+      "gloss": "自你的幼年"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "你聽"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "我的聲音"
+    }
+  ],
+  "timestamp": "2026-10-16T07:44:21.702343522Z",
+  "model": "glm-5.3"
+}

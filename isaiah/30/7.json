@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רהב הם שבת",
+      "rationale": "讀法分歧：『坐而不動的拉哈伯』（綽號）或『她們的力量乃是靜坐』（רהב 解作力量）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רהב",
+      "rationale": "字面『狂傲者』，埃及的綽號，此處音譯為拉哈伯以保留其名"
+    }
+  ],
+  "translation": "埃及是虛空、是徒然，他們的幫助如此；因此我稱她為坐而不動的拉哈伯。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f86a79f441d015c3194ba0b934e700b3fb902f89c004290e4fd563b6b813f74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/30\/5-8.1792135221940.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "而埃及"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "虛空"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "與徒然"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "幫助"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "因此"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "我稱"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "她"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "拉哈伯"
+    },
+    {
+      "surface": "הם",
+      "gloss": "她們是"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "坐而不動"
+    }
+  ],
+  "timestamp": "2026-10-16T07:20:21.942679353Z",
+  "model": "glm-5.3"
+}

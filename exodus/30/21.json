@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 30:21",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "這",
+      "rationale": "中文需主語指代前述的洗濯規定，希伯來文以 והיתה 承接，無獨立代詞"
+    },
+    {
+      "kind": "measurement",
+      "subject": "永遠定例",
+      "rationale": "חק עולם 是時間性的永久律例，屬按時間立定的命令"
+    }
+  ],
+  "translation": "他們要洗自己的手和自己的腳，免得死亡；這要成為給他、給他後裔的永遠定例，直到他們的世代。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ca7f449bb67ba31d4cd792cbf18ae969f174cf477e6c2dfd67966d4d55174123",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/30\/21-24.1792126321675.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "他們要洗"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "自己的手"
+    },
+    {
+      "surface": "ורגליהם",
+      "gloss": "和自己的腳"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "免得"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "死亡"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "這要成為"
+    },
+    {
+      "surface": "להם",
+      "gloss": "給他們"
+    },
+    {
+      "surface": "חק",
+      "gloss": "定例"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給他"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "和他的後裔"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "直到他們的世代"
+    }
+  ],
+  "timestamp": "2026-10-16T04:52:01.675892566Z",
+  "model": "glm-5.3"
+}

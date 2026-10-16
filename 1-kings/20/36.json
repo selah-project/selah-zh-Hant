@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 20:36",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "擊打",
+      "rationale": "ויכהו 字面「擊打」，上下文意即「擊殺」（和合本「咬死他」）；本譯保留原詞形。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הכך\/ויכהו",
+      "rationale": "「擊打」一詞在預言與應驗中重複（הִכְּךָ…וַיַּכֵּהוּ），預言與結局首尾呼應。"
+    }
+  ],
+  "translation": "他就對他說：「因為你沒有聽從雅威的聲音，看哪，你離開 ⟨את⟩ 我而去，獅子必擊打你。」他就離開他而去，獅子遇見他，擊打了他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8048adefe8470d0ef1272e65122f624efafa6dd840b7ea53b4abc1ecbd0475b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/20\/33-36.1792133343684.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "יען",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "你聽從"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "…的聲音"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "看哪你"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "去"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "離開⟨את⟩我",
+      "marks": "我"
+    },
+    {
+      "surface": "והכך",
+      "gloss": "必擊打你"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "獅子"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "去"
+    },
+    {
+      "surface": "מאצלו",
+      "gloss": "離開他"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "遇見他"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "獅子"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "擊打了他"
+    }
+  ],
+  "timestamp": "2026-10-16T06:49:03.685522798Z",
+  "model": "glm-5.3"
+}

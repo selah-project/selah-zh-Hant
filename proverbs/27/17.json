@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברזל בברזל יחד",
+      "rationale": "三個字同出 ב–ר–ז–ל 與 ח–ד 的音近結構，中文無法保留此頭韻。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "פני רעהו",
+      "rationale": "「磨利朋友的臉面」是希伯來成語，指使朋友敏銳、煥發，非字面磨臉。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יחד",
+      "rationale": "חדד 直譯「使之鋒利」，譯作「磨利」保留金屬意象。"
+    }
+  ],
+  "translation": "鐵因鐵而磨利，照樣，人磨利他朋友的臉面。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2840ef32a6fe4117536bd22a0a81525c5ecee1ea848f43839e422a5100d3ea99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/27\/17-20.1792145677822.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "鐵"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "因鐵"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "磨利"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "照樣，人"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "磨利"
+    },
+    {
+      "surface": "פני",
+      "gloss": "臉面"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "他朋友的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:14:37.822921195Z",
+  "model": "glm-5.3"
+}

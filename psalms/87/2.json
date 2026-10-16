@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מכל",
+      "rationale": "比較式的מן：「勝過一切的居所」而非「從一切的居所」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שערי ציון",
+      "rationale": "以城門（複數）代表整座城——以部分代全體，希伯來詩常見"
+    }
+  ],
+  "translation": "雅威愛錫安的城門，勝過雅各一切的居所。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8c6aa5064dd80e36c9debcb9f6ad6cf7edec2ad45144a997687deff431543d13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/87\/1-4.1792144452939.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "愛"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "的城門"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "勝過一切"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "居所"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    }
+  ],
+  "timestamp": "2026-10-16T09:54:12.940168047Z",
+  "model": "glm-5.3"
+}

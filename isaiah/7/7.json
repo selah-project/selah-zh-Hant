@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "這事",
+      "rationale": "希伯來兩個動詞無主語，中文需補出受言的陰謀"
+    },
+    {
+      "kind": "you",
+      "subject": "to 亞哈斯",
+      "rationale": "神諭藉以賽亞直接向亞哈斯說話，否定列國的計謀"
+    }
+  ],
+  "translation": "主阿多奈、雅威如此說：這事必不成立，也必不得成就。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "640d8293190f272fabcdc0aea2c767908b701cef362e9b29327a6f23c4f7ae4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/7\/5-8.1792134577511.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "如此"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לא",
+      "gloss": "必不"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "成立"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也必不"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "成就"
+    }
+  ],
+  "timestamp": "2026-10-16T07:09:37.512124650Z",
+  "model": "glm-5.3"
+}

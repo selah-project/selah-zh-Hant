@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 6:33",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "希伯來文無主語代詞，中文需補出受辱之人"
+    },
+    {
+      "kind": "crux",
+      "subject": "נגע",
+      "rationale": "'傷害'抑或皮膚的'災病'（如利未記）；此處取比喻義的打擊"
+    }
+  ],
+  "translation": "他必找到傷害和羞辱，他的恥辱必不被抹除。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d58f996a7edda261c7e9c2a410c7dc325e39f21154ffa18151f4705c378c9373",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/6\/33-35.1792145269979.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "傷害"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "和羞辱"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "他必找到"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "他的恥辱"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תמחה",
+      "gloss": "被抹除"
+    }
+  ],
+  "timestamp": "2026-10-16T10:07:49.980178787Z",
+  "model": "glm-5.3"
+}

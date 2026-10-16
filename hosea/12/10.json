@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "再住帳棚",
+      "rationale": "暗指住棚節（ Sukkot）——使以色列重回曠野的帳棚，既是刑罰也是節期的影像"
+    },
+    {
+      "kind": "addition",
+      "subject": "然而",
+      "rationale": "希伯來文 וְאָנֹכִי 僅「而我」，中文加轉折詞以承接上文以法蓮的自誇"
+    }
+  ],
+  "translation": "然而我雅威是你的以羅欣，自埃及地以來；我仍要使你再住帳棚，如定期節期的日子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "80e2c9bd12540df068d94b2119aa471aa93d58499d856da8b09f83710d002745",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/12\/9-12.1792139495447.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "然而我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "自…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "עד",
+      "gloss": "仍要"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "使你再住"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "在帳棚"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "如…的日子"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "定期節期"
+    }
+  ],
+  "timestamp": "2026-10-16T08:31:35.448107663Z",
+  "model": "glm-5.3"
+}

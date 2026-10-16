@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "管",
+      "rationale": "לממשלת本義為「以統治權管理」，直译「為……的管轄」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הגדל／הקטן",
+      "rationale": "大與小的對仗，日月的對照結構"
+    }
+  ],
+  "translation": "於是以羅欣造了 ⟨את⟩ 兩個大光體：⟨את⟩ 大的光體管晝，⟨את⟩ 小的光體管夜，又 ⟨את⟩ 眾星。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a6c8848f1ec5934cf37513f2c9cd4ebec9aad6c165f2a0036feef99f8b86fca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/1\/13-16.1792124534127.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "造了"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "兩個大光體"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩個"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "光體"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "大的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大的光體"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "光體"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "大的"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "管"
+    },
+    {
+      "surface": "היום",
+      "gloss": "晝"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "小的光體"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "光體"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "小的"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "管"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "眾星"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "眾星"
+    }
+  ],
+  "timestamp": "2026-10-16T04:22:14.128721910Z",
+  "model": "glm-5.3"
+}

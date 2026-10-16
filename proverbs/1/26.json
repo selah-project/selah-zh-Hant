@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "איד",
+      "rationale": "איד指災禍、毀滅；譯「遭災」，不譯「災禍降臨於你們」的角色語"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשחק\/אלעג",
+      "rationale": "兩個「笑」的動詞並列（發笑、嗤笑），回應愚昧者的嬉笑；中文以兩個笑詞對應"
+    }
+  ],
+  "translation": "你們遭災的時候，我也必發笑；你們的恐懼臨到時，我必嗤笑。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8aa0bee0f9ed0a3dbdfd274bb886b6fea05c99b175d56da705d11d11b9faefee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/1\/26-27.1792149957916.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "你們遭災的時候"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "發笑"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "嗤笑"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "臨到時"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "你們的恐懼"
+    }
+  ],
+  "timestamp": "2026-10-16T11:25:57.917029781Z",
+  "model": "glm-5.3"
+}

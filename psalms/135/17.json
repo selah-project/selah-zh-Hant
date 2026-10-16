@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "יש",
+      "rationale": "אין יש 連用，中文以「沒有」總括，יש 的強調式存在語氣隱沒"
+    },
+    {
+      "kind": "substitution",
+      "subject": "氣息",
+      "rationale": "רוח 在此指口中的氣息，非神聖之靈，故不譯「魯阿」的靈義"
+    }
+  ],
+  "translation": "它們有耳朵，卻不能聽；它們的口中也沒有氣息（魯阿）。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4a6e24b431fe6aaa6fe394a5d0f91720eaf49fbe44d5f758cca56e886d2e0025",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/135\/17-20.1792145001134.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "耳朵"
+    },
+    {
+      "surface": "להם",
+      "gloss": "它們有"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "卻不"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "能聽"
+    },
+    {
+      "surface": "אף",
+      "gloss": "也"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨有⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "氣息（魯阿）"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "在他們的口中"
+    }
+  ],
+  "timestamp": "2026-10-16T10:03:21.136083409Z",
+  "model": "glm-5.3"
+}

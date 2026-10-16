@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עצבותם",
+      "rationale": "עֶצֶב 本指偶像或疼痛／傷口；此處取「傷痛」，取疼痛義。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחבש",
+      "rationale": "原意為「包紮（如纏頭巾）」，比喻包裹傷口；畫面為紮緊繃帶。"
+    }
+  ],
+  "translation": "他醫治⟨那些⟩心裡破碎的人，包裹他們的傷痛。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cb78caf90e42f8052cac8ae819476a99a726aed4815ae9bd9e92bb6a0c62b24c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/147\/1-4.1792145136051.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "他醫治"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "破碎的"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "並且包裹"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "他們的傷痛"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:36.052605594Z",
+  "model": "glm-5.3"
+}

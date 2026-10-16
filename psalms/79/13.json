@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "至於我們",
+      "rationale": "中文語法所需的轉折語，希伯來文僅有 ואנחנו「而我們」"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לדר ודר",
+      "rationale": "字面「一代又一代」，譯作成語「世世代代」"
+    }
+  ],
+  "translation": "至於我們——你的子民，你牧場之羊群——我們要永遠稱謝你，世世代代述說你的讚美。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c2d8efcd060e2693b68eb0f38290a429a217c4e7e42a21345bad351431bfefdb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/79\/13-13.1792144307068.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "至於我們"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的子民"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "你牧場之"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "我們要稱謝"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "世世代代"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "（世）代"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "我們要述說"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "你的讚美"
+    }
+  ],
+  "timestamp": "2026-10-16T09:51:47.069232008Z",
+  "model": "glm-5.3"
+}

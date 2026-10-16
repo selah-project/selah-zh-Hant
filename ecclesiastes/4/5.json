@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "吃自己的肉",
+      "rationale": "חבק את ידיו「抱手」是懶惰的姿態；「吃自己的肉」意指自我毀滅，非字面食人"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "雙手",
+      "rationale": "ידיו 為複數，中文以「雙手」保留其形"
+    }
+  ],
+  "translation": "愚昧人抱著 ⟨את⟩ 自己的雙手，吃 ⟨את⟩ 自己的肉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "41e3a196145a68c09ccc0a255909c14ac6c33e4e140d40852bd667d3efda73d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/4\/5-8.1792146996781.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "愚昧人"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "抱著"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自己的雙手"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "自己的雙手"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "吃"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自己的肉"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "自己的肉"
+    }
+  ],
+  "timestamp": "2026-10-16T10:36:36.781716921Z",
+  "model": "glm-5.3"
+}

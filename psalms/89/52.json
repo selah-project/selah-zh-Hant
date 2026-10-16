@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרפו……חרפו",
+      "rationale": "「羞辱」在同一節重複兩次，前指羞辱雅威、後指羞辱受膏者的腳蹤，二者等同——這是本詩的高潮"
+    },
+    {
+      "kind": "substitution",
+      "subject": "腳蹤",
+      "rationale": "עקבות字面是「腳跟」引申為蹤跡；羞辱腳蹤即羞辱其人的一切行踪"
+    },
+    {
+      "kind": "you",
+      "subject": "向雅威",
+      "rationale": "呼語直接稱呼雅威"
+    }
+  ],
+  "translation": "你的仇敵雅威啊，他們所羞辱的，正是他們羞辱了你受膏者的腳蹤。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e3f51ecf2da9f0eb77773a7dae2e3cc21d1992659dc20733ce0fddece9ea6211",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/89\/49-52.1792144425769.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "所……的"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "他們羞辱"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "你的仇敵"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威啊"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所……的"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "他們羞辱"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "腳蹤"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "你受膏者的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:53:45.770645160Z",
+  "model": "glm-5.3"
+}

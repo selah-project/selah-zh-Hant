@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צדיק／בצדקו，רשע／ברעתו",
+      "rationale": "義人—他的義、惡人—他的惡的對稱結構，兩半互為鏡像"
+    },
+    {
+      "kind": "crux",
+      "subject": "מאריך",
+      "rationale": "字面是「使長」，可指延長壽命，亦可指持續作惡；譯作長壽是通行讀法"
+    }
+  ],
+  "translation": "⟨את⟩ 一切我都見過，在我虛空的日子裡：有義人在他的義中滅亡，也有惡人在他的惡中長久活著。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "74e5c7f773e7ba8b84ce3e17a78a44db15e665abca65d65accac573a568b0dc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/7\/13-16.1792147033818.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我都見過"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "在……的日子裡"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "我虛空的"
+    },
+    {
+      "surface": "יש",
+      "gloss": "有"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "滅亡"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "在他的義中"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "也有"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "長久活著"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "在他的惡中"
+    }
+  ],
+  "timestamp": "2026-10-16T10:37:13.819445944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "臂膀",
+      "rationale": "זרוע字義是「手臂」，此處喻指軍事援助；和合本「幫助」失其形像"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "音樂記號，音譯為「細拉」"
+    }
+  ],
+  "translation": "連亞述也與他們聯合，他們作了羅得子孫的臂膀。細拉",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4d68588690c2e339ec328024aca5ab55546f99503f443c98eeacd1737939e6bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/83\/9-12.1792144332929.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "連"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "聯合"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "與他們"
+    },
+    {
+      "surface": "היו",
+      "gloss": "作了"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "臂膀"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "羅得"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:12.929591859Z",
+  "model": "glm-5.3"
+}

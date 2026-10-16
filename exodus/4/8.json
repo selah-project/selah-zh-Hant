@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 4:8",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "記號的聲音",
+      "rationale": "לקול האות 直譯「記號的聲音」，記號發聲是希伯來式的擬人說法，各譯本多直存"
+    },
+    {
+      "kind": "crux",
+      "subject": "והאמינו",
+      "rationale": "动词可讀作未完成「他們就必信」或完成「他們已信了」，KJV\/ASV 視為結果"
+    }
+  ],
+  "translation": "又倘-若-他們-不-信-你，也-不-聽-從-第一個-記號的-聲音，他們就必信-後一個-記號的-聲音。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "658a85369b6f50c16f4b3050da9f91d3c030c8e4065bc001af9b8eaaaf91ea5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/4\/5-8.1792125746037.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "又必發生"
+    },
+    {
+      "surface": "אם",
+      "gloss": "倘若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "他們信"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "聽從"
+    },
+    {
+      "surface": "לקל",
+      "gloss": "……的聲音"
+    },
+    {
+      "surface": "האת",
+      "gloss": "記號"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "第一個"
+    },
+    {
+      "surface": "והאמינו",
+      "gloss": "他們就必信"
+    },
+    {
+      "surface": "לקל",
+      "gloss": "……的聲音"
+    },
+    {
+      "surface": "האת",
+      "gloss": "記號"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "後一個"
+    }
+  ],
+  "timestamp": "2026-10-16T04:42:26.039466756Z",
+  "model": "glm-5.3"
+}

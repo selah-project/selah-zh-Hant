@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מרפא",
+      "rationale": "字面「醫治、藥」——譯作「溫柔」「安靜」「鎮靜」各本不一；取「鎮靜」保留平息怒氣之效。"
+    },
+    {
+      "kind": "crux",
+      "subject": "חטאים",
+      "rationale": "「罪」或「罪的刑罰」——希伯來文一詞兩義，或指平息大罪所引發的重罰。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "此處指人的怒氣而非神的魯阿，故譯「怒氣」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תנח\/יניח",
+      "rationale": "同一動詞 ינח 兩次出現——「你不要放棄」與「它使平息」，呼應結構在中文中流失。"
+    }
+  ],
+  "translation": "掌權者的怒氣若向你升起，不要離開你的地位，因為鎮靜能使大罪平息。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ea9d772119811af4e802c9749728f9de1c8363a5cb710a531ef5092d0f979d10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/10\/1-4.1792147060367.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "怒氣"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "掌權者的"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "升起"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "你的地位"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "離開"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "鎮靜（醫治）"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "使……平息"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "罪"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "大"
+    }
+  ],
+  "timestamp": "2026-10-16T10:37:40.368667735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "親自",
+      "rationale": "ו הוא 強調代名詞，中文以「親自」表達其強調語氣"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עליון",
+      "rationale": "可譯專名「伊勒·至高者」；此處作形容語「至高者」"
+    }
+  ],
+  "translation": "至於錫安，必有人說：這一個人和那一個人都生在她裡面；至高者親自堅立她。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "db8918deef8cc9863fb10534a7683a7ed9bffce3d6117e01ab82f51826a57c37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/87\/5-7.1792144402330.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "至於錫安"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "必有人說"
+    },
+    {
+      "surface": "איש",
+      "gloss": "這一個人"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "和那一個人"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生"
+    },
+    {
+      "surface": "בה",
+      "gloss": "在她裡面"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "而祂親自"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "堅立她"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "至高者"
+    }
+  ],
+  "timestamp": "2026-10-16T09:53:22.330817144Z",
+  "model": "glm-5.3"
+}

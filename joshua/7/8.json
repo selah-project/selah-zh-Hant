@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 7:8",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "轉背",
+      "rationale": "ערף 字面是「頸背」；轉頸背即逃跑的姿態，中文作「轉背」"
+    },
+    {
+      "kind": "you",
+      "subject": "向雅威",
+      "rationale": "約書亞續向阿多奈（雅威）哀告"
+    }
+  ],
+  "translation": "「唉，阿多奈啊，以色列既已在仇敵面前轉背，我還能說什麼呢？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ee52f76982f4ca14decf923c60b7470c33893d994e7b8535316f103fc6ded022",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/7\/5-8.1792129656806.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "唉（求你）"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "מה",
+      "gloss": "什麼"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "我還能說"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "在……之後"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "既然"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "轉了"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "背（頸背）"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在……面前"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "它的仇敵"
+    }
+  ],
+  "timestamp": "2026-10-16T05:47:36.808346416Z",
+  "model": "glm-5.3"
+}

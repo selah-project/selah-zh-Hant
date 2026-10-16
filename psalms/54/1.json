@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 54:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למנצח בנגינת",
+      "rationale": "標題語：獻給指揮者、以絃樂伴奏的音樂記號，非經文本體"
+    },
+    {
+      "kind": "substitution",
+      "subject": "訓誨詩",
+      "rationale": "משכיל 是『使人有智慧』的詩體標記，傳統譯『訓誨詩』"
+    }
+  ],
+  "translation": "指揮者〈用〉絃樂器，訓誨詩，大衛〈的作品〉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "221244fa5816e7db6ed61e4d63409e2faad2b6c6e86cf7c783b5b3d23d3319f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/54\/1-4.1792143891809.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "指揮者"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "〈用〉絃樂器"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "訓誨詩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛"
+    }
+  ],
+  "timestamp": "2026-10-16T09:44:51.810084826Z",
+  "model": "glm-5.3"
+}

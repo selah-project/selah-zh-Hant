@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "中文需所有格代名詞，希伯來文以詞尾形式表達"
+    },
+    {
+      "kind": "alternative",
+      "subject": "願一切血肉之人都稱頌",
+      "rationale": "ויברך 可作直陳「一切血肉都必稱頌」（如 YLT）或祈願「願……稱頌」（如 KJV\/JPS）"
+    }
+  ],
+  "translation": "我的口要述說雅威的讚美，願一切血肉之人都稱頌他聖潔的名，直到永遠、永無止境。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9b4ff06a0a24023cc0952b89e9adf8b964dfbb2d0b0c915dd7f52a47316d414c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/145\/21-21.1792145091225.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "讚美"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "要述說"
+    },
+    {
+      "surface": "פי",
+      "gloss": "我的口"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "願……稱頌"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "血肉之人"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "他聖潔的"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "直到永遠"
+    },
+    {
+      "surface": "וועד",
+      "gloss": "永無止境"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:51.225693001Z",
+  "model": "glm-5.3"
+}

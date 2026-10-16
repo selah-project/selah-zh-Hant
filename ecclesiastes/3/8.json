@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שלום",
+      "rationale": "שלום本義為完整、安好、和睦，中譯「平安」取其通行義"
+    }
+  ],
+  "translation": "有愛的時候，有恨的時候；有戰爭的時候，有平安的時候。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "610a4c00af3d6d5621274ed8c4282f60a23fb5d5069a4d82e4b7e9d537c0e141",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/3\/5-8.1792146913206.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "時候"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "愛"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "和有…的時候"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "恨"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時候"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戰爭"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "和有…的時候"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    }
+  ],
+  "timestamp": "2026-10-16T10:35:13.207655142Z",
+  "model": "glm-5.3"
+}

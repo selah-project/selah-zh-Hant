@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 16:17",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "跟",
+      "rationale": "中文介詞由ויעלh的語境補出"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "此節無את"
+    }
+  ],
+  "translation": "暗利和以色列眾人跟他一起從基比頓上來，圍困了得撒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5a664874e04aa835518fa60ab849dbce79bfde21bcd4887cf62275cb52ff12bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/16\/17-20.1792133161933.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלה",
+      "gloss": "上來"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "暗利"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和……眾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "跟他一起"
+    },
+    {
+      "surface": "מגבתון",
+      "gloss": "從基比頓"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "圍困了"
+    },
+    {
+      "surface": "על",
+      "gloss": "對著"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "得撒"
+    }
+  ],
+  "timestamp": "2026-10-16T06:46:01.934476582Z",
+  "model": "glm-5.3"
+}

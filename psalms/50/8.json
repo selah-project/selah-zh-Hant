@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ו…לנגדי תמיד",
+      "rationale": "「你的燔祭常在我面前」（陳述）或「我不是因燔祭常在我面前而責備你」（和合將否定延伸）——句法歧義。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "燔祭",
+      "rationale": "עולה 字面是「上升之物」——全然燒盡、煙氣上升；中文「燔祭」已固化。"
+    }
+  ],
+  "translation": "「我不因你的祭物責備你，你的燔祭常在我面前。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bf13bd3ed971bfd0f5d86715090ab94a5dcb4a7732bec2946798fcb190971bbf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/50\/5-8.1792143820181.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "על",
+      "gloss": "因"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "你的祭物"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "我責備你"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "你的燔祭"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "在我面前"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "常"
+    }
+  ],
+  "timestamp": "2026-10-16T09:43:40.182541974Z",
+  "model": "glm-5.3"
+}

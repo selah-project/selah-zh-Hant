@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 24:22",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אספה אסיר",
+      "rationale": "ילט讀作「如囚犯的聚集（被聚成捆）」；KJV作「如囚犯被聚在坑中」，有的讀作「聚集成捆」。"
+    },
+    {
+      "kind": "crux",
+      "subject": "יפקדו",
+      "rationale": "被動式פקד：JPS取「受罰」，KJV\/ASV取「被眷顧」；與21節同一動詞，中文統一作「追討」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואספו…אספה…אסיר",
+      "rationale": "三個א-ס字根的詞連用（聚集、聚集之物、囚犯），聲音上的連鎖在中文中消失。"
+    }
+  ],
+  "translation": "他們必被聚集，如囚犯聚在坑中，被關在監牢裡；多日之後，他們必被追討。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5bd407e41a4c5bcb7b224619115997a500d58beccf0366649f8bc4f8da970e05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/24\/21-23.1792134964424.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואספו",
+      "gloss": "他們必被聚集"
+    },
+    {
+      "surface": "אספה",
+      "gloss": "聚攏（如囚群）"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "囚犯"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……中"
+    },
+    {
+      "surface": "בור",
+      "gloss": "坑"
+    },
+    {
+      "surface": "וסגרו",
+      "gloss": "被關閉"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……裡"
+    },
+    {
+      "surface": "מסגר",
+      "gloss": "監牢"
+    },
+    {
+      "surface": "ומרב",
+      "gloss": "多……之後"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "יפפדו",
+      "gloss": "必被追討"
+    }
+  ],
+  "timestamp": "2026-10-16T07:16:04.426228849Z",
+  "model": "glm-5.3"
+}

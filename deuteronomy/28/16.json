@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ארור…ארור",
+      "rationale": "咒詛一詞重複兩次，城／田對舉涵蓋一切居所，中文保留平行結構"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "第二人稱單數直接指向聽約的以色列"
+    }
+  ],
+  "translation": "你在城裏必受咒詛，在田間也必受咒詛。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d11719aa63fd31fbce0f707cee1bccf32c215b86e3fad413e2241fc9ef0e0879",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/28\/13-16.1792129163562.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "必受咒詛"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "在城裏"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "也必受咒詛"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "在田間"
+    }
+  ],
+  "timestamp": "2026-10-16T05:39:23.564062924Z",
+  "model": "glm-5.3"
+}

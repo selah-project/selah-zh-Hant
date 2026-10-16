@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 45:9",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יצר／חרש／חמר",
+      "rationale": "塑造者／陶片／泥土三詞交織的窰匠意象，中文無法保留其音韻連鎖"
+    },
+    {
+      "kind": "crux",
+      "subject": "陶片與陶片",
+      "rationale": "「陶片〈要與〉地上的陶片〈爭辯〉」：祈使句（欽定本「讓陶片與陶片爭辯」）抑或只是名詞短語作比較（JPS「如陶片與陶片一般」）"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "禍哉之言直指與塑造者爭辯的以色列"
+    }
+  ],
+  "translation": "禍哉，那與⟨את⟩他的塑造者爭辯的——陶片與⟨את⟩地上的諸陶片！泥土豈對塑造它的說：「你做什麼？」你的工作豈說：「它沒有手」？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f00f181a25d2a7170dcc90a7659cdea7860554cc94dcd89a86b630970e9f8f35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/45\/9-12.1792135539190.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "禍哉"
+    },
+    {
+      "surface": "רב",
+      "gloss": "爭辯"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的塑造者"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "他的塑造者"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "陶片"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "地上的諸陶片"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "諸陶片"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "地"
+    },
+    {
+      "surface": "היאמר",
+      "gloss": "豈說"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "泥土"
+    },
+    {
+      "surface": "ליצרו",
+      "gloss": "對塑造它的"
+    },
+    {
+      "surface": "מה",
+      "gloss": "什麼"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你做"
+    },
+    {
+      "surface": "ופעלך",
+      "gloss": "而你的工作"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "手"
+    },
+    {
+      "surface": "לו",
+      "gloss": "它"
+    }
+  ],
+  "timestamp": "2026-10-16T07:25:39.191052685Z",
+  "model": "glm-5.3"
+}

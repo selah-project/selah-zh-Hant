@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他們",
+      "rationale": "הראם 的詞尾已含「他們」，中文補出受詞。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "作為",
+      "rationale": "עלילותיו 指祂的作為、祂所行的大事。"
+    }
+  ],
+  "translation": "他們忘記了祂的作為，和祂向他們顯明的奇事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7b4797252d14c233ace718b6cd2f67837c715536e793f14b29097e5fbca2110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/78\/9-12.1792144231946.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "忘記了"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "祂的作為"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "祂的奇事"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "向他們顯明"
+    }
+  ],
+  "timestamp": "2026-10-16T09:50:31.947011279Z",
+  "model": "glm-5.3"
+}

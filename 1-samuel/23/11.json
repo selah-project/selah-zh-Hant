@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 23:11",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעלי קעילה",
+      "rationale": "字面是「基伊拉的主人們」：和合本譯「基伊拉人」，KJV譯「the men of Keilah」，指城中掌權者或居民"
+    },
+    {
+      "kind": "substitution",
+      "subject": "היסגרני",
+      "gloss-note": null,
+      "rationale": "סגר字面是「關閉、交出」，此處指把大衛交在掃羅手中"
+    },
+    {
+      "kind": "you",
+      "subject": "to 雅威",
+      "rationale": "大衛直接向雅威發問並求指示"
+    }
+  ],
+  "translation": "基伊拉的眾⟨主人⟩會把我交在他手裡嗎？掃羅會照祢僕人所聽見的下來嗎？雅威，以色列的以羅欣啊，求祢告訴祢的僕人。」雅威說：「他會下來。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "df90f4fe3ac1d5578593274c89bb1e49be210f087ac5ec2c42f581c8871bf873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/23\/9-12.1792131336522.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היסגרני",
+      "gloss": "會把我交在"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "眾主人"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "基伊拉"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "在他手裡"
+    },
+    {
+      "surface": "הירד",
+      "gloss": "會下來嗎"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "所聽見的"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "祢的僕人"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "的以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "求祢告訴"
+    },
+    {
+      "surface": "נא",
+      "gloss": "求"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "祢的僕人"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "他會下來"
+    }
+  ],
+  "timestamp": "2026-10-16T06:15:36.523580700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 20:24",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יאסף אל עמיו",
+      "rationale": "字面「被收歸到他的人民那裏」，希伯來文死亡的委婉語"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מריתם את פי",
+      "rationale": "字面「你們使我的口苦」，即違背我的命令，中文保留「口」的意象"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מריתם\/מריבה",
+      "rationale": "「違背」（מרה）與地名「米利巴」（מריבה）同根雙關，中文無法傳達"
+    }
+  ],
+  "translation": "「亞倫要被收歸到他的族人那裏，因為他不得進入我所賜給以色列子孫的那地，因為你們在米利巴水邊違背了我的口。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8ec2d459ebd51e0f58c967080a560f829e3f364c02ccaf25e776f5bc818dcf1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/20\/21-24.1792127990467.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאסף",
+      "gloss": "要被收歸"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "他的族人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "他進入"
+    },
+    {
+      "surface": "אל",
+      "gloss": "進入"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "那地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我賜給"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "給…的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的事"
+    },
+    {
+      "surface": "מריתם",
+      "gloss": "你們違背了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的口"
+    },
+    {
+      "surface": "פי",
+      "gloss": "我的口"
+    },
+    {
+      "surface": "למי",
+      "gloss": "在…水邊"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "米利巴"
+    }
+  ],
+  "timestamp": "2026-10-16T05:19:50.469035741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 18:5",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "通達",
+      "rationale": "הצליח 字面是「向前推進、順利推進」，譯作「通達／順利」"
+    },
+    {
+      "kind": "crux",
+      "subject": "באלהים",
+      "rationale": "此處 אלהים 可指「以羅欣」或複數「神明」；這利未人供奉的是米迦的像，五但支派的人卻問「以羅欣」"
+    },
+    {
+      "kind": "you",
+      "subject": "對利未人祭司",
+      "rationale": "五名偵察者直接向米迦的祭司說話"
+    }
+  ],
+  "translation": "他們對他說：「請你求問以羅欣（神），使我們知道我們所行的這條路是否通達。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "43a5ed515c5c8cc5d672344d451b1748d4d046f9315c6f3407be8db2ec0bf944",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/18\/5-8.1792130552589.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "他們說"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "求問"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "以羅欣（神）"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "使我們知道"
+    },
+    {
+      "surface": "התצליח",
+      "gloss": "是否通達"
+    },
+    {
+      "surface": "דרכנו",
+      "gloss": "我們的路"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所……的"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "我們"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "行"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "在其上"
+    }
+  ],
+  "timestamp": "2026-10-16T06:02:32.589772862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "高臺",
+      "rationale": "משגב 字面是「陡崖、高不可攀之處」，取「高臺」存其形"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "音樂標記，依體例以（細拉）保留"
+    }
+  ],
+  "translation": "萬軍之雅威與我們同在；雅各的以羅欣是我們的高臺。（細拉）",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cb68144b53611ae5fffcd48d5663c80d179f8bc221b6909b7282ed527f016b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/46\/5-8.1792143797127.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "萬軍之"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "與我們同在"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "高臺"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "是我們的"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "的以羅欣"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "（細拉）"
+    }
+  ],
+  "timestamp": "2026-10-16T09:43:17.128979576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקדוך",
+      "rationale": "可作「他們尋求你」（KJV\/JPS）或「他們思念你缺席」（YLT『missed Thee』）；此處取尋求義。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "低聲的祈禱",
+      "rationale": "לחש本義是低語、耳語，轉指默禱，非出聲的長禱。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צקון",
+      "rationale": "本義「傾倒／熔鑄」，喻祈禱如熔液傾瀉而出，與上文生產之喻（26:17）相接。"
+    }
+  ],
+  "translation": "雅威啊，在急難中他們尋求你；他們向你傾吐低聲的祈禱，那時你的管教臨到他們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d80426e4f83cc4b3a4d76dcde864a4eb8786ca61ec68d98a04f1acafd04189c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/26\/13-16.1792134977107.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "在急難中"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "他們尋求你"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "他們傾吐"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "低聲的祈禱"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "你的管教"
+    },
+    {
+      "surface": "למו",
+      "gloss": "臨到他們"
+    }
+  ],
+  "timestamp": "2026-10-16T07:16:17.108892128Z",
+  "model": "glm-5.3"
+}

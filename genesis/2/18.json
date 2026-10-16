@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "中文需補判斷詞，「那人獨居不好」原文無「是」字"
+    },
+    {
+      "kind": "crux",
+      "subject": "עזר כנגדו",
+      "rationale": "「與他相配的幫助者」；עזר 在別處也用於雅威（詩 121:2），非必然居下位；כנגדו 字面是「在他對面、與他相當」"
+    }
+  ],
+  "translation": "雅威以羅欣（神）說：「那人獨居不好，我要為他造一個與他相配的幫助者。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8e098bf6a68977770fea49f4cd8de16615b82b877d1143135adeee6cd7be4a65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/2\/17-20.1792124534166.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "היות",
+      "gloss": "……的存在"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "那人"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "獨自"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "我要造"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為他"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "幫助者"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "與他相配"
+    }
+  ],
+  "timestamp": "2026-10-16T04:22:14.167461451Z",
+  "model": "glm-5.3"
+}

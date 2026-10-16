@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "牧養灰燼",
+      "rationale": "רעה אפר 直譯「牧放灰燼」——牧人放牧的圖像指向灰燼，即追逐無物；直譯保留圖像。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפשו 是氣息、生命之力，非 disembodied 的「靈魂」。"
+    },
+    {
+      "kind": "crux",
+      "subject": "הותל הטהו",
+      "rationale": "「受欺哄的心使他偏離」或作「欺哄人的心」（主動分詞）：欺人者自欺，兩讀皆有抄本傳統支持。"
+    }
+  ],
+  "translation": "他牧養灰燼；受欺哄的心使他偏離，他不能救 ⟨את⟩ 自己的性命，也不能說：「我右手中豈不是謊言嗎？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1f81ab062950767623a991c8bf129e2cb5cdfee60cc2fff8c4102f822f16896f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/44\/17-20.1792135597106.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "牧養"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "灰燼"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "受欺哄的"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "使他偏離"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不能"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "救"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自己的性命"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "自己的性命"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "豈不是"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "謊言"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "在我右手"
+    }
+  ],
+  "timestamp": "2026-10-16T07:26:37.107924348Z",
+  "model": "glm-5.3"
+}

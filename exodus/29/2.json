@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 29:2",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "薄脆餅",
+      "rationale": "רקיקי 是薄烤餅，取其「薄脆」之形"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצות×3",
+      "rationale": "「無酵」一詞三現的排比，中文以重複「無酵」保留"
+    }
+  ],
+  "translation": "和無酵餅、調油的無酵餅、抹油的無酵薄脆餅；這些你都要用細小麥麵做成 ⟨את⟩ 它們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b72086f378f6bfea2d439e8ace40f32038603e4eb8e802f284d4e26b42a706af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/29\/1-4.1792126386041.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "和…餅"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "無酵的"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "和餅"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "無酵的"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "調油的"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "和薄脆餅"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "無酵的"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "抹油的"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "細…麵"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "小麥"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你要做成"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "它們（這些餅）"
+    }
+  ],
+  "timestamp": "2026-10-16T04:53:06.042691325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 11:26",
+  "book": "daniel",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פת בגו",
+      "rationale": "פת בג 為波斯借詞，僅見於此（並但 11:26 一處），指御膳珍饈，直譯「王膳之餅」。"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישטוף",
+      "rationale": "字面「氾濫、沖刷」：或譯「被沖沒」（軍隊被淹沒）或譯「氾濫」（軍隊湧流潰散），主客之別諸本不一。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חללים",
+      "rationale": "字面為「被刺穿者」，指被殺的屍體，非泛指傷者。"
+    }
+  ],
+  "translation": "吃他珍膳的人必敗壞他；他的軍隊必被沖沒，傷亡的人眾多仆倒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5c68907e5f0fc625db5200ce256dfbd7692c5bd13602fd261b25b8bbf3f9a158",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/daniel\/11\/25-28.1792147712070.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלי",
+      "gloss": "吃……的人"
+    },
+    {
+      "surface": "פת",
+      "gloss": "珍膳"
+    },
+    {
+      "surface": "בגו",
+      "gloss": "美食"
+    },
+    {
+      "surface": "ישברוהו",
+      "gloss": "必敗壞他"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "他的軍隊"
+    },
+    {
+      "surface": "ישטוף",
+      "gloss": "必被沖沒"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "仆倒"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "傷亡的人"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "眾多"
+    }
+  ],
+  "timestamp": "2026-10-16T10:48:32.071537322Z",
+  "model": "glm-5.3"
+}

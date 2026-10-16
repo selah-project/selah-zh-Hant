@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "它們",
+      "rationale": "אתם 為受詞記號複數形，中文需補代詞以成句"
+    }
+  ],
+  "translation": "你要用皂莢木做杠，用金子包裹 ⟨אתם⟩⟨它們⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "36f3a6f19dbb4f1cf5cf098f719e7612f82e54f2d4759005fde5a36f8a23ea87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/25\/13-16.1792126232838.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "你要做"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "杠"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "木"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "皂莢"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "你要包裹"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "它們（皂莢木的杠）"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金子"
+    }
+  ],
+  "timestamp": "2026-10-16T04:50:32.838841370Z",
+  "model": "glm-5.3"
+}

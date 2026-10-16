@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 51:18",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מנהל／מחזיק",
+      "rationale": "兩行平行對仗：引導—所生，攙扶手—所養大，結構鏡像在中文以排比保留。"
+    },
+    {
+      "kind": "you",
+      "subject": "耶路撒冷（以第三人稱）",
+      "rationale": "此節以第三人稱「她」續述上文直呼的耶路撒冷。"
+    }
+  ],
+  "translation": "她所生的一切兒子中，沒有引導她的；她所養大的一切兒子中，沒有攙扶她手的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7112d8e37592ff0d5cf08248a135edffdeb875e39a2c2ef37784d1f4181ff15a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/51\/17-20.1792135733950.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "מנהל",
+      "gloss": "引導她的"
+    },
+    {
+      "surface": "לה",
+      "gloss": "她"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "…中的一切"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "她所生的"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "也沒有"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "攙扶…的"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "她手的"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "…中的一切"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "她所養大的"
+    }
+  ],
+  "timestamp": "2026-10-16T07:28:53.951146352Z",
+  "model": "glm-5.3"
+}

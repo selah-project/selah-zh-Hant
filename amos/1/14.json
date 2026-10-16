@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 1:14",
+  "book": "amos",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ארמנותיה前的את",
+      "rationale": "原文無את標記；此處譯文不加記號，僅按語序呈現"
+    },
+    {
+      "kind": "addition",
+      "subject": "中的",
+      "rationale": "希伯來文介詞ב的排比（在吶喊中、在暴風中）以中文方位詞補足"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סער\/סופה",
+      "rationale": "暴風與狂風並列，音近義近的疊加修辭"
+    }
+  ],
+  "translation": "我必使火燃起在拉巴的城牆上，燒燬 ⟨את⟩ 它的宮殿；這是在爭戰之日的吶喊中，在暴風之日 的狂風中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8ea3357f7bb8576374b578ef6b087b6cd8cff0b290d2424767d26a7ec99e6a0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/amos\/1\/13-15.1792139616748.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והצתי",
+      "gloss": "我必使燃起"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "在……的城牆上"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "拉巴"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "燒燬"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "它的宮殿"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "在吶喊中"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在……之日"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "爭戰"
+    },
+    {
+      "surface": "בסער",
+      "gloss": "在暴風中"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在……之日"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "狂風"
+    }
+  ],
+  "timestamp": "2026-10-16T08:33:36.748971123Z",
+  "model": "glm-5.3"
+}

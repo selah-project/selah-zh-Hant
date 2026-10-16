@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨的⟩",
+      "rationale": "希伯來文「在我兩掌」無所有格助詞，中文補「的」"
+    },
+    {
+      "kind": "alternative",
+      "subject": "חקתיך",
+      "rationale": "「銘刻你」亦可能指銘刻錫安的城牆（與下句相連）：將你的城牆刻在掌上"
+    }
+  ],
+  "translation": "看哪，我已將你銘刻在我⟨的⟩手掌上；你的城牆常在我面前。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f8507b5336344870947ea6223c7afe9be6f6e98ab0819e3bb7226b34166eec1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/49\/13-16.1792135581254.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "手掌"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "我已將你銘刻"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "你的城牆"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "在我面前"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "常"
+    }
+  ],
+  "timestamp": "2026-10-16T07:26:21.255696620Z",
+  "model": "glm-5.3"
+}

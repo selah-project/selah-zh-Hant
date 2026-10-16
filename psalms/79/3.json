@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨他們⟩",
+      "rationale": "קובר 為分詞「埋葬者」，中文補受詞以成句"
+    },
+    {
+      "kind": "idiom",
+      "subject": "如水一般",
+      "rationale": "血傾流如水的比喻，形容流血之多且被輕賤"
+    }
+  ],
+  "translation": "他們在耶路撒冷四圍傾倒了血，如水一般，無人埋葬 ⟨他們⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cd81df0e54f4d266d36d3234b5ea3b932259dec5977cf30a68608337529de99c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/79\/1-4.1792144385244.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "傾倒了"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "血"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "如水一般"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "而無"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "埋葬的人"
+    }
+  ],
+  "timestamp": "2026-10-16T09:53:05.245572998Z",
+  "model": "glm-5.3"
+}

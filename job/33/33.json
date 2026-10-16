@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 33:33",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "話",
+      "rationale": "「沒有」之後補「話」以成句；希伯來文只說「若沒有」，承接上節「你若有話說」"
+    },
+    {
+      "kind": "you",
+      "subject": "以利戶對約伯",
+      "rationale": "第二人稱命令語句，直接向約伯發言"
+    },
+    {
+      "kind": "invitation",
+      "subject": "當聽我",
+      "rationale": "以命令式召喚聽者聆聽並靜默，屬勸誘性呼籲"
+    }
+  ],
+  "translation": "你若沒有話，就當聽我；要靜默，我就將智慧指教你。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5cb0f385259efae9c7c38bbd5b576aa7c9a7e3358267ed01387fdf71bf5abaf4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/33\/33-33.1792146300830.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "靜默"
+    },
+    {
+      "surface": "ואאלפך",
+      "gloss": "我就指教你"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    }
+  ],
+  "timestamp": "2026-10-16T10:25:00.831024861Z",
+  "model": "glm-5.3"
+}

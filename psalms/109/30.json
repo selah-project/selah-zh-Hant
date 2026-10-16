@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "中文需要受詞，希伯來文的動詞詞尾已含「他」"
+    }
+  ],
+  "translation": "我要極力以我的口感謝雅威，在眾人之中我要頌讚他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c42f5d874f9618809df20fc2570b4cb2ddf2e164b7ffbf1999091ddcfb74a7bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/109\/29-31.1792144720325.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "我要感謝"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極力"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "以我的口"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "在……之中"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "眾人"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "我要頌讚他"
+    }
+  ],
+  "timestamp": "2026-10-16T09:58:40.325923896Z",
+  "model": "glm-5.3"
+}

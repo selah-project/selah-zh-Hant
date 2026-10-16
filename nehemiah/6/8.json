@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 6:8",
+  "book": "nehemiah",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "人",
+      "rationale": "「我差遣」的受詞未寫出，中文補「人」以成句"
+    },
+    {
+      "kind": "hapax",
+      "subject": "בודאם",
+      "rationale": "בדא「捏造」於《塔納赫》中僅此處與代下 32:15 出現，極罕用字"
+    }
+  ],
+  "translation": "於是我差遣人去見他，說：「這些事並沒有像你所說的那樣發生，你其實是憑你自己的心捏造它們。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c8780e09bae0ee6c0db1d0ad13faa942f670dfeef8f3382fdacdb7f7c8294a49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nehemiah\/6\/5-8.1792148083442.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשלחה",
+      "gloss": "於是我差遣"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "到他那裡"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "曾發生"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "像……話"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那些"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "所說的"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "從你的心"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "בודאם",
+      "gloss": "捏造它們"
+    }
+  ],
+  "timestamp": "2026-10-16T10:54:43.443726191Z",
+  "model": "glm-5.3"
+}

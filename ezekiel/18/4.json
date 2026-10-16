@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 18:4",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 是「呼吸的活物、生命氣息」，非希臘式不朽「靈魂」，譯「性命」"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文判斷句需要"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לי הנה",
+      "rationale": "「屬我——它們」重複兩次，強調所有性命皆屬雅威，中文保留重複"
+    }
+  ],
+  "translation": "看哪，所有的性命都是屬我的；父親的性命屬我，兒子的性命也屬我；犯罪的性命，他必死亡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "37c954b77d810f2558a0a7017a85a33c382d44539968be6d59854323a5d712d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/18\/1-4.1792138322117.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "הנפשות",
+      "gloss": "性命"
+    },
+    {
+      "surface": "לי",
+      "gloss": "屬我"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "它們"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "如…的性命"
+    },
+    {
+      "surface": "האב",
+      "gloss": "父親"
+    },
+    {
+      "surface": "וכנפש",
+      "gloss": "也如…的性命"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "לי",
+      "gloss": "屬我"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "它們"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "那性命"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "犯罪的"
+    },
+    {
+      "surface": "היא",
+      "gloss": "那"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "必死亡"
+    }
+  ],
+  "timestamp": "2026-10-16T08:12:02.118623497Z",
+  "model": "glm-5.3"
+}

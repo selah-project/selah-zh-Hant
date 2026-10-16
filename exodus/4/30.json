@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "行了記號者",
+      "rationale": "動詞 ויעש 的主語未標明，可指摩西（行記號者）或亞倫；本譯保留模糊，未加主語。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אות",
+      "rationale": "אות 是「信號、標記」，非「神蹟」；譯「記號」以存其形。"
+    }
+  ],
+  "translation": "亞倫講了 ⟨את⟩ 雅威對摩西所說的一切話，又在百姓眼前行了那些記號。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "85f7d06f59d3feb765454cbdf374aabcfc3d4baccdffebe5d677e9a9488625e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/4\/29-31.1792125752622.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "講了"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切話"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "話"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "行了"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "那些記號"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "在……眼前"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    }
+  ],
+  "timestamp": "2026-10-16T04:42:32.623977634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "窺探",
+      "rationale": "יצפנו 字面為「藏起、暗中觀看」，本處兼有埋伏窺伺之義。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חלכה",
+      "rationale": "לְחֵלְכָה 指可憐困乏之人，此詞形於詩篇僅此及少數處出現，指卑微無助者。"
+    }
+  ],
+  "translation": "他在村莊的埋伏處坐著，在隱密處殺害無辜的人；他的眼睛窺探不幸的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3d0ec7f7f2ba534563dbe64b24ba7705488bea745822cf09aa16a41555ebb82b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/10\/5-8.1792143329976.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "坐著"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "在埋伏處"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "村莊"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "在隱密處"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "殺害"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "無辜的人"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "他的眼睛"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "不幸的人"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "窺探"
+    }
+  ],
+  "timestamp": "2026-10-16T09:35:29.977424122Z",
+  "model": "glm-5.3"
+}

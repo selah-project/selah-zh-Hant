@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כביר",
+      "rationale": "僅見於此處與16節：或作山羊毛織的墊子，或作髮網；各譯本作『枕頭』『被絮』不一。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "家中的神像",
+      "rationale": "תרפים 是家中神像（家用偶像），非一般『像』。"
+    }
+  ],
+  "translation": "米甲拿了 ⟨את⟩ 家中的神像，放在床上，又把山羊毛織的墊子放在他的頭端，用衣服蓋上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8fa6772c4795ef4abb8547783040e32d54481cfc5aafd48aa9f9baca3ac74123",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/19\/13-16.1792131213443.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "拿了"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "米甲"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "家中的神像"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "家中的神像"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "放了"
+    },
+    {
+      "surface": "אל",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "床"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "山羊毛織的墊子"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "墊子"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "山羊毛織的"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "放置"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "在他的頭端"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "蓋上"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "用衣服"
+    }
+  ],
+  "timestamp": "2026-10-16T06:13:33.444013515Z",
+  "model": "glm-5.3"
+}

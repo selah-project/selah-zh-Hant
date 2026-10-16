@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "事就發生",
+      "rationale": "ויהי 是強調性的敘事開頭，中文以「……以後」的框架吸收"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חשק\/חפץ",
+      "rationale": "兩個「喜愛、渴望」詞根並用，中文以「喜愛」「喜悅」勉強保留"
+    }
+  ],
+  "translation": "所羅門建造雅威的殿和王宮，以及他所喜愛的一切工程都完畢以後——凡他所喜悅去做的，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0ef2bfef0f6b83d0537cdb421d6a8e7a25a6cfa5af3db19c6cba72fe1b8e7bc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/9\/1-4.1792132868261.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "事就發生"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "完畢以後"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "建造"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "殿"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "王宮"
+    },
+    {
+      "surface": "בית",
+      "gloss": "宮"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "所喜愛的一切"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "所喜愛的"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "凡"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "所喜悅"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "去做的"
+    }
+  ],
+  "timestamp": "2026-10-16T06:41:08.261841156Z",
+  "model": "glm-5.3"
+}

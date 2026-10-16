@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 16:9",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "你",
+      "rationale": "命令式אמר的第二人稱，中文以「你」標明"
+    },
+    {
+      "kind": "invitation",
+      "subject": "到雅威面前來",
+      "rationale": "קרבו命令式，向全會眾發出的召喚"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列全會眾",
+      "rationale": "經由亞倫向會眾的直接稱呼"
+    }
+  ],
+  "translation": "摩西對亞倫說：「你對以色列人全會眾說：要到雅威面前來，因為他已聽見了你們的怨言。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c7a9023c85efb0a416a14319c4a6502c7d81742ccf81ca4d63500ffb0a1c6292",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/16\/9-12.1792126025204.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的子民"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "要前來"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聽見了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你們的怨言"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "你們的怨言"
+    }
+  ],
+  "timestamp": "2026-10-16T04:47:05.205298456Z",
+  "model": "glm-5.3"
+}

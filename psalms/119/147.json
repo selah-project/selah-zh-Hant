@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 147,
+  "ref": "psalms 119:147",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בנשף",
+      "rationale": "意為黃昏微風時分，此處按上下文指黎明前的暗時，各譯本多作「黎明／天未亮」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדמתי\/קדמו",
+      "rationale": "與148節「我的眼搶先」同一動詞首尾呼應"
+    }
+  ],
+  "translation": "天未亮我就起來呼求；我仰望你的話語。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "318ede7d3cbe732d905715070abea530c78d6062f0166a563b3870d56c119192",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/145-148.1792144867305.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קדמתי",
+      "gloss": "我搶先起來"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "在黎明之前"
+    },
+    {
+      "surface": "ואשועה",
+      "gloss": "我就呼求"
+    },
+    {
+      "surface": "לדבריך",
+      "gloss": "你的話語"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "我仰望"
+    }
+  ],
+  "timestamp": "2026-10-16T10:01:07.306347840Z",
+  "model": "glm-5.3"
+}

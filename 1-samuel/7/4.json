@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "複數形",
+      "rationale": "הבעלים、העשתרת 皆複數，中文以「諸巴力」「亞斯他錄」（後者複數形與單數同形）呈現。"
+    }
+  ],
+  "translation": "於是以色列人除掉 ⟨את⟩ 諸巴力和 ⟨את⟩ 亞斯他錄，單單事奉 ⟨את⟩ 雅威。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "82bf4cc362d47d076227c6d60fb60d9f18f9d866641eab4f0559b09e12a3bce9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/7\/1-4.1792130923385.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "除掉"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸巴力"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "諸巴力"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "亞斯他錄"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "亞斯他錄"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "事奉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "單單"
+    }
+  ],
+  "timestamp": "2026-10-16T06:08:43.387203897Z",
+  "model": "glm-5.3"
+}

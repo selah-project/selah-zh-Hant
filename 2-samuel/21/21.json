@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויכהו",
+      "rationale": "「擊殺了他」是擊打動詞的致果用法，字面是「擊打他」，語境表明是致命一擊。"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחי דוד",
+      "rationale": "各家譯本分歧：『大衛的兄弟示每』還是『示每，大衛的兄弟』——修飾語歸屬不明。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויחרף \/ הרפה",
+      "rationale": "辱罵（חרף）與下節的巨人（רפה）同根呼應，中文無法保留。"
+    }
+  ],
+  "translation": "他辱罵了 ⟨את⟩ 以色列，大衛的兄弟示每的兒子約拿單就擊殺了他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6ff426822879c8fbe098491b5a97b5e53f082195e3555d74bc3018968e39526f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/21\/21-22.1792132153632.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "他辱罵了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "擊殺了他"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "示每"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "兄弟"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    }
+  ],
+  "timestamp": "2026-10-16T06:29:13.632659569Z",
+  "model": "glm-5.3"
+}

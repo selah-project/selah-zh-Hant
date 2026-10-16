@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומתערה",
+      "rationale": "字根ערה意為「剝光、傾倒」，諸本分歧：KJV作「伸展自己」，另有譯「把自己拔出」；此處依文意取繁茂伸展之象。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ומתערה",
+      "rationale": "此動詞形在塔納赫中僅此一見。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "青翠樹",
+      "rationale": "KJV作「月桂樹」，希伯來文只說「本土生長的青翠〈樹〉」，樹是補出的類名。"
+    }
+  ],
+  "translation": "我見過一個兇暴的惡人，把自己伸展如一棵本土的青翠樹。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e35d96f0cad5c91005cc3d5dbf35260abc95dbea183174aa42c81731a35b560c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/37\/33-36.1792143652676.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "我見過"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "兇暴的"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "把自己伸展"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "如一棵本土的樹"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "青翠的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:40:52.676903387Z",
+  "model": "glm-5.3"
+}

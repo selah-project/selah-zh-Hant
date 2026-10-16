@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 22:36",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הרנה",
+      "rationale": "本義「尖叫聲（或悲或喜）」；諸譯本作「宣告／命令」，和合本「有命令傳遍」"
+    },
+    {
+      "kind": "crux",
+      "subject": "כבא השמש",
+      "rationale": "直譯「日頭進來（落山）之時」；KJV\/和合本「約到日落的時候」"
+    }
+  ],
+  "translation": "日落的時候，有命令傳遍營中，說：「各人回自己的城去，各人回自己的地去吧！」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5da66be5f6b4eb22834a3a44bb5815ba195d4943b733e99aba8562d888970e51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/22\/33-36.1792133451160.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "傳遍"
+    },
+    {
+      "surface": "הרנה",
+      "gloss": "呼聲"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "營中"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "……的時候"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日落"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "回……去"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "自己的城"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "回……去"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "自己的地"
+    }
+  ],
+  "timestamp": "2026-10-16T06:50:51.162233885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "開了口",
+      "rationale": "תפתח ארץ 直譯為「地開了」，中文補「口」以合吞嚥意象"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על עדת",
+      "rationale": "「掩蓋在……的會眾之上」＝將會眾埋沒，中文以「掩蓋了……的會眾」達意"
+    }
+  ],
+  "translation": "地開了口，吞了大坍，又掩蓋了亞比蘭的會眾。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6ecb4a25238a601130121a6744b391625754147a2e734289898fb826720aecff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/106\/17-20.1792144677580.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "開了口"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "吞了"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "大坍"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "又掩蓋了"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……之上"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "亞比蘭"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:57.581240823Z",
+  "model": "glm-5.3"
+}

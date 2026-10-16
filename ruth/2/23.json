@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ruth 2:23",
+  "book": "ruth",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דבק",
+      "rationale": "「緊跟」回應第21、22節同一詞根，路得順服了波阿斯的吩咐"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ותשב",
+      "rationale": "字面「她坐下／居住」；中文「仍與…同住」補持續語氣"
+    }
+  ],
+  "translation": "於是她緊跟著波阿斯的使女們拾取麥穗，直到大麥收割完畢、小麥收割完畢；她仍與⟨她⟩婆婆同住。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dbaa07bbc94ff09d7eb10587cabfa1086177a2ab022eb61a343598f8cd0324cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ruth\/2\/21-23.1792146689567.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "於是她緊跟著"
+    },
+    {
+      "surface": "בנערות",
+      "gloss": "使女們"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "波阿斯的"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "拾取麥穗"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "כלות",
+      "gloss": "完畢"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "收割"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "大麥"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "小麥收割"
+    },
+    {
+      "surface": "החטים",
+      "gloss": "小麥"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "她仍同住"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "她婆婆"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "婆婆"
+    }
+  ],
+  "timestamp": "2026-10-16T10:31:29.568226658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 27:10",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "中文需指明吃的主語（父親）。"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "關係代名詞融入中文句式。"
+    }
+  ],
+  "translation": "你拿到你父親那裡給他吃，好叫他在未死之前祝福你。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5e1ae108dd9a376b45953dd9cce28c79600ff5e5852820767598dc188d89234c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/27\/9-12.1792125128941.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "你拿……去"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "到你父親那裡"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "吃"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "好叫"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨使⟩"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "他祝福你"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在……之前"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "他的死"
+    }
+  ],
+  "timestamp": "2026-10-16T04:32:08.942125223Z",
+  "model": "glm-5.3"
+}

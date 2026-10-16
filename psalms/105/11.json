@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "量繩之地",
+      "rationale": "חבל 字面是「繩、準繩」，引伸為「地段」；和合本作「分」"
+    },
+    {
+      "kind": "measurement",
+      "subject": "חבל",
+      "rationale": "以量地的繩為業界的意象"
+    }
+  ],
+  "translation": "說：「我要將迦南地賜給你，作你們產業的量繩之地。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "281b702be77580cfef6a9e9522809a895b22fdd38e94667581fa73996f316440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/105\/9-12.1792144577484.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "לך",
+      "gloss": "給你"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "我要賜"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "迦南地"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "量繩之地"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "你們的產業"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:17.485657696Z",
+  "model": "glm-5.3"
+}

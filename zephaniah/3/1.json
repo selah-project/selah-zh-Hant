@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מראה",
+      "rationale": "稀用詞：或作「叛逆」（如 אמר מרה 之變體，七十士譯本），或作「欺凌者」；本譯取「叛逆」"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מראה",
+      "rationale": "此形於《塔納赫》僅見於此"
+    },
+    {
+      "kind": "addition",
+      "subject": "她",
+      "rationale": "希伯來文陰性分詞無獨立代詞，中文需補主語"
+    }
+  ],
+  "translation": "有禍了！她叛逆，她污穢，這欺壓人的城！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "55145628e3fe4c7b4f83faf509ed27ca8d44ccee802c73e77eab97dd692eb160",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/zephaniah\/3\/1-4.1792142829034.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "有禍了"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "叛逆"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "污穢"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "欺壓人的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:27:09.035051535Z",
+  "model": "glm-5.3"
+}

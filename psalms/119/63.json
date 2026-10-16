@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "gloss": "關係詞，中文以「的」字結構吸收。"
+    },
+    {
+      "kind": "addition",
+      "subject": "與他們為伴",
+      "rationale": "中文需補出介詞結構以表希伯來文 ל 的歸屬義。"
+    }
+  ],
+  "translation": "凡敬畏你的人，我都與他們為伴，也與遵守你訓誡的人為伴。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e444bba5aa249d029a8be610aad1dc0f13a0206eda6a5444bf22799cbdfac3a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/61-64.1792144846748.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "為伴"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "敬畏你的人"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "也與……遵守的人"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "你的訓誡"
+    }
+  ],
+  "timestamp": "2026-10-16T10:00:46.748920498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "肉",
+      "rationale": "שאר是肉體／肉食，非抽象『肉身』"
+    },
+    {
+      "kind": "addition",
+      "subject": "嗎",
+      "gloss": "中文問句語氣詞為譯文所需，希伯來以疑問詞הגם承擔"
+    }
+  ],
+  "translation": "看哪，他擊打磐石，水就湧出，溪流漫溢；他還能賜食物嗎？能為他的百姓預備肉嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "45132fcddd19c03ae7c7fda930131bc10ebc10a668dd27918511bfbed25c9ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/78\/17-20.1792144261376.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "他擊打"
+    },
+    {
+      "surface": "צור",
+      "gloss": "磐石"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "就湧出"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "溪流"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "漫溢"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "還"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "食物"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "能"
+    },
+    {
+      "surface": "תת",
+      "gloss": "賜"
+    },
+    {
+      "surface": "אם",
+      "gloss": "嗎"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "預備"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "為他的百姓"
+    }
+  ],
+  "timestamp": "2026-10-16T09:51:01.377170219Z",
+  "model": "glm-5.3"
+}

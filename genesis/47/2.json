@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 47:2",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ומקצה",
+      "rationale": "字面是「從他弟兄的末端」，即「從中挑出」，中文以「從……中」表達"
+    },
+    {
+      "kind": "measurement",
+      "subject": "五個人",
+      "rationale": "明確的人數：五"
+    }
+  ],
+  "translation": "他從他弟兄中挑了五個人，把他們引到法老面前。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2c70be1b322ab509baa662efa70d8a8a9c2cf79c9d77561740443081db47691a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/47\/1-4.1792125623666.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומקצה",
+      "gloss": "從……的末端（從中）"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "他的弟兄"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "挑了"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "個人（人）"
+    },
+    {
+      "surface": "ויצגם",
+      "gloss": "把他們引到"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    }
+  ],
+  "timestamp": "2026-10-16T04:40:23.667306855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "活人",
+      "rationale": "נפש 是氣息／生命之力，不是靈魂"
+    },
+    {
+      "kind": "crux",
+      "subject": "יורא",
+      "rationale": "字根作 רוה『澆灌、得滋潤』（被動）與 ירה『流出如水』之別；諸譯本取『被澆灌』"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ומרוה…יורא",
+      "rationale": "澆灌者必被澆灌——同一詞根主動與被動相映，中文以重複『水滋潤』仿其迴響"
+    }
+  ],
+  "translation": "那賜福的活人必得肥潤，施水滋潤人的，他自己也必得水滋潤。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d27d585a90bc99d96c8d9dd6edc124656d194a7c8b74ddacd919acd2aaa7e207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/11\/25-28.1792145404124.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "活人"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "賜福"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "必得肥潤"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "施水滋潤人的"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他自己"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "必得水滋潤"
+    }
+  ],
+  "timestamp": "2026-10-16T10:10:04.124739703Z",
+  "model": "glm-5.3"
+}

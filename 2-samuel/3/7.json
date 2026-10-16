@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 3:7",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "伊施波設",
+      "rationale": "ויאמר的說話者希伯來文未寫明，由上下文（3:8的回應）補出"
+    },
+    {
+      "kind": "crux",
+      "subject": "親近父親的妾",
+      "rationale": "敘事只記指控，未記行為本身；押尼珥隨後的暴怒可讀作被冤枉或被抓到"
+    },
+    {
+      "kind": "you",
+      "subject": "伊施波設對押尼珥",
+      "rationale": "直接質問的對話"
+    }
+  ],
+  "translation": "掃羅有一個妾，名叫利斯巴，是亞雅的女兒。伊施波設⟨對押尼珥⟩說：「你為甚麼親近我父親的妾呢？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e1b392a5a7285ac24cf02330a62137c448872bfc67e49c51806a005d72ca8293",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/3\/5-8.1792131711992.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשאול",
+      "gloss": "掃羅有"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "妾"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "她的名叫"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "利斯巴"
+    },
+    {
+      "surface": "בת",
+      "gloss": "女兒"
+    },
+    {
+      "surface": "איה",
+      "gloss": "亞雅"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "押尼珥"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "為甚麼"
+    },
+    {
+      "surface": "באתה",
+      "gloss": "你親近"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "妾"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我父親的"
+    }
+  ],
+  "timestamp": "2026-10-16T06:21:51.993811479Z",
+  "model": "glm-5.3"
+}

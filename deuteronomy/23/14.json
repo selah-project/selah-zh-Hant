@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 23:14",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אזנך",
+      "rationale": "אזן 字面是「耳朵／鏟狀寬頭器」，古譯本有「兵器」（KJV）與「鏟子」（JPS）之爭；此處譯「器具」保持中性"
+    },
+    {
+      "kind": "substitution",
+      "subject": "排泄物",
+      "rationale": "צאתך 字面是「從你出來的（東西）」，委婉語指排泄物"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "全節以第二人稱單數命令口吻直接吩咐以色列營中的每一人"
+    }
+  ],
+  "translation": "你要在你的器具上有一根木釘；當你在外面蹲下時，要用它挖坑，轉回之後，遮蓋 ⟨את⟩ 你的排泄物。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2bb8bb5a35e90ff0eb67e0ca4f6134c61e4dac0df80d08fd7f5a3fa74a27ca18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/23\/13-16.1792129071951.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתד",
+      "gloss": "一根木釘"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "要有"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "你的器具"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "當……時"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "你蹲下時"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "在外面"
+    },
+    {
+      "surface": "וחפרתה",
+      "gloss": "你要挖掘"
+    },
+    {
+      "surface": "בה",
+      "gloss": "用它"
+    },
+    {
+      "surface": "ושבת",
+      "gloss": "轉回之後"
+    },
+    {
+      "surface": "וכסית",
+      "gloss": "遮蓋"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的排泄物"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "你的排泄物"
+    }
+  ],
+  "timestamp": "2026-10-16T05:37:51.952475615Z",
+  "model": "glm-5.3"
+}

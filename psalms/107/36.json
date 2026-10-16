@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 107:36",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "的人",
+      "rationale": "רעבים作名詞用，中文需補「的人」以成自然語"
+    }
+  ],
+  "translation": "他使饑餓的人住在那裏，他們就建立可居住的城。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d0c73c4f1f9925a3e7cca95fcea039311e58fb63474b7041fe49065e361f4a26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/107\/33-36.1792144666317.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "他使……住在"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裏"
+    },
+    {
+      "surface": "רעבים",
+      "gloss": "饑餓的人"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "他們就建立"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "可居住的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:46.318157132Z",
+  "model": "glm-5.3"
+}

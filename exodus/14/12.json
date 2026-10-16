@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 14:12",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Moses",
+      "rationale": "以色列人直接向摩西發言，引述過去在埃及的話"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עֲבֹד",
+      "rationale": "עבד 兼有「事奉（敬拜）」之義，與後來事奉雅威形成對照；此處譯「服事」"
+    }
+  ],
+  "translation": "我們從前在埃及對你說的，不就是這話嗎？我們說：『離開我們吧，讓我們服事埃及人。』因為我們服事埃及人比死在曠野還好。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7b45adcfc34bdc687b76658912b17a85d3d74057f855d063fd72dcf6f678d832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/14\/9-12.1792125977628.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "不就是"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "我們說過"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "在埃及"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "離開"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "離我們"
+    },
+    {
+      "surface": "ונעבדה",
+      "gloss": "讓我們服事"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "埃及人"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "對我們"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "服事"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "埃及人"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及人"
+    },
+    {
+      "surface": "ממתנו",
+      "gloss": "比我們死"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "在曠野"
+    }
+  ],
+  "timestamp": "2026-10-16T04:46:17.630150113Z",
+  "model": "glm-5.3"
+}

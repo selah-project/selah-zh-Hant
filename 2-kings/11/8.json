@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 11:8",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בצאתו ובבבאו",
+      "rationale": "「出去…進來」首尾對仗，與第5、7節的 באי／יצאי（進班的／出班的）遙相呼應"
+    },
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "第13個詞 את（H854「與…同在」）與受詞記號 את（H853）同形異詞，此處是「陪伴」義，仍以 ⟨את⟩ 標記"
+    }
+  ],
+  "translation": "你們要環繞著王四圍，各人手中的兵器在手；凡進入班次行列的，必被處死；王出去的時候、他進來的時候，你們都要與 ⟨את⟩ 王同在。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "098ecdd1aeadeb978df1622597a1639f8b85f034d8dfc876a958172ab2cf4a62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/11\/5-8.1792133794790.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקפתם",
+      "gloss": "你們要環繞"
+    },
+    {
+      "surface": "על",
+      "gloss": "圍著"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "自己的兵器"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "在手"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "凡進入的"
+    },
+    {
+      "surface": "אל",
+      "gloss": "進入"
+    },
+    {
+      "surface": "השדרות",
+      "gloss": "班次行列"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "必被處死"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "你們要"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "他出去的時候"
+    },
+    {
+      "surface": "ובבאו",
+      "gloss": "他進來的時候"
+    }
+  ],
+  "timestamp": "2026-10-16T06:56:34.791960206Z",
+  "model": "glm-5.3"
+}

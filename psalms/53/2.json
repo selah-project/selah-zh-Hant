@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "愚頑人",
+      "rationale": "נבל 是道德上的愚妄（對以羅欣的悖逆），非智力遲鈍。"
+    },
+    {
+      "kind": "addition",
+      "subject": "的人",
+      "rationale": "「沒有行善的人」中「的人」為中文語法所加，原文僅作分詞「行善者」。"
+    }
+  ],
+  "translation": "愚頑人心裡說：「沒有以羅欣。」他們敗壞了，行可憎惡的不義；沒有行善的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "11f4fd5d5f402ea558e860ad4da049524b37a5cbce193374b0584f471e58d19c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/53\/1-4.1792143955096.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "愚頑人"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "心裡"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "敗壞了"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "行可憎惡的"
+    },
+    {
+      "surface": "עול",
+      "gloss": "不義"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行……的人"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "善"
+    }
+  ],
+  "timestamp": "2026-10-16T09:45:55.097049525Z",
+  "model": "glm-5.3"
+}

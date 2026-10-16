@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "整體",
+      "rationale": "אחד直譯「一」，中文加「整體」以達意"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נחשת",
+      "rationale": "銅而非「黃銅」，古代近東無黃銅"
+    }
+  ],
+  "translation": "他又做了五十個銅鉤，用以連接 ⟨את⟩ 帳棚，使它成為一個整體。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f4a8ee3bb2ca2d4526e8b1bad67127ce23de151594a97d4d9586baff294c7f4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/36\/17-20.1792126580150.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "做了"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "鉤"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "用以連接"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "帳棚"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "להית",
+      "gloss": "使它成為"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一個"
+    }
+  ],
+  "timestamp": "2026-10-16T04:56:20.150934067Z",
+  "model": "glm-5.3"
+}

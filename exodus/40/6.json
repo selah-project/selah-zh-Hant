@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "會幕",
+      "rationale": "אהל מועד 直譯「相會之帳棚」，中譯沿用「會幕」"
+    }
+  ],
+  "translation": "你要把燔祭壇安在會幕帳棚門口的前面。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6972e9038cb8b99c6e11b2fc1818f1877ae0f15374896d6007bc4b7b2ae62065",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/40\/5-8.1792126615097.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "你要把……安放"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "燔祭壇"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "壇"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在……前面"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門口"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "帳幕"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會（相會之處）"
+    }
+  ],
+  "timestamp": "2026-10-16T04:56:55.098580011Z",
+  "model": "glm-5.3"
+}

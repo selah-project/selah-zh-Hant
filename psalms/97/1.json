@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "איים",
+      "rationale": "「眾多的海島」直譯「許多島嶼」，指遠方沿海之地"
+    },
+    {
+      "kind": "addition",
+      "subject": "願",
+      "rationale": "希伯來文用未完成式表祈願，中文加「願」表達"
+    }
+  ],
+  "translation": "雅威作王了！願地快樂，願眾多的海島歡喜。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6132a85d5aeea181f6f17975a173e10a5836314319f892a36c13ee769dc04cf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/97\/1-4.1792144508475.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "作王了"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "快樂"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "איים",
+      "gloss": "海島"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "眾多的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:08.476020032Z",
+  "model": "glm-5.3"
+}

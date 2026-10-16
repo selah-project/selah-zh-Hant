@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויפל",
+      "rationale": "「使他仆倒」——經文未明說「死」，但語境（22:17）指向陣亡；直譯為「仆倒」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "陣亡",
+      "rationale": "ויפל 直譯是「跌倒／仆倒」，此處按上下文引申為陣亡"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זה…וזה…בכה…בכה",
+      "rationale": "重複與對稱的修辭：這個這樣說、那個那樣說，中文保留其平行結構"
+    }
+  ],
+  "translation": "雅威說：「誰去引誘 ⟨את⟩ 亞哈，使他上基列的拉末去陣亡呢？」這一位這樣說，那一位也那樣說。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "477899560a713bf453efa19dd0f3dfc0666ed18185d909e401f6f01f6fcf3272",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/22\/17-20.1792133461684.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "引誘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞哈"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "使他上去"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "陣亡"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "在拉末"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "基列"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這一位"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "這樣"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "那一位"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "那樣"
+    }
+  ],
+  "timestamp": "2026-10-16T06:51:01.686370942Z",
+  "model": "glm-5.3"
+}

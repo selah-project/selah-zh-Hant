@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 106:39",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויזנו",
+      "rationale": "字面「行淫」，何西阿式的拜偶像隱喻；JPS 轉為「行差踏錯」，此處保留身體性的字面圖像。"
+    },
+    {
+      "kind": "addition",
+      "subject": "自己",
+      "rationale": "反身語義由 התפעל 形態承載，中文需補「自己」。"
+    }
+  ],
+  "translation": "他們因自己的行為而玷污了自己，又因自己的所作所為行了淫亂。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2584ab0b2b34fe58bc34147c97fae5781c2db4426109cfe3bae8bedbacef795b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/106\/37-40.1792144663012.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטמאו",
+      "gloss": "他們玷污了自己"
+    },
+    {
+      "surface": "במעשיהם",
+      "gloss": "因自己的行為"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "他們行了淫亂"
+    },
+    {
+      "surface": "במעלליהם",
+      "gloss": "因自己的所作所為"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:43.013893039Z",
+  "model": "glm-5.3"
+}

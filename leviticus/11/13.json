@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הנשר",
+      "rationale": "傳統譯「鷹」，今多認為是兀鷲類；此處作「鵰」涵蓋大型猛禽。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "העזניה",
+      "rationale": "全塔納赫僅見於此，確切鳥種不明，或為魚鵰或白尾海鵰。"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文需補「是」。"
+    }
+  ],
+  "translation": "這些飛禽中，你們要以為可憎：牠們不可吃，牠們是可憎之物：⟨את⟩ 鵰、⟨את⟩ 禿鵰，和 ⟨את⟩ 海鵰。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d3d0184346def9ce19653054fc240a4e7c449dba372d5bf4ba2acc167f77440e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/11\/13-16.1792126813870.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "這些"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "你們要以為可憎"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "飛禽"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "可吃"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "可憎之物"
+    },
+    {
+      "surface": "הם",
+      "gloss": "牠們"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "鵰"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "鵰"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "禿鵰"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "禿鵰"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "海鵰"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "海鵰"
+    }
+  ],
+  "timestamp": "2026-10-16T05:00:13.871251377Z",
+  "model": "glm-5.3"
+}

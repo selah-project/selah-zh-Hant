@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "קדר",
+      "rationale": "קדר 字面是「發黑、面色灰暗」，引申穿麻衣哀悼；譯「哀慟」失去顏色意象"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "למה……למה",
+      "rationale": "「為何……為何」的重複是詩篇42–43的重複句式，與43:5的三重「為何」呼應"
+    }
+  ],
+  "translation": "因為你是我力量的以羅欣，你為何棄絕我？我為何在仇敵的壓迫下哀慟而行？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "41ab8dd1895d64a93406ebbb3da9594cefb1eb7969d8a9bb66103e591d4fbece",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/43\/1-4.1792143754858.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我……的以羅欣"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "力量"
+    },
+    {
+      "surface": "למה",
+      "gloss": "為何"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "你棄絕我"
+    },
+    {
+      "surface": "למה",
+      "gloss": "為何"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "哀慟"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "而行"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "在……的壓迫下"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "仇敵"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:34.859362760Z",
+  "model": "glm-5.3"
+}

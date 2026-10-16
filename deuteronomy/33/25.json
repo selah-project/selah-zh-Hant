@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "門閂",
+      "rationale": "מנעליך 傳統讀作「你的鞋」（和合本、欽定本），但詞形更可能是「門閂／門栓」；兩讀並存。"
+    },
+    {
+      "kind": "crux",
+      "subject": "力量",
+      "rationale": "דבאך 罕見詞，或作「安歇／晚年」，傳統讀作「力量」；此處取通行的「力量」。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "דבאך",
+      "rationale": "דֹּבֶא 僅見於此處，詞義不確定。"
+    }
+  ],
+  "translation": "鐵與銅是你的門閂；你的日子如何，你的力量也如何。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "67f3d8fca57661e18ca252ddd0319b9708581d1a1571610ed31b1af14c4eb4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/33\/25-28.1792129324991.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "鐵"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "與銅"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "你的門閂"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "你的日子如何"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "你的力量也如何"
+    }
+  ],
+  "timestamp": "2026-10-16T05:42:04.991860985Z",
+  "model": "glm-5.3"
+}

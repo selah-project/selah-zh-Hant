@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 26:12",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "比他更",
+      "rationale": "希伯來文以 לכסיל…ממנו 的比較結構隱含'更'，中文需明言"
+    },
+    {
+      "kind": "you",
+      "subject": "對讀者",
+      "rationale": "'你看見……嗎？'直接向讀者發問"
+    }
+  ],
+  "translation": "你看見自視為智慧的人嗎？愚昧人比他更有指望。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4533ddaae0b4b6d54dd5f4a8c5e400da0f15d613a40371a80e1f266db3882565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/26\/9-12.1792145629599.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "你看見"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "智慧的"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "在自己眼中"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "指望"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "愚昧人（比他更）"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "比他"
+    }
+  ],
+  "timestamp": "2026-10-16T10:13:49.600932827Z",
+  "model": "glm-5.3"
+}

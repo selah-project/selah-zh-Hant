@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 34:10",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "修補",
+      "rationale": "לבדוק 是專指『修補破口』的動詞（בדק），不是泛泛的『修』。"
+    },
+    {
+      "kind": "addition",
+      "subject": "它（銀子）",
+      "rationale": "אתו 的受詞在中文中以『它』補足，指前述的銀子。"
+    }
+  ],
+  "translation": "他們把銀子交在雅威殿中受派辦事之工人的手裡；辦事的人再把 ⟨אתו⟩ 它交給在雅威殿中做工的人，去修補、加固那殿。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3d1c130c16232e7741391f7cd6bbd5b46b5c313b0f982ddea1fd3a9c82a8da52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/34\/9-12.1792149768798.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "他們交"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "辦事的人"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "工作"
+    },
+    {
+      "surface": "המפקדים",
+      "gloss": "受派的督工"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "在殿中"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "他們再交"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "它（銀子）"
+    },
+    {
+      "surface": "עושי",
+      "gloss": "做工的人"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "工作"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "他們"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "做"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "在殿中"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לבדוק",
+      "gloss": "去修補"
+    },
+    {
+      "surface": "ולחזק",
+      "gloss": "並加固"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "那殿"
+    }
+  ],
+  "timestamp": "2026-10-16T11:22:48.799309754Z",
+  "model": "glm-5.3"
+}

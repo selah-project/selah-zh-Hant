@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שאון",
+      "rationale": "字面為喧囂、澎湃（如洪水奔騰），引申毀滅；KJV 譯『horrible』失其聲音感"
+    },
+    {
+      "kind": "alternative",
+      "subject": "毀滅的坑",
+      "rationale": "שאון 亦可解作『喧鬧』——湧騰喧嘩之坑"
+    }
+  ],
+  "translation": "他把我從毀滅的坑裡、從泥濘的淤泥中拉上來，使我的腳立在磐石上，穩固了我的腳步。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f4a041793cd11dc515919b0af76eee375de4cb94fcaaa6ae4f2b7a65c0771316",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/40\/1-4.1792143725115.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "他把我拉上來"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "從坑"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "毀滅的"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "從泥濘"
+    },
+    {
+      "surface": "היון",
+      "gloss": "淤泥"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "使…立"
+    },
+    {
+      "surface": "על",
+      "gloss": "在…上"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "磐石"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "我的腳"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "穩固了"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "我的腳步"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:05.116945673Z",
+  "model": "glm-5.3"
+}

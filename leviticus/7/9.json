@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 7:9",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתה",
+      "rationale": "帶後綴的受詞記號אתה，以⟨את⟩記號指向「它」（素祭）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "במרחשת",
+      "rationale": "罕見的器具詞，或譯「燉鍋／平底鍋」，與מחבת（烤盤）有別，諸譯本分歧"
+    }
+  ],
+  "translation": "凡在爐中烤的素祭，或在平底鍋裏做的，或在烤盤上做的，都要歸那獻上 ⟨את⟩ 它的祭司，他要得著它。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1c888b16fb5f9b15e3400a15ea227cb6b25dfdb10ea37e1574d880a7a417d87d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/7\/9-12.1792126715067.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "素祭"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "烤"
+    },
+    {
+      "surface": "בתנור",
+      "gloss": "在爐中"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "或凡"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "做的"
+    },
+    {
+      "surface": "במרחשת",
+      "gloss": "在平底鍋裏"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "或在"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "烤盤上"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "要歸祭司"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "那獻上的"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "它"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "要得著"
+    }
+  ],
+  "timestamp": "2026-10-16T04:58:35.068529836Z",
+  "model": "glm-5.3"
+}

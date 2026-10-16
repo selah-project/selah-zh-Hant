@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בנפש איביו",
+      "rationale": "「交在他仇敵的נפש（胃口／性命）之中」——KJV「意志」、JPS「貪婪」，直譯為「性命」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש是氣息／生命力量，此處近於「胃口、慾望」"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יאשר",
+      "rationale": "或作「他必在地上被稱為有福」"
+    }
+  ],
+  "translation": "雅威必保守他，使他存活，使他在地上蒙福；不要把他交在他仇敵的性命〈之手〉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9b758854654f0c2f66c9f531cba1d38d7b1310124a6734e7a98832ed23f0fa47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/41\/1-4.1792143736353.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "必保守他"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "使他存活"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "使……蒙福"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在地上"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "把他交在"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "性命〈之手〉"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "他的仇敵"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:16.354738245Z",
+  "model": "glm-5.3"
+}

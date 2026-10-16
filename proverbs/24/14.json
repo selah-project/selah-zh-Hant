@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 24:14",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 是氣息、生命之力，非不朽的靈魂"
+    },
+    {
+      "kind": "addition",
+      "subject": "結局",
+      "rationale": "אחרית 直譯「末後的事」，中文需加「的」連接"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "蜜與智慧",
+      "rationale": "本節以 כן「照樣」承接上節，將蜜的甘甜比作智慧之於性命"
+    }
+  ],
+  "translation": "你要照樣認識智慧，⟨使它⟩歸於你的性命；你若找著了，就必有的結局，你的指望也必不斷絕。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "df8f5789cc2fc7e8ad7ccdf54fc09b2aa73ad435dd0b112bc89e8ba8f5c41659",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/24\/13-16.1792145611877.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "照樣"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "你要認識"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "歸於你的性命"
+    },
+    {
+      "surface": "אם",
+      "gloss": "你若"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "找著了"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "就必有"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "的結局"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "你的指望"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "斷絕"
+    }
+  ],
+  "timestamp": "2026-10-16T10:13:31.877956276Z",
+  "model": "glm-5.3"
+}

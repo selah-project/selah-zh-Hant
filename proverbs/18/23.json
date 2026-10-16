@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 18:23",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "窮乏人",
+      "rationale": "רָש 是「貧窮者」，CUV 傳統作「貧窮人」；此處沿用「窮乏人」保持塔納赫語域"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחנונים／עזות",
+      "rationale": "懇求與強硬的對仗：窮人的軟言對富人的硬語，中文以「懇求的話／強硬的話」保留平行"
+    }
+  ],
+  "translation": "窮乏人說懇求的話，富人卻回答強硬的話。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e4af18e36e0975735f481dfd132b2d83c359484072359cc04906a397d4e002ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/18\/21-24.1792145464668.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחנונים",
+      "gloss": "懇求的話"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "說"
+    },
+    {
+      "surface": "רש",
+      "gloss": "窮乏人"
+    },
+    {
+      "surface": "ועשיר",
+      "gloss": "富人"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "回答"
+    },
+    {
+      "surface": "עזות",
+      "gloss": "強硬的話"
+    }
+  ],
+  "timestamp": "2026-10-16T10:11:04.669355824Z",
+  "model": "glm-5.3"
+}

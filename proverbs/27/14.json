@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 27:14",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "就是",
+      "rationale": "希伯來文無連接詞，中文需虛詞連結分句。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברך／קללה",
+      "rationale": "祝福（ברך）與咒詛（קללה）並置——過分大聲的祝福反成咒詛；反諷結構在中文中保留。"
+    }
+  ],
+  "translation": "清早起來大聲祝福朋友的，那就是給他算為咒詛。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4529e6ea2fd96df2dc4e91b60327ade49c1d130e16032ad6dc9ff19310329d16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/27\/13-16.1792145670164.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מברך",
+      "gloss": "祝福"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "他的朋友"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "以……聲音"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大的"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "在早晨"
+    },
+    {
+      "surface": "השכים",
+      "gloss": "清早起來"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "咒詛"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "算為"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給他"
+    }
+  ],
+  "timestamp": "2026-10-16T10:14:30.166677613Z",
+  "model": "glm-5.3"
+}

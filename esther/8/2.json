@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "取回",
+      "rationale": "הֶעֱבִיר 字面是「使過去／轉移」，指戒指從哈曼手中被取回"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טַבַּעַת／שַׁרְבִיט",
+      "rationale": "印章與權杖交替出現於 8:2、8:4，是王權移交的記號鏈"
+    },
+    {
+      "kind": "measurement",
+      "subject": "權柄的移交",
+      "rationale": "戒指、家產、職分的逐一轉移構成清點式的敘事"
+    }
+  ],
+  "translation": "王脫下〈את〉自己從哈曼那裏取回的印章戒指，賜給了末底改；以斯帖就派末底改管理哈曼的家。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0edfa482f3bfde3e61c6d5b1db39bfe3c0a5003b70fe8b6654a0e80be976d17c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/esther\/8\/1-4.1792147314976.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "脫下"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的印章戒指"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "他的印章戒指"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "取回（使從……轉移過來）"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "從哈曼"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "賜給了"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "給末底改"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "就設立／派"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "以斯帖"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "末底改"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "末底改"
+    },
+    {
+      "surface": "על",
+      "gloss": "管理（在……之上）"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "המן",
+      "gloss": "哈曼"
+    }
+  ],
+  "timestamp": "2026-10-16T10:41:54.977720097Z",
+  "model": "glm-5.3"
+}

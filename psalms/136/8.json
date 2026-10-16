@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "使它",
+      "rationale": "לממשלת 是目的用法「以掌管」，中文補出使役結構"
+    }
+  ],
+  "translation": "⟨את⟩ 太陽，使它掌管白晝，因他的慈愛永遠長存。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "317ed6efc2cc6391c7b393cb0d0b3920f14e995d7e9830f3330c6771da69377e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/136\/5-8.1792144994942.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "太陽"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "掌管"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "白晝"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "他的慈愛長存"
+    }
+  ],
+  "timestamp": "2026-10-16T10:03:14.944463684Z",
+  "model": "glm-5.3"
+}

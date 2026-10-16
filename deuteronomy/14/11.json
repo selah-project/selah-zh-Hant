@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "可以",
+      "rationale": "希伯來文陳述句式「你們要吃」，中文以「可以」表許可"
+    }
+  ],
+  "translation": "凡潔淨的鳥類，你們都可以吃。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6187fec61030015f0fa3c88e192d2f4e35fcae7349ee8f645803271e029fdb03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/14\/9-12.1792128773258.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "鳥類"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "潔淨的"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "你們都可以吃"
+    }
+  ],
+  "timestamp": "2026-10-16T05:32:53.259366271Z",
+  "model": "glm-5.3"
+}

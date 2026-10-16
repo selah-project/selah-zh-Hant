@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 24:23",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "此處 את 是第二人稱代名詞『你』（H859），非受詞記號 את（H853），不帶記號"
+    },
+    {
+      "kind": "you",
+      "subject": "to 利百加",
+      "rationale": "僕人直接向利百加發問"
+    }
+  ],
+  "translation": "他說：「你是誰的女兒？請告訴我。你父親的家裡有地方給我們過夜嗎？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "929efbe90f8e3e4962f02e9091b861a681496f80a429afb3f9334022efb959b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/24\/21-24.1792125029755.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "בת",
+      "gloss": "女兒"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰的"
+    },
+    {
+      "surface": "את",
+      "gloss": "你"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "請告訴"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "היש",
+      "gloss": "有"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你的父親"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "地方"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "給我們"
+    },
+    {
+      "surface": "ללין",
+      "gloss": "過夜"
+    }
+  ],
+  "timestamp": "2026-10-16T04:30:29.756727808Z",
+  "model": "glm-5.3"
+}

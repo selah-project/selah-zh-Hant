@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אל אלהים יהוה",
+      "rationale": "三重聖名並列——伊勒、以羅欣、雅威——層層遞升的宣告，中文名號並列保留此結構"
+    },
+    {
+      "kind": "addition",
+      "subject": "之處／之地",
+      "rationale": "ממזרח שמש ׈ מבאו 直譯「從太陽的日出直到它的入處」，中文需補出空間名詞"
+    }
+  ],
+  "translation": "亞薩的詩篇。伊勒、以羅欣、雅威已發言，呼喚大地，從日出之處直到日落下之地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5b333b4986641e72bb7a769ca2765e7ff3ef82c51e3d22486fb9a306a4389c0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/50\/1-4.1792143867100.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "詩篇"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "亞薩的"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "已發言"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "呼喚"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "從日出之處"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "日落下之地"
+    }
+  ],
+  "timestamp": "2026-10-16T09:44:27.100859274Z",
+  "model": "glm-5.3"
+}

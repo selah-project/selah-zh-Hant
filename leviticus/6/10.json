@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "帶…之物",
+      "rationale": "חמץ是名詞「酵／酵物」，中文需補動詞結構作「帶酵烤」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש קדשים",
+      "rationale": "「聖中之聖」的疊語結構，譯作「至聖」，原文的疊字修辭失落"
+    }
+  ],
+  "translation": "不可帶酵烤；他們的份——我從我的火祭中已給了 ⟨את⟩ 它；它是至聖的，如贖罪祭，也如贖愆祭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a555b0c041a2b8b0e53f48fba9229b801bd78160f57c385fd7270e0a2c9b7fcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/6\/9-12.1792126736799.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "烤"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "帶酵之物"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "他們的份"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我已給"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "它（火祭中給祭司的份）"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "從我的火祭"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "至聖（眾聖之物）"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "它"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "如贖罪祭"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "也如贖愆祭"
+    }
+  ],
+  "timestamp": "2026-10-16T04:58:56.800718247Z",
+  "model": "glm-5.3"
+}

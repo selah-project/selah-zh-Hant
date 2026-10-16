@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 19:13",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "טרד",
+      "rationale": "字義為「追趕不歇」，譯作「不住的」以描繪滴漏連綿之勢"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הות…כסיל",
+      "rationale": "希伯來文以名詞句首置（災害給他父親——愚昧之子），中文改為判斷句式"
+    }
+  ],
+  "translation": "愚昧的兒子是他父親的災害；妻子的爭吵如同不住的滴漏。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4db57d3e7984a0cd60fd6edf2d7f04c1d323a7bd066f653ba32aac9a5bab8464",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/19\/13-16.1792145516496.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הות",
+      "gloss": "災害"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "是他父親的"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "愚昧的"
+    },
+    {
+      "surface": "ודלף",
+      "gloss": "如同不住的滴漏"
+    },
+    {
+      "surface": "טרד",
+      "gloss": "不住的"
+    },
+    {
+      "surface": "מדיני",
+      "gloss": "爭吵"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "妻子的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:11:56.496601201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דממה דקה",
+      "rationale": "各譯本作「微小的聲音」「低微的呢喃」「細微的耳語」等；直譯是「細薄（如粉碎之物）的靜默之聲」，qol（聲）與 demamah（靜）並置的張力是本節的核心。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "דממה",
+      "rationale": "דממה 此形在塔納赫中僅此一處（同根另見於詩篇等），配合דק（粉碎般細薄）凸顯其獨特性。"
+    },
+    {
+      "kind": "mystery",
+      "subject": "細微安靜的聲音",
+      "rationale": "雅威不在風、地震、火中，卻在幾乎聽不見的靜默裡——全章刻意倒轉的顯現方式。"
+    }
+  ],
+  "translation": "地震之後有火——雅威不在火中；火之後有細微安靜的聲音。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "66be424d0aaf562f1d9b295ea91326dc9473343133ffd5d58af94cabf5c6bae9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/19\/9-12.1792133312353.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "之後"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "那地震"
+    },
+    {
+      "surface": "אש",
+      "gloss": "有火"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "באש",
+      "gloss": "在火中"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "之後"
+    },
+    {
+      "surface": "האש",
+      "gloss": "那火"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲音"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "安靜"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "細微"
+    }
+  ],
+  "timestamp": "2026-10-16T06:48:32.355326084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 13:22",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "那裏才",
+      "rationale": "「惟有……才找得到」的對比結構為中文語法所需，希伯來文僅作「找到了——歸掃羅和約拿單」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נמצא／ותמצא",
+      "rationale": "「找不到／才找到」重複同一動詞 מצא，形成對比呼應，中文以重複「找到」保留。"
+    }
+  ],
+  "translation": "到了爭戰的日子，與⟨את⟩掃羅和⟨את⟩約拿單同在的眾民，手中都找不到刀和槍；惟有掃羅和他兒子約拿單那裏才找得到。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "120d8c878cc517918208a6576b7c2857257af530c550366fea7ce813295c2815",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/13\/21-23.1792130932967.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "到了"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "的日子"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "爭戰"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "都不"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "找到"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "和槍"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手中"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "העם",
+      "gloss": "眾民"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "與"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "掃羅"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "和⟨את⟩",
+      "marks": "約拿單"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "ותמצא",
+      "gloss": "才找得到"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "וליונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "他兒子"
+    }
+  ],
+  "timestamp": "2026-10-16T06:08:52.968321579Z",
+  "model": "glm-5.3"
+}

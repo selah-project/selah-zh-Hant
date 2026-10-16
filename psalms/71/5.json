@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "盼望",
+      "rationale": "תקוה 本義是「繩索」，引申為期盼；具體圖像失落。"
+    },
+    {
+      "kind": "addition",
+      "subject": "你是",
+      "rationale": "第二句希伯來無動詞，中文補出「你是」以成句。"
+    }
+  ],
+  "translation": "因為你是我的盼望，阿多奈、雅威，你是我自幼年以來的倚靠。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6ca79f69ce876f64ccff447755403c87f9ecf5f4c918067e37ceaef2a588c8ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/71\/5-8.1792144123912.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "我的盼望"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "我的倚靠"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "自幼年以來"
+    }
+  ],
+  "timestamp": "2026-10-16T09:48:43.913107060Z",
+  "model": "glm-5.3"
+}

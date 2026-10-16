@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש 非不朽『靈魂』，是生命氣息整體；譯『生命』"
+    },
+    {
+      "kind": "idiom",
+      "subject": "קצרה נפשי",
+      "rationale": "字面『我的נפש被截短』＝忍無可忍的厭煩，中文以『厭煩』達意"
+    },
+    {
+      "kind": "mystery",
+      "subject": "三個牧人",
+      "rationale": "身分在文本中未指明，是撒迦利亞書最著名的未解之謎之一"
+    },
+    {
+      "kind": "measurement",
+      "subject": "一個月之內",
+      "rationale": "時間記號：三個牧人除滅於一個月內"
+    }
+  ],
+  "translation": "我在一個月之內除滅了⟨את⟩三個牧人，因為我的生命厭煩他們，他們的生命也憎嫌我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "14a19b808ae01bc553c6902bb70a2f96ba68d0a5cda50e4324dbf9b5c3e50236",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/zechariah\/11\/5-8.1792143160469.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכחד",
+      "gloss": "除滅了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "三個牧人"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三個"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "牧人"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "在一個月之內"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一（個）"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "厭煩（被截短）"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的生命"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "對他們"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "也"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "他們的生命"
+    },
+    {
+      "surface": "בחלה",
+      "gloss": "憎嫌"
+    },
+    {
+      "surface": "בי",
+      "gloss": "對我"
+    }
+  ],
+  "timestamp": "2026-10-16T09:32:40.470772585Z",
+  "model": "glm-5.3"
+}

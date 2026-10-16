@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עקב",
+      "rationale": "「腳跟」引申為「後果、報應」：KJV作「因他們羞愧的報應」，或如YLT\/JPS「因著他們的羞愧」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האח האח",
+      "rationale": "嘲弄的感嘆詞重複兩次，倖災樂禍之聲，中文以「啊哈、啊哈」擬聲保留"
+    }
+  ],
+  "translation": "願那對我說「啊哈、啊哈」的人，因自己的羞愧而荒涼驚惶。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "90e1d07c3789c542296e930d0b41d682eedc356d76093ade40831584ea87da5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/40\/13-16.1792143754457.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "願…荒涼驚惶"
+    },
+    {
+      "surface": "על",
+      "gloss": "因"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "…的緣故"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "自己的羞愧"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "那…說的人"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "האח",
+      "gloss": "啊哈"
+    },
+    {
+      "surface": "האח",
+      "gloss": "啊哈"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:34.458460419Z",
+  "model": "glm-5.3"
+}

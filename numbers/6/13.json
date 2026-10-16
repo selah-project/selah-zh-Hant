@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 6:13",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "人要帶",
+      "rationale": "יביא 無主語，中文加「人」作不定人稱"
+    },
+    {
+      "kind": "elision",
+      "subject": "אוהל מועד",
+      "rationale": "直譯「會面的帳幕」，中文沿「會幕」一詞"
+    }
+  ],
+  "translation": "這就是拿細耳人的妥拉：他離俗的日子滿了的那一天，人要帶 ⟨אתו⟩ 他到會幕的門口，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "06211f9695620e15c46bcac92e0aa13af01076b858afc6a5864325e98ab479ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/6\/13-16.1792127599899.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "這就是"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "妥拉"
+    },
+    {
+      "surface": "הנזיר",
+      "gloss": "拿細耳人的"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在那一天"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "滿了"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日子"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "他離俗的"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "人要帶"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "他"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門口"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "會幕的"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會幕"
+    }
+  ],
+  "timestamp": "2026-10-16T05:13:19.900253796Z",
+  "model": "glm-5.3"
+}

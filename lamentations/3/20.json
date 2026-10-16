@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זכור תזכור",
+      "rationale": "不定式絕對加限定動詞的疊用——「記了又記」表極度的確定，希伯來文的強調結構"
+    },
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש是整個生命氣息的「我」，不是二分的靈魂"
+    }
+  ],
+  "translation": "我的性命記了又記，在我裡面沉落下去。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5434ad4564492120d9dac1ac58a516bb98fcdbbfa5c631b72b52eda56d30439e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/lamentations\/3\/17-20.1792146816645.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "記了"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "又記"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "就沉落下去"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "在我裡面"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    }
+  ],
+  "timestamp": "2026-10-16T10:33:36.646260092Z",
+  "model": "glm-5.3"
+}

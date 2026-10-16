@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他們",
+      "rationale": "希伯來文動詞第三人稱複數已含主語，中文需代名詞。"
+    },
+    {
+      "kind": "crux",
+      "subject": "קרוב מפני חשך",
+      "rationale": "KJV\/JPS「光因黑暗而短少」對比 YLT「光因黑暗而近」；字面是「光在黑暗面前臨近」，所指（朋友顛倒黑白，或約伯死期將近）是著名難點。"
+    }
+  ],
+  "translation": "他們使黑夜變為白晝，使光在黑暗面前臨近。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "050969a89630496a4744c107a379889634846bc987949476ecb337d38f01da9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/17\/9-12.1792146074967.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "黑夜"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "變為白晝"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "他們使"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "臨近"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "在……面前"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "黑暗"
+    }
+  ],
+  "timestamp": "2026-10-16T10:21:14.968518222Z",
+  "model": "glm-5.3"
+}

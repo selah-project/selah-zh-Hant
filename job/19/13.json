@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 19:13",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "動詞 הרחיק 無主語，中文需補出主語「他」（指雅威）"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרו\/נכרי",
+      "rationale": "19:13–15 連用 זור、נכרי 等「陌生」詞族，層層遞進強化離棄意象"
+    }
+  ],
+  "translation": "他使我的弟兄遠離我，我認識的人確實成了陌生人，疏遠了我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c85719a68e869bd0c59a723cbe55fe2d1147611f66c00202299e5d1c329fe7da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/19\/13-16.1792146091843.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "我的弟兄"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "遠離我"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "他使……遠離"
+    },
+    {
+      "surface": "וידעי",
+      "gloss": "我認識的人"
+    },
+    {
+      "surface": "אך",
+      "gloss": "確實"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "成了陌生人"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "疏遠了我"
+    }
+  ],
+  "timestamp": "2026-10-16T10:21:31.843509583Z",
+  "model": "glm-5.3"
+}

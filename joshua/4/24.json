@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 4:24",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "它",
+      "rationale": "希伯來文僅作「因為剛強」；中文需補出主語指代「手」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "直到所有的日子",
+      "rationale": "כל הימים字面是「所有的日子」，即永遠、一生一世。"
+    }
+  ],
+  "translation": "要使地上萬民都知道 ⟨את⟩ 雅威的手——它是剛強的——並要使你們敬畏雅威——你們的以羅欣——直到所有的日子。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6cec6a287fa36478e2ac566c02b552c850c37894f66cff8fcf2d2ba9355ceba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/4\/21-24.1792129449907.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "要使"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知道"
+    },
+    {
+      "surface": "כל",
+      "gloss": "萬"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的手"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "——"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "剛強的"
+    },
+    {
+      "surface": "היא",
+      "gloss": "它"
+    },
+    {
+      "surface": "למען",
+      "gloss": "並要使"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "你們敬畏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "你們的以羅欣"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "日子"
+    }
+  ],
+  "timestamp": "2026-10-16T05:44:09.908629583Z",
+  "model": "glm-5.3"
+}

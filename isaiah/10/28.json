@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 10:28",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "主語（亞述大軍，承上文）未在經文本節出現，中文需補「他」，以括號標明。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "行軍路線",
+      "rationale": "本節起逐一列出亞述軍行經的城邑：亞雅、米崙、密抹——地名的清單。"
+    }
+  ],
+  "translation": "〈他〉來到亞雅，經過米崙，在密抹安放他的器械。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "438a605020493ef5f74ec52fb910c7bb1b24fe4985580ad1fe993c939d1c7771",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/10\/25-28.1792134732706.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "על",
+      "gloss": "到"
+    },
+    {
+      "surface": "עית",
+      "gloss": "亞雅"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "經過"
+    },
+    {
+      "surface": "במגרון",
+      "gloss": "在米崙"
+    },
+    {
+      "surface": "למכמש",
+      "gloss": "到密抹"
+    },
+    {
+      "surface": "יפקיד",
+      "gloss": "安放"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "他的器械"
+    }
+  ],
+  "timestamp": "2026-10-16T07:12:12.708546856Z",
+  "model": "glm-5.3"
+}

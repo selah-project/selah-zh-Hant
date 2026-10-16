@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "一千／二百",
+      "rationale": "與11節的數目相對：一千歸所羅門，二百歸看守的人。"
+    },
+    {
+      "kind": "you",
+      "subject": "所羅門",
+      "rationale": "直接稱呼所羅門：「一千歸你，所羅門」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרמי שלי",
+      "rationale": "「我的葡萄園，屬我的」重複強調所有權，回應1:6「我自己的葡萄園」；與11節所羅門的葡萄園相對。"
+    }
+  ],
+  "translation": "我的葡萄園，屬我的，在我面前；一千歸你，所羅門；二百歸看守⟨את⟩其果子的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7d3eaa55d3627b589be5cf6493e4000c4c6820a81cc1cdd6099f06d05b3ee1f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/8\/9-12.1792146696173.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "我的葡萄園"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "屬我的"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在我面前"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "那一千"
+    },
+    {
+      "surface": "לך",
+      "gloss": "歸你"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "二百"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "看守……的人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "其果子"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "其果子"
+    }
+  ],
+  "timestamp": "2026-10-16T10:31:36.174600156Z",
+  "model": "glm-5.3"
+}

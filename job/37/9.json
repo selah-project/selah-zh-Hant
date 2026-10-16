@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 37:9",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ממזרים",
+      "rationale": "複數形式，字義為「驅散者」，指吹散雲的北風；各譯本或作「北方」或作「驅散之風」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "內室",
+      "rationale": "חדר 字面是「房間、密室」——風暴從隱密處出來的意象"
+    }
+  ],
+  "translation": "狂風從內室而來，寒冷從驅散之風的北方而來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3c5a2b2d7b06e5ef97ec81e1457d44922448e35db18a6e697ad38ea09391a4e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/37\/9-10.1792149995697.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "החדר",
+      "gloss": "內室"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "來"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "狂風"
+    },
+    {
+      "surface": "וממזרים",
+      "gloss": "從驅散之風的北方"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "寒冷"
+    }
+  ],
+  "timestamp": "2026-10-16T11:26:35.697521085Z",
+  "model": "glm-5.3"
+}

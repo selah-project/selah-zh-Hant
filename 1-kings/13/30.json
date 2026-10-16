@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "哀哉",
+      "rationale": "הוי是哀嘆感嘆詞，常見於哀悼場合，如「哀哉／禍哉」"
+    },
+    {
+      "kind": "addition",
+      "subject": "人們",
+      "rationale": "ויספדו動詞複數無主語，中文需補出主語"
+    },
+    {
+      "kind": "you",
+      "subject": "to the dead man",
+      "rationale": "「哀哉，我的兄弟」是直接對死者的哀悼呼語"
+    }
+  ],
+  "translation": "他把⟨את⟩他的屍首安放在自己的墳墓裡，人們為他哀悼說：「哀哉，我的兄弟！」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e3d70f42bfbcf1883f82828c8d12b31042d91561aac6ab6665f2b47ea5b7007f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/13\/29-32.1792133023431.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "安放"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的屍首"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "他的屍首"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "在自己的墳墓裡"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "他們哀悼"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "為他"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "哀哉"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "我的兄弟"
+    }
+  ],
+  "timestamp": "2026-10-16T06:43:43.432540509Z",
+  "model": "glm-5.3"
+}

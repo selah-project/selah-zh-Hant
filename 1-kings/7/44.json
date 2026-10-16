@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "海",
+      "rationale": "הַיָּם 直譯「那海」，指巨大的銅水盆，稱為「銅海」；此處「海」是器物之名，非真海。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "list",
+      "rationale": "一海、十二牛的數目清單。"
+    }
+  ],
+  "translation": "還有⟨ואת⟩那一個銅海，和⟨ואת⟩海下的十二隻牛。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0d34374412dbb1a9a0b46d35129c63877bf8e6526b8bec3f34af50c5dd946def",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/7\/41-44.1792132619194.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "那一個銅海"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "那一個"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "十二隻牛"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "在……之下"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    }
+  ],
+  "timestamp": "2026-10-16T06:36:59.195943234Z",
+  "model": "glm-5.3"
+}

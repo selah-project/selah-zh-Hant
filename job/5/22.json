@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 5:22",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "野獸",
+      "rationale": "מחית הארץ字面為「地上的活物」，和合本傳統作「野獸」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שד／כפן",
+      "rationale": "5:21–22連續以שד（毀滅）與懼怕（ירא）的字根重複，排比在中文中部分保留"
+    }
+  ],
+  "translation": "對毀滅和饑饉你要嘲笑，也不懼怕地上的野獸。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "325f672c65ba168587457e0045b3f75e41c77dfda36e1be0051939b904abf201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/5\/21-24.1792145853212.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשד",
+      "gloss": "對毀滅"
+    },
+    {
+      "surface": "ולכפן",
+      "gloss": "和饑饉"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "你要嘲笑"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "也不懼怕"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上的"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "懼怕"
+    }
+  ],
+  "timestamp": "2026-10-16T10:17:33.213688613Z",
+  "model": "glm-5.3"
+}

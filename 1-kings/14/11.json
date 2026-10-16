@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "城\/田野 對仗",
+      "rationale": "城裡的狗與田野的飛鳥對仗排比，不得 burial 的咒詛結構"
+    },
+    {
+      "kind": "substitution",
+      "subject": "空中的",
+      "rationale": "עוף השמים 直譯「天上的飛鳥」，שמים 為複數（諸天），中文以「空中」承接"
+    }
+  ],
+  "translation": "屬耶羅波安的人死在城裡的，狗必吃他；死在田野的，空中的飛鳥必吃他；因為雅威已經說了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dbb17bd20bd454ab7a3d724cff54c7efa4af5f2a2f4fed7112991115887b66e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/14\/9-12.1792133079340.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "那死…的"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "屬耶羅波安"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "在城裡"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "必吃"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "狗"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "那死…的"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "在田野"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "必吃"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "飛鳥"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "空中的"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "已經說了"
+    }
+  ],
+  "timestamp": "2026-10-16T06:44:39.341829385Z",
+  "model": "glm-5.3"
+}

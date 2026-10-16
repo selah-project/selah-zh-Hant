@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 41:2",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צדק 的位置",
+      "rationale": "『從東方興起公義（者）』（KJV）還是『以公義召他』（ASV\/BSB）；介詞片語可掛在動詞或名詞上"
+    },
+    {
+      "kind": "alternative",
+      "subject": "從東方興起的那位",
+      "rationale": "多數註釋指居魯士；文本本身未點名，不帶前知地保留疑問語氣"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קש \/ קשת",
+      "rationale": "碎稭（qash）與弓（qeshet）近音並列，希伯來文的音韻雙關在中文中失去"
+    }
+  ],
+  "translation": "誰從東方興起⟨את⟩一人，以公義召他到腳前？雅威將列國交在他面前，使他制伏君王；他使他們如灰塵歸於他的刀，如吹散的碎稭歸於他的弓。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7a22f4af579eee51a6e77e17139c1739317e9dad2654a082f6cdcdd9228195da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/41\/1-4.1792135484768.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "興起"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "從東方"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "以公義"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "召他"
+    },
+    {
+      "surface": "לרגלו",
+      "gloss": "到腳前"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "將……交在"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "在他面前"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "君王"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "使他制伏"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "使……歸於"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "如灰塵"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "他的刀"
+    },
+    {
+      "surface": "קש",
+      "gloss": "碎稭"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "吹散的"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "他的弓"
+    }
+  ],
+  "timestamp": "2026-10-16T07:24:44.769465111Z",
+  "model": "glm-5.3"
+}

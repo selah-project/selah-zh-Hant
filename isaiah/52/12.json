@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 52:12",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ומאספכם",
+      "rationale": "字面為『聚集你們的那位』，譯作『後衛』以保存軍旅前後護衛的意象"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "中文需繫詞而希伯來文分詞句無繫詞，加〈是〉連接"
+    }
+  ],
+  "translation": "因為你們不是急忙出去，也不是逃跑奔走；因為在你們前面行走的是雅威，你們的後衛是以羅欣，以色列的以羅欣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "00dad7920c64788357726b96b0ebb8546103fc0f627a78c91c0892c15402a706",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/52\/9-12.1792135664595.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不是"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "急忙"
+    },
+    {
+      "surface": "תצאו",
+      "gloss": "出去"
+    },
+    {
+      "surface": "ובמנוסה",
+      "gloss": "逃跑奔走"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不是"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "行走"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "行走"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "在你們前面"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ומאספכם",
+      "gloss": "你們的後衛"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T07:27:44.596544334Z",
+  "model": "glm-5.3"
+}

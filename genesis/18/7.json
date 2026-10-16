@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 18:7",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בן בקר",
+      "rationale": "「牛群之子」（בן בקר）是希伯來文的構詞組合，指牛犢；譯文以「牛犢」呈現，字面結構見逐詞對應。"
+    },
+    {
+      "kind": "addition",
+      "subject": "它",
+      "rationale": "אתו 是受詞記號帶後綴，指向牛犢；記號保留為⟨את⟩，中文補「它」以成句。"
+    }
+  ],
+  "translation": "亞伯拉罕又跑到牛群，取了一隻又嫩又好的牛犢，交給那少年，他就急忙去預備⟨את⟩它。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5fcde09abc3b8f8a82d7552672af196f9ed72e5f66413b1f3b0a49a031cf4702",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/18\/5-8.1792124857609.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "又到"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "牛群"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "跑"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "取了"
+    },
+    {
+      "surface": "בן",
+      "gloss": "一隻……犢"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "רך",
+      "gloss": "嫩"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "又好"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "給"
+    },
+    {
+      "surface": "אל",
+      "gloss": "給"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "那少年"
+    },
+    {
+      "surface": "וימהר",
+      "gloss": "急忙"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "去預備"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "它（那牛犢）"
+    }
+  ],
+  "timestamp": "2026-10-16T04:27:37.610401845Z",
+  "model": "glm-5.3"
+}

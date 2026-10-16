@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 11:14",
+  "book": "zechariah",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "החבלים",
+      "rationale": "直譯「繩索」（複數）；KJV 作「聯結」（Bands），取其束綁之意，非字面。"
+    },
+    {
+      "kind": "addition",
+      "subject": "就是那稱為",
+      "rationale": "希伯來文僅並列同位語，中文需補引導語以點明杖名。"
+    },
+    {
+      "kind": "you",
+      "subject": "敘事者撒迦利亞",
+      "rationale": "先知以象徵動作演出雅威的作為，無直接聽者。"
+    }
+  ],
+  "translation": "我又砍斷 ⟨את⟩ 我第二根杖，就是那稱為「聯結」的杖，為要廢除 ⟨את⟩ 猶大與以色列之間的弟兄之情。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2886a7b213736362669544b3af6a64ebd646d3c1ef50fc2775606f9d026cb78b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/zechariah\/11\/13-16.1792143094057.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואגדע",
+      "gloss": "我又砍斷"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我第二根杖"
+    },
+    {
+      "surface": "מקלי",
+      "gloss": "我的杖"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二根"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "「聯結」的杖"
+    },
+    {
+      "surface": "החבלים",
+      "gloss": "「聯結」"
+    },
+    {
+      "surface": "להפר",
+      "gloss": "為要廢除"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "弟兄之情"
+    },
+    {
+      "surface": "האחוה",
+      "gloss": "弟兄之情"
+    },
+    {
+      "surface": "בין",
+      "gloss": "之間"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "與"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T09:31:34.058505027Z",
+  "model": "glm-5.3"
+}

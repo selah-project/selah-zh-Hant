@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 2:7",
+  "book": "micah",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האמור",
+      "rationale": "「豈可說」（ASV）或「那被稱為雅各家者」（KJV）；牽動全節的說話者是誰"
+    },
+    {
+      "kind": "substitution",
+      "subject": "魯阿",
+      "rationale": "רוח 按 D2 登記為魯阿（首現括註 靈）；原義氣息／風"
+    },
+    {
+      "kind": "addition",
+      "subject": "〈同在並〉",
+      "rationale": "עם 直譯「與」，中文需補動詞結構"
+    },
+    {
+      "kind": "you",
+      "subject": "對雅各家",
+      "rationale": "直接質問雅各家"
+    }
+  ],
+  "translation": "雅各家豈可說：雅威的魯阿（靈）是短少的嗎？這些是他的作為嗎？我的話語豈不與行事正直的人〈同在並〉得好处嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "647b80723728cdd5af2dbf66ff73331d07ceffe88b1393f0179c442382098790",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/micah\/2\/5-8.1792139967177.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמור",
+      "gloss": "豈可說"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "הקצר",
+      "gloss": "是短少的嗎"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "魯阿（靈）"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אם",
+      "gloss": "難道"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "מעלליו",
+      "gloss": "他的作為"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "豈不"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "我的話語"
+    },
+    {
+      "surface": "ייטיבו",
+      "gloss": "使得好處"
+    },
+    {
+      "surface": "עם",
+      "gloss": "與"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "正直的"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "行的人"
+    }
+  ],
+  "timestamp": "2026-10-16T08:39:27.178629062Z",
+  "model": "glm-5.3"
+}

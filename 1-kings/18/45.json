@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 18:45",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד כה ועד כה",
+      "rationale": "直譯「直到這裡、又直到這裡」，即「這一會兒、又一會兒」，表短暫時間的成對重複"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עד כה ועד כה",
+      "rationale": "同一短語重複兩次，中文以「這一會兒、那一會兒」保留節奏"
+    },
+    {
+      "kind": "substitution",
+      "subject": "התקדרו",
+      "rationale": "字根本義「發暗如灰」，此處指天色轉黑；同根可指穿麻衣哀悼"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וירכב",
+      "rationale": "希伯來文只說「騎乘」，未明言車輛；中文補「車輛」以合語境"
+    }
+  ],
+  "translation": "過了這一會兒、又那一會兒，天因雲和風變黑了，下了大雨。亞哈乘坐車輛，往耶斯列去了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7d8d05286b598b2c2bd4263309cc5a556c20946576d60b7a284db65fc9346a66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/18\/45-46.1792133247034.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "過了"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "כה",
+      "gloss": "這一會兒"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "又直到"
+    },
+    {
+      "surface": "כה",
+      "gloss": "那一會兒"
+    },
+    {
+      "surface": "והשמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "התקדרו",
+      "gloss": "變黑了"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "雲"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "風"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "下了"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "雨"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "乘坐車輛"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "去了"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "往耶斯列"
+    }
+  ],
+  "timestamp": "2026-10-16T06:47:27.034798614Z",
+  "model": "glm-5.3"
+}

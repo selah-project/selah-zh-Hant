@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איש ׁx3",
+      "rationale": "「一人…各人…一人」三重重複的 איש，強調每支派一人，中文保留重複。"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "中文需要的判斷連繫由「要有…作」承擔，הוא（他本人）為強調代名詞。"
+    }
+  ],
+  "translation": "每支派要有 ⟨את⟩ 一個人與你們同在，各人作他父家的首領。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6644281be4303ce7a73fdb58cbdaf9eb2f36d97306ae9dd0814bfe6bad26ccf0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/1\/1-4.1792127422654.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ 與你們"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "要有"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一人"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "每支派"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一人"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "首領"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "作…家"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "他父"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他本人"
+    }
+  ],
+  "timestamp": "2026-10-16T05:10:22.656071138Z",
+  "model": "glm-5.3"
+}

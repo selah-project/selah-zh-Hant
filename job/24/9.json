@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 24:9",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משד",
+      "rationale": "僅此處出現的『乳房』一詞：或作『從懷中（搶走孤兒）』（依 שד 重讀），或如『孤兒的乳房／食物』被奪"
+    },
+    {
+      "kind": "substitution",
+      "subject": "索取抵押",
+      "rationale": "יחבלו 字面『捆綁如繩』，引申『取抵押品』"
+    },
+    {
+      "kind": "hapax",
+      "subject": "משד",
+      "rationale": "全塔納赫僅此一見"
+    }
+  ],
+  "translation": "他們搶奪 ⟨את⟩ 孤兒的 ⟨את⟩ 懷中乳，向貧窮人索取抵押。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "162591c073d69330d3c9b4a8b6f31d674c9395e593d4f8faab5139bd4a991159",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/24\/9-12.1792146222823.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגזלו",
+      "gloss": "他們搶奪"
+    },
+    {
+      "surface": "משד",
+      "gloss": "懷中乳"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "孤兒"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "向"
+    },
+    {
+      "surface": "עני",
+      "gloss": "貧窮人"
+    },
+    {
+      "surface": "יחבלו",
+      "gloss": "索取抵押"
+    }
+  ],
+  "timestamp": "2026-10-16T10:23:42.824346490Z",
+  "model": "glm-5.3"
+}

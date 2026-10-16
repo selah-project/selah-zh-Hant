@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨就是⟩",
+      "rationale": "中文需補連繫詞連接「是你嗎」與「攪亂以色列的人」"
+    },
+    {
+      "kind": "you",
+      "subject": "to 以利亞",
+      "rationale": "亞哈直接質問以利亞，語帶指控"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עכר",
+      "rationale": "עכר字面為「攪渾水」，下節以利亞反用同一動詞回敬亞哈"
+    }
+  ],
+  "translation": "亞哈看見 ⟨את⟩ 以利亞的時候，亞哈就對他說：「是你嗎？⟨就是⟩這攪亂以色列的人？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "504816e03c8e004468c2349f92b3c1f16f5a1ea567f4874d490f3afaf7fa58c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/18\/17-20.1792133280746.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "當…的時候"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "看見"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以利亞"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "以利亞"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "就說"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "是你嗎"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "攪亂"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T06:48:00.747594088Z",
+  "model": "glm-5.3"
+}

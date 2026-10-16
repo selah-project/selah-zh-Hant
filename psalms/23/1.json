@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文需要「是」"
+    },
+    {
+      "kind": "you",
+      "subject": "詩人",
+      "rationale": "以第一人稱向雅威宣告，間接向聽者／讀者說話"
+    }
+  ],
+  "translation": "大衛的詩。雅威是我的牧者，我必不致缺乏。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/23\/1-4.1792143452528.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "詩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "是我的牧者"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "缺乏"
+    }
+  ],
+  "timestamp": "2026-10-16T09:37:32.528993277Z",
+  "model": "glm-5.3"
+}

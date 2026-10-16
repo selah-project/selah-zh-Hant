@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "生命",
+      "rationale": "נפש 是氣息、生命之力，不是 disembodied 的「靈魂」"
+    },
+    {
+      "kind": "addition",
+      "subject": "走",
+      "rationale": "中文需要動詞「走」以成句，希伯來文僅有「在……路徑中」"
+    }
+  ],
+  "translation": "他使我的生命甦醒，為自己的名引導我走公義的路。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/23\/1-4.1792143452528.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "我的生命"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "使……甦醒"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "引導我"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "走……的路"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義的"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為了"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "自己的名"
+    }
+  ],
+  "timestamp": "2026-10-16T09:37:32.529351933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "說",
+      "rationale": "希伯來文只說「大衛還能再加添甚麼」，中文需補動詞「說」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבדך 重複",
+      "rationale": "「你的僕人」一節內三次重複，是大衛禱告的謙卑節奏。"
+    }
+  ],
+  "translation": "大衛還能再對你說甚麼，來尊榮 ⟨את⟩ 你的僕人呢？而你認識 ⟨את⟩ 你的僕人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4995ccb8f4d0895b108c95f5ffe7fb04df01a265ec69a65f4bbe661eca6a2c6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/17\/17-20.1792148875874.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "還能…甚麼"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "再"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "還"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "來尊榮"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的僕人"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你的僕人"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "而你"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的僕人"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你的僕人"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "認識"
+    }
+  ],
+  "timestamp": "2026-10-16T11:07:55.875132051Z",
+  "model": "glm-5.3"
+}

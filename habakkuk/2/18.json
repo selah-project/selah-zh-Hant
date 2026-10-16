@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "habakkuk 2:18",
+  "book": "habakkuk",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פסל／יצר",
+      "rationale": "雕像（פסל）與刻造（פסלו）、塑造者（יצר）與造形（יצרו）同根複現，中文只能以「雕像／塑造」部分保留"
+    },
+    {
+      "kind": "crux",
+      "subject": "פסלו יצרו",
+      "rationale": "語序可讀作「塑造它的匠人刻成了它」或「匠人雕刻了偶像的形像」，各譯本分歧"
+    },
+    {
+      "kind": "elision",
+      "subject": "מורה שקר",
+      "rationale": "「虛謊的教導者」指偶像引人入迷，希伯來僅二字，直譯為「教導虛謊者」"
+    }
+  ],
+  "translation": "雕像有什麼益處呢？它的塑造者把它刻成了形——只是鑄像、虛謊的教導者；因為塑造者倚靠自己的造形，去造啞巴的偶像。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "83223080a0d5f7a3a524481ff19b1866cadb68d1e4f865f85b2f6e6c33d8828f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/habakkuk\/2\/17-20.1792142781998.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "什麼"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "有益"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "雕像"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "פסלו",
+      "gloss": "它的塑造者"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "刻成了形"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "鑄像"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "和…的教導者"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "虛謊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "倚靠"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "塑造者"
+    },
+    {
+      "surface": "יצצרו",
+      "gloss": "自己的造形"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "於它"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "去造"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "偶像"
+    },
+    {
+      "surface": "אלמים",
+      "gloss": "啞巴的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:26:22.000044688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ירא",
+      "rationale": "「敬畏／懼怕」一詞兩面：既指敬拜，也指懼怕；約拿此刻兩者皆是"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ייראו／יראה",
+      "rationale": "本章「懼怕」貫穿：水手懼怕（10節）與約拿敬畏（本節）同根，中文難以保留"
+    },
+    {
+      "kind": "you",
+      "subject": "to 水手們",
+      "rationale": "約拿回答水手的盤問，直接對話"
+    }
+  ],
+  "translation": "他對他們說：「我是希伯來人；我和 ⟨את⟩ 雅威——天上之以羅欣——我敬畏，⟨祂⟩造了 ⟨את⟩ 海和 ⟨את⟩ 乾地。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "27ecf72afd82bbba95c18210a05a1b117c81fcfef6b83d53c8f449dabf9cdfdc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jonah\/1\/9-12.1792139951226.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "對他們"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "希伯來人"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天（雙數）"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那位"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "海"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "乾地"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "乾地"
+    }
+  ],
+  "timestamp": "2026-10-16T08:39:11.227502554Z",
+  "model": "glm-5.3"
+}

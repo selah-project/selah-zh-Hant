@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "的聲音\/的緣故",
+      "rationale": "מקול 與 מפני 為介詞片語，中文以「因…的」結構補出因果語感"
+    }
+  ],
+  "translation": "因辱罵者和褻瀆者的聲音，因仇敵和報仇者的緣故。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "af2857dcbf67f5d8b33fbb5b3f7d7f8f9ff337c25f88568f6bdd8c66d187c799",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/44\/17-20.1792143716917.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "因…的聲音"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "辱罵者"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "和褻瀆者"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "因…的緣故"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "仇敵"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "和報仇者"
+    }
+  ],
+  "timestamp": "2026-10-16T09:41:56.918348070Z",
+  "model": "glm-5.3"
+}

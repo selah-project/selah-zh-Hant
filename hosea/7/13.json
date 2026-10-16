@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 7:13",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואנכי אפדם",
+      "rationale": "'我救贖了他們'（KJV、Geneva）與'我要救贖他們嗎？'（JPS 疑問式）與'我本要救贖'（ASV 願望式）之爭。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "哀哉",
+      "rationale": "אוֹי 是哀悼的感嘆詞，譯作『哀哉』以保留輓歌語氣。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נדדו／פשעו",
+      "rationale": "兩個 -דו／-עו 結尾的動詞並列，希伯來文的平行節奏在中文中流失。"
+    }
+  ],
+  "translation": "哀哉，他們有禍了，因為他們飄離了我；毀滅臨到他們，因為他們背叛了我。我⟨本要⟩救贖他們，他們卻說謊言攻擊我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "36b6bf3e3c9a41ee248e1d0a4f99006557fc60b97cd978e05736890a9ee094ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/7\/13-16.1792139483252.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "哀哉"
+    },
+    {
+      "surface": "להם",
+      "gloss": "他們有禍了"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "他們飄離"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "離了我"
+    },
+    {
+      "surface": "שד",
+      "gloss": "毀滅"
+    },
+    {
+      "surface": "להם",
+      "gloss": "臨到他們"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "他們背叛"
+    },
+    {
+      "surface": "בי",
+      "gloss": "了我"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אפדם",
+      "gloss": "救贖他們"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "他們"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "說"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "攻擊我"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "謊言"
+    }
+  ],
+  "timestamp": "2026-10-16T08:31:23.253094775Z",
+  "model": "glm-5.3"
+}

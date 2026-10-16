@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשם",
+      "rationale": "נפש 是氣息、生命活力之謂，非不朽的「靈魂」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מדרך／מות",
+      "rationale": "17–18 節以「路—死亡之門」的旅程意象連貫，中文保留「路」「門」的畫面。"
+    }
+  ],
+  "translation": "一切食物，他們的性命都厭惡；他們逼近死亡的門。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1e577dc82f5be701837c6c340edddc98eb479b6e24012baef21928cfe320d6c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/107\/17-20.1792144689521.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食物"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "都厭惡"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "他們的性命"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "他們逼近"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "……的門"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死亡"
+    }
+  ],
+  "timestamp": "2026-10-16T09:58:09.521990847Z",
+  "model": "glm-5.3"
+}

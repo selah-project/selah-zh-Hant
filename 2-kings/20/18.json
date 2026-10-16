@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 20:18",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סריסים",
+      "rationale": "「太監」與「宮廷官員」之爭；JPS作officers，字面本義為閹人，此處取字面"
+    },
+    {
+      "kind": "addition",
+      "subject": "必有人",
+      "rationale": "希伯來文無被擄者的明確主語，中文需補"
+    }
+  ],
+  "translation": "並且從你兒子們之中——那些從你所出、你所生的——必有人被擄去，他們必成為巴比倫王宮殿中的太監。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "46423c9ec65d9570647e29cd79a7578560568e4a145ebc0bbd11f159eec93aca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/20\/17-20.1792134288813.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומבניך",
+      "gloss": "從你兒子們"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那些"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "從你所出"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "從你"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "你所"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "生的"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "必被擄去"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "必成為"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "太監"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "在宮殿中"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    }
+  ],
+  "timestamp": "2026-10-16T07:04:48.814743089Z",
+  "model": "glm-5.3"
+}

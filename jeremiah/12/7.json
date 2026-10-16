@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ידדות",
+      "rationale": "「所親愛的」——ידדות 在整部塔納赫僅出現於此"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש 此處譯「性命」，非「靈魂」；近於生命氣息、生命整體"
+    }
+  ],
+  "translation": "我離棄了 ⟨את⟩ 我的家，我撇下了 ⟨את⟩ 我的產業；我把我性命所親愛的交在 ⟨את⟩ 她敵人的手掌中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e889ccb7b7f2fff17e20503c26f510ea5721690d9d5b6186db82ee5273a6addc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/12\/5-8.1792136558299.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "我離棄了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的家"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "我的家"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "我撇下了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的產業"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "我的產業"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我交在"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我性命所親愛的"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "所親愛的"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "在……的手掌中"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "她敵人"
+    }
+  ],
+  "timestamp": "2026-10-16T07:42:38.300491299Z",
+  "model": "glm-5.3"
+}

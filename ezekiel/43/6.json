@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 43:6",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מדבר",
+      "rationale": "分詞「說話的那位」：KJV「他」（指雅威）、JPS「一位」、BSB 將時間順序重排（先見人後聽聲）。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "איש",
+      "rationale": "指前文43:3-5那位銅色樣式的人（如人形狀的雅威顯現），譯「有一位」保留其身分的不確定。"
+    }
+  ],
+  "translation": "我聽見有一位從殿中向我說話，有一位站在我旁邊。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f5b33ade89ac26a5bbf7726d5af91ea0e4f13369b15d6ea4b69666a1a0925b40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/43\/5-8.1792139205471.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "我聽見"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "說話"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "向我"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "從殿中"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "有一位"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "站"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "在我旁邊"
+    }
+  ],
+  "timestamp": "2026-10-16T08:26:45.472645288Z",
+  "model": "glm-5.3"
+}

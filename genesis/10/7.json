@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 10:7",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "translation",
+      "rationale": "譯文中「但以利地的」為誤植；底但（דדן）單獨譯出，全句應讀作「示巴和底但」。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "表",
+      "rationale": "含系族譜下延：古實五子，拉瑪二子。"
+    }
+  ],
+  "translation": "古實的兒子是西巴、哈腓拉、撒弗他、拉瑪、撒弗提迦；拉瑪的兒子是示巴、但以利地的底但。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ebd5cc934baef90e57014b54540e306e72bd21bfd3959badbdf44ffcba9ebd68",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/10\/5-8.1792124668826.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "和…的兒子"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "古實"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "西巴"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "哈腓拉"
+    },
+    {
+      "surface": "וסבתה",
+      "gloss": "撒弗他"
+    },
+    {
+      "surface": "ורעמה",
+      "gloss": "拉瑪"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "撒弗提迦"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "和…的兒子"
+    },
+    {
+      "surface": "רעמה",
+      "gloss": "拉瑪"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "示巴"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "底但"
+    }
+  ],
+  "timestamp": "2026-10-16T04:24:28.827174935Z",
+  "model": "glm-5.3"
+}

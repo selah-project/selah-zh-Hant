@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "此處 את 是代名詞「你」（אתה），非受詞記號，譯作你"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פרץ",
+      "rationale": "字面為「突破、迸出」，描繪牲畜如水破堤般繁增；中文以「突破繁增」存其意象"
+    }
+  ],
+  "translation": "你不是在他周圍、他的家和一切屬他的四面圈上籬笆嗎？你賜福他手所做的工，他的家畜就在地上突破繁增。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ea32cd530acba48f467ef0870a98f300b95b89696464165dc7cdc5f14e52e458",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/1\/9-12.1792145832314.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "豈不"
+    },
+    {
+      "surface": "את",
+      "gloss": "你"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "圈上籬笆"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "在他周圍"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "又圍繞"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "他的家"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "又圍繞"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "לו",
+      "gloss": "屬他的"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "四面環繞"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "工"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "他的手"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "你賜福"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "他的家畜"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "突破繁增"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在地上"
+    }
+  ],
+  "timestamp": "2026-10-16T10:17:12.315321823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "求你",
+      "rationale": "希伯來文被動祈使語氣，中文以「求你」帶出請求語氣"
+    },
+    {
+      "kind": "you",
+      "subject": "to Solomon",
+      "rationale": "拔示巴直接向所羅門王提出請求"
+    }
+  ],
+  "translation": "她說：「求你把 ⟨את⟩ 書念的女子亞比煞賜給你哥哥亞多尼雅為妻。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "21c4be3396919679eb8e541edaec6629efa0836db3cdc91ff5bc27dbfd2aea04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/2\/21-24.1792132533663.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "她說"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "求你把……賜給"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "書念的女子亞比煞"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "亞比煞"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "書念的女子"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "給亞多尼雅"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "你哥哥"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "為妻"
+    }
+  ],
+  "timestamp": "2026-10-16T06:35:33.664693802Z",
+  "model": "glm-5.3"
+}

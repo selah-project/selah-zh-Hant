@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "監裡",
+      "rationale": "משמר 本義是看守（崗位、看守所），譯作監牢"
+    }
+  ],
+  "translation": "他把他們拘押在監裡三天。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d104c970e2a5ef8838e0d24a1eede219368c1bf2f2cabca0d6f4673deafa5572",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/42\/17-20.1792125492753.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "他把…拘押"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "他們"
+    },
+    {
+      "surface": "אל",
+      "gloss": "在"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "監裡"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "天"
+    }
+  ],
+  "timestamp": "2026-10-16T04:38:12.754292748Z",
+  "model": "glm-5.3"
+}

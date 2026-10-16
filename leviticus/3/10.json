@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "兩個腎臟",
+      "rationale": "שתי 是雙數，指明兩個腎臟都要取下"
+    },
+    {
+      "kind": "substitution",
+      "subject": "網油",
+      "rationale": "היתרת 字面是「突出的部分」，即肝上的葉，和合本作「網油」"
+    }
+  ],
+  "translation": "並⟨את⟩兩個腎臟和腎臟上的脂油，就是在腰子旁的脂油，以及⟨את⟩肝上的網油，要連同腎臟取下。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "936e6b553a4df9dd36b30a4640ced9a2d03da133f1f0c3c3cb304da55caa67ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/3\/9-12.1792126622901.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "兩個腎臟"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩個"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "腎臟"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "腎臟上的脂油"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "脂油"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那在"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "其上"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那在"
+    },
+    {
+      "surface": "על",
+      "gloss": "…旁"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "腰子"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "肝上的網油"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "網油"
+    },
+    {
+      "surface": "על",
+      "gloss": "在…上"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "肝"
+    },
+    {
+      "surface": "על",
+      "gloss": "連同"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "腎臟"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "他要取下"
+    }
+  ],
+  "timestamp": "2026-10-16T04:57:02.902199901Z",
+  "model": "glm-5.3"
+}

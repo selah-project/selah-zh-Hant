@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואמר לכל סכל הוא",
+      "rationale": "可讀作「他對每一個人說：他是愚昧人」（愚昧人反稱眾人愚昧）或「他向眾人顯明自己是愚昧人」；取後者。"
+    },
+    {
+      "kind": "crux",
+      "subject": "לבו חסר",
+      "rationale": "「他的心缺乏」——或譯「判斷力不足」；保留「心缺乏」的字面。"
+    },
+    {
+      "kind": "addition",
+      "subject": "自己是",
+      "rationale": "中文需補出顯明的對象內容以成句。"
+    }
+  ],
+  "translation": "並且愚昧人走在路上的時候，心也缺乏，他就向眾人顯明自己是愚昧人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ea9d772119811af4e802c9749728f9de1c8363a5cb710a531ef5092d0f979d10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/10\/1-4.1792147060367.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "並且"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "在路上"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "像愚昧人那樣"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "走"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "他的心"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "缺乏"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "他就表明"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "向眾人"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "愚昧人"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他（是）"
+    }
+  ],
+  "timestamp": "2026-10-16T10:37:40.368505480Z",
+  "model": "glm-5.3"
+}

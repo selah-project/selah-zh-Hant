@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "六年",
+      "rationale": "治理年數的計算"
+    },
+    {
+      "kind": "addition",
+      "subject": "之一",
+      "rationale": "原文複數「基列的眾城」，各譯本補「之一」以合語境"
+    }
+  ],
+  "translation": "耶弗他治理 ⟨את⟩ 以色列六年。耶弗他基列人就死了，葬在基列的眾城⟨之一⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b55309e0f4a6a9313fada43e61bf5b5c7acf0a0bfd63b84bf0a46dee5409b862",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/12\/5-8.1792130466042.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "治理"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "耶弗他"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "死了"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "耶弗他"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "基列人"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "葬在"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "的眾城"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "基列"
+    }
+  ],
+  "timestamp": "2026-10-16T06:01:06.044243496Z",
+  "model": "glm-5.3"
+}

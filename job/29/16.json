@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 29:16",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "它",
+      "rationale": "אחקרהו 的詞尾代詞指向「訴訟」，中文以受詞「它」補出"
+    },
+    {
+      "kind": "crux",
+      "subject": "ורב לא ידעתי",
+      "rationale": "或譯「我不認識的那人的訟案」——即陌生人的案件，如 BSB；或譯「我不知道案情」——我仍查究，如 KJV"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אב \/ לאביונים",
+      "rationale": "「父」與「貧乏人」首尾呼應同以 א 開頭，中文無法保留"
+    }
+  ],
+  "translation": "我是貧乏人的父，訴訟我不認識的，我必仔細查究它。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "406304326577639b19a1f83121a9ade2e96a71c52567d42e461446402c0d2dc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/29\/16-16.1792149963994.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אב",
+      "gloss": "父"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "貧乏人"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "訴訟"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我認識"
+    },
+    {
+      "surface": "אחקרהו",
+      "gloss": "我必仔細查究它"
+    }
+  ],
+  "timestamp": "2026-10-16T11:26:03.994937662Z",
+  "model": "glm-5.3"
+}

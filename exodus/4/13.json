@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שלח נא ביד תשלח",
+      "rationale": "「藉你所要差派之人的手差派吧」——摩西婉拒之語，歷代譯本或作「求你差別人去」，或按字面保留"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלח…תשלח",
+      "rationale": "同一詞根重複：差派……差派，婉拒的迂迴語氣"
+    },
+    {
+      "kind": "you",
+      "subject": "摩西對阿多奈",
+      "rationale": "摩西直接向神說話，婉拒使命"
+    }
+  ],
+  "translation": "他說：「求求你，阿多奈，求你差派你〈所要差派的人〉，藉別人之手差派吧。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ef75abb86a03e077d6beb646f0b6e32d2fdc52f70a0ed385d305cfd5933bfda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/4\/13-16.1792125750895.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "בי",
+      "gloss": "求求你"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "求你差派"
+    },
+    {
+      "surface": "נא",
+      "gloss": "吧"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "藉……之手"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "你〈所要差派的人〉"
+    }
+  ],
+  "timestamp": "2026-10-16T04:42:30.896580032Z",
+  "model": "glm-5.3"
+}

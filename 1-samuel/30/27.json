@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 30:27",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "南地",
+      "rationale": "נגב是專有地名「內蓋夫／南地」，非普通方位詞"
+    },
+    {
+      "kind": "addition",
+      "subject": "給",
+      "rationale": "לאשר的ל承接上節送禮之語，中文補「給」以通"
+    }
+  ],
+  "translation": "給在伯特利的、給在南地拉末的、給在雅提珥的，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "328136d43f54c64c44541612a0154d5845f1165281984a29fb3135e41b3f218b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/30\/25-28.1792131456011.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאשר",
+      "gloss": "給在…的"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "伯特"
+    },
+    {
+      "surface": "אל",
+      "gloss": " El"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "給在…的"
+    },
+    {
+      "surface": "ברמות",
+      "gloss": "拉末"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "南地"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "給在…的"
+    },
+    {
+      "surface": "ביתר",
+      "gloss": "雅提珥"
+    }
+  ],
+  "timestamp": "2026-10-16T06:17:36.012962620Z",
+  "model": "glm-5.3"
+}

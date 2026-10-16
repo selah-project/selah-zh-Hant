@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 3:22",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הפרשדנה",
+      "rationale": "本詞在塔納赫中僅此一見，指下體排泄處，各譯本或作『污物』或作『肛門』"
+    },
+    {
+      "kind": "crux",
+      "subject": "הפרשדנה",
+      "rationale": "『排出污物』（KJV）與『從後面穿出』（JPS、ASV）兩讀並存"
+    },
+    {
+      "kind": "substitution",
+      "subject": "穢物",
+      "rationale": "原文僅說『那部位出去』，中文補出『穢物』以成句"
+    }
+  ],
+  "translation": "刀柄也隨著刀刃進去了，脂肪夾住了刀刃，因為他沒有把刀從肚腹中拔出來，穢物就從肛門漏了出來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "80695756eb6671e51e906369ccb6372d328ff1ae9f06802024d15732c3ed593d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/3\/21-24.1792130183567.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "進去"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "הנצב",
+      "gloss": "刀柄"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "隨著"
+    },
+    {
+      "surface": "הלהב",
+      "gloss": "刀刃"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "夾住"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "脂肪"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "在……之上"
+    },
+    {
+      "surface": "הלהב",
+      "gloss": "刀刃"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "拔出"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "刀"
+    },
+    {
+      "surface": "מבטנו",
+      "gloss": "從他的肚腹"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "出來"
+    },
+    {
+      "surface": "הפרשדנה",
+      "gloss": "肛門（穢物）"
+    }
+  ],
+  "timestamp": "2026-10-16T05:56:23.568879517Z",
+  "model": "glm-5.3"
+}

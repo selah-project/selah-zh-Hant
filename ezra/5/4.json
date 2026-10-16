@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 5:4",
+  "book": "ezra",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "我們說",
+      "rationale": "敘述中突現第一人稱「我們」：或視為引用公文原文（如 JPS），或視為提問者是達乃一方（如 BSB，譯作「他們又問」）"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨我們⟩",
+      "rationale": "אמרנא 的動詞人稱已含「我們」，中文以括註標明敘述視角"
+    }
+  ],
+  "translation": "於是⟨我們⟩這樣對他們說：「那些建造這建築的人，名字是甚麼？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3dd81ccaa02aeb44040bed8a6edd4d37ad2a2d2dc050961a0ac994033cb79b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/5\/1-4.1792147869691.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "於是"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "這樣"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "我們說"
+    },
+    {
+      "surface": "להם",
+      "gloss": "對他們"
+    },
+    {
+      "surface": "מן",
+      "gloss": "甚麼"
+    },
+    {
+      "surface": "אנון",
+      "gloss": "他們"
+    },
+    {
+      "surface": "שמהת",
+      "gloss": "名字"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "人"
+    },
+    {
+      "surface": "די",
+      "gloss": "就是"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "這"
+    },
+    {
+      "surface": "בנינא",
+      "gloss": "建築"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "建造"
+    }
+  ],
+  "timestamp": "2026-10-16T10:51:09.692554437Z",
+  "model": "glm-5.3"
+}

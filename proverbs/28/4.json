@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "妥拉",
+      "rationale": "תורה 音譯為妥拉，是訓誨而非「律法」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עזבי\/שומרי · יהללו\/יתגרו",
+      "rationale": "離棄對謹守、稱讚對相爭的對仗結構，中譯保留平行對比"
+    }
+  ],
+  "translation": "離棄妥拉的人稱讚惡人，謹守妥拉的人卻與他們相爭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a49d9b8dd375166ba991265ed90be0df1b9dd7933bae2fe48159e16a03f3a74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/28\/1-4.1792145701451.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "離棄…的人"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "妥拉"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "稱讚"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "謹守…的人"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "妥拉"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "相爭"
+    },
+    {
+      "surface": "בם",
+      "gloss": "與他們"
+    }
+  ],
+  "timestamp": "2026-10-16T10:15:01.452256849Z",
+  "model": "glm-5.3"
+}

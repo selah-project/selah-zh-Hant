@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "以雅威為樂",
+      "rationale": "התענג 本義是「柔軟、嬌養」，引申為「奢侈地享受、以之為樂」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "你心所求的",
+      "rationale": "原文詞序為「你心的所求」，中文語序調整並補入「所求」。"
+    }
+  ],
+  "translation": "要以雅威為樂，他就把你心所求的賜給你。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2fb92fe0b5b9a22c03a7f2fe40733beeaa14e477302e81f9dfacd73e3f5316ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/37\/1-4.1792143662211.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "要以……為樂"
+    },
+    {
+      "surface": "על",
+      "gloss": "以"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "他就賜給"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "所求的"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "你心"
+    }
+  ],
+  "timestamp": "2026-10-16T09:41:02.212681151Z",
+  "model": "glm-5.3"
+}

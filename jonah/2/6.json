@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jonah 2:6",
+  "book": "jonah",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 是氣息、生命之力，非不朽的「靈魂」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אפפוני／יסבבני",
+      "rationale": "兩個「環繞」動詞並列，重疊包圍意象"
+    }
+  ],
+  "translation": "眾水環繞我，直到性命；深淵四面圍住我，海草纏裹我的頭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8db7c2e82440410234718a588ea9ab66e213514c3311f2eafedae4ad8e5beceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jonah\/2\/5-8.1792139933322.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "環繞我"
+    },
+    {
+      "surface": "מים",
+      "gloss": "眾水"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "יסבבני",
+      "gloss": "四面圍住我"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "海草"
+    },
+    {
+      "surface": "חבוש",
+      "gloss": "纏裹"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "我的頭"
+    }
+  ],
+  "timestamp": "2026-10-16T08:38:53.323331642Z",
+  "model": "glm-5.3"
+}

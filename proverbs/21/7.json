@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יגורם",
+      "rationale": "גרר本義「拖拽」；KJV作「毀滅」，JPS「拖走」——取拖拽的具體圖像"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שד／רשעים",
+      "rationale": "שד與רשע子音相近（שד內含於רשעים），強暴吞滅行強暴者"
+    }
+  ],
+  "translation": "惡人的強暴必把他們拖走，因為他們拒絕施行公義。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "27aad930d67a940aa885ec55b748c65c7b54c0bb1e5cc68cd65085cdd1dda1db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/21\/5-8.1792145537552.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "強暴"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "惡人的"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "必拖走他們"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "他們拒絕"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "施行"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公義"
+    }
+  ],
+  "timestamp": "2026-10-16T10:12:17.552867425Z",
+  "model": "glm-5.3"
+}

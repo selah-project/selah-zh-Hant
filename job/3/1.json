@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "自己的",
+      "rationale": "中文需反身代詞表明 יומו 是約伯自己的日子"
+    }
+  ],
+  "translation": "這些事以後，約伯開了 ⟨את⟩ 他的口，咒詛 ⟨את⟩ 自己的日子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "49b0db4e71e4397a1ad67c7edba9773d430144d901673ae76c48146c8c508694",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/3\/1-4.1792145782534.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "之後"
+    },
+    {
+      "surface": "כן",
+      "gloss": "這些事"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "開了"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "約伯"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的口"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "他的口"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "咒詛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自己的日子"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "自己的日子"
+    }
+  ],
+  "timestamp": "2026-10-16T10:16:22.535483754Z",
+  "model": "glm-5.3"
+}

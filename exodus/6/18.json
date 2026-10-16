@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 6:18",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無動詞，家譜體省略繫動詞"
+    },
+    {
+      "kind": "measurement",
+      "subject": "一百三十三歲",
+      "rationale": "哥轄的壽數，家譜中的年日計算"
+    },
+    {
+      "kind": "substitution",
+      "subject": "希伯倫",
+      "rationale": "此處חברון是人名，與地名希伯崙同形，經文按人名處理"
+    }
+  ],
+  "translation": "哥轄的兒子是暗蘭、以斯哈、希伯倫、烏薛。哥轄一生的年日是一百三十三歲。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1abf366d484a58277f6a4a494e95d5c6a4d2cd9113bbe889d031d7a1e3008e3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/6\/17-20.1792125735331.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "的兒子"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "哥轄"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "暗蘭"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "和以斯哈"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "和希伯倫"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "和烏薛"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "年數"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "一生"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "哥轄"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "和三十"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "一百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    }
+  ],
+  "timestamp": "2026-10-16T04:42:15.332293578Z",
+  "model": "glm-5.3"
+}

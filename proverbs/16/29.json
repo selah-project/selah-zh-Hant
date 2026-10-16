@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 16:29",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "在……上",
+      "rationale": "希伯來文 בדרך 以介詞附綴表「在路上」，中文需補方位詞"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חמס",
+      "rationale": "חמס 本義是「強暴、不義」，此處作形容詞修飾「人」"
+    }
+  ],
+  "translation": "強暴的人引誘他的鄰舍，領他走⟨在⟩不善的路上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b8d5488630d9718e13a4c86dab67c1fab2abc533b365a14780e881385f43e6c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/16\/29-32.1792145491528.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "強暴的"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "引誘"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "他的鄰舍"
+    },
+    {
+      "surface": "והוליכו",
+      "gloss": "領他走"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "在路上"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "善"
+    }
+  ],
+  "timestamp": "2026-10-16T10:11:31.529457475Z",
+  "model": "glm-5.3"
+}

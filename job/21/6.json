@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 21:6",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "皮肉",
+      "rationale": "בשר 是「肉／身體」，譯「皮肉」以貼近驚懼抓住身體的具體感受"
+    },
+    {
+      "kind": "hapax",
+      "subject": "פלצות",
+      "rationale": "פלצות（恐怖）在塔納赫中僅出現於約伯記與詩篇數處，罕用詞，畫面感強烈"
+    }
+  ],
+  "translation": "我若回想，就必驚惶，恐怖抓住我的皮肉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ef790e8718d28fb3292fd97390fe9bc3013636d181d4c3ae1d89b4bab442cd47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/21\/5-8.1792146151161.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "我回想"
+    },
+    {
+      "surface": "ונבהלתי",
+      "gloss": "就必驚惶"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "並抓住"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "我的皮肉"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "恐怖"
+    }
+  ],
+  "timestamp": "2026-10-16T10:22:31.162320317Z",
+  "model": "glm-5.3"
+}

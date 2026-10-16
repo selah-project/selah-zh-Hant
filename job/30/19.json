@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 30:19",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "希伯來文動詞未標明主語；依上下文（30:21）指以羅欣"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כעפר ואפר",
+      "rationale": "塵土（עָפָר）與灰燼（אֵפֶר）音近互押，中文無法保留"
+    }
+  ],
+  "translation": "他把我拋在泥中，我變得如同塵土和灰燼。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d9e472ef1d53024c6fc49c9449aec97a376dde5d77f5b2b8c5e0cc19a21f3ca7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/30\/17-20.1792146321693.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרני",
+      "gloss": "他把我拋"
+    },
+    {
+      "surface": "לחמר",
+      "gloss": "在泥中"
+    },
+    {
+      "surface": "ואתמשל",
+      "gloss": "而我變得相似"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "如塵土"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "和灰燼"
+    }
+  ],
+  "timestamp": "2026-10-16T10:25:21.694711149Z",
+  "model": "glm-5.3"
+}

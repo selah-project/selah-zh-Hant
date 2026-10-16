@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 10:16",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דרש דרש",
+      "rationale": "不定式絕對型重複——「尋查又尋查」，中文以「切切地」補其強調"
+    },
+    {
+      "kind": "addition",
+      "subject": "它已",
+      "rationale": "שרף 為被動完成式，中文補「已被燒了」以顯其態"
+    }
+  ],
+  "translation": "至於贖罪祭的公山羊，摩西切切地尋查，看哪，它已被燒了；他就向亞倫剩下的兒子以利亞撒和以他瑪發怒，說：",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bf67e2b3f90f9e28f6eda989acfc8d6645cb3c699a410bdb77e140424d3a7f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/10\/13-16.1792126898915.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "贖罪祭的公山羊"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "公山羊"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "贖罪祭"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "切切地"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "尋查"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "已被燒了"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "他就…發怒"
+    },
+    {
+      "surface": "על",
+      "gloss": "向"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "以利亞撒"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "和向"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "以他瑪"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的兒子"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "הנותרם",
+      "gloss": "剩下的"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    }
+  ],
+  "timestamp": "2026-10-16T05:01:38.917524951Z",
+  "model": "glm-5.3"
+}

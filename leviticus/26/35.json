@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבת／ישב",
+      "rationale": "「安息」（שָׁבַת）與「居住」（יָשַׁב）同根相映：你們居住時地不得安息，你們離去時地才安息。"
+    }
+  ],
+  "translation": "地在荒涼的一切日子必得安息，補上 ⟨את⟩ 你們住在那裏的時候、在你們的安息日中所沒有得 的安息。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1a60109d385c2524203e8f8993a72028f14591c3e3cdd3df314f22158dba0f2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/26\/33-36.1792127437526.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "…的日子"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "荒涼"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "必安息"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所沒有得的安息"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "安息過"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "在你們的安息日中"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "在你們居住…的時候"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "在其上"
+    }
+  ],
+  "timestamp": "2026-10-16T05:10:37.527951435Z",
+  "model": "glm-5.3"
+}

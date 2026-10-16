@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "被",
+      "rationale": "希伯來文是被動分詞「燒毀的」，中文以「被」字呈現被動"
+    }
+  ],
+  "translation": "大衛和跟隨他的人來到那城，看哪，城已被火燒毀；他們的妻子、他們的兒子、他們的女兒都被擄走了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c5a1cae895f30f68d8204c6f76e15ef79df17cc33d17bcd369bcea9b5c53f4ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/30\/1-4.1792131538899.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "和跟隨他的人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "那城"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "被火燒毀"
+    },
+    {
+      "surface": "באש",
+      "gloss": "被火"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "他們的妻子"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "他們的兒子"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "他們的女兒"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "被擄走了"
+    }
+  ],
+  "timestamp": "2026-10-16T06:18:58.900429006Z",
+  "model": "glm-5.3"
+}

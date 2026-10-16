@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 46:8",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "牠說",
+      "rationale": "希伯來文視埃及為單數國格，中文以「牠」標示國家擬人。"
+    },
+    {
+      "kind": "crux",
+      "subject": "עיר",
+      "rationale": "單數「城」——指哪城？（有譯作複數「眾城」如 ASV）此處保留單數「城邑」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעלה\/אעלה",
+      "rationale": "河水「上漲」與埃及自誇「我要上漲」同根雙關，中文同用「上漲」以保留。"
+    }
+  ],
+  "translation": "埃及如江河〈尼羅河〉上漲，如眾水翻騰；牠說：我要上漲，我要遮蓋全地，我要毀滅城邑和其中的居民。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "099de369b38be0297e87452360f8fd24011f05e5a0d1937fbdce116c97513186",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/46\/5-8.1792137400898.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "如江河"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "上漲"
+    },
+    {
+      "surface": "וכנהרות",
+      "gloss": "如眾水"
+    },
+    {
+      "surface": "יתגעשו",
+      "gloss": "翻騰"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "牠說"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "我要上漲"
+    },
+    {
+      "surface": "אכסה",
+      "gloss": "我要遮蓋"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "全地"
+    },
+    {
+      "surface": "אבידה",
+      "gloss": "我要毀滅"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城邑"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "和居民"
+    },
+    {
+      "surface": "בה",
+      "gloss": "其中的"
+    }
+  ],
+  "timestamp": "2026-10-16T07:56:40.900054198Z",
+  "model": "glm-5.3"
+}

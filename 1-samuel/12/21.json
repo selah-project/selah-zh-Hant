@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 12:21",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תהו…תהו",
+      "rationale": "「虛空」首尾呼應——開頭追逐虛空，結尾宣告它們是虛空，中文保留重複。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "虛空之事",
+      "rationale": "תהו 是創 1:2 的「空虛混沌」一詞，此處指虛妄無益之物。"
+    },
+    {
+      "kind": "addition",
+      "subject": "它們是",
+      "rationale": "希伯來文無繫動詞，中文補足。"
+    }
+  ],
+  "translation": "你們不可偏離，去隨從那虛空之事，它們既無益處，也不能拯救，因為它們是虛空。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "355249c35f14cc1f503c6276f85b62bcaa89a7b3c182666f2cf9082e0d11c036",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/12\/21-24.1792130971131.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "你們偏離"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "隨從"
+    },
+    {
+      "surface": "התהו",
+      "gloss": "那虛空之事"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "它們"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "有益處"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "拯救"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "虛空"
+    },
+    {
+      "surface": "המה",
+      "gloss": "它們是"
+    }
+  ],
+  "timestamp": "2026-10-16T06:09:31.131701794Z",
+  "model": "glm-5.3"
+}

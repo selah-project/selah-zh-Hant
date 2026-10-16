@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עדן／安放",
+      "rationale": "וינחהו（安放）與 עדן（伊甸）同根於 נוח（安息），中文失落此呼應"
+    },
+    {
+      "kind": "alternative",
+      "subject": "安放",
+      "rationale": "וינחהו 亦可作「使他安息」，ylt 取此義；取「安放」合上下文"
+    }
+  ],
+  "translation": "雅威以羅欣取了 ⟨את⟩ 那人，把他安放在伊甸園裡，要他耕耘它、看守它。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "14f0223bd1b8e83407ebe79d114a0b4fa0171a216471f3943887d0585327e69a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/2\/13-16.1792124530144.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "取了"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那人"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "那人"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "安放他"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "在園子"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "伊甸"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "耕耘它"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "看守它"
+    }
+  ],
+  "timestamp": "2026-10-16T04:22:10.145802212Z",
+  "model": "glm-5.3"
+}

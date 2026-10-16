@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רמים",
+      "rationale": "ראם是野牛（原牛）；KJV隨七十士譯本作unicorns（獨角獸）"
+    },
+    {
+      "kind": "crux",
+      "subject": "עניתני",
+      "rationale": "時態之爭：「你已應允我」（完成式）還是「求你應允我」（祈使）；KJV作thou hast heard"
+    }
+  ],
+  "translation": "求你救我脫離獅子的口，脫離野牛的角——你已應允我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "989c506407807f19a4fb43f58f1bfc1569e7e6136cd123ef91e1a1adc5ab2b16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/22\/21-24.1792143417567.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "求你救我"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "脫離……的口"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "獅子"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "脫離……的角"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "野牛"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "你已應允我"
+    }
+  ],
+  "timestamp": "2026-10-16T09:36:57.567892568Z",
+  "model": "glm-5.3"
+}

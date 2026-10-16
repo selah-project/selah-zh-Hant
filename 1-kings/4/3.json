@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 4:3",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是書記／是史官",
+      "rationale": "原文為無動詞的名單短語，中文補繫詞"
+    },
+    {
+      "kind": "substitution",
+      "subject": "史官",
+      "rationale": "המזכיר 直譯「記念者、使記起的人」，即宮廷史官"
+    }
+  ],
+  "translation": "以利荷烈和亞希雅，示沙的兒子，是書記；約沙法，亞希律的兒子，是史官。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ab78f783e35bff0ad0c28134b9875f340daa485b0f0fa08f818a35ad6726c74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/4\/1-4.1792132550621.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אליחרף",
+      "gloss": "以利荷烈"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "和亞希雅"
+    },
+    {
+      "surface": "בני",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "שישא",
+      "gloss": "示沙"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "書記"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "約沙法"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "亞希律"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "史官"
+    }
+  ],
+  "timestamp": "2026-10-16T06:35:50.622359682Z",
+  "model": "glm-5.3"
+}

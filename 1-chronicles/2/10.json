@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נשיא",
+      "rationale": "本義為『被高舉者』，即君王或族長，譯作『首領』"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文需補"
+    }
+  ],
+  "translation": "蘭生了 ⟨את⟩ 亞米拿達，亞米拿達生了 ⟨את⟩ 拿順，拿順是猶大眾子的首領。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "01d11bfd31e4082d34566e18918f3bdd765a5de5f63c42a85b856346cc97b460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/2\/9-12.1792148283401.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "蘭"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞米拿達"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "亞米拿達"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "亞米拿達"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "拿順"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "拿順"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "首領"
+    },
+    {
+      "surface": "בני",
+      "gloss": "眾子"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    }
+  ],
+  "timestamp": "2026-10-16T10:58:03.402711427Z",
+  "model": "glm-5.3"
+}

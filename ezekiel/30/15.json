@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 30:15",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "倒烈怒",
+      "rationale": "שפכתי חמתי「傾倒我的烈怒」是希伯來慣用語，如倒液體"
+    },
+    {
+      "kind": "substitution",
+      "subject": "群眾",
+      "rationale": "המון兼有「喧嚷、人群、財富」之意，此處指挪城的人口眾多"
+    }
+  ],
+  "translation": "我必將我的烈怒倒在訓——埃及的堡壘——之上，並剪除 ⟨את⟩ 挪的群眾。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5c783689e46755e80be6428b5733412df1cc63e8348a3215f4c61a99059e01cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/30\/13-16.1792138727020.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושפכתי",
+      "gloss": "我必倒"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "我的烈怒"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……之上"
+    },
+    {
+      "surface": "סין",
+      "gloss": "訓"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "堡壘"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "我必剪除"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "挪的群眾"
+    },
+    {
+      "surface": "המון",
+      "gloss": "群眾"
+    },
+    {
+      "surface": "נא",
+      "gloss": "挪"
+    }
+  ],
+  "timestamp": "2026-10-16T08:18:47.021748512Z",
+  "model": "glm-5.3"
+}

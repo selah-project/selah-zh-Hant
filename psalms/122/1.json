@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "標題",
+      "rationale": "首三詞為詩篇標題，中文以「上行之詩，大衛的」呈現，置於句首"
+    },
+    {
+      "kind": "you",
+      "subject": "to the psalmist",
+      "rationale": "לי「對我」——眾人對說話者的直接引語，引出歡喜的原因"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמחתי\/נלך",
+      "rationale": "個人歡喜（單數）回應集體「我們要去」的邀請，單複對照"
+    }
+  ],
+  "translation": "上行之詩，大衛的。他們對我說：「我們要往雅威的殿去」，我就歡喜。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fada0221024951a7a1377830d44fecf2faf73c73fd36e54566392241ebf71cce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/122\/1-4.1792144928243.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "詩"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "上行之"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "我就歡喜"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "他們……說"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威的"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "我們要往……去"
+    }
+  ],
+  "timestamp": "2026-10-16T10:02:08.244165747Z",
+  "model": "glm-5.3"
+}

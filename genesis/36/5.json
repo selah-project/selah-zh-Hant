@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "的",
+      "rationale": "中文领属结构所需，希伯来文构造词组无此字"
+    },
+    {
+      "kind": "measurement",
+      "subject": "家谱名单",
+      "rationale": "列出以扫众子之名，属世系清点"
+    }
+  ],
+  "translation": "阿何利巴玛生了 ⟨את⟩ 耶乌施、⟨ואת⟩ 雅兰和 ⟨ואת⟩ 可拉。这些是以扫的儿子，是在迦南地为他生的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "61f18a706eae2e776160c46f99e4e585e0011440e267dc81b376871a468d40be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/36\/5-8.1792125304027.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "阿何利巴玛"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "生了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶乌施"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "耶乌施"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "雅兰"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "雅兰"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "可拉"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "可拉"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "这些"
+    },
+    {
+      "surface": "בני",
+      "gloss": "儿子"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以扫"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "生的"
+    },
+    {
+      "surface": "לו",
+      "gloss": "为他"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在……地"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    }
+  ],
+  "timestamp": "2026-10-16T04:35:04.028614240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 15:10",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "的人",
+      "rationale": "希伯來文分詞 הנגע／הנושא兼指人與動作，中文需補名詞"
+    },
+    {
+      "kind": "measurement",
+      "subject": "不潔淨到晚上",
+      "rationale": "本段以日落為潔淨時限的度量"
+    }
+  ],
+  "translation": "凡觸摸他身下任何物件的人，必不潔淨到晚上；凡抬 ⟨את⟩ ⟨אותם⟩ 這些物件的人，要洗衣服、在水裏洗身，並且不潔淨到晚上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1b032c8b2665d8b2c803af56ecacea2021f6394ee66d857415edd0d80f8eecfe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/15\/9-12.1792127046482.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "觸摸的人"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "是"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "在他身下"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "必不潔淨"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "晚上"
+    },
+    {
+      "surface": "והנושא",
+      "gloss": "凡抬的人"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "這些物件"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "要洗"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "他的衣服"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "並在…洗身"
+    },
+    {
+      "surface": "במים",
+      "gloss": "在水裏"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "並且不潔淨"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "晚上"
+    }
+  ],
+  "timestamp": "2026-10-16T05:04:06.483398012Z",
+  "model": "glm-5.3"
+}

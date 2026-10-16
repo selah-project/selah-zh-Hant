@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "王",
+      "rationale": "中文補「王」以明先行詞，希伯來文僅作「這一切」"
+    },
+    {
+      "kind": "crux",
+      "subject": "חברו",
+      "rationale": "「結盟」（JPS allies）與「聚集會合」（KJV joined together）之別；取「聯合」"
+    }
+  ],
+  "translation": "這一切王都聯合到西訂谷，就是鹽海。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b536d78a180eab8b115762f86c1e99103396565de6a0138bd0530d80ab59ca98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/14\/1-4.1792124709104.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "聯合"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "谷"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "西訂"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "就是"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "鹽"
+    }
+  ],
+  "timestamp": "2026-10-16T04:25:09.105177918Z",
+  "model": "glm-5.3"
+}

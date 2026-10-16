@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "聽",
+      "rationale": "中文「講給……聽」的固定結構，希伯來文僅有「講述」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בניכם／בניהם",
+      "rationale": "「兒子」一詞鏈式重複四次的階梯結構，中文保留"
+    }
+  ],
+  "translation": "要將這事講給你們的兒子聽，你們的兒子講給他們的兒子聽，他們的兒子講給另一代聽。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "45ec4144656b393b5be42ca51f70630482d559c7d6c577947af9d11450d8110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joel\/1\/1-4.1792139584851.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "關於這事"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "給你們的兒子"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "要講述"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "你們的兒子"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "給他們的兒子"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "他們的兒子"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "給一代"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "另一"
+    }
+  ],
+  "timestamp": "2026-10-16T08:33:04.852547662Z",
+  "model": "glm-5.3"
+}

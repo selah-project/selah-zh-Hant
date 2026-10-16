@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "「我若」直譯是誓言條件式（參撒下15:8）；許多譯本作否定「我必不進」，希伯來文卻無否定詞"
+    },
+    {
+      "kind": "alternative",
+      "subject": "直譯",
+      "rationale": "可作「我若進我家的帳棚……（願雅威罰我）」，即誓言的條件句"
+    }
+  ],
+  "translation": "我若進我家的帳棚，若上我鋪的床榻，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "50160d280066b0494859aabfcbb8bb1f0ae07e90f934b48a4e3f5fdb316ab3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/132\/1-4.1792144956284.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "我若進"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "我家"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "若上"
+    },
+    {
+      "surface": "על",
+      "gloss": "上"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "床榻"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "我鋪的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:02:36.285316268Z",
+  "model": "glm-5.3"
+}

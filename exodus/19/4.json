@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "親眼",
+      "rationale": "אתם強調「你們自己」看見，中文以「親眼」傳達強調"
+    },
+    {
+      "kind": "you",
+      "subject": "對以色列",
+      "rationale": "雅威透過摩西直接對以色列全體說話，第二人稱複數"
+    },
+    {
+      "kind": "idiom",
+      "subject": "鷹的翅膀",
+      "rationale": "נשר可指鷹或禿鷲；「背在翅膀上」是拯救的比喻，中文照字面保留圖像"
+    }
+  ],
+  "translation": "你們親眼看見了我向埃及人所行的事，我如鷹將你們背在翅膀上，把你們帶到我這裡來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "53312d6f7d1a7d676e93f00e347dea7a63a86d6533150cc76963ca830a037917",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/19\/1-4.1792126070381.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "看見"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所……的"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "我行了"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "向埃及人"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "我背起"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "你們（背在翅膀上）"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "翅膀"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "鷹"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "我帶……來"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "你們（帶到我這裡）"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "到我這裡"
+    }
+  ],
+  "timestamp": "2026-10-16T04:47:50.382380973Z",
+  "model": "glm-5.3"
+}

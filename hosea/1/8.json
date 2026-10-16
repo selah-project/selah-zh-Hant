@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "之後",
+      "rationale": "中文需時間連接詞表明斷奶在懷孕之前"
+    }
+  ],
+  "translation": "她給羅·路哈瑪斷奶之後，又懷孕，生了一個兒子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0815d649f9d8b549fc7f21c384dc54e6dd985d4fc56ed2d2e23f2328c3713344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/1\/5-8.1792139406207.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "她給…斷奶"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "羅·路哈瑪"
+    },
+    {
+      "surface": "לא",
+      "gloss": "羅·"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "路哈瑪"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "她懷孕"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "她生了"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    }
+  ],
+  "timestamp": "2026-10-16T08:30:06.208210751Z",
+  "model": "glm-5.3"
+}

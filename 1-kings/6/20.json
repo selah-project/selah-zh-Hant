@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 6:20",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "內殿",
+      "rationale": "二十肘見方的立方尺寸，長寬高各二十肘"
+    },
+    {
+      "kind": "crux",
+      "subject": "ולפני הדביר",
+      "rationale": "譯為「內殿前的空間」或「內殿本身」（KJV『in the forepart』）諸本分歧"
+    },
+    {
+      "kind": "substitution",
+      "subject": "סגור",
+      "rationale": "字面「封閉的」，指煉淨的純金，譯作『純』"
+    }
+  ],
+  "translation": "內殿前的空間長二十肘、寬二十肘、高二十肘；他用純金貼了它，也用香柏木貼了祭壇。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7a3262eff569e0b8a13346a08a229aa2c0cb523a307bcba4ff70c2c08f75b7ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/6\/17-20.1792132625554.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "在……前面"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "內殿"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "長"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "寬"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "它的高"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "貼了它"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "純的"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "貼了"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "香柏木"
+    }
+  ],
+  "timestamp": "2026-10-16T06:37:05.555484498Z",
+  "model": "glm-5.3"
+}

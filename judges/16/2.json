@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 16:2",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "有人告訴",
+      "rationale": "希伯來文動詞לעזתים為被動式無人稱結構（「有人告訴迦薩人」），中文以「有人」補出主語"
+    },
+    {
+      "kind": "addition",
+      "subject": "〈他〉",
+      "rationale": "ויסבו的受詞隱含於語境（環繞他），中文需補出受詞"
+    },
+    {
+      "kind": "substitution",
+      "subject": "靜默不動",
+      "rationale": "ויתחרשו字根為「刻劃、犁地」，此處意為緘默不出聲，取其靜待之意"
+    }
+  ],
+  "translation": "有人告訴迦薩人說：「參孫來到這裡了。」他們就環繞〈他〉，整夜在城門口埋伏等候他；他們整夜靜默不動，說：「等到天亮的時候，我們就殺他。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "83dadf90e9a8849a041f2f4924b84d5c4404a86df5f910affa66754e24c250c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/16\/2-4.1792142451513.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעזתים",
+      "gloss": "迦薩人"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "參孫"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "這裡"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "他們就環繞"
+    },
+    {
+      "surface": "ויארבו",
+      "gloss": "埋伏等候"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "כל",
+      "gloss": "整"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "在……門口"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "ויתחרשו",
+      "gloss": "靜默不動"
+    },
+    {
+      "surface": "כל",
+      "gloss": "整"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "עד",
+      "gloss": "等到"
+    },
+    {
+      "surface": "אור",
+      "gloss": "亮"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "早晨"
+    },
+    {
+      "surface": "והרגנהו",
+      "gloss": "我們就殺他"
+    }
+  ],
+  "timestamp": "2026-10-16T09:20:51.514565831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 31:3",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עוזר\/עזר",
+      "rationale": "「幫助的」與「受幫助的」同根分詞對舉——埃及（幫助者）與猶大（受幫助者）同滅，中文以主動／被動語態保留對比"
+    },
+    {
+      "kind": "addition",
+      "subject": "不過是",
+      "rationale": "中文需繫語詞承接「人—並不是伊勒」的對比結構，希伯來文為名詞並列無繫動詞"
+    },
+    {
+      "kind": "substitution",
+      "subject": "血肉",
+      "rationale": "בשר 直譯為「肉體」，此處取「血肉之軀」之脆弱義"
+    }
+  ],
+  "translation": "埃及人不過是人，並不是伊勒；他們的馬不過是血肉，並不是魯阿（靈）。雅威必伸手，幫助的必絆倒，受幫助的必跌倒，他們全都一同滅亡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f632ec8308c30b086a285f70b6e19320d059822ae3cb3da2015ceb73fa9b6cc1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/31\/1-4.1792135215416.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "並不是"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    },
+    {
+      "surface": "וסוסיהם",
+      "gloss": "他們的馬"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "血肉"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "並不是"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "魯阿"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יטה",
+      "gloss": "必伸出"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "手"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "必絆倒"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "幫助的"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "必跌倒"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "受幫助的"
+    },
+    {
+      "surface": "ויחדו",
+      "gloss": "一同"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "他們全都"
+    },
+    {
+      "surface": "יכליון",
+      "gloss": "滅亡"
+    }
+  ],
+  "timestamp": "2026-10-16T07:20:15.417978763Z",
+  "model": "glm-5.3"
+}

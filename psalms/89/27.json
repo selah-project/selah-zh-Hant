@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "中文需要繫詞，希伯來文省略"
+    },
+    {
+      "kind": "wordform",
+      "subject": "伊勒",
+      "rationale": "אל 音譯為伊勒，不譯作類名「神」"
+    }
+  ],
+  "translation": "他要呼求我：你是我的父，是我的伊勒，是我救恩的磐石。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fa27ee0114a96624500b2d6b8ced6f447cfa0419fe34cc1e24ebe98391cdbf41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/89\/25-28.1792144425233.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "他要呼求我"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我的父"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我的伊勒"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "和磐石"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "我救恩的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:53:45.234070690Z",
+  "model": "glm-5.3"
+}

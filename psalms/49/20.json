@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נצח",
+      "rationale": "「直到永遠」（KJV、JPS）與「（如）輝煌／華美」（部分註釋家依烏加列文本）兩讀並存。"
+    },
+    {
+      "kind": "mystery",
+      "subject": "必不看見光",
+      "rationale": "「光」指生命之光；富人的結局是永久的不見——詩中隱喻性的死亡判語。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יראו אור",
+      "rationale": "「他們必不看見光」與上節「下去」呼應，明暗對照收束全詩。"
+    }
+  ],
+  "translation": "他必進到他祖宗的世代；直到永遠，他們必不看見光。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e05fb71515cee11022f7c26bbd2e6428d750500abb376f9135e9707b79a9e2d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/49\/17-20.1792143862762.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "他必進到"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "דור",
+      "gloss": "世代"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "他的祖宗"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "看見"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    }
+  ],
+  "timestamp": "2026-10-16T09:44:22.763595840Z",
+  "model": "glm-5.3"
+}

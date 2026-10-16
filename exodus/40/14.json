@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "內袍",
+      "rationale": "כתנת 是貼身的襯衣（shirt\/tunic），譯「內袍」沿用和合本通行寫法"
+    }
+  ],
+  "translation": "又要帶近⟨ואת⟩他的兒子們，給他們穿上⟨אתם⟩內袍。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "93e8ca27f7a020a821be726069d73ddf2bb37ea320b1e10138f4ef022d24314c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/40\/13-16.1792126641092.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "他的兒子們"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "他的兒子們"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "你要帶近"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "給…穿上"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "內袍"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "內袍"
+    }
+  ],
+  "timestamp": "2026-10-16T04:57:21.093072648Z",
+  "model": "glm-5.3"
+}

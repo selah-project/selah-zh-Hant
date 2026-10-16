@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא את ראש",
+      "rationale": "字面「抬起頭」，即數點人數；中文字面會誤導"
+    },
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "數點革順子孫的人口"
+    }
+  ],
+  "translation": "你要數點革順子孫的人數，他們也照父家、照家族〈被數點〉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "df482fc2298f8114b0ad23d6c458cd9c66d2a4473c8825a6426cff07f7c6c102",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/4\/21-24.1792127531409.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "數點"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人數"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "人數"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "革順"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "הם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "照父家"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "他們的父"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "照他們的家族"
+    }
+  ],
+  "timestamp": "2026-10-16T05:12:11.410349387Z",
+  "model": "glm-5.3"
+}

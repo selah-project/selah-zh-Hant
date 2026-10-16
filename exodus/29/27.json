@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 29:27",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "舉祭",
+      "rationale": "תרומה 字根「高舉」，指向上舉起的部分；傳統譯「舉祭」，非泛指「供物」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨分⟩",
+      "rationale": "מאשר לאהרן 字面「那屬亞倫的」，中文名詞「分」為補足語義。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הונף／הורם",
+      "rationale": "「被搖」與「被舉」成對，對應搖祭（水平搖）與舉祭（垂直舉）兩種動作。"
+    }
+  ],
+  "translation": "你要分別為聖 ⟨את⟩ 搖祭的胸和 ⟨את⟩ 舉祭的腿——就是承接聖職之公綿羊上被搖的、被舉起的——歸亞倫的⟨分⟩和他兒子們的⟨分⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9a0dcdcfa7d8f4c0e420bc6707e78b725386be5882908c6fc59138b82d7ecad6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/29\/25-28.1792126404426.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "你要分別為聖"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "搖祭的胸"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "胸"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "搖祭的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "舉祭的腿"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "腿"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "舉祭的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "הונף",
+      "gloss": "被搖的"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "和那"
+    },
+    {
+      "surface": "הורם",
+      "gloss": "被舉起的"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "從公綿羊"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "承接聖職的"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "從屬於"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "亞倫的"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "和屬於"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "他兒子們的"
+    }
+  ],
+  "timestamp": "2026-10-16T04:53:24.427901540Z",
+  "model": "glm-5.3"
+}

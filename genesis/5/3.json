@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "一個兒子",
+      "rationale": "希伯來文 ויולד 不帶受詞，中文補出「一個兒子」以成句"
+    },
+    {
+      "kind": "measurement",
+      "subject": "一百三十歲",
+      "rationale": "家譜年歲紀錄，是典型的計數文體"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דמות\/צלם",
+      "rationale": "第1節只用 דמות，此節 דמות＋צלם 兩詞並列，呼應創1:26-27的雙詞"
+    }
+  ],
+  "translation": "亞當活到一百三十歲，生了一個兒子，形像樣式與自己相似，就給他起名叫塞特。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "15f53f05ed9dc5c8e575f47e8c45e4cc2dae8a8e6b6ae293393699da45f61565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/5\/1-4.1792124583694.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "活了"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "亞當"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "和一百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "生了"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "照他的樣式"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "像他的形像"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "就稱"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的名"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "他的名"
+    },
+    {
+      "surface": "שת",
+      "gloss": "塞特"
+    }
+  ],
+  "timestamp": "2026-10-16T04:23:03.695332319Z",
+  "model": "glm-5.3"
+}

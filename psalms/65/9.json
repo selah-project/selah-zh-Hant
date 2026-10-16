@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "מוצאי בקר וערב",
+      "rationale": "「早晨和夜晚的出處」可指日出日落之處（東方與西方），日內瓦譯本採此讀法；字面保留「出處」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "歡呼歌唱",
+      "rationale": "תרנין 字根是「發出尖響聲」，引申為歡聲高唱；KJV 讀作「使其喜樂」。"
+    },
+    {
+      "kind": "you",
+      "subject": "to the worshipper addressing 雅威",
+      "rationale": "全詩向雅威說話，此節繼續第二人稱稱頌。"
+    }
+  ],
+  "translation": "地的邊極之處的居民因你的記號而懼怕；你使早晨的出處和夜晚的出處歡呼歌唱。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9b9ebbb87df1819ee5900992b9001697afc9aa7f454ddbe306bfb719cfddfd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/65\/9-12.1792144023037.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "而懼怕"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "邊極之處"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "因你的記號"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "出處"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "早晨"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "和夜晚"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "你使歡呼歌唱"
+    }
+  ],
+  "timestamp": "2026-10-16T09:47:03.037570749Z",
+  "model": "glm-5.3"
+}

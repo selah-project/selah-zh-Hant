@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 19:14",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "唯有",
+      "rationale": "中文對比句式所需之連接詞，希伯來文僅有連接詞 ו"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "本節無נפש；雅威為聖名音譯，不譯作主"
+    }
+  ],
+  "translation": "房屋和財富是祖宗的產業；唯有聰明的妻子是出於雅威。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4db57d3e7984a0cd60fd6edf2d7f04c1d323a7bd066f653ba32aac9a5bab8464",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/19\/13-16.1792145516496.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "房屋"
+    },
+    {
+      "surface": "והון",
+      "gloss": "和財富"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "產業"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "祖宗的"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "唯有……是出於雅威"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "妻子"
+    },
+    {
+      "surface": "משכלת",
+      "gloss": "聰明的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:11:56.496801377Z",
+  "model": "glm-5.3"
+}

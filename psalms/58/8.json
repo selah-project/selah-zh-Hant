@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ידרך חצו",
+      "rationale": "直譯「他踏他的箭」（踏弓上弦），各本或作「彎弓射箭」（KJV）或「他一箭射出」（YL T）；本文取「拉箭」"
+    },
+    {
+      "kind": "crux",
+      "subject": "יתמללו",
+      "rationale": "מול 根義「截短」（割禮用詞），此處或指「被截斷」「被磨鈍」（BSB）"
+    },
+    {
+      "kind": "alternative",
+      "subject": "願他們如水消逝",
+      "rationale": "亦可讀作直陳「他們必如水消逝」，希伯來未完成式兩可"
+    }
+  ],
+  "translation": "願他們如水消逝，任自流逝；他拉箭之時，願箭如被磨斷。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "eb817a6b037371ddaaf7bf83a2a4b6b8f71815d55c3ab7cafac572118ebca6f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/58\/5-8.1792143963070.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "消逝"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "如"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "流逝"
+    },
+    {
+      "surface": "למו",
+      "gloss": "任自"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "拉（箭）"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "箭"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "如"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "被磨斷"
+    }
+  ],
+  "timestamp": "2026-10-16T09:46:03.071211769Z",
+  "model": "glm-5.3"
+}

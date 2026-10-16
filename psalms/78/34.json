@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "當他殺了他們的時候",
+      "rationale": "אם 可作條件「若」（YLT）或時間「當」（KJV）；本詩敘事語境支持時間讀法"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "清早尋求",
+      "rationale": "שחר 字根為「黎明、破曉」，引申切切早求；直譯保留了天未亮就尋求的畫面"
+    },
+    {
+      "kind": "measurement",
+      "subject": "清早",
+      "rationale": "שחר 字面為時間詞（黎明）"
+    }
+  ],
+  "translation": "當他殺了他們的時候，他們就尋求他；他們回轉，清早尋求伊勒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/78\/33-36.1792144249564.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "當……的時候"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "他殺了他們"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "他們就尋求他"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "他們回轉"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "清早尋求"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    }
+  ],
+  "timestamp": "2026-10-16T09:50:49.565182953Z",
+  "model": "glm-5.3"
+}

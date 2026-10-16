@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עגלות",
+      "rationale": "「戰車」與「盾牌」（參撒下8:4變體）之爭；此處依字面「車輛」譯作戰車"
+    },
+    {
+      "kind": "substitution",
+      "subject": "地極",
+      "rationale": "עד קצה הארץ 直譯「直到地的邊緣」，中文以「地極」表達"
+    }
+  ],
+  "translation": "他使戰爭止息，直到地極；他折斷弓，砍斷槍，用火焚燒戰車。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4bb028f6c60e54043b340f871415b1dd75b009cf2e31c5010be783dc15d98f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/46\/9-12.1792143802948.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "他使……止息"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "戰爭"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "地極"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "弓"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "他折斷"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "砍斷"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "槍"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "戰車"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "他用火焚燒"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    }
+  ],
+  "timestamp": "2026-10-16T09:43:22.949580838Z",
+  "model": "glm-5.3"
+}

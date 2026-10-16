@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 17:20",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תלונה／לון",
+      "rationale": "怨言（תלנות）與發怨言（מלינם，根לון）同族，中文以「怨言／埋怨」勉強對應。"
+    },
+    {
+      "kind": "crux",
+      "subject": "והשכתי",
+      "rationale": "逐詞資料標為שכה（織網），經文語境實為שכך「使止息」；本譯採後者。"
+    },
+    {
+      "kind": "addition",
+      "subject": "面前",
+      "rationale": "מעלי字面為「從我上面」，中文補「面前」以成自然語。"
+    }
+  ],
+  "translation": "將來我所揀選的那人，他的杖必發芽；我必使以色列人向你們所發的⟨את⟩怨言，從我面前止息。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "311995ed6b0b32fe61cdabbbf9bd2941a5e834f9f60b42746d99649d9a7c459f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/17\/17-20.1792127931929.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "將來必"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "那人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "אבחר",
+      "gloss": "我所揀選"
+    },
+    {
+      "surface": "בו",
+      "gloss": "他"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "他的杖"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "必發芽"
+    },
+    {
+      "surface": "והשכתי",
+      "gloss": "我必使止息"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "從我"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "怨言"
+    },
+    {
+      "surface": "תלנות",
+      "gloss": "怨言"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "הם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "מלינם",
+      "gloss": "所發的（埋怨）"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "向你們"
+    }
+  ],
+  "timestamp": "2026-10-16T05:18:51.930957854Z",
+  "model": "glm-5.3"
+}

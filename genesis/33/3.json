@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 33:3",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "七次",
+      "rationale": "俯伏的次數被具體數出——七為完全之數"
+    },
+    {
+      "kind": "addition",
+      "subject": "為止",
+      "rationale": "中文需要補出「直到……為止」的結構以承接兩個連續的 עד"
+    }
+  ],
+  "translation": "他自己從他們前面過去，俯伏在地七次，直到他挨近他哥哥〈為止〉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d40ee26dd1dce151c05061d33c5fee0e0daf14f41235cec199a05eccf9b2e29c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/33\/1-4.1792125279415.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "他自己"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "過去"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "在他們前面"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "俯伏"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "在地"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "次"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "גשתו",
+      "gloss": "他挨近"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "他哥哥"
+    }
+  ],
+  "timestamp": "2026-10-16T04:34:39.416502476Z",
+  "model": "glm-5.3"
+}

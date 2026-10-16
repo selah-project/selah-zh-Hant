@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "醒來",
+      "rationale": "בהקיץ可指清晨醒來見雅威，或指從死亡中復醒；文本未明說，兩讀並存。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "飽足",
+      "rationale": "ישבעו（14節惡人因兒女「飽足」）與אשבעה（15節詩人因見雅威面「滿足」）同根對比：他們飽於兒女，我飽於你的形像。"
+    }
+  ],
+  "translation": "至於我，我必在公義中得見你的面；我醒來的時候，必因你的形像得以滿足。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "16a4bad9a59e51584fd3aecb9b76a34c45d370cd0cc2e263983226aafc0d1ea0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/17\/13-15.1792143315575.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "至於我"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "在公義中"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "得見"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "得以滿足"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "醒來的時候"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "你的形像"
+    }
+  ],
+  "timestamp": "2026-10-16T09:35:15.576782321Z",
+  "model": "glm-5.3"
+}

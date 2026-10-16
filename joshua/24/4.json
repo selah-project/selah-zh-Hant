@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אותו",
+      "rationale": "אותו 在此是「它」的受詞代名詞（指西珥山），非單純的 ⟨את⟩ 記號，故譯為代詞而非記號"
+    },
+    {
+      "kind": "addition",
+      "subject": "去了",
+      "rationale": "中文句末補「去了」以完成「下到埃及」的敘述語氣"
+    }
+  ],
+  "translation": "我把雅各和以掃賜給以撒，又把西珥山賜給以掃為業；雅各和他的子孫下到埃及去了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e3d9ff1efbd5f28d725eab50719fd25482f0db45813c596f84c9a8d7b072f801",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/24\/1-4.1792130079327.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "我把……賜給"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅各"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "以掃"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "又把……賜給"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "西珥山"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "西珥"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "為業"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ 它"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "和他的子孫"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "下到"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    }
+  ],
+  "timestamp": "2026-10-16T05:54:39.328446244Z",
+  "model": "glm-5.3"
+}

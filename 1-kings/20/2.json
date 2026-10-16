@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "去見",
+      "rationale": "希伯來文以「往城裏」直接接亞哈，中文需補出動作連接"
+    }
+  ],
+  "translation": "他差遣使者到城裏，去見以色列王亞哈，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5fd382057d5ee7188e7467a62c95c6e35ec7f8e69114c37fa7144ed43a5e97f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/20\/1-4.1792133321780.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差遣"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "使者"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "城裏"
+    }
+  ],
+  "timestamp": "2026-10-16T06:48:41.781757967Z",
+  "model": "glm-5.3"
+}

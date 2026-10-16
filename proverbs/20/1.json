@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לץ",
+      "rationale": "לץ 本是動詞「嗤笑、張口嘲弄」，此處作名詞「嘲笑者」，保留擬人形而非抽象化為「欺哄」"
+    },
+    {
+      "kind": "crux",
+      "subject": "המה",
+      "rationale": "המה 本義「發大聲、騷動」，諸譯本作『喧嘩／暴怒』（raging, brawler）；取『喧嘩』保留聲音意象"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "結構",
+      "rationale": "兩個擬人化主語（嘲笑者、喧嘩者）平行對仗，中文以『是……者』保存"
+    }
+  ],
+  "translation": "酒是嘲笑者，濃酒是喧嘩者；凡在其中迷失的，必不成為智者。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0f9c7c64221fc5c6bfd97993f683221b708f6b467088b670700d2ab997dbd0cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/20\/1-4.1792145565881.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "嘲笑者"
+    },
+    {
+      "surface": "היין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "המה",
+      "gloss": "喧嘩"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "濃酒"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "迷失"
+    },
+    {
+      "surface": "בו",
+      "gloss": "在其中"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "成為智者"
+    }
+  ],
+  "timestamp": "2026-10-16T10:12:45.881852925Z",
+  "model": "glm-5.3"
+}

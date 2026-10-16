@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 32:2",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "怒氣",
+      "rationale": "אף 本義是「鼻孔」，怒氣從鼻孔燒起，中文字面已失"
+    },
+    {
+      "kind": "substitution",
+      "subject": "他的性命",
+      "rationale": "נפשו 是「他的性命」，欽定本傳統讀作「他自義過於以羅欣」；直譯是「以自己的性命為義勝過以羅欣」"
+    },
+    {
+      "kind": "crux",
+      "subject": "צדקו נפשו מאלהים",
+      "rationale": "傳統譯「他自義過於神」；另一讀法是「他在神面前以自己的性命為義」——介詞 מן 的比較義或來源義之爭"
+    }
+  ],
+  "translation": "那時，蘭族布斯人巴拉迦的兒子以利戶的怒氣發作；他向約伯發怒，因為他以自己為義，而不以以羅欣（神）為義。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "248a0e1a6fd045eb593ee89aabfc8b866c8706840283e7d6315c8921448ac9b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/32\/1-4.1792146378486.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "發作"
+    },
+    {
+      "surface": "אף",
+      "gloss": "怒氣"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "以利戶"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "ברכאל",
+      "gloss": "巴拉迦"
+    },
+    {
+      "surface": "הבוזי",
+      "gloss": "布斯人"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "……族"
+    },
+    {
+      "surface": "רם",
+      "gloss": "蘭"
+    },
+    {
+      "surface": "באיוב",
+      "gloss": "向約伯"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "發怒"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "他的怒氣"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "以自己為義"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "他的性命"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "而不以以羅欣（神）為義"
+    }
+  ],
+  "timestamp": "2026-10-16T10:26:18.487503657Z",
+  "model": "glm-5.3"
+}

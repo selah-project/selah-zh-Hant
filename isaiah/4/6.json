@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סוכה",
+      "rationale": "『棚』——欽定本作 tabernacle（帳幕），字面是臨時的棚架，即住棚節的棚"
+    },
+    {
+      "kind": "crux",
+      "subject": "זרם",
+      "rationale": "『暴雨』——字面是水的湧流／突降之雨，和合本作暴風"
+    },
+    {
+      "kind": "addition",
+      "subject": "躲避",
+      "rationale": "中文重複介詞『躲避』以鋪開三個目的語（避難所、藏身處），希伯來文由一個 מ 前綴承擔"
+    }
+  ],
+  "translation": "並有一座棚必作白日炎熱之下的蔭處、作避難所和藏身處，躲避暴雨和雨水。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "29677928f6ae59f13b74c6051cb661e3973163cb1915bd9dd0f9c7f9eb925447",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/4\/5-6.1792134557213.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "並有一座棚"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "必作"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "作蔭處"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "白日"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "躲避炎熱"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "並作避難所"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "和藏身處"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "躲避暴雨"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "和雨水"
+    }
+  ],
+  "timestamp": "2026-10-16T07:09:17.214554163Z",
+  "model": "glm-5.3"
+}

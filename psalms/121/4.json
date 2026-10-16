@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ינום／יישן",
+      "rationale": "打盹與睡覺二字並列，遞進式的否定平行，中文以『打盹』『睡覺』保留層次"
+    },
+    {
+      "kind": "mystery",
+      "subject": "看哪",
+      "rationale": "הנה 引人注視那看不見的保守者——宣告一位不眠的看顧者"
+    }
+  ],
+  "translation": "看哪，那保守以色列的必不打盹，也不睡覺。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8f07faf0f11916aa1ad6ab96a29c64b818bcebbde0b41505d274b77833588e39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/121\/1-4.1792144914541.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "打盹"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "睡覺"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "那保守……的"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T10:01:54.543045917Z",
+  "model": "glm-5.3"
+}

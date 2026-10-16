@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "狂吹的風",
+      "rationale": "מרוח סעה 直譯「急衝的風」——סעה（急衝）是描寫風的動詞，中文以形容詞呈現"
+    },
+    {
+      "kind": "alternative",
+      "subject": "避難處",
+      "rationale": "מפלט 本義「逃脫（之地）」，可作「逃脫」，JPS 取 shelter（避難所）之讀"
+    }
+  ],
+  "translation": "我願速速逃往我的避難處，脫離狂吹的風，脫離暴風。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ac333cb8fe8857c295668f5ef1a8d7060fe07603a3495b294a1e96f891a7827b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/55\/9-12.1792143908767.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "我願速速"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "避難處"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我的"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "脫離風"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "狂吹的"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "脫離暴風"
+    }
+  ],
+  "timestamp": "2026-10-16T09:45:08.767941618Z",
+  "model": "glm-5.3"
+}

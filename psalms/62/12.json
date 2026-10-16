@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "一次…兩次",
+      "rationale": "希伯來習語：重複即確定，非字面計數"
+    },
+    {
+      "kind": "measurement",
+      "subject": "一次…兩次",
+      "rationale": "數詞並列構成敘述框架"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "引出所聽見的內容，中文以冒號呈現"
+    }
+  ],
+  "translation": "以羅欣說了一次，兩次我聽見這事：能力屬於以羅欣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0a379c45e89b57afba656b2e3fe66866950528260cc037bfb6ce8e6748a6f84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/62\/9-12.1792144046451.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "一次"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "說了"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "兩次"
+    },
+    {
+      "surface": "זו",
+      "gloss": "這事"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "我聽見"
+    },
+    {
+      "surface": "כי",
+      "gloss": "："
+    },
+    {
+      "surface": "עז",
+      "gloss": "能力"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "屬於以羅欣"
+    }
+  ],
+  "timestamp": "2026-10-16T09:47:26.452067824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 8:8",
+  "book": "esther",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כתב\/נכתב、חתמו\/נחתום",
+      "rationale": "主動與被動動詞成對呼應（寫\/所寫、蓋印\/所蓋印），中文保留對仗。"
+    },
+    {
+      "kind": "elision",
+      "subject": "אין להשיב",
+      "rationale": "字面『沒有可挽回的（者）』，不定式作名詞用，譯為『無人能撤回』。"
+    },
+    {
+      "kind": "you",
+      "subject": "王對以斯帖與末底改",
+      "rationale": "命令式『寫……蓋印』直接對二人發出。"
+    }
+  ],
+  "translation": "至於你們，可以照你們眼中看為好的，奉王的名寫給猶太人，並用王的戒指蓋印；因為奉王的名所寫、用王的戒指所蓋印的文書，是無人能撤回的。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "133dd0839d4065e557d272c5b4d3654d7eabc871c7c4fd88cf9411641a2400f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/esther\/8\/5-8.1792147381467.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "至於你們"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "寫"
+    },
+    {
+      "surface": "על",
+      "gloss": "給"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "猶太人"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "照……看為好的"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "在你們眼中"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "奉……的名"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "וחתמו",
+      "gloss": "並蓋印"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "用……的戒指"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "文書"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "נכתב",
+      "gloss": "所寫"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "奉……的名"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ונחתום",
+      "gloss": "所蓋印"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "用……的戒指"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無人"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "能撤回"
+    }
+  ],
+  "timestamp": "2026-10-16T10:43:01.468480598Z",
+  "model": "glm-5.3"
+}

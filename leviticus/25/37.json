@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נשך",
+      "rationale": "字面為「咬」——利息如咬噬債戶，譯作「利息」失去畫面"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ובמרבית",
+      "rationale": "字面「以加增」——或指利上加利，此處譯「拿加增」"
+    }
+  ],
+  "translation": "⟨את⟩ 你的銀子，不可拿利息給他；你的食物，不可拿加增給他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9b5488444a74bbb8c8d044e41b62c3fadae48d4d4ed360c434230f421bb1ea1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/25\/37-40.1792127282638.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的銀子"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "你的銀子"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "給"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給他"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "拿利息"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "拿加增"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "給"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "你的食物"
+    }
+  ],
+  "timestamp": "2026-10-16T05:08:02.639076265Z",
+  "model": "glm-5.3"
+}

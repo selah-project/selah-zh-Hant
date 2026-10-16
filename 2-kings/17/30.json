@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סכות בנות",
+      "rationale": "「疏割‧比納」（直譯「女兒們的帳棚」）是全塔納赫僅此一處的神明名，或指巴比倫女神。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "三重排比",
+      "rationale": "「X的人造了⟨את⟩ Y」三句完全平行的名單結構，中文保留其排比。"
+    }
+  ],
+  "translation": "巴比倫人造了 ⟨את⟩ 疏割‧比納，古他人造了 ⟨את⟩ 挪迦，哈馬人造了 ⟨את⟩ 亞示瑪。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e7a9fd96d5094ea5756417e9379bfc887e1595f4de89c7f600885bbe247f3c51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/17\/29-32.1792134111359.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "……的人"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "造了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "疏割‧比納"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "疏割"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "比納（女兒們的帳棚）"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "……的人"
+    },
+    {
+      "surface": "כות",
+      "gloss": "古他"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "造了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "挪迦"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "挪迦"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "……的人"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "哈馬"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "造了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞示瑪"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "亞示瑪"
+    }
+  ],
+  "timestamp": "2026-10-16T07:01:51.360432293Z",
+  "model": "glm-5.3"
+}

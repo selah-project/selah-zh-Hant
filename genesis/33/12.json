@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "以掃",
+      "rationale": "說話者由上下文（以掃）補出，希伯來文僅作「他說」"
+    },
+    {
+      "kind": "invitation",
+      "subject": "對雅各",
+      "rationale": "以掃以 cohortative 動詞邀請同行：「我們起程吧，前行吧」"
+    }
+  ],
+  "translation": "以掃⟨又>說：「我們起程前行吧，我要走在你前頭。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "333a24794fc12b50d81dd7f3ce70cd0af648638b7cedd28779b9dd6fb71bdd76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/33\/9-12.1792125250283.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "我們起程吧"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "前行吧"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "我要走"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "在你前頭"
+    }
+  ],
+  "timestamp": "2026-10-16T04:34:10.285325037Z",
+  "model": "glm-5.3"
+}

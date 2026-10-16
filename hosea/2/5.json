@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 2:5",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פן",
+      "rationale": "「免得」暗示刑罰並非目的而是後果；另有譯法作「否則／因為」，直指後果。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צמא",
+      "rationale": "「渴」兼指身體的乾渴與靈裡的枯竭，經文刻意不加區分。"
+    }
+  ],
+  "translation": "免得我把她剝得赤裸，把她擺列如她出生之日，使她如曠野，使她如乾旱之地，叫她因渴而死。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "404411ea4c142e11567dcd6e9493e539a2ed06a2e9512291dad227adb7ee3cb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/2\/5-8.1792139379645.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "אפשיטנה",
+      "gloss": "我把她剝光"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "赤裸"
+    },
+    {
+      "surface": "והצגתיה",
+      "gloss": "並把她擺列"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "如……之日"
+    },
+    {
+      "surface": "הולדה",
+      "gloss": "她出生"
+    },
+    {
+      "surface": "ושמתיה",
+      "gloss": "使她如"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "使她如"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "如……之地"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "乾旱"
+    },
+    {
+      "surface": "והמתיה",
+      "gloss": "叫她死"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "因渴"
+    }
+  ],
+  "timestamp": "2026-10-16T08:29:39.646228580Z",
+  "model": "glm-5.3"
+}

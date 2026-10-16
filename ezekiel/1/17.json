@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 1:17",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רבעיהן",
+      "rationale": "רבע意為「四分之一／一側」，此處指四個側面，譯作「四方的邊」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בלכתם…ילכו…בלכתן",
+      "rationale": "「行走」一詞三次重複，希伯來文以重複加強輪子直行不轉的意象"
+    }
+  ],
+  "translation": "輪子行走的時候，向著四方的邊行走；牠們行走的時候，並不迴轉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bfad28ead181742b8ddc879eac1c565a1153dc11044cc40319a507fa087a8eb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/1\/17-20.1792137833574.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "向著"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "四方"
+    },
+    {
+      "surface": "רבעיהן",
+      "gloss": "邊"
+    },
+    {
+      "surface": "בלכתם",
+      "gloss": "行走的時候"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "行走"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יסבו",
+      "gloss": "迴轉"
+    },
+    {
+      "surface": "בלכתן",
+      "gloss": "行走的時候"
+    }
+  ],
+  "timestamp": "2026-10-16T08:03:53.575117234Z",
+  "model": "glm-5.3"
+}

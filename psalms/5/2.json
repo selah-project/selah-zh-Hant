@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "雅威",
+      "rationale": "直接向雅威呼求的禱告開端。"
+    },
+    {
+      "kind": "crux",
+      "subject": "הגיגי",
+      "rationale": "הגיג 指低聲的喃喃、默想的抱怨：或譯「默想」(KJV) 或「哀嘆」(BSB)。"
+    }
+  ],
+  "translation": "雅威啊，求你側耳聽我的言語，明察我的哀嘆。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3e39ade9600d4388a3cc353c2f73cfd4e904612ceb9003ca67fa8913cd679690",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/5\/1-4.1792143218245.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "我的言語"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "求你側耳聽"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "求你明察"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "我的哀嘆"
+    }
+  ],
+  "timestamp": "2026-10-16T09:33:38.246745186Z",
+  "model": "glm-5.3"
+}

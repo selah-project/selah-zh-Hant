@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "有一道",
+      "rationale": "中文需要存在句引詞，希伯來文以分詞短語直接開始"
+    },
+    {
+      "kind": "substitution",
+      "subject": "源頭",
+      "rationale": "רֹאשׁ 字面是「頭」，河流語境指源頭、上游"
+    },
+    {
+      "kind": "measurement",
+      "subject": "四個源頭",
+      "rationale": "數算河流的分叉，四這數字本身是經文的結構要點"
+    }
+  ],
+  "translation": "有一道河從伊甸流出來，為要滋潤 ⟨את⟩ 那園子；從那裡分支，成了四個源頭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fe4aa9e587edeb479fab61f03ce5ca6058f0dcfe1e354d529efa2b105287d7b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/2\/10-12.1792142368037.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "有一道河"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "流出來"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "從伊甸"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "為要滋潤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那園子"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "那園子"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "從那裡"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "分支"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "成了"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "四個"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "源頭"
+    }
+  ],
+  "timestamp": "2026-10-16T09:19:28.038978321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "我們",
+      "rationale": "希伯來文動詞נשיר的複數人稱由「我們」標出，中文需代名詞"
+    },
+    {
+      "kind": "you",
+      "subject": "集體的「我們」",
+      "rationale": "被擄者的修辭問句，向自身與逼迫者發問（見137:3）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "外族之地",
+      "rationale": "אדמת נכר直譯「陌生之地／外邦的土壤」，אדמה強調土地本身"
+    }
+  ],
+  "translation": "我們怎能在外族之地上唱 ⟨את⟩ 雅威的歌呢？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "82ab9a1222f5ae604b621797bd9a0a32434c946bd9b15dc3fb48036272537202",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/137\/4-4.1792149940219.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "怎能"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "我們……唱"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的歌"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "……之地"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "外族"
+    }
+  ],
+  "timestamp": "2026-10-16T11:25:40.219398588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨它⟩",
+      "rationale": "中文需要受詞指旌旗，希伯來文未寫出"
+    },
+    {
+      "kind": "crux",
+      "subject": "קשט",
+      "rationale": "קשט 僅此處作名詞『真理／正直』；有學者改讀為 קשת『弓』，作『使他們可以逃避弓箭』（BSB）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "細拉",
+      "rationale": "סלה 是音樂記號，音譯保留"
+    }
+  ],
+  "translation": "你把旌旗賜給敬畏你的人，使他們可以因真理而高舉⟨它⟩。細拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "84865b9bc7ed5901f6561e9ff6231f3a2236584bb0617519ad72f3b3def82612",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/60\/5-8.1792143964372.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "你把……賜給"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "敬畏你的人"
+    },
+    {
+      "surface": "נס",
+      "gloss": "旌旗"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "高舉"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "因"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "真理"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉。"
+    }
+  ],
+  "timestamp": "2026-10-16T09:46:04.373534034Z",
+  "model": "glm-5.3"
+}

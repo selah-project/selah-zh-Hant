@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יָפִיחַ לוֹ",
+      "rationale": "可讀作「為它喘息渴求」（KJV\/ASV\/BSB）或「向他噓氣欺凌的人」（JPS）；本文取前者——雅威向那切望拯救的人施行拯救。"
+    },
+    {
+      "kind": "elision",
+      "subject": "בְּיֵשַׁע",
+      "rationale": "名詞「拯救、安全」帶介詞，中文以「在拯救之中」表其方位。"
+    }
+  ],
+  "translation": "因困苦人所受的強暴、因窮乏人的哀聲，如今我要起來，雅威說；我要把那切望喘息的安置在拯救之中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2e8bfb0f9c2067f461a0cddcb065e7801b95f1df499e42d5b5c06c36de471b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/12\/5-8.1792143376564.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "強暴"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "困苦人"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "哀聲"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "窮乏人"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "如今"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "我要起來"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "我要安置"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "在拯救之中"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "那切望喘息的"
+    },
+    {
+      "surface": "לו",
+      "gloss": "它（拯救）"
+    }
+  ],
+  "timestamp": "2026-10-16T09:36:16.565811362Z",
+  "model": "glm-5.3"
+}

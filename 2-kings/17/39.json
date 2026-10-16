@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "中文語法需賓語代詞，希伯來文以את記號承擔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי אם",
+      "rationale": "連用加強「惟獨」的排他語氣，對比前一節的別神"
+    }
+  ],
+  "translation": "惟有雅威你們的以羅欣，你們要敬畏⟨他⟩；他要拯救 ⟨את⟩ 你們脫離一切仇敵的手。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e1f0d0896f67be67ab4c4bea895a697e8112a2b9ef3580a9efd9aba7d6f0423c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/17\/37-40.1792134034426.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "惟有"
+    },
+    {
+      "surface": "אם",
+      "gloss": "（加強否定）"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威你們的以羅欣"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "你們的以羅欣"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "你們要敬畏"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "要拯救"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ 你們",
+      "marks": "你們"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "脫離……的手"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "仇敵的"
+    }
+  ],
+  "timestamp": "2026-10-16T07:00:34.427769682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חשך／יחשיך",
+      "rationale": "名詞「黑暗」與動詞「變暗」同根，字面作「黑暗也不向你變暗」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כחשיכה כאורה",
+      "rationale": "「如黑暗、如光明」兩個 כ 短語對稱，音節相近，中文以「如……如……」保留對仗"
+    }
+  ],
+  "translation": "黑暗對你也不黑暗，夜卻如白日發光；黑暗如光明。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f780a204476d2dae71f13954eb3899ac85b0761bd4cef2b576a1da1fa58dfd9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/139\/9-12.1792145059546.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "黑暗"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "黑暗"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "如白日"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "發光"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "如黑暗"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "如光明"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:19.547906706Z",
+  "model": "glm-5.3"
+}

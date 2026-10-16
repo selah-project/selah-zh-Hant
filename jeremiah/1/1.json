@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "以下是",
+      "rationale": "中文需要引導語引出書名開頭，希伯來文無此結構"
+    }
+  ],
+  "translation": "以下是耶利米的話——他是希勒家的兒子，屬於亞拿突的祭司，亞拿突在便雅憫地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c6ab033bb790538d1e5e3f1a8ffe2f716de6db95e78428b784be1780c01570a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/1\/1-4.1792136026479.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "耶利米"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "希勒家"
+    },
+    {
+      "surface": "מן",
+      "gloss": "屬於……的"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那些在"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "亞拿突"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在……地"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "便雅憫"
+    }
+  ],
+  "timestamp": "2026-10-16T07:33:46.480454289Z",
+  "model": "glm-5.3"
+}

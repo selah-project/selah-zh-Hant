@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 1:17",
+  "book": "zechariah",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "我的",
+      "rationale": "希伯來文 ערי 前無所有格代詞，譯文加上「我的」以合語境"
+    },
+    {
+      "kind": "crux",
+      "subject": "תפוצינה מטוב",
+      "rationale": "「因美物而擴散豐溢」對比「被好物砸碎」：פוץ 本義為打散，諸譯本分歧（KJV 擴散溢流 vs Geneva 被擊碎）"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עוד",
+      "rationale": "עוד 一詞四次重複，是本節的節拍：再、再、再、再——中文以「再次／再」重現"
+    }
+  ],
+  "translation": "你要再次宣告，說：萬軍之雅威如此說：我的城邑必再因美物而擴散豐溢；雅威必再安慰 ⟨את⟩ 錫安，必再揀選耶路撒冷。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "be1438939c5a95c2bef280c085c3a489990902260f5903ebafa981c761047806",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/zechariah\/1\/17-17.1792142798562.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "再次"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "宣告"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "כה",
+      "gloss": "如此"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "萬軍"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再"
+    },
+    {
+      "surface": "תפוצינה",
+      "gloss": "擴散豐溢"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "城邑"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "因美物"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "必再安慰"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "錫安"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "必揀選"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-10-16T09:26:38.565363759Z",
+  "model": "glm-5.3"
+}

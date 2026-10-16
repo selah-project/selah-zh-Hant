@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "因為",
+      "rationale": "中文需連接詞交代因果，希伯來文以子句並置表達"
+    },
+    {
+      "kind": "substitution",
+      "subject": "臨到",
+      "rationale": "תעשה字面為「做」，此處意為「這事是你招來的」，諸譯本或作「招致」"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "第二人稱陰性單數，直接向以色列（作女子）發言"
+    }
+  ],
+  "translation": "豈不是這事臨到你自己嗎？因為你離棄了 ⟨את⟩ 雅威你的以羅欣，正是他在路上引導你的時候。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "82885541c6f21ed67d46aec70e3efca3f7618696944013cd0cfcb3e6fd9363cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/2\/17-20.1792136036378.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "豈不是"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這事"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你自己"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "你離棄了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "在……的時候"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "引導你"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "在路上"
+    }
+  ],
+  "timestamp": "2026-10-16T07:33:56.379372402Z",
+  "model": "glm-5.3"
+}

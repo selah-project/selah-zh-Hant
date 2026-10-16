@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 63:14",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "牲畜下谷",
+      "rationale": "牲畜下到谷中安然行走，喻子民平順地被引領；原文無『如』字，比擬由上下文隱含。"
+    },
+    {
+      "kind": "addition",
+      "subject": "（靈）",
+      "rationale": "רוח按紀律作魯阿，首次出處附漢字括註。"
+    }
+  ],
+  "translation": "如牲畜下到谷中，雅威的魯阿（靈）使他們得安息；這樣，你引導你的子民，為要為自己成就榮耀的名。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ef119106f566a78f94bec01c588c109635a08d0a0bb9667fd029b06ead5efac1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/63\/13-16.1792135842594.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבהמה",
+      "gloss": "如牲畜"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "下到谷中"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "下去"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "魯阿（靈）"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תניחנו",
+      "gloss": "使他們得安息"
+    },
+    {
+      "surface": "כן",
+      "gloss": "這樣"
+    },
+    {
+      "surface": "נהגת",
+      "gloss": "你引導"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的子民"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "為要成就"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為你自己"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "榮耀"
+    }
+  ],
+  "timestamp": "2026-10-16T07:30:42.595093345Z",
+  "model": "glm-5.3"
+}

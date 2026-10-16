@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "平息",
+      "rationale": "ויעמד直譯「站住」，海停止翻騰如站定"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זעפו",
+      "rationale": "海有「怒氣」，希伯來文擬人化修辭"
+    }
+  ],
+  "translation": "他們抬起 ⟨את⟩ 約拿，把他拋入海中，海就從它的怒濤中平息了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9492ce5014b75551d8ba5a09df62ad0eb39a2c29923bf67e427d66463064cb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jonah\/1\/13-16.1792139963933.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "他們抬起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約拿"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "約拿"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "把他拋入"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "平息了"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "從它的怒濤"
+    }
+  ],
+  "timestamp": "2026-10-16T08:39:23.934400612Z",
+  "model": "glm-5.3"
+}

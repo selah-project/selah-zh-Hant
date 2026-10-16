@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 9:15",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למקוננות前無主語",
+      "rationale": "本節承接上節的第一人稱宣告，中文補『我』以順語流"
+    },
+    {
+      "kind": "substitution",
+      "subject": "認識",
+      "rationale": "ידעו是盟約性的『認識』，非資訊性的知道；分散到『不認識雅威的民』中"
+    }
+  ],
+  "translation": "我必將他們分散在列國中，就是他們和他們的祖先都不認識的；我必差遣刀劍追趕他們，直到將他們滅盡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "14884529c301db6840f6316534d8e3a5034407427f479a3d35a33695aa5d8f81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/9\/13-16.1792136396958.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והפצותים",
+      "gloss": "我必將他們分散"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "在列國中"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "認識"
+    },
+    {
+      "surface": "המה",
+      "gloss": "他們"
+    },
+    {
+      "surface": "ואבותם",
+      "gloss": "和他們的祖先"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "我必差遣"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "追趕他們"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "刀劍"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "כלותי",
+      "gloss": "我滅盡"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩他們"
+    }
+  ],
+  "timestamp": "2026-10-16T07:39:56.959071374Z",
+  "model": "glm-5.3"
+}

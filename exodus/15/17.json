@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 15:17",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "本節有兩個後綴化的受詞記號（תבאמו、ותטעמו 內含的「他們」），無獨立 את 詞元；譯文以「他們」承接"
+    },
+    {
+      "kind": "crux",
+      "subject": "מכון לשבתך",
+      "rationale": "「你居住的堅固居所」——KJV 作『為你居住而預備的地方』，語序上它與「聖所」為同位語"
+    },
+    {
+      "kind": "addition",
+      "subject": "阿多奈啊",
+      "rationale": "אדני 在此為呼格，中文以感嘆詞「啊」標出"
+    }
+  ],
+  "translation": "你必帶他們進來，栽種在 ⟨את⟩ 你產業的山上——雅威啊，在你親手預備的居住之處，在你雙手所堅立的聖所，阿多奈啊。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6b2dd9e057f833791a91bc7e4e85d523ba1897c70ee99f460980db16532cba41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/15\/17-20.1792125988214.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבאמו",
+      "gloss": "你必帶他們進來"
+    },
+    {
+      "surface": "ותטעמו",
+      "gloss": "栽種他們"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "在山上"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "你產業的"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "居住之處"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "你居住的"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "你預備了"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "聖所"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "堅立了"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "你的雙手"
+    }
+  ],
+  "timestamp": "2026-10-16T04:46:28.215657030Z",
+  "model": "glm-5.3"
+}

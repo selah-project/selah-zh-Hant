@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "呢",
+      "rationale": "中文需要的疑問語氣詞，希伯來文以מתי的提問形式承擔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מתי…מתי",
+      "rationale": "重複的「幾時」，加強責備的修辭力量"
+    },
+    {
+      "kind": "invitation",
+      "subject": "呼喚",
+      "rationale": "以重複的問題直接喚醒懶惰人，是直接的口頭訓誡"
+    }
+  ],
+  "translation": "懶惰人啊，你要躺到幾時呢？你幾時才從你的睡眠中起來呢？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "532396e5db5b86b07b5ff7bba1564058f28ec2ef4836b75cf3c5851434f7d978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/6\/9-12.1792145187813.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "幾時"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "懶惰人"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "你要躺"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "幾時"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "你要起來"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "你的睡眠"
+    }
+  ],
+  "timestamp": "2026-10-16T10:06:27.814174688Z",
+  "model": "glm-5.3"
+}

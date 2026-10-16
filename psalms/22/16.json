@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מלקוחי",
+      "rationale": "雙數名詞，本義「顎」；和合本作「牙床」，JPS 作「喉嚨」，各譯不一。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יבש",
+      "gloss-rational": "",
+      "rationale": "字根兼有「枯乾」與「羞愧」二義，此處取枯乾義。"
+    }
+  ],
+  "translation": "我的力量枯乾如瓦片，我的舌頭貼在上顎；你把我放在死亡的塵土中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "91233f5f52ffdf9ce5a2a3268ee7b28cec21719b3776c1eb5cb7f68dec3f8a7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/22\/13-16.1792143418301.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "枯乾"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "如瓦片"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "我的力量"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "我的舌頭"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "貼在"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "上顎"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "在…的塵土中"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死亡"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "你把我放在"
+    }
+  ],
+  "timestamp": "2026-10-16T09:36:58.303020994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 23:23",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נחש",
+      "rationale": "KJV 加『against』（對抗雅各的法術）；希伯來文僅『在雅各中沒有占卜』——本民不用法術，或法術對其無效"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כעת",
+      "rationale": "可讀作『按這時候』（按現在所見之事）而非『從今以後這時』"
+    }
+  ],
+  "translation": "因為雅各中沒有占卜，以色列中也沒有法術；這時必論到雅各和以色列說：伊勒行了何等的事！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e3c246902db6be9805b22e32c164b0e32af72a110a4304c4733a8142bb0ec0b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/23\/21-24.1792128115365.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "占卜"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "雅各中"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也沒有"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "法術"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "以色列中"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "這時"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "必論到……說"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "和以色列"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何等的"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "行了……的事"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    }
+  ],
+  "timestamp": "2026-10-16T05:21:55.366500805Z",
+  "model": "glm-5.3"
+}

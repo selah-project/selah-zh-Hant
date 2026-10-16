@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 3:17",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "這是",
+      "rationale": "希伯來文無繫詞，開頭名詞短語需補「這是」以成句"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חקת עולם",
+      "rationale": "「永遠的定例」為祭司律法的固定套語，字面為「隱藏之點→無限時間的定例」"
+    }
+  ],
+  "translation": "這是你們世世代代永遠的定例，在你們一切的居住處：一切的脂油和一切的血，你們都不可吃。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d24a50ef8f2d925c03eee118c3d0ab7a3847e8b3486c26f4765bfbd46fd3601e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/3\/17-17.1792126600717.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חקת",
+      "gloss": "定例"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "你們世世代代"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "在……一切"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "你們的居住處"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "脂油"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和一切"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "你們吃"
+    }
+  ],
+  "timestamp": "2026-10-16T04:56:40.718404349Z",
+  "model": "glm-5.3"
+}

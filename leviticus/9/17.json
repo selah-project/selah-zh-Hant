@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 9:17",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "素祭",
+      "rationale": "המנחה字面是「禮物／貢物」，指穀物供物，非「素」字可盡"
+    },
+    {
+      "kind": "substitution",
+      "subject": "熏燒",
+      "rationale": "ויקטר字面「使成煙霧」，化為香氣升上，非單純的焚燒"
+    }
+  ],
+  "translation": "他又奉上⟨את⟩素祭，從其中盛滿他的手掌，在祭壇上熏燒，這是在早晨燔祭之外。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "90782fe8624baa7804f79d9147f8d2b6ee8cff8e6fc12a1403870be559b61e2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/9\/17-20.1792126844473.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "奉上"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "素祭"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "素祭"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "盛滿"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "他的手掌"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "從其中"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "熏燒"
+    },
+    {
+      "surface": "על",
+      "gloss": "在…上"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "之外"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "早晨"
+    }
+  ],
+  "timestamp": "2026-10-16T05:00:44.474505809Z",
+  "model": "glm-5.3"
+}

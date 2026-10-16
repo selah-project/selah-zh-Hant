@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 4:3",
+  "book": "daniel",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "下⟨旨⟩\/諭旨",
+      "rationale": "ומני שים טעם 字面「從我設立諭旨」，中文拆為動詞與賓語兩處"
+    },
+    {
+      "kind": "substitution",
+      "subject": "טעם",
+      "rationale": "字面為「滋味、品味」，轉指「判斷、諭旨」；中文取喻體之果而非其源"
+    }
+  ],
+  "translation": "於是我下旨，把巴比倫的一切智慧人帶到我面前，讓他們把夢的講解告訴我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cd60afccff17247915ce9450c25d1383108fcf3d652232b475ca5377265e2eb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/daniel\/4\/1-4.1792147515179.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומני",
+      "gloss": "從我"
+    },
+    {
+      "surface": "שים",
+      "gloss": "下⟨旨⟩"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "諭旨"
+    },
+    {
+      "surface": "להנעלה",
+      "gloss": "被帶到"
+    },
+    {
+      "surface": "קדמי",
+      "gloss": "我面前"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "חכימי",
+      "gloss": "智慧人"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "די",
+      "gloss": "好讓"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "講解"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "夢"
+    },
+    {
+      "surface": "יהודענני",
+      "gloss": "告訴我"
+    }
+  ],
+  "timestamp": "2026-10-16T10:45:15.180637135Z",
+  "model": "glm-5.3"
+}

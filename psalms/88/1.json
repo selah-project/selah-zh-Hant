@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "希幔",
+      "rationale": "להימן 与 האזרחי 为同位语，中文加〈即是〉连接"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מחלת",
+      "rationale": "曲调名，仅出现于诗篇标题（诗53、88），含义不明"
+    },
+    {
+      "kind": "mystery",
+      "subject": "מחלת לענות",
+      "rationale": "「瑪哈拉·利安诺特」曲调名意义隐晦：『疾病』『应答』之意，所指不明"
+    }
+  ],
+  "translation": "歌唱，詩篇，可拉子孫的，交給伶長，调用「瑪哈拉」以應答，訓誨詩，以斯拉人以探〈即是希幔〉所作。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e9be61345a0526ae278b5e0ab0a1d76c8f25951a4be1da4f53fd5cee2af8d07f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/88\/1-4.1792144447836.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌唱"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩篇"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "子孫的"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "可拉"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "交給伶長"
+    },
+    {
+      "surface": "על",
+      "gloss": "调用"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "「瑪哈拉」"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "以應答"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "訓誨詩"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "希幔"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "以斯拉人以探"
+    }
+  ],
+  "timestamp": "2026-10-16T09:54:07.837113219Z",
+  "model": "glm-5.3"
+}

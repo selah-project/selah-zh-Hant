@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "非利士人的起源",
+      "rationale": "本節說非利士人出自迦斯路希人；耶 47:4 與摩 9:7 卻說他們來自迦斐託，兩處傳統並存"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "gloss_rationale": null,
+      "rationale": "關係詞 אשר 融入「從那裡」的譯法，未單獨譯出"
+    },
+    {
+      "kind": "measurement",
+      "subject": "族譜",
+      "rationale": "數算麥西後代各族的名單"
+    }
+  ],
+  "translation": "以及 ⟨את⟩ 帕斯魯細人、⟨את⟩ 迦斯路希人——非利士人從那裡出來——和 ⟨את⟩ 迦斐託人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "75e77547bbff0e24042c6599703ac4c211014f2daa7cfcd03d16908797e2754a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/10\/13-16.1792124706394.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "以及 ⟨את⟩",
+      "marks": "帕斯魯細人"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "帕斯魯細人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "迦斯路希人"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "迦斯路希人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "從那裡"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "出來"
+    },
+    {
+      "surface": "משם",
+      "gloss": "從那裡"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "迦斐託人"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "迦斐託人"
+    }
+  ],
+  "timestamp": "2026-10-16T04:25:06.396133843Z",
+  "model": "glm-5.3"
+}

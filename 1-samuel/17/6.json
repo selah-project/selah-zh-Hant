@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 17:6",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כידון",
+      "rationale": "傳統譯『標槍』（KJV作『盾』）；此詞本義為擊打之物，具體所指不明"
+    },
+    {
+      "kind": "substitution",
+      "subject": "兩肩之間",
+      "rationale": "בין כתפיו直譯『在他的兩肩之間』，即背在背上"
+    }
+  ],
+  "translation": "他腿上有銅護脛，兩肩之間有銅的投槍。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8866e59e1f1a781d96d653628d7ce65d84c51ed008f113b2c0f4dedf9fecaf51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/17\/5-8.1792131134900.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצחת",
+      "gloss": "護脛"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "他的腿"
+    },
+    {
+      "surface": "וכידון",
+      "gloss": "投槍"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "בין",
+      "gloss": "在……之間"
+    },
+    {
+      "surface": "כתפיו",
+      "gloss": "他的兩肩"
+    }
+  ],
+  "timestamp": "2026-10-16T06:12:14.901617713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 5:9",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עפלים",
+      "rationale": "「痔瘡／腫瘤」對「痣壘（土丘）」：傳統作痔瘡，七十士譯本作鼠疫腹股溝潰瘍，各方譯法不一"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שׂתר",
+      "rationale": "動詞「爆發（如潰瘍湧出）」僅見於撒上5:9、5:12"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גדולה…גדול",
+      "rationale": "「極大的混亂」與「從小到大」前後呼應：混亂之『大』與被擊者之『大』同一字"
+    }
+  ],
+  "translation": "他們把櫃運走以後，雅威的手臨到那城，造成極大的混亂；他擊打了⟨את⟩那城的人，從小的直到大的，痔瘡就在他們身上爆發出來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "214fd0f7fd546aa03b1d5dd98ee4687b20e957345e093901c10e93d51f380221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/5\/9-12.1792130901831.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "以後"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…之後"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "他們把櫃運走"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "櫃"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "יד",
+      "gloss": "…的手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "在那城"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "混亂"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "極大的"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "他擊打了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那城的人"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…的人"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "那城"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "從小的"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大的"
+    },
+    {
+      "surface": "וישתרו",
+      "gloss": "爆發出來"
+    },
+    {
+      "surface": "להם",
+      "gloss": "在他們身上"
+    },
+    {
+      "surface": "עפלים",
+      "gloss": "痔瘡"
+    }
+  ],
+  "timestamp": "2026-10-16T06:08:21.832677471Z",
+  "model": "glm-5.3"
+}

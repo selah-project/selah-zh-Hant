@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "勝過",
+      "rationale": "טוב 作比較句謂語，中文以「勝過」承載比智慧句式"
+    },
+    {
+      "kind": "alternative",
+      "subject": "祭肉",
+      "rationale": "זבחי ריב 字面「爭競的祭牲」——指宴席上的祭肉，非平安的獻祭"
+    }
+  ],
+  "translation": "一塊乾餅而有安靜，勝過滿屋爭競的祭肉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a4a6ac4f9a499f64129053a89dbef8434d73903c1126f2fa50528d16e8a6236f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/17\/1-4.1792145489246.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "勝過"
+    },
+    {
+      "surface": "פת",
+      "gloss": "一塊餅"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "乾"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "而有安靜"
+    },
+    {
+      "surface": "בה",
+      "gloss": "在其中有"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "滿屋"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "滿"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "祭肉"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "爭競"
+    }
+  ],
+  "timestamp": "2026-10-16T10:11:29.247147751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 25:5",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לשלום",
+      "rationale": "問安（字面「為平安」）是希伯來問候語，直譯會誤導"
+    },
+    {
+      "kind": "you",
+      "subject": "to the young men",
+      "rationale": "大衛直接吩咐僕人，命令式複數"
+    }
+  ],
+  "translation": "大衛打發十個僕人，大衛對僕人們說：「你們上迦密去，來到拿八那裡，用我的名向他問安，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d7b421baf077d7196740e308789e062aa0cdf7e6c22eadf11f1c018405a2d73e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/25\/5-8.1792131412567.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "打發"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十個"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "僕人"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "לנערים",
+      "gloss": "對僕人們"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "上去"
+    },
+    {
+      "surface": "כרמלה",
+      "gloss": "迦密"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "你們來到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "拿八"
+    },
+    {
+      "surface": "ושאלתם",
+      "gloss": "你們要問"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "用我的名"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "問安"
+    }
+  ],
+  "timestamp": "2026-10-16T06:16:52.569631838Z",
+  "model": "glm-5.3"
+}

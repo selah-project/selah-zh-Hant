@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "走了",
+      "rationale": "וילך 是「行去、前行」，非「離開」的抽象義"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וילך…שב",
+      "rationale": "一去一回的對仗：雅威前行、亞伯拉罕返回，敘事以動作收束代禱現場"
+    }
+  ],
+  "translation": "雅威走了，當他結束與亞伯拉罕說話之後；亞伯拉罕也回到自己的地方去了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8c17a49f51703dce6ad3ab235e3ab83b043f080a2d21b3066e43d7c4b08c2f6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/18\/33-33.1792124800528.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "走了"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "當"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "結束"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "說話"
+    },
+    {
+      "surface": "אל",
+      "gloss": "與"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "亞伯拉罕也"
+    },
+    {
+      "surface": "שב",
+      "gloss": "回到"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "自己的地方"
+    }
+  ],
+  "timestamp": "2026-10-16T04:26:40.529662538Z",
+  "model": "glm-5.3"
+}

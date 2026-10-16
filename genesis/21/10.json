@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "她",
+      "rationale": "希伯來文動詞 ותאמר 已含陰性主語，中文需補出「她」。"
+    },
+    {
+      "kind": "you",
+      "subject": "to 亞伯拉罕",
+      "rationale": "撒拉直接命令亞伯拉罕，第二人稱單數祈使式「你趕出」。"
+    }
+  ],
+  "translation": "她對亞伯拉罕說：「你趕出這使女和 ⟨את⟩ 她的兒子，因為這使女的兒子不可與我的兒子——與以撒——同得產業。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7f4321620685464538db7673d5c41a946f5c43baf756f134001d1d853e8f0dc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/21\/9-12.1792124936264.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "她說"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "對亞伯拉罕"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "你趕出"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "這使女"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "她的兒子"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "她的兒子"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "同得產業"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "使女"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "עם",
+      "gloss": "與"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我的兒子"
+    },
+    {
+      "surface": "עם",
+      "gloss": "與"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    }
+  ],
+  "timestamp": "2026-10-16T04:28:56.265039916Z",
+  "model": "glm-5.3"
+}

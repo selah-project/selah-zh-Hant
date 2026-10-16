@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 24:8",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויאמר המלך",
+      "rationale": "直譯「王說」，即王下令；譯「王下了命令」。"
+    },
+    {
+      "kind": "elision",
+      "subject": "חוצה",
+      "rationale": "「在外面」，位置副詞併入「門外」一詞。"
+    }
+  ],
+  "translation": "王下了命令，他們就做了一個櫃，放在雅威殿的門外。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4865c8f31af270c43530fd353ea649851153f320a1f1de8b3afedcd87abd2120",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/24\/5-8.1792149502880.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "王下了命令"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "他們就做了"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "櫃"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一個"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "放在"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "在……門"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "外"
+    }
+  ],
+  "timestamp": "2026-10-16T11:18:22.881333856Z",
+  "model": "glm-5.3"
+}

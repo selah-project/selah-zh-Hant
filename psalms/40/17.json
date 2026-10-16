@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 40:17",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "雅威",
+      "rationale": "יהוה 音譯為雅威，不以「主」「耶和華」遮蓋聖名"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוש\/שמח",
+      "rationale": "兩個「明亮、歡欣」的近義詞並列，中文以「歡欣快乐」「喜樂」分別對應"
+    }
+  ],
+  "translation": "願所有尋求你的人都在你裡面歡欣快乐——他們要因你喜樂；願喜愛你拯救的人常常說：「願雅威被尊為大。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c8bdd6fcd811c656ad7851a728d61b6c7a40ab41bfbe17b4c57cb481b8b642ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/40\/17-18.1792143682731.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "歡欣快樂"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "因你喜樂"
+    },
+    {
+      "surface": "בך",
+      "gloss": "在你裡面"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "尋求你的人"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "他們要說"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "常常"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "被尊為大"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "喜愛"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "你的拯救"
+    }
+  ],
+  "timestamp": "2026-10-16T09:41:22.732475805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בן חמש מאות שנה",
+      "rationale": "直譯「五百年的兒子」，希伯來年齡習語，中文以「五百歲」表達。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "五百歲",
+      "rationale": "家譜年齡記錄：挪亞五百歲時生三子。"
+    }
+  ],
+  "translation": "挪亞五百歲的時候，挪亞生了閃、含和雅弗。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1223a48c70052746e9c64dfe334328a95b61ba388225394dd1badc7042731311",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/5\/29-32.1792124675830.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "…的時候"
+    },
+    {
+      "surface": "נח",
+      "gloss": "挪亞"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…歲（兒子）"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五百"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "生了"
+    },
+    {
+      "surface": "נח",
+      "gloss": "挪亞"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "閃"
+    },
+    {
+      "surface": "שם",
+      "gloss": "閃"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "含"
+    },
+    {
+      "surface": "חם",
+      "gloss": "含"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "雅弗"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "雅弗"
+    }
+  ],
+  "timestamp": "2026-10-16T04:24:35.831444268Z",
+  "model": "glm-5.3"
+}

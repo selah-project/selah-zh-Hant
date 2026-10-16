@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 32:8",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כה עשו",
+      "rationale": "「這樣他們行了」為希伯來語序，中文調整為「也是這樣行的」並提前時間子句"
+    },
+    {
+      "kind": "you",
+      "subject": "對迦得與呂便子孫",
+      "rationale": "摩西以祖宗在加低斯‧巴尼亞的往事直接責備聽者"
+    }
+  ],
+  "translation": "我打發他們從加低斯‧巴尼亞去看 ⟨את⟩ 那地的時候，你們的祖宗也是這樣行的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "355c2f08142dfcf564202a2a31e8bfd402050c3d712bf965783e2c37fa3439d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/32\/5-8.1792128284373.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "這樣"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "行了"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "你們的祖宗"
+    },
+    {
+      "surface": "בשלחי",
+      "gloss": "當我打發……的時候"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "他們"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "加低斯"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "巴尼亞"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "去看"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "那地"
+    }
+  ],
+  "timestamp": "2026-10-16T05:24:44.374178652Z",
+  "model": "glm-5.3"
+}

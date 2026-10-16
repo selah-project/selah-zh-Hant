@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "人子們",
+      "rationale": "בני האדם直譯「亞當之子們」，即人類；中文「人子」單數易與後來用法混淆，此處複數指眾人"
+    },
+    {
+      "kind": "addition",
+      "subject": "人稱轉換",
+      "rationale": "第10–11節對雅威用「你」，本節轉為第三人稱「他」，中文照實保留此語態轉換"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כבוד הדר",
+      "rationale": "「榮耀的威嚴」兩個光輝名詞並置的疊加結構，中文以並列名詞保留"
+    }
+  ],
+  "translation": "要使人子們知道他的大能作為，和他國度榮耀的威嚴。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "163d2630e6c7b183674557c80c55d896e259c6d7d31108df5f3b47a97f9be221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/145\/9-12.1792145130006.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "要使知道"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "人子們"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "（亞當的）"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "他的大能作為"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "榮耀"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "威嚴"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "他國度的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:30.007235550Z",
+  "model": "glm-5.3"
+}

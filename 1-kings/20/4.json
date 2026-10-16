@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 20:4",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "以色列王亞哈對便哈達",
+      "rationale": "投降的直接回話，稱對方「我主我王」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "屬於你",
+      "rationale": "לך 直譯「歸你」，中文以「屬於」承擔所有權的宣告"
+    }
+  ],
+  "translation": "以色列王回答說：「我主我王啊，照你的話：我屬於你，我所有的一切也都屬於你。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5fd382057d5ee7188e7467a62c95c6e35ec7f8e69114c37fa7144ed43a5e97f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/20\/1-4.1792133321780.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "回答"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "照你的話"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "我主"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "לך",
+      "gloss": "屬於你"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "לי",
+      "gloss": "屬於我的"
+    }
+  ],
+  "timestamp": "2026-10-16T06:48:41.782117120Z",
+  "model": "glm-5.3"
+}

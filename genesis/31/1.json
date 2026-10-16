@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 31:1",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "榮耀",
+      "rationale": "הכבד 字面是「重量」，引申為財富榮耀；各譯本在 wealth\/glory 之間分歧"
+    },
+    {
+      "kind": "addition",
+      "subject": "財物",
+      "rationale": "「用我們父親的」之後中文需補出「財物」才能成句"
+    }
+  ],
+  "translation": "雅各聽見了拉班兒子們的話，他們說：「雅各奪走了我們父親的一切，又用我們父親的〈財物〉造出了這一切的榮耀。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c18f01c20658d1d3b1531353c17f2891c1d965ede789c4d16e8a7a36b2fe9e11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/31\/1-4.1792125213770.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "聽見了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "拉班兒子們的話"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "בני",
+      "gloss": "兒子們"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "拉班"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "奪走了"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所屬的"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "我們父親的"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "又用…的"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "我們父親的"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造出了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這一切的榮耀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "榮耀"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    }
+  ],
+  "timestamp": "2026-10-16T04:33:33.770986978Z",
+  "model": "glm-5.3"
+}

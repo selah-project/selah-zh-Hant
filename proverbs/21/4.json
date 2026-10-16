@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נר",
+      "rationale": "此處 ניר（犁溝、新耕地）與 נר（燈）同音：欽定本作「耕田」，美國標準本作「惡人的燈」，皆出於同一子音；哈爾亨特本經文取犁溝義"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ניר\/נר",
+      "rationale": "犁溝與燈的字音雙關，中文無法傳達"
+    },
+    {
+      "kind": "hapax",
+      "subject": "רחב לב",
+      "rationale": "「心胸寬大」在此為貶義——驕縠自大，與中文「心胸開闊」的褒義相反"
+    }
+  ],
+  "translation": "眼目的高傲和心胸的寬大，惡人所耕的田——都是罪。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d15a74477e7c58955ab6ab793fa2ebbba0f84de4f11c6e53b95476b1ae291ec7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/21\/1-4.1792145556021.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "高傲"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "眼目"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "和寬大"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "נר",
+      "gloss": "所耕的田"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "罪"
+    }
+  ],
+  "timestamp": "2026-10-16T10:12:36.022506439Z",
+  "model": "glm-5.3"
+}

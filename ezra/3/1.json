@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 3:1",
+  "book": "ezra",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "時候",
+      "rationale": "中文需以「的時候」承接時間子句，希伯來文僅以動詞連接"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כאיש אחד",
+      "rationale": "「像一個人一樣」是希伯來慣用語，表全體合一"
+    }
+  ],
+  "translation": "到了第七月，以色列的子孫在各城中的時候，百姓就像一個人一樣聚集到耶路撒冷。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1d66040f1b731ef9028b4cae650142809fe564e7ba8e19574869158ae90a5279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/3\/1-4.1792147802523.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "到了"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "月"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "在各城中"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "像一個人"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-10-16T10:50:02.523997718Z",
+  "model": "glm-5.3"
+}

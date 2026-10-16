@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אבר",
+      "rationale": "「翅膀（翎羽）」一詞在塔納赫中僅此一見"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "「誰肯給」是希伯來文表願望的慣用語，直譯為願望句「巴不得我有」"
+    },
+    {
+      "kind": "you",
+      "subject": "詩人向自己說",
+      "rationale": "內心獨白式的願望，向著自己發出的嘆息"
+    }
+  ],
+  "translation": "我說：誰能給我翅膀像鴿子一樣？我就飛去，住宿安歇。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5ae239ef97c42c3352964e5516d57741f85c1846c41c65d3502152908a7afc05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/55\/5-8.1792143924542.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "我說"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "給"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "翅膀"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "像鴿子一樣"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "我就飛去"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "住宿安歇"
+    }
+  ],
+  "timestamp": "2026-10-16T09:45:24.543531235Z",
+  "model": "glm-5.3"
+}

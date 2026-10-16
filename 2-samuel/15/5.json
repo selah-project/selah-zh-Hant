@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 15:5",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨他⟩",
+      "rationale": "והחזיק לו 的間接受詞在中文需補出賓語「他」"
+    },
+    {
+      "kind": "idiom",
+      "subject": "והיה בקרב איש",
+      "rationale": "「每逢有人近前來」——希伯來習語「及至……發生」譯為條件性「每逢」"
+    }
+  ],
+  "translation": "每逢有人近前來向他下拜，他就伸手，握住⟨他⟩，與他親嘴。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "606240368565fa1d9f3575bceb0650cd202ad6a9cd1e3aa5815ec2365ed34d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/15\/5-8.1792132033846.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "每逢"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "近前來"
+    },
+    {
+      "surface": "איש",
+      "gloss": "有人"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "下拜"
+    },
+    {
+      "surface": "לו",
+      "gloss": "向他"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "他就伸"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的手"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "手"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "握住"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "ונשק",
+      "gloss": "與他親嘴"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    }
+  ],
+  "timestamp": "2026-10-16T06:27:13.846893919Z",
+  "model": "glm-5.3"
+}

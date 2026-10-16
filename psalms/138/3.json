@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 138,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "生命",
+      "rationale": "נפש 是氣息、生命之力，非不朽的靈魂。"
+    },
+    {
+      "kind": "crux",
+      "subject": "תרהבני",
+      "rationale": "רהב 僅此處及詩40:27（或作拉哈伯）用為動詞「使大膽、剛強」；或作「你以能力激勵我」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עז 倒裝",
+      "rationale": "原文語序「在我的生命中——力量」將 עז 置於句末，遲來的重音在中文中無法複現。"
+    }
+  ],
+  "translation": "在我呼求的日子，你應允了我；你使我的生命滿有力量，剛強了我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "346831442b593983d91b4805757d480418ee2d0e94b60ab9c1b20b4682cdb7b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/138\/1-4.1792145042963.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "在……的日子"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "我呼求"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "你應允了我"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "你剛強了我"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "我的生命"
+    },
+    {
+      "surface": "עז",
+      "gloss": "力量"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:02.966060937Z",
+  "model": "glm-5.3"
+}

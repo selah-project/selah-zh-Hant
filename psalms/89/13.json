@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "north",
+      "rationale": "צפון字根義為「隱藏、幽暗」，僅用於北方方位；譯文保留其幽隱之象"
+    },
+    {
+      "kind": "alternative",
+      "subject": "你創造了它們",
+      "rationale": "בראתם或作「你立定它們」（如ylt appointed），יָרֵם之讀法；創造為主要讀法"
+    }
+  ],
+  "translation": "北方的隱處與右邊，是你創造了它們；他泊與黑門因你的名歡呼。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bd7c909ace50b8d7a0eefd8ecd82daebaa3f2d236bb70cb9c172f5a72315f6d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/89\/13-16.1792144426248.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "北方的隱處"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "與右邊"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "是你"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "創造了它們"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "他泊"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "與黑門"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "因你的名"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "歡呼"
+    }
+  ],
+  "timestamp": "2026-10-16T09:53:46.249454127Z",
+  "model": "glm-5.3"
+}

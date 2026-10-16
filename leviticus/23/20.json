@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "搖祭的對象",
+      "rationale": "譯者對「אתם 指什麼」有分歧：僅指兩隻羊羔，還是羊羔與餅一同搖（KJV／JPS取後者，BSB取前者）"
+    },
+    {
+      "kind": "addition",
+      "subject": "它們",
+      "gloss": "",
+      "rationale": "中文需補主語指明搖祭之物"
+    }
+  ],
+  "translation": "祭司要把 ⟨אותם⟩ 連同初熟果子的餅，在雅威面前搖一搖作搖祭，又連同兩隻羊羔；它們歸雅威為聖，歸給祭司。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "eadcaa7a5260fb4ee480c067989d23d1f1c7b95ee8a0cfdd05370f2384de9c11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/23\/17-20.1792127297066.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "要搖一搖"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "它們（兩隻羊羔和餅）"
+    },
+    {
+      "surface": "על",
+      "gloss": "連同"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "初熟果子的"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "作搖祭"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在……面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "על",
+      "gloss": "連同"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩隻"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "羊羔"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "為聖"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "它們歸"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "歸給祭司"
+    }
+  ],
+  "timestamp": "2026-10-16T05:08:17.067856873Z",
+  "model": "glm-5.3"
+}

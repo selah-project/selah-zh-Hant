@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "牠們",
+      "rationale": "希伯來文受詞附於名詞אכלם，中文需獨立代詞"
+    }
+  ],
+  "translation": "這一切都仰望你，好按時賜給牠們食物。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a10f68254273223205028554c75dfe0516cce489273eb2984a69399cb2f79be9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/104\/25-28.1792144575958.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "這一切"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "仰望你"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "仰望"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "賜給"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "牠們食物"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "按時"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:15.959842705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלהים",
+      "rationale": "呼格「以羅欣啊，你的寶座」（KJV\/大多數）vs JPS「你的寶座是神所賜的」vs「神的寶座」；本譯取呼格，忠於字序。"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "中文判斷句需要繫詞「是」，希伯來文無。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבט……שבט",
+      "rationale": "「權杖……權杖」重複，希伯來文以同名並列作定義式強調，中文保留重複。"
+    }
+  ],
+  "translation": "你的寶座，以羅欣啊，永永遠遠；你國度的權杖是正直的權杖。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/45\/5-8.1792143868984.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "你的寶座"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣啊"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "權杖"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "正直"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "權杖"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "你國度的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:44:28.985825167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "也必不害你",
+      "rationale": "希伯來文第二半句省略動詞，承前文的「擊打」"
+    }
+  ],
+  "translation": "白日，太陽必不傷你；夜裡，月亮也必不害你。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f95f567b911d2f62c715c4d81895daa8baa9c04b89ec0e0baea6fcc293a459b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/121\/5-8.1792144913157.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "白日"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "必傷你"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "月亮也"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "在夜裡"
+    }
+  ],
+  "timestamp": "2026-10-16T10:01:53.159307822Z",
+  "model": "glm-5.3"
+}

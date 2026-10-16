@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 8:2",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "它的王",
+      "rationale": "希伯來文以陰性代名詞指城，稱「她和她王」；中文以「它的王」譯之"
+    },
+    {
+      "kind": "alternative",
+      "subject": "רק",
+      "rationale": "可譯「只有……例外」——對照耶利哥全然滅絕的禁令（書 6:18-19），此處惟獨開放掠物"
+    }
+  ],
+  "translation": "你要待艾城和艾城的王，如同你待耶利哥和耶利哥的王一樣；惟有城中的掠物和牲畜，你們可以為自己擄掠。你要在城後設下伏兵。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8f22ff8e03a78d4be1455485096c1d50cd81157e2b640c5c0e1aec7450d05e74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/8\/1-4.1792129646522.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "你要待"
+    },
+    {
+      "surface": "לעי",
+      "gloss": "艾城"
+    },
+    {
+      "surface": "ולמלכה",
+      "gloss": "和它的王"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "如同"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "你待過"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "耶利哥"
+    },
+    {
+      "surface": "ולמלכה",
+      "gloss": "和它的王"
+    },
+    {
+      "surface": "רק",
+      "gloss": "惟有"
+    },
+    {
+      "surface": "שללה",
+      "gloss": "掠物"
+    },
+    {
+      "surface": "ובהמתה",
+      "gloss": "和牲畜"
+    },
+    {
+      "surface": "תבזו",
+      "gloss": "你們可以擄掠"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "為你們"
+    },
+    {
+      "surface": "שים",
+      "gloss": "你要設下"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為你"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "伏兵"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "對著城"
+    },
+    {
+      "surface": "מאחריה",
+      "gloss": "在它後面"
+    }
+  ],
+  "timestamp": "2026-10-16T05:47:26.523361081Z",
+  "model": "glm-5.3"
+}

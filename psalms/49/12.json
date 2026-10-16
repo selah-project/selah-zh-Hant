@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨所想⟩",
+      "rationale": "קרבם 直譯「他們的內裏」，文意需要補出「所想」以成句"
+    },
+    {
+      "kind": "crux",
+      "subject": "קרבם",
+      "rationale": "或作「他們的墳墓」（讀作 קְבָרָם，如 BSB），或作「內裏的思想」（傳統譯法）"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרבם／קראו",
+      "rationale": "「內裏」與「稱呼」頭音相近，希伯來文有音韻呼應，中文失落"
+    }
+  ],
+  "translation": "他們的內裏 ⟨所想⟩：他們的家宅存到永遠，他們的住處直到世代又世代；他們以自己的名字稱呼各處地土。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "07a09197444b8ba553ea899406abd9453ff4ed45de683c7988dfd30e845fe201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/49\/9-12.1792143819926.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "他們的內裏"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "他們的家宅"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "存到永遠"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "他們的住處"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "直到世代"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "又世代"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "稱呼"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "以他們的名字"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "在…之上"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "地土"
+    }
+  ],
+  "timestamp": "2026-10-16T09:43:39.927209817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "就",
+      "rationale": "中文敘事句所需的語氣詞，希伯來文無"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפצו",
+      "rationale": "與創11:4巴別塔的「分散」נפוץ同一詞根，遙相呼應"
+    }
+  ],
+  "translation": "以及⟨את⟩亞瓦底人、⟨את⟩洗瑪利人和⟨את⟩哈馬人；後來迦南人的各家族就分散了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bc613200da5eb1e09cbc1b28970cb6bfa0959dc458ac71ee07ab0c6f4f0b80ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/10\/17-20.1792124707718.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "亞瓦底人"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "亞瓦底人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "洗瑪利人"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "洗瑪利人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "哈馬人"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "哈馬人"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "後來"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "分散了"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "各家族"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "迦南人的"
+    }
+  ],
+  "timestamp": "2026-10-16T04:25:07.719368785Z",
+  "model": "glm-5.3"
+}

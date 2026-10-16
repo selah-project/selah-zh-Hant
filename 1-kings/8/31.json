@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 8:31",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונשא בו אלה",
+      "rationale": "或譯'他自己承擔起誓的責任'（נשא=擔當），或譯'被要求起誓'（KJV\/JPS被動式）"
+    },
+    {
+      "kind": "elision",
+      "subject": "אלה",
+      "rationale": "אלה重複兩次（'咒詞……咒詞'），中文第二處以'那咒詞'承接"
+    }
+  ],
+  "translation": "人若得罪鄰舍，有人以起誓的咒詞強迫⟨את⟩他起誓，那咒詞就來到你祭壇前、在這殿中——",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cd4d2495d4b011263d5b5833a3b65d098031ca30d26d55eeab3eace11fd81f09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/8\/29-32.1792132902986.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那得罪鄰舍的事"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "得罪"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "鄰舍"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "強迫"
+    },
+    {
+      "surface": "בו",
+      "gloss": "他"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "咒詞"
+    },
+    {
+      "surface": "להאלתו",
+      "gloss": "起誓"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "那咒詞"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在……前"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "你祭壇"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "在……殿中"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    }
+  ],
+  "timestamp": "2026-10-16T06:41:42.987085647Z",
+  "model": "glm-5.3"
+}

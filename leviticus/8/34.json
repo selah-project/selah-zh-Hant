@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 8:34",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לכפר",
+      "rationale": "字面「遮蓋」（覆蓋），習慣譯「贖罪」；此處保留字面圖像。"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨的罪⟩",
+      "rationale": "希伯來文只說「為要遮蓋你們」，中文需補出遮蓋的對象。"
+    }
+  ],
+  "translation": "正如今天所行的，雅威吩咐要這樣行，為要遮蓋你們⟨的罪⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5a92882fcb901808f294fa10daee248357e112c10b2b9df5b4ac63afb3e44f17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/8\/33-36.1792126817497.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "正如"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "所行的"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在…日子"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "吩咐"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "要行"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "為要遮蓋"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "在你們之上"
+    }
+  ],
+  "timestamp": "2026-10-16T05:00:17.498523189Z",
+  "model": "glm-5.3"
+}

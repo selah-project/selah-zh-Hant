@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השב תשיבם",
+      "rationale": "不定絕對＋定動詞的疊語結構：「務要帶回——帶回牠們」，中文以「務要……」加重複語力求其力。"
+    },
+    {
+      "kind": "crux",
+      "subject": "נדחים",
+      "rationale": "被動分詞「被趕散／走失」：KJV 作 go astray（自己走迷），JPS 作 driven away（被驅走），此處兼取其被動形。"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "命令式律法直接對「你」（以色列人）說話。"
+    }
+  ],
+  "translation": "你看見了弟兄的牛或羊走失被趕散，不可佯裝不見；你務要把它們帶回給你的弟兄。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5ac9a73a6cec47aec85e53dab9b9141d9ee06032c09bc004bad12048237c28e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/22\/1-4.1792129001143.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "牛"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "你弟兄的"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "羊"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "羊"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "走失被趕散"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "佯裝不見"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "避開牠們"
+    },
+    {
+      "surface": "השב",
+      "gloss": "務要帶回"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "帶回牠們"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "給你的弟兄"
+    }
+  ],
+  "timestamp": "2026-10-16T05:36:41.144443580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "甚至",
+      "rationale": "中文語境連接詞，希伯來文以介詞短語並列表達"
+    }
+  ],
+  "translation": "他們的地滋生青蛙，甚至 ⟨בְּ⟩ 他們君王的內室裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ebeee56c79bdc292f7177aea7e918b8a32a499182648018bfe86a2e90acc640c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/105\/29-32.1792144634568.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "滋生"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "他們的地"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "青蛙"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "在……的內室裡"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "他們的君王"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:14.569706747Z",
+  "model": "glm-5.3"
+}

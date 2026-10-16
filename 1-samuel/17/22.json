@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 17:22",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הכלים…הכלים",
+      "rationale": "『器物』重複，看守器物之人與器物同一詞根"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לשלום",
+      "rationale": "『問平安』為希伯來問安慣用語，非僅寒暄"
+    }
+  ],
+  "translation": "大衛把 ⟨את⟩ 器物從自己身上放下，交在看守器物的人手裡，就跑到陣前，來到〈那裡〉，向他哥哥們問安。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a589d7a43bbb8dcbabc4ec730cb845d5ac73333e53cbc748fac1b2e644c2fa16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/17\/21-24.1792131165155.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "放下"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "器物"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "器物"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "從自己身上"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "看守"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "器物"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "跑"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "陣前"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "問"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "向他哥哥們"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "安"
+    }
+  ],
+  "timestamp": "2026-10-16T06:12:45.156452880Z",
+  "model": "glm-5.3"
+}

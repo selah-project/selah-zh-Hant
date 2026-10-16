@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בני אדם／בני איש",
+      "rationale": "兩個「之子」並列——泛指人類與尊貴人士的對舉，平行結構"
+    },
+    {
+      "kind": "addition",
+      "subject": "而來",
+      "rationale": "יחד（一同）暗含同來聆聽之意，中文補出動詞"
+    }
+  ],
+  "translation": "無論平民之子還是尊貴人之子，富足的與貧乏的一同⟨而來⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8b8acba307fd10d36d760597af2aacaa6e8d2826dd4c3b8cd938e1bcef64fd19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/49\/1-4.1792143836837.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "無論"
+    },
+    {
+      "surface": "בני",
+      "gloss": "之子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人（平民）"
+    },
+    {
+      "surface": "גם",
+      "gloss": "還是"
+    },
+    {
+      "surface": "בני",
+      "gloss": "之子"
+    },
+    {
+      "surface": "איש",
+      "gloss": "尊貴人"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "一同"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "富足的"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "與貧乏的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:43:56.838741195Z",
+  "model": "glm-5.3"
+}

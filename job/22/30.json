@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 22:30",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אי",
+      "rationale": "אִי 或作否定詞「非無辜的人」（YLT\/ASV\/BSB），或作「島」（KJV 島，罕用），或如 JPS 讀為肯定「無辜的人」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "拯救",
+      "rationale": "יְמַלֵּט 使役式「使逃脫」，字根意為滑脫而得安全"
+    }
+  ],
+  "translation": "他必拯救非無辜的人，那人必因你手掌的潔淨得逃脫。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4983a18876d1aff17858b477c1741da9e6f1ce9f4d440f1875880175129c4dae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/22\/29-30.1792146142925.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימלט",
+      "gloss": "他必拯救"
+    },
+    {
+      "surface": "אי",
+      "gloss": "非"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "無辜的人"
+    },
+    {
+      "surface": "ונמלט",
+      "gloss": "得逃脫"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "潔淨"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "你手掌的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:22:22.926267909Z",
+  "model": "glm-5.3"
+}

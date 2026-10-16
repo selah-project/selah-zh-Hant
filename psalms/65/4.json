@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גברו מני",
+      "rationale": "或作「勝過了我」（多數譯本），或「比我心頭更重」（JPS 式理解 מני 出於 מנּוֹת 分量）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "遮蓋",
+      "rationale": "כפר 本義為遮蓋、塗抹（原以瀝青封船），中文取「遮蓋」保留其畫面而非「赦免」的抽象"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨它們⟩",
+      "rationale": "תכפרם 詞尾的受詞「它們」（指過犯），中文需補出"
+    }
+  ],
+  "translation": "罪孽之事勝過了我；至於我們的過犯，你必遮蓋⟨它們⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d3aff8c50347acb0f564b73a480599286c9e131652b5fb885b167de99e50ebde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/65\/1-4.1792144056719.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "之事"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "罪孽"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "勝過了"
+    },
+    {
+      "surface": "מני",
+      "gloss": "我"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "我們的過犯"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "必遮蓋"
+    }
+  ],
+  "timestamp": "2026-10-16T09:47:36.720634165Z",
+  "model": "glm-5.3"
+}

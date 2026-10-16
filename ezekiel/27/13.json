@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 27:13",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "〈的〉",
+      "rationale": "希伯來文的附屬組合詞尾־יך，中文需要「的」字"
+    },
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש是氣息、活物、生命之力，此處指被販賣的人口"
+    },
+    {
+      "kind": "measurement",
+      "subject": "貿易清單",
+      "rationale": "以西結書27章的商貿目錄——列國與貨物逐一數算"
+    }
+  ],
+  "translation": "雅完、土巴、米設，他們是你〈的〉商賈；他們以人的性命和銅器作交易，換取你的貨物。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1602e6e1c68a13bed739779e9c9f3c4a46e7815ff65de9aedf14ecc2492dfcb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/27\/13-16.1792138665706.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יון",
+      "gloss": "雅完"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "土巴"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "米設"
+    },
+    {
+      "surface": "המה",
+      "gloss": "他們"
+    },
+    {
+      "surface": "רכליך",
+      "gloss": "你〈的〉商賈"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "以……的性命"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "和器皿"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "他們拿來交易"
+    },
+    {
+      "surface": "מערבך",
+      "gloss": "你的貨物"
+    }
+  ],
+  "timestamp": "2026-10-16T08:17:45.707083839Z",
+  "model": "glm-5.3"
+}

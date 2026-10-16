@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "單數「你」直接吩咐出征的以色列人"
+    },
+    {
+      "kind": "substitution",
+      "subject": "攻打",
+      "rationale": "על（上去、臨到）軍事語境中意為進攻，直譯「上去攻擊」"
+    }
+  ],
+  "translation": "當你出營攻打仇敵時，要謹守自己，遠離一切惡事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9b55af029a8a253a45966d52a914dde1d2e9d31bc2d656afd3a1ae48022c18de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/23\/9-12.1792129028652.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "當……時"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "你出"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "על",
+      "gloss": "攻打"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "你的仇敵"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "要謹守自己"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "遠離一切"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "事"
+    },
+    {
+      "surface": "רע",
+      "gloss": "惡"
+    }
+  ],
+  "timestamp": "2026-10-16T05:37:08.653403077Z",
+  "model": "glm-5.3"
+}

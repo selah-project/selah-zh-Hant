@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "會幕",
+      "rationale": "אהל מועד 直譯為「聚會之幕」，此處以固定詞形「會幕」譯之"
+    },
+    {
+      "kind": "addition",
+      "subject": "這些",
+      "rationale": "אתם 帶第三人稱複數詞尾，中文以「這些」補出其指涉"
+    }
+  ],
+  "translation": "他們將 ⟨את⟩ 櫃、⟨את⟩ 會幕和 ⟨את⟩ 會幕裡的一切聖器具都帶上來；利未人的祭司們將 ⟨אתם⟩ 這些帶上來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3f938b32a4b31e42c83a9334b9c84d6b1548fa0639962a2da62cc8ec3c58611d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/5\/5-8.1792149196528.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "帶上來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "櫃"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "櫃"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "會幕"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "一切聖器具"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器具"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "在會幕裡"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "帶上來"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "這些（櫃與器具）"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司們"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "利未人"
+    }
+  ],
+  "timestamp": "2026-10-16T11:13:16.528979710Z",
+  "model": "glm-5.3"
+}

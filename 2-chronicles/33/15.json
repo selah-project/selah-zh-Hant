@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "神明",
+      "rationale": "外邦神祇語境的 אלהי הנכר 用「神明」，不用聖名位置的以羅欣"
+    },
+    {
+      "kind": "substitution",
+      "subject": "雕像",
+      "rationale": "הסמל 直譯「形像」，中文作雕像以免與創 1:26 的形像混淆"
+    }
+  ],
+  "translation": "他又除掉 ⟨את⟩ 外邦的神明和 ⟨את⟩ 雕像，使其離開雅威的殿，並除掉他在雅威殿的山上和耶路撒冷所築的一切祭壇，把這一切都拋到城外。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4b0cb76929afad433507c630364a65d7093d825737423b24442da157d8fa2582",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/33\/13-16.1792149725674.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "除掉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "外邦的神明"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "神明"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "外邦的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "雕像"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "雕像"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "使其離開殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "並一切"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "築"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "在山上"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "和在耶路撒冷"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "拋到"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "外"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "城"
+    }
+  ],
+  "timestamp": "2026-10-16T11:22:05.675275828Z",
+  "model": "glm-5.3"
+}

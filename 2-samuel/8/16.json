@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 8:16",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "史官",
+      "rationale": "מזכיר 字面為「使記念者」，即王室記錄官；譯「史官」取其職能"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨作⟩",
+      "rationale": "希伯來文名詞句無動詞，中文需要「作」字"
+    }
+  ],
+  "translation": "洗魯雅的兒子約押統管軍隊；亞希律的兒子約沙法作史官。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2aaccc21eceeb9b75630fb673a1059499f8ac5adfb415142ac5ec3ef5657177f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/8\/13-16.1792131789952.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "洗魯雅"
+    },
+    {
+      "surface": "על",
+      "gloss": "統管"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "軍隊"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "約沙法"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "亞希律"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "史官"
+    }
+  ],
+  "timestamp": "2026-10-16T06:23:09.954270524Z",
+  "model": "glm-5.3"
+}

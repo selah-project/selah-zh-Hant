@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "雅威直接向以色列宣告獨一性，呼應申 6:4 的示瑪。"
+    },
+    {
+      "kind": "addition",
+      "subject": "〈就是〉",
+      "gloss": "",
+      "rationale": "希伯來文以「自埃及地」作同位語，中文補一繫詞短語以成句。"
+    }
+  ],
+  "translation": "而我，我是雅威你的以羅欣，自埃及地以來〈就是〉；在我以外，你不可認識別的以羅欣；除我以外，別無拯救者。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ca0f4fb742851dcb93bd5d93f75845bdc4db3cb12b255e8bf482080710e96783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/13\/1-4.1792139567772.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "而我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "自……地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "而以羅欣"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "在我以外"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "你認識"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "而拯救者"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "除了"
+    }
+  ],
+  "timestamp": "2026-10-16T08:32:47.773687029Z",
+  "model": "glm-5.3"
+}

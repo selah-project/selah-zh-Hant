@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 26:29",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בתים",
+      "rationale": "「房屋」字面作「閂的房屋」，即閂穿的環座；譯『環座』保留其功能"
+    },
+    {
+      "kind": "you",
+      "subject": "to Moses",
+      "rationale": "命令式單數，指向摩西的帳幕建造指示"
+    }
+  ],
+  "translation": "板子你要用金子包裹，它們的環子你要用金子製造，作為閂的環座；你要用金子包裹 ⟨את⟩ 那些閂。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cee55f4ad52656483c7fe027a68e5bfe107cbcee5e091cef579a7fe73ef0e4ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/26\/29-32.1792126278003.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "板子"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "板子"
+    },
+    {
+      "surface": "תצפה",
+      "gloss": "包裹"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金子"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "它們的環子"
+    },
+    {
+      "surface": "טבעתיהם",
+      "gloss": "它們的環子"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "製造"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金子"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "環座"
+    },
+    {
+      "surface": "לבריחם",
+      "gloss": "為著那些閂"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "你要包裹"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那些閂"
+    },
+    {
+      "surface": "הבריחם",
+      "gloss": "那些閂"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金子"
+    }
+  ],
+  "timestamp": "2026-10-16T04:51:18.004025769Z",
+  "model": "glm-5.3"
+}

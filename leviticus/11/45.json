@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "的",
+      "rationale": "希伯來文形容詞句無繫詞，中文需加「的」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדשים\/קדוש",
+      "rationale": "「聖潔」一詞根重複出現，你們要聖潔因為我聖潔，中文保留重複"
+    }
+  ],
+  "translation": "因為我雅威是把 ⟨את⟩ 你們從埃及地帶上來的，為要作你們的以羅欣（神）；你們要成為聖潔，因為我是聖潔的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "46e8fb1634a38370d5860948c5e6a0e38c93cae41d578ca6c6dcd58e1901c07c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/11\/45-47.1792126817066.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "帶上來的"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "你們"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "從…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "להית",
+      "gloss": "為要作"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "你們的"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "以羅欣（神）"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "你們要成為"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "聖潔的"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖潔的"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    }
+  ],
+  "timestamp": "2026-10-16T05:00:17.067090985Z",
+  "model": "glm-5.3"
+}

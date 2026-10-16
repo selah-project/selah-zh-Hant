@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כי אם",
+      "rationale": "原文為「不在惡人的計謀中……惟獨在妥拉裡」的對比結構，第1節的לא由此延續"
+    },
+    {
+      "kind": "crux",
+      "subject": "יהגה",
+      "rationale": "הגה字義為低聲呢喃（如獅吼或喃喃誦讀），譯「默想」或「低誦」各有依據"
+    }
+  ],
+  "translation": "他⟨所喜愛的⟩惟獨在雅威的妥拉裡，晝夜在他的妥拉上低語默想。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0b7bde8d463856105adba8cd3bf11fb810073a8be120a6130bdb28fd37d54ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/1\/1-4.1792143247898.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "惟獨"
+    },
+    {
+      "surface": "אם",
+      "gloss": "（加強否定）"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "在……的妥拉裡"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "他所喜愛的"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "且在他的妥拉上"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "低語默想"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "晝"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "夜"
+    }
+  ],
+  "timestamp": "2026-10-16T09:34:07.899768911Z",
+  "model": "glm-5.3"
+}

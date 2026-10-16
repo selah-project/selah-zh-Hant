@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 29:2",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "試驗",
+      "rationale": "המסות字根為「試驗、測試」，和合本作「試探」，此處取「試驗」"
+    },
+    {
+      "kind": "crux",
+      "subject": "אותות ומופתים",
+      "rationale": "「神蹟和奇事」為固定詞組；אות本義是「記號」，מופת是「奇事」"
+    }
+  ],
+  "translation": "那些大試驗，就是你親眼看見的，那些神蹟和奇事，就是那些大事——",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5234afd9c2a388a948bad7267e80da4ae8c3539e81794b134202fd7ab9ddf88f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/29\/1-4.1792129230640.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המסות",
+      "gloss": "試驗"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "大"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是……的"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "看見"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "你的眼"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "神蹟"
+    },
+    {
+      "surface": "והמפתים",
+      "gloss": "和奇事"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "大"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "那些"
+    }
+  ],
+  "timestamp": "2026-10-16T05:40:30.641817725Z",
+  "model": "glm-5.3"
+}

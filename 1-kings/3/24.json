@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "人",
+      "rationale": "中文需主語「人」（即侍從），希伯來文動詞詞尾已含第三人稱複數"
+    },
+    {
+      "kind": "you",
+      "subject": "to 侍從",
+      "rationale": "王以命令式「拿來」直接吩咐在場之人"
+    }
+  ],
+  "translation": "王說：「給我拿刀來。」人就把刀帶到王面前。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e3731c071abde7496493c3dacc6ef07386131aadb4194bc841694ab985bbdc14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/3\/21-24.1792132534490.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "拿"
+    },
+    {
+      "surface": "לי",
+      "gloss": "給我"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "他們帶來"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "那刀"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在…面前"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-10-16T06:35:34.491730161Z",
+  "model": "glm-5.3"
+}

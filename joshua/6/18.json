@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 6:18",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרם\/תחרימו",
+      "rationale": "名詞「當滅之物」與動詞「成為當滅的」同根連用三次，中文以同一詞形保留"
+    },
+    {
+      "kind": "crux",
+      "subject": "免得你們取了",
+      "rationale": "פן תחרימו 的主語各譯本分歧：自己被滅（ASV）抑或使別物成為當滅（KJV）；此處兩者並存"
+    },
+    {
+      "kind": "you",
+      "subject": "對百姓",
+      "rationale": "直接的警告，吩咐全會眾"
+    }
+  ],
+  "translation": "至於你們，務要謹慎，遠離當滅之物，免得你們取了當滅之物、自己也成了當滅的，又使以色列全營成了當滅的，並攪擾⟨את⟩它。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "90cf5ed6a4d43879268cff8920eadb61ce06e401d579b5570233c3da01ace064",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/6\/17-20.1792129537372.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורק",
+      "gloss": "至於你們惟要"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "謹慎"
+    },
+    {
+      "surface": "מן",
+      "gloss": "遠離"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "當滅之物"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "תחרימו",
+      "gloss": "成了當滅的"
+    },
+    {
+      "surface": "ולקחתם",
+      "gloss": "你們取了"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "當滅之物"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "又使……成了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列全營"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לחרם",
+      "gloss": "當滅的"
+    },
+    {
+      "surface": "ועכרתם",
+      "gloss": "並攪擾"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩它",
+      "marks": "以色列全營"
+    }
+  ],
+  "timestamp": "2026-10-16T05:45:37.373783085Z",
+  "model": "glm-5.3"
+}

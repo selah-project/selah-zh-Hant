@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 33:14",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "「所說的」結構",
+      "rationale": "中文關係句需要「所」字框架，希伯來文僅用 אשר"
+    },
+    {
+      "kind": "mystery",
+      "subject": "הדבר הטוב",
+      "rationale": "「那美好之話」內容此處未明說，指向將臨之日的應許"
+    }
+  ],
+  "translation": "看哪，日子將到，雅威說：我要堅立 ⟨את⟩ 我對以色列家和猶大家所說的那美好之話。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fe4b7d3d799a3a830b5c52bfada97e382f78a355b9712ca9736c85ed6c94374f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/33\/13-16.1792137067709.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日子"
+    },
+    {
+      "surface": "באים",
+      "gloss": "將到"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "我要堅立"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那美好之話"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "美好的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "我說了"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "和對"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    }
+  ],
+  "timestamp": "2026-10-16T07:51:07.710636909Z",
+  "model": "glm-5.3"
+}

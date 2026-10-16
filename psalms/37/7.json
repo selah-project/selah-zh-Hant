@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והתחולל",
+      "rationale": "字面是「為自己旋轉／環繞」，諸譯本作 'wait patiently'（安然等候）、'hope in him'（盼望他）、'stay thyself'（安定自己）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "心懷不平",
+      "rationale": "תתחר 字面是「發熱、燃燒」（怒火中燒）；中文「心懷不平」保留情熱意象"
+    },
+    {
+      "kind": "addition",
+      "subject": "（人）",
+      "rationale": "分詞במצליח須補出受詞「人」以成中文語法"
+    }
+  ],
+  "translation": "要在雅威面前靜默，安然等候他；不要因那行事通達的人心懷不平，不要因那行惡計的人嫉妒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "98c18dcb6728e7f29dbb7de9d5244f72da13f2a491b26a5e734f7d4cce0ca2c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/37\/5-8.1792143619615.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "要……靜默"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "在雅威面前"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "並安然等候"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "心懷不平"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "那行事通達的（人）"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "他的道路"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "那……的人"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "惡計"
+    }
+  ],
+  "timestamp": "2026-10-16T09:40:19.616328961Z",
+  "model": "glm-5.3"
+}

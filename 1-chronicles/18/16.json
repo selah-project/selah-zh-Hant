@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 18:16",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "作",
+      "rationale": "中文需動詞連接人名與職分"
+    },
+    {
+      "kind": "crux",
+      "subject": "亞比米勒",
+      "rationale": "撒下8:17平行經文作「亞比亞他的兒子亞希米勒」，父子名互換，為著名抄本差異"
+    }
+  ],
+  "translation": "亞希突的兒子撒督和亞比亞他的兒子亞比米勒作祭司，沙威沙作書記。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "80245ada4bb3aec48de7134b3e642bff17d9d4f60b32fc7a9037ac4ce0ad0f26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/18\/13-16.1792148840991.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "撒督"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "亞希突"
+    },
+    {
+      "surface": "ואבימלך",
+      "gloss": "亞比米勒"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "亞比亞他"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ושושא",
+      "gloss": "沙威沙"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "書記"
+    }
+  ],
+  "timestamp": "2026-10-16T11:07:20.992535158Z",
+  "model": "glm-5.3"
+}

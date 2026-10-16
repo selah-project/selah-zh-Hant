@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 37:11",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ברי",
+      "rationale": "僅此處出現，指灌溉的驟雨或潤澤；諸譯本或作「澆灌」（和合）或作「充滿」（YLＴ），皆出於推測。"
+    },
+    {
+      "kind": "crux",
+      "subject": "אורו",
+      "rationale": "「他的光」可指閃電之雲（JPS）或雲被光驅散（KJV「明亮的雲」）；取閃電義以配上文雷電脈絡。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עב",
+      "gloss-note": "",
+      "rationale": "עב 本義是遮蔽物、濃密之雲，譯「厚雲」保留其密度感。"
+    }
+  ],
+  "translation": "此外，他以潤澤使厚雲負重，又驅散他的閃電之雲。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4684c107f0c531632b4e673cafcf7f30a451d6575a059c85874c62b057889560",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/37\/11-12.1792149983757.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "此外"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "潤澤"
+    },
+    {
+      "surface": "יטריח",
+      "gloss": "使負重"
+    },
+    {
+      "surface": "עב",
+      "gloss": "厚雲"
+    },
+    {
+      "surface": "יפיץ",
+      "gloss": "驅散"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "他的閃電"
+    }
+  ],
+  "timestamp": "2026-10-16T11:26:23.757914312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 7:1",
+  "book": "ezra",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "有",
+      "rationale": "希伯來文無動詞，中文需補「有」引出人物"
+    },
+    {
+      "kind": "idiom",
+      "subject": "במלכות",
+      "rationale": "字面「在……的國度」，譯作「在位的時候」"
+    },
+    {
+      "kind": "measurement",
+      "subject": "家譜",
+      "rationale": "祭司世系名單，追溯至希勒家"
+    }
+  ],
+  "translation": "這些事以後，在亞達薛西──波斯王──在位的時候，有以斯拉，是西萊雅的兒子、亞撒利雅的兒子、希勒家的兒子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5dce309f9fc9df984136aee0989fbd2d52a4ea21449770328a02fd4ead80d219",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/7\/1-4.1792147823280.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "這些事以後"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "事"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "在位的時候"
+    },
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "亞達薛西"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "波斯"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "以斯拉"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "西萊雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "亞撒利雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "希勒家"
+    }
+  ],
+  "timestamp": "2026-10-16T10:50:23.280713954Z",
+  "model": "glm-5.3"
+}

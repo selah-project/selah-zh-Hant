@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 15:19",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "原有",
+      "rationale": "希伯來無動詞「是\/有」，名詞句「約在我與你之間」；中文需「有」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שחד",
+      "rationale": "此詞可指賄賂或餽禮；此處為政治性的禮金，譯「禮物」而留其餘味。"
+    },
+    {
+      "kind": "you",
+      "subject": "便．哈達",
+      "rationale": "亞撒致亞蘭王便．哈達的直接口信，通篇第二人稱。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויעלה מעלי",
+      "rationale": "「上去、從我上面離開」與第17節巴沙「上來」同一動詞 עלה，回環呼應。"
+    }
+  ],
+  "translation": "「我與你之間，我父與你父之間，原有約；看哪，我已差人送給你銀子金子作禮物；你去吧，廢掉⟨את⟩你的約——就是⟨את⟩以色列王巴沙——使他離開我。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9344ec42730eadce2f499cd0a6e092ea1b6f13d4309e740b868f84d460134a5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/15\/17-20.1792133219650.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "我與…之間"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "和你之間"
+    },
+    {
+      "surface": "בין",
+      "gloss": "在…之間"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我父"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "和…之間"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你父"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "我已差送"
+    },
+    {
+      "surface": "לך",
+      "gloss": "給你"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "禮物"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀子"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "和金子"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你去吧"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "廢掉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的約"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "你的約"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列王巴沙"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "巴沙"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "使他上去離開"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "從我身上"
+    }
+  ],
+  "timestamp": "2026-10-16T06:46:59.651596648Z",
+  "model": "glm-5.3"
+}

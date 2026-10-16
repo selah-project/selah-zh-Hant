@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "妥拉",
+      "rationale": "תורה 譯作『妥拉』，首次括註『訓誨』，不譯『律法』"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "水溪\/眼睛",
+      "rationale": "פלג 灌溉小渠與עין（眼／泉）同為水意象，淚如溪流"
+    }
+  ],
+  "translation": "我的眼睛流下如水溪的淚，因為他們不遵守你的妥拉（訓誨）。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "26b1389558043b6ca67ee29ab6db0dce409fc27acbd42834369226cb999f96de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/133-136.1792144886061.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "如水溪的"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "流下"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的眼睛"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "遵守"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "你的妥拉（訓誨）"
+    }
+  ],
+  "timestamp": "2026-10-16T10:01:26.063066693Z",
+  "model": "glm-5.3"
+}

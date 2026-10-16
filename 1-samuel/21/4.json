@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תחת ידך",
+      "rationale": "直譯'在你手下'，即'你手頭現有的'，希伯來慣用語"
+    },
+    {
+      "kind": "crux",
+      "subject": "חמשה לחם",
+      "rationale": "直譯'五餅'——無'塊'的量詞，中文補'個'；部分譯本作疑問語氣'五個餅，好嗎？'（JPS），其余作命令式"
+    }
+  ],
+  "translation": "現在你手下有什麼？請把五個餅交在我手裡，或是找得到的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "78c27489ce3859d973829d14b18ba46e3e24a2884ca06a6878ce61664d6f39c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/21\/1-4.1792131359742.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "現在"
+    },
+    {
+      "surface": "מה",
+      "gloss": "什麼"
+    },
+    {
+      "surface": "יש",
+      "gloss": "有"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "在…之下"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五個"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "請給"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "在我手裡"
+    },
+    {
+      "surface": "או",
+      "gloss": "或是"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "找得到的"
+    }
+  ],
+  "timestamp": "2026-10-16T06:15:59.743248033Z",
+  "model": "glm-5.3"
+}

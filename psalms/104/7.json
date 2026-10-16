@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "牠們",
+      "rationale": "動詞詞尾已是複數主語（指眾水），中文需補代詞"
+    }
+  ],
+  "translation": "因你的斥責，牠們奔逃；因你雷的聲音，牠們急忙退去。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8202c7e37d5797457beb32e8a067e7064a0f9109a9c1fa3ac159ab44788762d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/104\/5-8.1792144559742.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "因……"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "你的斥責"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "牠們奔逃"
+    },
+    {
+      "surface": "מן",
+      "gloss": "因……"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲音"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "你的雷"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "牠們急忙退去"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:59.743576324Z",
+  "model": "glm-5.3"
+}

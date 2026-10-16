@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 5:9",
+  "book": "ezra",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ואשרנא",
+      "rationale": "亞蘭文的「牆」字面義為直立之物（源於其直立），多數譯本作「牆」或意譯為「結構」；此處按「牆」直譯"
+    },
+    {
+      "kind": "you",
+      "subject": "to 大利烏王",
+      "rationale": "本節出自省方官員上奏王的信函，全信以第二人稱及第三人稱向王說話"
+    },
+    {
+      "kind": "substitution",
+      "subject": "長老",
+      "rationale": "שביא是亞蘭文「長老」，指猶太會眾中 年長有位分者，非職銜"
+    }
+  ],
+  "translation": "於是我們問這些長老，對他們如此說：「誰給你們下了命令，要建造這殿、完成這牆呢？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6f0194daeb0c502c78af644e055c7a686e17bb76e25cf0d29652c51c4e944966",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/5\/9-12.1792147844226.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "於是"
+    },
+    {
+      "surface": "שאלנא",
+      "gloss": "我們問"
+    },
+    {
+      "surface": "לשביא",
+      "gloss": "長老"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "這些"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "如此"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "說"
+    },
+    {
+      "surface": "להם",
+      "gloss": "對他們"
+    },
+    {
+      "surface": "מן",
+      "gloss": "誰"
+    },
+    {
+      "surface": "שם",
+      "gloss": "下達"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "給你們"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "命令"
+    },
+    {
+      "surface": "ביתא",
+      "gloss": "殿"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "這"
+    },
+    {
+      "surface": "למבניה",
+      "gloss": "建造"
+    },
+    {
+      "surface": "ואשרנא",
+      "gloss": "這牆"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "這"
+    },
+    {
+      "surface": "לשכללה",
+      "gloss": "完成"
+    }
+  ],
+  "timestamp": "2026-10-16T10:50:44.227121929Z",
+  "model": "glm-5.3"
+}

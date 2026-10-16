@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 30:4",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מלוח",
+      "rationale": "濱藜（鹹草）全塔納赫僅此一見"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רתמים",
+      "rationale": "直譯為「羅騰木」（西班牙金雀花），傳統譯「杜松」，此處依植物實名"
+    }
+  ],
+  "translation": "他們在灌木旁採摘濱藜，以金雀花的根為食物。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "398f25acbcee001d712b7d65b23c489fc208a49cb4e4a4071a862bf085ad5c9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/30\/1-4.1792146294630.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקטפים",
+      "gloss": "採摘…的"
+    },
+    {
+      "surface": "מלוח",
+      "gloss": "濱藜"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "在…旁"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "灌木"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "與…的根"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "金雀花"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "為他們的食物"
+    }
+  ],
+  "timestamp": "2026-10-16T10:24:54.631699196Z",
+  "model": "glm-5.3"
+}

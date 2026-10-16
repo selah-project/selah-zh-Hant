@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "使節",
+      "rationale": "ציר 字面是「鉸鏈、門樞」，引伸為受託的使節；鉸鏈的意象已失"
+    },
+    {
+      "kind": "addition",
+      "subject": "帶來",
+      "rationale": "מרפא 是名詞「醫治」，中文需動詞連接"
+    },
+    {
+      "kind": "crux",
+      "subject": "使節是醫治",
+      "rationale": "原文無動詞：「忠信的使節＝醫治」；諸本或作帶來醫治，或作就是醫治"
+    }
+  ],
+  "translation": "惡人的使者必陷在禍患裡，忠信的使節帶來醫治。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9f12e9deddf112db526c31462abd0a43af59dbbe6b903eddf374fc951026c0e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/13\/17-20.1792145403181.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "使者"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "必陷在"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "禍患裡"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "忠信的使節"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "忠信"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "醫治"
+    }
+  ],
+  "timestamp": "2026-10-16T10:10:03.181983883Z",
+  "model": "glm-5.3"
+}

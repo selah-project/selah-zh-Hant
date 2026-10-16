@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חוללתי",
+      "rationale": "חוּל 字義為『扭轉、迴旋』；被動式可作『被生出』（KJV『被塑造』）或『被扭成形』——和合本取『在我母親懷胎的時候就有了罪』式的意譯。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יחמתני",
+      "rationale": "יָחַם 字面『發熱』，喻『懷孕』；直譯可作『使我發熱』，但上下文明確指懷胎。"
+    },
+    {
+      "kind": "you",
+      "subject": "詩人向雅威",
+      "rationale": "全詩為向雅威的認罪禱告，此節以第三人稱自述作供認。"
+    }
+  ],
+  "translation": "看哪，我是在罪孽中被塑成的，我母親在罪中懷了我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4faf6803df9c222f1f5343ba1763ccf02fd24dd1b9cb157e349b58fd4566a5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/51\/7-8.1792149876725.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "在罪孽中"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "我被塑成的"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "在罪中"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "懷了我"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "我母親"
+    }
+  ],
+  "timestamp": "2026-10-16T11:24:36.726026339Z",
+  "model": "glm-5.3"
+}

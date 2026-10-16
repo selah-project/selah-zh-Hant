@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ודכה",
+      "rationale": "或讀為「他被壓碎」（指窮人被壓碎）或「他蹲伏」（指惡人如獅蹲伏）；本譯取後者，承上節獅子意象。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חלכאים",
+      "rationale": "חֵלְכָא（悲苦人）複數僅見於此節與詩 10:8 鄰近處，罕見詞。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עצומיו",
+      "rationale": "字面可作「他的強力者們」或「他的爪」，獅子意象延續；本譯取「利爪」。"
+    }
+  ],
+  "translation": "他蹲伏、屈身，困苦人便倒在他的利爪之下。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "69f62e88b52dde268b8a777f9383ad20cf58fde3d420c1357272749c9bc674a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/10\/9-12.1792143338473.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "蹲伏"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "屈身"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "便倒下"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "在他的利爪之下"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "困苦人"
+    }
+  ],
+  "timestamp": "2026-10-16T09:35:38.474604039Z",
+  "model": "glm-5.3"
+}

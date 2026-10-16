@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 10:6",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "來到",
+      "rationale": "原文只有起行與終點地名，中文補出動詞使行程完整"
+    },
+    {
+      "kind": "substitution",
+      "subject": "供祭司的職分",
+      "rationale": "ויכהן 動詞「作祭司」，中文以名詞短語表達"
+    }
+  ],
+  "translation": "以色列人從比錄‧比尼‧雅干起行，來到摩西拉。亞倫在那裡死了，也葬在那裡；他的兒子以利亞撒接續他供祭司的職分。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cd6f3422dfe18aa0169a6b7592ae2c3b82f03f978a642382451ecff2d54abfb4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/10\/5-8.1792128715112.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "起行"
+    },
+    {
+      "surface": "מבארת",
+      "gloss": "從比錄"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子孫"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "雅干"
+    },
+    {
+      "surface": "מוסרה",
+      "gloss": "摩西拉"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裡"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死了"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "葬"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裡"
+    },
+    {
+      "surface": "ויכהן",
+      "gloss": "供祭司的職分"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "以利亞撒"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "他的兒子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "接續他"
+    }
+  ],
+  "timestamp": "2026-10-16T05:31:55.113473435Z",
+  "model": "glm-5.3"
+}

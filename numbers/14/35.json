@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 14:35",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם לא",
+      "rationale": "希伯來文起誓套語「我若不……（願如此）」，即「我必定」；中文按語氣譯出"
+    },
+    {
+      "kind": "addition",
+      "subject": "這會眾",
+      "rationale": "中文需先述「全會眾」再用「這惡會眾」回指，語序調整"
+    }
+  ],
+  "translation": "我雅威已經說話：我若不這樣待這聚集攻擊我的全會眾——這惡會眾，我必這樣行；在這曠野他們必消滅淨盡，並且他們必死在那裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3a3b33d9034a9d91091743cf25cd433f1e894fea3b9acb70fc01da0b50f130de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/14\/33-36.1792127813655.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "已經說話"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這樣"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "我必行"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "對全"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "惡"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "הנועדים",
+      "gloss": "聚集的"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "攻擊我"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "在曠野"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "他們必消滅淨盡"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "並且在那裡"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "他們必死"
+    }
+  ],
+  "timestamp": "2026-10-16T05:16:53.656907676Z",
+  "model": "glm-5.3"
+}

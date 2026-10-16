@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 23:5",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "大衛說",
+      "rationale": "希伯來文無此引述句；第一人稱「我所造」顯示是大衛的話，中文需標明說話者"
+    },
+    {
+      "kind": "measurement",
+      "subject": "四千",
+      "rationale": "利未人事役人數的統計延續"
+    }
+  ],
+  "translation": "又有四千人是守門的，四千人用樂器頌讚雅威，就是我所造、用以頌讚的樂器——大衛說。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "46c003404f311bbda53646321ee5081a50720b0a20bda5dc0e0688be7b894c1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/23\/5-8.1792148934549.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארבעת",
+      "gloss": "又有四千"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "（千）"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "守門的"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "四千"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "（千）"
+    },
+    {
+      "surface": "מהללים",
+      "gloss": "頌讚"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בכלים",
+      "gloss": "用樂器"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "我所造"
+    },
+    {
+      "surface": "להלל",
+      "gloss": "用以頌讚"
+    }
+  ],
+  "timestamp": "2026-10-16T11:08:54.550450096Z",
+  "model": "glm-5.3"
+}

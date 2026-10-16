@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "它",
+      "rationale": "原文的受詞隱含於前節（傾倒的高城），中文補出"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רגל／רגלי",
+      "rationale": "腳一詞連續出現，重複的踐踏意象"
+    }
+  ],
+  "translation": "腳要踐踏它，是貧窮人的腳，困乏人的腳步。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "820b697a0a8e463819be27f171a786f9bcf196cee47c363f7c24ef9e4ad37016",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/26\/6-8.1792142548379.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "要踐踏它"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "腳"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "…的腳"
+    },
+    {
+      "surface": "עני",
+      "gloss": "貧窮人"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "…的腳步"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "困乏人"
+    }
+  ],
+  "timestamp": "2026-10-16T09:22:28.380128802Z",
+  "model": "glm-5.3"
+}

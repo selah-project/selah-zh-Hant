@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ימין יהוה",
+      "rationale": "「雅威的右手」疊句，與上節呼應成三重宣告；中文保留重複"
+    },
+    {
+      "kind": "crux",
+      "subject": "רוממה",
+      "rationale": "動詞形態有爭議：主動式「高舉（大能作為）」或被動式「被高舉」；取「高舉」"
+    }
+  ],
+  "translation": "雅威的右手高舉，雅威的右手施展大能！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2aeaca3382c2a5175a83394d03f395865dafa17d1116cce07f895350419817b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/118\/13-16.1792144811379.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "右手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "高舉"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "右手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "施展"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "大能"
+    }
+  ],
+  "timestamp": "2026-10-16T10:00:11.380302063Z",
+  "model": "glm-5.3"
+}

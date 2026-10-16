@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 35:14",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "等候",
+      "rationale": "ותחולל 諸譯本分歧：KJV『信靠他』、JPS『等候他』、ASV『等候』；本義為旋繞、顫抖，引申為切望等候"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "gloss空缺說明": "",
+      "rationale": "כי 在此作語氣虛詞，融入「何況」的句勢中，不另譯"
+    }
+  ],
+  "translation": "何況你說：『你看不見他』——其實案件就在他面前，你只管等候他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1221ddfa222e5314b2a02b62e9f928e1299f504ec6dc7518e19fe0c98ea7a099",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/35\/13-16.1792146420189.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "何況"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨連詞⟩"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "你說"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תשורנו",
+      "gloss": "你看不見他"
+    },
+    {
+      "surface": "דין",
+      "gloss": "案件"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "在他面前"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "你只管等候"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    }
+  ],
+  "timestamp": "2026-10-16T10:27:00.189857652Z",
+  "model": "glm-5.3"
+}

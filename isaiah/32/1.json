@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מלך\/ימלך",
+      "rationale": "「王」與「作王掌權」同根相扣，中文以「王……掌權」保留呼應。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישרו",
+      "rationale": "שׂרר「治理」與 שׂר「領袖」同根；中文難以保留。"
+    }
+  ],
+  "translation": "看哪，必有一王憑公義掌權，眾領袖憑公平施行治理。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "05fcd370f2b52b8a124c7aa18890659c4680642e1a15d7bf4beb4076bdae0ce1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/32\/1-4.1792135121342.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "憑公義"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "掌權"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "眾領袖"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "憑公平"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "施行治理"
+    }
+  ],
+  "timestamp": "2026-10-16T07:18:41.343467990Z",
+  "model": "glm-5.3"
+}

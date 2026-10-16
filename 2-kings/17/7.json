@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 17:7",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וייראו",
+      "gloss": "註：此字為「懼怕／敬畏」，諸英譯本多作「敬拜」，中文循「敬畏」保留原字形。"
+    },
+    {
+      "kind": "addition",
+      "subject": "（神）",
+      "rationale": "以羅欣首次出現，依名號表加括註。"
+    }
+  ],
+  "translation": "這是因為以色列人犯罪得罪了雅威——他們的以羅欣（神），他曾領 ⟨אתם⟩ 他們上來出埃及地、脫離埃及王法老的手——他們卻敬畏別的神明。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "852fdb5e274ddf0ff9bd6a76950809d0986685b149ff09802316f767e645441d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/17\/5-8.1792134076700.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "這是因為"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "犯罪"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……之子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "得罪雅威"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "他們的以羅欣"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "他曾領上來"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "他們"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "出……地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "脫離……之下"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "他們敬畏"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "神明"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別的"
+    }
+  ],
+  "timestamp": "2026-10-16T07:01:16.701734555Z",
+  "model": "glm-5.3"
+}

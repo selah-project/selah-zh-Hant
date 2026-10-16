@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 49:16",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דן ידין",
+      "rationale": "名字「但」與動詞「審判」（דין）同源，中文無法保留此雙關"
+    }
+  ],
+  "translation": "但必審判他的民，作為以色列眾支派之一。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a765db9d8f7e6499de592b4b7d254fb16c3bf7299eb54e08f70cfc5ffd9c672e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/49\/13-16.1792125654000.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "但"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "必審判"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "他的民"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "作為……之一"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "支派"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T04:40:54.001333220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "去",
+      "rationale": "「往以東去」的「去」為中文語流所補，希伯來文僅作「以東的曠野之路」"
+    },
+    {
+      "kind": "alternative",
+      "subject": "曠野之路",
+      "rationale": "連串Construct可作「通往以東的曠野之路」（穿過曠野抵以東），如KJV；亦可能是「以東之曠野的路」"
+    }
+  ],
+  "translation": "他說：「我們從哪條路上去呢？」他說：「走曠野的路，往以東去。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "de72c38f04c22b0c941348d333157605a575036708220376c210d5bf7d2255c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/3\/5-8.1792133508321.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "אי",
+      "gloss": "哪"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "條路"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "我們上去"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "以東"
+    }
+  ],
+  "timestamp": "2026-10-16T06:51:48.322307663Z",
+  "model": "glm-5.3"
+}

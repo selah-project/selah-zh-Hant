@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "細拉",
+      "rationale": "סלה為音樂標記，音譯為「細拉」，非經文內容"
+    },
+    {
+      "kind": "crux",
+      "subject": "信實的見證",
+      "rationale": "「見證」可指月亮本身（月亮為永恆的見證）或大衛的後裔，諸譯本有別"
+    }
+  ],
+  "translation": "又如月亮永遠堅立，是天上信實的見證。（細拉）",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e75d1dbc97a178cd633585fc2377983fd052a1d55d33dc8c99dc1d944e2419b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/89\/37-40.1792144403087.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "又如月亮"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "堅立"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "又是見證"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "在天上"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "信實的"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "（細拉）"
+    }
+  ],
+  "timestamp": "2026-10-16T09:53:23.088166424Z",
+  "model": "glm-5.3"
+}

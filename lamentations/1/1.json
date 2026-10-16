@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 1:1",
+  "book": "lamentations",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איכה",
+      "rationale": "書名與各章首詞同字「何竟」，感嘆語氣貫穿全書"
+    },
+    {
+      "kind": "substitution",
+      "subject": "למס",
+      "rationale": "字面是強制勞役的重擔，非僅「納貢」"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文補「本⟨是⟩」以表昔今對比"
+    }
+  ],
+  "translation": "這城何竟孤獨地坐著，她本⟨是⟩人多之城！她何竟如寡婦！她本在列國中為大，在各省中為主母，何竟淪為進貢的苦役！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9f3d9a904525dee1a3f9eb2475fa53f53d00376f398bbede518c33fc6a6fdf7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/lamentations\/1\/1-4.1792146783960.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "何竟"
+    },
+    {
+      "surface": "ישבה",
+      "gloss": "坐著"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "孤獨地"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "這城"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "人多之"
+    },
+    {
+      "surface": "עם",
+      "gloss": "城"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "成為"
+    },
+    {
+      "surface": "כאלמנה",
+      "gloss": "如寡婦"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "為大"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "在列國中"
+    },
+    {
+      "surface": "שרתי",
+      "gloss": "為主母"
+    },
+    {
+      "surface": "במדינות",
+      "gloss": "在各省中"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "淪為"
+    },
+    {
+      "surface": "למס",
+      "gloss": "進貢的苦役"
+    }
+  ],
+  "timestamp": "2026-10-16T10:33:03.960789468Z",
+  "model": "glm-5.3"
+}

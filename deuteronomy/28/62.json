@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "deuteronomy 28:62",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "從前",
+      "rationale": "中文時態需要時間詞，希伯來文的 הייתט 本身無此詞"
+    },
+    {
+      "kind": "measurement",
+      "subject": "人數稀少對比天上的星",
+      "rationale": "從不可數的多到可數的少，是人口數量的對比丈量"
+    }
+  ],
+  "translation": "你們必在人數稀少中剩下，代替你們從前多如天上的星那樣多，因為你不聽從雅威你以羅欣的聲音。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3b6a3c0c8e6f9febd94281b67337a6d9381492f9378b183f017a5e0f87144ef4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/28\/61-64.1792129258147.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשארתם",
+      "gloss": "你們必剩下"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "在人數中"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "稀少"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "代替"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……那樣"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "你們從前是"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "多如……的星"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天上的"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "那樣多"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "你聽"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "聽從……的聲音"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    }
+  ],
+  "timestamp": "2026-10-16T05:40:58.148848241Z",
+  "model": "glm-5.3"
+}

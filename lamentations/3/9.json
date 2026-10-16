@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "希伯來文無主語代詞，中文需補出施動者（雅威）"
+    }
+  ],
+  "translation": "他用鑿成的石頭圍堵我的道路，使我的路徑彎曲。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "00ecde460e6c6b06ebcfcf155c764a06b40c98997c028415c3d023e979bd0292",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/lamentations\/3\/9-12.1792146788952.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "圍堵"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "我的道路"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "用鑿成的石頭"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "我的路徑"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "使……彎曲"
+    }
+  ],
+  "timestamp": "2026-10-16T10:33:08.952943432Z",
+  "model": "glm-5.3"
+}

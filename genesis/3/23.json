@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אדם\/אדמה",
+      "rationale": "亞當（אדם）出自土地（אדמה），同根雙關，回應 2:7；中文以「人／土」未能完全傳達。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עבד",
+      "rationale": "可作「耕種」或「服事」，同一詞根兼有勞作與事奉之義。"
+    }
+  ],
+  "translation": "雅威以羅欣便打發他出伊甸園去，耕種 ⟨את⟩ 他所從那裏被取出來的土地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "74471a1707e533cf2913e04fc2c47140a8a0ac7bf873fcde31c9c5cf5a07ce03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/3\/21-24.1792124583272.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "打發他"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "出……園"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "伊甸"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "去耕種"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "土地"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "他所"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "被取出來"
+    },
+    {
+      "surface": "משם",
+      "gloss": "從那裏"
+    }
+  ],
+  "timestamp": "2026-10-16T04:23:03.273486066Z",
+  "model": "glm-5.3"
+}

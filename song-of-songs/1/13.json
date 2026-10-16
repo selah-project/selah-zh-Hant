@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שדי",
+      "rationale": "此處 שדי 是שַד（乳房）的雙數「兩胸」，與神名沙代（沙代）同形；譯「兩胸」而非「沙代」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "安臥過夜",
+      "rationale": "ילין 本義「過夜」，延展為「留宿、安臥」，非僅指一夜"
+    },
+    {
+      "kind": "you",
+      "subject": "to 良人",
+      "rationale": "女子對良人說話的直接引語"
+    }
+  ],
+  "translation": "我良人對我如同一袋沒藥，安臥在我兩胸之間。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9e8762d59c11bcdb347d26e37e216cfc0c541d1296a4218024edb7d4605d4bfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/1\/13-16.1792146562556.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "一袋"
+    },
+    {
+      "surface": "המר",
+      "gloss": "沒藥"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "我良人"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "בין",
+      "gloss": "在……之間"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "兩胸"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "安臥過夜"
+    }
+  ],
+  "timestamp": "2026-10-16T10:29:22.557462925Z",
+  "model": "glm-5.3"
+}

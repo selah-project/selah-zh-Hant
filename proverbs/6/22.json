@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "它",
+      "rationale": "היא 為陰性單數，指上一節繫在心上的訓誨（視為單一整體）；若視為陽性複數的命令與妥拉則譯『它們』"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "行走—躺臥—醒來",
+      "rationale": "三個時態短語構成晝夜循環的排比，中文保留三段結構"
+    }
+  ],
+  "translation": "你行走時，它必引導 ⟨את⟩ 你；你躺臥時，它必看守你；你醒來時，它必與你談論。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5152fe1bf7cddc63c997e06eb86ac3baa130441dbdc05dba57b145aa02360e2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/6\/21-24.1792145233641.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "你行走時"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "它必引導"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "你"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "你躺臥時"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "它必看守"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "在你身上"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "而你醒來時"
+    },
+    {
+      "surface": "היא",
+      "gloss": "它"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "必與你談論"
+    }
+  ],
+  "timestamp": "2026-10-16T10:07:13.642347355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סער／סופה",
+      "rationale": "兩個近義的「暴風」字並列，中文以「暴風／颶風」區分並保留對仗。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "追趕",
+      "rationale": "רדף 本義「追趕、追逼」，傳統譯作「逼迫」帶入後世語感；此處是風暴追趕的圖像。"
+    }
+  ],
+  "translation": "求你照樣用你的暴風追趕他們，用你的颶風使他們驚惶。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3a2aca48bae78c1fa2b32b6f4b36eeea1721c5d1353370da30cb41cfa9628ce8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/83\/13-16.1792144352149.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "照樣"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "追趕他們"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "用你的暴風"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "用你的颶風"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "使他們驚惶"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:32.150080111Z",
+  "model": "glm-5.3"
+}

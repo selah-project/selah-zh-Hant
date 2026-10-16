@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "肺腑",
+      "rationale": "מעי字面是「內臟、肚腹」，中文以「肺腑」表其深處之意"
+    },
+    {
+      "kind": "addition",
+      "subject": "在…之中",
+      "rationale": "בתוך為「在其中」，中文語序將其置於名詞前"
+    }
+  ],
+  "translation": "我喜愛遵行你的旨意，我的以羅欣啊；你的妥拉在我肺腑之中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "91eced36a45d2fc058f527b35a65514f4e07413fbfe2c39fdaafac82224baf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/40\/9-12.1792143733985.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "遵行"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "你的旨意"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "我喜愛"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "你的妥拉"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "在…之中"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "肺腑"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:13.985541411Z",
+  "model": "glm-5.3"
+}

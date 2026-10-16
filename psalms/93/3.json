@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נשאו...נשאו...ישאו",
+      "rationale": "「揚起」三疊加上「江河」三現，希伯來文以三重疊句模擬浪濤，中文保留重複"
+    },
+    {
+      "kind": "you",
+      "subject": "to 雅威",
+      "rationale": "呼格直接稱呼雅威"
+    }
+  ],
+  "translation": "江河揚起了，雅威啊，江河揚起了牠們的聲音，江河揚起了牠們的碎浪澎湃。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "831a0ae960a4e0f13d21c2fd8125f15c5390ff0b98d3dcc9db00ad1b9e5d9efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/93\/1-4.1792144531046.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "揚起了"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "江河"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威啊"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "揚起了"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "江河"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "牠們的聲音"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "揚起"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "江河"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "碎浪澎湃"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:31.046995623Z",
+  "model": "glm-5.3"
+}

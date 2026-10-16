@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 94:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "להשקיט",
+      "rationale": "字面為「使之安靜／平息」，此處譯為得享安息，保留平息之意。"
+    },
+    {
+      "kind": "crux",
+      "subject": "יכרה",
+      "rationale": "כרה本義「掘」；或作「開掘坑穴」，或（少數）讀作「命定」——此處取「掘成」。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "מימי רע",
+      "rationale": "「凶惡的日子」——一段被數算的時日。"
+    }
+  ],
+  "translation": "為要使他得享安息，脫離凶惡的日子，直到坑穴為惡人掘成。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c9a08e5c29c1506f3893aaf998809516621aba1058ba6867a065c6c93e25ca0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/94\/13-16.1792144520600.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להשקיט",
+      "gloss": "使他得享安息"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "脫離……的日子"
+    },
+    {
+      "surface": "רע",
+      "gloss": "凶惡"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "掘成"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "為惡人"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "坑穴"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:20.600641666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 22:18",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בבטנך",
+      "rationale": "「腹」指內心深處（如伯32:18），非字面肚子；各家譯本多改作「心內」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי…כי",
+      "rationale": "兩個כי首尾呼應，第二個帶條件義「你若」，中文分別譯「因為」「你若」以別其義"
+    }
+  ],
+  "translation": "因為它們美好——你若謹守它們在你腹中，它們就必一同安定在你的嘴唇上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5c1bb37de68f024dba8c1739306419265f83ebdbab4dc92627dd66bd08aa24a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/22\/17-20.1792145558484.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "美好"
+    },
+    {
+      "surface": "כי",
+      "gloss": "你若"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "謹守它們"
+    },
+    {
+      "surface": "בבטנך",
+      "gloss": "在你腹中"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "就必安定"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "一同"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "你的嘴唇上"
+    }
+  ],
+  "timestamp": "2026-10-16T10:12:38.484938021Z",
+  "model": "glm-5.3"
+}

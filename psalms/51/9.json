@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חטא\/טהר",
+      "rationale": "罪（חטא）與潔淨（טהר）字首相鄰，首尾呼應：「你使我脫罪——我得以潔淨」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "潔除我的罪",
+      "rationale": "תחטאני字面為「使我犯罪」之使役反用，實指「為我贖罪／潔除我」，動詞形狀是「罪」的動詞"
+    }
+  ],
+  "translation": "求你用牛膝草潔除我的罪，我就得以潔淨；求你洗滌我，我就比雪更白。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fcfd381850c8a518c54c2a83a4ce83b479cb0cc31f557f8eedd98cc3183ecb09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/51\/9-12.1792143799671.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "潔除我的罪"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "用牛膝草"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "我就得以潔淨"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "求你洗滌我"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "比雪"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "更白"
+    }
+  ],
+  "timestamp": "2026-10-16T09:43:19.671886543Z",
+  "model": "glm-5.3"
+}

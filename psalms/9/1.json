@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלמות לבן",
+      "rationale": "晦澀曲名：或作『拉班之死』（死於其子）、或『兒子之死』，各譯本分歧極大，此處音譯並存原貌"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עלמות לבן",
+      "rationale": "此曲名僅見於本節，全《塔納赫》無第二例"
+    }
+  ],
+  "translation": "交與伶長，調用『穆特·拉班』，大衛的詩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6d9df4af184fd4e81cc4b0d2ec260639cbfbd651ea58300a17f895f57dda1832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/9\/1-4.1792143249434.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "交與伶長"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "穆特"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "拉班"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:34:09.435930125Z",
+  "model": "glm-5.3"
+}

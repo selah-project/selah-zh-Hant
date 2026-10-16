@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 4:2",
+  "book": "nehemiah",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "להלחם",
+      "rationale": "字面「爭戰」，中文「攻擊」承載其破壞義。"
+    },
+    {
+      "kind": "addition",
+      "subject": "〈其中〉",
+      "rationale": "לו 指耶路撒冷，中文需補出方位詞。"
+    }
+  ],
+  "translation": "他們全部一同密謀，要來攻擊耶路撒冷，在城中製造擾亂。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "62a2d3e89f42c73f99e6db3cca90eecd1c0fe02ac0a268329b176753b88a73c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nehemiah\/4\/1-4.1792148046545.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "密謀"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "他們全部"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "一同"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "要來"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "攻擊"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "並要製造"
+    },
+    {
+      "surface": "לו",
+      "gloss": "在〈其中〉"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "擾亂"
+    }
+  ],
+  "timestamp": "2026-10-16T10:54:06.545831272Z",
+  "model": "glm-5.3"
+}

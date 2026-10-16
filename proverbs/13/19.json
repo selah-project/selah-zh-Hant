@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 13:19",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "氣息",
+      "rationale": "נפש 是氣息、生命之力，不是 disembodied 的「靈魂」"
+    },
+    {
+      "kind": "crux",
+      "subject": "後半句語序",
+      "rationale": "字面「愚昧人的可憎是離開惡」；或解為愚昧人視離惡為可憎（KJV），或為向他們講離惡乃可憎（YLT）"
+    }
+  ],
+  "translation": "渴望得成，使氣息甘甜；遠離惡事是愚昧人的可憎之事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9f12e9deddf112db526c31462abd0a43af59dbbe6b903eddf374fc951026c0e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/13\/17-20.1792145403181.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאוה",
+      "gloss": "渴望"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "得成"
+    },
+    {
+      "surface": "תערב",
+      "gloss": "甘甜"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "使氣息"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "可憎之事"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "愚昧人"
+    },
+    {
+      "surface": "סור",
+      "gloss": "遠離"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "惡事"
+    }
+  ],
+  "timestamp": "2026-10-16T10:10:03.182346515Z",
+  "model": "glm-5.3"
+}

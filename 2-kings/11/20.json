@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "בית מלך",
+      "rationale": "'בְּבֵית המלך'有抄本作『在王宮裏』或『在王宮旁』，此譯取『在王宮』。"
+    },
+    {
+      "kind": "elision",
+      "subject": "שקטה",
+      "gloss": "'安靜'作內自動詞（城安靜下來），中文補『了』表完成的語氣。"
+    }
+  ],
+  "translation": "國中的眾民都歡喜，城也安靜了；他們用刀在王宮殺了⟨את⟩亞他利雅。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "14e4a16a1fc2f87e6900385045f8570fcb2eda1c1147647683a69eb98cde5d5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/11\/17-20.1792133955207.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "都歡喜"
+    },
+    {
+      "surface": "כל",
+      "gloss": "眾"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "國"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "安靜了"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "殺了⟨את⟩",
+      "marks": "亞他利雅"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "亞他利雅"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "殺了"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "用刀"
+    },
+    {
+      "surface": "בית",
+      "gloss": "宮"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-10-16T06:59:15.209803414Z",
+  "model": "glm-5.3"
+}

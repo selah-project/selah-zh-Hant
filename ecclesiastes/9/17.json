@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "勝過",
+      "rationale": "希伯來文用介詞 מִן 表比較，中文以「勝過」譯出"
+    },
+    {
+      "kind": "crux",
+      "subject": "מושל",
+      "rationale": "分詞「掌權者」vs「統治者」；語境回應9:14-15受輕看的貧窮智慧人"
+    }
+  ],
+  "translation": "智慧人的話在寧靜中被聽見，勝過在愚昧人中掌權者的呼喊。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4942a5bb515b16e718bf405fea6d11ec38523fd37d1c5d9bf58424b5c7cf178a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/9\/17-18.1792146997587.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "智慧人的"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "在寧靜中"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "被聽見"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "勝過……的呼喊"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "掌權者"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "在愚昧人中"
+    }
+  ],
+  "timestamp": "2026-10-16T10:36:37.588182664Z",
+  "model": "glm-5.3"
+}

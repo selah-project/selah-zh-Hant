@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 119:52",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "雅威",
+      "rationale": "直接向雅威呼喚：雅威啊"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ואתנחם",
+      "rationale": "此動詞亦可反身讀作「我安慰自己」（KJV、ASV）；此處取被動「得著安慰」"
+    }
+  ],
+  "translation": "雅威啊，我記念你從亙古以來的典章，就得著安慰。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c9e2dba27090389238312a75e443044ea162f959c37a5db86bb09682301414db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/49-52.1792144843242.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "我記念"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "你的典章"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "從亙古"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואתנחם",
+      "gloss": "而我得安慰"
+    }
+  ],
+  "timestamp": "2026-10-16T10:00:43.243354731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 9:5",
+  "book": "amos",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "河流",
+      "rationale": "יאר 可指普通水道，也可特指尼羅河；本節兩次以複數形出現，譯作「河流」保留其雙關"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ותמוג／הנוגע",
+      "rationale": "「觸碰」（נוגע）與「消融」（תמוג）同含 נ־ג／מ־ג 之音近呼應，原文音韻在中文中流失"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "本句屬對以色列的宣告性話語，描繪雅威審判的臨到"
+    }
+  ],
+  "translation": "阿多奈、萬軍之雅威，那觸碰 ⟨את⟩ 地的，地就消融，住在其上的全都悲哀；全地如河流般漲起，又如埃及的河流般沉落。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "73c4d7db895e93b610bbd53c491839efecd9eb2329b73559cd8ea7ee468abb50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/amos\/9\/5-8.1792139881070.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "萬軍之"
+    },
+    {
+      "surface": "הנוגע",
+      "gloss": "觸碰"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ותמוג",
+      "gloss": "消融"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "悲哀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "בה",
+      "gloss": "在其中"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "漲起"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "如河流"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "全然"
+    },
+    {
+      "surface": "ושקעה",
+      "gloss": "沉落"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "如河流"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    }
+  ],
+  "timestamp": "2026-10-16T08:38:01.070970278Z",
+  "model": "glm-5.3"
+}

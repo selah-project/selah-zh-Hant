@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 19:15",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "廣場",
+      "rationale": "רְחֹב 本義是「寬闊處」，不是街道。"
+    },
+    {
+      "kind": "addition",
+      "subject": "任何人",
+      "rationale": "אִישׁ מְאַסֵּף 直譯「召集的人」，中文需補「沒有任何人」。"
+    }
+  ],
+  "translation": "他們在那裏轉向，要進去在基比亞過夜；他進去，坐在城的廣場上，沒有人接納 ⟨את⟩ 他們到家中過夜。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "26878f60e183d9b8844bb88e2b9af0f88b3a38f74be6821d52ba23aae5cc29b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/19\/13-16.1792130586943.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסרו",
+      "gloss": "他們轉向"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裏"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "要進去"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "過夜"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "在基比亞"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "他進去"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "在廣場"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "איש",
+      "gloss": "任何人"
+    },
+    {
+      "surface": "מאסף",
+      "gloss": "接納"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "他們"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "到家中"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "過夜"
+    }
+  ],
+  "timestamp": "2026-10-16T06:03:06.944574183Z",
+  "model": "glm-5.3"
+}

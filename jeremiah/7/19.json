@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 7:19",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "האתי \/ אתם",
+      "rationale": "同一受詞記號את的兩個形式首尾對稱：激怒的是「את-我」還是「אתם-他們自己」，修辭問答的樞紐"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בשת פניהם",
+      "rationale": "字面「他們臉的羞愧」——閃語以臉表位格，即「自取其辱」"
+    }
+  ],
+  "translation": "他們激怒的是 ⟨את⟩ 我嗎？雅威說。豈不是 ⟨אתם⟩ 他們自己，為了他們臉上的羞愧嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "67571e89e36ec6b60b9bda0bd289bb39e36de480779ef58360bfa440dee776da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/7\/17-20.1792136320449.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האתי",
+      "gloss": "⟨את⟩ 我"
+    },
+    {
+      "surface": "הם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "激怒"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "……的神諭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "豈不是"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "他們自己"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為了"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "羞愧"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "他們的臉"
+    }
+  ],
+  "timestamp": "2026-10-16T07:38:40.450636251Z",
+  "model": "glm-5.3"
+}

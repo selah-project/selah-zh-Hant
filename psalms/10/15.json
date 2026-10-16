@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רשע／רע／רשעו",
+      "rationale": "三個 ר-ש-ע／ר-ע 詞根在一句中連環：惡人、惡、他的惡——音韻密集，中文難以完全保留"
+    },
+    {
+      "kind": "crux",
+      "subject": "בל תמצא",
+      "rationale": "「直到尋不見（他的惡）」或「願他的惡再也找不到」；語境是徹底除滅"
+    }
+  ],
+  "translation": "願祢打斷惡人的膀臂，並追究那惡人；願祢查究他的惡，直到一無所獲。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "549ce693d1e1b1e50f58625af352304a3c696adc998471ab71676bd3970e9b23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/10\/13-16.1792143357235.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "打斷"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "膀臂"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "那惡人"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "追究"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "他的惡"
+    },
+    {
+      "surface": "בל",
+      "gloss": "一無"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "所獲"
+    }
+  ],
+  "timestamp": "2026-10-16T09:35:57.236755432Z",
+  "model": "glm-5.3"
+}

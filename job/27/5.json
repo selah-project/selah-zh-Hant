@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלילה לי",
+      "rationale": "字面「願這對我是被褻瀆的事」，慣用語譯為「我絕不敢／斷不容我」。"
+    },
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "חלילה לי אם 是一個否認句構中的虛詞，中文以語氣吸收，不逐字譯出。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אגוע",
+      "rationale": "字面「呼出最後一口氣」，譯「斷氣」保留呼吸的圖像。"
+    }
+  ],
+  "translation": "我絕不敢稱你們為義，直到我斷氣；我必不將我的純全從我身上除去。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0934fe33eea176bbf262959dfada883b99561d0ad27bccec034829090a68ff18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/27\/5-8.1792146282180.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "絕不敢"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨若⟩"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "稱…為義"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩你們",
+      "marks": "你們（約伯的三位朋友）"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "斷氣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "除去"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "我的純全"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "從我身上"
+    }
+  ],
+  "timestamp": "2026-10-16T10:24:42.180876709Z",
+  "model": "glm-5.3"
+}

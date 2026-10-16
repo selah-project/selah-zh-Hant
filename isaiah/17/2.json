@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 17:2",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "羊群臥在那裡",
+      "rationale": "原文動詞 ורבצו 主語是羊群，中文補出主語以成句"
+    },
+    {
+      "kind": "crux",
+      "subject": "ערער",
+      "rationale": "亞羅珥有三處同名之地；此處或在亞蘭境內，確址不明"
+    }
+  ],
+  "translation": "亞羅珥的城邑被撇棄，必歸⟨與⟩羊群；羊群臥在那裡，無人驚嚇。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "33aebae5b3414892baed01785e786de29ff4cfa4e594b2de95438ce9123fbf95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/17\/1-4.1792134933344.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזבות",
+      "gloss": "被撇棄"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "城邑"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "亞羅珥"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "歸羊群"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "必成為"
+    },
+    {
+      "surface": "ורבצו",
+      "gloss": "且臥下"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "而無"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "驚嚇者"
+    }
+  ],
+  "timestamp": "2026-10-16T07:15:33.345048967Z",
+  "model": "glm-5.3"
+}

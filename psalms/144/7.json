@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "眾水",
+      "rationale": "「許多水」是死亡的意象（詩18:16），直譯保留，不化為「深水」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "外人之子",
+      "rationale": "בני נכר直譯「陌生人之子」；和合本「外邦人」弱化了「之子」的閃語構詞"
+    },
+    {
+      "kind": "you",
+      "subject": "向雅威",
+      "rationale": "全節為直接向雅威發出的祈求"
+    }
+  ],
+  "translation": "求你從高處伸手；搭救我，拯救我脫離眾水，脫離外人之子的手。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3823681dd95ba4e8da74844860cec153bb0ccfe1195e43e232858978f5b1f86d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/144\/5-8.1792145057776.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "求你伸出"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "從高處"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "搭救我"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "拯救我"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "脫離眾水"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "許多的"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "脫離…的手"
+    },
+    {
+      "surface": "בני",
+      "gloss": "之子"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "外人"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:17.777915463Z",
+  "model": "glm-5.3"
+}

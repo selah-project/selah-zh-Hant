@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "他或發怒或嘲笑",
+      "rationale": "וְרָגַז וְשָׂחַק 的主語可指愚妄人（KJV）或智慧人（YL T 讀法）；中文按多數譯法以愚妄人為主語。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נחת",
+      "rationale": "原文意為「平息、安息」，譯作「安寧」。"
+    }
+  ],
+  "translation": "智慧人與愚妄人爭訟⟨את⟩，他或發怒或嘲笑，總沒有安寧。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "347ef1b7fd26606cb72ca8827d1dac8af4e3dfd81df4fa4c33b5ccf0a2e8e397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/29\/9-12.1792145677615.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "爭訟"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "愚妄人"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "愚妄"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "或發怒"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "或嘲笑"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "總沒有"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "安寧"
+    }
+  ],
+  "timestamp": "2026-10-16T10:14:37.616199098Z",
+  "model": "glm-5.3"
+}

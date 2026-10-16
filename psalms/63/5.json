@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨我的⟩",
+      "rationale": "希伯來文的手掌כפי已帶詞尾代名詞「我的」，中文以「雙手」譯複數手掌，補出代名詞以明確"
+    },
+    {
+      "kind": "invitation",
+      "subject": "稱頌與舉手",
+      "rationale": "詩人向神發出敬拜的宣告，是對神的直接禱告語"
+    }
+  ],
+  "translation": "如此，我要在有生之日稱頌你；我要奉你的名舉起 ⟨我的⟩ 雙手。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e27d25f1bef020b9d973f8f67dfe6f62fa2ad021cd065a6e8ddb3d763dc5ff25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/63\/5-8.1792144044737.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "如此"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "我要稱頌你"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "在有生之日"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "奉你的名"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "我要舉起"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "我的手掌"
+    }
+  ],
+  "timestamp": "2026-10-16T09:47:24.738037950Z",
+  "model": "glm-5.3"
+}

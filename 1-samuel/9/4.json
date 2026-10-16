@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 9:4",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ואין",
+      "rationale": "三段式的重複：走過——沒有找到／那裏沒有；第三段的 ואין（不在）與 שעלים（沙利姆）讀音相近，形成迴響。"
+    },
+    {
+      "kind": "crux",
+      "subject": "ימיני",
+      "rationale": "字面是『右邊／南方之地』，通行譯法作『便雅憫地』；本譯採地名讀法。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שלשה",
+      "rationale": "沙利沙地名僅見於此處。"
+    }
+  ],
+  "translation": "他走過以法蓮山地，又走過沙利沙地，沒有找到；他們走過沙利姆地，那裏沒有；他又走過便雅憫地，沒有找到。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "add8c5e0c406c07b492694ad77356d722ca5a7a5da51bb1200a63c32eee1defb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/9\/2-4.1792142504844.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "他走過"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "山地"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "又走過"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "沙利沙"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "找到"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "他們走過"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "沙利姆"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "那裏沒有"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "他又走過"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "便雅憫"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "找到"
+    }
+  ],
+  "timestamp": "2026-10-16T09:21:44.846156130Z",
+  "model": "glm-5.3"
+}

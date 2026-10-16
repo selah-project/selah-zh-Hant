@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他的",
+      "rationale": "希伯來文以詞尾代名詞表達所屬，中文補出代詞"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רשע\/רשעתו",
+      "rationale": "「惡人」與「他的惡」同根呼應，中文保留同字重複"
+    }
+  ],
+  "translation": "完全人的公義必修直⟨他的⟩道路，惡人卻必因自己的惡跌倒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f062b502b3555d788633c3c73d1110edcf11ed908c5e08e65ccb17fc3c76daac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/11\/5-8.1792145352240.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "公義"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "完全人"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "必修直"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "⟨他的⟩道路"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "卻因自己的惡"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "必跌倒"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    }
+  ],
+  "timestamp": "2026-10-16T10:09:12.240776532Z",
+  "model": "glm-5.3"
+}

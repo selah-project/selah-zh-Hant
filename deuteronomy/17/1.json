@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 17:1",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "神明",
+      "rationale": "此處 אלהיך 指以色列的神，用「以羅欣」；異教語境才用「神明」"
+    },
+    {
+      "kind": "addition",
+      "subject": "那是",
+      "rationale": "末句 הוא 是強調代詞，中文以判斷句式「那是……的」承載"
+    }
+  ],
+  "translation": "不可將有殘疾的牛或羊——任何惡劣之物——獻給雅威你的以羅欣為祭，因為那是雅威你的以羅欣所憎惡的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e9b94d43cecdca996ba506d597951075fcd2c4829a758a2008a479aa130d0044",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/17\/1-4.1792129002851.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "獻祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "給雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "或羊"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "有"
+    },
+    {
+      "surface": "בו",
+      "gloss": "在其中"
+    },
+    {
+      "surface": "מום",
+      "gloss": "殘疾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "之物"
+    },
+    {
+      "surface": "רע",
+      "gloss": "惡劣"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "所憎惡的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "那是"
+    }
+  ],
+  "timestamp": "2026-10-16T05:36:42.852593443Z",
+  "model": "glm-5.3"
+}

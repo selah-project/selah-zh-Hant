@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 11:11",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "城（第二子句）",
+      "rationale": "希伯來文第二子句未重述「城」，主語承前省略；中文補出以完句"
+    }
+  ],
+  "translation": "正直人的祝福使城升高，惡人的口使城傾覆。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3367b3435a22d3de3b8b9f1d8d43e018781a37f0c1c031262eee1a04b13010b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/11\/10-11.1792149948469.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בברכת",
+      "gloss": "藉著……的祝福"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "正直人"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "升高"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "城"
+    },
+    {
+      "surface": "ובפי",
+      "gloss": "藉著……的口"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "傾覆"
+    }
+  ],
+  "timestamp": "2026-10-16T11:25:48.469880213Z",
+  "model": "glm-5.3"
+}

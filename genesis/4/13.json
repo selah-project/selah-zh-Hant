@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "罪孽過於所能承受",
+      "rationale": "「עוני 大過 מנשא」可讀作『我的刑罰重得不能承受』或『我的罪孽過於可得赦免』——傳統譯本多取『刑罰』，但 עון 本義是罪孽。"
+    },
+    {
+      "kind": "you",
+      "subject": "該隱對雅威說",
+      "rationale": "該隱直接向雅威申訴。"
+    }
+  ],
+  "translation": "該隱對雅威說：「我的罪孽太重，過於所能承受的。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "614a325e7ab193bba258d3f466e4c3590238162024961e7204c4ea38bbad684d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/4\/13-16.1792124534606.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "קין",
+      "gloss": "該隱"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "太重"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "我的罪孽"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "過於所能承受的"
+    }
+  ],
+  "timestamp": "2026-10-16T04:22:14.607096556Z",
+  "model": "glm-5.3"
+}

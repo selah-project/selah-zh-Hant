@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחילו",
+      "rationale": "חוּל 本義為旋轉搖晃：KJV 譯「悖逆難行」，JPS\/BSB 譯「順利穩固」，本文取穩固。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "噴氣",
+      "rationale": "יפיח 字面為用鼻噴氣，表示輕蔑嗤笑，中文以噴氣保留畫面。"
+    }
+  ],
+  "translation": "他的道路時時穩固；你的判語高遠，在他面前之外；至於他一切的仇敵，他向他們噴氣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3d0ec7f7f2ba534563dbe64b24ba7705488bea745822cf09aa16a41555ebb82b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/10\/5-8.1792143329976.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "穩固"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "他的道路"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "時時"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "高遠"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "你的判語"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "在他面前之外"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "他的仇敵"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "噴氣"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "向他們"
+    }
+  ],
+  "timestamp": "2026-10-16T09:35:29.976872670Z",
+  "model": "glm-5.3"
+}

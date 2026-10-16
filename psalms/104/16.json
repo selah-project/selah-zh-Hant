@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "飽足",
+      "rationale": "ישבעו 或作「得滋潤／滿了汁漿」（KJV），與上一節的 תשבע 同字，譯『飽足』以保留重複。"
+    },
+    {
+      "kind": "addition",
+      "subject": "他的",
+      "rationale": "中文需要代詞指明栽種者，希伯來文動詞形本身隱含。"
+    }
+  ],
+  "translation": "雅威的樹木得以飽足，就是他所栽種的利巴嫩香柏樹，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e1d495dd5bbe341b1261def89a48026f5aeefad034a9bfec79bdd8f528adc5e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/104\/13-16.1792144605391.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "得以飽足"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "樹木"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "香柏樹"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "利巴嫩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "他所栽種的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:45.392274980Z",
+  "model": "glm-5.3"
+}

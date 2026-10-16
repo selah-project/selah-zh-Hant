@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "認識",
+      "rationale": "וְנֵדְעָה「認識」在此是性的委婉語（參 19:8「未曾認識男人」）；直譯「認識」保留雙關，多數譯本如此。"
+    },
+    {
+      "kind": "you",
+      "subject": "對羅得",
+      "rationale": "所多瑪眾人直接向羅得說話。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידע",
+      "rationale": "本節與第 8 節同一動詞 ידע 重複出現，形成刻意的呼應。"
+    }
+  ],
+  "translation": "他們呼叫羅得，對他說：「今晚到你這裡來的那些人在哪裡？把他們帶出來給我們，讓我們認識 ⟨את⟩ 他們。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4d5966a59c0ee2a681308d53bf33eb234f5f296a019bb8e96b412d38a719326d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/19\/5-8.1792124862478.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "他們呼叫"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "羅得"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "他們說"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "איה",
+      "gloss": "在哪裡"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "那些人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那些"
+    },
+    {
+      "surface": "באו",
+      "gloss": "來"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "到你這裡"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "今晚"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "把他們帶出來"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "給我們"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "讓我們認識"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "他們"
+    }
+  ],
+  "timestamp": "2026-10-16T04:27:42.479329304Z",
+  "model": "glm-5.3"
+}

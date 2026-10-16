@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 8:11",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פתגם",
+      "rationale": "波斯語借詞，意為官方判決、諭令，此處譯'判決'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בני האדם",
+      "rationale": "字面'人的兒子們'，即世人"
+    },
+    {
+      "kind": "crux",
+      "subject": "בהם",
+      "rationale": "'心在他們裡面滿了'——代詞指向罪（在惡事上）還是人心自身，譯本處理不一"
+    }
+  ],
+  "translation": "因為對惡行的判決沒有迅速執行，所以世人的心就滿懷惡念，肆意行惡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3965f14a778b1f219bcbcff5d8466f8d59c2570cf7ea3cfa5ce639dcb84d2dff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/8\/9-12.1792147071073.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "執行"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "判決"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "……之(事)"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "惡行"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "迅速"
+    },
+    {
+      "surface": "על",
+      "gloss": "由於"
+    },
+    {
+      "surface": "כן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "滿懷"
+    },
+    {
+      "surface": "לב",
+      "gloss": "……的心"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……之子"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "世人"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "惡念"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "行"
+    },
+    {
+      "surface": "רע",
+      "gloss": "惡"
+    }
+  ],
+  "timestamp": "2026-10-16T10:37:51.074041951Z",
+  "model": "glm-5.3"
+}

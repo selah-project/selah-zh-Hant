@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "judges 9:56",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "兩個受詞記號均以⟨את⟩保留，分別指向「亞比米勒的惡」和「他的七十個弟兄」。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "七十",
+      "rationale": "七十這個數目回應士 9:5 被殺的七十個弟兄，數字前後對應。"
+    }
+  ],
+  "translation": "以羅欣（神）歸還了⟨את⟩亞比米勒的惡，就是他對父親所行的——殺了他七十個弟兄。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "326f1e807c23d69ac53e67e63fd8f16a8e5b9ab4a1c55427f26d81330e50f155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/9\/53-56.1792130339522.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "歸還了"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣（神）"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞比米勒的惡"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "…的惡"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "亞比米勒"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "所行的"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "對父親"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "殺了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的七十個弟兄"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "七十"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "他的弟兄"
+    }
+  ],
+  "timestamp": "2026-10-16T05:58:59.523434250Z",
+  "model": "glm-5.3"
+}

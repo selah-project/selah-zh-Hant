@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 118:27",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חג",
+      "rationale": "חג可指「節期」或「節期的祭牲」；JPS作「節期遊行」，KJV作「祭牲」"
+    },
+    {
+      "kind": "crux",
+      "subject": "בעבתים",
+      "rationale": "僅此處出現的複數形：可指「繩索」或「樹枝」（JPS作boughs）"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עבתים",
+      "rationale": "該詞的複數形僅見於此節"
+    },
+    {
+      "kind": "alternative",
+      "subject": "伊勒是雅威",
+      "rationale": "亦可讀作「屬伊勒的雅威」或「雅威是伊勒」"
+    }
+  ],
+  "translation": "伊勒是雅威，他使我們發亮光；要用繩索繫住節期的祭牲，直到祭壇的角。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "760708651548410e7086e4e583c7750957a3bca99b8cad3d6e90bae6bfc19e2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/118\/26-27.1792149936767.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "他使……發亮光"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "我們"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "要繫住"
+    },
+    {
+      "surface": "חג",
+      "gloss": "節期的祭牲"
+    },
+    {
+      "surface": "בעבתים",
+      "gloss": "用繩索"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "角"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    }
+  ],
+  "timestamp": "2026-10-16T11:25:36.767922623Z",
+  "model": "glm-5.3"
+}

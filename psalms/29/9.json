@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחולל אילות",
+      "rationale": "「使母鹿旋繞」（早產）與「使橡樹扭動」（ylt\/bsb，將אילות讀作אילות樹木）之爭；傳統譯作「使母鹿早產」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קול יהוה",
+      "rationale": "全詩「雅威的聲音」出現七次，本節為高潮；重複的轟鳴結構中文只能部分保留。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כלו אמר כבוד",
+      "rationale": "可讀作「在祂的殿中，人人都說：榮耀」；但כלו是「它的全部」，故譯「一切都說」。"
+    }
+  ],
+  "translation": "雅威的聲音使母鹿旋繞生產，使森林剝落赤裸；在祂的殿中，一切都說：榮耀！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "72de4c19d358056f472487a268c5baea71f324be6f164b6e97c70f23a6a4f309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/29\/9-11.1792143498822.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "聲音"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "使……旋繞生產"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "母鹿"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "使……剝落赤裸"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "森林"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "在祂的殿中"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮耀"
+    }
+  ],
+  "timestamp": "2026-10-16T09:38:18.822896110Z",
+  "model": "glm-5.3"
+}

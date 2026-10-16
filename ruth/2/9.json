@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 2:9",
+  "book": "ruth",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "（水）",
+      "rationale": "希伯來文只說「喝僕人所打的」，受詞「水」由語境補出"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הנערים",
+      "rationale": "נערים 直譯「少年人」，此處指田間僕人，譯「僕人」"
+    },
+    {
+      "kind": "you",
+      "subject": "to Ruth",
+      "rationale": "波阿斯直接對路得說話，命令與應許並存"
+    }
+  ],
+  "translation": "你的眼要盯在工人收割的田上，你要跟在她們後面。我豈沒有吩咐 ⟨את⟩ 那些僕人不可碰你嗎？你渴了，就到器皿那裡去，喝僕人所打的水。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "24c59c0572a58daa962feb442eaadf5582a340a38fa26f05271341675dd6fe9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ruth\/2\/9-12.1792146710672.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "你的眼"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "在…田上"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "יקצרון",
+      "gloss": "他們收割"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "你要去"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "在她們後面"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "豈沒有"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "我吩咐"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那些僕人"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "那些僕人"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "不可"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "碰你"
+    },
+    {
+      "surface": "וצמת",
+      "gloss": "你渴了"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "就去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到…那裡"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "器皿"
+    },
+    {
+      "surface": "ושתית",
+      "gloss": "喝"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "從…所…的"
+    },
+    {
+      "surface": "ישאבון",
+      "gloss": "他們打的（水）"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "僕人"
+    }
+  ],
+  "timestamp": "2026-10-16T10:31:50.673524880Z",
+  "model": "glm-5.3"
+}

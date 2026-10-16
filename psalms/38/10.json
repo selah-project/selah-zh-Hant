@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "向阿多奈",
+      "rationale": "詩人直接向阿多奈呼求的祈禱語"
+    },
+    {
+      "kind": "crux",
+      "subject": "阿多奈",
+      "rationale": "אדני指神，依紀律譯作阿多奈，不作『主』"
+    }
+  ],
+  "translation": "阿多奈啊，我一切的渴望都在你面前，我的嘆息不向你隱藏。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0c9ba66623936e037b65b452ee7069c760922e6092b3a233072f9b81bc112027",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/38\/9-12.1792143715494.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "在你面前"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "我的渴望"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "我的嘆息"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "隱藏"
+    }
+  ],
+  "timestamp": "2026-10-16T09:41:55.495921187Z",
+  "model": "glm-5.3"
+}

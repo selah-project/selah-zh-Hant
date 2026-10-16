@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "那就是",
+      "rationale": "אשר 連接詞中文需補出關係語氣。"
+    }
+  ],
+  "translation": "他心裡說：「我必不動搖，世世代代必不遭災禍。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3d0ec7f7f2ba534563dbe64b24ba7705488bea745822cf09aa16a41555ebb82b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/10\/5-8.1792143329976.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "他心裡"
+    },
+    {
+      "surface": "בל",
+      "gloss": "必不"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "動搖"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "世代"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "又世代"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨那就是⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "遭災禍"
+    }
+  ],
+  "timestamp": "2026-10-16T09:35:29.977088362Z",
+  "model": "glm-5.3"
+}

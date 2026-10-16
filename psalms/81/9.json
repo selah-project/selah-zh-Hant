@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם",
+      "rationale": "條件詞「若」在此作渴望式用法，譯作「惟願」，眾譯本同此"
+    },
+    {
+      "kind": "invitation",
+      "subject": "שמע",
+      "rationale": "命令式「要聽」直接呼喚百姓，呼應示瑪的開頭"
+    },
+    {
+      "kind": "you",
+      "subject": "עמי \/ ישראל",
+      "rationale": "雙重呼格直接向以色列民說話"
+    }
+  ],
+  "translation": "我的民啊，要聽，我要向你作證；以色列啊，惟願你肯聽從我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0d5013afb3c56e3e804712f67a3c7150e9baa1b68a5db1d173e15345afe54ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/81\/9-12.1792144327791.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "要聽"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的民啊"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "我要作證"
+    },
+    {
+      "surface": "בך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列啊"
+    },
+    {
+      "surface": "אם",
+      "gloss": "惟願"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "你肯聽從"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:07.792137071Z",
+  "model": "glm-5.3"
+}

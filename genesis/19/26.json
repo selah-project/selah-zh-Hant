@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 19:26",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "羅得的",
+      "rationale": "希伯來文只作「他的妻子」，先行詞羅得上文遠，中文需明示。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נציב",
+      "rationale": "原文意為「直立之物／立像」，眾譯本作「柱」，保留其立像的畫面。"
+    }
+  ],
+  "translation": "羅得的妻子在 ⟨他⟩ 後面回頭一看，就成了鹽柱。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b19d4b0e2704cf570e10de690b29d58887f41cc803a01fc307afa28501e9a299",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/19\/25-28.1792124874854.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "回頭一看"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "羅得的妻子"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "在他後面"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "就成了"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "柱"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "鹽"
+    }
+  ],
+  "timestamp": "2026-10-16T04:27:54.854878918Z",
+  "model": "glm-5.3"
+}

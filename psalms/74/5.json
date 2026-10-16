@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ידע כמביא למעלה",
+      "rationale": "希伯來文極難：『被知道如同帶上高處』——或作『他們揮斧上騰於密林』；各譯本分歧極大（KJV『有名之人』、JPS『如人揮斧』）。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידע\/כמביא",
+      "rationale": "動詞片語殘缺難解，或多處子音破損，中譯只能取『被認得』的骨架義。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "קרדמות",
+      "rationale": "קרדם（斧）複數僅見於此與耶46:22之外極少處，畫面是伐木之斧。"
+    }
+  ],
+  "translation": "人被認得，是因他曾向上舉起斧頭，劈開樹林⟨的密叢⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "80bd7f36a4f5ce70abdc7226c821e3eb60c88f4993f03b174898b98e3e4d544b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/74\/5-8.1792144224892.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "被認得"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "向上舉起"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "向上"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "樹林的密叢"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "樹"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "斧頭"
+    }
+  ],
+  "timestamp": "2026-10-16T09:50:24.892616802Z",
+  "model": "glm-5.3"
+}

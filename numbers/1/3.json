@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "age threshold",
+      "rationale": "二十歲以上——人口普查的年齡界限。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צבא\/לצבאתם",
+      "rationale": "「出去打仗」與「按他們的隊伍」同用 צבא 詞根，中文分譯為打仗／隊伍，失去呼應。"
+    }
+  ],
+  "translation": "以色列中凡二十歲以上、能出去打仗的，你和你們要按他們的隊伍點閱 ⟨את⟩ 他們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6644281be4303ce7a73fdb58cbdaf9eb2f36d97306ae9dd0814bfe6bad26ccf0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/1\/1-4.1792127422654.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "從…歲"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "及以上"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "打仗（軍旅）"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "在以色列中"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "你們要點閱"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "他們"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "按他們的隊伍"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "和亞倫"
+    }
+  ],
+  "timestamp": "2026-10-16T05:10:22.655932840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "窮乏人",
+      "rationale": "דַּל 指弱小窮乏者；經文禁止在訴訟中因同情而偏袒他——與23:6『不可在窮人的訟案上屈枉正直』相對，常被誤讀。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "偏袒",
+      "rationale": "הָדַר 字面是『使之尊榮／看重』，此處指在審判中給予不當的看重。"
+    }
+  ],
+  "translation": "也不可在他的爭訟中偏袒窮乏人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "64efbb903aea9c270f08c2379ee5d2554e5466c39e48e9c33e277483aa75651c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/23\/1-4.1792126185887.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "也不可……窮乏人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "偏袒"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "在他的爭訟中"
+    }
+  ],
+  "timestamp": "2026-10-16T04:49:45.888619291Z",
+  "model": "glm-5.3"
+}

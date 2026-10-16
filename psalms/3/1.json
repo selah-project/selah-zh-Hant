@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מפני",
+      "rationale": "「面」的慣用語直譯保留為「之面」，多數譯本簡化為「逃避押沙龍」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מזמור",
+      "rationale": "標題詞，出自「琢磨」的詞根，指配上樂器的詩歌"
+    }
+  ],
+  "translation": "大衛的詩篇，當他逃避他兒子押沙龍之面時。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "84bcaba9278bcefbd3e0198ae8979837af0ff2812b8b05b856813628ec9378ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/3\/1-4.1792143226228.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "詩篇"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "當他逃避"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "之面"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "押沙龍"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "他兒子"
+    }
+  ],
+  "timestamp": "2026-10-16T09:33:46.229050909Z",
+  "model": "glm-5.3"
+}

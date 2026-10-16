@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ואשא",
+      "rationale": "字面為「我就擔起」，意即還能忍受，中譯作「還能承受」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "若是仇敵／若是恨我的人",
+      "rationale": "希伯來文以兩個 ו＋未完成式表達反想的假設結果，中文需補出條件子句。"
+    }
+  ],
+  "translation": "因為辱罵我的不是仇敵，若是仇敵，我還能承受；向我自高的也不是恨我的人，若是恨我的人，我還能躲避他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b253a0c41a131a291ebed9375d1be76fb6f6ff443e2b826b67ddc7f0eea2f34c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/55\/13-16.1792143922555.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不是"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "仇敵"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "辱罵我"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "我還能承受"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不是"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "恨我的人"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "向我"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "自高"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "我還能躲避"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "他"
+    }
+  ],
+  "timestamp": "2026-10-16T09:45:22.556453574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קשת",
+      "rationale": "「弓」是武器之弓，非「彩虹」；原文只說弓，在雲中即是戰弓被掛起之象，英文 rainbow 為後起理解"
+    },
+    {
+      "kind": "addition",
+      "subject": "它",
+      "rationale": "והיתה 為動詞「必成為」，中文需主語「它」指弓"
+    }
+  ],
+  "translation": "我把 ⟨את⟩ 我的弓安放在雲中，它必成為我與地之間約的記號。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1ea0350f8af6999ab766e11e294ca95ebbfac8f6da3d9600ababcd9775a0492d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/9\/13-16.1792124651527.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的弓"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "我的弓"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我…安放"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "在雲中"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "它必成為"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "作為記號"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "在我…之間"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "與…之間"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-10-16T04:24:11.528360604Z",
+  "model": "glm-5.3"
+}

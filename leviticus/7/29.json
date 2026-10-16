@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 7:29",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "「面前」",
+      "rationale": "中文需要空間詞表明帶到雅威面前的含義，希伯來文只說「給雅威」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זבח\/מזבח",
+      "rationale": "「祭牲」與「從祭牲」同根重複，中文以重複「平安祭的祭牲」保留"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "藉摩西對以色列人的直接訓示"
+    }
+  ],
+  "translation": "「你要吩咐以色列人，說：獻平安祭給雅威的，要從他的平安祭中把他的供物帶到雅威面前。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c428945c0500d8fec1e932a13dfd8954068f89c14f7b9c113f222bc982b4f4e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/7\/29-32.1792126760382.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "你要吩咐"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "獻……的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的平安祭的祭牲"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "祭牲"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "他的平安祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "給雅威"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "要帶來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的供物"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "他的供物"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "給雅威"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "從……的祭牲"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "他的平安祭"
+    }
+  ],
+  "timestamp": "2026-10-16T04:59:20.382740469Z",
+  "model": "glm-5.3"
+}

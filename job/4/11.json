@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 4:11",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "獅子排比",
+      "rationale": "ליש 與 לביא 續上節的獅子詞群，四節之內五種獅名，中文無法保留詞形差異"
+    },
+    {
+      "kind": "mystery",
+      "subject": "獅子寓言",
+      "rationale": "以利法以獅子系列暗指惡人（8節「耕罪孽的」），獅子雖強仍滅亡——比喻不點明，聽者自悟"
+    }
+  ],
+  "translation": "壯獅因無獵物而滅亡，母獅的幼崽也四散離去。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fdd7d232f465760fe5b11d95840d7007d9f56feebfeacae54c5e2332999585d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/4\/9-12.1792145760632.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "壯獅"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "滅亡"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "因無"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "獵物"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "的幼崽"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "母獅"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "四散離去"
+    }
+  ],
+  "timestamp": "2026-10-16T10:16:00.633671688Z",
+  "model": "glm-5.3"
+}

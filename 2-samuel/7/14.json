@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 7:14",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשר",
+      "rationale": "關係詞可作「若」（條件，KJV／JPS）或「當…的時候」（敘述已然，YLT 作完成式）；文法上兩讀皆通。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בהעותו",
+      "rationale": "字根 עוה 是「彎曲」，直譯「在他的彎曲中」；譯作「行不義」以概念代圖像。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בני אדם",
+      "rationale": "「亞當之子」與前句「他要作我的兒子（בן）」同用 בן，人的兒子身份與神的兒子身份相映。"
+    }
+  ],
+  "translation": "我要作他的父，他要作我的兒子。他若行不義，我必用人的杖、用亞當之子的擊打責罰管教他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bae71cb18a95e60b73fabc575f3a3296ce7f1885291d8ccaac33a9c12f9d01e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/7\/13-16.1792131784941.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "必作"
+    },
+    {
+      "surface": "לו",
+      "gloss": "於他"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "父"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "而他"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "必作"
+    },
+    {
+      "surface": "לי",
+      "gloss": "於我"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "若"
+    },
+    {
+      "surface": "בהעותו",
+      "gloss": "他行不義"
+    },
+    {
+      "surface": "והכחתיו",
+      "gloss": "我必責罰管教他"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "用…的杖"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "人"
+    },
+    {
+      "surface": "ובנגעי",
+      "gloss": "以及…的擊打"
+    },
+    {
+      "surface": "בני",
+      "gloss": "之子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "亞當"
+    }
+  ],
+  "timestamp": "2026-10-16T06:23:04.942705712Z",
+  "model": "glm-5.3"
+}

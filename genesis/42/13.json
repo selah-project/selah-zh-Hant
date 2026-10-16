@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 42:13",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "與……在一起",
+      "rationale": "希伯來文只說「最小的今天⟨את⟩我們的父親」，同在之意由上下文補出"
+    },
+    {
+      "kind": "idiom",
+      "subject": "איננו",
+      "rationale": "字面「他是無」，即「已不存在」，指約瑟失蹤"
+    }
+  ],
+  "translation": "他們說：「你僕人們是十二個兄弟，我們是迦南地一個人的兒子，最小的今天⟨與⟩⟨את⟩ 我們的父親⟨在一起⟩，還有一個已經不在了。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b080eeb48fdfeee6f4db1fd92b048b4d20d01703f83e984a7c8a00888f47d908",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/42\/13-16.1792125494722.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "他們說"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "你的僕人們"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "兄弟"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "我們"
+    },
+    {
+      "surface": "בני",
+      "gloss": "兒子們"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一個男人"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一個"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在……地"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "最小的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我們的父親"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "我們的父親"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今天"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "還有那一個"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "不在了"
+    }
+  ],
+  "timestamp": "2026-10-16T04:38:14.723541664Z",
+  "model": "glm-5.3"
+}

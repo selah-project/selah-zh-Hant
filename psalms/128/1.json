@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 128,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "的人",
+      "rationale": "中文需將分詞「敬畏、行走的」名詞化，補出「的人」"
+    },
+    {
+      "kind": "invitation",
+      "subject": "上行之詩",
+      "rationale": "詩篇上行之詩的標題，召喚朝聖者"
+    }
+  ],
+  "translation": "上行之詩。凡敬畏雅威、行在他道路中的人，有福了！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d7566107d30fc2a0d4cee36675931758fde9a219fd50cc777995d4bd37a500fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/128\/1-4.1792144948279.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "詩歌"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "上行之"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "有福了"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "行在"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "他的道路中的人"
+    }
+  ],
+  "timestamp": "2026-10-16T10:02:28.280277546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "但",
+      "rationale": "開首的 ו 在此承接上文的對比，中文加「但」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעולם ועד עולם",
+      "rationale": "同一詞 עולם 兩次出現，時間兩端的框限結構"
+    }
+  ],
+  "translation": "但雅威的慈愛從亙古直到永遠臨到敬畏他的人，他的公義歸於子子孫孫，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2ed312f170965d0b1999dbd283f2022e3498415a54f083213ea30f0eacb7e436",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/103\/17-20.1792144594770.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "但……的慈愛"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "從亙古"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "על",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "敬畏他的人"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "他的公義"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "歸於……的子孫"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "子孫"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:34.770865176Z",
+  "model": "glm-5.3"
+}

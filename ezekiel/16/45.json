@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezekiel 16:45",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文需加「是」並以冒號承接"
+    },
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "此 אַתְּ（H859 陰性代詞「你」）非受詞記號 את（H853），故譯作代詞而非 ⟨את⟩ 記號"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jerusalem",
+      "rationale": "全節以第二人稱陰性直接斥責耶路撒冷"
+    }
+  ],
+  "translation": "你母親的女兒就是你：她厭惡⟨את⟩自己的丈夫和兒女；你姊妹的姊妹又是你：她們厭惡自己的丈夫和兒女。你們的母親是赫人，你們的父親是亞摩利人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7e6b8f0a246a31ef6164bdc24a33f1b4a87ec2334b83df7fde8501f7244db9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/16\/45-48.1792138265447.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "女兒"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "你母親的"
+    },
+    {
+      "surface": "את",
+      "gloss": "你"
+    },
+    {
+      "surface": "געלת",
+      "gloss": "厭惡"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "她的丈夫"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "和她的兒女"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "而姊妹"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "你姊妹的"
+    },
+    {
+      "surface": "את",
+      "gloss": "你"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "געלו",
+      "gloss": "厭惡了"
+    },
+    {
+      "surface": "אנשיהן",
+      "gloss": "她們的丈夫"
+    },
+    {
+      "surface": "ובניהן",
+      "gloss": "和她們的兒女"
+    },
+    {
+      "surface": "אמכן",
+      "gloss": "你們的母親"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "赫人女子"
+    },
+    {
+      "surface": "ואביכן",
+      "gloss": "和你們的父親"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "亞摩利人"
+    }
+  ],
+  "timestamp": "2026-10-16T08:11:05.447656024Z",
+  "model": "glm-5.3"
+}

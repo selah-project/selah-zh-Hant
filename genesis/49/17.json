@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 49:17",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שפיפן",
+      "rationale": "角蛇一詞僅見於此處，確切蛇種不明，多認為是角蝰。"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויפל",
+      "rationale": "字面「他（騎士）就墜落」，或作使役「使騎士墜落」；兩讀皆通。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דן\/נחש",
+      "rationale": "但（dan，判決者）與蛇相連，延續上節「但必判斷」的雙關語。"
+    }
+  ],
+  "translation": "願但作道路上的蛇，小徑上的角蛇，咬馬的腳跟，使牠的騎士向後墜落。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "394052f12e7256459a5792e01727123053fc11bc1f1ed9e9fb100af42b2b85db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/49\/17-20.1792125663732.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "願……作"
+    },
+    {
+      "surface": "דן",
+      "gloss": "但"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "蛇"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道路"
+    },
+    {
+      "surface": "שפיפן",
+      "gloss": "角蛇"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "小徑"
+    },
+    {
+      "surface": "הנשך",
+      "gloss": "咬"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "腳跟"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "馬"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "使……墜落"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "牠的騎士"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "向後"
+    }
+  ],
+  "timestamp": "2026-10-16T04:41:03.733472058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "所羅門",
+      "rationale": "帶條件的直接應許：你若…我就必…，對象是所羅門"
+    },
+    {
+      "kind": "measurement",
+      "subject": "你的日子",
+      "rationale": "日子的長短成為應許的內容——年日的計量"
+    }
+  ],
+  "translation": "你若行在我的道路上，遵守我的律例和我的誡命，正如你父親大衛所行的，我就必使 ⟨את⟩ 你的日子長久。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2b7b3ec8dd27086dbb3ab53990c4ad76a58236fc6064fdb70d36db68ee13b4ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/3\/13-16.1792132545628.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "你若"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "在我的道路上"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "遵守"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "我的律例"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "和我的誡命"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "正如"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "所行的"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你父親"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "我就必使…長久"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的日子"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "你的日子"
+    }
+  ],
+  "timestamp": "2026-10-16T06:35:45.629578187Z",
+  "model": "glm-5.3"
+}

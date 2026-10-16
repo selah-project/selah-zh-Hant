@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 20:23",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "此處 אתם 是介詞「與」（H854）而非受詞記號，標記照家族慣例保留"
+    },
+    {
+      "kind": "substitution",
+      "subject": "神明",
+      "rationale": "異教語境的אלהים依紀律用神明，不用以羅欣"
+    },
+    {
+      "kind": "crux",
+      "subject": "אם לא",
+      "rationale": "反問「豈不」與直述「必定」兩讀；KJV作直述，YLT作反問"
+    }
+  ],
+  "translation": "亞蘭王的臣僕對他說：「他們的神明是諸山之神明，所以他們比我們強；然而我們要在平原與他們⟨את⟩爭戰，我們豈不比他們強嗎？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "889dae7ce904527d9eaaf6e39f9b90c8f263e676245d73c310d8510a07336956",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/20\/21-24.1792133306891.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבדי",
+      "gloss": "臣僕"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "說"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "神明"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "諸山"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "他們的神明"
+    },
+    {
+      "surface": "על",
+      "gloss": "因此"
+    },
+    {
+      "surface": "כן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "比我們強"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "比我們"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "然而"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "爭戰"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩與他們",
+      "marks": "他們"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "在平原"
+    },
+    {
+      "surface": "אם",
+      "gloss": "豈"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "比他們強"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "比他們"
+    }
+  ],
+  "timestamp": "2026-10-16T06:48:26.892359041Z",
+  "model": "glm-5.3"
+}

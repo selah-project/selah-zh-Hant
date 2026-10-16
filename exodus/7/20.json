@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 7:20",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "亞倫",
+      "rationale": "וירם 的主語未寫明，中文需補出（亞倫，承上節命令）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יאר",
+      "rationale": "יאר 專指尼羅河，譯作「河」"
+    }
+  ],
+  "translation": "摩西和亞倫就照雅威所吩咐的行了：亞倫舉起杖，擊打河裡的水，是在法老眼前和他臣僕眼前行的；河裡所有的水都變為血了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "daf180bc78bba41581e5725c4cfc07b05a2cd26ef0a949ff6240a5ea26456c0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/7\/17-20.1792125813187.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "就行了"
+    },
+    {
+      "surface": "כן",
+      "gloss": "如此"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "和亞倫"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "所吩咐的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "舉起"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "杖"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "擊打"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "眾水"
+    },
+    {
+      "surface": "המים",
+      "gloss": "眾水"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〈那〉"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "在河裡"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "在……眼前"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ולעיני",
+      "gloss": "以及在……眼前"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "他的臣僕"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "都變為"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "המים",
+      "gloss": "眾水"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〈那〉"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "在河裡"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "血"
+    }
+  ],
+  "timestamp": "2026-10-16T04:43:33.189742772Z",
+  "model": "glm-5.3"
+}

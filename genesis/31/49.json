@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "genesis 31:49",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מצפה／יצף",
+      "rationale": "「米斯巴」與「守望」同根雙關：守望堆由此得名，中文無法保留。"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "關係詞אשר以破折號融入譯文，無獨立詞位。"
+    },
+    {
+      "kind": "you",
+      "subject": "你我",
+      "rationale": "拉班對雅各說話中的引語，直接指涉立約雙方。"
+    }
+  ],
+  "translation": "還有米斯巴——他曾說：「願雅威在你我之間守望」，因為我們各人躲開他的同伴，彼此不得相見。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "317cd7c00d79cb25dc344134d061126f9856f704a07bbc3c40a6d7d81d26c17c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/31\/49-52.1792125254696.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "還有米斯巴"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "——"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "他曾說"
+    },
+    {
+      "surface": "יצף",
+      "gloss": "願……守望"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "在你我之間"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "（與你之間）"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "躲開"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "他的同伴"
+    }
+  ],
+  "timestamp": "2026-10-16T04:34:14.696821257Z",
+  "model": "glm-5.3"
+}

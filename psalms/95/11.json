@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "原文僅有條件詞『若』，誓言的本句未寫出（『若他們進入我的安息——』）；傳統譯法補上否定『斷不得』"
+    },
+    {
+      "kind": "substitution",
+      "subject": "在怒中",
+      "rationale": "באפי 字面是『在我的鼻孔／鼻息中』，即烈怒"
+    }
+  ],
+  "translation": "所以我在怒中起誓說：他們斷不得進入我的安息。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "31ad06238abde40becff53422bc1a7a4603b320c8617d2636113f0bd59aad6f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/95\/9-11.1792144482817.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "所以"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "我起了誓"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "在怒中"
+    },
+    {
+      "surface": "אם",
+      "gloss": "斷不"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "進入"
+    },
+    {
+      "surface": "אל",
+      "gloss": "進到"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "我的安息"
+    }
+  ],
+  "timestamp": "2026-10-16T09:54:42.818225918Z",
+  "model": "glm-5.3"
+}

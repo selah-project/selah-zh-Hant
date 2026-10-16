@@ -1,0 +1,164 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 8:30",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "它",
+      "rationale": "中文需明示被彈的油與血，希伯來文動詞直接及物"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משחה／ויקדש",
+      "rationale": "膏油（משחה）與成聖（קדש）並列，承接聖職禮中受膏與分別為聖相扣"
+    }
+  ],
+  "translation": "摩西取了膏油，和壇上的血，彈在亞倫身上、他的衣服上，並他兒子和他兒子的衣服上 ⟨אתו⟩；他使亞倫成聖，⟨את⟩ 他的衣服、⟨את⟩ 他兒子、和 ⟨את⟩ 他兒子的衣服 ⟨אתו⟩ 也都成聖。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e9c0a9c7556e10711889309311c8d321d46ad6f63b7b54de6293c9e889d8e556",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/8\/29-32.1792126894777.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "取了"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "從油"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "膏（膏油）"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "和從"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "壇"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "彈"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "他的衣服"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "和在……上"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "他兒子"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "和在……上"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "……的衣服"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "他兒子"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "與他一起"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "使成聖"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞倫"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的衣服"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "他的衣服"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "他兒子"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "他兒子"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "他兒子的衣服"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "……的衣服"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "他兒子"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "與他一起"
+    }
+  ],
+  "timestamp": "2026-10-16T05:01:34.778277683Z",
+  "model": "glm-5.3"
+}

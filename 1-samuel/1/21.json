@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זבח הימים",
+      "rationale": "「日子之祭」：年年所獻的常祭（年祭）與「定期之祭」兩讀；此處取年祭。"
+    },
+    {
+      "kind": "elision",
+      "subject": "לזבח",
+      "rationale": "不定式附屬於動詞「上去」，中文以「要……獻」併合。"
+    }
+  ],
+  "translation": "那人以利加拿大和他全家上去，要向雅威獻 ⟨את⟩ 年終的祭和 ⟨את⟩ 他的願。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c1a920e5236a995b76c510b221881da36cd0842f0b46eba75e624cf23daf9e80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/1\/21-24.1792130776813.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "上去"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "那人"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "以利加拿大"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和……全"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "他的家"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "獻祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "年終的祭"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "祭"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "年終"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "他的願"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "他的願"
+    }
+  ],
+  "timestamp": "2026-10-16T06:06:16.814448386Z",
+  "model": "glm-5.3"
+}

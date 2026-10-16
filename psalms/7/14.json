@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 7:14",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לדלקים",
+      "rationale": "可讀作「焚燒的箭」（如 ASV「fiery shafts」）或「使箭燃燒者」（如 KJV「對迫害者」）；此處取分詞「焚燒的人／追逼者」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יפעל",
+      "rationale": "「慣常製作」譯作「製作」，習慣性語氣不顯"
+    }
+  ],
+  "translation": "他為⟨自己⟩預備了死亡的器具；他的箭為追逼者磨利，向焚燒的人製作。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cde8a333cd66e7f1e6340b4957c7a2c26ead845377c63444c6458b18cbe08ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/7\/13-16.1792143235473.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "並為他自己"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "預備"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器具"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死亡"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "他的箭"
+    },
+    {
+      "surface": "לדלקים",
+      "gloss": "為焚燒的人"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "製作"
+    }
+  ],
+  "timestamp": "2026-10-16T09:33:55.473887855Z",
+  "model": "glm-5.3"
+}

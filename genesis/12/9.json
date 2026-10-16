@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הלוך ונסוע",
+      "rationale": "不定詞疊用表持續動作：「行走又遷移」，中文以「一路…一路…」補足韻律"
+    },
+    {
+      "kind": "substitution",
+      "subject": "南地",
+      "rationale": "הנגבה 兼指「南方」與專名「內蓋夫（南地）」，此處取地名義"
+    }
+  ],
+  "translation": "於是亞伯蘭起行，一路行走、一路遷移，往南地去。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "596020d65f7a38f423404b9cf007f7e5e44b919d107830cf17094fec29cbb118",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/12\/9-12.1792124719147.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "起行"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "亞伯蘭"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "一路行走"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "一路遷移"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "往南地"
+    }
+  ],
+  "timestamp": "2026-10-16T04:25:19.148036920Z",
+  "model": "glm-5.3"
+}

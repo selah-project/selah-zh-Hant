@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "毒氣",
+      "rationale": "חמת 本義是「熱／怒氣」，此處指蛇毒的灼熱；英文 venom 同樣是引申"
+    },
+    {
+      "kind": "hapax",
+      "subject": "יאטם",
+      "rationale": "אטם（塞住耳）在此為少見用法，與窗框收窄同根"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חמת……חמת",
+      "rationale": "「毒氣如……毒氣」的重複，中文保留同詞重複"
+    }
+  ],
+  "translation": "他們的毒氣如蛇的毒氣，像耳聾的毒蛇塞住耳朵。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "eb817a6b037371ddaaf7bf83a2a4b6b8f71815d55c3ab7cafac572118ebca6f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/58\/5-8.1792143963070.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "毒氣"
+    },
+    {
+      "surface": "למו",
+      "gloss": "他們的"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "如……的樣子"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "毒氣"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "蛇"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "像"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "毒蛇"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "耳聾的"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "塞住"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "耳朵"
+    }
+  ],
+  "timestamp": "2026-10-16T09:46:03.070677020Z",
+  "model": "glm-5.3"
+}

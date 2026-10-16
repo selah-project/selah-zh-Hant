@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ערום",
+      "rationale": "ערום在此是褒義的『精明』，與創世記3:10貶義的『赤裸』同字不同元音"
+    },
+    {
+      "kind": "idiom",
+      "subject": "עברו",
+      "rationale": "『經過』直譯保留：愚蒙人視而不見地走過去，未加『不理會』等意譯"
+    }
+  ],
+  "translation": "精明人看見災禍就躲藏；愚蒙人逕直經過，就受罰。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "da30ecec23518da05e20c566ab391ef5a453dbaa5d01661c9410f34e9853b227",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/22\/1-4.1792145571667.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "精明人"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "災禍"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "就躲藏"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "而愚蒙人"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "經過"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "就受罰"
+    }
+  ],
+  "timestamp": "2026-10-16T10:12:51.668010714Z",
+  "model": "glm-5.3"
+}

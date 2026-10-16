@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יחילו",
+      "rationale": "字根是「旋轉、扭動」，指如產婦般的劇痛；中譯「痛苦扭動」保留身體圖像"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כאשר…כשמע",
+      "rationale": "「正如埃及的消息…照樣推羅的消息」對稱結構；另一讀法以כשמע צר為主句、כאשר שמע למצרים為比較從句，譯文採後者"
+    }
+  ],
+  "translation": "這消息傳到埃及，他們就痛苦扭動；他們聽見關於推羅的消息，也必如此痛苦。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b030b627e81fb13577fe4686e57f275d962c51a2c9c6d0b292258da7b19b67b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/23\/5-8.1792135006381.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "當"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "消息"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "傳到埃及"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "他們就痛苦扭動"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "如同聽見"
+    },
+    {
+      "surface": "צר",
+      "gloss": "推羅的消息"
+    }
+  ],
+  "timestamp": "2026-10-16T07:16:46.382513854Z",
+  "model": "glm-5.3"
+}

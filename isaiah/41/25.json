@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 41:25",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "一位",
+      "rationale": "希伯來文動詞未指明受詞，中文需補出「一位」"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מצפון",
+      "rationale": "多數譯本作「從北方（興起一位）」，直譯「我從北方激起了」，未言明所激起的對象"
+    },
+    {
+      "kind": "hapax",
+      "subject": "סגנים",
+      "rationale": "省長／官員一詞於此段挑戰偶像的語境中指列國的掌權者"
+    }
+  ],
+  "translation": "我從北方激起了〈一位〉，他就來到；從日出之處他呼求我的名。他必臨到省長們，如臨到泥漿；又如陶匠踐踏黏土。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a09f07d396d533f7285340e02f5f4ad4ca0be6e152799e9cc41cde617b223b18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/41\/25-28.1792135447620.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העירותי",
+      "gloss": "我激起了"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "從北方"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "他就來到"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "從日出之處"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "他呼求"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "我的名"
+    },
+    {
+      "surface": "ובא",
+      "gloss": ""
+    },
+    {
+      "surface": "סגנים",
+      "gloss": "省長們"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "如"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "泥漿"
+    },
+    {
+      "surface": "וכמו",
+      "gloss": "又如"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "陶匠"
+    },
+    {
+      "surface": "ירמס",
+      "gloss": "踐踏"
+    },
+    {
+      "surface": "טיט",
+      "gloss": "黏土"
+    }
+  ],
+  "timestamp": "2026-10-16T07:24:07.621332246Z",
+  "model": "glm-5.3"
+}

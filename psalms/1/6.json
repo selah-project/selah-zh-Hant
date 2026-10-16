@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יודע",
+      "rationale": "「認識」還是「看顧／保守」：JPS 譯 regardeth，BSB 譯 guards；字面是雅威認識（以親密的知）義人的路"
+    },
+    {
+      "kind": "substitution",
+      "subject": "必滅亡",
+      "rationale": "אבד 字面是「迷失流浪而滅亡」，譯作滅亡取其果"
+    },
+    {
+      "kind": "addition",
+      "subject": "卻",
+      "rationale": "中文以「卻」表對比，希伯來僅以 ו 並列"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרך…ודרך",
+      "rationale": "「道路」一詞重複對舉，義人與惡人各有一條路，結構對稱"
+    }
+  ],
+  "translation": "因為雅威認識義人的道路，惡人的道路卻必滅亡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7e04e106a071e4805e985b8f507baa435d69de80961220bb5df2be62ecdb2450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/1\/5-6.1792143176143.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "認識"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道路"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義人的"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "惡人的道路卻"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "必滅亡"
+    }
+  ],
+  "timestamp": "2026-10-16T09:32:56.144655530Z",
+  "model": "glm-5.3"
+}

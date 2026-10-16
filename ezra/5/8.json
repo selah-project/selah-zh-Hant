@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 5:8",
+  "book": "ezra",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אבן גלל",
+      "rationale": "גלל 字面為『滾圓之物／重量』，或作『大石』，或作『未鑿的滾石』；譯本分歧"
+    },
+    {
+      "kind": "substitution",
+      "subject": "以羅阿",
+      "rationale": "亞蘭文 אלהא 即『神』；外邦官員奏文中仍按 D1 表音譯為以羅阿"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בידהם",
+      "rationale": "『在他們手中』意為在他們的權下、由他們經手"
+    }
+  ],
+  "translation": "願王知道：我們去了猶大省，到了那大以羅阿的殿；那殿正用大石建造，木料安放在牆內；這工程進行得殷勤，在他們手中順利。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c12269a154ee8906e589cd04b1fe162a19b41ca4dea296c6068b0a519771fd0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/5\/5-8.1792147837745.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידיע",
+      "gloss": "願…知道"
+    },
+    {
+      "surface": "להוא",
+      "gloss": "（是）"
+    },
+    {
+      "surface": "למלכא",
+      "gloss": "王"
+    },
+    {
+      "surface": "די",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אזלנא",
+      "gloss": "我們去了"
+    },
+    {
+      "surface": "ליהוד",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "מדינתא",
+      "gloss": "省"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "到…殿"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "以羅阿"
+    },
+    {
+      "surface": "רבא",
+      "gloss": "大"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "而它"
+    },
+    {
+      "surface": "מתבנא",
+      "gloss": "正被建造"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "石"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "大的（滾圓的石）"
+    },
+    {
+      "surface": "ואע",
+      "gloss": "而木料"
+    },
+    {
+      "surface": "מתשם",
+      "gloss": "被安放"
+    },
+    {
+      "surface": "בכתליא",
+      "gloss": "在牆內"
+    },
+    {
+      "surface": "ועבידתא",
+      "gloss": "而這工程"
+    },
+    {
+      "surface": "דך",
+      "gloss": "這"
+    },
+    {
+      "surface": "אספרנא",
+      "gloss": "殷勤地"
+    },
+    {
+      "surface": "מתעבדא",
+      "gloss": "進行"
+    },
+    {
+      "surface": "ומצלח",
+      "gloss": "而順利"
+    },
+    {
+      "surface": "בידהם",
+      "gloss": "在他們手中"
+    }
+  ],
+  "timestamp": "2026-10-16T10:50:37.746900114Z",
+  "model": "glm-5.3"
+}

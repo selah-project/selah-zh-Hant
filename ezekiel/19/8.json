@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 19:8",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פרש רשת",
+      "rationale": "「張網」為狩獵慣用語，指設陷阱捕捉，中文同取狩獵意象"
+    },
+    {
+      "kind": "addition",
+      "subject": "捕捉",
+      "rationale": "「在他們的坑中」隱含捕捉動作，中文補出以成句"
+    }
+  ],
+  "translation": "列國從四圍的省份起來攻擊牠，在他們的坑中張開網羅捕捉，牠就被捉住了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1da2ff61c81e6a171a547f8fd2a4dced5eda83ff3b8fc3d9ad5113e43e8450b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/19\/5-8.1792138351376.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "起來攻擊"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "攻擊牠"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "ממדינות",
+      "gloss": "的省份"
+    },
+    {
+      "surface": "ויפרשו",
+      "gloss": "張開"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "在牠上面"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "他們的網羅"
+    },
+    {
+      "surface": "בשחתם",
+      "gloss": "在他們的坑中"
+    },
+    {
+      "surface": "נתפש",
+      "gloss": "被捉住了"
+    }
+  ],
+  "timestamp": "2026-10-16T08:12:31.377377215Z",
+  "model": "glm-5.3"
+}

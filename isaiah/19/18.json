@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 19:18",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "חמש ערים",
+      "rationale": "五座城的具體數目，與18–25節的「那日」預言系列相連。"
+    },
+    {
+      "kind": "crux",
+      "subject": "עיר ההרס",
+      "rationale": "「毀滅之城」（חרץ）對比部分抄本作「太陽之城」（חרס，即赫利奧波利斯）；本譯按馬所拉文本。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ההרס\/חרס",
+      "rationale": "毀滅（הרס）與太陽（חרס）子音幾乎相同，僅一字之差，中文無法保留。"
+    }
+  ],
+  "translation": "在那日，埃及地必有五座城說迦南的言語，向萬軍之雅威起誓；其中一座必稱為毀滅之城。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6a6d5def9daf684510e9387bb73286d487478760a9f0eefaea43836498c30d74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/19\/18-20.1792142580646.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "在那日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "那"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "必有"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "座城"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在……地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "מדברות",
+      "gloss": "說"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "言語"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南的"
+    },
+    {
+      "surface": "ונשבעות",
+      "gloss": "起誓"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "萬軍之"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "之城"
+    },
+    {
+      "surface": "ההרס",
+      "gloss": "毀滅"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "必稱為"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "其中一座"
+    }
+  ],
+  "timestamp": "2026-10-16T09:23:00.646862239Z",
+  "model": "glm-5.3"
+}

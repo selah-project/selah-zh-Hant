@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "登基年歲",
+      "rationale": "「一歲之子」在文本上不可能按字面理解；原文數字似有闕失，歷代譯本或補「四十歲」（七十士譯本傳統）或留白（JPS）；此處照字面直譯，不補數字。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "בן־שנה שאול",
+      "rationale": "掃羅登基年歲在整卷撒母耳記中僅此一處提及，且字面數字受損，是著名的文本難題。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "兩年",
+      "rationale": "本節記載作王年數，屬年代計數。"
+    }
+  ],
+  "translation": "掃羅登基時是一歲之子，作以色列王兩年。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2f7e84a9cb99cec7e36f8004026ee01a6382e940552f68786aba854d03395cc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/13\/1-4.1792131047074.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "之子"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "一歲"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "登基時"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "兩"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "作王"
+    },
+    {
+      "surface": "על",
+      "gloss": "治理"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T06:10:47.075319810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "縉默\/靜默",
+      "rationale": "חרש字面是「聾」，חשה是「閉聲」，兩個不同的動詞譯作近義詞"
+    },
+    {
+      "kind": "alternative",
+      "subject": "חרש",
+      "rationale": "可譯「不要向我裝聾」，ASV取此義"
+    },
+    {
+      "kind": "you",
+      "subject": "to 雅威",
+      "rationale": "詩人直接向雅威呼求"
+    }
+  ],
+  "translation": "大衛的詩。雅威啊，我向你呼求；我的磐石啊，不要向我緘默，免得你靜默不言，我就如同下坑的人一樣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "eb3f4f252bb359ff9fdb16a2681476aec7732d081f81c05ff2e41348fc5a2108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/28\/1-4.1792143522191.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的詩"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "我呼求"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "我的磐石"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "緘默"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "向我"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "靜默不言"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "向我"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "我就如同"
+    },
+    {
+      "surface": "עם",
+      "gloss": "與"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "下……的人"
+    },
+    {
+      "surface": "בור",
+      "gloss": "坑"
+    }
+  ],
+  "timestamp": "2026-10-16T09:38:42.192364053Z",
+  "model": "glm-5.3"
+}

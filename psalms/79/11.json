@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בני תמותה",
+      "rationale": "直譯「死亡之子」；傳統譯「將死之人」或「被判死刑的人」"
+    },
+    {
+      "kind": "crux",
+      "subject": "הותר",
+      "gloss": "׀",
+      "rationale": "由 יתר「使餘留」而來，有「存留」與「釋放」兩讀；KJV 取 preserve，JPS 取 set free"
+    },
+    {
+      "kind": "hapax",
+      "subject": "תמותה",
+      "rationale": "此名詞形式在塔納赫中僅見於此節"
+    }
+  ],
+  "translation": "願被囚之人的哀歎達到你面前；照你膀臂的偉大，存留那注定死亡之子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "edf39761c57cdfb835e9bdffc14709e5c682091683f7a2016cd8716bf8408884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/79\/9-12.1792144348642.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "願…達到"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "到你面前"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "哀歎"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "被囚之人"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "照…的偉大"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "你膀臂"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "存留"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…之子"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "死亡"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:28.643667718Z",
+  "model": "glm-5.3"
+}

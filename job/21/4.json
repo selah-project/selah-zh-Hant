@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 21:4",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תקצר רוחי",
+      "rationale": "字面「我的靈變短」；和合本「煩亂」、KJV「troubled」、ASV「impatient」——短＝失去忍耐，各譯本取意不同"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שיחי",
+      "rationale": "שיח 字面是沉思、喃喃自語，此處作名詞「傾訴、抱怨」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לאדם \/ תקצר",
+      "rationale": "修辭反問：向人抱怨尚可忍耐不語，何況向以羅欣——反問的邏輯在中文需以「若是這樣」補明"
+    }
+  ],
+  "translation": "難道我是向人傾訴嗎？若是這樣，為何我的魯阿（靈）不焦急呢？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "00383db06d87a353184e16c3989535e4efefd019966bf275390595b339761e57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/21\/1-4.1792146197543.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האנכי",
+      "gloss": "難道我"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "向人"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "我的傾訴"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "若是這樣"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "為何"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "焦急"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "我的魯阿（靈）"
+    }
+  ],
+  "timestamp": "2026-10-16T10:23:17.544563635Z",
+  "model": "glm-5.3"
+}

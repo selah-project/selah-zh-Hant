@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "的、必",
+      "rationale": "中文需關係詞「的」與語氣詞「必」將分詞短語轉為主句，希伯來文無此字"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעה…רעה",
+      "rationale": "「惡」在首尾重複——以惡回報者，惡不離其家；中文保留同字重複"
+    }
+  ],
+  "translation": "以惡報善的，惡必不離開他的家。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "49cf30c49e5983802515b6efae6cbbe4f2e20687998b92c56f49e8cf74c39b79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/17\/13-16.1792145466057.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "以惡報善的"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "惡"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "報"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "善"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "離開"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "惡"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "他的家"
+    }
+  ],
+  "timestamp": "2026-10-16T10:11:06.057801156Z",
+  "model": "glm-5.3"
+}

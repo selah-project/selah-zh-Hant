@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רצון",
+      "rationale": "「רצון」（喜悅／恩慈）可作：（一）雅威以恩慈滿足活物（JPS）；（二）滿足活物所願望的（KJV）——兩讀皆通"
+    },
+    {
+      "kind": "addition",
+      "subject": "滿得",
+      "rationale": "רצון 為名詞單用，中文補動詞性短語以成句"
+    }
+  ],
+  "translation": "你張開 ⟨את⟩ 你的手，使每一活物得享飽足，滿得恩慈。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "182428ec6198e09165699b61781f8c5b05fe3a768ba0af602c8cdfb469c66174",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/145\/13-16.1792145108604.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "張開"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的手"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "使……得享飽足"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "每一"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活物"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "滿得恩慈"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:08.605444566Z",
+  "model": "glm-5.3"
+}

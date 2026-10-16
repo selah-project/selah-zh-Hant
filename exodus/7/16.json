@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 7:16",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "使他們",
+      "rationale": "ויעבדני的「他們」（未寫出的主語）由中文代詞補出"
+    },
+    {
+      "kind": "you",
+      "subject": "to 法老",
+      "rationale": "全節為摩西對法老的直接講話"
+    }
+  ],
+  "translation": "你要對他說：「希伯來人的以羅欣雅威差遣我到你這裡，說：放我的百姓走，使他們在曠野事奉我；看哪，直到如今你還是不聽。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a41985a78c59855819ad5368afb7a91ea5edbfcb519264cce958c7079d4336f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/7\/13-16.1792125782047.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "你要說"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "希伯來人的"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "差遣我"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "到你這裡"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "放……走"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的百姓"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "使他們事奉我"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "在曠野"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "你聽"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "כה",
+      "gloss": "如今"
+    }
+  ],
+  "timestamp": "2026-10-16T04:43:02.049207045Z",
+  "model": "glm-5.3"
+}

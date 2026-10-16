@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 10:3",
+  "book": "esther",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "次位",
+      "rationale": "משנה 本義是「重複、第二」，指王的第二人；「次位／第二位」保留其形"
+    },
+    {
+      "kind": "substitution",
+      "subject": "和平的話",
+      "rationale": "שלום 是完整、安好之意，非僅停戰；「和平的話」取其寬義"
+    },
+    {
+      "kind": "addition",
+      "subject": "的話",
+      "rationale": "דבר 作動詞需賓語，中文補「話」以成句"
+    }
+  ],
+  "translation": "因為猶大人末底改作亞哈隨魯王的次位，在猶大人中為大，得眾多弟兄的喜悅，為他的百姓尋求福祉，向全族後裔說和平的話。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "29b796585a0543d16a5c2b1a9929059f852632dde09f023113bf3667d50739a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/esther\/10\/1-3.1792147288139.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "末底改"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "猶大人"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "次位"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王的"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "亞哈隨魯"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "為大"
+    },
+    {
+      "surface": "ליהודים",
+      "gloss": "在猶大人中"
+    },
+    {
+      "surface": "ורצוי",
+      "gloss": "得……喜悅"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "眾多"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "弟兄"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "尋求"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "福祉"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "為他的百姓"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "說"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "和平的話"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "向全"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "族後裔"
+    }
+  ],
+  "timestamp": "2026-10-16T10:41:28.140674758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שם לבו",
+      "rationale": "「把心放在」是希伯來成語，意為留意、重視；字面直譯保留心（לב）的意象。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "牲畜",
+      "rationale": "מקנה字面是「購得之物／產業」，此處專指牲畜。"
+    }
+  ],
+  "translation": "至於那不把心放在雅威話語上的人，就撇下 ⟨את⟩ 他的僕人和 ⟨את⟩ 他的牲畜在田間。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "08bc680eecd36e6978cefc52918c87c0f4455ac0bb42b0809dc59ade6038ef51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/9\/21-24.1792125896239.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "至於那"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "שם",
+      "gloss": "放"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "他的心"
+    },
+    {
+      "surface": "אל",
+      "gloss": "在…上"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話語"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "就撇下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的僕人"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "他的僕人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "他的牲畜"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "他的牲畜"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "在田間"
+    }
+  ],
+  "timestamp": "2026-10-16T04:44:56.240344922Z",
+  "model": "glm-5.3"
+}

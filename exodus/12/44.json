@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "你",
+      "rationale": "ומלתה的第二人稱單數詞尾，中文以「你」標出割禮的執行者"
+    },
+    {
+      "kind": "crux",
+      "subject": "割禮為門檻",
+      "rationalé": "家中買來的奴僕受了割禮便可同吃逾越節羊羔——盟約的記號而非血統決定席次"
+    }
+  ],
+  "translation": "但各人用銀子買來的奴僕，你給⟨את⟩他行了割禮之後，他才可以吃。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5596905f1927ef92250bc865a60405ee08d894b08fda6dfc6bf35fcfd44931f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/12\/41-44.1792125936569.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "但各"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "איש",
+      "gloss": "…人的"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "買來的"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "用銀子"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "你給…行了割禮"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "他（受割禮的奴僕）"
+    },
+    {
+      "surface": "אז",
+      "gloss": "之後才"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "可以吃"
+    },
+    {
+      "surface": "בו",
+      "gloss": "它"
+    }
+  ],
+  "timestamp": "2026-10-16T04:45:36.570957108Z",
+  "model": "glm-5.3"
+}

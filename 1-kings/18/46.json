@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 18:46",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "身上",
+      "rationale": "中文需要「臨到……身上」以成句，希伯來文為「雅威的手在以利亞身上」"
+    },
+    {
+      "kind": "idiom",
+      "subject": "יד יהוה",
+      "rationale": "「雅威的手」是能力臨及的慣用語，字面保留"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ועד באכה",
+      "rationale": "「直到你進入耶斯列」，第二人稱後綴 כה；中文以「直到進入」泛指，KJV 譯「直到耶斯列的入口」"
+    }
+  ],
+  "translation": "雅威的手臨到以利亞身上；他束緊了腰，就在亞哈前頭奔跑，直到進入耶斯列。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7d8d05286b598b2c2bd4263309cc5a556c20946576d60b7a284db65fc9346a66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/18\/45-46.1792133247034.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "以利亞"
+    },
+    {
+      "surface": "וישנס",
+      "gloss": "束緊了"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "腰"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "奔跑"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在前頭"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "進入"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "耶斯列"
+    }
+  ],
+  "timestamp": "2026-10-16T06:47:27.035029877Z",
+  "model": "glm-5.3"
+}

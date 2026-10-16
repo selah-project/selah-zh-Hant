@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "壓低",
+      "rationale": "כנע 字面是屈膝、使卑屈；「壓低他們的心」即以勞苦使他們降卑"
+    },
+    {
+      "kind": "alternative",
+      "subject": "他們絆倒",
+      "rationale": "כשל 字面是腳步蹣跚、腿軟搖晃，亦可譯「他們衰弱」"
+    }
+  ],
+  "translation": "他就用勞苦壓低他們的心；他們絆倒，卻無人幫助。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fa2b43ed24c66df6cd26b57e8a2bfa3111682000e5d407cf23a768b653f78263",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/107\/9-12.1792144643284.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "他就……壓低"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "用勞苦"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "他們的心"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "他們絆倒"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "卻無"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "幫助"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:23.285327233Z",
+  "model": "glm-5.3"
+}

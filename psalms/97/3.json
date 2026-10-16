@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "燒盡",
+      "rationale": "תלהט字面是「舔」——火如舌舔食，中文以「燒盡」表達"
+    }
+  ],
+  "translation": "有火在⟨他⟩面前行走，燒盡他四圍的仇敵。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6132a85d5aeea181f6f17975a173e10a5836314319f892a36c13ee769dc04cf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/97\/1-4.1792144508475.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "在他面前"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "行走"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "燒盡"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "他的仇敵"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:08.476462447Z",
+  "model": "glm-5.3"
+}

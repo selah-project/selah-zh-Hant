@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אשר",
+      "gloss": "關係代詞「那……的人」，譯作「誰」以合中文挑戰語句"
+    },
+    {
+      "kind": "addition",
+      "subject": "它",
+      "rationale": "ולכדה 的後綴代詞，中文以「它」明示賓語"
+    }
+  ],
+  "translation": "迦勒說：「誰擊敗 ⟨את⟩ 基列西弗並奪取它，我就把 ⟨את⟩ 我的女兒押撒給他為妻。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "736ac4d67e767c7d1e33ea1fa4642e4c995e12a11f0029d4c91643b5ad935348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/1\/9-12.1792130005342.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "迦勒"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "誰"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "擊敗"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "基列西弗"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "基列"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "西弗"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "奪取"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "我就把……給"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "押撒"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "押撒"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "我的女兒"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "為妻"
+    }
+  ],
+  "timestamp": "2026-10-16T05:53:25.343778549Z",
+  "model": "glm-5.3"
+}

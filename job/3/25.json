@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחד／פחדתי",
+      "rationale": "同根名詞與動詞並置「恐懼，我恐懼了」，中文保留同詞重複以存其音"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨臨到⟩",
+      "rationale": "中文需補動詞使「來到我」語意完整"
+    }
+  ],
+  "translation": "因為恐懼——我恐懼了，它就臨到我；我所驚怕的，也來到 ⟨臨到⟩ 我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6e7764243e26ee22cc3f271ded1838f4fd052e8100db71fb5abfe64c7f891ec2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/3\/25-26.1792145746864.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "恐懼"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "我恐懼了"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "它就臨到我"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "而……的"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "我所驚怕的"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "לי",
+      "gloss": "臨到我"
+    }
+  ],
+  "timestamp": "2026-10-16T10:15:46.865038557Z",
+  "model": "glm-5.3"
+}

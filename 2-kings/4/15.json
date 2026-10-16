@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "再叫她來",
+      "rationale": "קרא לה 是單純命令「叫她」；「再」是依上下文（4:12 已叫過一次）補出的語境詞。"
+    }
+  ],
+  "translation": "他說：「再叫她來。」他就叫了她，她就站在門口。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "755f744b76d743d2fa845fc6b92a3ee60956766f0dc7df1aad3bc264bbcbaf6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/4\/13-16.1792133590114.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "叫"
+    },
+    {
+      "surface": "לה",
+      "gloss": "她"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "他就叫了"
+    },
+    {
+      "surface": "לה",
+      "gloss": "她"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "她就站"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "在門口"
+    }
+  ],
+  "timestamp": "2026-10-16T06:53:10.115379191Z",
+  "model": "glm-5.3"
+}

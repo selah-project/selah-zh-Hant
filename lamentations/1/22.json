@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 1:22",
+  "book": "lamentations",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文補「是」並以〈〉標記"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עולל",
+      "rationale": "原意為「拾取、徹底施行」，此處譯為「對付」以存其處置之意"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעה\/פשע",
+      "rationale": "「他們的惡」（רעתם）對「我的過犯」（פשעי）——同一詞根 עולל 重複兩次，審判以其人之道還治其人"
+    }
+  ],
+  "translation": "願他們一切的惡都臨到你面前；求你對付他們，像你因我一切的過犯對付我一樣；因為我的歎息甚多，我的心〈是〉病了的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c2b80fac926c5eb96fbc8b3a9bab9972ff4da01577434f25f4d5a5c1c4473632",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/lamentations\/1\/21-22.1792146699866.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תָּבֹ֨א",
+      "gloss": "願臨到"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "רָעָתָ֤ם",
+      "gloss": "惡"
+    },
+    {
+      "surface": "לְפָנֶ֨יךָ֙",
+      "gloss": "你面前"
+    },
+    {
+      "surface": "וְעוֹלֵ֣ל",
+      "gloss": "求你對付"
+    },
+    {
+      "surface": "לָ֔מוֹ",
+      "gloss": "他們"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֥ר",
+      "gloss": "像"
+    },
+    {
+      "surface": "עוֹלַ֛לְתָּ",
+      "gloss": "你對付"
+    },
+    {
+      "surface": "לִ֖י",
+      "gloss": "我"
+    },
+    {
+      "surface": "עַ֣ל",
+      "gloss": "因"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "פְּשָׁעָ֑י",
+      "gloss": "過犯"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "רַבּ֥וֹת",
+      "gloss": "甚多"
+    },
+    {
+      "surface": "אַנְחֹתַ֖י",
+      "gloss": "我的歎息"
+    },
+    {
+      "surface": "וְלִבִּ֥י",
+      "gloss": "我的"
+    },
+    {
+      "surface": "דַּוָּֽי",
+      "gloss": "心是病了的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:31:39.867962051Z",
+  "model": "glm-5.3"
+}

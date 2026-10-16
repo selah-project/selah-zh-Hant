@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "על פרשה",
+      "rationale": "「在其糞之上」各譯本作 with her dung 或 besides her dung（ylt 譯「連糞之外」）；此處隨主流作「連同牠的糞」"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לעיניו",
+      "rationale": "「在他眼前」的「他」指以利亞撒祭司（19:4 的執行者），中文需加代名詞表明"
+    }
+  ],
+  "translation": "他要在自己眼前焚燒 ⟨את⟩ 那母牛——⟨את⟩ 牠的皮、⟨את⟩ 牠的肉、⟨את⟩ 牠的血，連同牠的糞一同焚燒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e70f3ed59731a28b354395c39521a65554b80d7f87bfc453e077213f9b29416e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/19\/5-8.1792127985796.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "焚燒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那母牛"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "那母牛"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "在他眼前"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "牠的皮"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "牠的皮"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "牠的肉"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "牠的肉"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "牠的血"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "牠的血"
+    },
+    {
+      "surface": "על",
+      "gloss": "連同"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "牠的糞"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "一同焚燒"
+    }
+  ],
+  "timestamp": "2026-10-16T05:19:45.796832175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 14:1",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "了／有一",
+      "rationale": "中文需要時間框架詞，希伯來文只說「那日發生」"
+    },
+    {
+      "kind": "secret",
+      "subject": "未告訴父親",
+      "rationale": "約拿單的行動對掃羅隱藏，情節以隱密推進"
+    },
+    {
+      "kind": "invitation",
+      "subject": "來吧",
+      "rationale": "約拿單以命令式邀請少年人同行"
+    }
+  ],
+  "translation": "有一天，掃羅的兒子約拿單對抬他兵器的少年人說：「來吧，我們過到那邊的非利士人營寨那裡去。」他並沒有告訴他父親。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f3f239d979def61dfaad2a9f51b974d0d853c812f13eba13dc1898ace168f51e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/14\/1-4.1792131059301.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生了"
+    },
+    {
+      "surface": "היום",
+      "gloss": "有一天"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "少年人"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "抬"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "他的兵器"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "來吧"
+    },
+    {
+      "surface": "ונעברה",
+      "gloss": "我們過到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "營寨"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "對面"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "那一邊"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "他父親"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "告訴"
+    }
+  ],
+  "timestamp": "2026-10-16T06:10:59.302282703Z",
+  "model": "glm-5.3"
+}

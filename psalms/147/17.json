@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כפתים",
+      "rationale": "僅見於此處；和合本譯「碎渣」，或作小塊食物"
+    },
+    {
+      "kind": "crux",
+      "subject": "קרתו",
+      "rationale": "僅此處，譯作「他的寒冷」；或作冰雹之名"
+    }
+  ],
+  "translation": "他拋下冰如碎塊；他寒冷的氣息面前，誰能站立呢？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4589482b212d111c5e480abc4637813234e773414154ac4a2f9cd7ae1bc7d3ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/147\/17-20.1792145131749.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "他拋下"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "冰"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "如碎塊"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "他寒冷的氣息"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "能站立"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:31.750409356Z",
+  "model": "glm-5.3"
+}

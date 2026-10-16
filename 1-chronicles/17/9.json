@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 17:9",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "不義之子",
+      "rationale": "בני עולה 直譯「不義之子」，是希伯來習語指惡人、壓迫者"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨他⟩",
+      "gloss_note": "",
+      "rationale": "原文代詞附於動詞（ונטעתיהו），中文以「他」指以色列單數集體用法"
+    }
+  ],
+  "translation": "我必為我的民以色列安置一個地方，栽種⟨他⟩，使他住在自己的地方，不再驚惶；不義之子也不再像起初那樣消耗他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c38e68cae1293cc5cde40c214ebcc71b69d926a17a32f6dcbf8cf55fc953d0b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/17\/9-12.1792148859025.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "我必安置"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "一個地方"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "為我的民"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ונטעתיהו",
+      "gloss": "栽種他"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "使他住"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "在自己的地方"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ירגז",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不再"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "必繼續"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…之子"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "不義"
+    },
+    {
+      "surface": "לבלתו",
+      "gloss": "消耗他"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "像"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "起初那樣"
+    }
+  ],
+  "timestamp": "2026-10-16T11:07:39.025954486Z",
+  "model": "glm-5.3"
+}

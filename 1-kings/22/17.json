@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 22:17",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "去吧",
+      "rationale": "中文使役句需要語氣詞，希伯來文僅用動詞形 ישובו 表達"
+    },
+    {
+      "kind": "crux",
+      "subject": "אדנים",
+      "rationale": "複數「主人們」：指亞哈陣亡後眾人失去君王；和合本作「沒有主人」"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列王與約沙法",
+      "rationale": "米該雅對王室的直接陳述，暗指亞哈必死"
+    }
+  ],
+  "translation": "他說：「我看見 ⟨את⟩ 全以色列分散在眾山上，如同沒有牧人的羊群。」雅威說：「這些人沒有主人，讓他們各自平平安安回自己的家去吧。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "477899560a713bf453efa19dd0f3dfc0666ed18185d909e401f6f01f6fcf3272",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/22\/17-20.1792133461684.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全以色列"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "נפצים",
+      "gloss": "分散"
+    },
+    {
+      "surface": "אל",
+      "gloss": "在"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "眾山上"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "如同羊群"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "להם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "牧人"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "有主人"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "這些人"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "讓他們回"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各自"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "回自己的家"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "平平安安"
+    }
+  ],
+  "timestamp": "2026-10-16T06:51:01.685791410Z",
+  "model": "glm-5.3"
+}

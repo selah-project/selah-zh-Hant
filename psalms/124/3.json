@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אפם",
+      "rationale": "字面是「他們的鼻孔／鼻息」，憤怒之慣用語；譯作「怒氣」"
+    },
+    {
+      "kind": "addition",
+      "subject": "他們",
+      "rationale": "希伯來文未指明主語，由上文「起來攻擊我們的人」補出"
+    }
+  ],
+  "translation": "那時他們便活活地吞滅我們，當他們的怒氣向我們燒起的時候；",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "646c456f53e3f44dafbf952afe823ed620272788a889bbda1712b861c0f4c190",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/124\/1-4.1792144947612.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "那時"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "活活地"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "吞滅我們"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "當……燒起"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "他們的怒氣"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "向我們"
+    }
+  ],
+  "timestamp": "2026-10-16T10:02:27.613162587Z",
+  "model": "glm-5.3"
+}

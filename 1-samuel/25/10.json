@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to David's servants",
+      "rationale": "拿八直接向大衛的僕人發問並說話。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "破門而出",
+      "rationale": "המתפרצים 字面是「衝破而出」（同一字根用於水衝破而出的意象），指逃離主人。"
+    }
+  ],
+  "translation": "拿八回答大衛的僕人說：「大衛是誰？耶西的兒子是誰？近來僕人增多，各人從他主人面前破門而出。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "733366f2509fa6d2418fbb48c99b903674ab00955dfd548eca02aeca49b6062a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/25\/9-12.1792131377678.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "回答"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "拿八"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛的僕人"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "的僕人"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰是"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "又是誰是"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的兒子"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "耶西"
+    },
+    {
+      "surface": "היום",
+      "gloss": "近來、如今"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "增多"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "僕人"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "破門而出的"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "從……面前"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "他的主人"
+    }
+  ],
+  "timestamp": "2026-10-16T06:16:17.679845144Z",
+  "model": "glm-5.3"
+}

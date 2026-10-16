@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "中文需繫詞，希伯來文省略"
+    },
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש是氣息、生命之力，非不朽的靈魂"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אשחרך",
+      "rationale": "字面「破曉尋求你」——以黎明為切慕之象"
+    },
+    {
+      "kind": "you",
+      "subject": "向以羅欣",
+      "rationale": "詩人直接向神呼求"
+    }
+  ],
+  "translation": "以羅欣（神）啊，你是我的伊勒；我天未亮就切切尋求你，我的性命渴慕你，我的肉身切望你，在乾旱疲乏、無水之地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/63\/1-4.1792144070622.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我的伊勒"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "我天未亮就切切尋求你"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "渴慕"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "切望"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "我的肉身"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在……之地"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "乾旱"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "疲乏"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "無"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-10-16T09:47:50.623901376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 35:31",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "贖價",
+      "rationale": "כֹּפֶר 字根是「遮蓋」，此處指代替刑罰的贖金，非贖罪的祭"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מוֹת יוּמָת",
+      "rationale": "同根不定詞加動詞的強調結構「他必被處死」，直譯「死他必死」"
+    }
+  ],
+  "translation": "你們不可收贖價代替那當死之殺人者的性命，因為他必被處死。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fc41b4f3b3fe6b8f9417977bfe62ce77c6fc5b92d574ea5e6b197b77cd4e3207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/35\/29-32.1792128445209.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "而不可"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "你們收"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "贖價"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "代替……的性命"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "殺人者"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "有罪的"
+    },
+    {
+      "surface": "למות",
+      "gloss": "當死"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מות",
+      "gloss": "必死"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "被處死"
+    }
+  ],
+  "timestamp": "2026-10-16T05:27:25.210948499Z",
+  "model": "glm-5.3"
+}

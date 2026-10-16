@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "萬軍之雅威",
+      "rationale": "צבאות 與聖名連用，依紀律作「萬軍之雅威」，不作「萬軍之主」"
+    },
+    {
+      "kind": "crux",
+      "subject": "大有能力的雅",
+      "rationale": "חסין יהּ 字面為「大能的雅」；KJV 誤以 LORD 覆蓋聖名 יה"
+    },
+    {
+      "kind": "you",
+      "subject": "對雅威的讚美",
+      "rationale": "本節直接向雅威發問並稱頌"
+    }
+  ],
+  "translation": "萬軍之雅威、雅威啊，誰能像你？大有能力的雅，你的信實環繞著你。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "946c26a8e3e0ef41ad038276dce8d054dd3cefb110f3bc993fdc296222af6faa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/89\/9-12.1792144429693.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "的以羅欣"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "萬軍"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "像你"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "大有能力的"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "你的信實"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "環繞著你"
+    }
+  ],
+  "timestamp": "2026-10-16T09:53:49.693710935Z",
+  "model": "glm-5.3"
+}

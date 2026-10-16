@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 41:14",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "寬一百肘",
+      "rationale": "殿前並隔離區向東的寬度，同為一百肘，方形量度。"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨一方⟩",
+      "rationale": "「向東一方」的方位語，中文需補足語感。"
+    }
+  ],
+  "translation": "以及殿前面的寬度，並那隔離區，向東⟨一方⟩，一百肘。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e20a09c63aa45f132c38cd9c079756d4d65c4cf64208f626f96d1a0750ba6def",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/41\/13-16.1792139129079.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "以及……的寬度"
+    },
+    {
+      "surface": "פני",
+      "gloss": "前面"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "והגזרה",
+      "gloss": "並那隔離區"
+    },
+    {
+      "surface": "לקדים",
+      "gloss": "向東"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "一百"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    }
+  ],
+  "timestamp": "2026-10-16T08:25:29.080622484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 19:22",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "井",
+      "rationale": "בור 指坑洞（可作水池或監牢），和合本作「井」；字面是「大坑」"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שכו",
+      "rationale": "西沽（Sechu）僅出現於此處"
+    },
+    {
+      "kind": "addition",
+      "subject": "有人",
+      "rationale": "第二個 ויאמר「說」無明確主語，中文需補出回答者"
+    }
+  ],
+  "translation": "他自己也往拉瑪去，來到西沽的大井那裡，就問說：「撒母耳和大衛在哪裡？」有人說：「看哪，他們在拉瑪的拿約。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "968640c62f64dd850335c1eaf20d1bfa4874addaf5de62b176c881170ba92811",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/19\/21-24.1792131251208.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "往…去"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他自己"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "拉瑪"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "בור",
+      "gloss": "井"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "在那裡的"
+    },
+    {
+      "surface": "בשכו",
+      "gloss": "西沽"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "問"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "在哪裡"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "拿約"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "在拉瑪"
+    }
+  ],
+  "timestamp": "2026-10-16T06:14:11.209319521Z",
+  "model": "glm-5.3"
+}

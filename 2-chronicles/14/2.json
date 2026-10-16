@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "亞舍拉像",
+      "rationale": "האשרים是女神亞舍拉的偶像，非泛指「樹叢」（和合本『木偶／樹叢』失落其名）"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "三個毀壞動詞",
+      "rationale": "除掉、打碎、砍下——三個動詞對三類偶像，動詞配其材質：石柱打碎、木像砍下"
+    }
+  ],
+  "translation": "他除掉了 ⟨את⟩ 外邦的祭壇和邱壇，打碎了 ⟨את⟩ 柱像，砍下了 ⟨את⟩ 亞舍拉像。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1cbf87edad93e0d28a62d6c2aef8e9a923ce6d697eca254c8c7b151b58e31afa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/14\/1-4.1792149344463.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "除掉了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "外邦的祭壇和邱壇"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "外邦的"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "和邱壇"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "打碎了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "柱像"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "柱像"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "砍下了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞舍拉像"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "亞舍拉像"
+    }
+  ],
+  "timestamp": "2026-10-16T11:15:44.464358107Z",
+  "model": "glm-5.3"
+}

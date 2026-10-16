@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "那裏",
+      "rationale": "中文需要地點補語，希伯來文只有「到以賽亞」"
+    }
+  ],
+  "translation": "希西家王的臣僕來到以賽亞那裏。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "44ffc4f3c25a5f289a3a32de156a38380a29d8bb588ad69fb5bc5518f71c5fb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/19\/5-8.1792134081149.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "來到"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "臣僕"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "希西家"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "以賽亞"
+    }
+  ],
+  "timestamp": "2026-10-16T07:01:21.150170421Z",
+  "model": "glm-5.3"
+}

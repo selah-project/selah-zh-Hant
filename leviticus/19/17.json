@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הוכח תוכיח",
+      "rationale": "不定詞絕對形加未完成式，表「務必要責備」，以中文語氣詞「務要」表達。"
+    },
+    {
+      "kind": "crux",
+      "subject": "ולא תשא עליו חטא",
+      "rationale": "「免得因他擔當罪」（不責備則自己擔罪）與「不可在他身上擔罪」兩讀並存。"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "本節以命令式直接對以色列會眾說話。"
+    }
+  ],
+  "translation": "不可在心裡恨 ⟨את⟩ 你的弟兄；務要責備 ⟨את⟩ 你的同伴，免得你因他擔當罪。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ccbaff01e3173c16ada5e3f6fa7e518d1258e7d2ab91f54fa1b99f025509e4af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/19\/17-20.1792127183525.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "恨"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的弟兄"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "你的弟兄"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "在心裡"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "務要責備"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "責備"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的同伴"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "你的同伴"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "免得不"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "擔當"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "因他"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "罪"
+    }
+  ],
+  "timestamp": "2026-10-16T05:06:23.526133584Z",
+  "model": "glm-5.3"
+}

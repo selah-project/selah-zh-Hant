@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 30:14",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "如",
+      "rationale": "希伯來文名詞並列「刀劍是他的牙齒」，中文加「如」以合語法"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לאכל",
+      "rationale": "以「吃」貫穿：牙如刀劍是為了「吞吃」窮人，喻象連貫"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרבות",
+      "rationale": "חרבות是חרב的複數（刀劍），或讀作חרבה「乾渴」——多數譯本取「刀劍」"
+    }
+  ],
+  "translation": "有一世代，牙齒如刀劍，顎齒如利刃，要吞吃地上的貧窮人，和人間的困乏人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f9cc896ce6865786110cb870fda9604836210d20694390a2de1670ed68190b5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/30\/13-16.1792145734342.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "世代"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "他的牙齒"
+    },
+    {
+      "surface": "ומאכלות",
+      "gloss": "而利刃"
+    },
+    {
+      "surface": "מתלעתיו",
+      "gloss": "他的顎齒"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "要吞吃"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "貧窮人"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "從地上"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "和困乏人"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "從人間"
+    }
+  ],
+  "timestamp": "2026-10-16T10:15:34.342804394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "日出之地到日落之處",
+      "rationale": "希伯來文「從太陽的東方和從西方」＝從東到西的全地"
+    },
+    {
+      "kind": "addition",
+      "subject": "人",
+      "rationale": "ידעו 主語未明寫，中文補「人」"
+    }
+  ],
+  "translation": "為要使人從日出之地到日落之處都知道：除我以外別無其他。我是雅威，再無別神。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a2319d47bf10e5600081d6627eb87009091f23f577112c5d2b1cfb5b64ecdd40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/45\/5-8.1792135567189.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "為要"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "人知道"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "從日出之地"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "到日落之處"
+    },
+    {
+      "surface": "כי",
+      "gloss": "知道"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "別無"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "除我以外"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "再無"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "別神"
+    }
+  ],
+  "timestamp": "2026-10-16T07:26:07.189699728Z",
+  "model": "glm-5.3"
+}

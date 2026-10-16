@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "筵席",
+      "rationale": "שלחן 本義是「桌子」（鋪開之物），此處取其筵席之意"
+    },
+    {
+      "kind": "crux",
+      "subject": "רויה",
+      "rationale": "意為「飽足、豐滿」；多譯作「滿溢」，字面是「滿得滿足」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צרר",
+      "rationale": "「仇敵」字根義為「變窄、擠壓」，與上節死蔭幽谷的困境呼應"
+    }
+  ],
+  "translation": "你在我面前擺設 ⟨את⟩ 筵席，正對著我的仇敵；你用油膏了我的頭，我的杯滿溢。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "437b3805d8dd14efde3cf52258f186cd44e8aaff39de9897338cf7b3111e3449",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/23\/5-6.1792143414416.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "擺設"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在…面前"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "筵席"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "正對著"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "我的仇敵"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "膏了"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "用油"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "我的頭"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "我的杯"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "滿溢"
+    }
+  ],
+  "timestamp": "2026-10-16T09:36:54.416902970Z",
+  "model": "glm-5.3"
+}

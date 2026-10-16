@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 7:1",
+  "book": "micah",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 是呼吸的生命體、渴求的生命力，非不朽的「靈魂」"
+    },
+    {
+      "kind": "crux",
+      "subject": "אותה",
+      "rationale": "此處是動詞 אָוָה「渴望」（陰性單獨形式），字形恰似 את 受詞記號，但並非受詞記號，故不加 ⟨את⟩"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨也沒有了⟩",
+      "rationale": "原文以 אין 統攝前後兩句，第二句的否定由中文補出"
+    }
+  ],
+  "translation": "哀哉，我啊！因為我成了像夏天果子被收聚之後的，像葡萄收成的拾穗：沒有葡萄串可吃，我的性命所渴望的初熟無花果⟨也沒有了⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9badb260bcd3b8e3c6fcd0de0c4dd2696b8c5d26fea218d9ab04be40e79888d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/micah\/7\/1-4.1792142652900.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אללי",
+      "gloss": "哀哉"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我啊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "我成了"
+    },
+    {
+      "surface": "כאספי",
+      "gloss": "像……被收聚的"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "夏天的果子"
+    },
+    {
+      "surface": "כעללת",
+      "gloss": "像拾穗"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "葡萄收成"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "אשכול",
+      "gloss": "葡萄串"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "可吃"
+    },
+    {
+      "surface": "בכורה",
+      "gloss": "初熟的無花果"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "所渴望的"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    }
+  ],
+  "timestamp": "2026-10-16T09:24:12.901507867Z",
+  "model": "glm-5.3"
+}

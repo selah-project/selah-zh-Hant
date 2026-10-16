@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 12:6",
+  "book": "daniel",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "〈那位〉",
+      "rationale": "中文需補出受話對象，希伯來文僅用לאיש指明"
+    },
+    {
+      "kind": "crux",
+      "subject": "ממעל למימי היאר",
+      "rationale": "「在河水之上」或譯「在河岸邊」，諸本分歧"
+    },
+    {
+      "kind": "mystery",
+      "subject": "עד מתי",
+      "rationale": "「要到幾時」是 sealed-scroll 場景的關鍵提問，答案刻意以時間之謎回應"
+    }
+  ],
+  "translation": "有一位問那穿細麻衣的、在河水之上的〈那位〉：「這些奇事的結局要到幾時呢？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "184dc1ff311b6e35ff85af2b043d56787177cfe4a10fe7da78e92c599085f70b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/daniel\/12\/5-8.1792147757387.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "問"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "那穿細麻衣的"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "穿"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "細麻衣"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "之上"
+    },
+    {
+      "surface": "למימי",
+      "gloss": "水"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "河"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "幾時"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "結局"
+    },
+    {
+      "surface": "הפלאות",
+      "gloss": "奇事"
+    }
+  ],
+  "timestamp": "2026-10-16T10:49:17.387728764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 5:5",
+  "book": "ezra",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "以羅阿",
+      "rationale": "亞蘭文 אלההם 是『他們的神』；本卷為亞蘭文段落，按 D1 表以音譯以羅阿呈現"
+    },
+    {
+      "kind": "idiom",
+      "subject": "עין ... הות על",
+      "rationale": "『眼在他們之上』希伯來／亞蘭慣用語，意為看顧、護佑"
+    },
+    {
+      "kind": "crux",
+      "subject": "טעמא",
+      "rationale": "字面為『味道』，延伸為『判決／裁決』；各譯本作『這事』或『呈文』"
+    }
+  ],
+  "translation": "他們的以羅阿的目光看顧猶大的長老，他們就不能叫他們停工，直到這案子呈到大流士面前，然後他們才就此事以公文回覆。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c12269a154ee8906e589cd04b1fe162a19b41ca4dea296c6068b0a519771fd0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/5\/5-8.1792147837745.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועין",
+      "gloss": "而…目光"
+    },
+    {
+      "surface": "אלההם",
+      "gloss": "他們的以羅阿"
+    },
+    {
+      "surface": "הות",
+      "gloss": "是（看顧）"
+    },
+    {
+      "surface": "על",
+      "gloss": "在…之上"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "長老"
+    },
+    {
+      "surface": "יהודיא",
+      "gloss": "猶大人"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "而不"
+    },
+    {
+      "surface": "בטלו",
+      "gloss": "叫他們停工"
+    },
+    {
+      "surface": "המו",
+      "gloss": "他們"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "טעמא",
+      "gloss": "這案子"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "到大流士"
+    },
+    {
+      "surface": "יהך",
+      "gloss": "呈到"
+    },
+    {
+      "surface": "ואדין",
+      "gloss": "然後"
+    },
+    {
+      "surface": "יתיבון",
+      "gloss": "回覆"
+    },
+    {
+      "surface": "נשתונא",
+      "gloss": "公文"
+    },
+    {
+      "surface": "על",
+      "gloss": "關於"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "此事"
+    }
+  ],
+  "timestamp": "2026-10-16T10:50:37.746354048Z",
+  "model": "glm-5.3"
+}

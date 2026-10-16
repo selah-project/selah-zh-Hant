@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המצא תמצא",
+      "rationale": "不定式絕對加動詞：「確實被找到」，強調搜出的確鑿。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "加倍償還",
+      "rationale": "本節規定賠償數額：活贓加倍，定下量化的司法標準。"
+    }
+  ],
+  "translation": "若那贓物確實在他手中被找到——從牛到驢到羊，活著的——他要加倍償還。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1bc048124d35040857de33e617141d813587dc1df0fd409e15c47105e3bbd233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/22\/1-4.1792126167548.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "確實"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "被找到"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "在他手中"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "贓物"
+    },
+    {
+      "surface": "משור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "驢"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "שה",
+      "gloss": "羊"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "活著的"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "加倍"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "他要償還"
+    }
+  ],
+  "timestamp": "2026-10-16T04:49:27.548945180Z",
+  "model": "glm-5.3"
+}

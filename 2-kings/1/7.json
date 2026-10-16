@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משפט",
+      "rationale": "משפט本義是「判決、樣式」，此處指人的形貌模樣，譯作「樣貌」。"
+    },
+    {
+      "kind": "you",
+      "subject": "對使者",
+      "rationale": "王繼續直接盤問使者。"
+    }
+  ],
+  "translation": "他問他們：「那上來迎接你們、對你們說 ⟨את⟩ 這些話的，是個怎樣的人？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "97cc0f4454f1bb67eb36789a6950b83f483f1e1cff2e7eb9fe806c336eb90cbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/1\/5-8.1792133498773.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "他問"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "對他們"
+    },
+    {
+      "surface": "מה",
+      "gloss": "怎樣的"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "樣貌"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "那人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上來"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "迎接你們"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "對…說"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "對你們"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這些話"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "這些話"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    }
+  ],
+  "timestamp": "2026-10-16T06:51:38.774940170Z",
+  "model": "glm-5.3"
+}

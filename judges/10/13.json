@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 10:13",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא אוסיף",
+      "rationale": "字面是「不再加添（拯救的行動）」，יסף 作副詞性「繼續／再」，中文以「必不再」表達。"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "帶詞尾的受詞記號 אתכם 併入中文動詞「拯救你們」，未另加記號。"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "雅威直接對以色列人說話的責備之言。"
+    }
+  ],
+  "translation": "你們竟離棄了⟨אותי⟩我，又去事奉別的神明，所以我必不再拯救你們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f95d2268d339b9a5c4c6657fa10ae58efca22ffdfb6860ae3ab264e8d37e671f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/10\/13-16.1792130265774.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "離棄了"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ⟨אותי⟩",
+      "marks": "我"
+    },
+    {
+      "surface": "ותעבדו",
+      "gloss": "事奉"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "神明"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別的"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "再（添加）"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "拯救"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ 你們"
+    }
+  ],
+  "timestamp": "2026-10-16T05:57:45.774899401Z",
+  "model": "glm-5.3"
+}

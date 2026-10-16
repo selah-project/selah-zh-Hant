@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 7:11",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "術士",
+      "rationale": "חרטום 字面是刻劃（占卜線、圈）之人；和合本作『博士』『術士』。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "邪術",
+      "rationale": "להט 字面是火焰、閃光，引申為隱秘的法術。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם……גם",
+      "rationale": "兩個『也』字對稱：法老也召，他們也照樣行——較勁的節奏。"
+    }
+  ],
+  "translation": "法老也召了智慧人和行巫術的人來；埃及的術士也用他們的邪術照樣行了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "440d8810d66616f0523e7635f5744b5f74d16e8f06b98e963eec1dcf5616f8e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/7\/9-12.1792125760158.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "召了"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "智慧人"
+    },
+    {
+      "surface": "ולמכשפים",
+      "gloss": "和行巫術的人"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "行了"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "הם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "術士"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "בלהטיהם",
+      "gloss": "用他們的邪術"
+    },
+    {
+      "surface": "כן",
+      "gloss": "照樣"
+    }
+  ],
+  "timestamp": "2026-10-16T04:42:40.160306261Z",
+  "model": "glm-5.3"
+}

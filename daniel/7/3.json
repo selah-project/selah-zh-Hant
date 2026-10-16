@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "有",
+      "rationale": "中文存現句需要「有」字引出四獸，希伯來文（亞蘭文）無此詞"
+    },
+    {
+      "kind": "measurement",
+      "subject": "四隻大獸",
+      "rationale": "數目「四」是本章結構骨架，與四風、後續四國對應"
+    },
+    {
+      "kind": "mystery",
+      "subject": "四獸",
+      "rationale": "獸的身分在此未揭示，屬隱而未解的異象"
+    }
+  ],
+  "translation": "有四隻大獸從海中上來，形狀各不相同。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "016587bc7ec851f702447abbd0016d133bf6ff5c942408af49d9c724ccf86e1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/daniel\/7\/1-4.1792147650815.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "有四"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "獸"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "巨大的"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "上來"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "海"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "不同"
+    },
+    {
+      "surface": "דא",
+      "gloss": "這一隻"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "דא",
+      "gloss": "那一隻"
+    }
+  ],
+  "timestamp": "2026-10-16T10:47:30.816679112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תהו והבל",
+      "rationale": "空虛二詞疊用呼應創1:2的תהו，勞碌歸於混沌之語勢中文難全"
+    },
+    {
+      "kind": "crux",
+      "subject": "ופעלתי",
+      "rationale": "或作「我的工作」或作「我的報酬」（我的工價），譯本分歧"
+    },
+    {
+      "kind": "substitution",
+      "subject": "את（אֵת，與）",
+      "rationale": "此處את是介詞「與」而非受詞記號，中文以「與……同在」譯出，仍按記號保留⟨את⟩"
+    }
+  ],
+  "translation": "我卻說：「我徒然勞碌，我為虛空和虛無耗盡了力量；然而，我的公理乃與⟨את⟩雅威同在，我的報酬乃與⟨את⟩我的以羅欣同在。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "85ad3399b816184519876bf3c16aa2a936ac1fdc3ae4aea8d378dcd7f6a8debc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/49\/1-4.1792135634596.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "我卻"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "說"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "徒然"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "我勞碌"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "為虛空"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "和虛無"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "我的力量"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "耗盡了"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "然而"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "我的公理"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "我的報酬（我的工作）"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的以羅欣"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    }
+  ],
+  "timestamp": "2026-10-16T07:27:14.597254312Z",
+  "model": "glm-5.3"
+}

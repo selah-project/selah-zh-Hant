@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 17:27",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "גוענו",
+      "rationale": "גוע 字面是「呼出最後一口氣」；作「斷氣」存其氣息之象"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אבדנו……אבדנו",
+      "rationale": "אבדנו 重複兩次，死亡的遞進修辭；中文重複「滅亡了」以存其疊"
+    },
+    {
+      "kind": "you",
+      "subject": "to 摩西",
+      "rationale": "以色列人直接向摩西發言傾訴恐懼"
+    }
+  ],
+  "translation": "以色列人對摩西說：「看哪，我們斷氣了，我們滅亡了，我們全都滅亡了。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2d5bb0ba9fc8c4ced1e3fa32144de1c8163f6a6c3d835767d69c3ddf4dd724ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/17\/25-28.1792127943344.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "說"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……之子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "הן",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "גוענו",
+      "gloss": "我們斷氣了"
+    },
+    {
+      "surface": "אבדנו",
+      "gloss": "我們滅亡了"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "我們全都"
+    },
+    {
+      "surface": "אבדנו",
+      "gloss": "滅亡了"
+    }
+  ],
+  "timestamp": "2026-10-16T05:19:03.345608283Z",
+  "model": "glm-5.3"
+}

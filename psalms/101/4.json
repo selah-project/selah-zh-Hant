@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רע לא אדע",
+      "rationale": "「惡我不認識」：KJV 加「人」作『不認識惡人』；本譯不加，照字面"
+    }
+  ],
+  "translation": "乖僻的心必偏離我；惡事，我不認識。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b37b7a31c7fe5bf7e64765e12cc69d9d01b60ee2f2abe042d573610044072146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/101\/1-4.1792144600325.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "心"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "乖僻的"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "必偏離"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "離我"
+    },
+    {
+      "surface": "רע",
+      "gloss": "惡事"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "我認識"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:40.326955415Z",
+  "model": "glm-5.3"
+}

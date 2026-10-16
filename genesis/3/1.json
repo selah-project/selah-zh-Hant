@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 3:1",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ערום",
+      "rationale": "ערום（狡猾）與創2:25的ערומים（赤身）同音相關，中文無法保留這一呼應。"
+    },
+    {
+      "kind": "crux",
+      "subject": "אף כי",
+      "rationale": "蛇的開場語有多種讀法：『豈是真說』（質疑）或『縱然』（肯定加重），各譯本分歧。"
+    },
+    {
+      "kind": "you",
+      "subject": "to 女人",
+      "rationale": "蛇直接向女人說話，是全卷第一個對人的提問。"
+    },
+    {
+      "kind": "invitation",
+      "subject": "蛇的問句",
+      "rationale": "以問句引人進入對話，鉤住聽者。"
+    }
+  ],
+  "translation": "那蛇比雅威以羅欣所造的一切田野的活物更狡猾。牠對女人說：「以羅欣豈是真說：『園中任何一棵樹的果子，你們都不可吃』嗎？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a700f949133974de2274d0c924c426bc0771e9a00f90f5959b103eeacfe55278",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/3\/1-4.1792124580000.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנחש",
+      "gloss": "那蛇"
+    },
+    {
+      "surface": "היה",
+      "gloss": "是"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "狡猾"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "比一切……更"
+    },
+    {
+      "surface": "חית",
+      "gloss": "活物"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田野的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "牠說"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "女人"
+    },
+    {
+      "surface": "אף",
+      "gloss": "豈"
+    },
+    {
+      "surface": "כי",
+      "gloss": "真"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "吃"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "樹"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "園中"
+    }
+  ],
+  "timestamp": "2026-10-16T04:23:00.000670201Z",
+  "model": "glm-5.3"
+}

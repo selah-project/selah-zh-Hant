@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 11:5",
+  "book": "zechariah",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קניהן",
+      "rationale": "『買主』（jps\/ylt）與『擁有者／主人』（kjh\/asv）之別：קנה 可指買賣或擁有"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואעשר",
+      "rationale": "『我富足了』עשר 與『十分之一』同根——賣羊者以敬虔的稱頌掩飾貪利，中文難存此諷刺"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נאם יהוה 省略",
+      "rationale": "本節無此語，屬引語延續，非省略"
+    }
+  ],
+  "translation": "他們的買主宰殺他們，也不以為有罪；他們的賣主說：雅威是應當稱頌的，因我富足了；他們自己的牧人也不憐恤他們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "14a19b808ae01bc553c6902bb70a2f96ba68d0a5cda50e4324dbf9b5c3e50236",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/zechariah\/11\/5-8.1792143160469.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "他們——就是"
+    },
+    {
+      "surface": "קניהן",
+      "gloss": "他們的買主"
+    },
+    {
+      "surface": "יהרגן",
+      "gloss": "宰殺他們"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "以為有罪"
+    },
+    {
+      "surface": "ומכריהן",
+      "gloss": "他們的賣主"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "是應當稱頌的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואעשר",
+      "gloss": "因我富足了"
+    },
+    {
+      "surface": "ורעיהם",
+      "gloss": "他們自己的牧人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "憐恤"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "他們"
+    }
+  ],
+  "timestamp": "2026-10-16T09:32:40.469984209Z",
+  "model": "glm-5.3"
+}

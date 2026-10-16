@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the evildoers",
+      "rationale": "命令式直接斥責作惡之人"
+    },
+    {
+      "kind": "addition",
+      "subject": "好叫",
+      "rationale": "原文以 ו 表結果，中文補出目的連詞"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אלהי",
+      "rationale": "אלהים 譯作以羅欣，不寫作神"
+    }
+  ],
+  "translation": "你們這作惡的人哪，離開我吧，⟨好叫⟩我謹守我以羅欣的誡命。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0012912ccfab3190faede15b8ae883b42dc59729d781b0882da2feb139e89989",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/113-116.1792144880499.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "離開"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "從我(這裡)"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "作惡的人"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "我就謹守"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "誡命"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我以羅欣的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:01:20.500057395Z",
+  "model": "glm-5.3"
+}

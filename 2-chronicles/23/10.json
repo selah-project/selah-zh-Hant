@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "肩",
+      "rationale": "כתף 字面是「肩膀」，經文以人的身體描寫殿的兩側；和合本譯「右邊／左邊」失去身體意象"
+    },
+    {
+      "kind": "substitution",
+      "subject": "護衛",
+      "rationale": "על המלך 字面是「在王身上／對著王」，諸譯本作「圍繞王保護」，此處取其護衛之義"
+    },
+    {
+      "kind": "measurement",
+      "subject": "站位佈防",
+      "rationale": "本節量度護衛的部署範圍：從殿的右肩到左肩，對著祭壇和殿"
+    }
+  ],
+  "translation": "他使全體人民站立，各人手中的矛在手中，從殿的右肩到殿的左肩，對著祭壇和殿，四圍護衛王。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4ac3316a02fa7bdb2528bd2e2b444201d7c6de0655be2fa912ba48cad16754f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/23\/10-11.1792150037924.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "他使……站立"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全體人民"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全體"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "他的矛"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "在手中"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "從……的肩"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "右邊的"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "肩"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "左邊的"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "對著祭壇"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "和殿"
+    },
+    {
+      "surface": "על",
+      "gloss": "護衛"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    }
+  ],
+  "timestamp": "2026-10-16T11:27:17.925138235Z",
+  "model": "glm-5.3"
+}

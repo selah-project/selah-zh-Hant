@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 4:45",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "對他們",
+      "rationale": "希伯來文只說「對以色列人子孫」，中文以「對他們說的」收句需補代詞"
+    },
+    {
+      "kind": "measurement",
+      "subject": "法度、律例和典章",
+      "rationale": "本節列舉妥拉的三類內容，屬清單式的列舉"
+    }
+  ],
+  "translation": "這些就是法度、律例和典章，就是摩西在以色列人出埃及的時候對他們說的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "53f0dc2ea7a131f64016b7861d3d675064449a6122c4c7a2c1153c0908450a60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/4\/45-48.1792128618193.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "法度"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "和律例"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "和典章"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "說"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "在他們出…的時候"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "埃及"
+    }
+  ],
+  "timestamp": "2026-10-16T05:30:18.194331501Z",
+  "model": "glm-5.3"
+}

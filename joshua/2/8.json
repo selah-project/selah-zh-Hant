@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "到他那裡去",
+      "rationale": "עליהם 直譯「到他們上面」，中文作「到他那裡去」以使語句自然"
+    },
+    {
+      "kind": "alternative",
+      "subject": "二人",
+      "rationale": "המה（他們）指兩個探子；和合本作「二人」，中文沿用"
+    }
+  ],
+  "translation": "二人還未躺下，她卻上了屋頂，到他那裡去了；",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "92b1001b684669e8cbf6fa4b06c4b1bf4f1cb17a49320d2cb3eae289ef17474e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/2\/5-8.1792129423802.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "二人還"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "未"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "躺下"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "她卻"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "上了"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "到他那裡去"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "屋頂"
+    }
+  ],
+  "timestamp": "2026-10-16T05:43:43.803936127Z",
+  "model": "glm-5.3"
+}

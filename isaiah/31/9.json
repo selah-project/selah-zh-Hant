@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 31:9",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "他的磐石",
+      "rationale": "וְסַלְעוֹ 字面是「他的磐石」；譯作「堡壘」或「力量」（如某些古譯本）是角色式讀法，失落了磐石的圖像"
+    },
+    {
+      "kind": "crux",
+      "subject": "נְאֻם",
+      "rationale": "「雅威的宣告」（נְאֻם יְהוָה），不寫成「這是耶和華說的」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אוּר",
+      "rationale": "אוּר 是「火焰」，譯作「火」以合中文；其單數形兼有「光」義"
+    }
+  ],
+  "translation": "他的磐石必因驚恐而消逝，他的首領必因旌旗而潰散——這是雅威的宣告，他的火在錫安，他的爐在耶路撒冷。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cbabc08e2aad7e74e0ba3d32b7e9fecc2130778bd6527655d781a279576904f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/31\/9-9.1792135076362.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסלעו",
+      "gloss": "他的磐石"
+    },
+    {
+      "surface": "ממגור",
+      "gloss": "因驚恐"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "消逝"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "潰散"
+    },
+    {
+      "surface": "מנס",
+      "gloss": "因旌旗"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "他的首領"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "這是……的宣告"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "他的"
+    },
+    {
+      "surface": "אור",
+      "gloss": "火"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他的"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "在錫安"
+    },
+    {
+      "surface": "ותנור",
+      "gloss": "他的爐"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他的"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "在耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-10-16T07:17:56.362648942Z",
+  "model": "glm-5.3"
+}

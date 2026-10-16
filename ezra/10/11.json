@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 10:11",
+  "book": "ezra",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "認罪的感謝祭",
+      "rationale": "תודה 本義為伸出手，引申為承認／感恩祭；英譯作 make confession"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列會眾",
+      "rationale": "以斯拉直接向會眾發出三重命令：認罪、行祂喜悅的事、分別出來"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨祂⟩",
+      "rationale": "רצונו 的代詞後綴「祂的」在中文以括號代詞補出"
+    }
+  ],
+  "translation": "現在，你們要向雅威——你們列祖的以羅欣——獻上認罪的感謝祭，行⟨祂⟩所喜悅的事，並從地上的萬民中分別出來，從外邦女子中分別出來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8fbe39de012218efbf9a2ce72e46baff00d868f352df505fd4fb33e8d9901a11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/10\/11-12.1792149989812.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "現在"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "你們要獻上"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "認罪的感謝祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "……的以羅欣"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "你們列祖"
+    },
+    {
+      "surface": "וועשו",
+      "gloss": "並行"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "祂所喜悅的事"
+    },
+    {
+      "surface": "והבדלו",
+      "gloss": "並分別出來"
+    },
+    {
+      "surface": "מעמי",
+      "gloss": "從……的民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "並從"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "女子"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "外邦的"
+    }
+  ],
+  "timestamp": "2026-10-16T11:26:29.812790988Z",
+  "model": "glm-5.3"
+}

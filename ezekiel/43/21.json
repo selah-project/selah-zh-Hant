@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מפקד",
+      "rationale": "「指定的地方」：或作「分別之處」（מְפֻקָד）、「委任之地」，各譯本有別"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חטאת",
+      "rationale": "字面是「罪」，指為罪而設的祭牲；譯作「贖罪祭的」"
+    }
+  ],
+  "translation": "你要取 ⟨את⟩ 這贖罪祭的公牛，在殿的指定地方、聖殿之外，把牠焚燒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "65d1b2443c8537c34dbec9c3bfab7345b82e9d92dff13857c6c30a01a6c8beb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/43\/21-24.1792139200618.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "你要取"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "贖罪祭的公牛"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "公牛"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "贖罪祭的"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "把牠焚燒"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "在……的指定地方"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "之外"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "聖殿"
+    }
+  ],
+  "timestamp": "2026-10-16T08:26:40.619015277Z",
+  "model": "glm-5.3"
+}

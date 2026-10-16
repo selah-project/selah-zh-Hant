@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 17:4",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הבנים",
+      "rationale": "בנים是בין（之間）的雙數，僅此處及17:23出現；譯作「兩軍之間的人」而非「戰士」或「冠軍」"
+    },
+    {
+      "kind": "measurement",
+      "subject": "六肘又一虎口",
+      "rationale": "歌利亞身高的量度：六肘加一虎口（約2.9公尺）"
+    }
+  ],
+  "translation": "有一個兩軍之間的人從非利士人的營中出來，名叫歌利亞，來自迦特；他的身高六肘又一虎口。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "13c0d90dfc27e96373041401212a137764c7d1f1e04a8c12f5d75bb21134eedc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/17\/1-4.1792131169656.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "出來"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "兩軍之間的"
+    },
+    {
+      "surface": "ממחנות",
+      "gloss": "從……營"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "歌利亞"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "他的名"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "來自迦特"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "他的身高"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "又一虎口"
+    }
+  ],
+  "timestamp": "2026-10-16T06:12:49.658886311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 40:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צדק／צדקה",
+      "rationale": "第10節צדק與第11節צדקתך同一字根呼應，中文以「公義」一詞到底"
+    },
+    {
+      "kind": "alternative",
+      "subject": "語序",
+      "rationale": "原文將受詞置於句首以強調，中文保留此倒裝以存其勢"
+    }
+  ],
+  "translation": "你的公義我沒有掩藏在我心之中；你的信實和你的救恩我已述說，我沒有向大會隱瞞你的慈愛和你的誠實。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "91eced36a45d2fc058f527b35a65514f4e07413fbfe2c39fdaafac82224baf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/40\/9-12.1792143733985.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "你的公義"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "我掩藏"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "在…之中"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "你的信實"
+    },
+    {
+      "surface": "ותשועתך",
+      "gloss": "和你的救恩"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我述說"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "כחדתי",
+      "gloss": "我隱瞞"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "你的慈愛"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "和你的誠實"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "向會眾"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:13.985920188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "對我兒（少年人）",
+      "rationale": "父親直接向兒子說話的訓誨體"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתם",
+      "rationale": "此處 אֵת（H854，與）是介詞而非受詞記號（H853），仍以⟨את⟩標記；譯文以「與他們」呈現"
+    }
+  ],
+  "translation": "我兒，不要與他們同行一條路，要攔住你的腳離開他們的路径。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b9fdc795f850badb6b92b50de03c0aa973339a077d9d561d1be6336629e5633a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/1\/13-16.1792145129523.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "我兒"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "在……的路上"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "與他們"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "攔住"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "你的腳"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "他們的路径"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:29.524985090Z",
+  "model": "glm-5.3"
+}

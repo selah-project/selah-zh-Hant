@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "敬畏",
+      "rationale": "ירא 是「懼怕／敬畏」一體；敘事視角尚未判定是懼怕還是敬虔"
+    },
+    {
+      "kind": "addition",
+      "subject": "所吩咐她們的",
+      "rationale": "כאשר דבר אליהן 直譯「像他所對她們說的」，中文以名詞短語承接"
+    }
+  ],
+  "translation": "收生婆敬畏 ⟨את⟩ 以羅欣，沒有照埃及王所吩咐她們的去做，卻讓 ⟨את⟩ 孩子們存活。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ea07d7968f57a30b9380d67d89bfccbd3c5e31ebc71db162550a6f8f99b9c54b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/1\/17-20.1792125685805.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "收生婆"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以羅欣"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "做"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照……的"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "吩咐"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "她們"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "讓……存活"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "孩子們"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "孩子們"
+    }
+  ],
+  "timestamp": "2026-10-16T04:41:25.806377999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 22:3",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "銅",
+      "rationale": "נחשת 是銅，傳統譯「黃銅」（銅鋅合金）為時代錯置"
+    },
+    {
+      "kind": "measurement",
+      "subject": "無法稱量",
+      "rationale": "אין משקל 直譯「沒有重量」，形容數量之巨"
+    }
+  ],
+  "translation": "大衛預備了大量鐵，作門扇與城門的釘子和鉸鏈夾件；又預備了大量銅，無法稱量。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "180f9f809dde6603bfc8483960c2561f945190e3307a797ad80ddafa320f6270",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/22\/1-4.1792148917216.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברזל",
+      "gloss": "鐵"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "大量"
+    },
+    {
+      "surface": "למסמרים",
+      "gloss": "作釘子"
+    },
+    {
+      "surface": "לדלתות",
+      "gloss": "門扇"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "城門"
+    },
+    {
+      "surface": "ולמחברות",
+      "gloss": "鉸鏈夾件"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "預備"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "大量"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無法"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "稱量"
+    }
+  ],
+  "timestamp": "2026-10-16T11:08:37.217335582Z",
+  "model": "glm-5.3"
+}

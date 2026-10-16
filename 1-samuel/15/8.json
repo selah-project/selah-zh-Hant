@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "字面「以刀之口」＝用刀口／刀刃，希伯來慣用語。"
+    },
+    {
+      "kind": "crux",
+      "subject": "החרים",
+      "rationale": "字根חרם＝「置於禁令之下而滅絕」；和合本作「滅絕淨盡」，此詞正是本章15:9、15:3禁令的核心，不宜淡化为「殺」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרם／חרב",
+      "rationale": "「滅盡」（החרים）與「刀」（חרב）子音相近，音效在中文中丟失。"
+    }
+  ],
+  "translation": "他生擒了 ⟨את⟩ 亞瑪力王亞甲，卻用刀口滅盡了 ⟨ואת⟩ 眾民。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0a955b7d8dae29e8aef1339ddbc58eb33abd967e7699924eaa4a1d829a501b09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/15\/5-8.1792131113414.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "生擒了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞瑪力王亞甲"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "亞甲"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "亞瑪力"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活著"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "眾民"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "滅盡"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "用……口"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀"
+    }
+  ],
+  "timestamp": "2026-10-16T06:11:53.415865483Z",
+  "model": "glm-5.3"
+}

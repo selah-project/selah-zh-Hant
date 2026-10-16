@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 24:31",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "קמשנים",
+      "rationale": "קִמָּשׁוֹן（多刺的雜草）在《塔納赫》中僅出現於此"
+    },
+    {
+      "kind": "addition",
+      "subject": "石",
+      "rationale": "「石」出自אבניו（它的石頭），中文以「石牆」一詞涵蓋גדר אבניו兩詞"
+    }
+  ],
+  "translation": "看哪，荊棘長滿了全地，刺草遮蓋了它的面，石牆也坍塌了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4baf22e5432b636a22c33e351a86a220fd2154ba986f6a9e65d01035f0fa773b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/24\/29-32.1792145619400.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "長滿了"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "全地"
+    },
+    {
+      "surface": "קמשנים",
+      "gloss": "荊棘"
+    },
+    {
+      "surface": "כסו",
+      "gloss": "遮蓋了"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "它的面"
+    },
+    {
+      "surface": "חרלים",
+      "gloss": "刺草"
+    },
+    {
+      "surface": "וגדר",
+      "gloss": "石牆"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "石"
+    },
+    {
+      "surface": "נהרסה",
+      "gloss": "也坍塌了"
+    }
+  ],
+  "timestamp": "2026-10-16T10:13:39.401298864Z",
+  "model": "glm-5.3"
+}

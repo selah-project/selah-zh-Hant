@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "迦特樂器",
+      "rationale": "הגתית 意為「迦特（樣式）的樂器」，確切樂器不詳"
+    }
+  ],
+  "translation": "交給伶長，用迦特樂器，大衛的詩篇。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6a6c2f52fd99c85af060df0d891eca0772a9f08a156742440f7d3fb3d35f6a97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/8\/1-4.1792143216722.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "交給伶長"
+    },
+    {
+      "surface": "על",
+      "gloss": "用"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "迦特樂器"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩篇"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:33:36.722490854Z",
+  "model": "glm-5.3"
+}

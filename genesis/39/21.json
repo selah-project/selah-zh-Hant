@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "此處的 את（H854）是「與」的介詞（雅威與約瑟同在），不是受詞記號 H853；按記號家族紀律仍以 ⟨את⟩ 標示，譯文以「與」呈現其功能。"
+    },
+    {
+      "kind": "addition",
+      "subject": "在…眼前",
+      "rationale": "בעיני 直譯「在…眼中」，中文以「在…眼前」成語呈現。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסד／חנו",
+      "rationale": "חסד（慈愛）與 חן（恩寵）兩詞頭尾呼應（ח–ס–ד、ח–ן），中文無法保留此音韻關聯。"
+    }
+  ],
+  "translation": "雅威與 ⟨את⟩ 約瑟同在，向他施慈愛，使他在監獄長眼前蒙恩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e7021eb3202ab55b7f3374ae437367b22f0aaeb88576f12a8637770a72a1e3da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/39\/21-23.1792125410830.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "與…同在（了）"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約瑟"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "施"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "向他"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "慈愛"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "賜"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "恩寵"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "在…眼前"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長"
+    },
+    {
+      "surface": "בית",
+      "gloss": "（之）家"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "監獄"
+    }
+  ],
+  "timestamp": "2026-10-16T04:36:50.831457599Z",
+  "model": "glm-5.3"
+}

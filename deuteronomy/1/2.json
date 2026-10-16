@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "路（路程）",
+      "rationale": "原文無「路程」一詞，僅「十一天」；中文語法需要補出。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "十一天",
+      "rationale": "旅程日數的計算，反襯以色列走了四十年。"
+    }
+  ],
+  "translation": "從何烈山經西珥山路到加低斯‧巴尼亞，共有十一天的路程。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a8c2bae1956fabfe82fb80128922c19d592e677d1ef73d14a1a50877c7fea901",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/1\/1-4.1792128514587.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "一"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "天"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "從何烈"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "西珥"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "加低斯"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "巴尼亞"
+    }
+  ],
+  "timestamp": "2026-10-16T05:28:34.588298158Z",
+  "model": "glm-5.3"
+}

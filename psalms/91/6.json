@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מקטב",
+      "rationale": "此詞在塔納赫中僅出現於此，意為「毀滅／摧殘」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צהרים",
+      "rationale": "字面為「雙光」（צֹהַר 的雙數），即正午；雙數形狀在中文中消失"
+    }
+  ],
+  "translation": "不懼怕幽暗中遊行的瘟疫，也不懼怕正午毀滅人的災害。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "82c889abb6220a00396e68e83043cf48610b5411a0092f94e088d667499849bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/91\/5-8.1792144519955.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "瘟疫"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "幽暗中"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "遊行"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "災害"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "毀滅"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "正午"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:19.956374068Z",
+  "model": "glm-5.3"
+}

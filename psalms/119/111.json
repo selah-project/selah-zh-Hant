@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文需要「是」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחלתי",
+      "rationale": "「我繼承／我以為業」一詞兼有「得產業」與「溪谷」之音近，與產業意象相連"
+    }
+  ],
+  "translation": "我以你的法度為產業，直到永遠，因為它們是我心中的喜樂。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c25d66ebf54a4637bc1d45fc35c5552b129120b3f369161dad96001cefcd08b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/109-112.1792144914292.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "我以……為產業"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "你的法度"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "直到永遠"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "喜樂"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我心中"
+    },
+    {
+      "surface": "המה",
+      "gloss": "它們"
+    }
+  ],
+  "timestamp": "2026-10-16T10:01:54.295319339Z",
+  "model": "glm-5.3"
+}

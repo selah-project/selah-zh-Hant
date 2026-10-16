@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אל",
+      "rationale": "介詞「向、對」譯為動詞「看顧」，中文需完整動詞"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "למיחלים\/לחסדו",
+      "rationale": "兩個לא前置詞短語平行，等候——慈愛的頭韻式並列"
+    }
+  ],
+  "translation": "看哪，雅威的眼目看顧敬畏他的人，看顧那等候他慈愛的人，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/33\/17-20.1792143620795.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "עין",
+      "gloss": "眼目"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "看顧"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "敬畏他的人"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "等候的人"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "他的慈愛"
+    }
+  ],
+  "timestamp": "2026-10-16T09:40:20.796505544Z",
+  "model": "glm-5.3"
+}

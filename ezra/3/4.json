@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יום ביום ביומו",
+      "rationale": "「日—在日—在其日」三次重複同一詞，節奏性疊句，中文難以完全保留"
+    },
+    {
+      "kind": "measurement",
+      "subject": "במספר",
+      "rationale": "按數目規定每日祭牲之量（參民 29 章）"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויעשו ועלת",
+      "gloss": "",
+      "rationale": "原文「行—燔祭」為動詞加名詞結構，中文以「守節」「獻燔祭」分別處理"
+    }
+  ],
+  "translation": "他們又照所寫的守 ⟨את⟩ 住棚節，每日按數目、按條例獻每日當獻的燔祭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1d66040f1b731ef9028b4cae650142809fe564e7ba8e19574869158ae90a5279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/3\/1-4.1792147802523.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "他們守"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "住棚節"
+    },
+    {
+      "surface": "חג",
+      "gloss": "節"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "住棚"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "照所寫的"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "יום",
+      "gloss": "每日"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "每一日"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "按數目"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "按條例"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "當獻的"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "在它的日子"
+    }
+  ],
+  "timestamp": "2026-10-16T10:50:02.524634935Z",
+  "model": "glm-5.3"
+}

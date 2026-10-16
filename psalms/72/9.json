@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ציים",
+      "rationale": "曠野居民（遊牧者）與野獸兩讀並存；七十士譯本作『諸王』，或讀作同音之 מלכים 的誤抄。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "下拜",
+      "rationale": "כרע字面是『屈膝』，中文以『屈膝下拜』保留雙重畫面。"
+    }
+  ],
+  "translation": "住曠野的必在他面前屈膝下拜，他的仇敵必舔食塵土。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "63f0d56d1d04716c83a1a61f91f75b1d1f3ec7aedc1192ba97e512b5c85cdda1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/72\/9-12.1792144131878.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "在他面前"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "必屈膝下拜"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "住曠野的"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "他的仇敵"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "塵土"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "必舔食"
+    }
+  ],
+  "timestamp": "2026-10-16T09:48:51.880326456Z",
+  "model": "glm-5.3"
+}

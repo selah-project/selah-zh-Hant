@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 18:17",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "利息",
+      "rationale": "נשך 字面是「咬」，指貸款的利息，中文以「利息」承擔此義"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חיה יחיה",
+      "rationale": "不定式加完成式的強調結構「存活——他必存活」，中文以「必要存活」承其強調"
+    }
+  ],
+  "translation": "他從困苦人那裡收回自己的手，利息和加增的利沒有拿取；他施行我的典章，遵行我的律例——他必不因他父親的罪孽而死亡，他必要存活。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "232cbe3ceef49ca29e8b504d890b04cfa52afe3e4c527724e67900d6ca7ab412",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/18\/17-20.1792138392409.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעני",
+      "gloss": "困苦人"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "收回"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "自己的手"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "利息"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "加增的利"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "拿取"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "我的典章"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "施行"
+    },
+    {
+      "surface": "בחקותי",
+      "gloss": "遵行我的律例"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "遵行"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "死亡"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "因……的罪孽"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "他父親"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "存活"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "必要存活"
+    }
+  ],
+  "timestamp": "2026-10-16T08:13:12.409877469Z",
+  "model": "glm-5.3"
+}

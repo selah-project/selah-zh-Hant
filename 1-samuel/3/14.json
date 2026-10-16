@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם……עד עולם",
+      "rationale": "希伯來起誓句式以「若」引出絕對否定（絕不得贖），直譯「若」會誤導，故作「縱然」。"
+    },
+    {
+      "kind": "mystery",
+      "subject": "啟示",
+      "rationale": "審判的話被宣告為不可逆轉、以誓言封定——獻祭也無法挽回。"
+    }
+  ],
+  "translation": "所以我向以利的家起誓：以利家的罪孽，縱然獻祭和供物，也永不得贖。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6be9d30d54d0c5465046f4359c8277051c27800fa5fa082cc075ef720b31d282",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/3\/13-16.1792130811693.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "我已起誓"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "向……的家"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "以利"
+    },
+    {
+      "surface": "אם",
+      "gloss": "縱然"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "得贖"
+    },
+    {
+      "surface": "עון",
+      "gloss": "罪孽"
+    },
+    {
+      "surface": "בית",
+      "gloss": "……的家"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "以利"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "以祭物"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "和以供物"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-10-16T06:06:51.694158821Z",
+  "model": "glm-5.3"
+}

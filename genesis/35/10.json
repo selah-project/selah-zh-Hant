@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 35:10",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文補「是」"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "「不是……乃是……」的限制用法，中文以「才」重現"
+    }
+  ],
+  "translation": "以羅欣對他說：「你的名是雅各；你的名不要再叫雅各，要以色列 ⟨כי אם⟩ 才是你的名。」他就稱 ⟨את⟩ 他的名為以色列。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8ca4f03839b236cb80761e08b2932bfc0eec8520b69d78ced693d13e855d4623",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/35\/9-12.1792125309864.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "要叫"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨כי אם⟩ 才"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨כי אם⟩ 才"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "是"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "他就稱"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的名"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "他的名"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T04:35:09.864976815Z",
+  "model": "glm-5.3"
+}

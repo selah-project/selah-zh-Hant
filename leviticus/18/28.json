@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ולא תקיא",
+      "rationale": "希伯來文「免得……吐出」的消極目的式，中文以「免得」表達"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טמא",
+      "rationale": "玷污（בטמאכם）回應 18:25 的 ותטמא，吐出（קאה）回應 18:25 的 ותקא，四詞交織成懲罰的鏡像結構"
+    }
+  ],
+  "translation": "免得你們玷污它的時候，那地把你們吐出來，如同它吐出了在你們以先的那國族一樣——⟨את⟩ 你們，⟨את⟩ 它，⟨את⟩ 那國族。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1f30885627880efecc6d26da538839fe4b0cc6b9f7cd9d281301bdb0fea4a8d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/18\/25-28.1792127030077.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "免得"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "吐出來"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "那地"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "你們"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "你們玷污它"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "它"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "如同"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "吐出了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那國族"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "那國族"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "在你們以先"
+    }
+  ],
+  "timestamp": "2026-10-16T05:03:50.078229882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 2:7",
+  "book": "nahum",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הנהרות",
+      "rationale": "複數「河流」多指底格里斯河的支流與運河；河閘被（攻方或洪水）打開，城被水淹——歷史記載與經文意象在此交會。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "融化",
+      "rationale": "נמוג 是「熔化、消融」，和合本作「溶化」；描寫宮殿如蠟崩塌，中文取「融化」存其物質意象。"
+    }
+  ],
+  "translation": "河的閘門被打開了，宮殿融化了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f17016049f1019e14771de4c3f2cf32c6d86157f09b6dfb9a89a9c8669f908d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nahum\/2\/5-8.1792142753024.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שערי",
+      "gloss": "閘門"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "河的"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "被打開了"
+    },
+    {
+      "surface": "וההיכל",
+      "gloss": "宮殿"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "融化了"
+    }
+  ],
+  "timestamp": "2026-10-16T09:25:53.025190807Z",
+  "model": "glm-5.3"
+}

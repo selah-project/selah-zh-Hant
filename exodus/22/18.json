@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מות יומת",
+      "rationale": "不定式絕對加完成式加強語氣：『必被治死』，直譯『死他必被處死』"
+    },
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "中文需要受事代詞，希伯來文由分詞隱含"
+    }
+  ],
+  "translation": "凡與獸同寢的，他必被治死。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "23048a5c6e6796c45a6bb970dbfea58617da0fd6bbe045ea1251ac4248b63350",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/22\/17-20.1792126149015.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "同寢"
+    },
+    {
+      "surface": "עם",
+      "gloss": "與"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "獸"
+    },
+    {
+      "surface": "מות",
+      "gloss": "被治死"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "必"
+    }
+  ],
+  "timestamp": "2026-10-16T04:49:09.016044176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "משך חסד",
+      "rationale": "直譯「拉出慈愛」（伸延慈愛之意），譯作「施慈愛」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יתומיו",
+      "rationale": "「他的孤兒」——指受咒詛之人的遺孤，非泛指孤兒"
+    }
+  ],
+  "translation": "願無人向他施慈愛，也願無人恩待他的孤兒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a7b31318b19a7e72c9e48e15b46f2594305048534117578a78777a5ac842426f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/109\/11-12.1792149952066.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "願不"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "有"
+    },
+    {
+      "surface": "לו",
+      "gloss": "向他"
+    },
+    {
+      "surface": "משך",
+      "gloss": "施"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "慈愛"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "也願不"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "有"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "恩待"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "他的孤兒"
+    }
+  ],
+  "timestamp": "2026-10-16T11:25:52.067289955Z",
+  "model": "glm-5.3"
+}

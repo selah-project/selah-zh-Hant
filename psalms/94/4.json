@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יביעו",
+      "rationale": "字面「湧出」如泉水噴發，指言語傾瀉；補「言語」以成句"
+    },
+    {
+      "kind": "addition",
+      "subject": "言語、話",
+      "rationale": "希伯來文只記動詞「湧出、說」，受詞由語境補出"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יתאמרו",
+      "rationale": "字面「使自己高舉」，與上節「高傲的人（גאים）」呼應"
+    }
+  ],
+  "translation": "他們湧出言語，說出狂傲的話；一切作孽的人都自我誇大。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "638f4f9f613b653d88789ffe6543c752bf444e0bd8e571b2d37be6b6dfd67279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/94\/1-4.1792144535515.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "湧出"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "說出"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "狂傲的話"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "自我誇大"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "作……的人"
+    },
+    {
+      "surface": "און",
+      "gloss": "孽"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:35.516330723Z",
+  "model": "glm-5.3"
+}

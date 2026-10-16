@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "日常定量",
+      "rationale": "細麵三十歌珥、粗麵六十歌珥，逐日計數的糧食定量。"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文補「是」以成句。"
+    }
+  ],
+  "translation": "所羅門每日的食物是：細麵三十歌珥，粗麵六十歌珥。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "53a5300943b37a034dac9ae92d281bfc4ab2f8fb0dd50e11fd3579b949c184b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/5\/1-4.1792132717053.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "每日"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "食物"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "一日的"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "כר",
+      "gloss": "歌珥"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "細麵"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "六十"
+    },
+    {
+      "surface": "כר",
+      "gloss": "歌珥"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "粗麵"
+    }
+  ],
+  "timestamp": "2026-10-16T06:38:37.054014197Z",
+  "model": "glm-5.3"
+}

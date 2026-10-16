@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 3:7",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "腰間的遮蔽物",
+      "rationale": "חגרת 字面是「腰帶／圍腰布」，譯作「圍裙」是傳統的意譯，此處保留腰帶的意象"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עירמם",
+      "rationale": "עֵרֻמִּים（赤身，3:7）與 עָרוּם（狡猾，3:1）同音相關，蛇的狡猾帶來赤身，中文全失"
+    }
+  ],
+  "translation": "他們兩人的眼睛就開了，才知道自己是赤身的，便拿無花果樹的葉子為自己縫製了腰間的遮蔽物。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "568b6b304f4558abd639e79d93f2b96c63d82758632ac3ff76e234305718108d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/3\/5-8.1792124546368.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפקחנה",
+      "gloss": "就開了"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "……的眼睛"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "他們兩人"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "才知道"
+    },
+    {
+      "surface": "כי",
+      "gloss": "（引出）"
+    },
+    {
+      "surface": "עירמם",
+      "gloss": "自己是赤身的"
+    },
+    {
+      "surface": "הם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "ויתפרו",
+      "gloss": "便縫製"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "葉子"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "無花果樹"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "做了"
+    },
+    {
+      "surface": "להם",
+      "gloss": "為自己"
+    },
+    {
+      "surface": "חגרת",
+      "gloss": "腰間的遮蔽物"
+    }
+  ],
+  "timestamp": "2026-10-16T04:22:26.369850094Z",
+  "model": "glm-5.3"
+}

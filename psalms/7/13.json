@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "雅威",
+      "rationale": "希伯來文未指明磨刀的主語，按上文（7:12–13 為雅威的作為）補出"
+    },
+    {
+      "kind": "crux",
+      "subject": "דרך",
+      "rationale": "字面為「踩踏」（張弓時以足踏弓），各譯本作「彎弓／張開」，譯「拉開」並註明踩踏張弓之義"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יכוננה",
+      "rationale": "動詞尾有 ה 賓語後綴「預備它」，中文以「妥當」概括，後綴不顯"
+    }
+  ],
+  "translation": "他若不回轉，雅威必磨利⟨他自己的⟩刀劍；他的弓已經拉開，並已預備妥當。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cde8a333cd66e7f1e6340b4957c7a2c26ead845377c63444c6458b18cbe08ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/7\/13-16.1792143235473.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "回轉"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "他的刀劍"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "磨利"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "他的弓"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "拉開"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "並預備妥當"
+    }
+  ],
+  "timestamp": "2026-10-16T09:33:55.473674958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 5:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כצנה",
+      "rationale": "同一詞兼有「鉤」與「大盾」之義；諸譯本皆取「盾牌」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "喜悅的心",
+      "rationale": "רצון 直譯為「喜悅、恩惠」，此處以盾牌為喻體圍繞義人"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תעטרנו",
+      "rationale": "עטר 兼有「加冕」與「圍繞」之義，雙關於中文難以兼顧"
+    }
+  ],
+  "translation": "因為你必賜福給義人，雅威啊；你必以慈愛⟨喜悅的心⟩如盾牌般四面圍繞他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ddadfc070bb11a9fb5fbc5d276f8157956b397d664a9fb3777933473a4c81ad8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/5\/13-13.1792143168065.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "必賜福"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כצנה",
+      "gloss": "如盾牌般"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "喜悅的心"
+    },
+    {
+      "surface": "תעטרנו",
+      "gloss": "必圍繞他"
+    }
+  ],
+  "timestamp": "2026-10-16T09:32:48.066035468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "關係代名詞融入中文破折號結構，無獨立譯詞"
+    },
+    {
+      "kind": "invitation",
+      "subject": "向讀者",
+      "rationale": "「何等有福」的稱羨語式呼喚讀者反思受管教者的福分"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יסר\/למד",
+      "rationale": "管教與教導二詞重現上節對雅威的描述——雅威怎樣待列國，也怎樣管教他所愛的人"
+    }
+  ],
+  "translation": "那人是何等有福——雅啊，你管教他，又從你的妥拉教導他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e44314235dd6f7e33bfd17834b872df97f0fc478f6b1ca676f0faca882961b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/94\/9-12.1792144493072.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "何等有福"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "那人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "──（你所管教的）"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "你管教他"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "又從你的妥拉"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "教導他"
+    }
+  ],
+  "timestamp": "2026-10-16T09:54:53.073081365Z",
+  "model": "glm-5.3"
+}

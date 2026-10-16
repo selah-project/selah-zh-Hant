@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "我〈必〉",
+      "rationale": "אני「我」是強調代名詞，中文語序需置於動詞前並補語氣詞「必」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השמתי\/שממו",
+      "rationale": "「我使荒廢」與「他們驚駭」同根שמם——我使之荒廢，故他們為之啞然；中文以「荒廢／驚駭」分譯，字根呼應失落"
+    },
+    {
+      "kind": "crux",
+      "subject": "ושממו",
+      "rationale": "或作「荒涼」（無人居住之意）而非「驚駭」——KJV作astonished；兩讀皆出自שמם字根"
+    }
+  ],
+  "translation": "我〈必〉使 ⟨את⟩ 這地荒廢，住在其上的你們的仇敵必因其荒廢而驚駭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "43007b8eb34bf413626886be0e0ccdee843167019b9fcb501a9e8b0bd46ccdc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/26\/29-32.1792127397581.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "我必使……荒廢"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "這地"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "必……驚駭"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "在其上"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "你們的仇敵"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "住在"
+    },
+    {
+      "surface": "בה",
+      "gloss": "其中"
+    }
+  ],
+  "timestamp": "2026-10-16T05:09:57.582585174Z",
+  "model": "glm-5.3"
+}

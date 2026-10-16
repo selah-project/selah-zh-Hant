@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 13:24",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "產業",
+      "rationale": "希伯來文動詞「賜」無明說的受詞，〈產業〉由上下文補足。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "分地",
+      "rationale": "記載產業按支派與宗族分配，屬分配丈量文體。"
+    }
+  ],
+  "translation": "摩西把〈產業〉賜給迦得支派，就是迦得的子孫，按著他們的宗族。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1e40b2b2ecabc68850feffe9029de7d0556398db8a4973938d2d009a0f203185",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/13\/21-24.1792129736151.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "賜給"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "給…支派"
+    },
+    {
+      "surface": "גד",
+      "gloss": "迦得"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "給…的子孫"
+    },
+    {
+      "surface": "גד",
+      "gloss": "迦得"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "按著他們的宗族"
+    }
+  ],
+  "timestamp": "2026-10-16T05:48:56.152829300Z",
+  "model": "glm-5.3"
+}

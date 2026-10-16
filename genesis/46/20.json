@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 46:20",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "得了兒子",
+      "rationale": "וַיִּוָּלֵד 是被動式「被生下來」，中文以「得了兒子」順句；亦可作「生了」"
+    },
+    {
+      "kind": "crux",
+      "subject": "波提非拉",
+      "rationale": "有抄本（撒瑪利亞五經、LXX）此節作「波提乏」，與創 39 章的波提乏名字相近但非同一人"
+    }
+  ],
+  "translation": "約瑟在埃及地得了兒子——安城的祭司波提非拉的女兒亞西納給他生了 ⟨את⟩ 瑪拿西和 ⟨את⟩ 以法蓮。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "399b7d7c55d13171dd39ec43ef169bec8c250eaa574ed970ebd00d4c62fa1b34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/46\/17-20.1792125569847.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "生了"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "給約瑟"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在……地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "（關係詞，融於破折號結構）"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "她生了"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給他"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "亞西納"
+    },
+    {
+      "surface": "בת",
+      "gloss": "女兒"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "波提"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "非拉"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "אן",
+      "gloss": "安城"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "瑪拿西"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "瑪拿西"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "以法蓮"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    }
+  ],
+  "timestamp": "2026-10-16T04:39:29.849252354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "獻給他",
+      "rationale": "希伯來文只有名詞短語，無動詞；中文需補出獻上的動作"
+    },
+    {
+      "kind": "invitation",
+      "subject": "你要尊崇",
+      "rationale": "命令式勸勉，向讀者發出"
+    }
+  ],
+  "translation": "你要從你的財富尊崇 ⟨את⟩ 雅威，也要用你一切收成的初熟之物⟨獻給他⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3ae0f6e911489f8f4e860ffe2516c72982e0b8c5bf1a37d138e8667248fc0266",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/3\/9-12.1792145193261.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "尊崇"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "從你的財富"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "也用……的初熟之物"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "你的收成"
+    }
+  ],
+  "timestamp": "2026-10-16T10:06:33.261810878Z",
+  "model": "glm-5.3"
+}

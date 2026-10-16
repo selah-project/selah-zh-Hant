@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 3:4",
+  "book": "habakkuk",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חביון",
+      "rationale": "「隱藏」一詞僅見於此處於全塔納赫"
+    },
+    {
+      "kind": "substitution",
+      "subject": "兩隻角",
+      "rationale": "קרנים為雙數，字面是兩隻角（光線如角射出），非泛指光束"
+    },
+    {
+      "kind": "addition",
+      "subject": "射出光線",
+      "rationale": "原文僅「角在他手」，動詞為補足中文語法"
+    },
+    {
+      "kind": "mystery",
+      "subject": "能力的隱藏處",
+      "rationale": "他的能力被隱藏——顯現中仍有所藏"
+    }
+  ],
+  "translation": "他的光輝如光 ⟨發亮⟩；他手有兩隻角 ⟨射出光線⟩，在那裡是他能力的隱藏處。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3ace61044838b1df432595ac423b3503c7557acbde4d3fd4dd10e2c4c84f31bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/habakkuk\/3\/1-4.1792142783901.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "而他的光輝"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "如光"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "顯為"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "兩隻角"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "從他的手"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他有"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "在那裡"
+    },
+    {
+      "surface": "חביון",
+      "gloss": "隱藏處"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "他的能力"
+    }
+  ],
+  "timestamp": "2026-10-16T09:26:23.903848051Z",
+  "model": "glm-5.3"
+}

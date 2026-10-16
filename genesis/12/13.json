@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 12:13",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אָתְּ",
+      "rationale": "此處 אָתְּ 是第二人稱陰性代名詞「你」（H859），不是受詞記號 את（H853），故不標 ⟨את⟩ 而譯作「你」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 本義是「呼吸的活體／生命氣息」，譯「性命」而非「靈魂」。"
+    },
+    {
+      "kind": "you",
+      "subject": "to Sarai",
+      "rationale": "亞伯蘭直接向撒萊說話，命令式「求你說」。"
+    }
+  ],
+  "translation": "求你說：「你是我的妹妹」，好叫我因你得好處，我的性命也因你得以存活。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "44aa1d740b55c50ab80ae37558d126c9d36b036223828003e62e9509740065c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/12\/13-16.1792124752835.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "你說"
+    },
+    {
+      "surface": "נא",
+      "gloss": "求你"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "我的妹妹"
+    },
+    {
+      "surface": "את",
+      "gloss": "你"
+    },
+    {
+      "surface": "למען",
+      "gloss": "好叫"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "得好處"
+    },
+    {
+      "surface": "לי",
+      "gloss": "於我"
+    },
+    {
+      "surface": "בעבורך",
+      "gloss": "因你"
+    },
+    {
+      "surface": "וחיתה",
+      "gloss": "得以存活"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "בגללך",
+      "gloss": "因你"
+    }
+  ],
+  "timestamp": "2026-10-16T04:25:52.835993910Z",
+  "model": "glm-5.3"
+}

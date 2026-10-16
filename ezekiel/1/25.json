@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 1:25",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "穹蒼",
+      "rationale": "רקיע是擴展之幕、堅硬之蓋的意象；「穹蒼」取其古意，接近原文形狀"
+    },
+    {
+      "kind": "addition",
+      "subject": "發出",
+      "rationale": "中文動詞句需要動詞，希伯來文 ויהי僅為「有、成了」"
+    }
+  ],
+  "translation": "在穹蒼之上、他們頭頂以上有聲音發出；他們站住的時候，就垂下翅膀。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ee05e68a8820a2037bc05bce7ec4f404e57c4f9627ed5261a155671c17f08b99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/1\/25-28.1792137861980.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "有……發生"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲音"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "之上"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "穹蒼"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……之上"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "他們的頭"
+    },
+    {
+      "surface": "בעמדם",
+      "gloss": "他們站住的時候"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "垂下"
+    },
+    {
+      "surface": "כנפיהן",
+      "gloss": "牠們的翅膀"
+    }
+  ],
+  "timestamp": "2026-10-16T08:04:21.981369054Z",
+  "model": "glm-5.3"
+}

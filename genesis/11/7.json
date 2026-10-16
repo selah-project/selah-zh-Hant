@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 11:7",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בלל",
+      "rationale": "本義「摻混」，譯作「變亂」，與 v.9 巴別（בבל）音近相連"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נבלה／בבל",
+      "rationale": "變亂（בלל）與巴別（בל）音近，構成 v.9 地名雙關"
+    },
+    {
+      "kind": "mystery",
+      "subject": "我們下去",
+      "rationale": "雅威以複數自稱「我們」，經文本身未解釋所指"
+    }
+  ],
+  "translation": "來吧，我們下去，在那裏變亂他們的言語，使他們彼此聽不懂⟨對方⟩的言語。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "69d5a501e1f549f4d9adc257799f261adc105898adba55e5a1de8d8dc822b5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/11\/5-8.1792124779756.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "來吧"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "我們下去"
+    },
+    {
+      "surface": "ונבלה",
+      "gloss": "變亂"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裏"
+    },
+    {
+      "surface": "שפתם",
+      "gloss": "他們的言語"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "使"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "聽懂"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "……的言語"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "他的同伴"
+    }
+  ],
+  "timestamp": "2026-10-16T04:26:19.757379757Z",
+  "model": "glm-5.3"
+}

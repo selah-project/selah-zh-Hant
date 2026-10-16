@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 32:2",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בציון",
+      "rationale": "ציון意為「乾旱之地」（詩 74:15 同根），非「錫安」；譯作「錫安」是把地名讀進了普通名詞。"
+    },
+    {
+      "kind": "crux",
+      "subject": "רוח",
+      "rationale": "此處是尋常的「風」，按雙登記規則譯「風」，不作「魯阿」。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "各人",
+      "rationale": "איש可指個別的「每一人」（參 bsb 'Each'）或那「一人」（君王）；此處取「各人」。"
+    }
+  ],
+  "translation": "那時，各人必如避風的隱蔽處，如躲避暴雨的遮蔽，如乾旱之地的水道，如疲乏之地上沉重磐石的影子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "05fcd370f2b52b8a124c7aa18890659c4680642e1a15d7bf4beb4076bdae0ce1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/32\/1-4.1792135121342.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "那時必"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "כמחבא",
+      "gloss": "如隱蔽處"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    },
+    {
+      "surface": "וסתר",
+      "gloss": "如遮蔽"
+    },
+    {
+      "surface": "זרם",
+      "gloss": "暴雨"
+    },
+    {
+      "surface": "כפלגי",
+      "gloss": "如水道"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "乾旱之地"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "如影子"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "磐石"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "沉重"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "之地"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "疲乏"
+    }
+  ],
+  "timestamp": "2026-10-16T07:18:41.343668382Z",
+  "model": "glm-5.3"
+}

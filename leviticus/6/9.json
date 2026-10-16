@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 6:9",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "無酵餅",
+      "rationale": "מצות是陰性複數（無酵餅），原文以名詞短語充當副詞，譯作「當作無酵餅」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יאכלו…יאכלוה",
+      "rationale": "同一動詞אכל在節中三現（吃…被吃…他們要吃它），首尾呼應，中文難以保留全部重複"
+    },
+    {
+      "kind": "measurement",
+      "subject": "定例",
+      "rationale": "本節（與第11節）屬祭司分食的定規條文"
+    }
+  ],
+  "translation": "亞倫和他的兒子們要吃它的剩餘部分；要當作無酵餅吃，在聖處；在會幕的院子裡他們要吃它。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a555b0c041a2b8b0e53f48fba9229b801bd78160f57c385fd7270e0a2c9b7fcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/6\/9-12.1792126736799.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "而剩下的"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "從它"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "要吃"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "和他的兒子們"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "無酵餅"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "被吃"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "在…地方"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "在…院子"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會晤"
+    },
+    {
+      "surface": "יאכלוה",
+      "gloss": "他們要吃它"
+    }
+  ],
+  "timestamp": "2026-10-16T04:58:56.800473922Z",
+  "model": "glm-5.3"
+}

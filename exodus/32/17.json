@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "這是",
+      "rationale": "中文判斷句需要「這是」，希伯來文僅為名詞短語「爭戰的聲音在營中」"
+    },
+    {
+      "kind": "you",
+      "subject": "to Moses",
+      "rationale": "約書亞直接對摩西說話"
+    }
+  ],
+  "translation": "約書亞聽見⟨את⟩百姓呼喊的聲音，就對摩西說：「這是營中有爭戰的聲音。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cff607322605c9c984e162cb98a6b84bb49d83a375f9b50d2c00781276694261",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/32\/17-20.1792126482327.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "百姓呼喊的聲音"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲音"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "呼喊"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "就說"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲音"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "爭戰"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "在營中"
+    }
+  ],
+  "timestamp": "2026-10-16T04:54:42.328033306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מולדתי",
+      "rationale": "字面為「我的出生之地／親族」（單數集體名詞），此處指親屬群體。"
+    },
+    {
+      "kind": "addition",
+      "subject": "一個",
+      "rationale": "中文量詞結構需要，希伯來文 אשה 無冠詞即不定指。"
+    }
+  ],
+  "translation": "你要往我的本地、我的親族那裡去，為我兒子以撒娶⟨一⟩個妻子。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ea961d83f769b412ae323bc6f09c0c25c1bc1d1e6182a27e37d93f92ea907400",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/24\/1-4.1792124975632.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "而"
+    },
+    {
+      "surface": "אל",
+      "gloss": "往"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "我的本地"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "和往"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "我的親族"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "去"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "娶"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "妻子"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "為我兒子"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "以撒"
+    }
+  ],
+  "timestamp": "2026-10-16T04:29:35.633817449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 27:6",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומחלקתו עמיזבד בנו",
+      "rationale": "「他的班內〈有〉他兒子暗米薩拔」——暗米薩拔是接替統領其班（如 KJV「in his course」），還是班中的一員，譯本有別。"
+    },
+    {
+      "kind": "addition",
+      "subject": "首領",
+      "rationale": "希伯來文無動詞、無「首領」一詞；中文需補出暗米薩拔在班中的身分。"
+    }
+  ],
+  "translation": "這就是那比利雅，是三十個勇士中的勇士，又管理那三十個；他班內的首領是他兒子暗米薩拔。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "94387d202d325cb132713675be5619be152cd2f6f8fb26669100ff5487a2df2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/27\/5-8.1792149019934.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "這就是那"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "比利雅"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "三十個勇士中"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "管理"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "那三十個"
+    },
+    {
+      "surface": "ומחלקתו",
+      "gloss": "他班內"
+    },
+    {
+      "surface": "עמיזבד",
+      "gloss": "暗米薩拔"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "他兒子"
+    }
+  ],
+  "timestamp": "2026-10-16T11:10:19.935752359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "這",
+      "rationale": "עם 無定冠詞，中文需指示詞以成句"
+    },
+    {
+      "kind": "elision",
+      "subject": "למו",
+      "rationale": "詩歌語助詞「屬他們」，已併入「他們也有」的語序中，不再另譯"
+    },
+    {
+      "kind": "crux",
+      "subject": "有眼的瞎子",
+      "rationale": "歷來爭議：身體瞎眼還是屬靈瞎眼？上下文（43:9 法庭場景）支持屬靈義——有眼卻看不見的民"
+    }
+  ],
+  "translation": "要領出這瞎眼的民族，他們卻有眼睛；領出那些聾人，耳朵他們也有。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ec114a528fb269933b530985c3872a18513e153d524a5f1b9d4b72bd464fa70f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/43\/5-8.1792135413058.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "要領出"
+    },
+    {
+      "surface": "עם",
+      "gloss": "這民族"
+    },
+    {
+      "surface": "עור",
+      "gloss": "瞎眼的"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "而有眼睛"
+    },
+    {
+      "surface": "יש",
+      "gloss": "有"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "而那些聾人"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "而有耳朵"
+    },
+    {
+      "surface": "למו",
+      "gloss": "屬他們"
+    }
+  ],
+  "timestamp": "2026-10-16T07:23:33.059342471Z",
+  "model": "glm-5.3"
+}

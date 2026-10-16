@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישכחו עמי",
+      "rationale": "字面「免得我的民忘記」，主詞可作「他們」（免得他們使我的民忘記）或「我的民」（免得我的民忘記）；諸本分歧。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "主",
+      "rationale": "阿多奈之後加「主」為呼格助讀；阿多奈本身不譯作主。"
+    },
+    {
+      "kind": "you",
+      "subject": "to 雅威\/阿多奈",
+      "rationale": "向神發出的祈求句，稱他為「我們的盾牌」。"
+    }
+  ],
+  "translation": "不要殺他們，免得我的人民忘記；求你用你的能力使他們飄流搖動，將他們降下來，主我們的盾牌啊，阿多奈！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f0283e5b1c1d299a88dc20399bc6a9716c62d1628082d08dfa487ce0e6e075c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/59\/9-12.1792143910909.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "殺他們"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "忘記"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的人民"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "使他們飄流搖動"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "用你的能力"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "並將他們降下來"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "我們的盾牌"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    }
+  ],
+  "timestamp": "2026-10-16T09:45:10.910441030Z",
+  "model": "glm-5.3"
+}

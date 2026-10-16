@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לאמר",
+      "rationale": "希伯來引言慣用語「說」，中文以冒號收束，第二個「說」融入標點"
+    },
+    {
+      "kind": "you",
+      "subject": "to 摩西和亞倫",
+      "rationale": "雅威直接向摩西、亞倫發言"
+    }
+  ],
+  "translation": "雅威在埃及地對摩西和亞倫說：",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6a2fca18ed82383ceda26d660db1376d8335a18cf5835d5198440090dbd41aba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/12\/1-4.1792125900605.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "和對"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在……地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    }
+  ],
+  "timestamp": "2026-10-16T04:45:00.607500369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 8:13",
+  "book": "song-of-songs",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨你這⟩",
+      "rationale": "希伯來文分詞片語無人稱代名詞，中文需補出稱呼對象"
+    },
+    {
+      "kind": "invitation",
+      "subject": "השמיעיני",
+      "rationale": "使役命令式「使我去聽」——向戀人發出的呼喚，全書以渴求之聲作結"
+    },
+    {
+      "kind": "you",
+      "subject": "對佳偶",
+      "rationale": "本章發言者（良人）向園中女子的直接呼喚"
+    }
+  ],
+  "translation": "⟨你這⟩坐在園中的，同伴們傾聽你的聲音；求你讓我聽見。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e2fc1b5d59c398cafe0c0b459ab94cb44a8980fb594972db09c9f87d1d9bb620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/8\/13-14.1792146681808.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היושבת",
+      "gloss": "坐在…中的（陰性單數分詞）"
+    },
+    {
+      "surface": "בגנים",
+      "gloss": "在園中"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "同伴們"
+    },
+    {
+      "surface": "מקשיבים",
+      "gloss": "傾聽"
+    },
+    {
+      "surface": "לקולך",
+      "gloss": "你的聲音"
+    },
+    {
+      "surface": "השמיעיני",
+      "gloss": "求你讓我聽見"
+    }
+  ],
+  "timestamp": "2026-10-16T10:31:21.808852261Z",
+  "model": "glm-5.3"
+}

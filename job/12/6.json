@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 12:6",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לאשר הביא אלוה בידו",
+      "rationale": "KJV讀作「神豐豐富富賜入他手」（成語式），BSB讀作「手中攜其神者」，YLT直譯「神所帶入其手的」；此處取直譯並明示「豐富」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "豐富",
+      "rationale": "「豐富」為譯文補足的受詞，希伯來文הביא ביד慣用語中受詞未言明。"
+    },
+    {
+      "kind": "addition",
+      "subject": "怒氣",
+      "rationale": "מרגיזי אל直譯「使伊勒震動者」，中文補「怒氣」以成自然語。"
+    }
+  ],
+  "translation": "搶奪者的帳棚安然無事，惹動伊勒怒氣的人反得穩妥——以羅阿把豐富帶入他手中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ab3fe6ce5d017790bb3156c419c36a41f696271f0388e72caa4113038210daa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/12\/5-8.1792145965213.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישליו",
+      "gloss": "安然無事"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "לשדדים",
+      "gloss": "搶奪者的"
+    },
+    {
+      "surface": "ובטחות",
+      "gloss": "反得穩妥"
+    },
+    {
+      "surface": "למרגיזי",
+      "gloss": "惹動……怒氣的人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "帶入"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "以羅阿"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "他手中"
+    }
+  ],
+  "timestamp": "2026-10-16T10:19:25.214442488Z",
+  "model": "glm-5.3"
+}

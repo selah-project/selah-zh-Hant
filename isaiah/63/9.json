@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 63:9",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא צר",
+      "rationale": "「不是仇敵」（依讀音 lō-tsar，如 YLT）對比「他受苦難」（KJV\/JPS 讀 lo-tsar 受動式）；本譯採前者。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צרתם\/צר",
+      "rationale": "「患難」與「狹窄／仇敵」同根雙關，中文無法保留。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "他面前的使者",
+      "rationale": "מלאך פניו 直譯「他臉面的使者」，指雅威同在的使者。"
+    }
+  ],
+  "translation": "在他們一切患難中，他不是仇敵，他面前的使者拯救了他們；他以自己的愛、以自己的憐恤救贖了他們，他背負他們、扶持他們，直到永遠所有的日子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bbdab2a86cd87b5b6ec99e36b4b7fc50cf5f43ab9a05a0e3102c13b9ed6189aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/63\/9-12.1792135811492.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "在……一切"
+    },
+    {
+      "surface": "צרתם",
+      "gloss": "他們的患難"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "צר",
+      "gloss": "是仇敵"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "而……的使者"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "他面前的"
+    },
+    {
+      "surface": "הושיעם",
+      "gloss": "拯救了他們"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "以自己的愛"
+    },
+    {
+      "surface": "ובחמלתו",
+      "gloss": "以自己的憐恤"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他自己"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "救贖了他們"
+    },
+    {
+      "surface": "וינטלם",
+      "gloss": "他背負他們"
+    },
+    {
+      "surface": "וינשאם",
+      "gloss": "扶持他們"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日子"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-10-16T07:30:11.493243030Z",
+  "model": "glm-5.3"
+}

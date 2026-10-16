@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "亞瑪勒",
+      "rationale": "עמל 與「亞瑪力人」同音異詞，此處為人名，非民族名"
+    },
+    {
+      "kind": "measurement",
+      "subject": "家譜名單",
+      "rationale": "族譜計數——希勒四子的名單"
+    }
+  ],
+  "translation": "他哥哥希勒的兒子是瑣法、伊姆拿、示利施、亞瑪勒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6a79dffbd60953b296e308b337219790480bf5fa29bc6fdab8a10cfb6f10b0bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/7\/33-36.1792148604406.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "的兒子"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "希勒"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "他哥哥"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "瑣法"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "伊姆拿"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "示利施"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "亞瑪勒"
+    }
+  ],
+  "timestamp": "2026-10-16T11:03:24.407016075Z",
+  "model": "glm-5.3"
+}

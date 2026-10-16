@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "以色列人",
+      "rationale": "命令式條文，直接對百姓頒布禁令"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלב",
+      "rationale": "חלב（脂肪）與 חלב（奶）同音異讀，本節屬祭司脂肪禁令的鑰詞，中文以「脂肪」一形貫穿"
+    }
+  ],
+  "translation": "「你要對以色列人說：牛、綿羊、山羊的一切脂肪，你們都不可吃。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6997f06ebb6ef0ec98bec4151f42879a9c7b1c0a22eae5e2b34766e261f3d47a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/7\/21-24.1792126712371.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "你要對……說"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "脂肪"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "綿羊"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "山羊"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "你們吃"
+    }
+  ],
+  "timestamp": "2026-10-16T04:58:32.372380224Z",
+  "model": "glm-5.3"
+}

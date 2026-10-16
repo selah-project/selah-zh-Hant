@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "語氣助詞併入願望式，未單獨譯出"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יראי יהוה",
+      "rationale": "分詞構詞組「敬畏雅威者」，中文加「的人」以成自然語"
+    }
+  ],
+  "translation": "願敬畏雅威的人說：「他的慈愛存到永遠。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3c25990045a90f821ca2b854677a058eee5ccc8c201918ed0faf2d728f337cf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/118\/1-4.1792144790274.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "願……說"
+    },
+    {
+      "surface": "נא",
+      "gloss": "如今"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "敬畏……的人"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨因為⟩"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "他的慈愛"
+    }
+  ],
+  "timestamp": "2026-10-16T09:59:50.275474275Z",
+  "model": "glm-5.3"
+}

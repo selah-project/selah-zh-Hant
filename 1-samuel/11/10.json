@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 11:10",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "受話者",
+      "rationale": "希伯來文未標明對誰說（亞捫人／拿轄），中文以「你們」承接"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ככל הטוב בעיניכם",
+      "rationale": "直譯「照你們眼中一切好的」＝希伯來慣用語「照你們看為好的」"
+    }
+  ],
+  "translation": "雅比的人說：「明天我們必出來到你們那裡，你們可以照你們眼中看為好的，任意待我們。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "53cf25570542505c951b92bd76edc9d4bb62050e171184edbd1287d73d785a32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/11\/9-12.1792130937030.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "他們說"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "……的人"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "雅比"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "明天"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "我們必出來"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "到你們那裡"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "你們待"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "我們"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "照一切"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "好的"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "在你們眼中"
+    }
+  ],
+  "timestamp": "2026-10-16T06:08:57.031250995Z",
+  "model": "glm-5.3"
+}

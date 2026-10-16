@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "十八千",
+      "rationale": "一萬八千的陣亡人數，數字原位不動"
+    },
+    {
+      "kind": "crux",
+      "subject": "亞蘭 vs 以東",
+      "rationale": "撒下8:13作「亞蘭」，代上18:12平行經文作「以東」；希伯來文兩詞字母相近（ארם／אדום），譯者自古分歧"
+    },
+    {
+      "kind": "alternative",
+      "subject": "十八千",
+      "rationale": "亦可讀作附屬於整段戰績的總數，而非單指鹽谷一役"
+    }
+  ],
+  "translation": "大衛擄歸後、因擊殺 ⟨את⟩ 亞蘭於鹽谷、就為自己贏得了名聲——一萬八千人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2aaccc21eceeb9b75630fb673a1059499f8ac5adfb415142ac5ec3ef5657177f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/8\/13-16.1792131789952.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "賺得了"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名聲"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "當他返回時"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "因他擊殺"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞蘭"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "在谷中"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "鹽"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "八"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    }
+  ],
+  "timestamp": "2026-10-16T06:23:09.953487686Z",
+  "model": "glm-5.3"
+}

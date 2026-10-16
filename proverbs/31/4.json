@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "או",
+      "rationale": "או 本義「渴望」；KJV\/ASV 依傳統讀作「在哪裡」（何處有濃酒），YLT\/BSB 作「渴求」。此處取字面「渴求」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אל למלכים",
+      "rationale": "「不宜君王」二疊呼，且「אל למלכים למואל」中利慕伊勒之名與疊呼交織成音韻迴環。"
+    },
+    {
+      "kind": "you",
+      "subject": "to Lemuel",
+      "rationale": "直接呼喚利慕伊勒王之名。"
+    }
+  ],
+  "translation": "利慕伊勒啊，君王不宜，君王不宜喝酒，官長不宜渴求濃酒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dde9941be6f30a67e18cc6bb786b08eee80d9b202a3e0788ab97bcc64ada7b1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/31\/1-4.1792145750748.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "不宜"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "君王"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "利慕伊勒啊"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不宜"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "君王"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "喝"
+    },
+    {
+      "surface": "יין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "官長"
+    },
+    {
+      "surface": "או",
+      "gloss": "渴求"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "濃酒"
+    }
+  ],
+  "timestamp": "2026-10-16T10:15:50.749340942Z",
+  "model": "glm-5.3"
+}

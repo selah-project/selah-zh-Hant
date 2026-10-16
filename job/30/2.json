@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 30:2",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כלח",
+      "rationale": "僅數見之詞，「成熟壯年」：有譯「老 年」（年邁已過），有譯「壯年精力」（已耗盡）"
+    },
+    {
+      "kind": "elision",
+      "subject": "גם",
+      "rationale": "連接副詞併入句首語氣，未單獨譯出"
+    }
+  ],
+  "translation": "他們手上的力氣，與我何益？他們的壯年早已消逝。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "398f25acbcee001d712b7d65b23c489fc208a49cb4e4a4071a862bf085ad5c9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/30\/1-4.1792146294630.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "כח",
+      "gloss": "力氣"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "他們…的手"
+    },
+    {
+      "surface": "למה",
+      "gloss": "何益"
+    },
+    {
+      "surface": "לי",
+      "gloss": "與我"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "在他們身上"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "消逝"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "壯年"
+    }
+  ],
+  "timestamp": "2026-10-16T10:24:54.631402626Z",
+  "model": "glm-5.3"
+}

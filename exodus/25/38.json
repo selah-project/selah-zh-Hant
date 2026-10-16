@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 25:38",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מלקחים",
+      "rationale": "燭剪一詞僅以雙數形式出現於會幕器物的清單中。"
+    },
+    {
+      "kind": "addition",
+      "subject": "做",
+      "rationale": "希伯來文僅列名詞與材料，中文補一動詞「做」以成句。"
+    }
+  ],
+  "translation": "它的燭剪和火盤也要用純金做。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5e7cf29174a2fe2633c726b898eee82da6e2c35aacfcc3cf688cce3bf866cfc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/25\/37-40.1792126231572.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלקחיה",
+      "gloss": "它的燭剪"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "和它的火盤"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "純"
+    }
+  ],
+  "timestamp": "2026-10-16T04:50:31.573068487Z",
+  "model": "glm-5.3"
+}

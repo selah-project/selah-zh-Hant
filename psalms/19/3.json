@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יום ליום…לילה ללילה",
+      "rationale": "日對日、夜對夜的鏡像重複結構，中文以「這…那…」保留對稱"
+    },
+    {
+      "kind": "substitution",
+      "subject": "湧出",
+      "rationale": "יביע字面為「湧流而出」，如泉湧出言語"
+    }
+  ],
+  "translation": "這日向那日湧出言語，這夜向那夜表明知識。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d8287053d8f596e0214dd1b5c0435b86ff9547bcd3bbb54b7e30a0f6ab64ac4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/19\/1-4.1792143458532.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "這日"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "向那日"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "湧出"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言語"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "而這夜"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "向那夜"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "表明"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識"
+    }
+  ],
+  "timestamp": "2026-10-16T09:37:38.532989750Z",
+  "model": "glm-5.3"
+}

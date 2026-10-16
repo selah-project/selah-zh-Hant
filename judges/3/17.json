@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 3:17",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無動詞，中文需繫詞「是」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "貢物",
+      "rationale": "מנחה 本義為「供物／禮物」，此處作貢品，故譯「貢物」"
+    }
+  ],
+  "translation": "他把 ⟨את⟩ 貢物帶到摩押王伊磯倫面前；伊磯倫是個極其肥胖的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "71105052039f5f09c8f4fea6619bb997cd589300cf39f24fafeffb46cf0cb815",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/3\/17-20.1792130192970.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "帶到…面前"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "貢物"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "貢物"
+    },
+    {
+      "surface": "לעגלון",
+      "gloss": "到伊磯倫"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "而伊磯倫"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "בריא",
+      "gloss": "肥胖的"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極其"
+    }
+  ],
+  "timestamp": "2026-10-16T05:56:32.970944966Z",
+  "model": "glm-5.3"
+}

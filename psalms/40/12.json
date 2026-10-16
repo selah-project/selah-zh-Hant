@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יצרוני",
+      "rationale": "可讀為祈願式「願…保守我」（KJV、Geneva）或未完成時「必保守我」（BSB）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "憐憫",
+      "rationale": "רחמיך複數形「眾憐憫」，與子宮同根，中文不顯複數"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסד ואמת",
+      "rationale": "慈愛與誠實的配對連於第11節同詞，形成環扣"
+    }
+  ],
+  "translation": "雅威啊，你不將你的憐憫從我扣留；願你的慈愛和你的誠實常常保守我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "91eced36a45d2fc058f527b35a65514f4e07413fbfe2c39fdaafac82224baf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/40\/9-12.1792143733985.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "扣留"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "你的憐憫"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "從我"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "你的慈愛"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "和你的誠實"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "常常"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "保守我"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:13.986071126Z",
+  "model": "glm-5.3"
+}

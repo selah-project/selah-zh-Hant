@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "七個月",
+      "rationale": "約櫃在非利士人之地停留的月數被明確計數。"
+    },
+    {
+      "kind": "addition",
+      "subject": "的地",
+      "rationale": "שדה 字面是「田野」，此處指非利士人的疆域，中文以「的地」統攝。"
+    }
+  ],
+  "translation": "雅威的櫃在非利士人的地七個月。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "53cb481dcbf63fcb3767efb73f11797f92619438c26a078ee4494b40951fe386",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/1-samuel/6/1-4.1792130900572.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生了"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "櫃"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "在…的地"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "七"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "個月"
+    }
+  ],
+  "timestamp": "2026-10-16T06:08:20.572818185Z",
+  "model": "glm-5.3",
+  "hand": [
+    {
+      "date": "2026-10-16",
+      "by": "shovel",
+      "why": "English row gloss on ויהי → 發生了 (the chair's own most frequent gloss)",
+      "was": "{\"translation\": \"雅威的櫃在非利士人的地七個月。\", \"tokens\": [{\"surface\": \"ויהי\", \"gloss\": \" happened, and it came to pass\"}, {\"surface\": \"ארון\", \"gloss\": \"櫃\"}, {\"surface\": \"יהוה\", \"gloss\": \"雅威\"}, {\"surface\": \"בשדה\", \"gloss\": \"在…的地\"}, {\"surface\": \"פלשתים\", \"gloss\": \"非利士人\"}, {\"surface\": \"שבעה\", \"gloss\": \"七\"}, {\"surface\": \"חדשים\", \"gloss\": \"個月\"}]}"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 11:4",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "此處尋常氣息義，譯「氣息」而非音譯「魯阿」，與 11:2 屬雅威的魯阿有別"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבט פיו",
+      "rationale": "v.1 的枝條（חטר）轉為口中的杖（שבט），意象呼應"
+    },
+    {
+      "kind": "you",
+      "subject": "預言性宣告",
+      "rationale": "延續 v.1 對大衛家的應許，論及將來的審判者"
+    }
+  ],
+  "translation": "他必以公義審判貧寒人，為地上的謙卑人以正直作出裁決；他必用口中的杖擊打地，以他嘴唇的氣息殺死惡人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c74e25d4305f81d497d181d8591de47c9f818c0760129d2a473e3acfbd8daf8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/11\/1-4.1792134800694.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "以公義"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "貧寒人"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "作出裁決"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "以正直"
+    },
+    {
+      "surface": "לענוי",
+      "gloss": "為謙卑人"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "擊打"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "用杖"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "他的口中"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "以氣息"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "他嘴唇的"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "殺死"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    }
+  ],
+  "timestamp": "2026-10-16T07:13:20.696637168Z",
+  "model": "glm-5.3"
+}

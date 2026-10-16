@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "והיה",
+      "rationale": "「事情必如此發生」——中文以「必」字承擔，未逐字譯出"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואני……ואני",
+      "rationale": "「我」在兩行中重複強調——雅威在兩個動作中都是主語，中文保留重複"
+    }
+  ],
+  "translation": "他們尚未呼求，我就應允；他們還在說話，我就垂聽。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "578420fffc6089f267425b5bfce70af2733c9d7132c0d4690945e0838dcb9dd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/65\/21-24.1792135946882.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "必如此"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "尚未"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "呼求"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "應允"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "還"
+    },
+    {
+      "surface": "הם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "在說話"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "垂聽"
+    }
+  ],
+  "timestamp": "2026-10-16T07:32:26.883940652Z",
+  "model": "glm-5.3"
+}

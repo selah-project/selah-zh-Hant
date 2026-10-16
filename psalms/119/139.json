@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "熱忱",
+      "rationale": "קנאתי 是妒忌／熱忱，僕人為雅威的話被輕視而發的火熱"
+    },
+    {
+      "kind": "addition",
+      "subject": "我的",
+      "rationale": "צרי 帶第一人稱字尾（我狹窄者＝我的敵人），中文以所有格補足"
+    }
+  ],
+  "translation": "我的熱忱將我磨滅，因為我的敵人忘記了你的話。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b987db0bca1f7e9f00ff1062d3b0206eed3bf04da98588dd2b441e88a71559a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/137-140.1792144876683.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "將我磨滅"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "我的熱忱"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "忘記了"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "你的話"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "我的敵人"
+    }
+  ],
+  "timestamp": "2026-10-16T10:01:16.684357999Z",
+  "model": "glm-5.3"
+}

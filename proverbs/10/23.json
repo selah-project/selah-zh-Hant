@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 10:23",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "也是如此",
+      "rationale": "第二句動詞省略，希伯來以省略平行首句；中文需補出謂語"
+    },
+    {
+      "kind": "substitution",
+      "subject": "惡計",
+      "rationale": "זמה 指邪惡的計謀，KJV 作 mischief，Wycliffe 作 wickedness"
+    }
+  ],
+  "translation": "作惡計對愚昧人如同嬉笑，而智慧對有見識的人⟨也是如此⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "35e2dedde7db6097628b2f0c28a78ac0d4091f87c8c1dcafc5b61ba04f31d46b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/10\/21-24.1792145303516.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כשחוק",
+      "gloss": "如同嬉笑"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "對愚昧人"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "作"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "惡計"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "而智慧"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "對……人"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "有見識的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:08:23.517931037Z",
+  "model": "glm-5.3"
+}

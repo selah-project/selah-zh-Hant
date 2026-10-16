@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 48:14",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to 被擄之民",
+      "rationale": "命令式聚集、聆聽，向全體聽眾發出召喚。"
+    },
+    {
+      "kind": "crux",
+      "subject": "「它們」所指",
+      "rationale": "「它們中間有誰」依上下文指先前提到的偶像；בהם 的先行詞在緊鄰經文之外，各譯本自行補出。"
+    },
+    {
+      "kind": "addition",
+      "subject": "施展",
+      "rationale": "原文只有名詞「他的膀臂也在迦勒底人身上」，中文補動詞使句子完整。"
+    }
+  ],
+  "translation": "你們都要聚集，且要聽：它們中間有誰宣告了 ⟨את⟩ 這些事？雅威愛他，他必在巴比倫行他所喜悅的事，他的膀臂也要施展在迦勒底人身上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fb6b37790ddbdd36f90e076088f9c277694119a0ab4ff6ffbd4ea24fd9b2828c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/48\/13-16.1792135557749.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקבצו",
+      "gloss": "你們都要聚集"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "你們所有人"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "且要聽"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "在它們中間"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "宣告了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這些事"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些事"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "愛他"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "他必行"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "他所喜悅的事"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "在巴比倫"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "他的膀臂也要施展"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "迦勒底人"
+    }
+  ],
+  "timestamp": "2026-10-16T07:25:57.750172537Z",
+  "model": "glm-5.3"
+}

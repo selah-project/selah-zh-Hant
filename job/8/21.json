@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 8:21",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "希伯來文動詞 ימלא 的主語未寫明（承上文的以羅欣），中文補出主語"
+    },
+    {
+      "kind": "crux",
+      "subject": "עד",
+      "rationale": "'עד 可作「直到」或「當……之時」；KJV 作 'Till he fill'，ASV 作 'He will yet fill'"
+    }
+  ],
+  "translation": "直到他使你的口充滿歡笑，你的嘴脣充滿歡呼。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c81419a499af4329b2e6b7759862f466ec7fe1caa44cabfef8eee439013d20b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/8\/21-22.1792145867096.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "יְמַלֵּא",
+      "gloss": "他使……充滿"
+    },
+    {
+      "surface": "שְׂחֹק",
+      "gloss": "歡笑"
+    },
+    {
+      "surface": "פִּיךָ",
+      "gloss": "你的口"
+    },
+    {
+      "surface": "וּשְׂפָתֶיךָ",
+      "gloss": "你的嘴脣"
+    },
+    {
+      "surface": "תְּרוּעָה",
+      "gloss": "歡呼"
+    }
+  ],
+  "timestamp": "2026-10-16T10:17:47.096701Z",
+  "model": "glm-5.3"
+}

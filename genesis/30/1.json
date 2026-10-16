@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 30:1",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "自己",
+      "rationale": "中文需要受詞主語，希伯來文只說「拉結見」"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הבה לי בנים",
+      "rationale": "הבה 是命令式的「給」，帶強烈請求語氣；「你給我……吧」保留了命令式語氣"
+    },
+    {
+      "kind": "you",
+      "subject": "對雅各",
+      "rationale": "拉結直接向雅各說話"
+    }
+  ],
+  "translation": "拉結見自己沒有給雅各生孩子，就嫉妒她的姊姊，對雅各說：「你給我孩子吧，不然我就死了。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "32b0a027d17b102c62d2f62e9dad1eee5c5c1caac83548fa17699b668aff9240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/30\/1-4.1792125174181.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "見"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "拉結"
+    },
+    {
+      "surface": "כי",
+      "gloss": "……的事"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "生孩子"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "給雅各"
+    },
+    {
+      "surface": "ותקנא",
+      "gloss": "就嫉妒"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "拉結"
+    },
+    {
+      "surface": "באחתה",
+      "gloss": "她的姊姊"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "你給吧"
+    },
+    {
+      "surface": "לי",
+      "gloss": "給我"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "孩子"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "不然"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "מתה",
+      "gloss": "我就死了"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    }
+  ],
+  "timestamp": "2026-10-16T04:32:54.181612982Z",
+  "model": "glm-5.3"
+}

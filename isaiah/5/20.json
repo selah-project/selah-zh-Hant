@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "四組倒反",
+      "rationale": "善／惡、光／暗、甜／苦各以正反兩向出現——完美的交叉倒反結構，道德秩序被全面顛倒。"
+    },
+    {
+      "kind": "you",
+      "subject": "那些稱惡為善的人",
+      "rationale": "『禍哉』直接指向被斥責的群體。"
+    }
+  ],
+  "translation": "禍哉！那些稱惡為善、稱善為惡的人——以黑暗為光、以光為黑暗，以苦為甜、以甜為苦的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "baf20452bd2f2a0416bfba45f031160031ee39aaba601f0a6680bc2fd8d40970",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/5\/17-20.1792134646629.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "禍哉"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "那些說……的人"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "稱惡"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "為善"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "稱善"
+    },
+    {
+      "surface": "רע",
+      "gloss": "為惡"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "以……為"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "黑暗"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "為光"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "以光"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "為黑暗"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "以……為"
+    },
+    {
+      "surface": "מר",
+      "gloss": "苦"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "為甜"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "以甜"
+    },
+    {
+      "surface": "למר",
+      "gloss": "為苦"
+    }
+  ],
+  "timestamp": "2026-10-16T07:10:46.630292664Z",
+  "model": "glm-5.3"
+}

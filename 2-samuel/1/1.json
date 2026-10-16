@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "敘事開頭慣用語「發生了」，中文以掃羅死後直接起句，以⟨發生了⟩標示。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "בצקלג",
+      "rationale": "洗革拉：非利士境內之城，大衛投奔亞吉王所得。"
+    }
+  ],
+  "translation": "掃羅死後，大衛從擊殺 ⟨את⟩ 亞瑪力人回來，在洗革拉住了兩天。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b2523e5605e8c22103e24a4a1d85cd601631615a91282690b91f717fd1a73c0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/1\/1-4.1792131731854.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨發生了⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "……之後"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "שב",
+      "gloss": "回來"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "從擊殺"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞瑪力人"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "亞瑪力人"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "住了"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "在洗革拉"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "天"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "兩"
+    }
+  ],
+  "timestamp": "2026-10-16T06:22:11.857445551Z",
+  "model": "glm-5.3"
+}

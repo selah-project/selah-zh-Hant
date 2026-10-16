@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 5:21",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "東西",
+      "rationale": "「一切屬於你鄰舍的」末尾加「東西」以成自然中文"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחמד\/תתאוה",
+      "rationale": "兩個近義動詞並用（貪戀／渴望），申命記版比出 20 多出「田地」一詞"
+    }
+  ],
+  "translation": "不可貪戀你鄰舍的妻子，不可渴望你鄰舍的房屋——他的田地、他的男僕、他的女婢、他的牛、他的驢，以及一切屬於你鄰舍的東西。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c4344b77523097bd3019e084f42e0ee9fafea487d7e8c92914c798e9b0dc4c70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/5\/21-24.1792128649824.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "貪戀"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "妻子"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "你鄰舍的"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תתאוה",
+      "gloss": "渴望"
+    },
+    {
+      "surface": "בית",
+      "gloss": "房屋"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "你鄰舍的"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "他的田地"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "他的男僕"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "他的女婢"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "他的牛"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "他的驢"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "以及一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "屬於……的"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "你鄰舍的"
+    }
+  ],
+  "timestamp": "2026-10-16T05:30:49.825288621Z",
+  "model": "glm-5.3"
+}

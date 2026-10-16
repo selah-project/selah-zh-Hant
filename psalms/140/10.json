@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ראש מסבי",
+      "rationale": "「我周圍之人的頭／首領」——多數譯本作「圍繞我之人的首領」；亦有古譯本作「願圍繞……之首領（被遮蓋）」，希伯來文僅有名詞片語，動詞由下文明示。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עמל",
+      "rationale": "字義是「勞苦、辛勞」，此處引申為嘴唇所出的禍害；直譯「他們嘴唇的勞苦」中文不通。"
+    }
+  ],
+  "translation": "願圍繞我之人的首領，被他們嘴唇的勞害所遮蓋。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "db49c15584be05e5ebb283b31fde4f7517fe03da85e02036b4390c4f2a7ec45b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/140\/9-12.1792145066511.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "首領"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "圍繞我的人"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "勞害"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "他們的嘴唇"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "遮蓋他們"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:26.511860718Z",
+  "model": "glm-5.3"
+}

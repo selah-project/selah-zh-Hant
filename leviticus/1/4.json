@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 1:4",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "遮罪",
+      "rationale": "כפר本義是「遮蓋」，和合本「贖罪」帶後來的神學重量；此處取字面"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨：⟩",
+      "rationale": "希伯來文兩個不定詞並列（蒙悅納、遮罪），中文加冒號表明目的關係"
+    }
+  ],
+  "translation": "他要按手在燔祭的頭上，它就蒙悅納⟨：⟩為他遮罪。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "271e943134384cca431a51033812d7f5c4fec488358c7486b921252955382514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/1\/1-4.1792126680928.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "他要按"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "他的手"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "燔祭的"
+    },
+    {
+      "surface": "ונרצה",
+      "gloss": "它就蒙悅納"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為他"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "遮罪"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "在他身上"
+    }
+  ],
+  "timestamp": "2026-10-16T04:58:00.929988090Z",
+  "model": "glm-5.3"
+}

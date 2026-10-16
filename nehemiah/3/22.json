@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 3:22",
+  "book": "nehemiah",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "們／的",
+      "rationale": "中文複數與結構助詞為希伯來文所無，屬語法所需。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "平原",
+      "rationale": "הככר 本義為「圓圈、周圍地帶」，或特指約旦河谷平原。"
+    }
+  ],
+  "translation": "在他之後，平原地區的祭司們修築了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "12099ca669e895b717ac28a80e9372b63689544638f984fc0fa9b761f0587f95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nehemiah\/3\/21-24.1792147992180.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "在他之後"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "修築了"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司們"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "……的人"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "平原地區"
+    }
+  ],
+  "timestamp": "2026-10-16T10:53:12.181690265Z",
+  "model": "glm-5.3"
+}

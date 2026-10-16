@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 44:31",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נבלה",
+      "rationale": "「自死的」直譯為「屍體」——非宰殺而自死的動物；中英文皆以描述代替名詞。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "טרפה",
+      "rationale": "「被撕裂的」直譯為「被撕碎的獵物」——被野獸咬死的動物。"
+    }
+  ],
+  "translation": "無論是自死的或是被撕裂的，無論是飛鳥還是走獸，祭司都不可吃。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a0020cf29c55be5c802e510c0a792fca910fa60a8bef0dbc05f65ccddd27f134",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/44\/29-31.1792139241828.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "無論是"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "自死的"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "或是被撕裂的"
+    },
+    {
+      "surface": "מן",
+      "gloss": "無論是"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "飛鳥"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "還是"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "走獸"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "吃"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    }
+  ],
+  "timestamp": "2026-10-16T08:27:21.829966645Z",
+  "model": "glm-5.3"
+}

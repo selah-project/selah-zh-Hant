@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הלבנים",
+      "rationale": "「磚」指異教磚壇；KJV 加「祭壇」二字，希伯來文只說磚"
+    },
+    {
+      "kind": "substitution",
+      "subject": "זבחים",
+      "rationale": "字面是「宰殺（祭牲）」，中文「獻祭」略去了宰殺的畫面"
+    }
+  ],
+  "translation": "這民不斷在我面前惹我發怒：他們在園中宰祭牲，在磚上燒香。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ec6d24d98bc3c49334ea8e65009354aa4de03dae426c5af008d8061d1a71489a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/65\/1-4.1792136061755.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "這民"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "惹我發怒的"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "我"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "פני",
+      "gloss": "我面前"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "不斷地"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "宰祭牲"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "在園中"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "並燒香"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "磚上"
+    }
+  ],
+  "timestamp": "2026-10-16T07:34:21.756925426Z",
+  "model": "glm-5.3"
+}

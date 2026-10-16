@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 19:18",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "一千人 vs 渡船",
+      "rationale": "本節希伯來文（依 JPS 讀法）作『一千個便雅憫人』；KJV 傳統讀為 עברה העברה『渡船渡過』（參 19:17），經節劃分與抄本差異所致。"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "此 את 為介詞 H854『與』（אִתּוֹ＝與他），非受詞記號 H853；譯為『與他在一起』。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "急渡",
+      "rationale": "וצלחו 字面為『衝過、搶先渡過』，JPS 作 rushed；譯『急渡』保留其急切之象。"
+    }
+  ],
+  "translation": "有一千個便雅憫人與他同在，還有掃羅家的僕人洗巴、他的十五個兒子和二十個僕人⟨את⟩他在一起；他們在王面前急渡過了約旦河。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bf7fa65ad9cedf5bf6e0b37ed255689ebae1b3443f18a1eeb3b77766eb347ab8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/19\/18-20.1792142521931.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלף",
+      "gloss": "有一千個"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "與他同在"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "便雅憫"
+    },
+    {
+      "surface": "וציבא",
+      "gloss": "還有洗巴"
+    },
+    {
+      "surface": "נער",
+      "gloss": "僕人"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "וחמשת",
+      "gloss": "和五"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "個兒子"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "和二十"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "個僕人"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "與他在一起"
+    },
+    {
+      "surface": "וצלחו",
+      "gloss": "他們急渡"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦河"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在…面前"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-10-16T09:22:01.933005952Z",
+  "model": "glm-5.3"
+}

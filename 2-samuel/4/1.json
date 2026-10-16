@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 4:1",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "他的手發軟",
+      "rationale": "ידיו וירפו 直譯「他的手鬆弛」，是喪膽的慣用語；中文保留手的圖像。"
+    },
+    {
+      "kind": "addition",
+      "subject": "〈因為〉",
+      "rationale": "כי 引導聽見的內容，中文以「押尼珥死在希伯崙」直接引出，כי 本身不另譯。"
+    }
+  ],
+  "translation": "掃羅的兒子聽見押尼珥死在希伯崙，他的手就發軟，全以色列都驚惶。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dc27d0b8428cea1b88cd4cc8b5cb9ee2e05f7a68bd59b38dd3951746b09ae726",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/4\/1-4.1792131734316.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〈因為〉"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "押尼珥"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "在希伯崙"
+    },
+    {
+      "surface": "וירפו",
+      "gloss": "就發軟"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "他的手"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "驚惶"
+    }
+  ],
+  "timestamp": "2026-10-16T06:22:14.318341970Z",
+  "model": "glm-5.3"
+}

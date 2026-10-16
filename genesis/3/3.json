@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "也不可摸",
+      "rationale": "原文吩咐（創2:17）只提吃；女人加上『不可摸』，譯文照她的話保留。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פן",
+      "rationale": "פן字面為『以免』，帶後果警示語氣，非單純因果。"
+    }
+  ],
+  "translation": "惟有園當中那棵樹的果子，以羅欣曾說：『你們不可吃，也不可摸，免得你們死。』」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a700f949133974de2274d0c924c426bc0771e9a00f90f5959b103eeacfe55278",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/3\/1-4.1792124580000.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "惟有……的果子"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "那棵樹"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "在……當中"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "園"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "曾說"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "吃"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "它"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不可"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "摸"
+    },
+    {
+      "surface": "בו",
+      "gloss": "它"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "你們死"
+    }
+  ],
+  "timestamp": "2026-10-16T04:23:00.001004698Z",
+  "model": "glm-5.3"
+}

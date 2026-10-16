@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בל קרב אליך",
+      "rationale": "字面「不靠近你」：各家譯本或作「免得牠們靠近你」（KJV\/JPS）或作「使牠們靠近你」（BSB，將 בל 讀作牽引義），方向相反。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עדיו",
+      "rationale": "字面是「裝飾／頭絡」，譯作「作裝飾」以保留原字的意外圖像。"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "命令式直接對聽者說話，接續32:8雅威的教導之言。"
+    }
+  ],
+  "translation": "你們不可像馬、像騾那樣沒有悟性，牠們必須用嚼環和籠頭作裝飾來勒住，才肯靠近你。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3f2afa0e392ea3a3152d4f2983eb0bda625507eb2f57410ad6a6574b6c0d5cea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/32\/9-11.1792143547880.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "你們要像"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "像馬"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "像騾"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "悟性"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "用嚼環"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "和籠頭"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "作裝飾"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "勒住"
+    },
+    {
+      "surface": "בל",
+      "gloss": "才肯"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "靠近"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "你"
+    }
+  ],
+  "timestamp": "2026-10-16T09:39:07.881315672Z",
+  "model": "glm-5.3"
+}

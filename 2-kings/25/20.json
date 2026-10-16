@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他們",
+      "rationale": "原文的 אתם 是受詞記號兼代名詞；中文補出「他們」以成句。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "רבלתה",
+      "rational": "地名後綴 -תה 表「往利比拉」，中文以「就是利比拉」表明。",
+      "rationale": "地名後綴 -תה 表方向「往利比拉去」。"
+    }
+  ],
+  "translation": "護衛長尼布撒拉旦拿住 ⟨אתם⟩ 他們，帶 ⟨אתם⟩ 他們到巴比倫王那裡，就是利比拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f3e6f30233979fe242ff0f2f16cab7868083b443f5e777e8e69adf2a90cbc644",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/25\/17-20.1792134461345.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "拿住"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "他們"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "尼布撒拉旦"
+    },
+    {
+      "surface": "רב",
+      "gloss": "長"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "護衛"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "帶"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "他們"
+    },
+    {
+      "surface": "על",
+      "gloss": "到"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "利比拉"
+    }
+  ],
+  "timestamp": "2026-10-16T07:07:41.346987993Z",
+  "model": "glm-5.3"
+}

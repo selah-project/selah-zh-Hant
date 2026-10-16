@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ידע…ידע",
+      "rationale": "「知道」在兩行中重複，首尾呼應，中文保留同一詞。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דבר רע",
+      "rationale": "דבר רע 直譯「惡的話語／事情」，譯作「惡事」。"
+    }
+  ],
+  "translation": "遵守誡命的人，必不經歷惡事；智慧人的心知道時機和判斷。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "56a3026b6825d76560ccd71f2baf9a4a0c548ba5efe2520948e03917e6f3f2ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/8\/5-8.1792147054328.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "遵守"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "誡命"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知道"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "事"
+    },
+    {
+      "surface": "רע",
+      "gloss": "惡"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "和時機"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "和判斷"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知道"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "智慧人的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:37:34.328915394Z",
+  "model": "glm-5.3"
+}

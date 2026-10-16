@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 9:33",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וירמסנה",
+      "rationale": "動詞的主詞不明：耶戶（他踐踏她，如KJV）或馬匹（如BSB、JPS）；本文取馬匹"
+    },
+    {
+      "kind": "addition",
+      "subject": "她",
+      "rationale": "「她的血」之「她」為所有格代名詞附於מדמה，中文以「的」字呈現"
+    }
+  ],
+  "translation": "他說：「把她扔下去。」他們就把她扔下去，她的血濺在牆上和馬匹上，馬就把她踐踏了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "195f7a8a5469420232826c48a271aaf97612aa5415a4db170792b5617dc071c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/9\/33-36.1792133766663.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "שמטהו",
+      "gloss": "把她扔下去"
+    },
+    {
+      "surface": "וישמטוה",
+      "gloss": "他們就把她扔下去"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "濺出"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "她的血"
+    },
+    {
+      "surface": "אל",
+      "gloss": "在"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "牆上"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "和在"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "馬匹上"
+    },
+    {
+      "surface": "וירמסנה",
+      "gloss": "就把她踐踏了"
+    }
+  ],
+  "timestamp": "2026-10-16T06:56:06.664333441Z",
+  "model": "glm-5.3"
+}

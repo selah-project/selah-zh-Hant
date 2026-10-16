@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 31:9",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "報好消息",
+      "rationale": "לבשר 本義是新鮮、報佳音；掃羅的死訊竟用「報好消息」一詞，照字面保留"
+    },
+    {
+      "kind": "addition",
+      "subject": "〈報信者〉",
+      "rationale": "וישלחו 只說「差遣」，受詞未寫出，中文補出報信者"
+    }
+  ],
+  "translation": "他們砍下⟨את⟩他的首級，剝下⟨את⟩他的軍裝，差遣〈報信者〉走遍非利士地四境，到他們偶像的廟裡報好消息，也傳給⟨את⟩眾民。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f01ec8cba7e950f22fbeb6521a363df0fe4a8509179030ebc21b71a5d5856dec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/31\/9-12.1792131651976.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "砍下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的首級"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "他的首級"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "剝下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的軍裝"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "他的軍裝"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "差遣"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在…地"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四境"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "報好消息"
+    },
+    {
+      "surface": "בית",
+      "gloss": "廟"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "他們的偶像"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "眾民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "眾民"
+    }
+  ],
+  "timestamp": "2026-10-16T06:20:51.976893417Z",
+  "model": "glm-5.3"
+}

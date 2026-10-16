@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "באר שבע ושבע",
+      "rationale": "「別是巴或作示巴」（ASV\/BSB）與「別是巴、和示巴」（KJV）兩讀：示巴可能是同一城的別名，也可能是另一城。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויהי להם",
+      "rationale": "直譯「成了他們的」，此處併入「有」以合中文清單語法。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "城邑清單",
+      "rationale": "西緬支派產業的城邑點名。"
+    }
+  ],
+  "translation": "他們的產業中有別是巴（或作示巴）和摩拉大。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9e2c0cb1febdd5552b6b66850ae3a2bf5c624dc8ed51874fda283b1701f5920d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/19\/2-4.1792142409405.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "有"
+    },
+    {
+      "surface": "להם",
+      "gloss": "他們的"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "產業中"
+    },
+    {
+      "surface": "באר",
+      "gloss": "別是巴（或作示巴）"
+    },
+    {
+      "surface": "שבע",
+      "gloss": ""
+    },
+    {
+      "surface": "ושבע",
+      "gloss": ""
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "和摩拉大"
+    }
+  ],
+  "timestamp": "2026-10-16T09:20:09.406671237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תכעסנה",
+      "rationale": "陰性複數動詞形，主語難定：或作單數「她激怒她」（KJV），或「她們激怒她」；希伯來文法上兩可。"
+    },
+    {
+      "kind": "addition",
+      "subject": "哈拿",
+      "rationale": "「於是哈拿哭泣」的「哈拿」為補足語境所加，原文僅「她」。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "שנה בשננה",
+      "rationale": "「年復一年」重複記年，標示這苦況的循環性。"
+    }
+  ],
+  "translation": "年復一年，他都是這樣行；每逢她上到雅威的殿，她就這樣激怒她，於是哈拿哭泣，不肯吃飯。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8d53538950ae5ec51f8cf8c5467dfaae6f3e3dd5c38dbc6a6408594dca7ba8de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/1\/5-8.1792130720229.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "而這樣"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "他行"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "復年"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "每逢"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "她上到"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "……的殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כן",
+      "gloss": "就這樣"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "她激怒她"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "於是她哭泣"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "而不"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "吃飯"
+    }
+  ],
+  "timestamp": "2026-10-16T06:05:20.230988024Z",
+  "model": "glm-5.3"
+}

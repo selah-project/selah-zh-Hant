@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "在那夜",
+      "rationale": "希伯來文的表處修飾語在中文中以時間詞序置於句末"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נתנו את קולם",
+      "rationale": "字面「放了他們的聲音」，即放聲喧嚷"
+    }
+  ],
+  "translation": "全會眾就放聲喧嚷，百姓在那夜哭了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dedcc3676921b5bc0bcf2a59f83cbbebef32b168255c34a6199336aeeb9d4dfc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/14\/1-4.1792127783872.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "就揚起"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "發出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的聲音"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "他們的聲音"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "哭了"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "在那夜"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "那"
+    }
+  ],
+  "timestamp": "2026-10-16T05:16:23.872613704Z",
+  "model": "glm-5.3"
+}

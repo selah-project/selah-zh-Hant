@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "一口氣",
+      "rationale": "הבל 直譯「蒸氣、呼氣」，傳道書的「虛空」同一詞，此處取其轉瞬即逝之象"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדם־דמה",
+      "rationale": "אדם（人）與דמה（相似）音近相押，中文無法保留"
+    }
+  ],
+  "translation": "人好像一口氣；他的年日如影飛逝。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/144\/1-4.1792145078857.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "一口氣"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "好像"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "他的年日"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "如影"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "飛逝"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:38.860894741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "亞舍拉像",
+      "rationale": "האשריט是亞舍拉女神的偶像，音譯保留，不譯作「木偶」或「樹林」"
+    },
+    {
+      "kind": "addition",
+      "subject": "人的",
+      "rationale": "עצמות אדם為 construct 連語「人的骨頭」，中文以修飾語呈現"
+    }
+  ],
+  "translation": "他又打碎了 ⟨את⟩ 那些柱像，砍下 ⟨את⟩ 那些亞舍拉像，並用人的骨頭填滿了它們的位置。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e7099102b3a538a6b4c38fe44d5cd4cdc7feb81309050c66c4453f6038f09a9f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/23\/14-16.1792142595290.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "打碎了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那些柱像"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "那些柱像"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "砍下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那些亞舍拉像"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "那些亞舍拉像"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "填滿了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "它們的位置"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "它們的位置"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "骨頭"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:23:15.291283541Z",
+  "model": "glm-5.3"
+}

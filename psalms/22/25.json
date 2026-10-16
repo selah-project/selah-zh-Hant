@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ענות עני",
+      "rationale": "同根雙關：困苦人的受苦，兩詞同出 ענה，中文以「困苦人的受苦」保留貼合"
+    },
+    {
+      "kind": "addition",
+      "subject": "困苦人",
+      "rationale": "ובשועו（在他呼求時）的代詞未明指受苦者，中文補出主語以通文意"
+    },
+    {
+      "kind": "you",
+      "subject": "to the congregation",
+      "rationale": "延續22:22向會眾的宣告，此節敘述雅威垂聽困苦人，作見證"
+    }
+  ],
+  "translation": "因為他沒有藐視、也沒有憎惡困苦人的受苦，也沒有向他掩〈面〉；當困苦人向他呼求時，他就垂聽。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4df5f04c40c6ad3ae0f74ea943d94bb3a26c4c992f4dae44889f78027123e5bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/22\/25-28.1792143433620.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "藐視"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也沒有"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "憎惡"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "受苦"
+    },
+    {
+      "surface": "עני",
+      "gloss": "困苦人"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也沒有"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "掩藏"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "他的面"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "從他"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "當他呼求"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "向他"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "垂聽"
+    }
+  ],
+  "timestamp": "2026-10-16T09:37:13.621054434Z",
+  "model": "glm-5.3"
+}

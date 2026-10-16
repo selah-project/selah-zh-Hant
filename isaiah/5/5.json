@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "משוכתו\/גדרו",
+      "rationale": "籬笆與圍牆的對仗，加上兩個「它就成為」的平行結構，中文以被動式保留"
+    },
+    {
+      "kind": "addition",
+      "subject": "被",
+      "rationale": "לבער\/למרמס為「成為被吞滅\/被踐踏之物的不定式，中文需被動標記"
+    }
+  ],
+  "translation": "如今，請容我告訴你們，我要向我葡萄園所做的：撤去它的籬笆，它就被吞滅；拆毀它的圍牆，它就被踐踏。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "61e2c11e0f8f5058643d2801dc4a7a76a076a82490f6108d8012de1a973b5479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/5\/5-8.1792134651946.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "如今"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "容我告訴"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ 你們",
+      "marks": "את"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我要向我葡萄園所做的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "向我的葡萄園"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "撤去"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "它的籬笆"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "它就"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "被吞滅"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "拆毀"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "它的圍牆"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "它就"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "被踐踏"
+    }
+  ],
+  "timestamp": "2026-10-16T07:10:51.946974388Z",
+  "model": "glm-5.3"
+}

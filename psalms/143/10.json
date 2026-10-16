@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "願你",
+      "rationale": "原文動詞 תנחני 可作陳述或祈願；中文加「願」以通順"
+    },
+    {
+      "kind": "invitation",
+      "subject": "למדני",
+      "rationale": "祈使式請求：教導我"
+    }
+  ],
+  "translation": "求你教導我遵行你的旨意，因為你是我的以羅阿；願你美好的魯阿（靈）引導我到平坦之地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3a91ba78e2df75e33c1d2bfca9197da87d4ab1d8944a2c55a4624a988c9ca62f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/143\/9-12.1792145023401.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "求你教導我"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "遵行"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "你的旨意"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "我的以羅阿"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "你的魯阿"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "美好的"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "引導我"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "之地"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "平坦"
+    }
+  ],
+  "timestamp": "2026-10-16T10:03:43.402174262Z",
+  "model": "glm-5.3"
+}

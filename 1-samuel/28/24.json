@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 28:24",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מרבק",
+      "rationale": "「牛欄」僅見於此處，指圈養肥育之處"
+    },
+    {
+      "kind": "addition",
+      "subject": "有",
+      "rationale": "原文無動詞「有」，中文需補"
+    },
+    {
+      "kind": "measurement",
+      "subject": "meal preparation",
+      "rationale": "宰牛、取麵、揉、烤——一連串動作依序記載"
+    }
+  ],
+  "translation": "那婦人家裡有一頭圈裡養肥的牛犢，她急忙宰了牠，又取了麵粉，揉好，烤成無酵餅。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e5a2cc75600b19ff486a0f12983903878d85de0fc9edf0bdedf3b1d9da4a1729",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/28\/21-24.1792131499358.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאשה",
+      "gloss": "那婦人有"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "牛犢"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "圈裡養肥的"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "家裡"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "急忙"
+    },
+    {
+      "surface": "ותזבחהו",
+      "gloss": "宰了牠"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "取了"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "麵粉"
+    },
+    {
+      "surface": "ותלש",
+      "gloss": "揉好"
+    },
+    {
+      "surface": "ותפהו",
+      "gloss": "烤成"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "無酵餅"
+    }
+  ],
+  "timestamp": "2026-10-16T06:18:19.362432214Z",
+  "model": "glm-5.3"
+}

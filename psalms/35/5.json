@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "魯阿",
+      "rationale": "רוח此處是尋常的風，非雅威的靈，故譯「風」不譯「魯阿」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דוחה",
+      "rationale": "驅趕的畫面與上句糠秕被風吹散相連，使者如風繼續推趕"
+    }
+  ],
+  "translation": "願他們如風前的糠秕，雅威的使者驅趕他們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2cd652a6c2ab2b5db7d020ccc77f4d525584910dabecdda16ec45f856edc0d4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/35\/5-8.1792143666450.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "願他們如"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "糠秕"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "前的"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "的使者"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "驅趕他們"
+    }
+  ],
+  "timestamp": "2026-10-16T09:41:06.451083318Z",
+  "model": "glm-5.3"
+}

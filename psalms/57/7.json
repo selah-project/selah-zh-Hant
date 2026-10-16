@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "挖坑者自陷坑中",
+      "rationale": "希伯來文諷刺結構：נפלו 的主語正是挖坑之人，與詩 7:15、9:15 同型"
+    },
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 是生命之力、氣息，非『靈魂』"
+    },
+    {
+      "kind": "elision",
+      "subject": "細拉",
+      "rationale": "音樂記號，沿用通行音譯『細拉』，不譯義"
+    }
+  ],
+  "translation": "他們為我的腳步張了網，我的性命低垂了；他們在我面前挖了坑，自己卻掉在坑中。細拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "84411a8859fb53a749c3e95403a297451a264393a89b9c982b88286514726b0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/57\/5-8.1792143986337.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "網"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "他們張設了"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "為我的腳步"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "低垂"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "他們挖了"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在我面前"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "坑"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "他們掉落"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "在其中"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-10-16T09:46:26.338308303Z",
+  "model": "glm-5.3"
+}

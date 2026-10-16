@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "向雅威",
+      "rationale": "本節直接向雅威呼求的禱詞形式"
+    },
+    {
+      "kind": "crux",
+      "subject": "נשא",
+      "rationale": "「赦免（擔當罪孽）」（KJV\/JPS）與 ylt「苦待」二讀；字面為「舉起、擔當」，取擔當罪孽義"
+    },
+    {
+      "kind": "substitution",
+      "subject": "伊勒",
+      "rationale": "此處 אֵל 為單數神名，依名號表作伊勒"
+    }
+  ],
+  "translation": "雅威我們的以羅欣啊，你應允了他們；你是一位赦免的伊勒，曾向他們施恩，卻也按他們的行為施行報應。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9c29dcd4b95be0f2df3d95f849a38c88835405d3fc8b3bf7d39bf94943a5617a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/99\/5-8.1792144560269.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "我們的以羅欣"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "你應允了他們"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "赦免（擔當）的"
+    },
+    {
+      "surface": "היית",
+      "gloss": "你曾是"
+    },
+    {
+      "surface": "להם",
+      "gloss": "向他們"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "卻也施行報應"
+    },
+    {
+      "surface": "על",
+      "gloss": "按"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "他們的行為"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:00.270087428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "攻擊",
+      "rationale": "希伯來文只列兩族之名並列，動詞由上文『各人吃自己手臂的肉』延續而來，中文需補動詞"
+    },
+    {
+      "kind": "substitution",
+      "subject": "怒氣",
+      "rationale": "אפו 字面是『他的鼻／鼻孔』，怒氣由鼻息轉喻而來"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "瑪拿西\/以法蓮倒置",
+      "rationale": "兩族名互為賓語的鏡像結構，表兄弟相殘的對稱修辭，中文保留其倒序"
+    }
+  ],
+  "translation": "瑪拿西攻擊 ⟨את⟩ 以法蓮，以法蓮攻擊 ⟨את⟩ 瑪拿西，他們一同敵對猶大。雖有這一切，他的怒氣仍未轉消，他的手仍然伸出。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "94444872f9c212dbb87964f681d85256d2f192592ab9cb7e9d43d14c190a5796",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/9\/17-20.1792134796076.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "瑪拿西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以法蓮"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "瑪拿西"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "瑪拿西"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "一同"
+    },
+    {
+      "surface": "המה",
+      "gloss": "他們"
+    },
+    {
+      "surface": "על",
+      "gloss": "敵對"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "雖有這一切"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "（這）"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "שב",
+      "gloss": "轉消"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "他的怒氣"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "仍然"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "他的手"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "伸出"
+    }
+  ],
+  "timestamp": "2026-10-16T07:13:16.078558504Z",
+  "model": "glm-5.3"
+}

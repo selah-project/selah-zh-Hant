@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 59:19",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צר",
+      "rationale": "古譯本與現代譯本之爭：和合本讀作「仇敵如洪水沖來」，JPS\/ASV 讀作「患難如洪流沖入」，動詞主語歸屬不同"
+    },
+    {
+      "kind": "substitution",
+      "subject": "魯阿",
+      "rationale": "רוח 是風／氣息，屬雅威的魯阿按 D2 譯作音譯並括註氣息，不用「聖靈」"
+    },
+    {
+      "kind": "addition",
+      "subject": "〈那〉",
+      "rationale": "希伯來文「名」無冠詞於此構文中，中文需要指示詞"
+    }
+  ],
+  "translation": "人必從西方敬畏雅威的〈那〉名，從日出之地敬畏他的榮耀；因為〈仇敵〉必如江河沖來，雅威的魯阿（氣息）必將其驅散。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b6a0312c5539664d2a9bc22a0d217ee5f68cc3c712bc4c5069c04c9b9af8915c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/59\/17-20.1792135836624.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "他們必敬畏"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "從西方"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "〈那〉名"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וממזרח",
+      "gloss": "和從日出之地"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的榮耀"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "他的榮耀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "必來"
+    },
+    {
+      "surface": "כנהר",
+      "gloss": "如江河"
+    },
+    {
+      "surface": "צר",
+      "gloss": "〈仇敵〉"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "魯阿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威的"
+    },
+    {
+      "surface": "נססה",
+      "gloss": "必將其驅散"
+    },
+    {
+      "surface": "בו",
+      "gloss": "它"
+    }
+  ],
+  "timestamp": "2026-10-16T07:30:36.625637175Z",
+  "model": "glm-5.3"
+}

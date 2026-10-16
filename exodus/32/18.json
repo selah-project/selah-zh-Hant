@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 32:18",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קול ענות ×3",
+      "rationale": "「聲音＋回應」三連排比：得勝的呼喊／失敗的呼喊／歌唱的呼喊，摩西以同構句式逐一否定"
+    },
+    {
+      "kind": "crux",
+      "subject": "ענות אנכי שמע",
+      "rationale": "末句語序打破排比：不定式前置、動詞置尾，「歌唱的聲音——我（正）聽見」，各譯本或作「歌唱的聲音我聽見」或作「我聽見歌唱的聲音」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "歌唱",
+      "rationale": "ענות 與前兩處同字（回應之聲），此處依語境譯為歌唱；同一詞元三種情境"
+    }
+  ],
+  "translation": "他說：「這不是得勝者呼喊的聲音，也不是失敗者呼喊的聲音；我所聽見的，是歌唱的聲音。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cff607322605c9c984e162cb98a6b84bb49d83a375f9b50d2c00781276694261",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/32\/17-20.1792126482327.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "אין",
+      "gloss": "不是"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲音"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "呼喊"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "得勝"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "也不是"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲音"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "呼喊"
+    },
+    {
+      "surface": "חלושה",
+      "gloss": "失敗"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲音"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "歌唱"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聽見"
+    }
+  ],
+  "timestamp": "2026-10-16T04:54:42.328245641Z",
+  "model": "glm-5.3"
+}

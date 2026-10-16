@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אני פי מלך שמור",
+      "rationale": "字面『我：王的口，遵守』：『我勸你遵守王命』（和合本）／『我謹守王的口（所言）』／『至於我，我遵守王的口令』三讀並存； אני 懸置無動詞。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פי מלך",
+      "rationale": "『王的口』是其諭令的轉喻；直譯保留『口』的形狀。"
+    },
+    {
+      "kind": "addition",
+      "subject": "而遵行",
+      "rationale": "中文需補一個動詞完成『因誓言的緣故』的句子，希伯來文無此動詞。"
+    }
+  ],
+  "translation": "我：王的口，你要謹守，並要因以羅欣的誓言⟨而遵行⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ab5194fb5734e8ad5b6da3ed010248d0ee08189ca164c81a73ecc7e041f31d73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/8\/1-4.1792147019936.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "פי",
+      "gloss": "口"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "你要謹守"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "並要因"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "……的緣故"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "誓言"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-10-16T10:36:59.937267889Z",
+  "model": "glm-5.3"
+}

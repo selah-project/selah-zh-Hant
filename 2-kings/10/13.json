@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 10:13",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "太后",
+      "rationale": "הגבירה 字面是「女主／大娘子」，指王的母后；此處指亞哈謝的母親亞她利雅"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨的眾子⟩",
+      "rationale": "中文第二個「眾子」需補出所屬，希伯來文以 construct 直接連於「太后」"
+    },
+    {
+      "kind": "you",
+      "subject": "耶戶問那四十二人",
+      "rationale": "「你們是誰」——直接質問，引向下一節的處決"
+    }
+  ],
+  "translation": "耶戶遇見了猶大王亞哈謝的 ⟨את⟩ 兄弟們，就說：「你們是誰？」他們說：「我們是亞哈謝的兄弟們；我們下來要向王的眾子和太后⟨的眾子⟩問安。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cb0993fa46ab74349bd70a6958a8e262ac5f7b40d4123f3fa7db8bf9af49e82a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/10\/13-16.1792133806310.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "耶戶"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "遇見了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞哈謝的兄弟們"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "兄弟們"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "亞哈謝"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "就說"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "他們說"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "兄弟們"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "亞哈謝"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "我們"
+    },
+    {
+      "surface": "ונרד",
+      "gloss": "我們下來"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "問安"
+    },
+    {
+      "surface": "בני",
+      "gloss": "眾子"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "和眾子"
+    },
+    {
+      "surface": "הגבירה",
+      "gloss": "太后"
+    }
+  ],
+  "timestamp": "2026-10-16T06:56:46.311657528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 3:21",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "挖掘",
+      "rationale": "חפר 本義為探查、掘尋；死亡被當作埋藏的寶物來挖掘，圖像直譯保留。"
+    },
+    {
+      "kind": "addition",
+      "subject": "還迫切",
+      "rationale": "希伯來文以比較片語 ממטמונים 表達『勝過隱藏的財寶』，中文補出比較語氣。"
+    },
+    {
+      "kind": "mystery",
+      "subject": "死亡卻不來臨",
+      "rationale": "死亡被擬人化為不現身之物，渴望者挖尋而不得。"
+    }
+  ],
+  "translation": "他們切望死亡，死亡卻不來臨；他們挖掘它，比挖掘隱藏的寶藏還迫切。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "22a88e790012bdb87235cb39bbcf7ca653f93382488a821ac417baca27629b2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/3\/21-24.1792145774640.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המחכים",
+      "gloss": "切望"
+    },
+    {
+      "surface": "למות",
+      "gloss": "死亡"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "卻不來臨"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "他們挖掘它"
+    },
+    {
+      "surface": "ממטמונים",
+      "gloss": "比隱藏的寶藏"
+    }
+  ],
+  "timestamp": "2026-10-16T10:16:14.641403770Z",
+  "model": "glm-5.3"
+}

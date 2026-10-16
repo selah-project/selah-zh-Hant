@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "一座",
+      "rationale": "希伯來文無量詞，中文需加"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ושכנתי\/מקדש",
+      "rationale": "שכן（居住）與米什坎（會幕）同根；『我就住在他們中間』預示下文會幕之名"
+    }
+  ],
+  "translation": "他們要為我造一座聖所，我就住在他們中間。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c3f6db33fae3c722f736eff3c20e172212ed54d1359727fece0f7ea953ff71d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/25\/5-8.1792126217238.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "他們要造"
+    },
+    {
+      "surface": "לי",
+      "gloss": "為我"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "聖所"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "我就居住"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "在他們中間"
+    }
+  ],
+  "timestamp": "2026-10-16T04:50:17.239596062Z",
+  "model": "glm-5.3"
+}

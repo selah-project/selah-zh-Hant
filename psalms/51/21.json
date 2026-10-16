@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 51:21",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "人",
+      "rationale": "希伯來文動詞 יעלו 無明確主語，中文補「人」作不定的獻祭者"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אז……אז",
+      "rationale": "「那時」在節首尾重複，框住整節，希伯來文的副詞框架"
+    },
+    {
+      "kind": "substitution",
+      "subject": "獻上",
+      "rationale": "יעלו 字面是「上升／上去」，與燔祭 עולה（那上升之物）同根；字面的上升意象在中文失落"
+    }
+  ],
+  "translation": "那時，你必喜悅公義的祭物——燔祭和全牲的祭；那時，人必把公牛獻在你的祭壇上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "eeadf88d2c32473eb4328f14062b9152a2c5e5b0ef54a847ff898d6596f8fd6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/51\/21-21.1792143884770.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "那時"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "你必喜悅"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "祭物"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義的"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "וכליל",
+      "gloss": "和全牲的祭"
+    },
+    {
+      "surface": "אז",
+      "gloss": "那時"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "人必獻上"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "你的祭壇"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "公牛"
+    }
+  ],
+  "timestamp": "2026-10-16T09:44:44.770865317Z",
+  "model": "glm-5.3"
+}

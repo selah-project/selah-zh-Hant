@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חיה",
+      "rationale": "החיה 指「野獸」（與家畜 בהמה 相對），中文補「野」以別於前項。"
+    },
+    {
+      "kind": "addition",
+      "subject": "野",
+      "rationale": "「野」為分辨家畜與野獸所需，希伯來文僅作「那活物」。"
+    }
+  ],
+  "translation": "也給你的牲畜，和你地上〈的野〉走獸：地一切的出產都可以作食物。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a41bade2eac609d4621619da794c6d8244eac84883d27511db8ea86e6074f80d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/25\/5-8.1792127277865.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "也給你的牲畜"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "和走獸"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那在"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "你地上的"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "要作"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "它的出產"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "作食物吃"
+    }
+  ],
+  "timestamp": "2026-10-16T05:07:57.866533792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 27:18",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "照樣",
+      "rationale": "希伯來以平行句法對照兩半，中文加「照樣」點明類比。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יכבד",
+      "rationale": "כבד 本義「重」，引伸「得榮耀」，譯「得尊榮」。"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "無中文受詞記號對應，仍以 ⟨את⟩ 標記保留。"
+    }
+  ],
+  "translation": "看守無花果樹的，必吃 ⟨את⟩ 它的果子；照樣，伺候他主人的，必得尊榮。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2840ef32a6fe4117536bd22a0a81525c5ecee1ea848f43839e422a5100d3ea99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/27\/17-20.1792145677822.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "看守"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "無花果樹"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "必吃"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "它的果子"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "照樣，伺候"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "他主人的"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "必得尊榮"
+    }
+  ],
+  "timestamp": "2026-10-16T10:14:37.823165725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "滅絕",
+      "rationale": "תמנו（תמם）字面是『完結』，『我們沒有完結』，中譯作『不致滅絕』"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תמנו／כלו",
+      "rationale": "兩個『完結』類動詞並列（תמם與כלה），平行強調『未滅未盡』"
+    },
+    {
+      "kind": "addition",
+      "subject": "是…才",
+      "rationale": "中文的判斷句式為譯文所加，希伯來文僅並列名詞短語與分句"
+    }
+  ],
+  "translation": "是雅威的慈愛，我們才不致滅絕，因為他的憐憫沒有斷絕。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2b5e6174d5369d9628a85f3be7c005619ce31153deeb8d931acedb1772ab6576",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/lamentations\/3\/21-24.1792146800880.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "慈愛"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨因為⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "我們才不致滅絕"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "斷絕"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "他的憐憫"
+    }
+  ],
+  "timestamp": "2026-10-16T10:33:20.881186510Z",
+  "model": "glm-5.3"
+}

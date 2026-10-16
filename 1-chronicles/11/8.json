@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחיה",
+      "rationale": "字面「使存活／使復甦」，諸譯本作 repaired／restored／恢復"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מסביב／הסביב",
+      "rationale": "同一詞「四圍」於一句中重複，字面即「從米羅直到四圍」"
+    }
+  ],
+  "translation": "他建造那城，四圍從米羅直到四圍；約押使⟨את⟩城的其餘部分復原。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bf42fe82564cd90bb7094ae0b6525e82e59150da7fd1cb154340ca67bd9ca598",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/11\/5-8.1792148686106.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "建造"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "那城"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "米羅"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "使……復原"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "城的其餘部分"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "其餘部分"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城"
+    }
+  ],
+  "timestamp": "2026-10-16T11:04:46.107590851Z",
+  "model": "glm-5.3"
+}

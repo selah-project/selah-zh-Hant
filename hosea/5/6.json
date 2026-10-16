@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חלץ",
+      "rationale": "字面為「剝除、掙脫」；譯作「退去」（KJV）或「轉離」皆通，本譯取退去。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "他退去了",
+      "rationale": "希伯來文動詞無主語，中文補出「他」（指雅威）並括注於譯文中省略——直接以「他」譯出。"
+    }
+  ],
+  "translation": "他們帶著羊群牛群去尋求 ⟨את⟩ 雅威，卻尋不見；他已從他們中間退去了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "33bc10890e812f1962563ffdd9e8a23024e53304a18fe3407db9381355926979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/5\/5-8.1792139412663.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "帶著他們的羊群"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "和牛群"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "去"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "尋求"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "卻不"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "尋見"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "他退去了"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "從他們"
+    }
+  ],
+  "timestamp": "2026-10-16T08:30:12.664161229Z",
+  "model": "glm-5.3"
+}

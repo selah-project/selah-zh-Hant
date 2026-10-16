@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 3:12",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תחתו",
+      "rationale": "「在他之下／代替他」——或譯「代他自己」（KJV：on his behalf）或「立刻」（JPS，讀作 תחתיו 的慣用語）；此處取「代他」"
+    },
+    {
+      "kind": "you",
+      "subject": "to David",
+      "rationale": "押尼珥藉使者直接向大衛發問並提約——「這地是誰的？」是逼大衛表態的問句"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתי",
+      "rationale": "此 את 是介詞「與」（H854），非受詞記號（H853），意為「與我同立」，照規保留記號形"
+    }
+  ],
+  "translation": "押尼珥差遣使者代他到大衛那裡，說：「這地是誰的？」又說：「你立你的約與我⟨את⟩；看哪，我的手必與你同在，使全以色列都歸向⟨את⟩你。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "310cc5d93efec93e8936256316913592c0c8d1b3acd996b53030dfca13a57ab5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/3\/9-12.1792131665226.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差遣"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "押尼珥"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "使者"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "代他"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "למי",
+      "gloss": "是誰的"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "這地"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "又說"
+    },
+    {
+      "surface": "כרתה",
+      "gloss": "立"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "你的約"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩與我"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "與你同在"
+    },
+    {
+      "surface": "להסב",
+      "gloss": "使……歸向"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "你"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全以色列"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T06:21:05.228069723Z",
+  "model": "glm-5.3"
+}

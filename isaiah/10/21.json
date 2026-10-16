@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שאר ישוב",
+      "rationale": "『餘民必歸回』正是以賽亞兒子施亞雅述（שאר ישוב）的名字，名字即信息，中文丟失了這一點"
+    },
+    {
+      "kind": "predicate",
+      "subject": "invitation",
+      "rationale": "呼召歸回的宣告，向雅各的餘民發出"
+    }
+  ],
+  "translation": "餘民必歸回，雅各的餘民必歸向大能者伊勒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0edb7d33f5b0366564d447ac0e6df73b27e7c076fd9885fbde12317685757563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/10\/21-24.1792134772342.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "餘民"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "必歸回"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "的餘民"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "אל",
+      "gloss": "歸向"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "大能者"
+    }
+  ],
+  "timestamp": "2026-10-16T07:12:52.343455096Z",
+  "model": "glm-5.3"
+}

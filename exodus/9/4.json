@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 9:4",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דבר\/דבר",
+      "rationale": "第3節דבר＝瘟疫，第4節דבר＝一樣東西：同一詞形兩義相連，構成修辭呼應，中文無法保留。"
+    },
+    {
+      "kind": "addition",
+      "subject": "作出",
+      "rationale": "והפלה是及物動詞「分別」，中文需補「作出」以成句。"
+    }
+  ],
+  "translation": "雅威必在以色列的牲畜與埃及的牲畜之間作出分別，凡屬以色列人的，連一樣都不死。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d9536b8f02f1201db2c51c8e5dd43a6ce8c11a3e40892dcd9981106108b1927a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/9\/1-4.1792125862267.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והפלה",
+      "gloss": "必作出分別"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בין",
+      "gloss": "在……之間"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列的"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "與"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及的"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "而不"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "死"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "連一樣"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "屬……的兒子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "一樣（事物）"
+    }
+  ],
+  "timestamp": "2026-10-16T04:44:22.268478187Z",
+  "model": "glm-5.3"
+}

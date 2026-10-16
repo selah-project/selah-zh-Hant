@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 15:4",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "河",
+      "rationale": "נחל 是冬季乾涸的河道，譯「河」較「溪」更貼近其功能。"
+    },
+    {
+      "kind": "addition",
+      "subject": "就是",
+      "rationale": "זה יהיה 無繫詞，中文補「就是」以成句。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "border",
+      "rationale": "南界終點在海岸，方位詞 ימה 字面是「向海（西）」。"
+    }
+  ],
+  "translation": "又經過押們，出到埃及河，邊界的出口朝西：這就是你們南面的邊界。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a2987bc052a89e383e03b6d6af677d83b94d83b83b4dede1430cdd13f7fed002",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/15\/1-4.1792129761714.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "又經過"
+    },
+    {
+      "surface": "עצמונה",
+      "gloss": "押們"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "出到"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "河"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "於是有"
+    },
+    {
+      "surface": "תצאות",
+      "gloss": "出口"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "邊界的"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "朝海"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "就是"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "你們的"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "邊界"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "南面"
+    }
+  ],
+  "timestamp": "2026-10-16T05:49:21.716270988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "荒涼",
+      "rationale": "תהו 即創 1:2 的「空虛」，諸譯本作「混亂之城」「空虛之城」「荒涼之城」各異；此詞回響創世的混沌。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תהו／שמה",
+      "rationale": "本章 以賽亞書 24 反覆堆疊荒涼詞（תהו、שמה、שאיה），中文以「荒涼」「毀滅」並列仍失其疊浪。"
+    },
+    {
+      "kind": "addition",
+      "subject": "不得",
+      "rationale": "מבוא「進入」一詞兼含名詞「入口」與不定式「無人進入」；譯文補「不得」取動詞讀法。"
+    }
+  ],
+  "translation": "荒涼之城破毁了，一切房屋都被關閉，不得進入。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d73783ffe5f8117bd48bcd3c0527dd82a24470e279d27e65b90a3021c0690c90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/24\/9-12.1792134980584.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "破毁了"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "之城"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "荒涼"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "被關閉"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "בית",
+      "gloss": "房屋"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "不得進入"
+    }
+  ],
+  "timestamp": "2026-10-16T07:16:20.585398115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文補「是」連接形容詞謂語"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחדו",
+      "rationale": "「一同／全然」：修飾「公義」作「全然公義」，或指典章「彼此和諧一致」"
+    }
+  ],
+  "translation": "敬畏雅威是潔淨的，存立直到永遠；雅威的典章是真實的，全然公義。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e3d8b64492fb67098dda35d7fd6715c9c7d301a740cbcebad64c390821f8f3e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/19\/9-12.1792143429007.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "潔淨的"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "存立"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "直到永遠"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "典章"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真實的"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "公義"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "全然／一同"
+    }
+  ],
+  "timestamp": "2026-10-16T09:37:09.007827108Z",
+  "model": "glm-5.3"
+}

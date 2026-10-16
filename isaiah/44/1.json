@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "了",
+      "rationale": "希伯來文無完成體助詞，中文需要「了」表已完成"
+    },
+    {
+      "kind": "you",
+      "subject": "雅各／以色列",
+      "rationale": "直接呼喚以色列，命令式「要聽」為召喚"
+    },
+    {
+      "kind": "invitation",
+      "subject": "要聽",
+      "rationale": "命令式召喚聽者，如示瑪的開頭"
+    }
+  ],
+  "translation": "如今要聽，雅各我的僕人，以色列，我揀選了他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "396a7e0731e46733a07176e845cda5d3659e60453e1af09ccec3d6171d89d04a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/44\/1-4.1792135486819.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "如今"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "要聽"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "我的僕人"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "我揀選了"
+    },
+    {
+      "surface": "בו",
+      "gloss": "他"
+    }
+  ],
+  "timestamp": "2026-10-16T07:24:46.819701550Z",
+  "model": "glm-5.3"
+}

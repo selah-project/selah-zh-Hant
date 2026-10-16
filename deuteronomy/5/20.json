@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תענה",
+      "rationale": "字面是「回答／應答」，此處指在訴訟中作證；譯「作見證」而非「回答」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שוא",
+      "rationale": "字面為「空虛、虛謊、毀滅性之事」，譯作「假」。"
+    }
+  ],
+  "translation": "也不可指著你的鄰舍作假見證。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b05ceaf03aae089f1cb66b671b8a50398f424e07ec0b09de177525c82f965289",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/5\/17-20.1792128554254.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "也不可"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "作見證"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "你的鄰舍"
+    },
+    {
+      "surface": "עד",
+      "gloss": "見證"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "假的"
+    }
+  ],
+  "timestamp": "2026-10-16T05:29:14.255742183Z",
+  "model": "glm-5.3"
+}

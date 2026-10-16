@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "單純的人",
+      "rationale": "פתאי 本義是「易受誘騙的、胸無城府的」，非道德上的愚昧。"
+    },
+    {
+      "kind": "crux",
+      "subject": "機敏",
+      "rationale": "ערמה 在聖經中多用於負面（狡詐，如出 21:14），此處取正面義「機敏、精明」；一詞兩面。"
+    },
+    {
+      "kind": "crux",
+      "subject": "謀略",
+      "rationale": "מזמה 多指惡謀，此處取正面「思慮、謀略」。"
+    }
+  ],
+  "translation": "使單純的人得著機敏，使少年人得著知識和謀略。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2cca88d6c846f7141918ca5763a5e9df5eccf4f1fb0f0a227eb2c343c45abd14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/1\/1-4.1792145157687.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לתת",
+      "gloss": "使……得著"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "單純的人"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "機敏"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "少年人"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "和謀略"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:57.688790206Z",
+  "model": "glm-5.3"
+}

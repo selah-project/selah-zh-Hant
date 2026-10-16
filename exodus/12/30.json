@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 12:30",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אין…אשר אין",
+      "rationale": "雙重否定的希伯來慣用語「沒有家……其中沒有死人」，中文以「沒有一家不死一個人的」直存其結構"
+    },
+    {
+      "kind": "addition",
+      "subject": "一個人的",
+      "rationale": "מת 是單數「死人」，中文補「一個人」使雙重否定自然"
+    }
+  ],
+  "translation": "法老夜間起來，他和他的眾臣僕，並所有的埃及人；埃及全地有大大的哀號，因為沒有一家不死一個人的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "76620e60aed94179fe977203293461ff3d8388a034fbe03219bde2ff2d1081f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/12\/29-32.1792125976486.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "起來"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜間"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "並所有的"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "他的眾臣僕"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "並所有的"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及人"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "有"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "哀號"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "大大的"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "在埃及"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "בית",
+      "gloss": "一家"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裏"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死了一個人的"
+    }
+  ],
+  "timestamp": "2026-10-16T04:46:16.487093030Z",
+  "model": "glm-5.3"
+}

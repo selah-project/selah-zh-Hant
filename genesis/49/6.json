@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 49:6",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "בסדם",
+      "rationale": "סוד——密議、親密的議會；雅各拒與其謀，正是隱密之事的用例"
+    },
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש是氣息、生命之力，不是希臘式的「靈魂」"
+    },
+    {
+      "kind": "crux",
+      "subject": "איש",
+      "rationale": "單數「一個人」（示劍，創34）還是集體複數意「人們」；JPS取「人們」"
+    },
+    {
+      "kind": "crux",
+      "subject": "שור",
+      "rationale": "「牛」（複數意，砍斷牛筋，創34:28–29）還作「城牆」（參KJV「挖斷牆」）或「王子」（YL T）"
+    }
+  ],
+  "translation": "我的性命啊，不要進入他們的密議；我的榮耀啊，不要與他們的集會聯合；因為他們在怒氣中殺了人，在任意中砍斷了牛的筋。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5ac288b5347b8a206f7033ea468830eeb62bf743b1517f85389b1b9b1a74a250",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/49\/5-8.1792125689847.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בסדם",
+      "gloss": "進入他們的密議"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "進入"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "בקהלם",
+      "gloss": "與他們的集會"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תחד",
+      "gloss": "聯合"
+    },
+    {
+      "surface": "כבדי",
+      "gloss": "我的榮耀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "באפם",
+      "gloss": "在他們的怒氣中"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "殺了"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "וברצנם",
+      "gloss": "在他們的任意中"
+    },
+    {
+      "surface": "עקרו",
+      "gloss": "砍斷了"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛的筋"
+    }
+  ],
+  "timestamp": "2026-10-16T04:41:29.847689378Z",
+  "model": "glm-5.3"
+}

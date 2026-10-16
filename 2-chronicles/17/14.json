@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 17:14",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "登記",
+      "rationale": "軍隊按宗族點數的清單：三十萬、二十八萬、二十萬相繼列出"
+    },
+    {
+      "kind": "substitution",
+      "subject": "三十萬",
+      "rationale": "希伯來文字面為「三 百 千」，中文慣用一個數詞"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלף",
+      "rationale": "YLT 讀作「三百名首領」（אלף 作「軍官」），多數譯本作三十萬人"
+    }
+  ],
+  "translation": "這是他們按宗族所登記的數目：屬猶大的，是千夫長們——首領亞得拿，與他同在的有大能的勇士三十萬；",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "62b6a23f19c540cda94e43cdc22dc561ef7f8b4ac24c0a2e0c88586d810b125f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/17\/13-16.1792149343503.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "這是"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "所登記的數目"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "按……家"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "他們的父（宗族）"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "屬猶大的"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "……的首領"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千夫"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "亞得拿"
+    },
+    {
+      "surface": "השר",
+      "gloss": "首領"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "與他同在的有"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "大能的"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三十"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "萬（三百個千）"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "……千"
+    }
+  ],
+  "timestamp": "2026-10-16T11:15:43.503957651Z",
+  "model": "glm-5.3"
+}

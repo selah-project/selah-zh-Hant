@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 16:11",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ואעדך עדי",
+      "rationale": "動詞與名詞同根（打扮以妝飾），中文無法保留此重複"
+    },
+    {
+      "kind": "substitution",
+      "subject": "喉頸",
+      "rationale": "גרון字面是喉嚨，譯作喉頸以合中文佩鏈之語"
+    }
+  ],
+  "translation": "我用妝飾打扮你，把手鐲戴在你手上，把鏈子戴在你喉頸上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7dcf5cb2e732cf2f03d9bdbcad3e67421eabda967efbb87db7508c1a23acbf23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/16\/9-12.1792138198172.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעדך",
+      "gloss": "打扮你"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "用妝飾"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "把……戴"
+    },
+    {
+      "surface": "צמידים",
+      "gloss": "手鐲"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "你手上"
+    },
+    {
+      "surface": "ורביד",
+      "gloss": "鏈子"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "גרונך",
+      "gloss": "你喉頸上"
+    }
+  ],
+  "timestamp": "2026-10-16T08:09:58.173702056Z",
+  "model": "glm-5.3"
+}

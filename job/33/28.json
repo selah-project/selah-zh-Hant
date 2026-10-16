@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 33:28",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 本義為「呼吸之物、生命機能」，非二元論的「靈魂」"
+    },
+    {
+      "kind": "elision",
+      "subject": "באור",
+      "rationale": "「在光中」字面為介詞短語，中文譯作「得見光」以合語感"
+    }
+  ],
+  "translation": "他救贖了我的性命脫離過入坑中，我的生命必得見光。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5c40663e9b049011f83a61f4f0770d7ed7994842b61788ac66cda02c7bc8d9a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/33\/25-28.1792146376068.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "他救贖了"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "脫離進入"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "坑"
+    },
+    {
+      "surface": "וחיתי",
+      "gloss": "我的生命"
+    },
+    {
+      "surface": "באור",
+      "gloss": "在光中"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "必看見"
+    }
+  ],
+  "timestamp": "2026-10-16T10:26:16.069183118Z",
+  "model": "glm-5.3"
+}

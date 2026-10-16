@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "טוב…מ…",
+      "rationale": "希伯來文比較句「甲比乙好」在中文以「勝過」表達"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תדר／משתדור",
+      "rationale": "「許願」一詞兩次出現，第二次用不定式重複同一詞根，中文以重複「許願」保留"
+    }
+  ],
+  "translation": "你不許願，勝過你許了願卻不償還。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "673c0bdcb3d48faa53297bc9d5e2aee1f7d214ecc60a1d397cb7399cae0c6460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/5\/1-4.1792147009708.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "更好"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那種情況"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "你許願"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "於許願之時"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "而不"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "你償還"
+    }
+  ],
+  "timestamp": "2026-10-16T10:36:49.709718679Z",
+  "model": "glm-5.3"
+}

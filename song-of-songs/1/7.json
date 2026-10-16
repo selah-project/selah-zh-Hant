@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 1:7",
+  "book": "song-of-songs",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "為何",
+      "rationale": "שְׁלָמָה 拼法與「所羅門」相同：多數譯本讀作疑問詞「為何」，亦有古譯讀作「所羅門的」蒙面女子；此處取「為何」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "生命",
+      "rationale": "נֶפֶשׁ 近「氣息、生命體」，非不朽靈魂；「我的生命所愛的」直譯「我的氣息所愛的」"
+    },
+    {
+      "kind": "elision",
+      "subject": "羊群",
+      "rationale": "תִּרְעֶה 的受詞未明寫，中文補 ⟨羊群⟩ 以成句"
+    },
+    {
+      "kind": "invitation",
+      "subject": "求你告訴我",
+      "rationale": "以懇求與雙重問句向愛人發出呼喚，引人入話"
+    }
+  ],
+  "translation": "求你告訴我，我的生命所愛的：你在哪裡牧放 ⟨羊群⟩？正午你在哪裡使牠們躺臥？我何必像蒙著面紗的女子，在你同伴的羊群旁邊呢？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ff01a4dd9d7ec2d7f1048913ac57122e870c2f44c8a5605eb99689e6cac96806",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/1\/5-8.1792146666377.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגידה",
+      "gloss": "求你告訴"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "所愛的"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的生命"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "在哪裡"
+    },
+    {
+      "surface": "תרעה",
+      "gloss": "牧放"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "在哪裡"
+    },
+    {
+      "surface": "תרביץ",
+      "gloss": "使躺臥"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "正午"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "為何"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "我像"
+    },
+    {
+      "surface": "כעטיה",
+      "gloss": "蒙著面紗的"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……旁"
+    },
+    {
+      "surface": "עדרי",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "חבריך",
+      "gloss": "你的同伴"
+    }
+  ],
+  "timestamp": "2026-10-16T10:31:06.378175162Z",
+  "model": "glm-5.3"
+}

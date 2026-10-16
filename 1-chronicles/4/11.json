@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文名詞句無繫詞，中文需要。"
+    }
+  ],
+  "translation": "書哈的哥哥基路巴生了 ⟨את⟩ 米黑，米黑是伊施屯的父親。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "801208a00f9ff38f3699ad136cd0453560dc3c7eb0358b5d15ef96df382481bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/4\/9-12.1792148428891.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "基路巴"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "的哥哥"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "書哈"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "米黑"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "米黑"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "的父親"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "伊施屯"
+    }
+  ],
+  "timestamp": "2026-10-16T11:00:28.892761964Z",
+  "model": "glm-5.3"
+}

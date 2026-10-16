@@ -1,0 +1,155 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 19:8",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על לב",
+      "rationale": "「向心說話」＝安慰之言，字面保留並以中文成語表達"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי אינך יוצא אם ילין",
+      "rationale": "雙重 כי…אם 條件結構：「你若不出去，（就）沒有一人留下」；英譯常拆為誓言公式＋條件"
+    },
+    {
+      "kind": "addition",
+      "subject": "第二個 ⟨את⟩",
+      "rationale": "אשר 之後的受詞記號 אינך 句中並無；僅第一個 ⟨את⟩ 對應原文 אתך（H854 介詞「與」，形同 את）——見 tokens"
+    }
+  ],
+  "translation": "現在你要起來，出去，向你僕人們的心說話；因為我指著雅威起誓：你若不出去，今夜就沒有一人與 ⟨את⟩ 你同住。這災比你從幼年直到如今臨到你的 ⟨את⟩ 一切災禍還要糟糕。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2833f676bee4b3aabb94c57ca4ca3288575400bc6b5d040637883b9028a34be3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/19\/5-8.1792132322896.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "現在"
+    },
+    {
+      "surface": "קום",
+      "gloss": "起來"
+    },
+    {
+      "surface": "צא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "說話"
+    },
+    {
+      "surface": "על",
+      "gloss": "向"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "你的僕人們"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "指著雅威"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "我起誓"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "你不"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "אם",
+      "gloss": "就"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "留宿"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一人"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩與你"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "今夜"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "而這災"
+    },
+    {
+      "surface": "לך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "比一切"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "災禍"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "באה",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "你"
+    },
+    {
+      "surface": "מנעריך",
+      "gloss": "從你幼年"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "如今"
+    }
+  ],
+  "timestamp": "2026-10-16T06:32:02.898698914Z",
+  "model": "glm-5.3"
+}

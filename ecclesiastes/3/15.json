@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נרדף",
+      "rationale": "「被追趕的／已過去的」：KJV「所已過去的」vs YLT\/JPS「被追趕的」；動詞 רדף 本義是追趕，被動分詞指被驅走的（時光）"
+    },
+    {
+      "kind": "crux",
+      "subject": "יבקש",
+      "rationale": "「尋回」或「追討」：בקש 可作尋找或要求償還，譯本分歧"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "היה\/להיות\/היה",
+      "rationale": "היה 三次出現的循環結構，映照本節「已有—將有—已有」的循環主題"
+    }
+  ],
+  "translation": "已有的事，早已有了；將要來的事，也早已有了；以羅欣尋回 ⟨את⟩ 那被追趕而去的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c6c49b0ed4f8eb5ffb6acb03b211f58ace8c4d0db71e5c9824917b1ab8699991",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/3\/13-16.1792146950814.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "那"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "已有的事"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "早已"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "有了"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "將要來的事"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "早已"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有了"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "尋回"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那被追趕而去的"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "被追趕而去的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:35:50.815554299Z",
+  "model": "glm-5.3"
+}

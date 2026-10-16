@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 17:17",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "妃嬪",
+      "rationale": "נשים 直譯是「女人們」，此處按君王語境譯作妃嬪"
+    },
+    {
+      "kind": "addition",
+      "subject": "恐怕",
+      "rationale": "希伯來文以 ולא 引出的結果子句，中文加「恐怕」表目的性否定"
+    }
+  ],
+  "translation": "他也不可為自己加增妃嬪，恐怕他的心偏離；銀子和金子他也不可為自己大量加增。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "35dc072d2d079730c7735dd49d575a21294a94605877250856203b16e8196da9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/17\/17-20.1792128976292.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "也不可"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "加增"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為自己"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "妃嬪"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "偏離"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "他的心"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "銀子"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "金子"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "加增"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為自己"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "大量"
+    }
+  ],
+  "timestamp": "2026-10-16T05:36:16.292997224Z",
+  "model": "glm-5.3"
+}

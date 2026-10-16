@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כרים",
+      "rationale": "כַּר 可作『公羊』或『草場／羊圈』；KJV 作 flocks（羊群），有的作 rams（公羊）——此處取『草場』（與 13 節『草場』相連）。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "披蓋",
+      "rationale": "עטף 本義是『遮蔽、裹纏』，此處譯作衣著式的『披滿』以保留穿衣的意象。"
+    }
+  ],
+  "translation": "草場穿上了羊群，山谷也披滿了穀物；它們歡呼，它們也歌唱。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8bd1d6519478a185abca914a7ea7d6042fd66b1d3baa98088102f49994c71d5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/65\/13-14.1792143999478.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "穿上了"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "草場"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "山谷"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "披滿"
+    },
+    {
+      "surface": "בר",
+      "gloss": "穀物"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "歡呼"
+    },
+    {
+      "surface": "אף",
+      "gloss": "也"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "歌唱"
+    }
+  ],
+  "timestamp": "2026-10-16T09:46:39.479717333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויקם",
+      "rationale": "第17與20節首尾同一動詞「立定」，框住整段產業轉讓的法律敘事"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "מאת是介詞「從」與את標記的合寫，⟨את⟩保留於「從」之後以標明出讓者"
+    }
+  ],
+  "translation": "於是那田和其中的洞，從赫的眾子⟨את⟩歸亞伯拉罕為墳地產業，都立定了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ade1faa765ae617b9c1f9c73aeec578e005fb612bedfdb608b815e83c41af3c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/23\/17-20.1792124973780.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "於是…都立定了"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "那田"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "和其中的洞"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "בו",
+      "gloss": "在其中"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "歸亞伯拉罕"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "為產業"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "墳地"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "從⟨את⟩",
+      "marks": "赫的眾子"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的眾子"
+    },
+    {
+      "surface": "חת",
+      "gloss": "赫"
+    }
+  ],
+  "timestamp": "2026-10-16T04:29:33.781441885Z",
+  "model": "glm-5.3"
+}

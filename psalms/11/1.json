@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 是氣息／生命之力，不是靈魂"
+    },
+    {
+      "kind": "crux",
+      "subject": "逃吧",
+      "rationale": "נודו 眾數祈使式：「你們逃吧」；或作單數「你逃吧」（對我的性命說）"
+    },
+    {
+      "kind": "invitation",
+      "subject": "你們怎能…說",
+      "rationale": "詩人反問勸他逃跑的人，直接質問對方"
+    }
+  ],
+  "translation": "給伶長，屬大衛的詩。我投靠雅威；你們怎能對我的性命說：「像鳥一樣，逃往你們的山去吧」？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f02f3330c4fda7bdb82299e862584d872de357f9dcfc72725284e49181bcefae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/11\/1-4.1792143348928.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "給伶長"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "屬大衛的詩"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "在雅威裡"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "我投靠了"
+    },
+    {
+      "surface": "איך",
+      "gloss": "怎能"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "你們說"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "對我的性命"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "逃吧"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "你們的山"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "像鳥一樣"
+    }
+  ],
+  "timestamp": "2026-10-16T09:35:48.928588105Z",
+  "model": "glm-5.3"
+}

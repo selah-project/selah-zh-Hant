@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זה",
+      "rationale": "指示詞「這」或作感嘆（「這是為何！」）或強調疑問，多數譯本省略；此處保留標記"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לב אין",
+      "rationale": "直譯「心不存在」——לב是心思、意志之所在；譯「沒有心」而非「沒有理解力」以保詞形"
+    },
+    {
+      "kind": "invitation",
+      "subject": "讀者",
+      "rationale": "格言以疑問直接質問讀者"
+    }
+  ],
+  "translation": "愚昧人手裏為何有價銀⟨要⟩買智慧，⟨而⟩他卻沒有心呢？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "49cf30c49e5983802515b6efae6cbbe4f2e20687998b92c56f49e8cf74c39b79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/17\/13-16.1792145466057.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "為何"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨這⟩"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "價銀"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手裏"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "愚昧人"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "要買"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "而……心"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    }
+  ],
+  "timestamp": "2026-10-16T10:11:06.058334630Z",
+  "model": "glm-5.3"
+}

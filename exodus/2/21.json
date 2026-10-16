@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "甘心",
+      "rationale": "ויואל 字面為「決意、同意」，亦可譯「樂意」；武加大譯本作「起誓」，較弱"
+    },
+    {
+      "kind": "substitution",
+      "subject": "為妻",
+      "rationale": "希伯來文只說「給了」，「為妻」是中文語境所需，以 ⟨⟩ 標出"
+    },
+    {
+      "kind": "crux",
+      "subject": "那人",
+      "rationale": "第一個 את 在此更像介詞「與」(H854)，而非受詞記號；本譯依提示以 ⟨את⟩ 標記"
+    }
+  ],
+  "translation": "摩西甘心住在 ⟨את⟩ 那人那裡，他就把 ⟨את⟩ 西坡拉——他的女兒——給了摩西 ⟨為妻⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "83a87c186a844b9a3823942c09b5ec4114d9aaed6f8622eea264855397fa0620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/2\/21-24.1792125713723.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "甘心"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "住"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那人"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "那人"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "給了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "西坡拉"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "西坡拉"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "他的女兒"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "給摩西"
+    }
+  ],
+  "timestamp": "2026-10-16T04:41:53.724593325Z",
+  "model": "glm-5.3"
+}

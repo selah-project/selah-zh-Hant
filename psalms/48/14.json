@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 48:14",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שיתו לבכם",
+      "rationale": "直譯「安置你們的心」＝留心／留意的希伯來慣用語"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨的⟩",
+      "rationale": "中文偏正結構需要「的」，希伯來的附屬字尾直接黏附於名詞"
+    },
+    {
+      "kind": "alternative",
+      "subject": "פסגו",
+      "rationale": "字根義「跨越、經過」，或譯「巡行」（JPS traverse）；此處取「觀看」"
+    }
+  ],
+  "translation": "你們要留心她的城垣，觀看她⟨的⟩宮殿，好叫你們述說給後代的子孫。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0eb93a496eaf672950affe49ab3d00a44a0851e938cd49fa5ed6359a22c5ef46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/48\/13-15.1792143788986.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיתו",
+      "gloss": "你們要安置"
+    },
+    {
+      "surface": "לבכם",
+      "gloss": "你們的心"
+    },
+    {
+      "surface": "לחילה",
+      "gloss": "她的城垣"
+    },
+    {
+      "surface": "פסגו",
+      "gloss": "觀看"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "她的宮殿"
+    },
+    {
+      "surface": "למען",
+      "gloss": "好叫"
+    },
+    {
+      "surface": "תספרו",
+      "gloss": "你們述說"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "給後代"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "最後的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:43:08.987124784Z",
+  "model": "glm-5.3"
+}

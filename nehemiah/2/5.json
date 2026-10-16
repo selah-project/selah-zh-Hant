@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 2:5",
+  "book": "nehemiah",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "טוב על המלך",
+      "rationale": "字面「在王之上為好」，宮廷慣用語「若王看為好」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אשר",
+      "rationale": "關係詞אשר在此作請求引語，譯「求你」以合語境。"
+    },
+    {
+      "kind": "addition",
+      "subject": "它",
+      "rationale": "ואבננה的受詞「它」（那城）由中文語法補出。"
+    }
+  ],
+  "translation": "我對王說：「若在王眼前看為好，若你的僕人在你面前蒙恩，求你差遣我往猶大，到我列祖坟墓之城，我好將它重建。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2784d643033be86d5492969d579d6efefed8fc218155a0296243b073685de904",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nehemiah\/2\/5-8.1792147985618.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "我說"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "對王"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……眼前"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "看為好"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "蒙恩"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你的僕人"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "在你面前"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "求你"
+    },
+    {
+      "surface": "תשלחני",
+      "gloss": "差遣我"
+    },
+    {
+      "surface": "אל",
+      "gloss": "往"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "קברות",
+      "gloss": "坟墓"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "我列祖的"
+    },
+    {
+      "surface": "ואבננה",
+      "gloss": "我好重建〈它〉"
+    }
+  ],
+  "timestamp": "2026-10-16T10:53:05.619476692Z",
+  "model": "glm-5.3"
+}

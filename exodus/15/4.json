@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 15:4",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שלשיו",
+      "rationale": "字面與「三」相關——或指戰車上的「第三人」（持盾者），或指高級軍官；傳統譯「軍長／將領」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ים סוף",
+      "rationale": "字面「蘆葦海」，非傳統「紅海」；按詞形譯「蘆葦海」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "「他」",
+      "rationale": "ירה 無主語；中文補「他」（雅威）。"
+    }
+  ],
+  "translation": "法老的戰車和他的軍隊，他拋在海裡；他精選的軍長沉在蘆葦海中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bdfb3a96fc3cb785010d36ed133e28ef776ab7e63c92c2856664559acd0cb367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/15\/1-4.1792125987971.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מרכבת",
+      "gloss": "戰車"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老的"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "和他的軍隊"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "他拋"
+    },
+    {
+      "surface": "בים",
+      "gloss": "在海裡"
+    },
+    {
+      "surface": "ומבחר",
+      "gloss": "他精選的"
+    },
+    {
+      "surface": "שלשיו",
+      "gloss": "軍長"
+    },
+    {
+      "surface": "טבעו",
+      "gloss": "沉"
+    },
+    {
+      "surface": "בים",
+      "gloss": "在…海"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "蘆葦（海）"
+    }
+  ],
+  "timestamp": "2026-10-16T04:46:27.972276847Z",
+  "model": "glm-5.3"
+}

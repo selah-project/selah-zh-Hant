@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "作",
+      "rationale": "中文需要連接詞把「火祭、香氣」與焚燒動作相連，希伯來文為名詞並列。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "安息的香氣",
+      "rationale": "ניחוחַ 本義是「舒息、安息」，傳統譯「馨香」失去休息之意。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "記念部分",
+      "rationale": "אַזְכָּרָה 指素祭中取出的一固定份量，是量化祭份的用語。"
+    }
+  ],
+  "translation": "祭司要從素祭中舉起它的記念部分——⟨את⟩ 它的記念物——在祭壇上焚燒成煙，作雅威的火祭，為安息的香氣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "144bcf371a4a9b6f0310814f2135b7f2aa7b5a2eec824b06de461ab233121cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/2\/9-12.1792126628651.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "要舉起"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "素祭"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "它的記念物"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "它的記念物"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "焚燒成煙"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "在祭壇上"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "火祭"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "香氣"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "安息的"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-10-16T04:57:08.652481417Z",
+  "model": "glm-5.3"
+}

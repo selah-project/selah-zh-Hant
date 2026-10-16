@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 36:23",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨他的⟩",
+      "rationale": "דרכו本身帶代詞詞尾，但中文需將「他的道路」整體置於派定之後，詞序調整"
+    },
+    {
+      "kind": "substitution",
+      "subject": "派定",
+      "rationale": "פקד可作「派定、查驗、數算」，此處取監督指派之意"
+    },
+    {
+      "kind": "mystery",
+      "subject": "誰說",
+      "rationale": "修辭疑問：無人能指派伊勒的道路，無人能指控他行不義"
+    }
+  ],
+  "translation": "誰為他派定⟨他的⟩道路？誰說：『你行了不義』？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "16bfc0e0c1d310dabd981c34c189b76ce34f0ab8153a2b58f1fbbe53bc20355a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/36\/21-24.1792146417134.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "派定"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "為他"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "他的道路"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "你行了"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "不義"
+    }
+  ],
+  "timestamp": "2026-10-16T10:26:57.135260033Z",
+  "model": "glm-5.3"
+}

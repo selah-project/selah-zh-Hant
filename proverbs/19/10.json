@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נאוה",
+      "rationale": "此詞形於《塔納赫》中極罕見，意為「合宜、美好」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אף כי",
+      "rationale": "直譯「也何況」，譯為「何況……呢」以表遞進修辭"
+    }
+  ],
+  "translation": "奢華不配愚昧人，何況僕人管轄君王之首領呢。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f4871258a5b0102f27d87b773629a10dcf76954aa9f09c7dfe29be92cd68d5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/19\/9-12.1792145507879.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "配"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "愚昧人"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "奢華"
+    },
+    {
+      "surface": "אף",
+      "gloss": "何況"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨更不用說⟩"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "僕人"
+    },
+    {
+      "surface": "משל",
+      "gloss": "管轄"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "首領"
+    }
+  ],
+  "timestamp": "2026-10-16T10:11:47.879904552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to 雅威",
+      "rationale": "全章向雅威發出的直接呼求，此節開其端。"
+    },
+    {
+      "kind": "addition",
+      "subject": "求你",
+      "rationale": "祈使式זכר譯為懇求語氣，中文需加「求」。"
+    },
+    {
+      "kind": "elision",
+      "subject": "מה",
+      "gloss": "疑問詞מה在此作感嘆用法，併入「所遭遇的」。"
+    }
+  ],
+  "translation": "雅威啊，求你記念 ⟨את⟩ 我們所遭遇的；觀看，並且看明我們的羞辱。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e29e6d0fa4219d79e0b7e7a8123e85c32b15763f1b200b118a7ca81a55a30274",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/lamentations\/5\/1-4.1792146842390.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "求你記念"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מה",
+      "gloss": "什麼"
+    },
+    {
+      "surface": "היה",
+      "gloss": "遭遇了"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "我們"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "觀看"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "並且看明"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我們的羞辱"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "我們的羞辱"
+    }
+  ],
+  "timestamp": "2026-10-16T10:34:02.390599555Z",
+  "model": "glm-5.3"
+}

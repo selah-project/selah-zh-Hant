@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 36:5",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "任何人",
+      "rationale": "מאס 的受詞在原文中未寫出，中文需補出"
+    },
+    {
+      "kind": "crux",
+      "subject": "心有力量",
+      "rationale": "כח לב 或作「力量的心」（他內心有力）或如和合本「能力和智慧」，KJV 加了智慧"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כביר…כביר",
+      "rationale": "同一詞重複兩次首尾呼應，強調伊勒的大能，中文以重複譯出"
+    }
+  ],
+  "translation": "看哪，伊勒是大能的，必不藐視⟨任何人⟩；他大有能力，心有力量。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "78e5cf3a1af13bdb455f47633abea07ade59989055aec705fe3bc00747b378e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/36\/5-8.1792146429144.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "是大能的"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "必不"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "藐視"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "大有能力"
+    },
+    {
+      "surface": "כח",
+      "gloss": "力量"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    }
+  ],
+  "timestamp": "2026-10-16T10:27:09.145377395Z",
+  "model": "glm-5.3"
+}

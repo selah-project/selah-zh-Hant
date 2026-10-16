@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סביב……סביב",
+      "rationale": "「圍繞」一詞重複出現，將群山環繞耶路撒冷與雅威環繞子民並列，修辭核心"
+    },
+    {
+      "kind": "addition",
+      "subject": "也",
+      "rationale": "中文以「也」字帶出希伯來文僅以語序對舉的類比"
+    }
+  ],
+  "translation": "耶路撒冷啊，眾山圍繞她；雅威也圍繞他的子民，從今時直到永遠。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6ddce91552d2f7f8294385cccee1e865d7d4e4a1a60a3410fc129e939f17cc08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/125\/1-4.1792145002973.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "眾山"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "圍繞"
+    },
+    {
+      "surface": "לה",
+      "gloss": "她"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "雅威也"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "圍繞"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "他的子民"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "從今時"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-10-16T10:03:22.976187954Z",
+  "model": "glm-5.3"
+}

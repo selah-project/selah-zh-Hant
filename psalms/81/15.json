@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "懲罰之",
+      "rationale": "「收回手」的字面意象需要補充才能讀通；希伯來文只有「手」"
+    },
+    {
+      "kind": "crux",
+      "subject": "אשיב ידי",
+      "rationale": "「轉回我的手」可指攻擊（向敵人伸手）或收回不再施罰，多數譯本取「攻擊」義"
+    }
+  ],
+  "translation": "我必頃刻間制伏他們的仇敵，向着他們的敵人收回⟨懲罰之⟩手。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "864e5b869f57b09e73749a0c6f853dd14d61cd9e9e9749dab8ef8e80d23d10a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/81\/14-15.1792149887687.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "頃刻間"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "他們的仇敵"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "制伏"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "向着"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "他們的敵人"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "收回"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "手"
+    }
+  ],
+  "timestamp": "2026-10-16T11:24:47.687591887Z",
+  "model": "glm-5.3"
+}

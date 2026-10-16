@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 23:29",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עירם\/עריה\/ערות",
+      "rationale": "赤裸一詞三現（עירם、עריה、ערות），聲音層層重疊；「顯露」（נגלה）與「裸露」（ערוה）同根呼應，中文難以保留。"
+    },
+    {
+      "kind": "elision",
+      "subject": "אותך",
+      "rationale": "受詞標號帶第二人稱詞尾，以 ⟨אותך⟩ 保留標記，其『你』義併入動詞。"
+    }
+  ],
+  "translation": "他們必以憎恨待 ⟨את⟩ ⟨אותך⟩，他們必奪取你一切的勞碌所得，撇下你赤身裸露；你行淫的裸露必被顯露，連你的惡謀和你的淫行。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "51c848ac14b594d592b382e39cee28ad24db1531b7dca7ef0b8151c72b6354c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/23\/29-32.1792138574775.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "他們必以憎恨待"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ⟨אותך⟩",
+      "marks": "你"
+    },
+    {
+      "surface": "בשנאה",
+      "gloss": "以憎恨"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "他們必奪取"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切的"
+    },
+    {
+      "surface": "יגיעך",
+      "gloss": "你的勞碌所得"
+    },
+    {
+      "surface": "ועזבוך",
+      "gloss": "撇下你"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "赤身"
+    },
+    {
+      "surface": "ועריה",
+      "gloss": "裸露"
+    },
+    {
+      "surface": "ונגלה",
+      "gloss": "必被顯露"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "裸露"
+    },
+    {
+      "surface": "זנוניך",
+      "gloss": "你行淫的"
+    },
+    {
+      "surface": "וזמתך",
+      "gloss": "你的惡謀"
+    },
+    {
+      "surface": "ותזנותיך",
+      "gloss": "你的淫行"
+    }
+  ],
+  "timestamp": "2026-10-16T08:16:14.776107135Z",
+  "model": "glm-5.3"
+}

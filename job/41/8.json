@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "氣息",
+      "rationale": "רוח此處指尋常的空氣／氣息，非屬雅威的魯阿"
+    },
+    {
+      "kind": "addition",
+      "subject": "鱗片",
+      "rationale": "希伯來文只作「一片貼一片」，受詞由上下文補出，中文補「鱗片」以明所指"
+    }
+  ],
+  "translation": "鱗片一片緊貼一片，氣息不能進入牠們中間。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "99325afaae36f89ebcccfe733ab17645911107141b496c35276ec02e79ac64b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/41\/5-8.1792146531585.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "一片"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "緊貼一片"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "靠近"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "而氣息"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "進入"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "牠們中間"
+    }
+  ],
+  "timestamp": "2026-10-16T10:28:51.586184987Z",
+  "model": "glm-5.3"
+}

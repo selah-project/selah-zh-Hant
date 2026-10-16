@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בן",
+      "rationale": "直譯「兒子」；多數譯本意譯為「枝子」（因葡萄樹意象），bsb 保留「兒子」；與 v17「右邊的人、人子」相呼應。"
+    },
+    {
+      "kind": "crux",
+      "subject": "כנה",
+      "rationale": "僅此處出現的栽植之物，或作「栽子／根」，各譯本有 vineyard\/root\/stock 之別。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "כנה",
+      "rationale": "此詞形在《塔納赫》中僅見於本節。"
+    }
+  ],
+  "translation": "就是你右手所栽植的〈那株〉，和你為自己所堅固的〈那〉兒子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "305be8c6480c8a9520b2ab6947204039b1c90193a757246ccd25c88ae28f7240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/80\/13-16.1792144353077.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "那株"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所……的"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "栽植"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "你的右手"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "和"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "堅固"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為你"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:33.078570635Z",
+  "model": "glm-5.3"
+}

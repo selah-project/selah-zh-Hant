@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כלתו",
+      "rationale": "字面「他的新娘／兒妻」，譯「兒婦」以合中文親屬稱謂"
+    },
+    {
+      "kind": "measurement",
+      "subject": "五個",
+      "rationale": "總結計數：三加二，猶大之子共五"
+    }
+  ],
+  "translation": "他瑪是他的兒婦，給他生了 ⟨את⟩ 法勒斯和 ⟨את⟩ 謝拉。猶大的兒子共有五個。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7992844fe8275e20f92f59a8ab6cef3eda2098ca62b4f832102ccab180f599b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/2\/1-4.1792148321968.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "而他瑪"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "他的兒婦"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "生"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給他"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "法勒斯"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "法勒斯"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "謝拉"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "和謝拉"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "בני",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五個"
+    }
+  ],
+  "timestamp": "2026-10-16T10:58:41.969421271Z",
+  "model": "glm-5.3"
+}

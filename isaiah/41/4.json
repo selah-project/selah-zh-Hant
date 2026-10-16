@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואת אחרנים",
+      "rationale": "此處 את 是『與』的介詞而非受詞記號（『與末後的（同在）』，KJV\/ASV）；仍按記號家族保留 ⟨את⟩ 形式"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文判斷句需要"
+    }
+  ],
+  "translation": "誰行做並成就了這事，從起初召喚歷代？我，雅威，是首先的；與⟨את⟩末後的，我就是他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7a22f4af579eee51a6e77e17139c1739317e9dad2654a082f6cdcdd9228195da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/41\/1-4.1792135484768.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "行做"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "並成就了"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "召喚"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "歷代"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "從起初"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "是首先的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "與末後的"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "末後的"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "就是他"
+    }
+  ],
+  "timestamp": "2026-10-16T07:24:44.769779423Z",
+  "model": "glm-5.3"
+}

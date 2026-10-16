@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "領上來",
+      "rationale": "המעלך是「使你上來」，不單是「領出」；中文保留「領上來」的方向感"
+    },
+    {
+      "kind": "invitation",
+      "subject": "הרחב פיך",
+      "rationale": "命令式邀請：張開口，我就充滿——邀請的意象"
+    },
+    {
+      "kind": "crux",
+      "subject": "我就充滿它",
+      "rationale": "ואמלאהו的受詞「它」可指口（應許供應）或另有所指，各譯本多取「口」"
+    }
+  ],
+  "translation": "我是雅威你的以羅欣（神），曾把你從埃及地領上來的那一位；你要大大張口，我就充滿它。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0d5013afb3c56e3e804712f67a3c7150e9baa1b68a5db1d173e15345afe54ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/81\/9-12.1792144327791.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "曾把你領上來的那一位"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "從地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "你要大大張開"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "你的口"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "我就充滿它"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:07.792602255Z",
+  "model": "glm-5.3"
+}

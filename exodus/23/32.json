@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "神明",
+      "rationale": "此處 אלהים 指異教諸神，依紀律用「神明」而非「以羅欣」"
+    },
+    {
+      "kind": "idiom",
+      "subject": "תכרת ברית",
+      "rationale": "字面「切約」，立約藉切開祭牲而立；譯作「立約」"
+    }
+  ],
+  "translation": "你不可與他們立約，也不可與他們的神明立約。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "09f9bd38b14ac0e4b199910d9d05b3e251dc8cdfc0c1a381399627334c710efe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/23\/29-32.1792126192984.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "立…約"
+    },
+    {
+      "surface": "להם",
+      "gloss": "與他們"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "與他們的神明"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    }
+  ],
+  "timestamp": "2026-10-16T04:49:52.985421487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 10:4",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "十句話",
+      "rationale": "עשרת הדברים 直譯「十句話」，傳統譯「十誡」"
+    },
+    {
+      "kind": "addition",
+      "subject": "那兩塊版",
+      "rationale": "ויתנם 的附屬字尾「它們」在中文補明為「那兩塊版」"
+    }
+  ],
+  "translation": "他照先前所寫的字樣，把 ⟨את⟩ 十句話寫在版上；那些話是雅威在山上、從火中間、在聚會的日子對你們說的。雅威把那兩塊版給了我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b271a3e442c49beb7e6f752a2ed9e082a3529a768624f4a9f20b44cb682bfd5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/10\/1-4.1792128725219.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "他寫了"
+    },
+    {
+      "surface": "על",
+      "gloss": "在…上"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "版"
+    },
+    {
+      "surface": "כמכתב",
+      "gloss": "照…所寫的字樣"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "先前的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "十句話"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "十"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "句話"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那些…的"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "對你們"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "在山上"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "從…中間"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在…的日子"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "聚會"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "他把它們給了"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我"
+    }
+  ],
+  "timestamp": "2026-10-16T05:32:05.220503561Z",
+  "model": "glm-5.3"
+}

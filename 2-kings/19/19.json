@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 19:19",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "向雅威的祈求",
+      "rationale": "希西家直接向雅威呼求，屬禱告的直接呼告。"
+    },
+    {
+      "kind": "addition",
+      "subject": "啊",
+      "rationale": "中文呼格語氣詞，希伯來文無此字。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לבדך 的位置",
+      "rationable": "「惟獨你」可置於句首（如你所獨有的名）或句尾，此處依語流置於句首強調獨一性。",
+      "rationale": "語序選擇的另一種可能。"
+    }
+  ],
+  "translation": "如今，雅威我們的以羅欣啊，求你拯救我們脫離他的手，使地上所有的國都知道：惟獨你——雅威——是以羅欣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a1fec169dc978f33dfee8ceead9ce6e58419f54d30237224155216646c196cc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/19\/17-20.1792134229728.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "如今"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "我們的以羅欣"
+    },
+    {
+      "surface": "הושיענו",
+      "gloss": "求你拯救我們"
+    },
+    {
+      "surface": "נא",
+      "gloss": "求你"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "脫離他的手"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "使……都知道"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "國"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〈知道〉"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "惟獨你"
+    }
+  ],
+  "timestamp": "2026-10-16T07:03:49.729040750Z",
+  "model": "glm-5.3"
+}

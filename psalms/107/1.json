@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他本為善",
+      "rationale": "希伯來文只說「因為善」，中文需補主語與判斷詞"
+    },
+    {
+      "kind": "invitation",
+      "subject": "你們要稱謝",
+      "rationale": "命令式複數，向會眾發出的呼召"
+    }
+  ],
+  "translation": "你們要稱謝雅威，因為他本為善，因為他的慈愛存到永遠。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d9140e39ef3ab1a1c18ad99e6f9c6a87ba0ea4d72d4b275cb29a212149e09013",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/107\/1-4.1792144686797.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "你們要稱謝"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "本為善"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "存到永遠"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "他的慈愛"
+    }
+  ],
+  "timestamp": "2026-10-16T09:58:06.798169185Z",
+  "model": "glm-5.3"
+}

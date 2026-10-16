@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "教導……打仗",
+      "rationale": "希伯來文第二子句省略動詞，沿用「教導」以合中文語法"
+    },
+    {
+      "kind": "you",
+      "subject": "詩人向雅威",
+      "rationale": "稱頌與第一人稱「我的」，是對雅威直接的敬拜言語"
+    }
+  ],
+  "translation": "大衛的詩。雅威我的磐石是應當稱頌的，祂教導我的手爭戰，教導我的指頭打仗。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/144\/1-4.1792145078857.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的詩"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "是應當稱頌的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "我的磐石"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "祂教導"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "爭戰"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "我的指頭"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "打仗"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:38.859194643Z",
+  "model": "glm-5.3"
+}

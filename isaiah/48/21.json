@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 48:21",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "荒涼之地",
+      "rationale": "חֳרָבוֹת 字面是「乾旱之地」，中文以「荒涼之地」呈現其引申義"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הזיל／ויזבו",
+      "rationale": "「滴流」與「湧流」兩個近義動詞首尾呼應，希伯來文的流動意象層遞在中文中部分保留"
+    },
+    {
+      "kind": "addition",
+      "subject": "時",
+      "rationale": "中文時間從句需要「時」字，希伯來文以分詞片語表達"
+    }
+  ],
+  "translation": "他引導他們經過荒涼之地時，他們並不乾渴；他使水從磐石滴流給他們；他劈開磐石，水就湧流出來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8666b08b1aa6b119c564b64d5c9d0423cb79acd205d160858571bdb52dc137c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/48\/21-22.1792135504203.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "並不"
+    },
+    {
+      "surface": "צמאו",
+      "gloss": "乾渴"
+    },
+    {
+      "surface": "בחרבות",
+      "gloss": "荒涼之地"
+    },
+    {
+      "surface": "הוליכם",
+      "gloss": "他引導他們"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "從磐石"
+    },
+    {
+      "surface": "הזיל",
+      "gloss": "使滴流"
+    },
+    {
+      "surface": "למו",
+      "gloss": "給他們"
+    },
+    {
+      "surface": "ויבקע",
+      "gloss": "他就劈開"
+    },
+    {
+      "surface": "צור",
+      "gloss": "磐石"
+    },
+    {
+      "surface": "ויזבו",
+      "gloss": "就湧流"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-10-16T07:25:04.204034178Z",
+  "model": "glm-5.3"
+}

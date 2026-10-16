@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אעירה שחר",
+      "rationale": "「喚醒黎明」字面直譯（JPS、BSB）vs. 傳統「我必早早醒起」（KJV 將 שחר 作副詞「清早」）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "琴瑟",
+      "rationale": "הנבל 原意為皮袋狀的樂器（瓶子琴），וכנור 為弦樂器；以中文固有樂器名對譯"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עורה…עורה…אעירה",
+      "rationale": "三重「醒起」重複，動詞 עור 出現三次，聲音層層升高，中文難以完全保留"
+    },
+    {
+      "kind": "you",
+      "subject": "詩人對自己的榮耀與樂器說話",
+      "rationale": "呼喚語氣，命令式直接稱呼"
+    }
+  ],
+  "translation": "我的榮耀啊，醒起；琴瑟啊，醒起；我要喚醒黎明。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "88b234e884a18acd4462a9af204869aa65553829ce71268139fe7702a98395d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/57\/9-12.1792143909357.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "醒起"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "我的榮耀"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "醒起"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "琴"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "瑟"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "我要喚醒"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "黎明"
+    }
+  ],
+  "timestamp": "2026-10-16T09:45:09.357977987Z",
+  "model": "glm-5.3"
+}

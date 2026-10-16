@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מחראות",
+      "rationale": "מחראות（茅廁／糞坑）僅出現於此處，是全塔納赫唯一的用例"
+    },
+    {
+      "kind": "measurement",
+      "subject": "עד היום",
+      "rationale": "「直至今日」是敘事者的時間標記，標示寫作時的狀態"
+    }
+  ],
+  "translation": "他們拆毀 ⟨את⟩ 巴力的柱像，又拆毀 ⟨את⟩ 巴力的殿，把它變為茅廁，直至今日。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dddc40cfce76592b3aeb9a2717cb91b89e8bb8982b57fc23e2a8cce2ef6f0d7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/10\/25-28.1792133703272.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "拆毀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "巴力的柱像"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "柱像"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "巴力的"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "拆毀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "巴力的殿"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "巴力的"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "把它變為"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "茅廁"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直至"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    }
+  ],
+  "timestamp": "2026-10-16T06:55:03.274122588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "為人",
+      "rationale": "נודע被動式，中文補出被認識的語感"
+    }
+  ],
+  "translation": "以羅欣在猶大為人所認識⟨；⟩他的名在以色列為大。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b3e6e4f83a5e7d21d280372508095ffecc2ba31fd50f2a769e20d4e3637ccd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/76\/1-4.1792144212365.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "為人所認識"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "在猶大"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "在以色列"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "為大"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "他的名"
+    }
+  ],
+  "timestamp": "2026-10-16T09:50:12.366586119Z",
+  "model": "glm-5.3"
+}

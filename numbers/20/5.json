@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 20:5",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "也無",
+      "rationale": "中文列舉需要連接詞，希伯來文以附加詞直接並列"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקום",
+      "rationale": "本節兩次出現「地方」一詞，以色列人的抱怨圍繞這重複而轉"
+    }
+  ],
+  "translation": "你們為什麼使我們從埃及上來，把我們領到這壞地方呢？這不是撒種之地，也無無花果樹、葡萄樹、石榴樹，又沒有水喝。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "94a70a9888109b9de8ef961600711e9237e3d9cfd9df09a09b396562938137bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/20\/5-8.1792127995420.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "為什麼"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "使我們上來"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "從埃及"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "領"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "我們"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "這地方"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "壞"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不是"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "之地"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "撒種"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "無花果樹"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "葡萄樹"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "石榴樹"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "水"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "喝"
+    }
+  ],
+  "timestamp": "2026-10-16T05:19:55.420996110Z",
+  "model": "glm-5.3"
+}

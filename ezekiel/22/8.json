@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "也",
+      "rationale": "ואת的连接词ו以'也'传出"
+    }
+  ],
+  "translation": "我的圣物，你藐视了；⟨את⟩ 我的安息日，你也亵渎了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e4349d419cca91a0f7b943244050b137c2fb91373f257b51c78bb5813b15e3e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/22\/5-8.1792138415642.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "我的圣物"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "藐视"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "我的安息日"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "我的安息日"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "亵渎"
+    }
+  ],
+  "timestamp": "2026-10-16T08:13:35.643842047Z",
+  "model": "glm-5.3"
+}

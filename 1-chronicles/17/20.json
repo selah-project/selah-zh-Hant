@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "באזנינו",
+      "rationale": "字面「在我們的耳中」，中文作「親耳」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "親",
+      "rationale": "「親耳」加「親」以貼合中文語感，字面只作「在我們的耳中」。"
+    },
+    {
+      "kind": "you",
+      "subject": "to YHWH",
+      "rationale": "直接向雅威的頌讚宣告。"
+    }
+  ],
+  "translation": "雅威啊，沒有像你的，除你以外也沒有以羅欣，照我們親耳所聽見的一切。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4995ccb8f4d0895b108c95f5ffe7fb04df01a265ec69a65f4bbe661eca6a2c6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/17\/17-20.1792148875874.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "像你的"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "也沒有"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "除你以外"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "照…的一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "親耳"
+    }
+  ],
+  "timestamp": "2026-10-16T11:07:55.875423595Z",
+  "model": "glm-5.3"
+}

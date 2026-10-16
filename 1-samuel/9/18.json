@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "城",
+      "rationale": "原文只是 הַשַּׁעַר「門」，中文加「城」以成自然詞。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הראה",
+      "rationale": "「先見」（ro'eh，看見者）是先知的古稱，與後來的 navi 相區別；譯作「先見」保留其字面。"
+    }
+  ],
+  "translation": "掃羅在城門中間走近 ⟨את⟩ 撒母耳，說：「求你告訴我，先見的家在哪裡？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b2fb7a248a450927b9646e01aa7e7008efb3526cd33fde017db47532b6fdd218",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/9\/17-20.1792131004699.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "走近"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "撒母耳"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "在……中間"
+    },
+    {
+      "surface": "השער",
+      "gloss": "城門"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "求你告訴"
+    },
+    {
+      "surface": "נא",
+      "gloss": "求你"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אי",
+      "gloss": "在哪裡"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨這⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "先見"
+    }
+  ],
+  "timestamp": "2026-10-16T06:10:04.700231082Z",
+  "model": "glm-5.3"
+}

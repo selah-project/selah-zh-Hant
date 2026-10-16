@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 32:32",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גפן／גפנם，ענבמו／ענבי",
+      "rationale": "「葡萄樹—他們的葡萄樹」「他們的葡萄—毒葡萄」的詞根重複構成迴響，中文難以完全保留。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "毒",
+      "rationale": "רֹאשׁ 是毒植物之名（或謂罌粟），泛指毒物；中文以「毒」概括。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "למו",
+      "rationale": "語助詞「歸他們」強調苦味屬於他們；也有譯本讀作詩歌性的加強語氣詞。"
+    }
+  ],
+  "translation": "因為他們的葡萄樹出自所多瑪的葡萄樹，出自蛾摩拉的田地；他們的葡萄是毒葡萄，葡萄串苦澀歸他們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c67d672c8a66b2a780ff34c83280611977e93f49a47615fc86b87202d50a5d1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/32\/29-32.1792129316523.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "出自……的葡萄樹"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "所多瑪"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "他們的葡萄樹"
+    },
+    {
+      "surface": "ומשדמת",
+      "gloss": "和出自……的田地"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "蛾摩拉"
+    },
+    {
+      "surface": "ענבמו",
+      "gloss": "他們的葡萄"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "葡萄"
+    },
+    {
+      "surface": "רושׁ",
+      "gloss": "毒"
+    },
+    {
+      "surface": "אשכלת",
+      "gloss": "葡萄串"
+    },
+    {
+      "surface": "מררת",
+      "gloss": "苦澀"
+    },
+    {
+      "surface": "למו",
+      "gloss": "歸他們"
+    }
+  ],
+  "timestamp": "2026-10-16T05:41:56.524562806Z",
+  "model": "glm-5.3"
+}

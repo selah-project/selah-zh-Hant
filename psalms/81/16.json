@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יכחשו",
+      "rationale": "כחש 或作「假意順服」（KJV\/ylt）或「消滅衰亡」（JPS 自動改讀 יכחדו）；此處取「言語上不實」的本義"
+    },
+    {
+      "kind": "crux",
+      "subject": "עתם לעולם",
+      "rationale": "「他們的時日存到永遠」：可指仇敵受罰永存（JPS）或其亨通之久；動詞 ויהי 主語模糊"
+    },
+    {
+      "kind": "addition",
+      "subject": "順服",
+      "rationale": "原文只作「向他說謊\/假意」，「順服」為語境所補"
+    }
+  ],
+  "translation": "恨雅威的人必向他虛假順服，他們的時日必存到永遠。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "12a2efc113c2f0e73ace8e5034f28d213375979dd15424622a7abb2dd2fd17a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/81\/16-16.1792149887237.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "恨……的人"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "必虛假順服"
+    },
+    {
+      "surface": "לו",
+      "gloss": "向他"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "必存"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "他們的時日"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    }
+  ],
+  "timestamp": "2026-10-16T11:24:47.238224715Z",
+  "model": "glm-5.3"
+}

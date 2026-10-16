@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 26:1",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תלעת שני",
+      "rationale": "字面是「朱紅色的蟲」，指胭脂蟲染成的朱紅色線，譯其色而不譯其蟲"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעשה חשב",
+      "rationale": "「設計者的工藝」，即熟織匠的圖樣織繡，中文以「刺繡的工藝」概括"
+    },
+    {
+      "kind": "measurement",
+      "subject": "עשר יריעת",
+      "rationale": "十幅幔子的數量規格，屬會幕的測量清單"
+    }
+  ],
+  "translation": "你要用十幅幔子做 ⟨את⟩ 會幕：撚的細麻、藍色、紫色、朱紅色線，以刺繡的工藝做上基路伯，你要這樣做 ⟨את⟩ 它們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "05f50be337aa0bc8e60bc8f241b60b061d1c6fd6af66a52c361de9576b52c249",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/26\/1-4.1792126278796.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "會幕"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "幔子"
+    },
+    {
+      "surface": "שש",
+      "gloss": "細麻"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "撚的"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "藍色"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "紫色"
+    },
+    {
+      "surface": "ותלעת",
+      "gloss": "朱紅色線"
+    },
+    {
+      "surface": "שני",
+      "gloss": "朱紅色"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "基路伯"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "工藝"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "刺繡的"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ 它們",
+      "marks": "它們"
+    }
+  ],
+  "timestamp": "2026-10-16T04:51:18.797544976Z",
+  "model": "glm-5.3"
+}

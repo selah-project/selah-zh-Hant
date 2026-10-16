@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 21:17",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "以色列的燈",
+      "rationale": "נר ישראל 以燈喻王的性命與家系，照字面保留"
+    },
+    {
+      "kind": "you",
+      "subject": "大衛",
+      "rationale": "大衛的人直接向他起誓立禁令"
+    }
+  ],
+  "translation": "洗魯雅的兒子亞比篩幫助了他，擊打了那非利士人，把他殺死了。那時大衛的人向他起誓說：「你不可再與⟨את⟩我們一同出去打仗，免得你把以色列的燈熄滅了。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "eff696a0868f12bbf66ca6806a19c1c8b560b88bd6bfc3fae46da5e3b266fc6e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/21\/17-20.1792132283753.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזר",
+      "gloss": "幫助"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "亞比篩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "洗魯雅"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "擊打"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那非利士人"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "那非利士人"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "把他殺死"
+    },
+    {
+      "surface": "אז",
+      "gloss": "那時"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "起誓"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "的人"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "לו",
+      "gloss": "向他"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "與⟨את⟩我們"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "打仗"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "免得"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "熄滅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的燈"
+    },
+    {
+      "surface": "נר",
+      "gloss": "燈"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T06:31:23.754166985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "對雅威",
+      "rationale": "向雅威發出的祈求，直接呼喚聖名"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ערו ערו",
+      "rationale": "拆毀命令重複兩次，中文重複『拆毀它』以存其吶喊節奏"
+    },
+    {
+      "kind": "idiom",
+      "subject": "求你記念",
+      "rationale": "זכור לְ在此為『記念而施行報應』之意（對以東不利的記念），非中性回憶"
+    }
+  ],
+  "translation": "雅威啊，求你記念以東眾子在耶路撒冷的日子所行的——他們說：拆毀它、拆毀它，直到底下的根基。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "25d1b7e231f2a191d3639ebda193d3e341c19ea442e0f03606e1ccc2d8c1cf26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/137\/5-8.1792145060407.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "求你記念"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "……的眾子"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "以東"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶路撒冷的日子"
+    },
+    {
+      "surface": "יום",
+      "gloss": "……的日子"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "說……的"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "拆毀它"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "拆毀它"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "根基"
+    },
+    {
+      "surface": "בה",
+      "gloss": "其中的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:20.409086471Z",
+  "model": "glm-5.3"
+}

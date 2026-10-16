@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "分詞的主語由上文（雅威）補出，希伯來文無獨立代名詞"
+    },
+    {
+      "kind": "you",
+      "subject": "耶路撒冷／錫安",
+      "rationale": "本節延續 12 節對耶路撒冷的直接稱呼，陰性單數代詞「你」"
+    }
+  ],
+  "translation": "因為他使你城門的門閂堅固，在你中間賜福你的兒女。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "aefde5ace56cc26ce7c9fa31fcee9847094d4270bb48c85742065604024d4606",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/147\/13-16.1792145139015.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "使……堅固"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "門閂"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "你城門的"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "賜福"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "你的兒女"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "在你中間"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:39.016221818Z",
+  "model": "glm-5.3"
+}

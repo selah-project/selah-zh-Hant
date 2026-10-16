@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "守望",
+      "rationale": "שמרות字面為「被看守之物」，即眼皮的守夜；譯作「守望」保留看守的意象"
+    }
+  ],
+  "translation": "你緊抓住我雙眼眼皮的守望；我被攪動，說不出話。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6a84d3cd64e25f3fe64598015cc650f563b9fc12bab644192602b75f8177ab93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/77\/5-8.1792144217733.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "你緊抓住"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "守望"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我雙眼的眼皮"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "我被攪動"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "而不"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "說話"
+    }
+  ],
+  "timestamp": "2026-10-16T09:50:17.733797087Z",
+  "model": "glm-5.3"
+}

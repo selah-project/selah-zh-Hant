@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 4:6",
+  "book": "ruth",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לגאול לי 的第一个赎",
+      "rationale": "「我不能為自己赎」之后的宾语在希伯来文中省略，中文以重新表述处理，未逐字保留重复结构。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גאל 词根",
+      "rationale": "本节六次出现גאל词根（赎、赎业权），修辞密集，中文以「赎」字贯穿以保留重复。"
+    }
+  ],
+  "translation": "那救赎者說：「我不能為自己贖⟨את⟩我的產業免受損壞——恐怕我損壞⟨את⟩我的產業。你自己贖我的贖業權吧，因為我不能贖。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "425ef71b8a33cf4ed1d22e11ca9ece2c65f9e0aa4706095932963875a9945f18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ruth\/4\/5-8.1792146739094.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "那救赎者"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "我能"
+    },
+    {
+      "surface": "לגאול",
+      "gloss": "赎"
+    },
+    {
+      "surface": "לי",
+      "gloss": "为我自己"
+    },
+    {
+      "surface": "פן",
+      "gloss": "恐怕"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "我损坏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的產業"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "我的產業"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "赎吧"
+    },
+    {
+      "surface": "לך",
+      "gloss": "为你自己"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的贖業權"
+    },
+    {
+      "surface": "גאלתי",
+      "gloss": "我的贖業權"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "我能"
+    },
+    {
+      "surface": "לגאול",
+      "gloss": "赎"
+    }
+  ],
+  "timestamp": "2026-10-16T10:32:19.095814675Z",
+  "model": "glm-5.3"
+}

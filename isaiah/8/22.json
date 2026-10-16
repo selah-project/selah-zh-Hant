@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 8:22",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צרה…צוקה",
+      "rationale": "「艱難」（צרה）與「困苦」（צוקה）同根重複，四個黑暗詞彙層層堆疊，修辭壓迫感在中文中部分流失"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מעוף",
+      "rationale": "מעוף（昏暗）僅出現於此處與8:23平行處，為罕見詞"
+    }
+  ],
+  "translation": "他們仰望大地，看哪，只有艱難與黑暗、昏暗的困苦，被驅入幽暗之中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3bd7ec781d3481e83851bee0060aee8e6ee659abce1502efb6930234177ad070",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/8\/21-23.1792134587177.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "向"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "仰望"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "艱難"
+    },
+    {
+      "surface": "וחשכה",
+      "gloss": "與黑暗"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "昏暗"
+    },
+    {
+      "surface": "צוקה",
+      "gloss": "困苦"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "幽暗"
+    },
+    {
+      "surface": "מנדח",
+      "gloss": "被驅入"
+    }
+  ],
+  "timestamp": "2026-10-16T07:09:47.178095915Z",
+  "model": "glm-5.3"
+}

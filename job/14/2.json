@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 14:2",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כציץ\/כצל",
+      "rationale": "「如花」（ketzitz 般的 ציץ）與「如影」（צל）頭音相近，雙重比喻的音韻呼應在中文中失落"
+    },
+    {
+      "kind": "crux",
+      "subject": "割下",
+      "rationale": "וימל 可作「被剪除\/割下」或「凋謝」；JPS 取凋謝，KJV 取割下"
+    }
+  ],
+  "translation": "他如花開出，又被割下；他如影逃去，不得站住。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a47a8fda9bb630af5392215d2db826f0b8631d2316cb3137f7f75ae32bb88ac2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/14\/1-4.1792145994888.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כציץ",
+      "gloss": "如花"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "開出"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "又被割下"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "逃去"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "如影"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不得"
+    },
+    {
+      "surface": "יעמוד",
+      "gloss": "站住"
+    }
+  ],
+  "timestamp": "2026-10-16T10:19:54.888939042Z",
+  "model": "glm-5.3"
+}

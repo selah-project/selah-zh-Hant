@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "怒氣",
+      "rationale": "אף本義是「鼻孔」，怒氣從鼻息而來，字面形象在中文中失去"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משמניהם",
+      "rationale": "「肥壯者」雙關：飽食致肥者即被殺之壯者，与上文吃肉呼應"
+    }
+  ],
+  "translation": "以羅欣（神）的怒氣就升到他們身上，殺了他們中間的肥壯者，使以色列的少年人屈膝倒下。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7f05e286c20bc88af0af5af257fb4720fa24f024fdf58f7b0446cf1aa6136ef7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/78\/29-32.1792144269313.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "的怒氣"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "升上"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "到他們身上"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "殺了"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "他們中間的肥壯者"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "的少年人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "使屈膝倒下"
+    }
+  ],
+  "timestamp": "2026-10-16T09:51:09.314451521Z",
+  "model": "glm-5.3"
+}

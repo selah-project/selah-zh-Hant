@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 13:3",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "沙代",
+      "rationale": "שדי按名號表音譯，不用「全能者」遮蓋"
+    },
+    {
+      "kind": "crux",
+      "subject": "與伊勒辯明",
+      "rationale": "הוכיח אל可作「向伊勒辯白」或「為伊勒辯護」；語境支持前者（約伯要向神申辯）"
+    }
+  ],
+  "translation": "然而我要向沙代說話，我情願與伊勒辯明。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c4025e18102107d319aa6a635a8cadd9d253b19a47e4aefed93f8141a88a5537",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/13\/1-4.1792145997728.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "然而"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "沙代"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "說話"
+    },
+    {
+      "surface": "והוכח",
+      "gloss": "並且辯明"
+    },
+    {
+      "surface": "אל",
+      "gloss": "與"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    },
+    {
+      "surface": "אחפץ",
+      "gloss": "情願"
+    }
+  ],
+  "timestamp": "2026-10-16T10:19:57.729049749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 76:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "許願並償還",
+      "rationale": "命令式呼召會眾向雅威還願"
+    },
+    {
+      "kind": "you",
+      "subject": "你們",
+      "rationale": "直接向敬拜的會眾說話"
+    },
+    {
+      "kind": "crux",
+      "subject": "למורא",
+      "rationale": "「那可畏者」作為雅威的描述性稱呼；亦有手抄本讀作「給可畏的他」"
+    }
+  ],
+  "translation": "你們要向雅威——你們的以羅欣——許願並償還；他四圍的一切都要將禮物帶給那可畏者。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fc712475da22ab84df14d3e8d9af11f75c24ea0f7fb4510db40ae874f904de32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/76\/9-12.1792144214763.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדרו",
+      "gloss": "要許願"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "並償還"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "你們的以羅欣"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "他四圍的"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "都要帶來"
+    },
+    {
+      "surface": "שי",
+      "gloss": "禮物"
+    },
+    {
+      "surface": "למורא",
+      "gloss": "給那可畏者"
+    }
+  ],
+  "timestamp": "2026-10-16T09:50:14.764412925Z",
+  "model": "glm-5.3"
+}

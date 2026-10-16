@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זכרו",
+      "rationale": "「他的記念」或作「他的名號」——記念（זֵכֶר）指供人宣述的名聲，非名字本身。"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文補上。"
+    }
+  ],
+  "translation": "雅威，萬軍之雅威的以羅欣——雅威是⟨他的⟩記念之名。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "298093ac566ff5b31945d7720608d7ca5db7a9700343f66a0023643e94079254",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/12\/5-8.1792139511158.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "……的以羅欣"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "萬軍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "他的記念之名"
+    }
+  ],
+  "timestamp": "2026-10-16T08:31:51.158928690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jonah 1:13",
+  "book": "jonah",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "竭力划槳",
+      "rationale": "חתר字面是「鑿穿／破通道」，喻指用力划槳開路"
+    },
+    {
+      "kind": "idiom",
+      "subject": "海越發翻騰",
+      "rationale": "הולך וסער直譯「行走且狂暴」，希伯來文以進行式表持續加劇"
+    }
+  ],
+  "translation": "那些人竭力划槳，要回到旱地，卻不能，因為海向他們越發翻騰狂暴。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9492ce5014b75551d8ba5a09df62ad0eb39a2c29923bf67e427d66463064cb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jonah\/1\/13-16.1792139963933.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחתרו",
+      "gloss": "竭力划槳"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "那些人"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "要回到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "旱地"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "卻不"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "能"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "越發（進行不止）"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "翻騰狂暴"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "向他們"
+    }
+  ],
+  "timestamp": "2026-10-16T08:39:23.933991655Z",
+  "model": "glm-5.3"
+}

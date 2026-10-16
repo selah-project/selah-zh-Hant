@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "七天",
+      "rationale": "祭司檢驗的固定隔離期為七日"
+    },
+    {
+      "kind": "crux",
+      "subject": "封閉",
+      "rationale": "הסגיר 字面為「關閉／拘禁」，諸譯本作 shut up／isolate，此處譯「封閉」以存其形"
+    }
+  ],
+  "translation": "祭司要察看 ⟨את⟩ 那災病，把 ⟨את⟩ 有災病的物件封閉七天。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c3f3fb3cfe6bc46e48d8bee2923ff07dbc3bcd1ca224ae0cdb2e4a163eac9cbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/13\/49-52.1792126973494.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "要察看"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那災病"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "那災病"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "把…封閉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "有災病的物件"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "有災病的"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "天"
+    }
+  ],
+  "timestamp": "2026-10-16T05:02:53.494877551Z",
+  "model": "glm-5.3"
+}

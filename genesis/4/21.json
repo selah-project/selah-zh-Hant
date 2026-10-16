@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文補上"
+    },
+    {
+      "kind": "crux",
+      "subject": "לטש\/תפש 譯法",
+      "rationale": "תפש 字面為「握、操弄」，譯作「彈奏」是角色化的引申"
+    },
+    {
+      "kind": "measurement",
+      "subject": "文化起源名單",
+      "rationale": "猶八列為一切樂師之源，族譜式計名"
+    }
+  ],
+  "translation": "他哥哥的名字是猶八；他是所有彈琴簫之人的祖先。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ec38a94421b1c0b7bb6ab2f63c8b27c2b51c6691def385763089ee837758b017",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/4\/21-24.1792124515292.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "名字"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "他哥哥"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "猶八"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "היה",
+      "gloss": "是"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "祖先"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "彈奏"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "琴"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "簫"
+    }
+  ],
+  "timestamp": "2026-10-16T04:21:55.293512144Z",
+  "model": "glm-5.3"
+}

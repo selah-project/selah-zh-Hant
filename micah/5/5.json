@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ורעו",
+      "rationale": "「牧放」直譯保留；譯者或作「蹂躪／摧毀」（如 JPS），或作「轄管」——同一希伯來詞根，圖像各異。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "第二個動詞",
+      "rationale": "希伯來文第二子句省略動詞，承接「牧放」；中文補「又牧放」以⟨…⟩外的自然語法呈現。"
+    },
+    {
+      "kind": "addition",
+      "subject": "我們",
+      "rationale": "「拯救我們」的「我們」由上下文補出，希伯來文動詞本身未標明受詞。"
+    }
+  ],
+  "translation": "他們必用刀劍牧放 ⟨את⟩ 亞述之地，又牧放 ⟨את⟩ 寧錄之地在其門口；他必拯救我們脫離亞述，當它進入我們的地、踐踏我們邊境的時候。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8a0405cdaac9d4f8b11d0576239c7ade151d71a4101da006986a61128feb32a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/micah\/5\/5-8.1792140017037.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "牧放"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞述之地"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "之地"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "用刀劍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "寧錄之地"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "之地"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "寧錄"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "在其門口"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "他必拯救"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "脫離亞述"
+    },
+    {
+      "surface": "כי",
+      "gloss": "當"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "它進入"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "我們的地"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "和當"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "踐踏"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "我們的邊境"
+    }
+  ],
+  "timestamp": "2026-10-16T08:40:17.037819475Z",
+  "model": "glm-5.3"
+}

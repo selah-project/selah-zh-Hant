@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ולא",
+      "rationale": "לְמַעַן 接續的否定式『免得……不』，直譯『免得這地行淫』，中文以『免得』消化。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחלל\/להזנותה\/תזנה",
+      "rationale": "『玷污』與兩個『行淫』同根 זנה 交織，三重淫亂意象在中文中部分流失。"
+    }
+  ],
+  "translation": "不可玷污 ⟨את⟩ 你的女兒，使她行淫，免得這地行了淫亂，這地就滿了惡事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ef616b3eff02c2498714c46f417749b1024a742b318cd57e4444a415f5f0092d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/19\/29-32.1792127177559.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "玷污"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的女兒"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "你的女兒"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "使她行淫"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "免得……不"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "行了淫亂"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "這地"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "滿了"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "這地"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "惡事"
+    }
+  ],
+  "timestamp": "2026-10-16T05:06:17.560253920Z",
+  "model": "glm-5.3"
+}

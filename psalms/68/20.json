@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יעמס לנו",
+      "rationale": "עָמַס 字面是「裝載、加擔子」——和合本「天天背負我們重擔」（他為我們背負）對「每日以好處裝載我們」（加爾文）；動詞兩讀皆通"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文需補"
+    },
+    {
+      "kind": "substitution",
+      "subject": "阿多奈",
+      "rationale": "אדני 指神，音譯為阿多奈，不用「主」"
+    }
+  ],
+  "translation": "阿多奈是應當稱頌的；日復一日，他為我們背負重擔，這位伊勒是我們的拯救。細拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b8db233452fd8e4af835b37129aed01f1c56633a7eca456d475864a089c608f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/68\/17-20.1792144100690.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "是應當稱頌的"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "יום",
+      "gloss": "復一日"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "背負重擔"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "為我們"
+    },
+    {
+      "surface": "האל",
+      "gloss": "這位伊勒"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "我們的拯救"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-10-16T09:48:20.691951011Z",
+  "model": "glm-5.3"
+}

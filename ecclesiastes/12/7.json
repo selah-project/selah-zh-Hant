@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רוח",
+      "rationale": "可譯「氣息」（生命之氣，創 2:7 的背景）或「靈」；本譯按形狀取「魯阿／氣息」，不預設不死之靈的教義。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "魯阿",
+      "rationale": "רוח 是風、氣息一詞，非特指分離的靈魂實體。"
+    }
+  ],
+  "translation": "塵土要回到地上，正如它從前那樣；魯阿（氣息）要歸回那賜下它的以羅欣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "99bb107c3ddb5ec46020dbb91c063417abc421a294aea445d0421aa115bf71cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/12\/5-8.1792147074349.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "要回到"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "塵土"
+    },
+    {
+      "surface": "על",
+      "gloss": "到"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "正如它從前那樣"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "魯阿（氣息）也要歸回"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "歸回"
+    },
+    {
+      "surface": "אל",
+      "gloss": "歸向"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "賜下它的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:37:54.350904611Z",
+  "model": "glm-5.3"
+}

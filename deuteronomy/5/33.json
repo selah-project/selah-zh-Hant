@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 5:33",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "就是……那地",
+      "rationale": "中文關係句需要複指代詞，希伯來文只有 אשר"
+    },
+    {
+      "kind": "invitation",
+      "subject": "以色列",
+      "rationale": "摩西對以色列全會眾的直接命令與應許"
+    }
+  ],
+  "translation": "你們要行在雅威你們的以羅欣所吩咐 ⟨אתכם⟩ 的一切道路上，為要使你們存活，使你們得好處，並使你們的日子在那地上長久，就是你們將要承受為業的那地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "34f0c670934a57f4504d6821e7ea6cd01cf0be12d13089e1068b9f3a44fc6cdf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/5\/33-33.1792128553189.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "在一切"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "道路"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "吩咐"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "你們的以羅欣"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "你們"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "你們要行"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為要"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "你們存活"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "並得好處"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "והארכתם",
+      "gloss": "並使你們長久"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日子"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在那地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "תירשון",
+      "gloss": "你們將要承受為業"
+    }
+  ],
+  "timestamp": "2026-10-16T05:29:13.189988603Z",
+  "model": "glm-5.3"
+}

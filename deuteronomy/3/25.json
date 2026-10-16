@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "רב לך 之前文脈",
+      "rationale": "נא 是祈願語氣助詞，譯作「求祢」，並提至句首"
+    },
+    {
+      "kind": "you",
+      "subject": "摩西對雅威的禱告",
+      "rationale": "本節是摩西向雅威直接的懇求"
+    }
+  ],
+  "translation": "求祢讓我過去，看看 ⟨את⟩ 那美地，就是約旦河彼岸的那地，這美好的山和黎巴嫩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4c334c266f804d03ce129578f1c4f25b4cf520c207c9c93ea5ac78d355d559d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/3\/25-28.1792128546814.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "讓我過去"
+    },
+    {
+      "surface": "נא",
+      "gloss": "求祢"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "看看"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那美地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "那地"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "美的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "在……彼岸"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦河"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "這山"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "美好的"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "和黎巴嫩"
+    }
+  ],
+  "timestamp": "2026-10-16T05:29:06.815047196Z",
+  "model": "glm-5.3"
+}

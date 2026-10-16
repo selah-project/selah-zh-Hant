@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 38:2",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ממנו היו",
+      "rationale": "直譯「出於它而成」——角與壇一體，不可拆下；各譯本作 of one piece with it"
+    },
+    {
+      "kind": "substitution",
+      "subject": "銅",
+      "rationale": "נחשת 是銅，傳統譯「 brass」不確"
+    }
+  ],
+  "translation": "他在壇的四角上做了壇角，壇角與壇〈連成一體〉；他用銅把它 ⟨אתו⟩ 包起來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6addf33f52fd59438ef8a2c488b684adfc2a8754075e2434d1c1566c42292545",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/38\/1-4.1792126576671.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "他做了"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "它的角"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "它的角上"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "出於它"
+    },
+    {
+      "surface": "היו",
+      "gloss": "它們是"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "它的角"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "他包上"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "它（指壇）"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    }
+  ],
+  "timestamp": "2026-10-16T04:56:16.672443917Z",
+  "model": "glm-5.3"
+}

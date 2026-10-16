@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 22:34",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "壇的名字",
+      "rationale": "希伯來文在此沒有寫出壇的名字：欽定本補「Ed（證）」，猶太出版協會本則留空。和合本作「證壇」。此處隨和合本傳統補「證壇」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "壇的名字",
+      "rationale": "原文僅「給那壇起名叫」而無名字一詞；「證壇」是依下一子句的「見證」（עד）補上的。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עד／證壇",
+      "rationale": "名字（如果補上）與下句的 עד「見證」同詞，是刻意的雙關。"
+    },
+    {
+      "kind": "elision",
+      "subject": "第二個 כי",
+      "rationale": "第二個 כי 直譯「因為雅威是以羅欣」，中文以「證明」承接見證的功用，語氣更自然。"
+    }
+  ],
+  "translation": "呂便的子孫和迦得的子孫給那壇起名叫「證壇」，因為它是在我們中間的見證，證明雅威是以羅欣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4be9337cb16feb523cf92a547ef537d0a8ac8516a53e724857f655ec8f64fea7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/22\/33-34.1792129990304.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "就給……起名叫"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……的子孫"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "呂便"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "和……的子孫"
+    },
+    {
+      "surface": "גד",
+      "gloss": "迦得"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "給那壇"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עד",
+      "gloss": "見證"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "它"
+    },
+    {
+      "surface": "בינתינו",
+      "gloss": "在我們中間"
+    },
+    {
+      "surface": "כי",
+      "gloss": "證明"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "是以羅欣"
+    }
+  ],
+  "timestamp": "2026-10-16T05:53:10.304880999Z",
+  "model": "glm-5.3"
+}

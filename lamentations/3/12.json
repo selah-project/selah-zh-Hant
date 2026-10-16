@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דרך",
+      "rationale": "本義『踩踏』（踩弓上弦），諸譯本作『彎弓』或『張開』"
+    },
+    {
+      "kind": "substitution",
+      "subject": "靶子",
+      "rationale": "מטרא本義或為『監獄／箭靶』，譯『靶子』取其箭靶之義"
+    }
+  ],
+  "translation": "他張開他的弓，把我立作箭的靶子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "00ecde460e6c6b06ebcfcf155c764a06b40c98997c028415c3d023e979bd0292",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/lamentations\/3\/9-12.1792146788952.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "張開"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "他的弓"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "把我立定"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "作靶子"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "給箭"
+    }
+  ],
+  "timestamp": "2026-10-16T10:33:08.953404564Z",
+  "model": "glm-5.3"
+}

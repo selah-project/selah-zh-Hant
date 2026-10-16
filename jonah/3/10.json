@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הרעה…הרעה",
+      "rationale": "同一詞 הרעה 兩次出現：先是人的「惡」道，後是神所說要降的「災禍」——以同一個字連結人的惡與臨到的災，中文無法一詞兩用"
+    },
+    {
+      "kind": "crux",
+      "subject": "後悔",
+      "rationale": "וינחם 神的「後悔」是著名難題：字根本義是「歎息、深呼吸」，非撤銷應許，而是轉意不降所說的災；BSB 譯 relent（回心轉意）"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨要降給他們的⟩",
+      "rationale": "中文需標明 הרעה（第二次）所指的歸屬，希伯來文僅作「對那災禍」"
+    }
+  ],
+  "translation": "以羅欣看見 ⟨את⟩ 他們的行為——他們已從自己的惡道回轉——以羅欣就後悔 ⟨要降給他們的⟩ 那災禍，就是祂曾說要行在他們身上的；祂沒有行。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6031ce02ce939b657b0177961c6f38b3208d515c28720403195cb14caf36a199",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jonah\/3\/9-10.1792139915696.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的行為"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "他們的行為"
+    },
+    {
+      "surface": "כי",
+      "gloss": "——"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "回轉"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "從自己的道"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "惡"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "後悔"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "災禍"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "曾說"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "要行"
+    },
+    {
+      "surface": "להם",
+      "gloss": "在他們身上"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    }
+  ],
+  "timestamp": "2026-10-16T08:38:35.697449301Z",
+  "model": "glm-5.3"
+}

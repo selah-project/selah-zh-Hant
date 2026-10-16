@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "虛空",
+      "rationale": "הֶבֶל 字面是『氣息／蒸氣』，轉指短暫無憑；『虛空』為傳統譯法，蒸氣的意象失落"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבל הבלים",
+      "rationale": "希伯來文疊加最高級結構（虛空的虛空，如萬王之王），八個詞中五個是同一個字，無法全數保留"
+    }
+  ],
+  "translation": "虛空，虛空中的虛空，嘉黑勒特說：虛空，虛空中的虛空，⟨את⟩一切都是虛空。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "afe5a10b8e4d5804652009388f716bf5e3c9dd731419a59f6bb831e8b5edcc8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/1\/1-4.1792146968665.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "虛空"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "虛空中的虛空"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "嘉黑勒特"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "虛空"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "虛空中的虛空"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "虛空"
+    }
+  ],
+  "timestamp": "2026-10-16T10:36:08.666323182Z",
+  "model": "glm-5.3"
+}

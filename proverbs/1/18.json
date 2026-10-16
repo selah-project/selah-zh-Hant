@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 1:18",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 是氣息、生命之力，非不朽的「靈魂」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "埋伏／潛藏",
+      "rationale": "ארב 與 צפן 平行疊用，與 1:11「埋伏流血人的血」呼應——惡人所行的反臨到己身"
+    }
+  ],
+  "translation": "他們埋伏，是為流自己的血；他們潛藏，是為害自己的性命。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0e6153acecaa17d94848af4fce10916f8da89ec58f02b98bb040025c45b26ca1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/1\/17-20.1792145156299.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "לדמם",
+      "gloss": "為流自己的血"
+    },
+    {
+      "surface": "יארבו",
+      "gloss": "埋伏"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "潛藏"
+    },
+    {
+      "surface": "לנפשתם",
+      "gloss": "為害自己的性命"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:56.299936695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 27:23",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ידע תדע",
+      "rationale": "不定式絕對加動詞的疊用，加強語氣「切切知道」，中文以疊詞仿其效"
+    },
+    {
+      "kind": "substitution",
+      "subject": "面目",
+      "rationale": "פני 字面是「臉面」，指一一認得每隻羊；多數譯本意譯為「境況」"
+    },
+    {
+      "kind": "you",
+      "subject": "農夫／牧人",
+      "rationale": "命令式直接向牧放羊群的聽者發言"
+    }
+  ],
+  "translation": "你要切切知道你羊群的面目，將你的心放在牛群上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "089b685c2516269e15c418bcd57debee709475f2cd6e2e5206c61eaa0805a22f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/27\/21-24.1792145661293.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "要知道"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "你當知道"
+    },
+    {
+      "surface": "פני",
+      "gloss": "……的面目"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "你的羊群"
+    },
+    {
+      "surface": "שית",
+      "gloss": "你要放置"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "你的心"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "在牛群上"
+    }
+  ],
+  "timestamp": "2026-10-16T10:14:21.294690888Z",
+  "model": "glm-5.3"
+}

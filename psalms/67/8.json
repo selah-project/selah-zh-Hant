@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפסי",
+      "rationale": "字面為「終結、邊界之處」，譯作「四極」以合中文地理慣語。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יברכנו",
+      "rationale": "本節重複第7節末句「他要賜福給我們」，作全詩的迴響收尾。"
+    }
+  ],
+  "translation": "以羅欣要賜福給我們，願地的四極都敬畏⟨את⟩他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6737b1a022538e2485acd326143b059d2d1ab78b20b1ba544ee0db1fa876d90c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/67\/5-8.1792144050900.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "他要賜福給我們"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "願他們敬畏"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "他"
+    },
+    {
+      "surface": "כל",
+      "gloss": "都"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "四極"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:47:30.901380054Z",
+  "model": "glm-5.3"
+}

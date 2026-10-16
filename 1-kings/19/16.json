@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "並",
+      "rationale": "中文需要連詞銜接兩個膏立命令，希伯來文僅以ואת並列"
+    },
+    {
+      "kind": "you",
+      "subject": "以利亞",
+      "rationale": "延續上節的命令，受命者仍是以利亞"
+    }
+  ],
+  "translation": "又要膏⟨את⟩寧示的兒子耶戶作王治理以色列；並膏⟨את⟩亞伯米何拉的沙法的兒子以利沙接續你作先知。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6c89fcf01dbb56d6bcf0dd5ba297cce3bf430e11a7ff22afe2c2574e374644b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/19\/13-16.1792133343129.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "耶戶"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "耶戶"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "寧示"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "你要膏"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "作王"
+    },
+    {
+      "surface": "על",
+      "gloss": "治理"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "以利沙"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "以利沙"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "沙法"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "亞伯"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "米何拉"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "你要膏"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "作先知"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "接續你"
+    }
+  ],
+  "timestamp": "2026-10-16T06:49:03.130256197Z",
+  "model": "glm-5.3"
+}

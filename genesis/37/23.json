@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הפסים",
+      "rationale": "彩衣：或譯「長袖衣」「華麗衣」，詞義不確"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי כאשר",
+      "rationale": "希伯來敘事公式「當…的時候，發生了」，中文濃縮為一句"
+    }
+  ],
+  "translation": "約瑟到了他哥哥們那裡，他們就剝去約瑟⟨את⟩他的衣裳——他身上那件彩衣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "aea2ba1bf792d92bec309ae528079096781113a65975a6914fcf5b53380300c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/37\/22-24.1792142366680.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生了"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "當"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "他哥哥們那裡"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "剝去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約瑟"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的衣裳"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "他的衣裳"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彩衣"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "…的衣裳"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "彩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那在他身上的"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "在他身上"
+    }
+  ],
+  "timestamp": "2026-10-16T09:19:26.682304033Z",
+  "model": "glm-5.3"
+}

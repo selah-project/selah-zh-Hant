@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישח／ישפל／תשפלנה",
+      "rationale": "『降卑—壓低—卑微』三重同根動詞堆疊，שפל二現，中文難以完全再現"
+    },
+    {
+      "kind": "substitution",
+      "subject": "人／世人",
+      "rationale": "אדם與איש是『人類』與『個別男人』的平行，非KJV所讀的『卑賤人／大人』"
+    }
+  ],
+  "translation": "人必降卑，世人必被壓低，高傲之人的眼目也必卑微。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "988038cb44c31336a7d8a568dd306b64c41acf14bf492a5add613d4a16eddeeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/5\/13-16.1792134615537.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "降卑"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "被壓低"
+    },
+    {
+      "surface": "איש",
+      "gloss": "世人"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "眼目"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "高傲之人的"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "必卑微"
+    }
+  ],
+  "timestamp": "2026-10-16T07:10:15.538596217Z",
+  "model": "glm-5.3"
+}

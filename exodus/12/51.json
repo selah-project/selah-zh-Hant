@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "隊伍",
+      "rationale": "צבאות 直譯「軍隊／萬軍」；此處指以色列按隊伍出埃及，譯「隊伍」保留組織的圖像"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בעצם",
+      "rationale": "直譯「在本體上」，即「正是這日本身」，中文以「正當這日」表達"
+    }
+  ],
+  "translation": "正當這日，雅威把 ⟨את⟩ 以色列的眾子按著他們的隊伍從埃及地領出來了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5848b63ae38dea267daa8a2fe41a1bcedfbba8abb5adbc345a51aff5971f70b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/12\/49-51.1792125920009.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "事情發生在"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "正當（本體）"
+    },
+    {
+      "surface": "היום",
+      "gloss": "這日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "領出來"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的眾子"
+    },
+    {
+      "surface": "בני",
+      "gloss": "眾子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "從……地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "על",
+      "gloss": "按著"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "他們的隊伍"
+    }
+  ],
+  "timestamp": "2026-10-16T04:45:20.010904873Z",
+  "model": "glm-5.3"
+}

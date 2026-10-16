@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 37:29",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "自己的",
+      "rationale": "中文需要明確衣服的所屬，希伯來文僅有詞尾代名詞"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבור／בבור",
+      "rationale": "「坑」在兩個分句中重複，中文以「坑那裡／坑裡」保留"
+    }
+  ],
+  "translation": "呂便回到坑那裡，看哪，坑裡沒有約瑟，他就撕裂了自己的衣服。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "692fc290941d03bb23df236d8ec60075afe942876746287f4a2ad1221c28fab8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/37\/29-32.1792125373239.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "回到"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "呂便"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "坑"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "在坑裡"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "撕裂"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自己的衣服"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "自己的衣服"
+    }
+  ],
+  "timestamp": "2026-10-16T04:36:13.240518131Z",
+  "model": "glm-5.3"
+}

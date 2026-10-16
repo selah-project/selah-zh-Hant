@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אשור（腳步）",
+      "rationale": "אָשֻׁר「步伐」僅見於詩篇（17:5、44:19），罕見詞，字面是踏出的步伐"
+    },
+    {
+      "kind": "addition",
+      "subject": "也沒有",
+      "rationale": "第二個否定為中文平行句所需，希伯來文ותט以敘述式連接"
+    }
+  ],
+  "translation": "我們的心沒有退後，我們的腳步也沒有偏離你的道路。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "af2857dcbf67f5d8b33fbb5b3f7d7f8f9ff337c25f88568f6bdd8c66d187c799",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/44\/17-20.1792143716917.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "退後"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "向後"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "我們的心"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "也沒有偏離"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "我們的腳步"
+    },
+    {
+      "surface": "מני",
+      "gloss": "從"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "你的道路"
+    }
+  ],
+  "timestamp": "2026-10-16T09:41:56.918763935Z",
+  "model": "glm-5.3"
+}

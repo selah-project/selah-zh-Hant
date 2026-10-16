@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 23:12",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "喘息舒暢",
+      "rationale": "וינפש 出自 נפש（呼吸），字面是「得以重新呼吸」，英譯作 refreshed"
+    },
+    {
+      "kind": "measurement",
+      "subject": "六天／第七天",
+      "rationale": "安息日的日數計算"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "本節直接命令聽者（「你要」）"
+    }
+  ],
+  "translation": "六天你要做你的工作，第七天你要安息，好使你的牛、你的驢得以歇息，你婢女的兒子和寄居的可以喘息舒暢。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6dec472d277ca4b284cf7c1e10c3b415e3e19755dfdfe02f053ff89bf7763595",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/23\/9-12.1792126131803.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "六"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "天"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "你的工作"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "在……天"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "安息"
+    },
+    {
+      "surface": "למען",
+      "gloss": "好使"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "得以歇息"
+    },
+    {
+      "surface": "שורך",
+      "gloss": "你的牛"
+    },
+    {
+      "surface": "וחמרך",
+      "gloss": "你的驢"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "可以喘息舒暢"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "你婢女的"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "和寄居的"
+    }
+  ],
+  "timestamp": "2026-10-16T04:48:51.804884437Z",
+  "model": "glm-5.3"
+}

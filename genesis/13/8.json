@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 13:8",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Lot",
+      "rationale": "亞伯蘭直接向羅得說話，懇求之語（אל נא）。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אנשים אחים אנחנו",
+      "rationale": "希伯來文名詞句無動詞，三詞並置「人是弟兄我們」，中文補「是」，語序重排。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ריב\/מריבה",
+      "rationale": "第7節的 ריב 與此處的 מריבה 同根，爭執之名前後呼應，中文同用「爭執」保持連結。"
+    }
+  ],
+  "translation": "亞伯蘭對羅得說：「請你不要讓你我之間、我的牧人和你的牧人之間有爭執，因為我們是作弟兄的人。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "06e976347f2316a08f954f210adf39444b26af9fa88fd7e473b9740501988198",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/13\/5-8.1792124794168.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "亞伯蘭"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "羅得"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "有"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "爭執"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "之間"
+    },
+    {
+      "surface": "וביניך",
+      "gloss": "與"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "與"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "我的牧人"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "與"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "你的牧人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "人"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "作弟兄"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "我們"
+    }
+  ],
+  "timestamp": "2026-10-16T04:26:34.170498034Z",
+  "model": "glm-5.3"
+}

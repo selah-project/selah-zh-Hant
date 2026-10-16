@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 12:11",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "此處 אַתְּ 是第二人稱代名詞「你」（H859），不是受詞記號 את（H853）；同一字母，另一個詞"
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "語氣助詞，無獨立中文對應，化入「哪」的語氣"
+    },
+    {
+      "kind": "you",
+      "subject": "to Sarai",
+      "rationale": "亞伯蘭直接對撒萊說話"
+    }
+  ],
+  "translation": "亞伯蘭臨近進入埃及的時候，對妻子撒萊說：「看哪，我知道你是個容貌俊美的女人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "596020d65f7a38f423404b9cf007f7e5e44b919d107830cf17094fec29cbb118",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/12\/9-12.1792124719147.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "當…時"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…的時候"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "臨近"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "進入"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "撒萊"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "他的妻子"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "נא",
+      "gloss": "哪"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我知道"
+    },
+    {
+      "surface": "כי",
+      "gloss": "那"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女人"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "俊美的"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "容貌"
+    },
+    {
+      "surface": "את",
+      "gloss": "你"
+    }
+  ],
+  "timestamp": "2026-10-16T04:25:19.148456351Z",
+  "model": "glm-5.3"
+}

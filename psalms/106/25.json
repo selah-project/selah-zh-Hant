@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "自己的",
+      "rationale": "中文需要反身領屬詞，希伯來文以詞尾表達"
+    }
+  ],
+  "translation": "他們在自己的帳棚裡發怨言，不聽雅威的聲音。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9e2c27acdd677f9603b73b40ade45a715b91d3d4e38c228eee366c54793a9204",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/106\/25-28.1792144657083.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "發怨言"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "在他們的帳棚裡"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "聽"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "的聲音"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:37.083798797Z",
+  "model": "glm-5.3"
+}

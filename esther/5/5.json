@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "來",
+      "rationale": "מהרו 是「快」，中文需補動詞「帶……來」以成句"
+    },
+    {
+      "kind": "you",
+      "subject": "王的命令",
+      "rationale": "王對臣僕下令，間接引語"
+    }
+  ],
+  "translation": "王說：「快帶 ⟨את⟩ 哈曼來，照以斯帖的話去行。」於是王和哈曼進入以斯帖所預備的筵席。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3c605cda140b6bbc6f14507df3805437f8b392bb7a953cfd738f2d5f67c4cc35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/esther\/5\/5-8.1792147180634.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "王說"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "快……去行"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "哈曼"
+    },
+    {
+      "surface": "המן",
+      "gloss": "哈曼"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "照……去行"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "話"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "以斯帖的"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "於是……進入"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "和哈曼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "進入"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "筵席"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "預備的"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "以斯帖"
+    }
+  ],
+  "timestamp": "2026-10-16T10:39:40.635383523Z",
+  "model": "glm-5.3"
+}

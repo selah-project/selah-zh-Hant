@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "有福",
+      "rationale": "אשרי 是感嘆詞『何等有福』，非陳述句『……是有福的』"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，『雅威是它的以羅欣』的『是』為中文所需"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "gloss": "關係代名詞『它的神是雅威的那國』，中文以破折號收進前句"
+    },
+    {
+      "kind": "crux",
+      "subject": "לנחלה לו",
+      "rationale": "『產業歸祂』（KJV\/BSB：作祂自己的產業）vs『歸他們為產業』；לו 是單數『歸祂』"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "詩人向以色列會眾宣告其蒙揀選的身分"
+    }
+  ],
+  "translation": "有福啊，那國——雅威是⟨它的⟩以羅欣，這民是⟨祂⟩揀選⟨את⟩作為產業歸⟨自己⟩的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cd503019756f9ecd5a4ff0bbb82b448fab7caca2a130dba2ebf98c112d561c2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/33\/12-12.1792149872818.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "有福啊"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "那國"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "——"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "是⟨它的⟩以羅欣"
+    },
+    {
+      "surface": "העם",
+      "gloss": "這民"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "揀選"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "作為產業"
+    },
+    {
+      "surface": "לו",
+      "gloss": "歸⟨自己⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T11:24:32.818554466Z",
+  "model": "glm-5.3"
+}

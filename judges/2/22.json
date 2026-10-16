@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 2:22",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "השמרים",
+      "rationale": "分詞「謹守（他們）」帶疑問之意，譯作「是否肯謹守」以顯其試驗語氣"
+    },
+    {
+      "kind": "addition",
+      "subject": "像……那樣",
+      "rationale": "כאשר 引比較句，中文加「那樣」使句子完整"
+    }
+  ],
+  "translation": "為要藉著他們試驗 ⟨את⟩ 以色列，看他們是否肯謹守雅威的道路、行在其中，像他們的祖先謹守的那樣，或是不肯。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fd916b61eb8bf07e4ba660b21adf2282fbc24589931b49b3428a6a2e4c54b1ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/2\/21-23.1792129983266.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "為要"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "試驗"
+    },
+    {
+      "surface": "בם",
+      "gloss": "藉著他們"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "是否肯謹守"
+    },
+    {
+      "surface": "הם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "道路"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道路"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "行"
+    },
+    {
+      "surface": "בם",
+      "gloss": "在其中"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "像"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "謹守"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "他們的祖先"
+    },
+    {
+      "surface": "אם",
+      "gloss": "或是"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不肯"
+    }
+  ],
+  "timestamp": "2026-10-16T05:53:03.267076563Z",
+  "model": "glm-5.3"
+}

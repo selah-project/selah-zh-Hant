@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 14:24",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "晨更",
+      "rationale": "אשמרת是夜間三更的最後一更（約凌晨二至六時），譯「晨更」"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויהם",
+      "rationale": "和合本「擾亂」；亦可作「擊潰、毀壞」，與25節卸輪相連"
+    }
+  ],
+  "translation": "到了晨更的時候，雅威在火柱和雲柱中俯視 ⟨את⟩ 埃及人的營，就使埃及人的營混亂了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "58a492fc03a1e2ed2eff6f1e8d8ac4bd4cc0f32a718045d34290866e9f96ef15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/14\/21-24.1792125924111.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "到了"
+    },
+    {
+      "surface": "באשמרת",
+      "gloss": "在……更的時候"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "晨"
+    },
+    {
+      "surface": "וישקף",
+      "gloss": "俯視"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "朝向"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及人"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "在……柱中"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "和雲"
+    },
+    {
+      "surface": "ויהם",
+      "gloss": "使……混亂"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "埃及人的營"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及人"
+    }
+  ],
+  "timestamp": "2026-10-16T04:45:24.112525743Z",
+  "model": "glm-5.3"
+}

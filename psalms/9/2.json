@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "你",
+      "rationale": "נפלאותיך 的第二人稱詞尾已含「你的」，中文以「你」譯出，屬詞尾內容而非添字"
+    }
+  ],
+  "translation": "我要全心稱謝雅威，我要述說你一切的奇事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6d9df4af184fd4e81cc4b0d2ec260639cbfbd651ea58300a17f895f57dda1832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/9\/1-4.1792143249434.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "我要稱謝"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "以全"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "我要述說"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "你的奇事"
+    }
+  ],
+  "timestamp": "2026-10-16T09:34:09.436250309Z",
+  "model": "glm-5.3"
+}

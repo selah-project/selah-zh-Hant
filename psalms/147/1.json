@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נעים נאוה",
+      "rationale": "兩字音近（na'im na'veh），中文無法保留此頭韻。"
+    },
+    {
+      "kind": "invitation",
+      "subject": "הללו",
+      "rationale": "命令式 plural 開篇，召喚會眾讚美。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "זמרה",
+      "rationale": "原意是彈奏琴弦，此處譯作「歌頌」，樂器彈奏的畫面略失。"
+    }
+  ],
+  "translation": "你們要讚美雅！因為向我們的以羅欣歌頌是美善的；因為讚美是愉悅而合宜的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cb78caf90e42f8052cac8ae819476a99a726aed4815ae9bd9e92bb6a0c62b24c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/147\/1-4.1792145136051.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "你們要讚美"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "美善的"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "歌頌"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "我們的以羅欣"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "愉悅"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "合宜的"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "讚美"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:36.052203270Z",
+  "model": "glm-5.3"
+}

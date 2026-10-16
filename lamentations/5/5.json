@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על צוארנו נרדפנו",
+      "rationale": "『追逼者在我們頸項之上追趕我們』：KJV『頸項在逼迫之下』，ASV\/JPS『追逼者緊臨我們頸項』——希伯來語序字面為『在我們的頸項上我們被追趕』"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יגענו",
+      "rationale": "יגע 本義是喘息、氣力耗盡，譯『疲乏』存其力竭之象"
+    }
+  ],
+  "translation": "追逼者緊追在我們的頸項上；我們疲乏，得不著安息。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9e4897c6c587e63c6fc9ff098eb02feddcb2cb6503c7cd2489c8e2ddd86242a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/lamentations\/5\/5-8.1792146826357.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "緊追在"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "我們的頸項上"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "我們被追逼"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "我們疲乏"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "得安息"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "我們"
+    }
+  ],
+  "timestamp": "2026-10-16T10:33:46.357822308Z",
+  "model": "glm-5.3"
+}

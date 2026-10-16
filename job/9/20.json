@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויעקשני 的主詞",
+      "rationale": "第二行的主詞是「祂」（雅威）還是與上句平行、「我的口」？欽定本讀「它（我的口）必證我乖謬」，猶太出版學會本讀「祂必證我乖謬」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדק／רשע／תם／עקש",
+      "rationale": "四個法庭詞兩兩相對：義對惡、完全對扭曲，交叉的司法張力是本節的骨架"
+    }
+  ],
+  "translation": "我若自稱為義，我的口必定我有罪；我若完全，他必判我為彎曲。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "07b33aa8a154ded95739151868aa7cc156a380364261a8efa00d1e783b2a5cf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/9\/17-20.1792145932864.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "我稱義"
+    },
+    {
+      "surface": "פי",
+      "gloss": "我的口"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "必定我有罪"
+    },
+    {
+      "surface": "תם",
+      "gloss": "完全"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "而祂判我為彎曲"
+    }
+  ],
+  "timestamp": "2026-10-16T10:18:52.865515479Z",
+  "model": "glm-5.3"
+}

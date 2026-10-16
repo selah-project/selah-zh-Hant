@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 22:15",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨它⟩",
+      "rationale": "希伯來文沒有賓語代詞，中文需補「它」指拉末"
+    },
+    {
+      "kind": "you",
+      "subject": "to the king",
+      "rationale": "王直接質問米該雅，米該雅以反諷口吻重複眾先知的話"
+    },
+    {
+      "kind": "alternative",
+      "subject": "irony",
+      "rationale": "米該雅的話表面與眾先知相同，語氣卻是反諷——王在下一節聽出來了"
+    }
+  ],
+  "translation": "他來到王那裡，王對他說：「米該雅，我們上去基列的拉末打仗，還是不去？」他對他說：「上去，順利，雅威必把⟨它⟩交在王手裡。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d3005b2bc7e66d7c92f000b4df28965400d64da230cf025e9b1f6ba649d2a91e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/22\/13-16.1792133447682.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "他來到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到……那裡"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "米該雅"
+    },
+    {
+      "surface": "הנלך",
+      "gloss": "我們上去嗎"
+    },
+    {
+      "surface": "אל",
+      "gloss": "往"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "拉末"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "基列"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "打仗"
+    },
+    {
+      "surface": "אם",
+      "gloss": "或"
+    },
+    {
+      "surface": "נחדל",
+      "gloss": "罷休"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上去"
+    },
+    {
+      "surface": "והצלח",
+      "gloss": "順利"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "必交"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "在……手裡"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-10-16T06:50:47.683154689Z",
+  "model": "glm-5.3"
+}

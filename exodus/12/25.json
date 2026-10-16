@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 12:25",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "律法向以色列眾人說話，預期他們將進入應許之地"
+    },
+    {
+      "kind": "substitution",
+      "subject": "事奉",
+      "rationale": "העבדה字面是「工作、服事」，此處指逾越節的禮儀事奉"
+    }
+  ],
+  "translation": "將來你們進入雅威所要賜給你們的那地——正如他所說的——就要謹守 ⟨את⟩ 這事奉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "48ffd44da23574992d5445cd36b6c613f84b3de5457ce6c79c11f18c0112e97f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/12\/25-28.1792125977487.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "將來"
+    },
+    {
+      "surface": "כי",
+      "gloss": "當"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "你們進入"
+    },
+    {
+      "surface": "אל",
+      "gloss": "進入"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "那地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所要"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "賜"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "給你們"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "正如"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "所說的"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "就要謹守"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這事奉"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "這事奉"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    }
+  ],
+  "timestamp": "2026-10-16T04:46:17.488590243Z",
+  "model": "glm-5.3"
+}

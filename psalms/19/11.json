@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "純金",
+      "rationale": "פז 指精煉的純金，中文以「純金」譯其品質"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפת\/צופים",
+      "rationale": "「滴下」與「蜂房」同出於 צוף（滴流），原文雙關，中文分譯後失去"
+    }
+  ],
+  "translation": "它們比金子更可羨慕，且比許多純金更可羨慕；比蜜更甘甜，且比蜂房滴下的蜜更甘甜。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e3d8b64492fb67098dda35d7fd6715c9c7d301a740cbcebad64c390821f8f3e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/19\/9-12.1792143429007.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "可羨慕的"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "比金子"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "且比純金"
+    },
+    {
+      "surface": "רב",
+      "gloss": "許多"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "且更甘甜"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "比蜜"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "且比滴下的蜜"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "蜂房"
+    }
+  ],
+  "timestamp": "2026-10-16T09:37:09.008038390Z",
+  "model": "glm-5.3"
+}

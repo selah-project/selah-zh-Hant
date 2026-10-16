@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 32:28",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "倉儲清單",
+      "rationale": "五穀、新酒、油、牲畜、畜群——續上一節的家業計列。"
+    },
+    {
+      "kind": "crux",
+      "subject": "ובהמה ועדרים לאורות",
+      "rationale": "末句字面「以及小牲畜和畜群在圈棚裡」：KJV 譯作「羊圈」（cotes for flocks），YLt 作「棚中的畜群」——是造棚還是擁有棚中群畜，語意含糊。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תירוש",
+      "rationale": "字面為新榨的葡萄汁（must），譯「新酒」以別於陳酒。"
+    }
+  ],
+  "translation": "又造收存五穀、新酒和油之出產的倉房，並為各樣牲畜造圈，又有圈棚裡的畜群。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1064122ae5560e3b41b4b3dd5abad207dc7edaf47700a7b5c6b0edfbc17b9092",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/32\/25-28.1792149697936.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומסכנות",
+      "gloss": "又造倉房"
+    },
+    {
+      "surface": "לתבואת",
+      "gloss": "為……的出產"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "五穀"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "和新酒"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "和油"
+    },
+    {
+      "surface": "וארות",
+      "gloss": "並造圈"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "為各樣"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "又有牲畜"
+    },
+    {
+      "surface": "ועדרים",
+      "gloss": "和畜群"
+    },
+    {
+      "surface": "לאורות",
+      "gloss": "在圈棚裡"
+    }
+  ],
+  "timestamp": "2026-10-16T11:21:37.937577219Z",
+  "model": "glm-5.3"
+}

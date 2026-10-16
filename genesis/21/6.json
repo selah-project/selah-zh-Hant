@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צחק\/יצחק",
+      "rationale": "「笑」（צחק）與「以撒」（יצחק）同名互玩，全節三次出現，中文無法保留此雙關"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כל השמע יצחק לי",
+      "rationale": "可讀作「凡聽見的必與我一同笑」（和合本）或「必因我而笑」（JPS）"
+    },
+    {
+      "kind": "addition",
+      "subject": "都必",
+      "rationale": "希伯來文未加將來時助動詞，中文補出以合語法"
+    }
+  ],
+  "translation": "撒拉說：「以羅欣為我造了喜笑；凡聽見的，都必因〈我〉而笑。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7b6dbde5ce35ce7b20375d626fa060e046139214e40652fe94fe678d94fef7e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/21\/6-8.1792142298117.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "撒拉"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "喜笑"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造了"
+    },
+    {
+      "surface": "לי",
+      "gloss": "為我"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "聽見的"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "都必笑"
+    },
+    {
+      "surface": "לי",
+      "gloss": "因我"
+    }
+  ],
+  "timestamp": "2026-10-16T09:18:18.118932227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "禍患",
+      "rationale": "רע是「惡／災禍」，此處指公開的羞辱與災難，非道德抽象"
+    },
+    {
+      "kind": "crux",
+      "subject": "כמעט",
+      "rationale": "「幾乎」（我差一點）與「少量」（我在少許惡中）兩讀；取多數譯本的「幾乎」"
+    }
+  ],
+  "translation": "我幾乎落在一切禍患之中，在會眾和集會當中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "748318b3b54d52d1c30d26421f1c48bcc02a03a82e2ab02817d04b22aed23631",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/5\/13-16.1792145211974.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "幾乎"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "落在"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "רע",
+      "gloss": "禍患之中"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "在……當中"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "和集會"
+    }
+  ],
+  "timestamp": "2026-10-16T10:06:51.975577832Z",
+  "model": "glm-5.3"
+}

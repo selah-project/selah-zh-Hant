@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלם",
+      "rationale": "傳統作「沉默」（靜默中行公義之譏諷）；另有修訂讀法 אדם／אלים（「世人啊」或「掌權者啊」，參七十士譯本與和合本「世人」）"
+    },
+    {
+      "kind": "you",
+      "subject": "掌權者／世人",
+      "rationale": "全節為直接的質問，向審判人的權貴或世人發出"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדק／מישרים",
+      "rationale": "「公義」與「正直／平直」並列成對，中文難以保留其平直意象的對仗"
+    }
+  ],
+  "translation": "你們果真在沉默中講論公義嗎？世人哪，你們果真以正直審判嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "476db0d769a2558c08b8fad5a679c3e9d65646bb14f5559487010d517925623f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/58\/1-4.1792143978742.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "果真"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "在沉默中"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "講論"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "以正直"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "審判"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……的眾子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-10-16T09:46:18.743092537Z",
+  "model": "glm-5.3"
+}

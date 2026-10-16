@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 4:21",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "它們",
+      "rationale": "希伯來文動詞無受詞，中文需補出指「我言語」的代名詞"
+    },
+    {
+      "kind": "you",
+      "subject": "to the son",
+      "rationale": "延續「我兒」的教導口吻，對受教者直接說話"
+    }
+  ],
+  "translation": "不可讓它們離開你的眼目，要謹守它們在你心的深處。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b2539e7a0347d7f16fae38d48b1d93f538331f1377a1e8c55e0c515a02a0cdd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/4\/21-24.1792145179138.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "יליזו",
+      "gloss": "讓它們偏離"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "你的眼目"
+    },
+    {
+      "surface": "שמרם",
+      "gloss": "謹守它們"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "在……之中"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "你的心"
+    }
+  ],
+  "timestamp": "2026-10-16T10:06:19.139136545Z",
+  "model": "glm-5.3"
+}

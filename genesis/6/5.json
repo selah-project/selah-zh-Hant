@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 6:5",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文補「是」並加括號"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעת…רע",
+      "rationale": "「惡」字在同一節中重複兩次，首尾呼應，中文保留同一詞形"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כל היום",
+      "rationale": "字面「所有的日子」，譯作「終日」"
+    }
+  ],
+  "translation": "雅威看見人在地上的惡〈是〉大的，〈並且〉他心中所思想的一切構想，終日只有惡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "96d5464a5c116d29fecee872abbecee17a49bd8390ddbbee3285e46954280c0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/6\/5-8.1792124615675.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〈因為〉"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "大的"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "惡"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在地上"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "並且一切"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "構想"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "所思想的"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "他心中"
+    },
+    {
+      "surface": "רק",
+      "gloss": "只有"
+    },
+    {
+      "surface": "רע",
+      "gloss": "惡"
+    },
+    {
+      "surface": "כל",
+      "gloss": "終日"
+    },
+    {
+      "surface": "היום",
+      "gloss": "〈每一天〉"
+    }
+  ],
+  "timestamp": "2026-10-16T04:23:35.676203010Z",
+  "model": "glm-5.3"
+}

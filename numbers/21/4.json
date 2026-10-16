@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 21:4",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ותקצר נפש",
+      "rationale": "直譯「性命短了」——希伯來成語指耐性耗盡、心裡厭煩，KJV「大大灰心」、JPS「不耐煩」各取一面"
+    },
+    {
+      "kind": "substitution",
+      "subject": "紅海",
+      "rationale": "ים סוף 直譯「蘆葦海」，中文沿用通行「紅海」，原義失落"
+    }
+  ],
+  "translation": "他們從何珥山起行，沿紅海的路，要繞行 ⟨את⟩ 以東地；百姓的性命在途中變得急躁。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5a5565236b19cab88eba94ea7deea28af558303e9fb9ad29fdfd29f46756ddd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/21\/1-4.1792128019560.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "起行"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "從何珥山"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "山"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "沿……的路"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "紅（蘆葦）"
+    },
+    {
+      "surface": "לסבב",
+      "gloss": "要繞行"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以東地"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "以東"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "變得急躁"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓的"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "在途中"
+    }
+  ],
+  "timestamp": "2026-10-16T05:20:19.562059873Z",
+  "model": "glm-5.3"
+}

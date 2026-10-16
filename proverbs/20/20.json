@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "幽暗的深處",
+      "rationale": "אישון 字面為「眼中的小人」（瞳孔），引申為「深夜之核心」"
+    },
+    {
+      "kind": "you",
+      "subject": "咒罵父母者",
+      "rationale": "箴言式警告，隱含對讀者的訓誡"
+    }
+  ],
+  "translation": "咒罵父親和母親的，他的燈必熄滅，在幽暗的深處。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "748b86903346a29a87c3c9293d10a3738c5cd48239d46e83f3222714a58e2b75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/20\/17-20.1792145540966.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "咒罵"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "父親"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "和母親"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "必熄滅"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "他的燈"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "在幽暗的深處"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "黑暗"
+    }
+  ],
+  "timestamp": "2026-10-16T10:12:20.967251410Z",
+  "model": "glm-5.3"
+}

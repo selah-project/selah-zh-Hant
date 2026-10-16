@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 3:17",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "人子啊",
+      "rationale": "בן אדם 直譯「人的兒子」，中文以「人子」的呼格呈現"
+    },
+    {
+      "kind": "you",
+      "subject": "to Ezekiel",
+      "rationale": "雅威直接向以西結說話，任命他為守望者"
+    },
+    {
+      "kind": "substitution",
+      "subject": "守望者",
+      "rationale": "צפה 本義「向前傾身眺望遠處」，引申為守望、觀察"
+    }
+  ],
+  "translation": "人子啊，我立你作以色列家的守望者；你要從我口中聽見話語，就要替我警戒他們 ⟨את⟩ ⟨אותם⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8b5d17580228be84adb43dfad763b009cb81ebf9b85462328582707980652917",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/3\/17-20.1792137972274.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "守望者"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "我立你"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "作……家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "你要聽見"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "從我口中"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話語"
+    },
+    {
+      "surface": "והזהרת",
+      "gloss": "你就要警戒"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "他們（以色列家）"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "替我"
+    }
+  ],
+  "timestamp": "2026-10-16T08:06:12.275225034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 5:13",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דבר יום ביומו",
+      "rationale": "「日的量、在其日」——日與日重複，中文以「每天的工每日做完」保留節奏"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דבר",
+      "rationale": "דבר此處指「定量、任務」而非「話語」，譯作「量」"
+    }
+  ],
+  "translation": "督工催促他們說：「你們要完成你們的工作，每天的工每日做完，像有碎稭的時候一樣。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2d83b7706d744ba687459704a748093de7e85eba92d083d95fac01e8da448f74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/5\/13-16.1792125774785.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנגשים",
+      "gloss": "督工"
+    },
+    {
+      "surface": "אצים",
+      "gloss": "催促"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "要完成"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "你們的工作"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "〈每日的〉量"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "在當日"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "像"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "在……的時候"
+    },
+    {
+      "surface": "התבן",
+      "gloss": "有碎稭"
+    }
+  ],
+  "timestamp": "2026-10-16T04:42:54.786687232Z",
+  "model": "glm-5.3"
+}

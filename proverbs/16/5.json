@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יד ליד",
+      "rationale": "直譯「手接手」；成語意為「儘管聯手／可以確定」，諸譯本或取「聯手」或取「我敢擔保」（JPS）"
+    },
+    {
+      "kind": "crux",
+      "subject": "手接著手",
+      "rationale": "JPS 譯作誓言語「我的手在其上」，與多數譯本「雖手聯手」相異"
+    },
+    {
+      "kind": "elision",
+      "subject": "כל גבה לב",
+      "rationale": "原文語序「凡高心者」為名詞短語，中文以句子鋪陳"
+    }
+  ],
+  "translation": "凡心高氣傲的，都是雅威所憎惡的；手接著手，他必不免受罰。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3f3f2b6eb85bb179256fc399fbce0e6b8a36fede4dad8df4aeea82b7ea42199b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/16\/5-8.1792145467342.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "可憎惡之物"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "高傲的"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "接著手"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "免受罰"
+    }
+  ],
+  "timestamp": "2026-10-16T10:11:07.342958167Z",
+  "model": "glm-5.3"
+}

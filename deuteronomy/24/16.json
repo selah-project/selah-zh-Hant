@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יומתו",
+      "rationale": "使役被動「被治死」，譯「被處死」保留司法處決的語感，非自然死亡。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יומתו×3",
+      "rationale": "「被處死」三次重複，交錯結構 A-B-A（父—子／子—父／各人），中文保留此對稱。"
+    }
+  ],
+  "translation": "父親不可因兒女被處死，兒女也不可因父親被處死；各人要因自己的罪被處死。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6aaea6d8910b8e00cf423ccccbde75dab512cc0914e1836a2a4df4845ad17941",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/24\/13-16.1792129086326.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "被處死"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "父親"
+    },
+    {
+      "surface": "על",
+      "gloss": "因"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "兒女"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "兒女也"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "被處死"
+    },
+    {
+      "surface": "על",
+      "gloss": "因"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "父親"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "在自己的罪裡"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "被處死"
+    }
+  ],
+  "timestamp": "2026-10-16T05:38:06.327997469Z",
+  "model": "glm-5.3"
+}

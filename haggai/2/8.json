@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是／也",
+      "rationale": "希伯來文僅有介詞短語 לי（屬我），中文需動詞「是」與副詞「也」完成句子"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לי 的重複",
+      "rationale": "「屬我——銀子；屬我——金子」的對仗平行，兩個 לי 首尾呼應，中文以「也是」保留節奏"
+    }
+  ],
+  "translation": "銀子是我的，金子也是我的——萬軍之雅威說。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5e4e3500ae71cb45ec9fd368eb71c05e736aa845b0f742768916a97495f86783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/haggai\/2\/5-8.1792142871125.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "是我的"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀子"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "也是我的"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金子"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "萬軍之"
+    }
+  ],
+  "timestamp": "2026-10-16T09:27:51.127005377Z",
+  "model": "glm-5.3"
+}

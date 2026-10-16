@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 21:6",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "蒸氣",
+      "rationale": "הבל是氣息、霧氣般的虛空，非抽象「虛妄」"
+    },
+    {
+      "kind": "addition",
+      "subject": "〈之作為〉／〔結局〕",
+      "rationale": "פעל首字作名詞「作為」，句末需補語使「尋求死亡之人」的關係可讀"
+    },
+    {
+      "kind": "crux",
+      "subject": "מבקשי מות",
+      "rationale": "「尋求死亡的人」：或指說謊者自尋死路，或譯「被死亡追尋者」"
+    }
+  ],
+  "translation": "憑謊言的舌頭積聚財寶，是被人吹散的蒸氣——尋求死亡之人的〔結局〕。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "27aad930d67a940aa885ec55b748c65c7b54c0bb1e5cc68cd65085cdd1dda1db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/21\/5-8.1792145537552.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פעל",
+      "gloss": "積聚〈之作為〉"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "財寶"
+    },
+    {
+      "surface": "בלשון",
+      "gloss": "憑舌頭"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "謊言的"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "蒸氣"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "被吹散的"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "尋求……之人"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死亡"
+    }
+  ],
+  "timestamp": "2026-10-16T10:12:17.552723404Z",
+  "model": "glm-5.3"
+}

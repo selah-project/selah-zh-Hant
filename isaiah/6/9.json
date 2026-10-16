@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "聽了又聽",
+      "rationale": "希伯來文不定詞絕對型加強語氣（聽啊，要聽）；各譯本或作命令、或作允許、或作諷刺的宣告"
+    },
+    {
+      "kind": "invitation",
+      "subject": "你們要聽",
+      "rationale": "以賽亞受命向百姓發出的諷刺性召喚——聽與看的呼籲，卻伴隨著不理解的判决"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמעו שמוע \/ ראו ראו",
+      "rationale": "同根動詞重複，聽-聽、看-看的不定詞絕對結構，中文以「又聽」「又看」勉強保留"
+    }
+  ],
+  "translation": "他說：「你去，對這百姓說：『你們聽了又聽，卻不明白；看了又看，卻不認識。』」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "62508e19535a5f4924492707308507317644706a56b2ca4a7fc395b30b38895b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/6\/9-12.1792134628526.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你去"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "你要說"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "對……百姓"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "你們要聽"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "又聽"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "卻不"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "明白"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "你們要看"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "又看"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "卻不"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "認識"
+    }
+  ],
+  "timestamp": "2026-10-16T07:10:28.527396902Z",
+  "model": "glm-5.3"
+}

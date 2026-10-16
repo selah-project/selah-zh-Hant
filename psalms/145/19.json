@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "心願",
+      "rationale": "רצון 直譯「所喜悅的事」，即祂所悅納之意願"
+    },
+    {
+      "kind": "addition",
+      "subject": "必",
+      "rationale": "未完成式帶將來／必然之意，中文以「必」表達"
+    }
+  ],
+  "translation": "祂必成全敬畏祂之人的心願，必垂聽 ⟨את⟩ 他們的呼求，並拯救他們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f47c414869819a76e70b46732b17f901a1344239eccf6af168e501655b3c4f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/145\/17-20.1792145109305.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "心願"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "敬畏祂之人"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "必成全"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "他們的呼求"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "他們的呼求"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "必垂聽"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "並拯救他們"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:09.306575893Z",
+  "model": "glm-5.3"
+}

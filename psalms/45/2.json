@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是獻給",
+      "rationale": "原文無動詞，מעשי למלך 直譯「我的作為給王」，中文需補判斷詞"
+    },
+    {
+      "kind": "crux",
+      "subject": "רחש",
+      "rationale": "罕見動詞，「沸湧／攪動」：或譯「湧出」（滿溢義）或「攪動」（不安義）"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the reader",
+      "rationale": "詩人開口宣告要向王誦詠，全篇的開場引言"
+    }
+  ],
+  "translation": "我的心湧出美辭，我說：我的作為⟨是獻給⟩王的；我的舌頭⟨如⟩敏捷文士的筆。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2f0ced1bac9db241d0082f3c5f0d669dda6b700031a2644694911d4ac6ca1979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/45\/1-4.1792143874820.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "湧出"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "一篇話"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "美好的"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "我的作為"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "獻給王"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "我的舌頭"
+    },
+    {
+      "surface": "עט",
+      "gloss": "筆"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "文士的"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "敏捷"
+    }
+  ],
+  "timestamp": "2026-10-16T09:44:34.821124585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויברח וימלט",
+      "rationale": "逃跑與逃脫的連續動詞鏈，三拍遞進（走、逃、脫），中文以三個短句保留節奏"
+    }
+  ],
+  "translation": "米甲把大衛從窗戶縋下去，他就走了，逃跑了，逃脫了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bb33ca57b978b04d0522ec25012d7b95ac8604b30feeecd4ce17b0c63aa797ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/19\/9-12.1792131247611.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "縋下去"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "米甲"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "從"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "窗戶"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "走了"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "逃跑了"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "逃脫了"
+    }
+  ],
+  "timestamp": "2026-10-16T06:14:07.612637082Z",
+  "model": "glm-5.3"
+}

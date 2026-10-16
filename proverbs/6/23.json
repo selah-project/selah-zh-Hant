@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，三個隱喻句的『是』為中文所需"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "燈—光",
+      "rationale": "נר\/אור 與 妥拉\/誡命 兩兩對應的平行結構"
+    }
+  ],
+  "translation": "因為誡命是燈，妥拉是光，訓誨的責備是生命之道。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5152fe1bf7cddc63c997e06eb86ac3baa130441dbdc05dba57b145aa02360e2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/6\/21-24.1792145233641.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נר",
+      "gloss": "燈"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "誡命"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "而妥拉"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "而……之道"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "生命的"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "責備"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "訓誨的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:07:13.642554175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 2:9",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האשורי",
+      "rationale": "「亞書利人」或作「亞設人」（參 創 10:22；王上 4:13），或指亞述人；眾譯本分歧。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "領土名單",
+      "rationale": "列出伊施波設王權所轄的地區清單。"
+    }
+  ],
+  "translation": "他使他作王，管轄基列、亞書利人、耶斯列、以法蓮、便雅憫，以及以色列全地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0ee6f91da8c11f6284c71095e8cd8f8c1d2c1df106a0b431eb45ed6dae18ff07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/2\/9-12.1792131641560.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלכהו",
+      "gloss": "他使他作王"
+    },
+    {
+      "surface": "אל",
+      "gloss": "管轄"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "基列"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "和"
+    },
+    {
+      "surface": "האשורי",
+      "gloss": "亞書利人"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "和"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "耶斯列"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "以及管轄"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "以及管轄"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "便雅憫"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "以及管轄"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "全地"
+    }
+  ],
+  "timestamp": "2026-10-16T06:20:41.561551614Z",
+  "model": "glm-5.3"
+}

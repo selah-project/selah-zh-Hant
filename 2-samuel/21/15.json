@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "此二處 את 是介詞「與、對抗」（H854），非受詞記號；按記號家族慣例仍以 ⟨את⟩ 呈現。"
+    }
+  ],
+  "translation": "非利士人又與以色列人爭戰；大衛和 ⟨את⟩ 他的臣僕一同下去，與非利士人 ⟨את⟩ 交戰，大衛疲乏了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "aab3924c7b965dca57193e03caceac34ebf2949af9c938c5a67ff357e836da6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/21\/13-16.1792132243756.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "又有"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "爭戰"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "下去"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "和他的臣僕"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "與他一同"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "他們交戰"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "非利士人"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "疲乏了"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    }
+  ],
+  "timestamp": "2026-10-16T06:30:43.757888294Z",
+  "model": "glm-5.3"
+}

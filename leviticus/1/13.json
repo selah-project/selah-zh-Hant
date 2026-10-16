@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 1:13",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "臟腑",
+      "rationale": "הקרב字面為「最近的部位」，即身體的內部；和合本作「臟腑」，取其自然中文"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ניחח",
+      "rationale": "ניחוח（安息之香）與מנוחה（安息）同根；「馨香」只保留其香，未保留其安息"
+    }
+  ],
+  "translation": "至於臟腑和腿，他要用水洗淨；祭司要獻上 ⟨את⟩ 這一切，燒在壇上——這是燔祭，是火祭，是獻給雅威的馨香之氣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8274a7219c2d6dc9f2d6bb90c82f52c357fcabf3663bc7c07cf77f9391902909",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/1\/13-16.1792126654818.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקרב",
+      "gloss": "至於臟腑"
+    },
+    {
+      "surface": "והכרעים",
+      "gloss": "和腿"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "他要洗淨"
+    },
+    {
+      "surface": "במים",
+      "gloss": "用水"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "要獻上"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這一切"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "這一切"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "燒在……之上"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "壇"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "這是"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "火祭"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "之氣"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "馨香"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "獻給雅威的"
+    }
+  ],
+  "timestamp": "2026-10-16T04:57:34.819137424Z",
+  "model": "glm-5.3"
+}

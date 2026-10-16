@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "水的意象鏈",
+      "rationale": "深水—溪河—泉源一脈相承：言語如深水難測，智慧如活泉湧流。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "比喻動詞",
+      "rationale": "希伯來文名詞句無『是』『如』，中文補繫詞與喻詞。"
+    }
+  ],
+  "translation": "深水是人口中的話語；智慧的泉源，如湧流的溪河。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "50aaf93b6d741bd5d77493cd145cc6db9def980cd4127926ff6786f05573804a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/18\/1-4.1792145490673.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "深的"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "話語"
+    },
+    {
+      "surface": "פי",
+      "gloss": "口中"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "溪河"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "湧流的"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "泉源"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    }
+  ],
+  "timestamp": "2026-10-16T10:11:30.674862825Z",
+  "model": "glm-5.3"
+}

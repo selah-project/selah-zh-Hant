@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מתניו\/חלציו",
+      "rationale": "兩個「腰」字並列對仗，中文以「腰間」重複呈現其平行結構"
+    },
+    {
+      "kind": "addition",
+      "subject": "必作",
+      "rationale": "希伯來文無動詞「作」，中文需補繫詞"
+    }
+  ],
+  "translation": "公義必作他腰間的帶子，信實必作他腰間的繫帶。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8799e02c347ffacd8918c42986c81e0d95e63a6dfe9bb5f62e20b8e4b9614a53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/11\/5-8.1792134777076.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "必作"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "帶子"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "他腰間的"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "信實"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "繫帶"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "他腰間的"
+    }
+  ],
+  "timestamp": "2026-10-16T07:12:57.076742644Z",
+  "model": "glm-5.3"
+}

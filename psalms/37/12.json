@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "切齒",
+      "rationale": "חרק שניו 直譯「磨牙」，中文成語「切齒」恰對應此怒恨意象"
+    },
+    {
+      "kind": "elision",
+      "subject": "לצדיק",
+      "rationale": "介詞ל（對／攻擊）併入動詞「圖謀害」，未單獨成字"
+    }
+  ],
+  "translation": "惡人圖謀害義人，又向他切齒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "94b52e3aa9128e32f461e630f0771a68e33165db4dbab5de9e058b803fd3b005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/37\/9-12.1792143628699.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "圖謀"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "害義人"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "又切齒"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "向他"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "⟨את⟩他的牙"
+    }
+  ],
+  "timestamp": "2026-10-16T09:40:28.700440231Z",
+  "model": "glm-5.3"
+}

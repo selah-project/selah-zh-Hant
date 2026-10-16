@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 22:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סבבוני\/כתרוני",
+      "rationale": "兩個「圍繞」動詞首尾呼應，中文以「圍繞／圈住」分別譯出，環抱結構仍在。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אבירי",
+      "rationale": "原義「大能者」，此處指巴珊的壯牛；「壯牛」取其牛義。"
+    }
+  ],
+  "translation": "許多公牛圍繞我，巴珊的壯牛四面圈住我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "91233f5f52ffdf9ce5a2a3268ee7b28cec21719b3776c1eb5cb7f68dec3f8a7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/22\/13-16.1792143418301.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סבבוני",
+      "gloss": "圍繞我"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "公牛"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "許多"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "壯牛"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "巴珊的"
+    },
+    {
+      "surface": "כתרוני",
+      "gloss": "四面圈住我"
+    }
+  ],
+  "timestamp": "2026-10-16T09:36:58.302416275Z",
+  "model": "glm-5.3"
+}

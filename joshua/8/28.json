@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 8:28",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "荒丘",
+      "rationale": "תֵּל 是廢墟堆成的土墩，非普通「一堆」。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "直到今日",
+      "rationale": "「עד היום הזה」是敘事者的定年標記，指出寫作時該廢墟仍在。"
+    }
+  ],
+  "translation": "約書亞焚燒了 ⟨את⟩ 艾，使它成為永遠的荒丘、直存到今日的荒場。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5249b61af1a2dee5146e9a4ed46e2fe4343ff27956035c7e8545288fb65ab7e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/8\/26-28.1792142460049.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "焚燒了"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "艾"
+    },
+    {
+      "surface": "העי",
+      "gloss": "艾"
+    },
+    {
+      "surface": "וישימה",
+      "gloss": "使它成為"
+    },
+    {
+      "surface": "תל",
+      "gloss": "荒丘"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "荒場"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    }
+  ],
+  "timestamp": "2026-10-16T09:21:00.051337359Z",
+  "model": "glm-5.3"
+}

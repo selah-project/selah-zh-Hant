@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "裡",
+      "rationale": "方位詞中文語法所需，希伯來僅有介詞 ב"
+    },
+    {
+      "kind": "substitution",
+      "subject": "防營",
+      "rationale": "נציב 字面是「站立的東西」，指常設的軍事據點"
+    }
+  ],
+  "translation": "那時大衛在保障裡，非利士人的防營那時在伯利恆。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "22d440ec4a6060a87c4b2926313b4cea8703a87c3fe8834e7183dd762b571829",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/11\/13-16.1792148715849.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אז",
+      "gloss": "那時"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "在保障裡"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "防營"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "אז",
+      "gloss": "那時"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "伯"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "利恆"
+    }
+  ],
+  "timestamp": "2026-10-16T11:05:15.850906250Z",
+  "model": "glm-5.3"
+}

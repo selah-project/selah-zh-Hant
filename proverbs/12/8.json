@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 12:8",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "憑",
+      "rationale": "לפי 字面是「按照……的口」，成語化為「按照」，中文以「憑」表之"
+    },
+    {
+      "kind": "idiom",
+      "subject": "必被藐視",
+      "rationale": "יהיה לבוז 字面是「成為藐視（之物）」，即淪為可鄙"
+    }
+  ],
+  "translation": "人憑他的聰明受稱讚，心裡乖僻的必被藐視。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d2779ffb0844c10ed427f898d0e6419f70e0ab81aee59b173f3351f6e1aae832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/12\/5-8.1792145346137.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפי",
+      "gloss": "憑"
+    },
+    {
+      "surface": "שכלו",
+      "gloss": "他的聰明"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "受稱讚"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ונעוה",
+      "gloss": "乖僻"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "必"
+    },
+    {
+      "surface": "לבוז",
+      "gloss": "被藐視"
+    }
+  ],
+  "timestamp": "2026-10-16T10:09:06.138309168Z",
+  "model": "glm-5.3"
+}

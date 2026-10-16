@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 23:42",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בסכת…בסכת",
+      "rationale": "首尾重複「在棚裡」，框住全節"
+    },
+    {
+      "kind": "crux",
+      "subject": "האזרח",
+      "rationale": "「本地出生的」直譯；有譯本作「以色列生的」"
+    }
+  ],
+  "translation": "你們要在棚裡住七日；凡以色列本地出生的，都要住在棚裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d1b6a9ef5a7434d3bcd68141cbbafa241fac0cd0ae29cd8505abf6465b79ebb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/23\/41-44.1792127314251.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בסכת",
+      "gloss": "在棚裡"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "你們要住"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "本地出生的"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "在以色列"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "都要住"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "在棚裡"
+    }
+  ],
+  "timestamp": "2026-10-16T05:08:34.252409274Z",
+  "model": "glm-5.3"
+}

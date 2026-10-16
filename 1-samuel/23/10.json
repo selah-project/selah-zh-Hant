@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמע שמע",
+      "rationale": "「聽見，聽見」疊字加強語氣，中文以「確實聽見」呈現，失去疊字結構"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שמע שמע",
+      "rationale": "原文兩個「聽見」中第一個是分詞第二個是完成式，中文以副詞加動詞方式處理"
+    },
+    {
+      "kind": "addition",
+      "subject": "祢的僕人確實聽見",
+      "rationale": "עבדך是第二人稱所有格，中文以「祢的僕人」對應"
+    }
+  ],
+  "translation": "大衛說：「雅威，以色列的以羅欣啊，祢的僕人確實聽見掃羅想要來到基伊拉，為了我的緣故毀滅那城。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "df90f4fe3ac1d5578593274c89bb1e49be210f087ac5ec2c42f581c8871bf873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/23\/9-12.1792131336522.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "的以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "確實聽見"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "祢的僕人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "確實"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "想要"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "基伊拉"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "毀滅"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "那城"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "為了我的緣故"
+    }
+  ],
+  "timestamp": "2026-10-16T06:15:36.523388341Z",
+  "model": "glm-5.3"
+}

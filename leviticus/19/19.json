@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 19:19",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כלאים",
+      "rationale": "字面「兩樣相異之物」，譯「兩類／兩樣」。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שעטנז",
+      "rationale": "שעטנז僅於此處與申22:11出現，詞源不明，指羊毛與麻攙紡之布。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלאים三次重複",
+      "rationale": "牲畜、田地、衣物三禁令各以כלאים收尾，形成排比，中文以「兩類／兩樣」重複保留。"
+    }
+  ],
+  "translation": "你們要遵守 ⟨את⟩ 我的律例。你的牲畜不可與兩類雜交；你的田不可撒兩樣的種；兩類攙雜的衣物——羊毛混麻織的——不可穿在 ⟨את⟩ 你身上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ccbaff01e3173c16ada5e3f6fa7e518d1258e7d2ab91f54fa1b99f025509e4af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/19\/17-20.1792127183525.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的律例"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "我的律例"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "你們要遵守"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "你的牲畜"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תרביע",
+      "gloss": "與……交配"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "兩類"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "你的田"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "撒種"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "兩樣的種"
+    },
+    {
+      "surface": "ובגד",
+      "gloss": "衣物"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "兩類攙雜的"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "羊毛混麻織的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "穿在"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "你身上"
+    }
+  ],
+  "timestamp": "2026-10-16T05:06:23.526591850Z",
+  "model": "glm-5.3"
+}

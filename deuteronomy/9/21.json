@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 9:21",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "牛犢就是那罪",
+      "rationale": "原文以同位語直指：你們的罪、你們所造的那牛犢——罪與偶像在字面上同一"
+    },
+    {
+      "kind": "addition",
+      "subject": "來",
+      "rationale": "לקחתי 的完成語氣，中文需補方向詞"
+    },
+    {
+      "kind": "you",
+      "subject": "對以色列",
+      "rationale": "摩西直接複述以色列人的罪，全段為對以色列的指控"
+    }
+  ],
+  "translation": "至於 ⟨את⟩ 你們的罪，就是你們所造的 ⟨את⟩ 那牛犢，我拿了來，用火焚燒 ⟨אתו⟩，又擊碎 ⟨אתו⟩，磨得極細，直到細如灰塵；我把 ⟨את⟩ 它的灰塵撒進從山上流下來的溪中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7fec7a83f2d9403fca0b7eefd224acf3387d40c258c449dcf8801a2cb875b489",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/9\/21-24.1792128705341.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "你們的罪"
+    },
+    {
+      "surface": "חטאתכם",
+      "gloss": "你們的罪"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "你們所造的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那牛犢"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "那牛犢"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "我拿了來"
+    },
+    {
+      "surface": "ואשרף",
+      "gloss": "用火焚燒"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "那牛犢"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    },
+    {
+      "surface": "ואכת",
+      "gloss": "又擊碎"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "那牛犢"
+    },
+    {
+      "surface": "טחון",
+      "gloss": "磨"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "極細"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "直到"
+    },
+    {
+      "surface": "דק",
+      "gloss": "細如灰塵"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "如灰塵"
+    },
+    {
+      "surface": "ואשלך",
+      "gloss": "我把…撒進"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "它的灰塵"
+    },
+    {
+      "surface": "עפרו",
+      "gloss": "它的灰塵"
+    },
+    {
+      "surface": "אל",
+      "gloss": "進"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "溪中"
+    },
+    {
+      "surface": "הירד",
+      "gloss": "流下來的"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "山上"
+    }
+  ],
+  "timestamp": "2026-10-16T05:31:45.342410898Z",
+  "model": "glm-5.3"
+}

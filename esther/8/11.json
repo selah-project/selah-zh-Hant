@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 8:11",
+  "book": "esther",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשם",
+      "rationale": "נֶפֶשׁ 是氣息／生命之力，此處譯「性命」而非「靈魂」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "להשמיד ולהרג ולאבד",
+      "rationale": "三重不定式疊用，逐字回應哈曼在 3:13 的諭令（להשמיד להרג ולאבד），鏡像結構"
+    },
+    {
+      "kind": "crux",
+      "subject": "טף ונשים",
+      "rationale": "孩童與婦女是受詞的同位語（也包括在內，KJV\/ASV）還是與 9:12 一樣屬被殺之列，譯本有別；此處保留同位語語序"
+    }
+  ],
+  "translation": "內容是王所賜的：各城各城的猶太人可以聚集起來，為自己的性命站立，殺滅、屠戮、滅絕 ⟨את⟩ 一切攻擊他們之民、之省的軍力——連 ⟨את⟩ 孩童和婦女——並奪取他們的財物為掠物。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e3e5cd678a38e069c7c1897d4a8e0c31d43f1a2521e76f70bd441980cfdfaa22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/esther\/8\/9-12.1792147410153.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "內容是…的"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "所賜的"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ליהודים",
+      "gloss": "給猶太人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "在各"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "和城"
+    },
+    {
+      "surface": "להקהל",
+      "gloss": "聚集起來"
+    },
+    {
+      "surface": "ולעמד",
+      "gloss": "站立"
+    },
+    {
+      "surface": "על",
+      "gloss": "為"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "自己的性命"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "殺滅"
+    },
+    {
+      "surface": "ולהרג",
+      "gloss": "屠戮"
+    },
+    {
+      "surface": "ולאבד",
+      "gloss": "滅絕"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切…軍力"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "軍力"
+    },
+    {
+      "surface": "עם",
+      "gloss": "之民"
+    },
+    {
+      "surface": "ומדינה",
+      "gloss": "和省"
+    },
+    {
+      "surface": "הצרים",
+      "gloss": "攻擊他們的"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "孩童和婦女"
+    },
+    {
+      "surface": "טף",
+      "gloss": "孩童"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "和婦女"
+    },
+    {
+      "surface": "ושללם",
+      "gloss": "他們的財物"
+    },
+    {
+      "surface": "לבוז",
+      "gloss": "奪取為掠物"
+    }
+  ],
+  "timestamp": "2026-10-16T10:43:30.155139667Z",
+  "model": "glm-5.3"
+}

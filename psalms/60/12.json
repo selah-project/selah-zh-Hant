@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "對以羅欣",
+      "rationale": "直接向神呼求的問句"
+    },
+    {
+      "kind": "addition",
+      "subject": "出戰",
+      "rationale": "יצא「出去」在戰爭語境指出征，中文補「戰」字"
+    }
+  ],
+  "translation": "以羅欣（神）啊，你不是棄絕了我們嗎？以羅欣啊，你不與我們的軍隊一同出戰嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c02e51728684459ebb22d1877dc862e70799cfd34f5b52f77423e5fc6312d32d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/60\/9-12.1792144009925.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "不是……嗎"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "棄絕了我們"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "出戰"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "與我們的軍隊"
+    }
+  ],
+  "timestamp": "2026-10-16T09:46:49.926331562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "消化",
+      "rationale": "מוג 本義是熔化、軟化、消融——地與居民如蠟熔化的圖像"
+    },
+    {
+      "kind": "crux",
+      "subject": "תכנתי",
+      "rationale": "「我立定／我量定其柱子」：YLT 讀作「我沉思其柱子」，本譯隨主流讀作立定"
+    }
+  ],
+  "translation": "地和其上的居民都消化了，⟨是⟩我立定⟨了⟩地的柱子。細拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b03b27197604dfb3d511b421df87fa378d82451e20f94e732280864af02e7751",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/75\/1-4.1792144243842.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "都消化了"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和所有"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "其上的居民"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "我立定"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "地的柱子"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-10-16T09:50:43.842915122Z",
+  "model": "glm-5.3"
+}

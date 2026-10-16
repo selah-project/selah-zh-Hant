@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עקב",
+      "rationale": "עקב 本義是「腳跟」，引申為「因為／由於」；腳跟的形狀在中文中失落"
+    },
+    {
+      "kind": "measurement",
+      "subject": "四倍",
+      "rationale": "四倍償還是出 22:1 的賠償定例，數字原位不動"
+    }
+  ],
+  "translation": "他必四倍償還 ⟨את⟩ 那母羊羔，因為他行了 ⟨את⟩ 這事，又因為他沒有憐惜。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bc8809d0aad713b5ee991d7ce3bdb701c9623abd502ef919ca22610f7858d513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/12\/5-8.1792131961696.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "那母羊羔"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "那母羊羔"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "必償還"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "四倍"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〈他〉"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這事"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "這事"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "又因為"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〈他〉"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "憐惜"
+    }
+  ],
+  "timestamp": "2026-10-16T06:26:01.698143301Z",
+  "model": "glm-5.3"
+}

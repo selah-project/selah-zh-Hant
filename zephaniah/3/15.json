@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 3:15",
+  "book": "zephaniah",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משפטיך",
+      "rationale": "「你的判決／刑罰」：你所受的審判還是加於你的刑罰；和修與KJV作「刑罰」。"
+    },
+    {
+      "kind": "crux",
+      "subject": "תיראי vs תיראי\/תראי (KJV 'see')",
+      "rationale": "KJV讀作「你必不再看見災禍」，希伯來文為「懼怕」（ירא）。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יְהוָה…יְהוָה",
+      "rationale": "本節兩次出現雅威之名，框住「以色列的王在你中間」的核心宣告。"
+    }
+  ],
+  "translation": "雅威已除去⟨你的⟩刑罰，已趕出你的仇敵；以色列的王雅威在你中間，你必不再懼怕災禍。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e2b334d80f6cc2dbf70f7bc997366bfbe79139ff9a01477e342a3ff30d29af37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/zephaniah\/3\/13-16.1792142887823.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הסיר",
+      "gloss": "已除去"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "你的刑罰"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "已趕出"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "你的仇敵"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "在你中間"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "你必懼怕"
+    },
+    {
+      "surface": "רע",
+      "gloss": "災禍"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再"
+    }
+  ],
+  "timestamp": "2026-10-16T09:28:07.824458810Z",
+  "model": "glm-5.3"
+}

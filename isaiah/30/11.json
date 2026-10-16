@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 30:11",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "猶大百姓",
+      "rationale": "百姓對先知所發的直接命令句"
+    },
+    {
+      "kind": "substitution",
+      "subject": "使……止息",
+      "rationale": "השביתו 是「使之安息／止息」的使役形，百姓要求雅威的攔阻離開他們"
+    }
+  ],
+  "translation": "離開正路吧，轉出道徑吧，使以色列的聖者從我們面前止息。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d9c3cdd6e72b7018789e5998f405807fc651f453f90483d284d48343a86c376b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/30\/9-12.1792135111990.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "離開吧"
+    },
+    {
+      "surface": "מני",
+      "gloss": "從"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "正路"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "轉出吧"
+    },
+    {
+      "surface": "מני",
+      "gloss": "從"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "道徑"
+    },
+    {
+      "surface": "השביתו",
+      "gloss": "使……止息"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "從我們面前"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的聖者"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖者"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T07:18:31.991426765Z",
+  "model": "glm-5.3"
+}

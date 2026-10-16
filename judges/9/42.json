@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "judges 9:42",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "有人",
+      "rationale": "ויגדו 是複數動詞「他們告知」，中文以「有人告訴」呈現不定主語"
+    },
+    {
+      "kind": "addition",
+      "subject": "那城的",
+      "rationale": "העם（那人民）未指明是示劍居民，中文按語境補「那城的」"
+    }
+  ],
+  "translation": "次日，那城的人民出到田間，有人告訴亞比米勒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "013d7fd54006395a363c44bd2f157341aea92eebc0d17cbb668ec2292a311a83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/9\/41-44.1792130291001.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨到了⟩"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "次日"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "出"
+    },
+    {
+      "surface": "העם",
+      "gloss": "那城的人民"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "到田間"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "告訴"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "亞比米勒"
+    }
+  ],
+  "timestamp": "2026-10-16T05:58:11.001956932Z",
+  "model": "glm-5.3"
+}

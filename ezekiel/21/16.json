@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 21:16",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "主語未明寫；依上文是雅威使刀擦亮並交出"
+    },
+    {
+      "kind": "crux",
+      "subject": "לתפש בכף",
+      "rationale": "直譯「好以手掌抓住」：英譯本或作「揮向左右」（KJV 系，依異文）或作「供手握持」（JPS）；此處依希伯來文作「被掌握」"
+    }
+  ],
+  "translation": "他使⟨את⟩它擦亮，好被手掌掌握；這刀就是那已磨利的刀，也是那已擦亮的刀，要將⟨את⟩它交在殺人者的手中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f266c1441b9214d38266bec65d8b5f0f602a4cdcd60f5e349152295a4d8c73ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/21\/13-16.1792138413722.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "他使"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "它（刀）的擦亮"
+    },
+    {
+      "surface": "למרטה",
+      "gloss": "擦亮"
+    },
+    {
+      "surface": "לתפש",
+      "gloss": "被掌握"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "用手掌"
+    },
+    {
+      "surface": "היא",
+      "gloss": "它"
+    },
+    {
+      "surface": "הוחדה",
+      "gloss": "已磨利"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "它也是"
+    },
+    {
+      "surface": "מרטה",
+      "gloss": "已擦亮"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "要交"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "在殺人者的手中"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "在……手中"
+    },
+    {
+      "surface": "הורג",
+      "gloss": "殺人者"
+    }
+  ],
+  "timestamp": "2026-10-16T08:13:33.723959312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יאמרך למזמה",
+      "rationale": "字面「他們以惡謀說你」：或作「惡意論說你」（KJV），或作「以惡念提說你的名」（JPS）。"
+    },
+    {
+      "kind": "addition",
+      "subject": "你的名",
+      "rationale": "「妄稱（לשוא）」呼應出 20:7 妄稱雅威名的誡命，希伯來文僅隱含受詞，譯文補「你的名」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשוא",
+      "rationale": "לַשָּׁוְא 與出 20:7 誡命同字，中文以「妄稱」保留回聲。"
+    }
+  ],
+  "translation": "他們惡謀論說你，你的仇敵妄稱⟨你的名⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5f1308854f1c29eb210d34e9b38332f8fcb9733b46c0dfa608ccb6c3073ebdf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/139\/17-20.1792145084435.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "他們"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "論說你"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "惡謀"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "妄稱"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "妄"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "你的仇敵"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:44.438813338Z",
+  "model": "glm-5.3"
+}

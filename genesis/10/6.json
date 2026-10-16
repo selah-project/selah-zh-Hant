@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，名單式句法；中文需要「是」字連接，已補入未加括號以求通順。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "表",
+      "rationale": "挪亞後裔表第二支：含系四族。"
+    }
+  ],
+  "translation": "含的兒子是古實、埃及、弗、迦南。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ebd5cc934baef90e57014b54540e306e72bd21bfd3959badbdf44ffcba9ebd68",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/10\/5-8.1792124668826.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "和…的兒子"
+    },
+    {
+      "surface": "חם",
+      "gloss": "含"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "古實"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "弗"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "迦南"
+    }
+  ],
+  "timestamp": "2026-10-16T04:24:28.827024974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מהיכלך על ירושלם",
+      "rationale": "「從你的殿在耶路撒冷之上」語序含混：或作「因你在耶路撒冷的殿」（KJV），或「從你的殿引出到耶路撒冷」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "禮物",
+      "rationale": "שַׁי 是珍寶貢物，僅見於詩篇進貢語境"
+    }
+  ],
+  "translation": "從你的殿——在耶路撒冷之上——列王必向你進獻禮物。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2370dfcffe6a436facc24f2f75ec82f5be09e01dc89cb952d8319197ecf0aca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/68\/29-32.1792144123188.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "從你的殿"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……之上"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "לך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "必帶來"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "列王"
+    },
+    {
+      "surface": "שי",
+      "gloss": "禮物"
+    }
+  ],
+  "timestamp": "2026-10-16T09:48:43.188835221Z",
+  "model": "glm-5.3"
+}

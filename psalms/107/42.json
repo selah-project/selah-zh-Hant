@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "閉上口",
+      "rationale": "邪惡擬人化「閉上她的口」，希伯來文 עולה 為陰性，中譯以擬人保留"
+    },
+    {
+      "kind": "substitution",
+      "subject": "邪惡",
+      "rationale": "עולה 指不公、邪曲之事，譯作「邪惡」"
+    }
+  ],
+  "translation": "正直人看見就歡喜，一切邪惡都閉上了〈自己的〉口。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a21e665bc73bc95b50f307edc276b79471371200406a43bb2a3e2c7db17a02f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/107\/41-43.1792144652293.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "看見"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "正直人"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "就歡喜"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "邪惡"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "閉上了"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "〈自己的〉口"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:32.293943372Z",
+  "model": "glm-5.3"
+}

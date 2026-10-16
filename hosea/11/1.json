@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "字面是「因為／當…」，各譯本作「當以色列年幼時」；直譯保留時間子句的語感"
+    },
+    {
+      "kind": "alternative",
+      "subject": "我的兒子",
+      "rationale": "原文無領屬代名詞的「我的」，但 לבני 帶第一人稱詞尾，「我的兒子」忠於字面"
+    }
+  ],
+  "translation": "以色列年幼的時候，我就愛他，我從埃及呼召了我的兒子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c81d79e57dac57173e550a82528b1d1ea86adb547d7436ec63417f9789559a87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/11\/1-4.1792139541948.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "當…的時候"
+    },
+    {
+      "surface": "נער",
+      "gloss": "年幼"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "我就愛他"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "從埃及"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "我呼召了"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "我的兒子"
+    }
+  ],
+  "timestamp": "2026-10-16T08:32:21.948881244Z",
+  "model": "glm-5.3"
+}

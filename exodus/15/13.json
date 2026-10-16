@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 15:13",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "你／這",
+      "rationale": "希伯來文無代詞，中文語法需補足受詞與指示詞"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחית\/נהלת",
+      "rationale": "兩個近義的「引導」動詞並列，中文難以保留其音近呼應"
+    }
+  ],
+  "translation": "你憑著你的慈愛引導了⟨你⟩這⟨你所⟩救贖的⟨這⟩族民；你憑著你的力量領他們到你聖潔的居所。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5d5880446f42d199b77501d752a853253a71a0302e165e3d0d32c31637ba0d42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/15\/13-16.1792125945557.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "你引導"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "憑著你的慈愛"
+    },
+    {
+      "surface": "עם",
+      "gloss": "族民"
+    },
+    {
+      "surface": "זו",
+      "gloss": "這"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "你救贖"
+    },
+    {
+      "surface": "נהלת",
+      "gloss": "你領"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "憑著你的力量"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "居所"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "你的聖潔"
+    }
+  ],
+  "timestamp": "2026-10-16T04:45:45.557845502Z",
+  "model": "glm-5.3"
+}

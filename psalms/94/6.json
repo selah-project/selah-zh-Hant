@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רצח 與 הרג",
+      "rationale": "兩個「殺」的動詞並列：הרג 泛指殺害，רצח 特指謀殺，中文以「殺害／謀殺」分別保留"
+    }
+  ],
+  "translation": "寡婦和寄居的，他們殺害；孤兒，他們謀殺。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c13dc5e8a29ba9e5ffdec15748eca7753f18822d289bd2b9bfc61e2bc2d9d757",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/94\/5-8.1792144509226.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "寡婦"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "和寄居的"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "他們殺害"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "孤兒"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "他們謀殺"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:09.227638600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "發生了",
+      "rationale": "ויהי 是敘事式開頭，中文以「次日」承接，動詞併入時間框架"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישב…לשפט",
+      "rationale": "「坐」與「審判」同詞根場景——坐席即審判席，中文保留「坐著審判」"
+    }
+  ],
+  "translation": "次日，摩西坐著審判 ⟨את⟩ 百姓，百姓從早到晚都站在摩西身旁。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ce328a5cdd359ac2f207792e9f058d238e634b94be6fbaf36c2442434ab8bab6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/18\/13-16.1792126056275.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生了"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "次日"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "坐著"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "站著"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……身旁"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "早晨"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "晚上"
+    }
+  ],
+  "timestamp": "2026-10-16T04:47:36.276352252Z",
+  "model": "glm-5.3"
+}

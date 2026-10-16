@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גנוב יגנב",
+      "rationale": "同詞根不定詞絕對式加未完成式，表「確實被偷」；強調結構在中文中失去重複音效"
+    },
+    {
+      "kind": "alternative",
+      "subject": "גנוב יגנב",
+      "rationale": "亦有譯作主動「若他從別處偷來」；主流理解為被動「被偷去」"
+    }
+  ],
+  "translation": "若確實從他那裡被偷去，他就要向物主賠還。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f80bf2e6de2bddac0dc60239cd715af131cedcde923a6b50eb7f4107600f818d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/22\/9-12.1792126120864.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "確實"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "被偷去"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "從他那裡"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "賠還"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "向物主"
+    }
+  ],
+  "timestamp": "2026-10-16T04:48:40.865864078Z",
+  "model": "glm-5.3"
+}

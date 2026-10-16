@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 17:15",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מצדיק\/מרשיע、רשע\/צדיק",
+      "rationale": "交叉配列：義化惡者、惡化義者——同一對詞根交錯倒置，中文以「定……為義／定……為惡」對稱保留"
+    },
+    {
+      "kind": "addition",
+      "subject": "的、為……所",
+      "rationale": "中文需分詞標記與被動結構，希伯來文以分詞與構造短語表達"
+    }
+  ],
+  "translation": "定惡人為義的，定義人為惡的，兩者都為雅威所憎惡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "49cf30c49e5983802515b6efae6cbbe4f2e20687998b92c56f49e8cf74c39b79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/17\/13-16.1792145466057.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצדיק",
+      "gloss": "定……為義的"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "ומרשיע",
+      "gloss": "定……為惡的"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "所憎惡"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "גם",
+      "gloss": "都"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "兩者"
+    }
+  ],
+  "timestamp": "2026-10-16T10:11:06.058184813Z",
+  "model": "glm-5.3"
+}

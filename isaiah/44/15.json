@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 44:15",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "神明",
+      "rationale": "此處 אל 指人手所造的偶像，異教語境，依紀律用『神明』而非聖名位置的形式"
+    },
+    {
+      "kind": "elision",
+      "subject": "למו",
+      "rationale": "詩體強調小品詞，無獨立譯詞，併入『向它』"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישתחו／ויסגד",
+      "rationale": "兩個俯伏動詞疊用，諷刺同一根木頭一半烤餅、一半成為敬拜對象"
+    }
+  ],
+  "translation": "這樹給人當柴燒：他拿一些來取暖，又點著烤餅；他還造出一個神明，向它下拜；他做成雕像，向它叩拜。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e51599dc84f16179ab0233e86095796668cd02537386e3eada8c06183078d76e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/44\/13-16.1792135609201.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "這樹就成為"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "給人"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "當柴燒"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "他拿"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "一些"
+    },
+    {
+      "surface": "ויחם",
+      "gloss": "取暖"
+    },
+    {
+      "surface": "אף",
+      "gloss": "又"
+    },
+    {
+      "surface": "ישיק",
+      "gloss": "點著"
+    },
+    {
+      "surface": "ואפה",
+      "gloss": "烤"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "אף",
+      "gloss": "還"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "造出"
+    },
+    {
+      "surface": "אל",
+      "gloss": "神明"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "向它下拜"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "做成它"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "雕像"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "叩拜"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨向它⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T07:26:49.202913107Z",
+  "model": "glm-5.3"
+}

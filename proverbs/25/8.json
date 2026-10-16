@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the reader",
+      "rationale": "否定命令句直接訓誨聽者"
+    },
+    {
+      "kind": "crux",
+      "subject": "מהר",
+      "rationale": "馬所拉文本將 מהר 讀作副詞「急忙」；另讀作動詞「急忙做」（見三士一），影響斷句"
+    },
+    {
+      "kind": "substitution",
+      "subject": "爭訟",
+      "rationale": "ריב 字面是「爭執、相爭」，可指法庭爭訟，中文取「爭訟」"
+    }
+  ],
+  "translation": "不要急忙出去爭訟，免得你不知道它的結局如何——當你的鄰舍使⟨את⟩你蒙羞的時候。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fa80ee802ce3a57b7385033b6c251fc310badbb7efe80390969b2050f81187ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/25\/5-8.1792145639699.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "爭訟"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "急忙"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "מה",
+      "gloss": "什麼"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你做"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "在它的結局"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "使……蒙羞"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩你",
+      "marks": "רעך 使蒙羞的對象——你"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "你的鄰舍"
+    }
+  ],
+  "timestamp": "2026-10-16T10:13:59.700758454Z",
+  "model": "glm-5.3"
+}

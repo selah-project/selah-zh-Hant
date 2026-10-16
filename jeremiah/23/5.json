@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 23:5",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "苗裔",
+      "rationale": "צמח 是「芽、苗」的具體圖像，不是抽象的「分支」；其字面畫面是從大衛的根長出的嫩芽"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨他⟩",
+      "rationale": "希伯來文無主語代詞，中文需補出作王者"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צמח צדיק \/ צדקה",
+      "rationale": "צדיק 與 צדקה 同根，公義的苗施行公義，中文無法保留音韻呼應"
+    }
+  ],
+  "translation": "看哪，日子將到，雅威說：我要給大衛興起一個公義的苗裔；⟨他⟩要作王治理，行事通達，在地上施行公平和公義。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1e60cac891bf77fb20372154fcb642d05eb6a27881f66a2d50131bfb83ec1fe6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/23\/5-8.1792136774562.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日子"
+    },
+    {
+      "surface": "באים",
+      "gloss": "將到"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "我要興起"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "給大衛"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "苗裔"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "公義的"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "作王治理"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "行事通達"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "施行"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公平"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "和公義"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在地上"
+    }
+  ],
+  "timestamp": "2026-10-16T07:46:14.563473652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 27:8",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "付不出你的估價",
+      "rationale": "מערכך 直譯「低於你的估價」，即窮過估定的數；中文以付不能力表述"
+    },
+    {
+      "kind": "idiom",
+      "subject": "按…之手所及",
+      "rationale": "תשיג יד「手所及」，即負擔能力；על פי「按…之口」即按所說的；兩個身體成語連用"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העריך／יעריכנו／ערכך",
+      "rationale": "「估價」動詞三次出現，詞根 ערך 環繞全節；中文以「估」字重複保留"
+    }
+  ],
+  "translation": "他若貧窮，付不出你的估價，就要使他站在祭司面前，祭司要估 ⟨אתו⟩ 他；按許願者之手所及的程度，祭司要估他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0712f58046de051d51708ccb7e71e54d31c3903fe3ea7833994f374b3602863f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/27\/5-8.1792127368607.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "他若"
+    },
+    {
+      "surface": "מך",
+      "gloss": "貧窮"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "מערכך",
+      "gloss": "付不出你的估價"
+    },
+    {
+      "surface": "והעמידו",
+      "gloss": "就要使…站立"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "והעריך",
+      "gloss": "要估"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "他（被估之人）"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "על",
+      "gloss": "按"
+    },
+    {
+      "surface": "פי",
+      "gloss": "…的口"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "所及"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "הנדר",
+      "gloss": "許願者"
+    },
+    {
+      "surface": "יעריכנו",
+      "gloss": "要估他"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    }
+  ],
+  "timestamp": "2026-10-16T05:09:28.608980551Z",
+  "model": "glm-5.3"
+}

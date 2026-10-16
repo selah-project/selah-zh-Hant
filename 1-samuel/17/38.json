@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 17:38",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "自己的",
+      "rationale": "מדיו的代詞後綴「他的」指掃羅，中文補「自己的」以明確"
+    },
+    {
+      "kind": "substitution",
+      "subject": "鎧甲",
+      "rationale": "שריון直譯為「護身甲」（如扭曲編織之物），譯作通用詞「鎧甲」"
+    }
+  ],
+  "translation": "掃羅把自己的戰袍給大衛穿上，把銅盔戴在他頭上，又給他穿上鎧甲。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "91409f6713b3f633e1cdce9609014cda832ee4d807e53961cee60bc9545922a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/17\/37-40.1792131232056.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "給……穿上"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "מדיו",
+      "gloss": "自己的戰袍"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "又戴上"
+    },
+    {
+      "surface": "קובע",
+      "gloss": "盔"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "他的頭"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "又給……穿上"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "鎧甲"
+    },
+    {
+      "surface": "שריון",
+      "gloss": "鎧甲"
+    }
+  ],
+  "timestamp": "2026-10-16T06:13:52.057679871Z",
+  "model": "glm-5.3"
+}

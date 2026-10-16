@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "鼻孔",
+      "rationale": "אף本義是鼻子、鼻孔，怒氣與驕傲之所在；「臉面（的傲慢）」是轉譯"
+    },
+    {
+      "kind": "crux",
+      "subject": "אין אלהים",
+      "rationale": "語序上可作「他不求問：『沒有以羅欣』」或作獨立宣告「他一切的圖謀（都說）：沒有以羅欣」"
+    },
+    {
+      "kind": "hapax",
+      "subject": "כגבה",
+      "rationale": "גֹבַהּ此名詞形在塔納赫中罕見，字面是「高度、高傲」"
+    }
+  ],
+  "translation": "惡人鼻孔高傲，全然不求問；他一切的圖謀都是「沒有以羅欣」。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/10\/1-4.1792143366154.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "照著高傲"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "他的鼻孔"
+    },
+    {
+      "surface": "בל",
+      "gloss": "全然不"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "求問"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "他的圖謀"
+    }
+  ],
+  "timestamp": "2026-10-16T09:36:06.155663880Z",
+  "model": "glm-5.3"
+}

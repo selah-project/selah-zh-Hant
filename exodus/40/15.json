@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "והיתה להית להם",
+      "rationale": "字面「它必是成為他們的」，疊用 היה 的不定式，中文併作「必成為他們的」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משחת\/משחתם\/לכהנת",
+      "rationale": "「膏立」與「受膏」與「祭司職分」的詞根呼應（משח／כהן）貫穿全節，中文難以完全保留"
+    }
+  ],
+  "translation": "你要膏立⟨אתם⟩他們，正如你膏立⟨את⟩他們的父親一樣，使他們作祭司事奉我；他們的受膏必成為他們永遠的祭司職分，直到他們的世代。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "93e8ca27f7a020a821be726069d73ddf2bb37ea320b1e10138f4ef022d24314c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/40\/13-16.1792126641092.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "你要膏立"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "他們"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "正如…一樣"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "你膏立"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的父親"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "他們的父親"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "使他們作祭司"
+    },
+    {
+      "surface": "לי",
+      "gloss": "事奉我"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "必成為"
+    },
+    {
+      "surface": "להית",
+      "gloss": "成為"
+    },
+    {
+      "surface": "להם",
+      "gloss": "他們的"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "他們的受膏"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "祭司職分"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "直到他們的世代"
+    }
+  ],
+  "timestamp": "2026-10-16T04:57:21.093298813Z",
+  "model": "glm-5.3"
+}

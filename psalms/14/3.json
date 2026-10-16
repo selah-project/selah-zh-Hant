@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נאלחו",
+      "rationale": "אלח 在塔納赫中僅見於此處與詩 53:4，意為「變酸敗壞」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אין…אין",
+      "rationale": "「沒有…連一個也沒有」重複否定，首尾呼應第 1 節的「沒有」"
+    }
+  ],
+  "translation": "他們全都偏離了，一同變為污穢；沒有行善的，連一個也沒有。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1675ac133eb6fe1c155b1bdc04dab86a95dd5b1cab077365e105fdbecfb2045d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/14\/1-4.1792143342659.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "全都"
+    },
+    {
+      "surface": "סר",
+      "gloss": "偏離了"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "一同"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "變為污穢"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "善"
+    },
+    {
+      "surface": "אין",
+      "gloss": "也沒有"
+    },
+    {
+      "surface": "גם",
+      "gloss": "連"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一個"
+    }
+  ],
+  "timestamp": "2026-10-16T09:35:42.660874877Z",
+  "model": "glm-5.3"
+}

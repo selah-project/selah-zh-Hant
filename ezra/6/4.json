@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נדבכין",
+      "rationale": "建築「層」字，僅見於以斯拉記亞蘭文段落"
+    },
+    {
+      "kind": "crux",
+      "subject": "גלל",
+      "rationale": "字根「滾動」：或作「鑿成的巨石」（和合本「大石頭」），或「滾石」"
+    },
+    {
+      "kind": "addition",
+      "subject": "一層",
+      "rationale": "第二個「層」（ונדבך）中文需補「一」以成計數"
+    }
+  ],
+  "translation": "三層大石頭，一層新木頭；費用由王庫支付。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "595d45e283f6e0427f6dd682868906ac09686f58d9c281b391173641c1fc8856",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/6\/1-4.1792147871792.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "層"
+    },
+    {
+      "surface": "די",
+      "gloss": "…的"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "大"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "三"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "一層"
+    },
+    {
+      "surface": "די",
+      "gloss": "…的"
+    },
+    {
+      "surface": "אע",
+      "gloss": "木頭"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "新"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "費用"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…的庫"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "王"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "要支付"
+    }
+  ],
+  "timestamp": "2026-10-16T10:51:11.793783782Z",
+  "model": "glm-5.3"
+}

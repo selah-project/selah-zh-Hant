@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 22:26",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 是氣息、生命之力，不是不朽的「靈魂」"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חטא מות",
+      "rationale": "字面「死亡的罪」，即該死的罪——法律用語，非道德泛論"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨他的⟩",
+      "rationale": "中文需要受詞所有格，希伯來文 ורצחו נפש 以「他殺——一個נפש」直接連接"
+    }
+  ],
+  "translation": "至於那少女，你不可對她行甚麼事；那少女沒有該死的罪，因為正如人起來攻擊他的鄰舍、殺了⟨他的⟩性命，這事也是如此。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c1b6f9b2321331519fe279391b52e44fd54fdd066ec989456c8a576cd8c3e617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/22\/25-28.1792129060673.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולנער",
+      "gloss": "至於那少女"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "甚麼事"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "那少女"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "罪"
+    },
+    {
+      "surface": "מות",
+      "gloss": "該死的"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "正如"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "起來"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "על",
+      "gloss": "攻擊"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "他的鄰舍"
+    },
+    {
+      "surface": "ורצחו",
+      "gloss": "殺了"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "כן",
+      "gloss": "也是如此"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "這事"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    }
+  ],
+  "timestamp": "2026-10-16T05:37:40.674518263Z",
+  "model": "glm-5.3"
+}

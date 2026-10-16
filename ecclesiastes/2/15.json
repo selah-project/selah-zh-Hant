@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 2:15",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בלבי",
+      "rationale": "「在我心裡說」即心裡思想，中文照字面可通，予以保留。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הבל",
+      "rationale": "字面為「氣息／蒸氣」，全卷慣譯「虛空」，取其轉瞬即逝之意。"
+    },
+    {
+      "kind": "you",
+      "subject": "敘事者對自己",
+      "rationale": "本節是內心獨白，敘事者對自己說話。"
+    }
+  ],
+  "translation": "我心裡說：愚昧人怎樣遭遇，我也怎樣遭遇；那我為何更有智慧呢？我心裡又說：這也是虛空。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "80412e64eaa0814d410647e55b2f727041e35597ab6af455a2f3d881d43b22c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/2\/13-16.1792146977685.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "我說"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "我心裡"
+    },
+    {
+      "surface": "כמקרה",
+      "gloss": "怎樣遭遇"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "愚昧人"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יקרני",
+      "gloss": "我怎樣遭遇"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "那為何"
+    },
+    {
+      "surface": "חכמתי",
+      "gloss": "我有智慧"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אז",
+      "gloss": "那麼"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "更"
+    },
+    {
+      "surface": "ודברתי",
+      "gloss": "我又說"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "我心裡"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "這也"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "虛空"
+    }
+  ],
+  "timestamp": "2026-10-16T10:36:17.686580376Z",
+  "model": "glm-5.3"
+}

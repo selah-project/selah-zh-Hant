@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 3:31",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "眾壇",
+      "rationale": "מזבחת 是複數（香壇與燔祭壇兩座），中文無複數標記，以「眾」保留"
+    },
+    {
+      "kind": "substitution",
+      "subject": "櫃",
+      "rationale": "הארן 此處只作「櫃」，中文不可如英語 arK 般衍生；紀律規定約櫃一律作「櫃／約櫃」"
+    }
+  ],
+  "translation": "他們所看守的：櫃、桌子、燈臺、眾壇，以及他們用以事奉的聖所器皿，並幔子和屬它的一切事奉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4b9fb5e9aad0c57811342f153e0549f132c2f96e77fd06e83205015e17fa4efd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/3\/29-32.1792127521413.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשמרתם",
+      "gloss": "他們所看守的"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "櫃"
+    },
+    {
+      "surface": "והשלחן",
+      "gloss": "桌子"
+    },
+    {
+      "surface": "והמנרה",
+      "gloss": "燈臺"
+    },
+    {
+      "surface": "והמזבחת",
+      "gloss": "眾壇"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "器皿"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖所"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "用以事奉"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "用它們"
+    },
+    {
+      "surface": "והמסך",
+      "gloss": "幔子"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "屬它的事奉"
+    }
+  ],
+  "timestamp": "2026-10-16T05:12:01.414498977Z",
+  "model": "glm-5.3"
+}

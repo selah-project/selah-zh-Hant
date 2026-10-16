@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבלת",
+      "rationale": "שבלת 既指水流也指穀穗，與上一節的水的意象呼應，中文無法保留雙關"
+    },
+    {
+      "kind": "hapax",
+      "subject": "תאטר",
+      "rationale": "אטר（封閉）僅此處出現於塔納赫"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פיה",
+      "rationale": "希伯來文用陰性代詞「她的口」，中文以「它的口」譯坑之口"
+    }
+  ],
+  "translation": "願水流的氾濫不漫過我，願深淵不吞滅我，願坑不把它的口封閉在我之上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7bc2e0b65b4cd847cb8ebe659d54443586a598b84d20e924e7d05e1ce9e96378",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/69\/16-16.1792149876547.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "願不"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "漫過我"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "水流"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "也不"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "吞滅我"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "也不"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "封閉"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "在我之上"
+    },
+    {
+      "surface": "באר",
+      "gloss": "坑"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "它的口"
+    }
+  ],
+  "timestamp": "2026-10-16T11:24:36.547976155Z",
+  "model": "glm-5.3"
+}

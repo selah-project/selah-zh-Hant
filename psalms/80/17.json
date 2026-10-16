@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כסוחה",
+      "rationale": "כסח僅此處以被動分詞形式出現於詩篇，意為「被砍除」"
+    },
+    {
+      "kind": "elision",
+      "subject": "כסוחה",
+      "rationale": "希伯來文無動詞「是」，被動語態以分詞呈現"
+    }
+  ],
+  "translation": "被火焚燒，被砍伐，因你面上的斥責，他們便滅亡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6d83465c25002a10c00071672b9e0500428c68a6fb2586f2190e797e97e2935d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/80\/17-20.1792144360624.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שרפה",
+      "gloss": "被焚燒"
+    },
+    {
+      "surface": "באש",
+      "gloss": "在火中"
+    },
+    {
+      "surface": "כסוחה",
+      "gloss": "被砍伐"
+    },
+    {
+      "surface": "מגערת",
+      "gloss": "因……的斥責"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "他們便滅亡"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:40.625027777Z",
+  "model": "glm-5.3"
+}

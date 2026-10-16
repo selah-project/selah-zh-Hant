@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עקרבים",
+      "rationale": "字面是「蠍子」；多數譯本作「蠍子鞭」，指帶鐵鉤的鞭，此處採此義並保留「蠍子」意象。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "על\/על",
+      "rationale": "「軛」（עֹל）與「在…之上」（עַל）同音異義連用，中文無法重現。"
+    }
+  ],
+  "translation": "現在，我父親使你們負重軛，我必加重你們的軛；我父親用鞭子責打 ⟨את⟩ 你們，我卻要用蠍子鞭責打 ⟨את⟩ 你們。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b1147edd681aa68169446b16a1dd638547de3d893f770010015e9fc1cdfd048d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/12\/9-12.1792132977852.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "現在"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我父親"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "使負重"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "在你們身上"
+    },
+    {
+      "surface": "על",
+      "gloss": "軛"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "沉重的"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "我卻"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "必加重"
+    },
+    {
+      "surface": "על",
+      "gloss": "在…之上"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "你們的軛"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我父親"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "責打"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩你們",
+      "marks": "用鞭子"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "用鞭子"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "我卻"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "要責打"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩你們",
+      "marks": "用蠍子鞭"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "用蠍子鞭"
+    }
+  ],
+  "timestamp": "2026-10-16T06:42:57.854057927Z",
+  "model": "glm-5.3"
+}

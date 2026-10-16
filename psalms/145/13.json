@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כל עלמים",
+      "rationale": "「萬代」字面是「一切世代／永世」，וממשלתך 的動詞「存立」在希伯來文中未出現，由文意補足"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文需補「是」以成判斷句"
+    },
+    {
+      "kind": "crux",
+      "subject": "וממשלתך",
+      "rationale": "此分句無動詞，可譯作名詞句「你的治理〈存於〉每一世代」或理解為省略動詞「存續」"
+    }
+  ],
+  "translation": "你的國權是萬代的國權，你的治理存於每一世代。〈你的國權是存到永遠的國權〉",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "182428ec6198e09165699b61781f8c5b05fe3a768ba0af602c8cdfb469c66174",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/145\/13-16.1792145108604.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "你的國權"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "國權"
+    },
+    {
+      "surface": "כל",
+      "gloss": "萬代"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "永世"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "你的治理"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "每一"
+    },
+    {
+      "surface": "דור",
+      "gloss": "世代"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "又世代"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:08.604678544Z",
+  "model": "glm-5.3"
+}

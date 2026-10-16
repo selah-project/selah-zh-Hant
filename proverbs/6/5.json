@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "獵人／捕鳥人",
+      "rationale": "原文只說「手」和「設網者」，獵人一詞由語境補出"
+    },
+    {
+      "kind": "substitution",
+      "subject": "羚羊",
+      "rationale": "צבי 直譯為「光彩奪目之物」，指羚羊，譯文取其通稱"
+    },
+    {
+      "kind": "you",
+      "subject": "對懶惰人",
+      "rationale": "命令式直接呼喚，延續第4節對欠債者的勸誡"
+    }
+  ],
+  "translation": "要解救你自己，如羚羊脫離獵人的手，又如鳥兒脫離捕鳥人的手。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2ee86f209c556177fd85475cddea1c7a302ae2d04cc8c7e77bdac462d12a3480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/6\/5-8.1792145219498.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "要解救你自己"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "如羚羊"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "脫離獵人的手"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "又如鳥兒"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "脫離捕鳥人的手"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "捕鳥人"
+    }
+  ],
+  "timestamp": "2026-10-16T10:06:59.499652177Z",
+  "model": "glm-5.3"
+}

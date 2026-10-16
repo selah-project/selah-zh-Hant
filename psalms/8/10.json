@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，感嘆句中文以「何其尊貴」直接承擔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to 雅威",
+      "rationale": "本節是向雅威發出的直接稱頌呼叫，與詩 8:2 首尾呼應"
+    },
+    {
+      "kind": "you",
+      "subject": "to 雅威",
+      "rationale": "直接呼喚雅威──我們的主"
+    }
+  ],
+  "translation": "雅威──我們的主啊，你的名在全地何其尊貴！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "eb58508ff3f199256c102446a6e0832d2f37da1a0fca7fb9c90c2143b34e5232",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/8\/9-10.1792143173012.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "我們的主"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何其"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "尊貴"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "在……全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-10-16T09:32:53.012979095Z",
+  "model": "glm-5.3"
+}

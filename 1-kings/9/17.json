@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בית חורון",
+      "rationale": "地名「伯和崙」分為上、下兩城，תחתון 指「下」城"
+    }
+  ],
+  "translation": "所羅門建造了 ⟨את⟩ 基色、⟨את⟩ 下伯和崙，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "00361da876a260a310eb5eb405829c913035f1add199c784d18a0655c8cb793c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/9\/17-20.1792132861983.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "建造了"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "基色"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "基色"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "下伯和崙"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "和崙"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "下"
+    }
+  ],
+  "timestamp": "2026-10-16T06:41:01.984346887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "受詞記號附代詞，以 ⟨את⟩ 標記並指明其所指（會幕）"
+    },
+    {
+      "kind": "you",
+      "subject": "摩西",
+      "rationale": "本節為對摩西的直接命令"
+    }
+  ],
+  "translation": "你要取膏油，膏抹 ⟨את⟩ 會幕和 ⟨את⟩ 其中一切所有的；你要使 ⟨אתו⟩ 會幕和 ⟨את⟩ 它一切的器具成聖，它就成為聖的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8888f8bb1af7a7722eddddf8d16cadc26a223200a9093135e5d332c47d547d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/40\/9-12.1792126627859.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "你要取"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "膏油"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "膏油"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "膏抹之用"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "你要膏抹"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "會幕"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "其中一切所有的"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "בו",
+      "gloss": "在其中的"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "你要使…成聖"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "它（會幕）"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "它一切的器具"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "它的器具"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "它就成為"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖的"
+    }
+  ],
+  "timestamp": "2026-10-16T04:57:07.860501425Z",
+  "model": "glm-5.3"
+}

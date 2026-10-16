@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 18:13",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "起誓套語「雅威活著」，直譯保留"
+    },
+    {
+      "kind": "you",
+      "subject": "對王與使者",
+      "rationale": "米該雅當眾宣告，拒絕討好王"
+    }
+  ],
+  "translation": "米該雅說：「雅威活著，我的以羅欣所說的 ⟨את⟩ 那⟨話⟩，我必說 ⟨אתו⟩ 它。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ed9b2c20a17a972ab269d4bcfd60b968cd5398ce3a0322421c9e0265a515598f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/18\/13-16.1792149413377.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "米該雅"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活著"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "的確"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那話——以羅欣所說的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "它——我所要說的"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "我必說"
+    }
+  ],
+  "timestamp": "2026-10-16T11:16:53.377767990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "燒",
+      "rationale": "ויקטר 字面是「燒成香氣／焚香」，此處指焚燒祭物使香氣上升"
+    }
+  ],
+  "translation": "他把 ⟨את⟩ 公綿羊切成塊子，摩西燒了 ⟨את⟩ 頭、⟨את⟩ 塊子和 ⟨את⟩ 脂油。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cdcc32fdaa6fd5fce3931bc5577404b4845e3461ebe4387eb24531f412ee490f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/8\/17-20.1792126854492.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "公綿羊"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "公綿羊"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "切成塊子"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "按它的塊子"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "燒（使成香氣）"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "頭"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "塊子"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "塊子"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "脂油"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "脂油"
+    }
+  ],
+  "timestamp": "2026-10-16T05:00:54.493467514Z",
+  "model": "glm-5.3"
+}

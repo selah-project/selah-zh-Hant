@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 7:12",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כשמע לעדתם",
+      "rationale": "「照他們會眾所聽見的」語義晦暗：或指當眾宣告刑罰，或如 BSB「當我聽見他們聚集時」，古譯本各異"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אפרוש",
+      "rationale": "פרש「張開（翅膀／網）」於此以未完成式出現，捕捉鳥網的意象延續上節的鴿子比喻"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פותה\/אפרוש",
+      "rationale": "上節的鴿子與本節的網和飛鳥構成連貫的捕鳥意象鏈"
+    }
+  ],
+  "translation": "他們一去，我就向他們張開我的網，如天空的飛鳥把他們摔下；我必管教他們，照他們的會眾所聽見的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cfde5f849d4996def4e03f402c04a2ec9fe783d9e7a33fcaa386535dd6b9d0fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/7\/9-12.1792139478646.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "一……就"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "他們去"
+    },
+    {
+      "surface": "אפרוש",
+      "gloss": "張開"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "在他們以上"
+    },
+    {
+      "surface": "רשתי",
+      "gloss": "我的網"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "如飛鳥"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天空的"
+    },
+    {
+      "surface": "אורידם",
+      "gloss": "把他們摔下"
+    },
+    {
+      "surface": "איסרם",
+      "gloss": "我必管教他們"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "照……所聽見的"
+    },
+    {
+      "surface": "לעדתם",
+      "gloss": "他們的會眾"
+    }
+  ],
+  "timestamp": "2026-10-16T08:31:18.647168707Z",
+  "model": "glm-5.3"
+}

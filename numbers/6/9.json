@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 6:9",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בפתע פתאם",
+      "rationale": "同根詞重疊（瞬間／猝然），中文以「突然猝死」兩詞對應"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מת",
+      "rationale": "מת 是動詞「死」，中文以「有人」作主語譯出"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נזר",
+      "rationale": "נזר 既是「分別為聖之物」也指頭髮，此處兼含二義"
+    }
+  ],
+  "translation": "若有人在他身旁突然猝死，玷污了他分別為聖的頭，他就必在得潔淨的日子剃〈他的〉頭，在第七日剃〈它〉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f0a11aa058104d81ee622c3f8b0d87c92de78276e73808e740a532d09ce88d81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/6\/9-12.1792127620592.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "若"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "死"
+    },
+    {
+      "surface": "מת",
+      "gloss": "有人"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "在他身旁"
+    },
+    {
+      "surface": "בפתע",
+      "gloss": "突然"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "猝然"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "玷污"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "他的分別為聖"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "剃"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "他的頭"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在…的日子"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "他的得潔淨"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在…的日子"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "יגלחנו",
+      "gloss": "他必剃它"
+    }
+  ],
+  "timestamp": "2026-10-16T05:13:40.593141970Z",
+  "model": "glm-5.3"
+}

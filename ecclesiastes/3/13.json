@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "היא 為強調代詞，中文需繫動詞「是」承載"
+    },
+    {
+      "kind": "substitution",
+      "subject": "嘗到",
+      "rationale": "וראה 字面是「看見」，「見好／嘗到好處」為自然中文"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "היא…מתת",
+      "rationale": "句末 היא 回指全句， Hebrew 以代詞收束，中文以「這乃是」重述"
+    }
+  ],
+  "translation": "並且人人吃喝，在一切勞碌中嘗到好處，這乃是以羅欣（神）的賞賜。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c6c49b0ed4f8eb5ffb6acb03b211f58ace8c4d0db71e5c9824917b1ab8699991",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/3\/13-16.1792146950814.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "並且"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "吃"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "喝"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "嘗到"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好處"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "在一切"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "勞碌中"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "賞賜"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "היא",
+      "gloss": "這乃是"
+    }
+  ],
+  "timestamp": "2026-10-16T10:35:50.814977708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 29:14",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לבשתי\/וילבשני",
+      "rationale": "同根動詞互換主客——「我穿上它，它穿上我」，中文保留此往返結構。"
+    },
+    {
+      "kind": "crux",
+      "subject": "וילבשני",
+      "rationale": "「它穿上我」（KJV）與「它為自己穿上我」（JPS，將ני視為反身）之爭；取前者。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צניף",
+      "rationale": "僅此處出現的頭巾／纏頭布一詞，中文以「頭巾」存其形。"
+    }
+  ],
+  "translation": "我以公義為衣穿上，它就穿上我如同外袍；我的公平是⟨如同⟩頭巾和冠冕。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e638d8a1186336dcaecae6502779d0cd7ad78a16a739bef865a234255bcc26ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/29\/14-15.1792149936855.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "לבשתי",
+      "gloss": "我穿上"
+    },
+    {
+      "surface": "וילבשני",
+      "gloss": "它就穿上我"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "如同外袍"
+    },
+    {
+      "surface": "וצניף",
+      "gloss": "和頭巾"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "我的公平"
+    }
+  ],
+  "timestamp": "2026-10-16T11:25:36.855898721Z",
+  "model": "glm-5.3"
+}

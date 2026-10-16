@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 4:20",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבר על שבר",
+      "rationale": "「毀壞上加毀壞」的疊句，宣告本身的節奏模仿災難接連不斷"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שדדה \/ שדדו",
+      "rationale": "同一動詞 שדד 在兩句中重複——全地與帳棚同遭一劫"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨也遭劫掠⟩",
+      "rationale": "末句希伯來文省略動詞，僅餘「我的幔子」；中文補出承前省略的謂語"
+    }
+  ],
+  "translation": "毀壞接連毀壞被宣告，因為全地遭劫掠；突然之間，我的帳棚遭劫掠，轉眼之間，我的幔子⟨也遭劫掠⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f64b7c5124f0690d9c8a82eacb65ded98a52430a990f76cc3edbb572894588cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/4\/17-20.1792136197577.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "毀壞"
+    },
+    {
+      "surface": "על",
+      "gloss": "接連"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "毀壞"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "被宣告"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שדדה",
+      "gloss": "遭劫掠"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "突然之間"
+    },
+    {
+      "surface": "שדדו",
+      "gloss": "遭劫掠"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "我的帳棚"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "轉眼之間"
+    },
+    {
+      "surface": "יריעתי",
+      "gloss": "我的幔子"
+    }
+  ],
+  "timestamp": "2026-10-16T07:36:37.578808889Z",
+  "model": "glm-5.3"
+}

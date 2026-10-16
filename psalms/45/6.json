@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "語序",
+      "rationale": "希伯來文交錯排列：箭—萬民—在你之下—仆倒—入心中—王的仇敵；KJV 將「萬民仆倒」置於句末，YLT\/JPS 保留交錯結構。"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨箭射⟩",
+      "rationale": "「入王仇敵的心中」缺主語，中文補「箭射」以成句。"
+    }
+  ],
+  "translation": "你的箭尖銳，萬民仆倒在你之下；⟨箭射⟩入王仇敵的心中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/45\/5-8.1792143868984.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "你的箭"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "尖銳"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "萬民"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "在你之下"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "仆倒"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "入……心中"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "仇敵"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-10-16T09:44:28.985671365Z",
+  "model": "glm-5.3"
+}

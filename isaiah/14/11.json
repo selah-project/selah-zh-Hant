@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 14:11",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נבליך",
+      "rationale": "נבל 可作『皮袋』或『弦琴』；此處多數譯本取『琴聲』，與威勢並列下到示阿勒"
+    },
+    {
+      "kind": "substitution",
+      "subject": "示阿勒",
+      "rationale": "一詞到底，仍作示阿勒，不換作陰間"
+    }
+  ],
+  "translation": "你的威勢和你的琴聲都被下到示阿勒；你下面鋪的是蟲，你的遮蓋是蛆。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "798d95729ea1c9153983d32b12bb8057b5fd741d19c6c5f49a1dfcd022e3af6e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/14\/9-12.1792134712238.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הורד",
+      "gloss": "被下到"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "示阿勒"
+    },
+    {
+      "surface": "גאונך",
+      "gloss": "你的威勢"
+    },
+    {
+      "surface": "המית",
+      "gloss": "……的聲音"
+    },
+    {
+      "surface": "נבליך",
+      "gloss": "你的琴"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "你下面"
+    },
+    {
+      "surface": "יצע",
+      "gloss": "鋪的是"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "蟲"
+    },
+    {
+      "surface": "ומכסיך",
+      "gloss": "你的遮蓋"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "蛆"
+    }
+  ],
+  "timestamp": "2026-10-16T07:11:52.240319055Z",
+  "model": "glm-5.3"
+}

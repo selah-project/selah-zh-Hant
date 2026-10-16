@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 24:12",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלא",
+      "gloss": "期待否定答案的修辭問句詞，中文以「不是……嗎」對應。"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "關係代名詞由中文定語結構吸收，無獨立對應詞。"
+    },
+    {
+      "kind": "invitation",
+      "subject": "讀者",
+      "rationale": "「說：」懸於句末，引出下節的引語，鉤子留給讀者。"
+    }
+  ],
+  "translation": "巴蘭對巴勒說：我不是也對你差遣到我這裡來的使者們說過話嗎？說：",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3345c2e6ff0f24756e31c864cd6528377ee781f457ef27b8a7b2fcd4d68f884a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/24\/9-12.1792128088379.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "巴蘭"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "巴勒"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "不是……嗎"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "מלאכיך",
+      "gloss": "你的使者們"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "（關係詞）"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "你差遣"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "到我這裡來"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "我說過話"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    }
+  ],
+  "timestamp": "2026-10-16T05:21:28.380466955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נע ונד",
+      "rationale": "兩個近義不定詞押韻（nuaʿ wa-nad），聲音本身模擬搖晃流蕩；中文以「流離飄蕩」對仗保留節奏。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כחה",
+      "rationale": "字面為「它的力量」，指地的出產之力，譯「效力」取其雙關（CUV 傳統）。"
+    }
+  ],
+  "translation": "你耕種 ⟨את⟩ 地，地必不再給你效力；你必在地上流離飄蕩。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "36506de47dcff9e45ababa2df96a4f965bde221c54e7f72affcb28c667ebeb99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/4\/9-12.1792124508877.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "當"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "你耕種"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "地"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "再"
+    },
+    {
+      "surface": "תת",
+      "gloss": "給"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "效力"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "נע",
+      "gloss": "流離"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "飄蕩"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "你必是"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在地上"
+    }
+  ],
+  "timestamp": "2026-10-16T04:21:48.878616804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是／他",
+      "rationale": "希伯來文無繫詞、無代詞主語，中文補足。"
+    },
+    {
+      "kind": "hapax-note-off",
+      "subject": "חפץ",
+      "rationale": "非孤立詞；עשה כל אשר חפץ為標準句式——他行凡他所喜悅的。"
+    }
+  ],
+  "translation": "而我們的以羅欣（神）在天上，凡他所喜悅的，他都行了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "80ac09966d24a74ffa4fcbea3480205d886b56e155f1cf2c46148ec88c69fb48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/115\/1-4.1792144754591.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "而我們的以羅欣（神）"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "在天上"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "喜悅的"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "他都行了"
+    }
+  ],
+  "timestamp": "2026-10-16T09:59:14.592794910Z",
+  "model": "glm-5.3"
+}

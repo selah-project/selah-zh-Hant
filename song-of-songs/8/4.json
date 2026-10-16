@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מַה תָּעִירוּ",
+      "rationale": "希伯來以疑問詞 מַה 作否定禁令，字面「何必要你們驚動」，譯作「不要」"
+    },
+    {
+      "kind": "you",
+      "subject": "to the daughters of Jerusalem",
+      "rationale": "直接稱呼耶路撒冷的眾女子"
+    },
+    {
+      "kind": "crux",
+      "subject": "שֶׁתֶּחְפָּץ",
+      "rationale": "動詞為陰性單數「她情願」，「愛情」擬人化；KJV 誤作陽性「他情願」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "2:7 重現",
+      "rationale": "此節為歌 2:7（及 3:5）第三次出現的副歌，僅末句縮短"
+    }
+  ],
+  "translation": "耶路撒冷的眾女子啊，我囑咐你們 ⟨אתכם⟩：不要驚動，不要叫醒愛情，等它自發。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/8\/1-4.1792146644662.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הִשְׁבַּעְתִּי",
+      "gloss": "我囑咐"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩",
+      "marks": "耶路撒冷的眾女子"
+    },
+    {
+      "surface": "בָּנוֹת",
+      "gloss": "眾女子"
+    },
+    {
+      "surface": "יְרוּשָׁלַיִם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תָּעִירוּ",
+      "gloss": "你們驚動"
+    },
+    {
+      "surface": "וּמַה",
+      "gloss": "也不要"
+    },
+    {
+      "surface": "תְּעוֹרְרוּ",
+      "gloss": "你們叫醒"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "愛情"
+    },
+    {
+      "surface": "הָאַהֲבָה",
+      "gloss": "愛情"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "שֶׁתֶּחְפָּץ",
+      "gloss": "它情願"
+    }
+  ],
+  "timestamp": "2026-10-16T10:30:44.663790591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 10:3",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "發光",
+      "rationale": "הופעת 字面是「發光、照耀」；多數譯本作「恩待／幫助」（意譯），字面意象是光照亮惡人的計謀"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "兩個 כי 為反問語氣詞，中文以句式吸收"
+    }
+  ],
+  "translation": "你壓制，這於你為美嗎？你藐視你手親手勞碌的成果，卻向惡人的謀算發光，是嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5c6d878a811646b7a88878299167ae17e98b8886ae2974951a2f13d18b536515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/10\/1-4.1792145931824.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "為美嗎"
+    },
+    {
+      "surface": "לך",
+      "gloss": "於你"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "你壓制"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "你藐視"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "勞碌的成果"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "你手親手"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "卻向"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "謀算"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "惡人的"
+    },
+    {
+      "surface": "הופעת",
+      "gloss": "發光"
+    }
+  ],
+  "timestamp": "2026-10-16T10:18:51.825311387Z",
+  "model": "glm-5.3"
+}

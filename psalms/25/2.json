@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "誇勝",
+      "rationale": "עלץ字面是「歡騰跳躍」，譯作歡躍誇勝以達意"
+    },
+    {
+      "kind": "you",
+      "subject": "向以羅欣",
+      "rationale": "直接向神呼求的祈禱言語"
+    }
+  ],
+  "translation": "我的以羅欣（神）啊，我倚靠你；求你不要叫我蒙羞，不要叫我的仇敵向我誇勝。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "56d834fc48cd39fa425568609f45759f0e111a0509b1b30db4b1353c12ed8308",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/25\/1-4.1792143466876.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "בך",
+      "gloss": "在你裡面"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "我倚靠"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "叫我蒙羞"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "叫……誇勝"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "我的仇敵"
+    },
+    {
+      "surface": "לי",
+      "gloss": "向我"
+    }
+  ],
+  "timestamp": "2026-10-16T09:37:46.878401040Z",
+  "model": "glm-5.3"
+}

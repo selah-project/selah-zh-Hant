@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "米設與基達",
+      "rationale": "地名與人名（創10:2；創25:13），或取其象徵義「遠方好戰之民」；此處按名字直譯，不加解經。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "我有禍了",
+      "rationale": "אויה 是感嘆詞「禍哉」，中文以動詞句承載。"
+    }
+  ],
+  "translation": "我有禍了，因為我寄居在米設，住在基達的帳棚中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d43459e9860c7aab20df4312462f58b3e28a6f029a059b37119b1f207290744d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/120\/5-7.1792144923986.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "我有禍了"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "我寄居"
+    },
+    {
+      "surface": "משך",
+      "gloss": "在米設"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "我住"
+    },
+    {
+      "surface": "עם",
+      "gloss": "在……之中"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "基達"
+    }
+  ],
+  "timestamp": "2026-10-16T10:02:03.986784183Z",
+  "model": "glm-5.3"
+}

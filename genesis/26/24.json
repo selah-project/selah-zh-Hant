@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 26:24",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "此處 אתך 是「與你同在」的介詞（H854），不是受詞記號 ⟨את⟩，故不帶記號。"
+    },
+    {
+      "kind": "addition",
+      "subject": "「這是因……的緣故」",
+      "rationale": "בעבור 引出的因果句中文需補足連接語。"
+    },
+    {
+      "kind": "you",
+      "subject": "以撒",
+      "rationale": "雅威夜間直接向以撒說話，重申對亞伯拉罕的應許。"
+    },
+    {
+      "kind": "secret",
+      "subject": "夜間顯現",
+      "rationale": "雅威在夜間異象中向以撒顯現自隱的界域。"
+    }
+  ],
+  "translation": "那夜，雅威向他顯現，說：「我是你父親亞伯拉罕的以羅欣。不要害怕，因為我與你同在；我要賜福給你，並要使 ⟨את⟩ 你的後裔增多，這是因我僕人亞伯拉罕的緣故。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "175811d933abc12da04057cbbc5b40916d76607fa9ad5b0c9c896a35896210bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/26\/21-24.1792125070348.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "顯現"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "向他"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "在那夜"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "那一"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "的以羅欣"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你父親"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "害怕"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ 與你同在"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "我要賜福給你"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "並要使增多"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的後裔"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "你的後裔"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "因……的緣故"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "我僕人"
+    }
+  ],
+  "timestamp": "2026-10-16T04:31:10.349779063Z",
+  "model": "glm-5.3"
+}

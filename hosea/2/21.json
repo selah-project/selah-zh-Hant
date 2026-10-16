@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "hosea 2:21",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וארשתיך×3",
+      "rationale": "「聘為妻」一詞在 21–22 節重複三次，訂婚的五重誓言（公義、公平、慈愛、憐憫、信實）以此動詞為骨架"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בחסד",
+      "rationale": "חסד 固定譯作慈愛，與全書一致"
+    }
+  ],
+  "translation": "我必聘你⟨歸⟩我為妻，直到永遠；我必聘你⟨歸⟩我為妻，憑著公義、公平、慈愛和憐憫。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e6dda247f4e4243f67e74f08b8034626270373a4bfb3c17f5dbe9231283cd51f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/2\/21-24.1792142620229.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "我必聘你為妻"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨歸⟩我"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "直到永遠"
+    },
+    {
+      "surface": "וארשתיך",
+      "gloss": "我必聘你為妻"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨歸⟩我"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "憑著公義"
+    },
+    {
+      "surface": "ובמשפט",
+      "gloss": "和公平"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "和慈愛"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "和憐憫"
+    }
+  ],
+  "timestamp": "2026-10-16T09:23:40.230875185Z",
+  "model": "glm-5.3"
+}

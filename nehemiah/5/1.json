@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 5:1",
+  "book": "nehemiah",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל",
+      "rationale": "「向／對著」他們的弟兄：傳統譯作「against（控告）」，呂振中作「concerning（關於）」；希伯來文只說「朝向」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "發出",
+      "rationale": "中文需要動詞，希伯來文以「有哀聲……極大」名詞句表達。"
+    },
+    {
+      "kind": "you",
+      "subject": "猶大人",
+      "rationale": "哀聲指向特定對象——作弟兄的猶大同胞。"
+    }
+  ],
+  "translation": "於是百姓和他們的妻子向他們的弟兄猶大人發出極大的哀聲。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3e4851fd4e7ef30bc5bc4836abad8c6a6d0fede2e092517c8fc697a5af5f4465",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nehemiah\/5\/1-4.1792148040211.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "於是有了"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "哀聲"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "和他們的妻子"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "極大的"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "他們的弟兄"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "猶大人"
+    }
+  ],
+  "timestamp": "2026-10-16T10:54:00.212148857Z",
+  "model": "glm-5.3"
+}

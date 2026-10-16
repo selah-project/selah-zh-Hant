@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש原義近於喉嚨、氣息、生命活力，此處譯作性命而非靈魂"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨你⟩",
+      "rationale": "希伯來文的הלל未帶受詞，中文補出讚美的對象"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלב\/דשן",
+      "rationale": "脂油與肥甘是獻祭中最豐美的部分並列，喻屬靈的豐足，中文保留祭品的具體畫面"
+    }
+  ],
+  "translation": "如同脂油與肥甘，我的性命得以飽足；我以歡呼的嘴脣，我的口要讚美 ⟨你⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e27d25f1bef020b9d973f8f67dfe6f62fa2ad021cd065a6e8ddb3d763dc5ff25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/63\/5-8.1792144044737.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "如同"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "脂油"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "與肥甘"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "得以飽足"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "而我的嘴脣"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "歡呼的"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "要讚美"
+    },
+    {
+      "surface": "פי",
+      "gloss": "我的口"
+    }
+  ],
+  "timestamp": "2026-10-16T09:47:24.738250215Z",
+  "model": "glm-5.3"
+}

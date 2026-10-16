@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 15:22",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הטף",
+      "rationale": "字面為「幼小的（家眷）」，指隨行的孩童與家眷，譯作「孩子」"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "介詞性的 את（與他同在）融入「與他同在」一語，不另立詞位"
+    }
+  ],
+  "translation": "大衛對以太說：「你去，過去吧。」以太那迦特人就過去了，他和跟隨他的眾人、以及所有與他同在的孩子，也都過去了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6ff7357e6c534e14b891dfa89965791302e1fc7a6712d192fc24b2a300d63a64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/15\/21-24.1792132138619.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "以太"
+    },
+    {
+      "surface": "לך",
+      "gloss": "去"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "過去"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "過去了"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "以太"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "迦特人"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": ""
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和所有"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "他的人"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "以及所有"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "孩子"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨את⟩ 那些"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "與他同在"
+    }
+  ],
+  "timestamp": "2026-10-16T06:28:58.620650544Z",
+  "model": "glm-5.3"
+}

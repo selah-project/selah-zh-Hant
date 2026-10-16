@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תטר",
+      "rationale": "נטר字面是「守護／存留」，此處指存留怒氣，譯「懷怨」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "את（愛的受詞）",
+      "rationale": "原文第二個את在清潔輔音文本中屬כמוך片語之前的לרעך，譯文以⟨את⟩標記鄰舍為受詞。"
+    }
+  ],
+  "translation": "不可報仇，也不可懷怨 ⟨את⟩ 你本族的子民；要愛 ⟨את⟩ 你的鄰舍如同自己。我是雅威。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ccbaff01e3173c16ada5e3f6fa7e518d1258e7d2ab91f54fa1b99f025509e4af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/19\/17-20.1792127183525.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "報仇"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不可"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "懷怨"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你本族的子民"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子民"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你本族的"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "要愛"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "你的鄰舍"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "如同自己"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-10-16T05:06:23.526375883Z",
+  "model": "glm-5.3"
+}

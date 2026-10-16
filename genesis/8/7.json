@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יצוא ושוב",
+      "rationale": "「直出直回」的不定詞疊加，中文以「飛來飛去」表達反覆來回的動作。"
+    },
+    {
+      "kind": "crux",
+      "subject": "烏鴉的結局",
+      "rationale": "經文未說烏鴉返回方舟——牠「出去飛去飛回」直到地乾；各譯本或譯「來回飛」或譯「不返回」，原文刻意留白。"
+    }
+  ],
+  "translation": "他放出 ⟨את⟩ 烏鴉；牠飛來飛去，直到水從地上退乾。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bc3c4e86185114d3c4080e2c0c492babaed1b43f2104f7f381f4de0974f4f76f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/8\/5-8.1792124648799.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "他就放出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "烏鴉"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "烏鴉"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "牠就飛出去"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "飛去"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "飛回"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "退乾"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "從……之上"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-10-16T04:24:08.800865783Z",
+  "model": "glm-5.3"
+}

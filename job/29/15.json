@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 29:15",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אני",
+      "rationale": "句末強調的「我」併入「我作」，中文不重複。"
+    },
+    {
+      "kind": "addition",
+      "subject": "作",
+      "rationale": "הייתי直譯「我是」，中文需動詞「作」以成句。"
+    }
+  ],
+  "translation": "我作瞎子的眼，作瘸子的腳。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e638d8a1186336dcaecae6502779d0cd7ad78a16a739bef865a234255bcc26ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/29\/14-15.1792149936855.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "眼"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "我作"
+    },
+    {
+      "surface": "לעור",
+      "gloss": "瞎子"
+    },
+    {
+      "surface": "ורגלים",
+      "gloss": "腳"
+    },
+    {
+      "surface": "לפסח",
+      "gloss": "瘸子"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    }
+  ],
+  "timestamp": "2026-10-16T11:25:36.856055731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "於他自己的心意",
+      "rationale": "בנפשו 字面是「在他的性命裡」，指按己意支配，譯作「於他的心意」"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יחכם",
+      "rationale": "字面「使他們有智慧」，也可作「以智慧教導」"
+    }
+  ],
+  "translation": "任憑他捆綁他的臣宰於⟨他自己的⟩心意，並教他的長老有智慧。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "79d0158087fbc9d2fe8c53dc39bf1da2b4c44665467c4e90fafdc561aad4385c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/105\/21-24.1792144649857.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "捆綁"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "他的臣宰"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "於他自己的心意"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "他的長老"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "教……有智慧"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:29.858029098Z",
+  "model": "glm-5.3"
+}

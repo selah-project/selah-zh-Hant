@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שכבה／השכיב／ותשכיבהו",
+      "rationale": "躺臥動詞在前後兩節交織：孩子之死因躺臥而起，調包亦是使躺臥——死亡與欺詐共用同一詞根。"
+    },
+    {
+      "kind": "you",
+      "subject": "to the king",
+      "rationale": "「你的婢女」是說話女子向王的自我稱呼（ואמתך），直接對王說話。"
+    }
+  ],
+  "translation": "她半夜起來，趁你婢女睡著，從我身旁取了 ⟨את⟩ 我的兒子，把他放在她懷裡，又把 ⟨את⟩ 她死了的兒子放在我懷裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "322493bbf3c58d505b483e841ab27e9a558123c4dbffe26b9bccef70622c14f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/3\/17-20.1792132562819.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "她起來"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "在……中間"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "半夜"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "取了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的兒子"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我的兒子"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "從我身旁"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "你的婢女"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "睡著"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "把他放在躺臥"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "在她懷裡"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "她死了的兒子"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "她的兒子"
+    },
+    {
+      "surface": "המת",
+      "gloss": "死了的"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "她把他放躺"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "在我懷裡"
+    }
+  ],
+  "timestamp": "2026-10-16T06:36:02.822113490Z",
+  "model": "glm-5.3"
+}

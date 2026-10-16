@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "屬於他",
+      "rationale": "希伯來文無動詞，第二子句的「屬於雅威」由中文補足"
+    },
+    {
+      "kind": "substitution",
+      "subject": "世界",
+      "rationale": "תבל 指可居住的圓球大地，與 הארץ（大地／土地）並列為兩個不同的「地」字"
+    },
+    {
+      "kind": "you",
+      "subject": "向讀者",
+      "rationale": "詩題召喚會眾宣告雅威的主權"
+    }
+  ],
+  "translation": "大衛的詩歌。地和其中所充滿的都屬於雅威，世界和住在其中的居民也⟨屬於他⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7f3f28bc1f22822331da424a7de5c649ad10418c3a0fa7ffef219a870f546dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/24\/1-4.1792143472353.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩歌"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "屬於雅威"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "和其中所充滿的"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世界"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "和住在其中的居民"
+    },
+    {
+      "surface": "בה",
+      "gloss": "在其中"
+    }
+  ],
+  "timestamp": "2026-10-16T09:37:52.353778761Z",
+  "model": "glm-5.3"
+}

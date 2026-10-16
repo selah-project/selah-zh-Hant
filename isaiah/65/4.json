@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובנצורים",
+      "rationale": "字面「在被看守／封閉之處」，或指洞穴墓室；KJV「紀念碑」、ASV「隱密處」各有猜測"
+    },
+    {
+      "kind": "hapax",
+      "subject": "פרק",
+      "rationale": "此詞僅出現於此，指混有碎肉塊的湯"
+    },
+    {
+      "kind": "secret",
+      "subject": "墳墓與隱密處",
+      "rationale": "在墳墓間坐臥、與亡者之地交往，指向隱藏的招魂習俗（參賽8:19）"
+    }
+  ],
+  "translation": "他們坐在墳墓間，在被看守之處過夜，吃豬肉，他們的器皿中盛滿可憎之物的湯汁。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ec6d24d98bc3c49334ea8e65009354aa4de03dae426c5af008d8061d1a71489a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/65\/1-4.1792136061755.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "坐……的"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "在墳墓間"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "在被看守之處"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "過夜"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "吃……的"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "豬"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "並湯汁"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "可憎之物"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "他們的器皿"
+    }
+  ],
+  "timestamp": "2026-10-16T07:34:21.757084257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "引導動詞的כי在中文無對應詞，併入「知道」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מפני",
+      "rationale": "直譯「從……的面」，譯作「在……面前」以合中文敬畏用語"
+    },
+    {
+      "kind": "addition",
+      "subject": "「這位」",
+      "rationale": "中文同位語需要連接詞，希伯來文兩名號並列"
+    }
+  ],
+  "translation": "至於你和你臣僕，我知道你們還沒有敬畏雅威〈這位〉以羅欣〈神〉。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9d9cb39a020eb3639644816e5a1bf636d888db99f0235e15b7c9f8f63d613f7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/9\/29-32.1792125829102.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "至於你"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "和你臣僕"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我知道"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〈知道〉"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "還沒有"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "在……面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-10-16T04:43:49.103687019Z",
+  "model": "glm-5.3"
+}

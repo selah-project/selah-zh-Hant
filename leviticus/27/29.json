@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרם\/יחרם",
+      "rationale": "名詞與動詞同根連用（「當滅之物……被永獻」），中文以兩個詞形分譯，字根的重複感部分保留"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מות יומת",
+      "rationale": "不定式絕對加動詞的強調結構，譯作「必被治死」而非字面「死他必被死」"
+    },
+    {
+      "kind": "crux",
+      "subject": "מן האדם",
+      "rationale": "「從人中」可指「被人所獻的」或「從人類中（被獻的人）」，譯文取後者：被獻之人本身必被治死"
+    }
+  ],
+  "translation": "凡當滅之物，就是從人中被永獻的，都不可贖回，必被治死。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "10c97ef5f91d3e1d6ce446cff8e1a98a9fde738e0b6f34d97ea573bc558411ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/27\/29-32.1792127380404.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "當滅之物"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "被永獻"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "被贖回"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "必被治死"
+    }
+  ],
+  "timestamp": "2026-10-16T05:09:40.404651780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "（從）",
+      "rationale": "中文介詞已併入語流，以括號標示所補"
+    },
+    {
+      "kind": "substitution",
+      "subject": "赤露了自己",
+      "rationale": "ויתגל是反身式「被揭露」，中文以主動式表達"
+    }
+  ],
+  "translation": "他喝了酒，就醉了，在帳棚中間赤露了自己。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b8f6c63e2d032f4adeee804f4d6e61814b2a88dc75d9bc4d41ab05de4036a2a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/9\/21-24.1792124626334.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "喝了"
+    },
+    {
+      "surface": "מן",
+      "gloss": "（從）"
+    },
+    {
+      "surface": "היין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "醉了"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "赤露了自己"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "在中間"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "帳棚"
+    }
+  ],
+  "timestamp": "2026-10-16T04:23:46.335043272Z",
+  "model": "glm-5.3"
+}

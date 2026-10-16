@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 27:2",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "連成一體",
+      "rationale": "ממנו תהיין 字面為「它們出於它」，中文明說一體"
+    },
+    {
+      "kind": "substitution",
+      "subject": "銅",
+      "rationale": "נחשת 是銅，不是黃銅"
+    }
+  ],
+  "translation": "你要在壇的四個角上做它的四角；它的角要與壇 ⟨連成⟩ 一體，你要用銅把 ⟨אתו⟩ 包上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "af94911547d91b63b616ff6bfa23579f4a1346476cae516f31c164523953c483",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/27\/1-4.1792126275369.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "你要做"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "它的角"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "它的角（角落）"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "從它"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "要成"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "它的角"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "你要包上"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "它（指壇，銅為材料）"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    }
+  ],
+  "timestamp": "2026-10-16T04:51:15.370491253Z",
+  "model": "glm-5.3"
+}

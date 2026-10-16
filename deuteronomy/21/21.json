@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 21:21",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "好叫",
+      "rationale": "希伯來文以連續動詞並列表結果，中文需因果連接詞"
+    },
+    {
+      "kind": "substitution",
+      "subject": "敬畏",
+      "rationale": "יראו 兼有害怕與敬畏之義，此處指對懲戒的肅然"
+    }
+  ],
+  "translation": "他城裡的全體男人要用石頭打死他，他就死了；這樣，你要把那惡從你中間除掉，好叫全以色列聽見而敬畏。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "de4438439f57b1e3f591dfd8af4db18626b5c941a47c9432bc2b56b179899765",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/21\/21-23.1792128913291.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורגמהו",
+      "gloss": "要用石頭打死他"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全體"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "……的男人"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "他的城"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "用石頭"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "他就死了"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "你要除掉"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "那惡"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "從你中間"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "好叫全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "而敬畏"
+    }
+  ],
+  "timestamp": "2026-10-16T05:35:13.292286223Z",
+  "model": "glm-5.3"
+}

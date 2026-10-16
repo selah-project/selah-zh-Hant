@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 30:17",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "管教",
+      "rationale": "יקהת 字面是「順從」；和合本作「遵守」，此處取其為母親所施之訓的含義"
+    },
+    {
+      "kind": "alternative",
+      "subject": "雛鳥",
+      "rationale": "בני נשר 可作「鷹之子」（雛鷹）或指鷹的種類"
+    },
+    {
+      "kind": "you",
+      "subject": "to the scoffer",
+      "rationale": "經文以受詞「那眼睛」暗指讀者中的忤逆之子"
+    }
+  ],
+  "translation": "眼睛嘲笑父親、藐視母親管教的，谷中的烏鴉必啄出牠，鷹的雛鳥必吃掉牠。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "226cb39cb7c912ee9135b26247b64812ddc76df494e0d60874da88ff3e176e27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/30\/17-20.1792145726621.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "眼睛"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "嘲笑"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "父親"
+    },
+    {
+      "surface": "ותבוז",
+      "gloss": "藐視"
+    },
+    {
+      "surface": "ליקהת",
+      "gloss": "管教"
+    },
+    {
+      "surface": "אם",
+      "gloss": "母親"
+    },
+    {
+      "surface": "יקרוה",
+      "gloss": "啄出牠"
+    },
+    {
+      "surface": "ערבי",
+      "gloss": "烏鴉"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "谷中"
+    },
+    {
+      "surface": "ויאכלוה",
+      "gloss": "吃掉牠"
+    },
+    {
+      "surface": "בני",
+      "gloss": "雛鳥"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "鷹"
+    }
+  ],
+  "timestamp": "2026-10-16T10:15:26.622174299Z",
+  "model": "glm-5.3"
+}

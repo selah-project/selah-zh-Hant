@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 6:9",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "以下",
+      "rationale": "中文句首需引導詞，希伯來文僅為「這些」"
+    },
+    {
+      "kind": "elision",
+      "subject": "לפני 之於同行",
+      "rationale": "התהלך 為反身形「與……同行」，中文以「與以羅欣同行」表達"
+    },
+    {
+      "kind": "crux",
+      "subject": "在他的世代中",
+      "rationale": "בדרתיו 或作比較義（相對於世代而言完全），或作局限義（僅在其世代中完全）"
+    }
+  ],
+  "translation": "以下是挪亞的後代：挪亞是個義人，在他的世代中完全無瑕；挪亞與以羅欣同行。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b4c2c2dd9fd903c5606b012f1f4ee9736c5246b1ac4bd9c4d70bef2f0c2382c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/6\/9-12.1792124604103.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "以下是"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "後代"
+    },
+    {
+      "surface": "נח",
+      "gloss": "挪亞"
+    },
+    {
+      "surface": "נח",
+      "gloss": "挪亞"
+    },
+    {
+      "surface": "איש",
+      "gloss": "個……的人"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "完全無瑕"
+    },
+    {
+      "surface": "היה",
+      "gloss": "是"
+    },
+    {
+      "surface": "בדרתיו",
+      "gloss": "在他的世代中"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以羅欣"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "同行"
+    },
+    {
+      "surface": "נח",
+      "gloss": "挪亞"
+    }
+  ],
+  "timestamp": "2026-10-16T04:23:24.103794842Z",
+  "model": "glm-5.3"
+}

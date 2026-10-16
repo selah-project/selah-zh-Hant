@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 3:4",
+  "book": "zephaniah",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פחזים",
+      "rationale": "字面為「沸騰起沫」，引申「輕率、不可靠」；譯文取引申義，字面意象失落"
+    },
+    {
+      "kind": "crux",
+      "subject": "חמסו תורה",
+      "rationale": "「向妥拉施行強暴」：KJV「向律法行強暴」，或譯「歪曲妥拉」；本譯兼容兩義"
+    },
+    {
+      "kind": "elision",
+      "subject": "אנשי",
+      "rationale": "構造組合詞「詭詐之人」的「之人」融入中文形容結構"
+    }
+  ],
+  "translation": "她的先知是輕率冒失的人，是行詭詐的人；她的祭司褻瀆聖物，強暴地歪曲妥拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "55145628e3fe4c7b4f83faf509ed27ca8d44ccee802c73e77eab97dd692eb160",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/zephaniah\/3\/1-4.1792142829034.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נביאיה",
+      "gloss": "她的先知"
+    },
+    {
+      "surface": "פחזים",
+      "gloss": "輕率冒失的"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…的人"
+    },
+    {
+      "surface": "בגדות",
+      "gloss": "行詭詐"
+    },
+    {
+      "surface": "כהניה",
+      "gloss": "她的祭司"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "褻瀆"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖物"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "強暴地歪曲"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "妥拉"
+    }
+  ],
+  "timestamp": "2026-10-16T09:27:09.035784654Z",
+  "model": "glm-5.3"
+}

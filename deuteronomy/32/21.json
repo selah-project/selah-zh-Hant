@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 32:21",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קנאוני\/אקניאם · כעסוני\/אכעיסם",
+      "rationale": "希伯來文兩組動詞在上下句完全對稱重複（激起妒火、惹動怒氣），報應式鏡像結構，中文以重複句式保留。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בלא אל",
+      "rationale": "直譯「非伊勒／無伊勒」，即不是神的東西；中文以「非伊勒之物」保留其否定式構詞。"
+    },
+    {
+      "kind": "crux",
+      "subject": "נבל",
+      "rationale": "「愚昧的」與「卑劣的」之爭：JPS 作 vile，KJV 作 foolish；נבל兼含愚蠢與悖逆不敬之意。"
+    }
+  ],
+  "translation": "他們以非伊勒之物激起了我的妒火，以他們的虛無惹動了我的怒氣；我也要以非民之民激起他們的妒火，以愚昧的國族惹動他們的怒氣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7490b22d91fa664ebbca90591b618e34fd557e3d1f38235291872450da003c32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/32\/21-24.1792129306596.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "קנאוני",
+      "gloss": "激起了我的妒火"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "非"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    },
+    {
+      "surface": "כעסוני",
+      "gloss": "惹動了我的怒氣"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "以他們的虛無"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "而我"
+    },
+    {
+      "surface": "אקניאם",
+      "gloss": "激起他們的妒火"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "非"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "以國族"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "愚昧的"
+    },
+    {
+      "surface": "אכעיסם",
+      "gloss": "惹動他們的怒氣"
+    }
+  ],
+  "timestamp": "2026-10-16T05:41:46.597165348Z",
+  "model": "glm-5.3"
+}

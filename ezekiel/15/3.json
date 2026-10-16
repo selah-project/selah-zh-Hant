@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 15:3",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "人",
+      "rationale": "יקחו 是第三人稱複數「他們取」，中文被動式問句需補出施動者"
+    },
+    {
+      "kind": "invitation",
+      "subject": "問句",
+      "rationale": "連續兩個反問句，預期否定回答，屬修辭問話"
+    }
+  ],
+  "translation": "可以從它取木頭做工嗎？人可以從它取一根木釘，在上頭掛任何器皿嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "431404168a6fc5531a8264f614ad17ac92735cce91bbe9433ee30c0c7329c797",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/15\/1-4.1792138182018.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "可以……取嗎"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "從它"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "木頭"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "做"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "工"
+    },
+    {
+      "surface": "אם",
+      "gloss": "或者"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "人可以取"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "從它"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "一根木釘"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "掛"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "在上頭"
+    },
+    {
+      "surface": "כל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器皿"
+    }
+  ],
+  "timestamp": "2026-10-16T08:09:42.019014362Z",
+  "model": "glm-5.3"
+}

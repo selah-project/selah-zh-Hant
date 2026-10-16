@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תהותתו",
+      "rationale": "התת的使役形在整部塔納赫僅此一處，意為衝撞、聯合攻擊"
+    },
+    {
+      "kind": "crux",
+      "subject": "כלכם",
+      "rationale": "「你們全都」可屬上句（你們全都想殺他）或下句（你們全都如歪斜的牆），和合本取後者"
+    },
+    {
+      "kind": "invitation",
+      "subject": "向攻擊者發問",
+      "rationale": "「要到幾時呢」是向敵對者的直接詰問，呼喚回應"
+    }
+  ],
+  "translation": "你們聯合攻擊一人，要到幾時呢？要殺害他嗎？你們全都像歪斜的牆、被推倒的籬笆。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "99a02712f8da45a1a4f3f7df4dc6dec9be442ed979a6e6c10ebe842f699d54a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/62\/1-4.1792144036575.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "要"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "到幾時"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "你們聯合攻擊"
+    },
+    {
+      "surface": "על",
+      "gloss": "攻擊"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一人"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "要殺害"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "你們全都"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "像……的牆"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "歪斜"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "籬笆"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "被推倒的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:47:16.576804454Z",
+  "model": "glm-5.3"
+}

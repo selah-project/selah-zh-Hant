@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "怎能",
+      "rationale": "修辭疑問引百姓進入摩西的處境"
+    },
+    {
+      "kind": "hapax",
+      "subject": "טֹרַח",
+      "rationale": "名詞「重擔」僅少數出現於塔納赫，此處為申命記僅見"
+    }
+  ],
+  "translation": "我獨自一人怎能擔負你們的重擔、你們的負載和你們的爭訟呢？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7ad343c6a9f3c2409e5db444556643da6e3a0932ec8447c87792229105ba673d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/1\/9-12.1792128457906.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "怎能"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "我擔負"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "我獨自一人"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "你們的重擔"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "和你們的負載"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "和你們的爭訟"
+    }
+  ],
+  "timestamp": "2026-10-16T05:27:37.907370501Z",
+  "model": "glm-5.3"
+}

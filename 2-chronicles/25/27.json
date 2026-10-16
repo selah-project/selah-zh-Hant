@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-chronicles 25:27",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויקשרו／קשר",
+      "rationale": "動詞與名詞同根連用（策謀了陰謀），中文以『策劃了陰謀』保留同語重複。"
+    },
+    {
+      "kind": "addition",
+      "subject": "人",
+      "rationale": "וישלחו直譯『他們打發』，中文需補受詞『人』。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מאחרי יהוה",
+      "rationale": "直譯『從雅威之後（跟從）』，中文以『跟從雅威』表達。"
+    }
+  ],
+  "translation": "自從亞瑪謝轉離、不跟從雅威的時候，他們就在耶路撒冷向他策劃了陰謀；他就逃到拉吉，他們打發人追到拉吉，在那裡把他殺了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3c4252ae61e6c08868669c11211cb0eac4fa74e5a0a136d724eec78f9d9f1580",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/25\/25-28.1792149567340.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומעת",
+      "gloss": "自從……的時候"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "（關係詞）"
+    },
+    {
+      "surface": "סר",
+      "gloss": "轉離"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "亞瑪謝"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "不跟從"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "策劃了陰謀"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "向他"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "陰謀"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "在耶路撒冷"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "他就逃"
+    },
+    {
+      "surface": "לכישה",
+      "gloss": "到拉吉"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "他們打發人"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "追他"
+    },
+    {
+      "surface": "לכישה",
+      "gloss": "到拉吉"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "把他殺了"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裡"
+    }
+  ],
+  "timestamp": "2026-10-16T11:19:27.341062718Z",
+  "model": "glm-5.3"
+}

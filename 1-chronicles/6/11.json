@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 6:11",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "首詞אלקנה",
+      "rationale": "首詞或缺「בני」（兒子們）——諸抄本與譯本補為「以利加拿的兒子們」，JPS 照馬所拉文本譯出"
+    },
+    {
+      "kind": "substitution",
+      "subject": "他的兒子",
+      "rationale": "首詞的 בנו 實為複數 בני（兒子們），馬所拉拼作單數形"
+    }
+  ],
+  "translation": "以利加拿的兒子是 ⟨את⟩ 以利加拿，他兒子是蘇弗，他兒子是拿哈。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f857a6883d73cad087869c45f76f3beb67d216d421ee5a5a3f086eae5bc28022",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/6\/9-12.1792148424153.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "以利加拿"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "他的兒子"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "以利加拿"
+    },
+    {
+      "surface": "צופי",
+      "gloss": "蘇弗"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "他的兒子"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "和拿哈"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "他的兒子"
+    }
+  ],
+  "timestamp": "2026-10-16T11:00:24.154831300Z",
+  "model": "glm-5.3"
+}

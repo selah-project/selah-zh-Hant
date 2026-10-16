@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מות תמות",
+      "rationale": "不定詞絕對形加動詞的加強結構，直譯「死你必死」，中文以「必定死」傳達其強調"
+    },
+    {
+      "kind": "crux",
+      "subject": "ביום",
+      "rationale": "「你吃的日子必定死」與亞當事實上未當日死的張力，是著名的解經難點"
+    }
+  ],
+  "translation": "惟有善惡知識之樹，其果你不可吃，因為你吃它的那一天，你必定死。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8e098bf6a68977770fea49f4cd8de16615b82b877d1143135adeee6cd7be4a65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/2\/17-20.1792124534166.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "惟有……之樹"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "知識"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "善"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "惡"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "你吃"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "它"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "……的那一天"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "你吃"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "它"
+    },
+    {
+      "surface": "מות",
+      "gloss": "定死"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "死"
+    }
+  ],
+  "timestamp": "2026-10-16T04:22:14.167286275Z",
+  "model": "glm-5.3"
+}

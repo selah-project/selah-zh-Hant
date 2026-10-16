@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בלא הון",
+      "rationale": "字面「無財利」，即白白地、不值錢地賣出。"
+    },
+    {
+      "kind": "crux",
+      "subject": "רבית",
+      "rationale": "有的譯本作「你未因他們的價格增多財富」（KJV／ASV），有的作「未抬高他們的身價」（JPS）；主語是你（雅威）。"
+    }
+  ],
+  "translation": "你賣了你的百姓，得不著財利，也未從他們的身價中增益。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ae5db8211991fba40a7be49d8a8fef6e18c73abf8fefdfb9a9b7cf74c6b387de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/44\/13-16.1792143729073.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "你賣了"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "得不著"
+    },
+    {
+      "surface": "הון",
+      "gloss": "財利"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也未曾"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "增益"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "從他們的身價"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:09.073759497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "眾巴力",
+      "rationale": "הבעלים 是複數，指巴力的眾名號或眾巴力偶像；「巴力」在此是異神名，非聖名位置。"
+    },
+    {
+      "kind": "addition",
+      "subject": "被",
+      "rationale": "希伯來主動語態 יזכרו（他們必記念／被記念）；中文被動式以「被」字表達。"
+    }
+  ],
+  "translation": "因為我必從她口中除掉 ⟨את⟩ 眾巴力的名字，他們的名字必不再被記念。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d29741ae783bc881ce8a1e7cf93adae0fc823310c7f8f211e301e255437554f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/2\/17-20.1792139427145.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "我必除掉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "眾巴力的名字"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名字"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "眾巴力的"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "從她口中"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "而不"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "他們必被記念"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "以他們的名字"
+    }
+  ],
+  "timestamp": "2026-10-16T08:30:27.146792949Z",
+  "model": "glm-5.3"
+}

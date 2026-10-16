@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתנו",
+      "rationale": "第一個「אתנו」實為 H854 介詞「與我們」，非受詞記號；此處按上下文作聯姻的物件譯出"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "התחתנו",
+      "rationale": "hitpael 反身形「彼此結親」，中文以「聯姻」概括雙向動作"
+    }
+  ],
+  "translation": "你們與我們聯姻：把你們的女兒嫁給我們，你們 ⟨את⟩ 我們的女兒娶去〈作〉你們的妻子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bf63942acf4ab0527f875f00cc6bb64e93d09d35f83869922e5f20ab30379337",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/34\/9-12.1792125302128.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "聯姻"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩我們",
+      "marks": "你們的女兒"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "你們的女兒"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "給"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "給我們"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "我們的女兒"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "我們的女兒"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "娶"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "給你們"
+    }
+  ],
+  "timestamp": "2026-10-16T04:35:02.128883070Z",
+  "model": "glm-5.3"
+}

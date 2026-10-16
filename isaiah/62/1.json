@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 62:1",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "我",
+      "rationale": "說話者由動詞詞尾隱含，中文需補出主語"
+    },
+    {
+      "kind": "you",
+      "subject": "to Zion\/Jerusalem",
+      "rationale": "全章直接向錫安和耶路撒冷發言"
+    }
+  ],
+  "translation": "為了錫安的緣故，我必不靜默；為了耶路撒冷的緣故，我必不安息，直到她的公義如光輝發出，她的救恩如火炬燃燒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "24c77d6249b19f1ad04523fb997eff274cfbdf1815e466a30c2ee1a86a316a15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/62\/1-4.1792135877549.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "為了……的緣故"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אחשה",
+      "gloss": "我必靜默"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "為了……的緣故"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אשקוט",
+      "gloss": "我必安息"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "發出"
+    },
+    {
+      "surface": "כנגה",
+      "gloss": "如光輝"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "她的公義"
+    },
+    {
+      "surface": "וישועתה",
+      "gloss": "和她的救恩"
+    },
+    {
+      "surface": "כלפיד",
+      "gloss": "如火炬"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "燃燒"
+    }
+  ],
+  "timestamp": "2026-10-16T07:31:17.549988857Z",
+  "model": "glm-5.3"
+}

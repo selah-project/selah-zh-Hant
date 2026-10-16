@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 37:9",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "一個／顆",
+      "rationale": "中文量詞為語法所需，希伯來文無量詞"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלום／חלמתי",
+      "rationale": "「夢」的名詞與動詞同根重複，中文以「夢」保留此呼應"
+    }
+  ],
+  "translation": "他又做了一個夢，另一個夢，並把它告訴 ⟨אתו⟩ 他的哥哥們，說：「看哪，我又做了一個夢，看哪，太陽和月亮並十一顆星正在向我下拜。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "21a7c6126ef579e35247b0fe701e97d9023291e430c1f2672301550953d5f720",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/37\/9-12.1792125318023.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "他又做了夢"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "又"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "一個夢"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "另一個"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "並告訴了"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "它（這夢）"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "他的哥哥們"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "並說"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "我做了夢"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "一個夢"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "又"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "並看哪"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "和月亮"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "並十一"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "（十）"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "顆星"
+    },
+    {
+      "surface": "משתחוים",
+      "gloss": "正在下拜"
+    },
+    {
+      "surface": "לי",
+      "gloss": "向我"
+    }
+  ],
+  "timestamp": "2026-10-16T04:35:18.024099409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 39:12",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "婦人",
+      "rationale": "中文敘事需要主語，希伯來文以動詞陰性詞尾表明"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בגדו×2",
+      "rationale": "『衣裳』在同節重複兩次，與39:13、15-18同一詞，成為全段的法律證物"
+    }
+  ],
+  "translation": "婦人就抓住他的衣裳，說：「你與我同寢吧！」約瑟把衣裳丟在她手裏，逃到外面去了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c04e69d437915b05e37efcdb04985358cb19188ba060e1f823988496297f7117",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/39\/9-12.1792125381712.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותתפשהו",
+      "gloss": "她就抓住他"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "他的衣裳"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "同寢吧"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "與我"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "丟下"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "他的衣裳"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "在她手裏"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "逃"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "到外面"
+    }
+  ],
+  "timestamp": "2026-10-16T04:36:21.714558625Z",
+  "model": "glm-5.3"
+}

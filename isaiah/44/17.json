@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 44:17",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יסגוד／אסגוד",
+      "rationale": "「叩拜」一詞在本章 15、17、19 節重複出現，諷刺性地貫穿偶像段落，中文以同一詞形「叩拜」保留。"
+    },
+    {
+      "kind": "addition",
+      "subject": "自己的",
+      "rationale": "לפסלו 的代詞尾綴「他的」按語境補明為「他自己的雕像」。"
+    }
+  ],
+  "translation": "他用其餘的造成了伊勒，就是他自己的雕像；他向它叩拜，向它敬拜，向它祈求，說：「求你拯救我，因為你是我的伊勒。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1f81ab062950767623a991c8bf129e2cb5cdfee60cc2fff8c4102f822f16896f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/44\/17-20.1792135597106.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאריתו",
+      "gloss": "其餘的"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "為伊勒"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造了"
+    },
+    {
+      "surface": "לפסלו",
+      "gloss": "他自己的雕像"
+    },
+    {
+      "surface": "יסגוד",
+      "gloss": "叩拜"
+    },
+    {
+      "surface": "לו",
+      "gloss": "向它"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "敬拜"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "祈求"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "向它"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "求你拯救我"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我的伊勒"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你是"
+    }
+  ],
+  "timestamp": "2026-10-16T07:26:37.107263114Z",
+  "model": "glm-5.3"
+}

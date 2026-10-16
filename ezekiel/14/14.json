@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 14:14",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דנאל",
+      "rationale": "但以理（聖經人物）抑或烏加列史詩中的英雄丹尼珥——此處拼法（無 yod）近於後者，多數譯本作但以理。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפשם",
+      "rationale": "נפש 直譯為「呼吸的生命」，此處作「性命」，非不朽的靈魂。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדקה\/נצל",
+      "rationale": "義與拯救並置是本段核心：義只救自己，不救他人。"
+    }
+  ],
+  "translation": "雖有挪亞、但以理、約伯這三人在那地其中，他們只能靠自己的義救回自己的性命——這是阿多奈雅威的宣告。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9ada75d7026277a8bce8fbae95557a9db7684eec9b55b682374edd127488af07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/14\/13-16.1792138259619.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "雖有"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "人"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "在那地其中"
+    },
+    {
+      "surface": "נח",
+      "gloss": "挪亞"
+    },
+    {
+      "surface": "דנאל",
+      "gloss": "但以理"
+    },
+    {
+      "surface": "ואיוב",
+      "gloss": "約伯"
+    },
+    {
+      "surface": "המה",
+      "gloss": "他們"
+    },
+    {
+      "surface": "בצדקתם",
+      "gloss": "靠自己的義"
+    },
+    {
+      "surface": "ינצלו",
+      "gloss": "救回"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "自己的性命"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "宣告"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-10-16T08:10:59.619968899Z",
+  "model": "glm-5.3"
+}

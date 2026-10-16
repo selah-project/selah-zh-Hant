@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נכונה",
+      "rationale": "KJV「信實」、JPS「真誠」、YLT「堅定」；字根是「立得正直、穩固」。"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחליקון",
+      "rationale": "字面「使之光滑」：KJV「諂媚」、JPS「弄光滑他們的舌頭」；光滑即欺哄的意象。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קרבם",
+      "rationale": "字面「他們的內部\/腹中」，譯「內心」以就中文語感。"
+    }
+  ],
+  "translation": "因為他們口中沒有堅定的話；他們的內心是毀滅；他們的喉嚨是敞開的墳墓；他們用舌頭弄得光滑。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2ac9312f959b215aba426f7f5f1ae5c226a181a8bd26f24b424fd4ddd39310cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/5\/9-12.1792143231091.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "在他們口中"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "堅定的話"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "他們的內心"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "毀滅"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "墳墓"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "敞開的"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "他們的喉嚨"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "他們的舌頭"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "弄得光滑"
+    }
+  ],
+  "timestamp": "2026-10-16T09:33:51.092862711Z",
+  "model": "glm-5.3"
+}

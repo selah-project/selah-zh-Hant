@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 56:10",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他的",
+      "rationale": "希伯來文無「他的」，指以色列；中文補出所有格使語義完整"
+    },
+    {
+      "kind": "crux",
+      "subject": "הזים",
+      "rationale": "הזים 或譯「做夢的」（ASV）或「說胡話的／妄想」（KJV「sleeping」、JPS「raving」）；此處取「做夢」"
+    }
+  ],
+  "translation": "他的守望者都是瞎眼的，全都一無所知；他們全是啞巴狗，不能吠叫；他們做夢、躺臥、貪愛沉睡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f935ac1ebd796e2ebd9258ba87f2a9fc9e1ea4cc8af1004bb213a40f5b71460d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/56\/9-12.1792135680931.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "守望者"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "瞎眼的"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "都是"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "知道"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "全都"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "狗"
+    },
+    {
+      "surface": "אלמים",
+      "gloss": "啞巴"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不能"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "能夠"
+    },
+    {
+      "surface": "לנבח",
+      "gloss": "吠叫"
+    },
+    {
+      "surface": "הזים",
+      "gloss": "做夢"
+    },
+    {
+      "surface": "שכבים",
+      "gloss": "躺臥"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "貪愛"
+    },
+    {
+      "surface": "לנום",
+      "gloss": "沉睡"
+    }
+  ],
+  "timestamp": "2026-10-16T07:28:00.932315854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמה…שמה…הרשע…הרשע",
+      "rationale": "兩聯完全平行的重複結構，審判與公義兩處同有邪惡，重複即修辭"
+    },
+    {
+      "kind": "addition",
+      "subject": "也",
+      "rationale": "第二聯的「也」為中文行文所需，Hebrew 以重複表達"
+    }
+  ],
+  "translation": "我又在日頭之下看見：審判之處，那裡有邪惡；公義之處，那裡也有邪惡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c6c49b0ed4f8eb5ffb6acb03b211f58ace8c4d0db71e5c9824917b1ab8699991",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/3\/13-16.1792146950814.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "又"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我看見"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "在…之下"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "之處"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "那裡"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "有邪惡"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "之處"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "那裡"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "也有邪惡"
+    }
+  ],
+  "timestamp": "2026-10-16T10:35:50.815740582Z",
+  "model": "glm-5.3"
+}

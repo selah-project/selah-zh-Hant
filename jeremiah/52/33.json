@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 52:33",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他的（囚衣）",
+      "rationale": "希伯來文無所有格代名詞，中文需補出所屬"
+    },
+    {
+      "kind": "elision",
+      "subject": "לפניו",
+      "rationale": "「在他面前」直譯保留，指向巴比倫王面前；原文未直呼其名"
+    },
+    {
+      "kind": "measurement",
+      "subject": "כל ימי חיו",
+      "rationale": "記載終身日子的時長——口糧供給的期限"
+    }
+  ],
+  "translation": "並且更換了 ⟨את⟩ 他的囚衣，常在他面前吃餅，不斷地吃，他一生的所有日子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7f6a980131cf58a20df85adb4539a14dfb1279a8f002076b6624c5a4b7689fc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/52\/33-34.1792137756169.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושנה",
+      "gloss": "更換了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的囚衣"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "衣服"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "囚禁的"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "並且吃"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "在他面前"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "不斷地"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日子"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "他的一生"
+    }
+  ],
+  "timestamp": "2026-10-16T08:02:36.169680976Z",
+  "model": "glm-5.3"
+}

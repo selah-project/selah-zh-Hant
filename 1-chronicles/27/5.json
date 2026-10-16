@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 27:5",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "twenty and four thousand",
+      "rationale": "每月班次的兵力計數，二萬四千。"
+    },
+    {
+      "kind": "crux",
+      "subject": "הכהן",
+      "rationale": "「祭司」或「首領祭司」；比利雅在撒下 8:18 稱為「耶何耶大的兒子比利雅」統轄基利提人和比利提人，此處是否指亞倫祭司有爭議。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בניהו",
+      "gloss_check": "比利雅",
+      "rationale": "CUV 作「比拿雅」；此處採和合本通行名。"
+    }
+  ],
+  "translation": "第三隊的軍長，屬第三個月的是比利雅的兒子耶何耶大⟨的⟩祭司，作首領；他的班內有二萬四千人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "94387d202d325cb132713675be5619be152cd2f6f8fb26669100ff5487a2df2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/27\/5-8.1792149019934.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "軍長"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "第三隊"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "第三個月"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "比利雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "耶何耶大"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "首領"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "他的班內"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "班"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二萬"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "四"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    }
+  ],
+  "timestamp": "2026-10-16T11:10:19.935558881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 4:5",
+  "book": "zechariah",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "中文判斷句需要繫詞，希伯來文無"
+    },
+    {
+      "kind": "substitution",
+      "subject": "不知道",
+      "gloss": "לא אדני 直譯為「不，我主」；撒迦利亞以單詞否定回應"
+    },
+    {
+      "kind": "you",
+      "subject": "對撒迦利亞",
+      "rationale": "使者直接質問先知，對話式教導的開端"
+    }
+  ],
+  "translation": "那與我說話的使者回答，對我說：「你不知道這些是甚麼嗎？」我說：「不知道，我主。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2ba4e2cd5c2a2ccf1ad85b88a671ba1a1e5877aa0aadc06bb095023cc00381e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/zechariah\/4\/5-8.1792142987999.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "回答"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "使者"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "與我說話的"
+    },
+    {
+      "surface": "בי",
+      "gloss": "與我"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "對我說"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "豈不"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "你知道"
+    },
+    {
+      "surface": "מה",
+      "gloss": "甚麼"
+    },
+    {
+      "surface": "המה",
+      "gloss": "它們"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些是"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "我說"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "我主"
+    }
+  ],
+  "timestamp": "2026-10-16T09:29:48.000200987Z",
+  "model": "glm-5.3"
+}

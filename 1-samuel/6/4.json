@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 6:4",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "首領",
+      "rationale": "סרן 是非利士政體特有的稱號（五城的首領），他處民族無此銜；中文以「首領」譯之。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "五個…五個",
+      "rationale": "供物按非利士五首領之數逐一計數，數字與物件一一對應。"
+    },
+    {
+      "kind": "crux",
+      "subject": "טחרים\/עפלי",
+      "rationale": "עפלי 字面為「腫瘤」（痔瘡），古代與現代譯本或作痔瘡、或作腫瘤，本譯保留「痔瘡」。"
+    }
+  ],
+  "translation": "他們說：「我們該給他獻回什麼賠罪祭呢？」他們說：「按非利士人首領的數目——五個金痔瘡和五個金老鼠，因為同一場瘟疫臨到你們眾人和你們的首領。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "53cb481dcbf63fcb3767efb73f11797f92619438c26a078ee4494b40951fe386",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/6\/1-4.1792130900572.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "他們說"
+    },
+    {
+      "surface": "מה",
+      "gloss": "什麼"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "賠罪祭"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "該"
+    },
+    {
+      "surface": "נשיב",
+      "gloss": "我們獻回"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給他"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "他們說"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "數目"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "首領的"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五個"
+    },
+    {
+      "surface": "עפלי",
+      "gloss": "金痔瘡"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "和五個"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "金老鼠"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מגפה",
+      "gloss": "瘟疫"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "同一場"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "臨到你們眾人"
+    },
+    {
+      "surface": "ולסרניכם",
+      "gloss": "和你們的首領"
+    }
+  ],
+  "timestamp": "2026-10-16T06:08:20.573419918Z",
+  "model": "glm-5.3"
+}

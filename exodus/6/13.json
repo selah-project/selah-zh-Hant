@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 6:13",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "要向",
+      "rationale": "中文需補出吩咐的方向，原文 אל 只作介詞"
+    },
+    {
+      "kind": "you",
+      "subject": "對摩西和亞倫",
+      "rationale": "雅威直接向摩西、亞倫二人說話"
+    }
+  ],
+  "translation": "雅威對摩西和亞倫說話，並吩咐他們⟨要向⟩以色列人和埃及王法老傳話，好把以色列人從埃及地領出來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7d3442048644eeb892b24e573783195b60a1484696562db572ce9236897be607",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/6\/13-16.1792125744104.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "說話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "和對"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "吩咐他們"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "和向"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "領出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列人"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "從…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    }
+  ],
+  "timestamp": "2026-10-16T04:42:24.105905619Z",
+  "model": "glm-5.3"
+}

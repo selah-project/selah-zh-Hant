@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עתק",
+      "rationale": "僅見於此，或作「傲慢（的話）」或指「硬頸」；和合本「 stiff neck頸項剛硬」、JPS「以傲頸說狂言」。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עתק",
+      "rationale": "本詞在塔納赫中僅此一見。"
+    }
+  ],
+  "translation": "不可將你們的角高舉向天，不可伸出頸項說傲慢的話。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d3288242dcc74fd52b1a4598606b68d0a2a108e24bca9cd89b2dfd78e5ae298c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/75\/5-8.1792144245490.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "高舉"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "向高處"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "你們的角"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "說話"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "以頸項"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "傲慢"
+    }
+  ],
+  "timestamp": "2026-10-16T09:50:45.491564587Z",
+  "model": "glm-5.3"
+}

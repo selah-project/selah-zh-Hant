@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 18:12",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "坡",
+      "rationale": "כתף 直譯是「肩」，指山肩般的坡地；中文以「坡」保留其地形畫面"
+    },
+    {
+      "kind": "substitution",
+      "subject": "向西",
+      "rationale": "ימה 直譯「向海」（往地中海方向），即西方；西向以「海」為方位基準"
+    },
+    {
+      "kind": "measurement",
+      "subject": "邊界描述",
+      "rationale": "典型的邊界測量清單：方位（北、西）、起點（約旦河）、途經（耶利哥坡、山地）、終點（伯‧亞文的曠野）"
+    }
+  ],
+  "translation": "他們北面的邊界從約旦河起：邊界上到耶利哥的坡，向北；又上到山地，向西；其出口直通伯‧亞文的曠野。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c493f1256becf9b47b1bac5392b48829ee90e32e90b20f353b802aba993a2c54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/18\/9-12.1792129824429.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "就有了"
+    },
+    {
+      "surface": "להם",
+      "gloss": "他們的"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "邊界"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "在……的一面"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "北"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦河"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "上到"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "邊界"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "坡（直譯：肩）"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "耶利哥"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "向北"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "又上到"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "山地"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "向西（直譯：向海）"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "而……是"
+    },
+    {
+      "surface": "תצאתיו",
+      "gloss": "其出口"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "直通曠野"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯"
+    },
+    {
+      "surface": "און",
+      "gloss": "亞文"
+    }
+  ],
+  "timestamp": "2026-10-16T05:50:24.430552143Z",
+  "model": "glm-5.3"
+}

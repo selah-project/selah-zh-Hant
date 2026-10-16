@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 14:6",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "它",
+      "rationale": "希伯來文分詞片語無主詞（承接上節的杖與棍），中文加「它」以成句"
+    },
+    {
+      "kind": "crux",
+      "subject": "מֻרְדָּף",
+      "rationale": "被動分詞「被追逼的」：KJV 讀作王自己被追逼、無人攔阻他；JPS 讀作王所施的追逼無人攔阻，本譯從後者"
+    }
+  ],
+  "translation": "它在烈怒中擊打萬民，施以不止息的擊打，在怒氣中轄制列國，施行無人攔阻的追逼。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "07c977385d7b59558e92bc3fbceea69f239d8635ff3966db3fe7ac4bd4ff2e5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/14\/5-8.1792134764192.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מַכֶּה",
+      "gloss": "擊打"
+    },
+    {
+      "surface": "עַמִּים",
+      "gloss": "萬民"
+    },
+    {
+      "surface": "בְּעֶבְרָה",
+      "gloss": "在烈怒中"
+    },
+    {
+      "surface": "מַכַּת",
+      "gloss": "擊打"
+    },
+    {
+      "surface": "בִּלְתִּי",
+      "gloss": "不止息的"
+    },
+    {
+      "surface": "סָרָה",
+      "gloss": "止息"
+    },
+    {
+      "surface": "רֹדֶה",
+      "gloss": "轄制"
+    },
+    {
+      "surface": "בְאַף",
+      "gloss": "在怒氣中"
+    },
+    {
+      "surface": "גּוֹיִם",
+      "gloss": "列國"
+    },
+    {
+      "surface": "מֻרְדָּף",
+      "gloss": "追逼"
+    },
+    {
+      "surface": "בְּלִי",
+      "gloss": "無"
+    },
+    {
+      "surface": "חָשָׂךְ",
+      "gloss": "攔阻"
+    }
+  ],
+  "timestamp": "2026-10-16T07:12:44.193503691Z",
+  "model": "glm-5.3"
+}

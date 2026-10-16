@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "就是先前……的她",
+      "rationale": "אחר שלוחיה 字面為「在她的打發之後」，中文需展開為子句"
+    },
+    {
+      "kind": "crux",
+      "subject": "打發回去",
+      "rationale": "שלוחיה 的字尾「她的」指誰送誰：傳統讀法是摩西送走西坡拉，也有讀作她自行離去"
+    }
+  ],
+  "translation": "摩西的岳父葉忒羅，把摩西的妻子西坡拉接了來，就是先前被打發回去的 ⟨את⟩ 她。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6b2b63caea2c4cca536ce84d213522d4927cb924df5877fce5d6622f95b2e860",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/18\/1-4.1792126091237.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "接了來"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "葉忒羅"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "岳父"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "西坡拉"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "西坡拉"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "妻子"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西的"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "在……之後"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "被打發回去的她"
+    }
+  ],
+  "timestamp": "2026-10-16T04:48:11.238644056Z",
+  "model": "glm-5.3"
+}

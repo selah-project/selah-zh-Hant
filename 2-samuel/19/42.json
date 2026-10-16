@@ -1,0 +1,146 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 19:42",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "偷偷把你帶走",
+      "rationale": "גנבוך 直譯「偷走了你」，即瞞著以色列眾人擅自接走"
+    },
+    {
+      "kind": "idiom",
+      "subject": "送過約旦河",
+      "rationale": "「渡過 את 約旦河」中 את 標記河為渡越之對象，中文以「送過……河」表達"
+    },
+    {
+      "kind": "you",
+      "subject": "對王說",
+      "rationale": "以色列眾人直接向大衛王發問"
+    }
+  ],
+  "translation": "看哪，以色列眾人來到王那裡，對王說：「我們的弟兄猶大人為何偷偷把你帶走，把 ⟨את⟩ 王和 ⟨את⟩ 他的家送過 ⟨את⟩ 約旦河，大衛的眾人也與他同在呢？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8eeeebf7c52fdde794f3ee6d0727abcca165f7c151c28e8b59c96e9a371234e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/19\/41-44.1792132296719.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "כל",
+      "gloss": "眾"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "באים",
+      "gloss": "來到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到……那裡"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "說"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "為何"
+    },
+    {
+      "surface": "גנבוך",
+      "gloss": "偷偷把你帶走"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "我們的弟兄"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "送過"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "他的家"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "他的家"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約旦河"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦河"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "眾"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "人"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "與他同在"
+    }
+  ],
+  "timestamp": "2026-10-16T06:31:36.720391408Z",
+  "model": "glm-5.3"
+}

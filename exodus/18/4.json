@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אליעזר\/אלהי…בעזרי",
+      "rationale": "以利以謝（Eliezer）意為「我的以羅欣是幫助」，名字與引言的字面互相呼應"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文補出「是」"
+    }
+  ],
+  "translation": "另一個名叫以利以謝，因為他說：「我父親的以羅欣是我的幫助，他救我脫離了法老的刀。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6b2b63caea2c4cca536ce84d213522d4927cb924df5877fce5d6622f95b2e860",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/18\/1-4.1792126091237.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "名叫"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "另一個"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "以利以謝"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我父親的"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "是我的幫助"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "他救了我"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "脫離……的刀"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    }
+  ],
+  "timestamp": "2026-10-16T04:48:11.238951732Z",
+  "model": "glm-5.3"
+}

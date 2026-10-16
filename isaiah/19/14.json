@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "התעו／התעות",
+      "rationale": "13節「引……走偏」與本節「東倒西歪」同一字根，醉酒的意象貫穿。"
+    },
+    {
+      "kind": "crux",
+      "subject": "רוח",
+      "rationale": "魯阿可作「靈」或「風」；JPS作「暈眩之靈」，欽定本作「乖謬的靈」。"
+    }
+  ],
+  "translation": "雅威在她中間攙混了歪曲的魯阿（靈），他們就使 ⟨את⟩ 埃及在她一切所行的事上走偏，如同醉酒的人在嘔吐物中東倒西歪。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5fabc8087edf6a27b3969907c2c408d1bd9b295faadc7a1a922b88b08a633a4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/19\/13-16.1792134861234.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "攙混了"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "在她中間"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "魯阿（靈）"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "歪曲的"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "他們就使……走偏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "埃及"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "在她一切"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "所行的事上"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "如同……東倒西歪"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "醉酒的人"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "在嘔吐物中"
+    }
+  ],
+  "timestamp": "2026-10-16T07:14:21.235001901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "無殘疾",
+      "rationale": "תמים 字面是「完全、完整」，譯作「無殘疾」是禮儀語境的慣用理解"
+    },
+    {
+      "kind": "addition",
+      "subject": "בן שנה",
+      "rationale": "「一歲的」：希伯來文直譯「一年之子」，中文以「歲」濃縮"
+    }
+  ],
+  "translation": "羊羔要無殘疾，是公的，一歲的，歸你們所有；你們要從綿羊裏或從山羊裏取。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "31d3c46c1a9004d30ec02c9d2ed1e5d8d5878316f9d497d064ecd750daeea695",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/12\/5-8.1792125902394.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "羊羔"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "無殘疾"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "公的"
+    },
+    {
+      "surface": "בן",
+      "gloss": "一歲的"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "要"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "歸你們所有"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "綿羊裏"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "或從"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "山羊裏"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "你們要取"
+    }
+  ],
+  "timestamp": "2026-10-16T04:45:02.395566497Z",
+  "model": "glm-5.3"
+}

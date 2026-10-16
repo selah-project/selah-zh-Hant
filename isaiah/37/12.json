@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "嗎",
+      "rationale": "ההצילו的疑問語氣由字形承載，中文需語氣詞"
+    },
+    {
+      "kind": "substitution",
+      "subject": "神明",
+      "rationale": "異教諸神語境，依紀律用「神明」而非以羅欣"
+    }
+  ],
+  "translation": "我列祖所毀滅的各國的神明，曾救過⟨את⟩他們嗎——⟨את⟩ 歌散、⟨את⟩ 哈蘭、利色、和在提勒拉撒的伊甸之子？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "58a2d0b98f488fcc482ba781196e6d88a694931f50e6ace27ff4aa848dfffddb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/37\/9-12.1792135253056.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "曾救過嗎"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩他們",
+      "marks": "他們"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "神明"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "各國的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨那⟩"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "所毀滅的"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "我列祖"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "歌散"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "歌散"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "和⟨את⟩",
+      "marks": "哈蘭"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "哈蘭"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "和利色"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "和……之子"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "伊甸"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨那⟩"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "在提勒拉撒"
+    }
+  ],
+  "timestamp": "2026-10-16T07:20:53.057785549Z",
+  "model": "glm-5.3"
+}

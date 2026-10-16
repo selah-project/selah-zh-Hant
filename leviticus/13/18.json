@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בערו",
+      "rationale": "字面為「在它的皮中」，指瘡生在肉的皮膚上，譯作「在皮肉上」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "痊癒",
+      "rationale": "נרפא 字面是「被縫補、修復」，引申為醫治痊癒。"
+    }
+  ],
+  "translation": "人若在皮肉上生了瘡，並且瘡已痊癒，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c665129c6aeaa9a3b860aa251de1384f78dc272012315e2c1f032831b3f63406",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/13\/17-20.1792126976617.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "生了"
+    },
+    {
+      "surface": "בו",
+      "gloss": "在其中"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "在它的皮上"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "瘡"
+    },
+    {
+      "surface": "ונרפא",
+      "gloss": "並且痊癒了"
+    }
+  ],
+  "timestamp": "2026-10-16T05:02:56.618352049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 31:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אובד",
+      "rationale": "「毁壞的器皿」——KJV 譯 broken，字面是「滅亡的、失喪的」， wandering-away\/perishing 的畫面在譯文中略失"
+    },
+    {
+      "kind": "crux",
+      "subject": "אובד",
+      "rationale": "broken (KJV\/ASV) vs perishing (YLT) vs useless (JPS)：毁壞／滅亡／無用三讀"
+    }
+  ],
+  "translation": "我被忘記，如同死人離開人心；我成了像毁壞的器皿。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "69a7a776067940c6d8c11359738eef81aac1f5e14588a2392c6139c92624bb75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/31\/13-16.1792143561413.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשכחתי",
+      "gloss": "我被忘記"
+    },
+    {
+      "surface": "כמת",
+      "gloss": "如同死人"
+    },
+    {
+      "surface": "מלב",
+      "gloss": "離開心"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "我成了"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "像器皿"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "毁壞的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:39:21.414084567Z",
+  "model": "glm-5.3"
+}

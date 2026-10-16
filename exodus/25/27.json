@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "作穿槓之處",
+      "rationale": "לְבָתִּים 字面為「作房屋」，即環為槓的「居所」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "要",
+      "rationale": "希伯來文動詞 תִּהְיֶיןָ（她們將是）含未來／命令之意，中文以「要」表明。"
+    }
+  ],
+  "translation": "環要緊挨著邊框，作穿槓之處，用以抬 ⟨את⟩ 桌子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ea5e9a797728651f6df21bd05726f5741bc56229b5afe779990134120dc5ef48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/25\/25-28.1792126221181.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "緊挨著"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "邊框"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "要"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "環"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "作穿槓之處"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "槓"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "用以抬"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "桌子"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "桌子"
+    }
+  ],
+  "timestamp": "2026-10-16T04:50:21.182266022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 19:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "呢",
+      "rationale": "中文語氣詞，希伯來文疑問詞 מי 已含問意"
+    },
+    {
+      "kind": "you",
+      "subject": "詩人向雅威祈求",
+      "rationale": "נקני 是祈使式，直接向神說話"
+    },
+    {
+      "kind": "secret",
+      "subject": "隱藏的事",
+      "rationale": "מנסתרות 指詩人自己不自知的隱藏過錯"
+    }
+  ],
+  "translation": "過犯，誰能明白呢？從隱藏的事上使我潔淨。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ab223a6635e9dbb49aa4a0363b93f0cc301ce685932b0143bda6c6fac7b8865e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/19\/13-15.1792143404482.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שְׁגִיאוֹת",
+      "gloss": "過犯"
+    },
+    {
+      "surface": "מִי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "יָבִין",
+      "gloss": "明白"
+    },
+    {
+      "surface": "מִנִּסְתָּרוֹת",
+      "gloss": "從隱藏的事上"
+    },
+    {
+      "surface": "נַקֵּנִי",
+      "gloss": "使我潔淨"
+    }
+  ],
+  "timestamp": "2026-10-16T09:36:44.483221042Z",
+  "model": "glm-5.3"
+}

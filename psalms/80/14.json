@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זיז",
+      "rationale": "字義為「豐滿／活動之物」；譯作「走獸」（如 jps）或「野獸」（如 kjv）皆有根據。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יכרסמנה\/ירענה",
+      "rationale": "兩個動詞皆帶尾綴־נה（「她」），延續葡萄樹的陰性意象；中文以「她」保留。"
+    }
+  ],
+  "translation": "林中的野豬啃噬她，田野的走獸牧放她。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "305be8c6480c8a9520b2ab6947204039b1c90193a757246ccd25c88ae28f7240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/80\/13-16.1792144353077.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "啃噬她"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "野豬"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "林中"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "走獸"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "田野"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "牧放她"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:33.078257299Z",
+  "model": "glm-5.3"
+}

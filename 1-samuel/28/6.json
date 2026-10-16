@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גם…גם…גם",
+      "rationale": "三重「也」的排比（夢、烏陵、先知），三條啟示之路逐一關閉；中文以「不藉…不藉…也不藉」再現其節奏"
+    },
+    {
+      "kind": "secret",
+      "subject": "雅威的沉默",
+      "rationale": "三重媒介全部靜默，為掃羅轉向交鬼者（28:7）埋下敘事根基"
+    },
+    {
+      "kind": "elision",
+      "subject": "גם",
+      "gloss_note": "",
+      "rationale": "原文的גם是副詞「也」，中文以連詞式重複「不藉…也不藉」承載其排比功能"
+    }
+  ],
+  "translation": "掃羅求問雅威，雅威卻不回答他——不藉夢，不藉烏陵，也不藉先知。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "93e13a5bc7758e50f368d55c5fe0ecf8fa3d9ee9af084a736af4b4234a53a784",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/28\/5-8.1792131562402.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "求問"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "卻不"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "回答他"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "גם",
+      "gloss": "不藉"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "夢"
+    },
+    {
+      "surface": "גם",
+      "gloss": "不藉"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "烏陵"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也不藉"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "先知"
+    }
+  ],
+  "timestamp": "2026-10-16T06:19:22.403756922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתנו",
+      "rationale": "此處 את 是介詞「與、向」（H854，יאר...את＝光照於我們），非受詞記號 H853；仍按規保留 ⟨את⟩ 記號"
+    },
+    {
+      "kind": "substitution",
+      "subject": "細拉",
+      "rationale": "סלה 為音樂休止記號，音譯作「細拉」，不譯義"
+    }
+  ],
+  "translation": "以羅欣（神）啊，願你恩待我們，賜福給我們，願他的臉光照 ⟨את⟩ 我們。細拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "426b092bbfdc0991ec6ddd2553c2ebf2dfd087738bc4fd17f96d02557a0d329f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/67\/2-3.1792149890587.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "恩待我們"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "賜福給我們"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "光照"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "他的臉"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "我們"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-10-16T11:24:50.587777994Z",
+  "model": "glm-5.3"
+}

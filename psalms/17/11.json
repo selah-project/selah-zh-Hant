@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סבבוני",
+      "rationale": "動詞尾是「我」（單數）而首詞是「我們的腳步」（複數）——楊氏直譯作「我們的腳步包圍了他」；多數本隨單數「圍困我」"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨我⟩們",
+      "rationale": "希伯來文在單複數之間擺盪，中文須補人稱以成句"
+    }
+  ],
+  "translation": "如今他們在⟨我⟩們的腳步中圍困我⟨們⟩；他們的眼目注視，要把⟨我⟩們推倒在地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1051d1864eb3c2253e73aeb6880d5cfcb51971bf845197d87d89482d38a35f2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/17\/9-12.1792143316889.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "⟨我⟩們的腳步"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "如今"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "圍困我"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "他們的眼目"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "注視／擺定"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "要推倒"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在地"
+    }
+  ],
+  "timestamp": "2026-10-16T09:35:16.891132274Z",
+  "model": "glm-5.3"
+}

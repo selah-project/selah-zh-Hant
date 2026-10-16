@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "jeremiah 52:34",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "מן+את 的合併形，既是指定記號又帶「從」義，以 ⟨את⟩（從）標記"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דבר יום ביומו",
+      "rationale": "直譯「一日的事在它的日子」；成語式說法指每日固定的份，譯作「每日一份，日日如此」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וארחתו ארחת תמיד",
+      "rationale": "אֲרֻחָה 一詞連續重複，強調定量的口糧；中文以重複「食物」保留節奏"
+    },
+    {
+      "kind": "measurement",
+      "subject": "עד יום מותו כל ימי חייו",
+      "rationale": "以日子計量供給的期限——直到死日、終身所有日子"
+    }
+  ],
+  "translation": "他的食物、不斷的食物，是巴比倫王 ⟨את⟩ 日日賜給他的，每日一份，直到他死的日子，他一生的所有日子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7f6a980131cf58a20df85adb4539a14dfb1279a8f002076b6624c5a4b7689fc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/52\/33-34.1792137756169.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "他的食物份"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "食物份"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "不斷的"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "賜給"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩（從）",
+      "marks": "巴比倫王"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "一份"
+    },
+    {
+      "surface": "יום",
+      "gloss": "每日"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "在他的日子"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日子"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "他的死"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日子"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "他的一生"
+    }
+  ],
+  "timestamp": "2026-10-16T08:02:36.169953587Z",
+  "model": "glm-5.3"
+}

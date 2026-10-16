@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "סחף",
+      "rationale": "字義為「刮除、沖走」，譯作「沖刷的暴雨」以存其意象"
+    },
+    {
+      "kind": "crux",
+      "subject": "גבר רש",
+      "rationale": "「窮乏人」欺壓窮人，或讀作「如窮乏人一般的暴風雨」；諸譯本處理不一"
+    }
+  ],
+  "translation": "窮乏人欺壓貧弱人，就像沖刷的暴雨，使糧食盡無。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a49d9b8dd375166ba991265ed90be0df1b9dd7933bae2fe48159e16a03f3a74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/28\/1-4.1792145701451.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "人"
+    },
+    {
+      "surface": "רש",
+      "gloss": "窮乏"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "欺壓"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "貧弱人"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "暴雨"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "沖刷的"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "盡無"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "糧食"
+    }
+  ],
+  "timestamp": "2026-10-16T10:15:01.452112548Z",
+  "model": "glm-5.3"
+}

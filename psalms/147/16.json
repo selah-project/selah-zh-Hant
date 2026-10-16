@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "分詞主語由上文（雅威）補出"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "雪如羊毛、霜如灰燼",
+      "rationale": "白與白的意象對照：潔白如羊毛對灰白如灰燼，中文保留兩個明喻"
+    }
+  ],
+  "translation": "他降雪如羊毛，撒霜如灰燼。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "aefde5ace56cc26ce7c9fa31fcee9847094d4270bb48c85742065604024d4606",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/147\/13-16.1792145139015.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "他降下"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "雪"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "如羊毛"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "霜"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "如灰燼"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "撒"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:39.016722697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לרבעה",
+      "rationale": "רבע 本義「伏臥、趴下」，特指交配姿勢；譯「交合」失去動物伏臥的具體意象"
+    },
+    {
+      "kind": "addition",
+      "subject": "牠",
+      "rationale": "אתה（此處為前置受詞「牠」）以 ⟨את⟩ 牠 標記，原文的受詞記號連於牲畜"
+    },
+    {
+      "kind": "you",
+      "subject": "你",
+      "rationale": "והרגת 是單數「你要殺」，直接命令那負責的人"
+    }
+  ],
+  "translation": "若有女人親近任何牲畜，要與牠交合，你就要殺 ⟨את⟩ 那女人和 ⟨את⟩ 那牲畜；他們必被處死，他們的血必歸在他們身上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fe2e779e9253bccdc3924a71ac6631b21e796827476e04921208cd48d889ae7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/20\/13-16.1792127213788.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "若有女人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "凡…的"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "親近"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "כל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "要與牠交合"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ 牠"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "你就要殺"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那女人"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "那女人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "那牲畜"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "那牲畜"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "必被處死"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "他們的血"
+    },
+    {
+      "surface": "בם",
+      "gloss": "歸在他們身上"
+    }
+  ],
+  "timestamp": "2026-10-16T05:06:53.789570638Z",
+  "model": "glm-5.3"
+}

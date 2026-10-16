@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפיל",
+      "rationale": "直譯「晚熟的」，譯作「還未成熟」以貼近農時語境"
+    },
+    {
+      "kind": "alternative",
+      "subject": "和合本「粗麥」",
+      "rationale": "כסמת一般認定為斯佩爾特小麥，本譯採農學通名"
+    }
+  ],
+  "translation": "只是小麥和斯佩爾特小麥沒有被擊打，因為它們還未成熟。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9d9cb39a020eb3639644816e5a1bf636d888db99f0235e15b7c9f8f63d613f7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/9\/29-32.1792125829102.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "只是小麥"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "和斯佩爾特小麥"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "被擊打"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "還未成熟"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "它們"
+    }
+  ],
+  "timestamp": "2026-10-16T04:43:49.104012995Z",
+  "model": "glm-5.3"
+}

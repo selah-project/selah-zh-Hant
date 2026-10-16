@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 6:20",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יזה……יזה",
+      "rationale": "「濺」字重複，血濺與濺處呼應，中文保留重複。"
+    },
+    {
+      "kind": "crux",
+      "subject": "יקדש",
+      "rationale": "「必成為聖」或譯「必被治死」（參出 29:37；30:29 之爭議）：凡觸聖物者即歸為聖。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "בבשרה",
+      "gloss": "",
+      "rationale": "בְּשָׂרָהּ 帶代詞後綴的形式在塔納赫中僅見於此。"
+    }
+  ],
+  "translation": "凡摸 ⟨את⟩ 這祭肉的必成為聖；若有它的血濺在衣服上，凡濺上的那件，你要在聖處洗淨。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "578d0f5ca20aa9595556b011070dcf61b41274c7f3804bf9d7f124fd9c0aaab2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/6\/17-20.1792126724690.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "摸"
+    },
+    {
+      "surface": "בבשרה",
+      "gloss": "它的肉"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "必成為聖"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "而凡……的"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "濺"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "它的血"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "衣服"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "濺上"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "在其上"
+    },
+    {
+      "surface": "תכבס",
+      "gloss": "你要洗淨"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "在……地方"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    }
+  ],
+  "timestamp": "2026-10-16T04:58:44.691270725Z",
+  "model": "glm-5.3"
+}

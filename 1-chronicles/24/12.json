@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "排序",
+      "rationale": "祭司班次名單續"
+    },
+    {
+      "kind": "idiom",
+      "subject": "עשתי עשר \/ שנים עשר",
+      "rationale": "希伯來文以「十＋十」「二＋十」複合表十一與十二，中文以單一數詞譯出"
+    }
+  ],
+  "translation": "第十一是以利亞實，第十二是雅金。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cf6b479101c8538d267d20bf86a07e4afe4374bacfe6a98ecdf56317b7f7c999",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/24\/9-12.1792148939874.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "以利亞實"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "十一"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(一)＋十"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "雅金"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "十二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(二)＋十"
+    }
+  ],
+  "timestamp": "2026-10-16T11:08:59.875185368Z",
+  "model": "glm-5.3"
+}

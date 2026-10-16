@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-kings 17:40",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "否定後接כי אם表「反而、仍舊」，直譯「乃是」會生硬"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "語氣詞組合併入「反而」一詞，未逐字譯出"
+    }
+  ],
+  "translation": "然而他們不聽從，仍照他們先前的規矩去行。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e1f0d0896f67be67ab4c4bea895a697e8112a2b9ef3580a9efd9aba7d6f0423c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/17\/37-40.1792134034426.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "然而……不"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "聽從"
+    },
+    {
+      "surface": "כי",
+      "gloss": "反而"
+    },
+    {
+      "surface": "אם",
+      "gloss": "（加強語氣）"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "照他們的規矩"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "先前的"
+    },
+    {
+      "surface": "הם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "去行"
+    }
+  ],
+  "timestamp": "2026-10-16T07:00:34.427894430Z",
+  "model": "glm-5.3"
+}

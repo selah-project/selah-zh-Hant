@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "向阿多奈",
+      "rationale": "詩人直接向阿多奈呼求，以「我的拯救」作稱呼。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תשועתי",
+      "rationale": "「我的拯救」為名詞作同位語稱呼，非「救主」（人格化角色）。"
+    }
+  ],
+  "translation": "阿多奈——我的拯救啊，求你快快來幫助我！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7fb400aef81bc22c72e283607a943b1b6969a3f8c97b1d199aef722d00c54b1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/38\/21-23.1792143683300.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "求你快快"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "來幫助我"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "我的拯救"
+    }
+  ],
+  "timestamp": "2026-10-16T09:41:23.303837951Z",
+  "model": "glm-5.3"
+}

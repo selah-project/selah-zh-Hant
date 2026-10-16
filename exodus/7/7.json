@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 7:7",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "八十歲",
+      "rationale": "希伯來文直譯為「八十年的兒子」（בן שנה），中文以年歲表達"
+    },
+    {
+      "kind": "measurement",
+      "subject": "八十\/八十三",
+      "rationale": "年齡記載：摩西與亞倫向法老說話時的歲數"
+    }
+  ],
+  "translation": "摩西八十歲，亞倫八十三歲，當他們向法老說話的時候。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a56b00862ee25365d28a59932fcb28df1030eb55df348801226a9d293a15abb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/7\/5-8.1792125745544.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "而摩西"
+    },
+    {
+      "surface": "בן",
+      "gloss": "……歲"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "八十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲（年）"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "而亞倫"
+    },
+    {
+      "surface": "בן",
+      "gloss": "……歲"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "和八十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲（年）"
+    },
+    {
+      "surface": "בדברם",
+      "gloss": "當他們說話"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    }
+  ],
+  "timestamp": "2026-10-16T04:42:25.546362839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 12:5",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "全節結構",
+      "rationale": "各譯本對詞組分合歧異：KJV「腳將滑跌者如被藐視的燈」，ASV\/JPS「安逸者藐視災禍」；לפיד（火把）與בוז（藐視）的句法關係是著名難題。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "לעשתות",
+      "rationale": "僅在此處出現，義為「思緒、盤算」，譯本或作「思想」或作「富足人的看法」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שאנן",
+      "gloss-context": "",
+      "rationale": "שאנן兼有「安穩」與負面的「安逸自滿」二義，此處貶義，譯「安逸者」存其譏諷。"
+    }
+  ],
+  "translation": "在安逸者的思緒裡，火把遭人藐視；它已為腳步搖晃的人立定。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ab3fe6ce5d017790bb3156c419c36a41f696271f0388e72caa4113038210daa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/12\/5-8.1792145965213.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפיד",
+      "gloss": "火把"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "遭人藐視"
+    },
+    {
+      "surface": "לעשתות",
+      "gloss": "思緒裡"
+    },
+    {
+      "surface": "שאנן",
+      "gloss": "安逸者的"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "立定"
+    },
+    {
+      "surface": "למועדי",
+      "gloss": "搖晃者的"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "腳步"
+    }
+  ],
+  "timestamp": "2026-10-16T10:19:25.214205499Z",
+  "model": "glm-5.3"
+}

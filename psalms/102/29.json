@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "後裔",
+      "rationale": "זרע字面是「種子」，此處指後代子孫。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "必安居",
+      "rationale": "ישכונו字面是「居住／長住」，和合本作「居住」，JPS作「安居」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישכונו\/יכון",
+      "rationale": "兩個動詞同押 -ון 韻（שׁכן／כּון），中文失去音韻對應。"
+    }
+  ],
+  "translation": "你僕人的眾子必安居，他們的後裔必在你面前立定。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9cb45dcb820de041580605a98ed6df3a10230c4d2b6be495f1ed3b85e9e14e4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/102\/29-29.1792144543259.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "眾子"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "你僕人的"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "必安居"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "他們的後裔"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "在你面前"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "必立定"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:43.259692886Z",
+  "model": "glm-5.3"
+}

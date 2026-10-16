@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "מנבלת׾的「一部分」",
+      "rationale": "מִן 表示屍體中的一部分，中文明示範圍"
+    }
+  ],
+  "translation": "凡拾取牠們屍體一部分的，要洗〈他的〉衣服，並且不潔淨直到晚上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "55337d5d672178627bbf251ffd4e73c156ebca57bf3650e8c75eddad0a680521",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/11\/25-28.1792126870880.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "拾取"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "牠們屍體的一部分"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "要洗"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "他的衣服"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "並且不潔淨"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "晚上"
+    }
+  ],
+  "timestamp": "2026-10-16T05:01:10.881000706Z",
+  "model": "glm-5.3"
+}

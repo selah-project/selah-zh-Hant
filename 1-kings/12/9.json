@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 12:9",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "引語記號 לאמר 在中文引號體系中無對應詞，由「說」與引號承擔。"
+    },
+    {
+      "kind": "addition",
+      "subject": "好叫",
+      "rationale": "中文需連接詞表明目的關係，希伯來文以連續式直接並列。"
+    }
+  ],
+  "translation": "他對他們說：「你們出甚麼主意，好叫我們回覆這 ⟨את⟩ 民——他們曾對我說：『你父親加在我們身上的軛，求你減輕些。』」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b1147edd681aa68169446b16a1dd638547de3d893f770010015e9fc1cdfd048d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/12\/9-12.1792132977852.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "對他們"
+    },
+    {
+      "surface": "מה",
+      "gloss": "甚麼"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "出主意"
+    },
+    {
+      "surface": "ונשיב",
+      "gloss": "好叫我們回覆"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "他們"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "曾說"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "減輕"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "העל",
+      "gloss": "軛"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "加"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你父親"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "在我們身上"
+    }
+  ],
+  "timestamp": "2026-10-16T06:42:57.853611954Z",
+  "model": "glm-5.3"
+}

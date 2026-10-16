@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "爬行",
+      "rationale": "רמש指滑行、小步移動——爬蟲與獸類的移動方式，非僅「行走」"
+    },
+    {
+      "kind": "you",
+      "subject": "你",
+      "rationale": "詩 104 通篇向雅威說話；此節的「你安置」是對神的直接稱呼"
+    }
+  ],
+  "translation": "你安置黑暗，它就成了夜；林中一切的活物在其中爬行。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4906a052b5537e6a05aaea946159345b7b9ba26f4c52b35185186f363c706637",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/104\/17-20.1792144603750.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "你安置"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "黑暗"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "它就成了"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "בו",
+      "gloss": "在其中"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "爬行"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "活物"
+    },
+    {
+      "surface": "יער",
+      "gloss": "林中"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:43.751089368Z",
+  "model": "glm-5.3"
+}

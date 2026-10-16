@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "糧食",
+      "rationale": "希伯來文未明說所換之物，僅言『以你們的牲畜給你們』；JPS補bread，中文補糧食以足句意"
+    },
+    {
+      "kind": "you",
+      "subject": "對埃及人",
+      "rationale": "約瑟直接回答埃及眾人的求糧，命令式『交出來』為對話之答"
+    }
+  ],
+  "translation": "約瑟說：「把你們的牲畜交出來，既然銀子已經用盡，我就以你們的牲畜〈換〉糧食給你們。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a51b62e2f7bc8211133233ec5d47505da490841aeaa2a1103317798e61db0390",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/47\/13-16.1792125597362.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "交出來"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "你們的牲畜"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "我就給"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "以你們的牲畜"
+    },
+    {
+      "surface": "אם",
+      "gloss": "既然"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "用盡"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀子"
+    }
+  ],
+  "timestamp": "2026-10-16T04:39:57.363418674Z",
+  "model": "glm-5.3"
+}

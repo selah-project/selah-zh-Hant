@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他們",
+      "rationale": "中文需要受詞「他們」而希伯來文以詞尾隱含"
+    },
+    {
+      "kind": "substitution",
+      "subject": "掩沒",
+      "rationale": "כסה 本義為「遮蓋」，諸譯本作「淹沒」；此處取「掩沒」保留遮蓋的畫面"
+    }
+  ],
+  "translation": "他引領他們安然前行，他們毫不懼怕；海掩沒了 ⟨את⟩ 他們的仇敵。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "235876a10c4c3a9ff0cc8b9400f0d479064f1e0007418d04a57222ffebbf93aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/78\/53-56.1792144322317.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "他引領"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "安然"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "他們不"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "懼怕"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "他們的仇敵"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "他們的仇敵"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "掩沒了"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:02.318560607Z",
+  "model": "glm-5.3"
+}

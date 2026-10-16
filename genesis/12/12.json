@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Sarai",
+      "rationale": "亞伯蘭對撒萊陳述將臨之事，預告下節的請求"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אתי ואתך יחיו",
+      "rationale": "語序倒裝：殺我／你他們卻留活——對比聚焦於「你」，中文以「卻讓你活著」保留語序重心"
+    }
+  ],
+  "translation": "埃及人看見 ⟨את⟩ 你的時候，必說：『這是他的妻子。』他們就要殺 ⟨את⟩ 我，卻讓 ⟨את⟩ 你活著。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "596020d65f7a38f423404b9cf007f7e5e44b919d107830cf17094fec29cbb118",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/12\/9-12.1792124719147.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "必發生"
+    },
+    {
+      "surface": "כי",
+      "gloss": "當"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "看見"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "你"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "埃及人"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "必說"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "他的妻子"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這是"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "殺"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "我"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩",
+      "marks": "你"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "讓…活著"
+    }
+  ],
+  "timestamp": "2026-10-16T04:25:19.148626777Z",
+  "model": "glm-5.3"
+}

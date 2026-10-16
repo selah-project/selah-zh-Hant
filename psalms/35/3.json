@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וסגר",
+      "rationale": "「封住／關閉」迎擊之路（KJV「stop the way」）對 JPS「戰斧」（改讀）；此處取「封路」原義。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש是氣息、生命之我，非不朽靈魂；譯「性命」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "語序倒裝",
+      "rationale": "「你的拯救——我」把אני置尾以示強調，中文以「我是你的拯救」自然語序。"
+    }
+  ],
+  "translation": "求你抽出槍、封住〈路〉迎擊追趕我的人；對我的性命說：「我是你的拯救。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9e54e0c61676270b7f5d6b5458d264a714ab9888762ce540cc682511ab34a194",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/35\/1-4.1792143619454.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "求你抽出"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "槍"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "封住"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "迎擊"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "追趕我的人"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "對我的性命"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "你的拯救"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    }
+  ],
+  "timestamp": "2026-10-16T09:40:19.455666927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文需補"
+    }
+  ],
+  "translation": "他──雅威──是我們的以羅欣；他的判語遍滿全地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f9375e1b687a7059db0197c0fb73fffc6371e415f950beb4ed1390fbe2cc10b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/105\/5-8.1792144606573.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "我們的以羅欣"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "遍滿"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "全地"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "他的判語"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:46.573961073Z",
+  "model": "glm-5.3"
+}

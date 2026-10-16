@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文需要「是」並加⟨那⟩指明"
+    },
+    {
+      "kind": "crux",
+      "subject": "ולא אנחנו",
+      "rationale": "古譯本或讀「我們屬他自己」，馬所拉文本作「並非我們自己（造的）」"
+    },
+    {
+      "kind": "invitation",
+      "subject": "你們",
+      "rationale": "「要知道」命令式，直接召喚會眾認識"
+    }
+  ],
+  "translation": "你們要知道：雅威是⟨那⟩以羅欣；是他造了我們，我們並非自己而有；我們是他的子民，是他牧場上的羊群。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "35d5e1f7dad9795984e0e28cdd4f74ce6799c74303717d8415c0327079276727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/100\/1-4.1792144607535.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "要知道"
+    },
+    {
+      "surface": "כי",
+      "gloss": "："
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "是"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "是他"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "造了我們"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "並非"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "我們自己"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "他的子民"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "他牧場上的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:47.536560151Z",
+  "model": "glm-5.3"
+}

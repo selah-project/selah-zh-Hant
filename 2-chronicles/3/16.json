@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 3:16",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "一百個石榴",
+      "rationale": "具體數目的工藝記述，屬聖殿建造清單"
+    },
+    {
+      "kind": "crux",
+      "subject": "בַּדְּבִיר",
+      "rationale": "「在內殿」——KJV 作 'as in the oracle'（如內殿中那樣），JPS 作 'in the Sanctuary'，字面是在內殿（דְּבִיר）裡"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דביר",
+      "gloss": "דְּבִיר 指至聖所（內殿），譯作「內殿」"
+    }
+  ],
+  "translation": "他在內殿造了鏈子，安在柱頂上；又造了一百個石榴，安在鏈子上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "197a17b7b4f6dfa549c9bf5d0ec78f6e5bda37efc77cecb52e4d1c6e0946c265",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/3\/13-16.1792149140621.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "造了"
+    },
+    {
+      "surface": "שרשרות",
+      "gloss": "鏈子"
+    },
+    {
+      "surface": "בדביר",
+      "gloss": "在內殿"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "安在"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頂"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "柱子"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "造了"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "石榴"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "一百個"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "安在"
+    },
+    {
+      "surface": "בשרשרות",
+      "gloss": "鏈子上"
+    }
+  ],
+  "timestamp": "2026-10-16T11:12:20.622333768Z",
+  "model": "glm-5.3"
+}

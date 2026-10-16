@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 37:23",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "〈是〉向以色列的聖者",
+      "rationale": "希伯來文以אל短語作答語，中文補「是」以成感歎答句"
+    },
+    {
+      "kind": "you",
+      "subject": "向亞述王西拿基立",
+      "rationale": "一連串質問直接指向西拿基立"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "四個問句排比",
+      "rationale": "מי重複兩次、動詞「高抬／舉起」平行，中文保留問句排比"
+    }
+  ],
+  "translation": "你辱罵了誰、褻瀆了誰？你向誰高抬聲音、向高處舉起你的眼睛？〈是〉向以色列的聖者！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f8f297290b9e9191202dd13d6019d168b19d9429db186b525a754d86478de090",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/37\/21-24.1792135336042.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "誰（辱罵的對象）"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "辱罵"
+    },
+    {
+      "surface": "וגדפת",
+      "gloss": "褻瀆"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "向"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "הרימותה",
+      "gloss": "高抬"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲音"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "舉起"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "高處"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "你的眼睛"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖者"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T07:22:16.043306224Z",
+  "model": "glm-5.3"
+}

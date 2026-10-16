@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חטאתי ליהוה",
+      "rationale": "字面「我向雅威犯了罪」，中文用「得罪」為自然說法"
+    },
+    {
+      "kind": "you",
+      "subject": "法老對摩西和亞倫說話",
+      "rationale": "法老直接向摩西、亞倫認罪，並稱雅威為「你們的以羅欣」"
+    }
+  ],
+  "translation": "法老急忙召了摩西和亞倫來，說：「我得罪了雅威——你們的以羅欣，也得罪了你們。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "47566f15c7f90355fe94e5101cacfceb4db6b43ec8f1c5f2fe6e9d5cb34cb414",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/10\/13-16.1792125869027.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "急忙"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "召……來"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "和亞倫"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "我得罪了"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向著雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "你們的以羅欣"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "也得罪了你們"
+    }
+  ],
+  "timestamp": "2026-10-16T04:44:29.029630087Z",
+  "model": "glm-5.3"
+}

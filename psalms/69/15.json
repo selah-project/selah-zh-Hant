@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נצל 重複",
+      "rationale": "同一動詞「拯救」兩次出現（הצילני／אנצלה），加強懇求的節奏"
+    },
+    {
+      "kind": "idiom",
+      "subject": "深水之處",
+      "rationale": "深水在詩篇中常為死亡危難的意象"
+    }
+  ],
+  "translation": "求你拯救我脫離淤泥，免得我沉沒；求你救我脫離恨我的人，脫離深水之處。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ba94b86115eba1c3a53bde85465d91398e1223c4ebad916cbcb3299ec96b2de4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/69\/14-15.1792149893334.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "求你拯救我"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "脫離淤泥"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "免得……不"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "我沉沒"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "求你救我"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "脫離恨我的人"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "脫離深處"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-10-16T11:24:53.335220219Z",
+  "model": "glm-5.3"
+}

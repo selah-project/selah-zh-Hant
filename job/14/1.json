@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "攪擾",
+      "rationale": "רגז 本義是騷動、不安（如馬的躁動、雷的轟響），傳統譯「患難」過窄"
+    },
+    {
+      "kind": "addition",
+      "subject": "為…所",
+      "rationale": "中文被動結構所需的助詞，希伯來文以 construct 連接"
+    },
+    {
+      "kind": "you",
+      "subject": "向雅威",
+      "rationale": "約伯直接向雅威申訴人的脆弱"
+    }
+  ],
+  "translation": "人為婦人所生，日子短少，滿了攪擾。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a47a8fda9bb630af5392215d2db826f0b8631d2316cb3137f7f75ae32bb88ac2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/14\/1-4.1792145994888.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "所生"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "婦人"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "短少"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日子"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "滿了"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "攪擾"
+    }
+  ],
+  "timestamp": "2026-10-16T10:19:54.888758768Z",
+  "model": "glm-5.3"
+}

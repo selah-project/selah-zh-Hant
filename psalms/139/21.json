@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to 雅威",
+      "rationale": "The psalmist addresses YHWH directly"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתקוטט",
+      "rationale": "'我與他們爭執' vs KJV 'grieved' — root קוט literally cut off\/detest"
+    }
+  ],
+  "translation": "雅威啊，恨你的，我豈不恨他們嗎？起來攻擊你的，我豈不與他們爭執嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1eda32a22fb1984b335321c369a0668a3e2046fbbda41aff5c9a3b27e93e8ce0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/139\/21-24.1792145075330.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "豈不"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "恨你的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "我恨"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "起來攻擊你的"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "我與他們爭執"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:35.331234449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "קצף",
+      "rationale": "本義『劈下的碎片』，引申『暴怒』；此處未指明忿怒出自誰（雅威）"
+    },
+    {
+      "kind": "addition",
+      "subject": "有……臨到",
+      "rationale": "יהיה עלינו 直譯『臨到我們』，中文補『有』以成句"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השבועה／נשבענו",
+      "rationale": "『誓言』與『起誓』同一字根，本節內首尾呼應"
+    }
+  ],
+  "translation": "我們要這樣待他們：讓⟨אותם⟩他們存活，免得因我們向他們所起的誓，有忿怒臨到我們。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dfd66c59a2b8baa4bc5df45737ed7981d0b1353fc88afcd3d278a328503ec1d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/9\/17-20.1792129592610.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "這樣"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "我們要待（做）"
+    },
+    {
+      "surface": "להם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "והחיה",
+      "gloss": "讓……存活"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "他們"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "免得（不）"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "有……臨到"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "我們"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "忿怒"
+    },
+    {
+      "surface": "על",
+      "gloss": "因"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "那起誓（的名分）"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "我們起的誓"
+    },
+    {
+      "surface": "להם",
+      "gloss": "向他們"
+    }
+  ],
+  "timestamp": "2026-10-16T05:46:32.611750427Z",
+  "model": "glm-5.3"
+}

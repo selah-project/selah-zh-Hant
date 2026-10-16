@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ושבח",
+      "rationale": "有譯本作「稱讚」，有古譯本作「我轉回」（借 v1 的 שוב）；希伯來文 שבח 本義是大聲宣告、稱讚。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מתים\/מתו · חיים\/חיים",
+      "rationale": "「死了的死人、活著的活人」同根字疊用，是希伯來文的修辭重複。"
+    }
+  ],
+  "translation": "因此我稱讚 ⟨את⟩ 那已經死了的死人，勝過那些至今還活著的活人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f6af2180538e3ce9e80a385de2e970bd47ac6839f9cc9947c1c6a73ee71573bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/4\/1-4.1792146994364.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "因此我稱讚"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "死人"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "死人"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "已經"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "死了的"
+    },
+    {
+      "surface": "מן",
+      "gloss": "勝過"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "活人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那些"
+    },
+    {
+      "surface": "המה",
+      "gloss": "他們"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "還活著的"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "至今"
+    }
+  ],
+  "timestamp": "2026-10-16T10:36:34.365239053Z",
+  "model": "glm-5.3"
+}

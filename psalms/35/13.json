@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 35:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "生命",
+      "rationale": "נפש是氣息、生命之力，不是靈魂"
+    },
+    {
+      "kind": "crux",
+      "subject": "我的祈禱回到我的懷中",
+      "rationale": "或指祈禱未蒙應允而返回，或如JPS視為願望語「願它返回」，或指反覆思想自己的祈禱"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文補上"
+    }
+  ],
+  "translation": "至於我，他們生病的時候，我的衣服是麻布；我以禁食苦待我的生命；我的祈禱回到我的懷中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/35\/13-16.1792143673964.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "至於我"
+    },
+    {
+      "surface": "בחלותם",
+      "gloss": "他們生病的時候"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "我的衣服"
+    },
+    {
+      "surface": "שק",
+      "gloss": "麻布"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "我苦待"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "以禁食"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的生命"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "而我的祈禱"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "חיקי",
+      "gloss": "我的懷中"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "返回"
+    }
+  ],
+  "timestamp": "2026-10-16T09:41:13.964934427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 7:6",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונקיצנה",
+      "rationale": "יָקַץ 字面「使之驚慌／厭煩」：和合本作「擾亂」，另有譯作「喚醒」「恐嚇」"
+    },
+    {
+      "kind": "addition",
+      "subject": "攻擊",
+      "rationale": "中文需要動詞補語表明敵意上行，希伯來僅「上去到猶大」"
+    }
+  ],
+  "translation": "我們上去攻擊猶大，擾亂它，將它攻破歸我們，在它中間立一個王，就是⟨את⟩他比勒的兒子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "640d8293190f272fabcdc0aea2c767908b701cef362e9b29327a6f23c4f7ae4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/7\/5-8.1792134577511.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נעלה",
+      "gloss": "我們上去"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "攻擊猶大"
+    },
+    {
+      "surface": "ונקיצנה",
+      "gloss": "並擾亂它"
+    },
+    {
+      "surface": "ונבקענה",
+      "gloss": "並將它攻破"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "歸我們"
+    },
+    {
+      "surface": "ונמליך",
+      "gloss": "立……為王"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "一個王"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "在它中間"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他比勒的兒子"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "טבאל",
+      "gloss": "他比勒"
+    }
+  ],
+  "timestamp": "2026-10-16T07:09:37.511980485Z",
+  "model": "glm-5.3"
+}

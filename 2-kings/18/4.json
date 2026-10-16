@@ -1,0 +1,154 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 18:4",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נחש／נחשת／נחשתן",
+      "rationale": "『蛇』『銅』『銅蛇之物』三詞同根雙關，希西家之名斥直指『那不過是銅器』，中文音譯涅胡施坦以存其名"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נחשתן",
+      "rationale": "涅施坦僅出現於此（及王下18:4平行），是塔納赫中獨一無二的稱呼"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויקרא לו",
+      "rationale": "『他稱它為』（希西家貶斥之）與『它被稱為』（後人俗稱）兩讀，動詞形式可作主動或被動"
+    }
+  ],
+  "translation": "他廢除了丘壇，打碎了柱像，砍下了亞舍拉，又打碎了摩西所造的銅蛇——因為直到那些日子，以色列人仍向它燒香；他稱它為涅胡施坦。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b9a9be179069d20ac4b5e00cf707e4171bd1ea5b311859722fc2703ef06e0e6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/18\/1-4.1792134110296.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "廢除了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "丘壇"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "丘壇"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "打碎了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "柱像"
+    },
+    {
+      "surface": "המצבת",
+      "gloss": "柱像"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "砍下了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞舍拉"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "亞舍拉"
+    },
+    {
+      "surface": "וכתת",
+      "gloss": "打碎"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "蛇"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "銅的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造了"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "那些日子"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "那些"
+    },
+    {
+      "surface": "היו",
+      "gloss": "一直"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…之子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מקטרים",
+      "gloss": "燒香"
+    },
+    {
+      "surface": "לו",
+      "gloss": "向它"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "他稱"
+    },
+    {
+      "surface": "לו",
+      "gloss": "它"
+    },
+    {
+      "surface": "נחשתן",
+      "gloss": "涅胡施坦"
+    }
+  ],
+  "timestamp": "2026-10-16T07:01:50.297349221Z",
+  "model": "glm-5.3"
+}

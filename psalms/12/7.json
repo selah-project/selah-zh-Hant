@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אִמְרוֹת … אֲמָרוֹת",
+      "rationale": "同一詞首尾重複，加強「雅威的言語＝純淨的言語」的等同判斷。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "שִׁבְעָתָיִם",
+      "rationale": "「七次」——完全精煉的數字度量。"
+    },
+    {
+      "kind": "crux",
+      "subject": "בַּעֲלִיל לָאָרֶץ",
+      "rationale": "「地的爐（坩堝）」或「在地上的爐」；兩讀皆通，本文保留「地的爐中」。"
+    }
+  ],
+  "translation": "雅威的言語是純淨的言語，如同銀子在地的爐中熔煉，精煉七次。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2e8bfb0f9c2067f461a0cddcb065e7801b95f1df499e42d5b5c06c36de471b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/12\/5-8.1792143376564.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "言語"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "言語"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "純淨的"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀子"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "熔煉"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "在爐中"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "在地上"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "精煉"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "七次"
+    }
+  ],
+  "timestamp": "2026-10-16T09:36:16.565992330Z",
+  "model": "glm-5.3"
+}

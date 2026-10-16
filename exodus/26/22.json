@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 26:22",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "後方",
+      "rationale": "יָרֵכָה 本義「脅側」，僅喻指後部／深處"
+    },
+    {
+      "kind": "idiom",
+      "subject": "向西",
+      "rationale": "יָמָּה 由「海」而指西——地中海在西；中文直說方位"
+    },
+    {
+      "kind": "you",
+      "subject": "你",
+      "rationale": "命令句直接對摩西說話"
+    }
+  ],
+  "translation": "會幕的後方、靠西邊，你要做六塊豎板。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9adc01df8a0dc59b933c85a15f4d4d634222922ff17ba516ddd47f98782d39ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/26\/21-24.1792126225549.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולירכתי",
+      "gloss": "而為……的後方"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "向西"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你要做"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "六塊"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "豎板"
+    }
+  ],
+  "timestamp": "2026-10-16T04:50:25.549914771Z",
+  "model": "glm-5.3"
+}

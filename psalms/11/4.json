@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文補「在…裡」句式表達"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "雅威…雅威",
+      "rationale": "本節兩次呼名開頭，形成平行的疊句結構"
+    },
+    {
+      "kind": "substitution",
+      "subject": "察驗",
+      "rationale": "בחן 是冶金術語「熬煉、檢驗」，如同試金"
+    }
+  ],
+  "translation": "雅威在他的聖殿裡，雅威的寶座在天上；他的眼睛觀看，他的眼皮察驗世人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f02f3330c4fda7bdb82299e862584d872de357f9dcfc72725284e49181bcefae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/11\/1-4.1792143348928.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "在他的殿裡"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "他的聖（殿）"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "在天上"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "他的寶座"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "他的眼睛"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "觀看"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "他的眼皮"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "察驗"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…之子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "世人"
+    }
+  ],
+  "timestamp": "2026-10-16T09:35:48.929141415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 6:29",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "第二天",
+      "rationale": "ביום האחר 直譯「在另一日」，中文以「第二天」自然表達"
+    },
+    {
+      "kind": "elision",
+      "subject": "ונאכלהו",
+      "rationale": " Hebrew 的附屬代詞（－הו「他」）拆成獨立代詞「把他」"
+    }
+  ],
+  "translation": "我們煮了 ⟨את⟩ 我的兒子，把他吃了；第二天我對她說：『你把 ⟨את⟩ 你的兒子交出來，我們好把他吃了。』她卻把 ⟨את⟩ 她的兒子藏起來了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5a46683d16cb1c94bb415f65bf1e56f315c8a2067167e163fd1d71a9cc4a6c4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/6\/29-32.1792133686081.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונבשל",
+      "gloss": "我們煮了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的兒子"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我的兒子"
+    },
+    {
+      "surface": "ונאכלהו",
+      "gloss": "把他吃了"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "我說"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "對她"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在……之日"
+    },
+    {
+      "surface": "האחר",
+      "gloss": "第二天"
+    },
+    {
+      "surface": "תני",
+      "gloss": "你交出來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的兒子"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "你的兒子"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "我們好把他吃了"
+    },
+    {
+      "surface": "ותחבא",
+      "gloss": "她藏起來了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "她的兒子"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "她的兒子"
+    }
+  ],
+  "timestamp": "2026-10-16T06:54:46.081806293Z",
+  "model": "glm-5.3"
+}

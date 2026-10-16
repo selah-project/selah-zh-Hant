@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 9:9",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "僕人",
+      "rationale": "נער 本義是「少年、年輕人」，此處作「僕人」解"
+    },
+    {
+      "kind": "elision",
+      "subject": "היה",
+      "rationale": "直譯「是掃羅所有的」，中文以「屬於」融鑄"
+    }
+  ],
+  "translation": "王召了掃羅的僕人洗巴，對他說：「凡屬掃羅和他全家的一切，我都已經賜給你主人的兒子了。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "92e506908e76c7329a70c7b19ebbceca20b025681e4220f305d13049803c4805",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/9\/9-12.1792131801747.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "召了"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "洗巴"
+    },
+    {
+      "surface": "נער",
+      "gloss": "僕人"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅的"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "對他說"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "凡……的"
+    },
+    {
+      "surface": "היה",
+      "gloss": "屬於"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "和他全家"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "他的家"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我已經賜給"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "你主人的"
+    }
+  ],
+  "timestamp": "2026-10-16T06:23:21.748514461Z",
+  "model": "glm-5.3"
+}

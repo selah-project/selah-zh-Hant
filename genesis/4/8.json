@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 4:8",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨我們往田間去吧⟩",
+      "rationale": "馬所拉文本此處無該隱的話語；撒瑪利亞五經與七十士譯本補「我們往田間去吧」，中文語法需要說話的內容故以括號補出"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אחיו",
+      "rationale": "「他弟弟」在本節出現兩次，重複強調骨肉之親——兇手所殺的是弟弟"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "「事就發生了」是希伯來敘事公式，中文以「正在……的時候」吸收之"
+    }
+  ],
+  "translation": "該隱對他弟弟亞伯說⟨我們往田間去吧⟩。他們正在田間的時候，該隱起來攻擊他弟弟亞伯，把他殺了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "845bf8e1b65f7b4778feae68e057396bb8546e6b8d5ea994c34b51979077c292",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/4\/5-8.1792124519259.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "קין",
+      "gloss": "該隱"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "亞伯"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "他弟弟"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "發生了"
+    },
+    {
+      "surface": "בהיותם",
+      "gloss": "當他們在"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "田間"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "起來"
+    },
+    {
+      "surface": "קין",
+      "gloss": "該隱"
+    },
+    {
+      "surface": "אל",
+      "gloss": "攻擊"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "亞伯"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "他弟弟"
+    },
+    {
+      "surface": "ויהרגהו",
+      "gloss": "把他殺了"
+    }
+  ],
+  "timestamp": "2026-10-16T04:21:59.260677406Z",
+  "model": "glm-5.3"
+}

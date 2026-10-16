@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 26:8",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "亞比篩對大衛",
+      "rationale": "本節是亞比篩對大衛的直接請求式發言。"
+    },
+    {
+      "kind": "crux",
+      "subject": "ולא אשנה לו",
+      "rationale": "字面「我不向他重複」：KJV「不用擊打第二次」與 YLT「我不會再對他重做一次」之別；שנה 字根是「重複」，非「擊打」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "關閉",
+      "rationale": "סגר 字面是「關閉、關進」，諸譯本多作「交在手中」；此處保留字面圖像。"
+    }
+  ],
+  "translation": "亞比篩對大衛說：「今天以羅欣已將 ⟨את⟩ 你的仇敵關閉在你手中；現在求你容我用槍把他一擊刺入地裡，我不必對他重複第二次。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "405a00f1594c8f0dfeaebd013963d32d41e55d75593ad44d8a0998298a9cb480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/26\/5-8.1792131607176.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "亞比篩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "關閉"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今天"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的仇敵"
+    },
+    {
+      "surface": "אויבך",
+      "gloss": "你的仇敵"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "在你手中"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "現在"
+    },
+    {
+      "surface": "אכנו",
+      "gloss": "容我擊打他"
+    },
+    {
+      "surface": "נא",
+      "gloss": "求你"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "用槍"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "並入地裡"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "一擊"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一次"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "而不"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "重複"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對他"
+    }
+  ],
+  "timestamp": "2026-10-16T06:20:07.178265875Z",
+  "model": "glm-5.3"
+}

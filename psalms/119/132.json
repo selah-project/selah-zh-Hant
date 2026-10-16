@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨我⟩",
+      "rationale": "אלי 與 חנני 的字尾代詞以括號補出對象"
+    },
+    {
+      "kind": "crux",
+      "subject": "כמשפט",
+      "rationale": "「照你的慣例」抑或「照你的判準／公義」——英譯多取 as is thy wont，字面是照 משפט"
+    },
+    {
+      "kind": "you",
+      "subject": "向雅威",
+      "rationale": "詩人直接向神呼求的祈禱言語行為"
+    }
+  ],
+  "translation": "求你轉向⟨我⟩，恩待⟨我⟩，照向你名之愛慕者所行的判準。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "14fb96d2bba7a8d018963f500c60e710da2940fd73813fb890d4b06315b51527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/129-132.1792144906288.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "求你轉向"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨我⟩"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "恩待⟨我⟩"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "照……的判準"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "向……之愛慕者"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    }
+  ],
+  "timestamp": "2026-10-16T10:01:46.290500290Z",
+  "model": "glm-5.3"
+}

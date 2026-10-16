@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 30:25",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אותה",
+      "rationale": "此处אוֹתָהּ实为代词「它」（指刀），非受词记号；按记号家族规则标为⟨את⟩并注明所指。"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "「他們就知道我是雅威」中的כי未被单独译出，融入确认识别句式。"
+    }
+  ],
+  "translation": "我必堅固巴比倫王的膀臂，法老的膀臂卻要垂落；他們就知道我是雅威——當我將我的刀放在巴比倫王手中，他就把⟨את⟩它伸向埃及地的時候。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "27caabe66ff6f2db3b6c6a3a09476166564ea7be195c6696e16d14dc3d70a7f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/30\/25-26.1792138776170.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והחזקתי",
+      "gloss": "我必堅固"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "巴比倫王的膀臂"
+    },
+    {
+      "surface": "זרעות",
+      "gloss": "膀臂"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "וזרעות",
+      "gloss": "膀臂"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "תפלנה",
+      "gloss": "卻要垂落"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "他們就知道"
+    },
+    {
+      "surface": "כי",
+      "gloss": "——"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בתתי",
+      "gloss": "當我把……放"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "我的刀"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "在……手中"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "他就伸出"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "它（我的刀）"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    }
+  ],
+  "timestamp": "2026-10-16T08:19:36.171317479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 17:12",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המון／המות／יהמיון；שאון／ישאון",
+      "rationale": "兩組同根動詞與名詞交錯重疊（hamon\/hamah、sha'on\/sha'ah），聲音如浪潮本身的節奏，中文只能以重複「喧騰」「匉訇」近似。"
+    },
+    {
+      "kind": "elision",
+      "subject": "שאון（7588）",
+      "rationale": "此שאון意為「喧囂、奔騰」，與示阿勒（שאול 陰間）同音不同詞，依 D2 不作示阿勒處理。"
+    },
+    {
+      "kind": "invitation",
+      "subject": "對讀者",
+      "rationale": "「唉！」（הוי）是禍哉宣告，喚起聽者注意隨後的審判預言。"
+    }
+  ],
+  "translation": "唉！許多民族的喧嘩，他們喧騰如眾海的喧騰；列邦的匉訇如大水的匉訇洶湧。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "53bd39ee18239dcbb230b601ed0b7c7b6f74d41f8ade89c8b49155072f1d59bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/17\/9-12.1792134863131.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "唉！"
+    },
+    {
+      "surface": "המון",
+      "gloss": "喧嘩"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "民族的"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "許多"
+    },
+    {
+      "surface": "כהמות",
+      "gloss": "如…的喧騰"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "眾海"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "他們喧騰"
+    },
+    {
+      "surface": "ושאון",
+      "gloss": "和匉訇"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "列邦的"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "如…的匉訇"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "大的"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "他們洶湧"
+    }
+  ],
+  "timestamp": "2026-10-16T07:14:23.132512315Z",
+  "model": "glm-5.3"
+}

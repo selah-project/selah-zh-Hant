@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "發生了",
+      "rationale": "ויהי 是敘事引導詞，中文以「過了些日子」吸收其功能"
+    }
+  ],
+  "translation": "過了些日子，那溪就乾了，因為遍地沒有雨。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8697c149f4fde41c136e61a559f3a8a872e1b2b817c84d3321f39d04ffb2eb17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/17\/5-8.1792133074934.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生了"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "過了……的末了"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "些日子"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "就乾了"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "那溪"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "雨"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "遍地"
+    }
+  ],
+  "timestamp": "2026-10-16T06:44:34.935029515Z",
+  "model": "glm-5.3"
+}

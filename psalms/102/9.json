@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בי נשבעו",
+      "rationale": "「指著我起誓」對「以我的名咒詛」（ASV／JPS）；希伯來文直譯為「指著我起誓」，即以我為咒詛的對象。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מהוללי",
+      "rationale": "הלל 的piel分詞，此處意為「狂亂、發瘋的人」，非「讚美」之義。"
+    }
+  ],
+  "translation": "終日，我的仇敵羞辱我；那些向我狂亂的人指著我起誓。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0227110c390adaaa7c5e2a70efd5b076ef0c501814819534098c7735f020551f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/102\/9-12.1792144560864.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "終"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "羞辱我"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "我的仇敵"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "向我狂亂的人"
+    },
+    {
+      "surface": "בי",
+      "gloss": "指著我"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "起誓"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:00.865421216Z",
+  "model": "glm-5.3"
+}

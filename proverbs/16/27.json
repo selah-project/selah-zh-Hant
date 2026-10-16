@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 16:27",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "無用之人",
+      "rationale": "בליעל 字面是「無益、無價值」，和合本作「匪徒」；保留其形而非譯「邪惡」"
+    },
+    {
+      "kind": "hapax",
+      "subject": "צרבת",
+      "rationale": "צָרֶבֶת（熾燒）在全塔納赫僅此一見"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרה",
+      "rationale": "「挖掘」邪惡如掘坑（參詩 7:15），圖象鮮明，英譯多淡為 deviseth"
+    }
+  ],
+  "translation": "無用之人挖掘邪惡，他嘴上如燒著的火。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0cf071747af59804ffa791b5ff4fdb3e309376c98002a761a828368a35808735",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/16\/25-28.1792145457266.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "之人"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "無用"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "挖掘"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "邪惡"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "他嘴"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "如火"
+    },
+    {
+      "surface": "צרבת",
+      "gloss": "燒著"
+    }
+  ],
+  "timestamp": "2026-10-16T10:10:57.267136021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נחנו…פשענו…ומרינו",
+      "rationale": "三個第一人稱複數動詞連續堆疊，希伯來文的懺悔節奏"
+    },
+    {
+      "kind": "you",
+      "subject": "to God",
+      "rationale": "直接向雅威承認"
+    }
+  ],
+  "translation": "我們犯罪了，我們悖逆了，你沒有赦免。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4fba566d6b5bd59f449d9992520aab66cb773f7233d713d8907c74f13ed09760",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/lamentations\/3\/41-44.1792146780353.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "我們"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "犯罪了"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "悖逆了"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "赦免"
+    }
+  ],
+  "timestamp": "2026-10-16T10:33:00.354546763Z",
+  "model": "glm-5.3"
+}

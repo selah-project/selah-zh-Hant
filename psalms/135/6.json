@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "中文需補主語「他」，希伯來文由動詞形暗示"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "天—地—海—深淵",
+      "rationale": "四域遞升的全地範圍列舉，構成宇宙性排比"
+    }
+  ],
+  "translation": "凡雅威所喜悅的，他都在天上、在地上、在海洋及一切深淵中行了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2c8d0cf40b55764252320e6ad325a99cc1e16cb19ce165ced00faf90961ee08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/135\/5-8.1792144996294.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "喜悅"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行了"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "在天上"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "在地上"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "在海洋"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "及一切"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "深淵"
+    }
+  ],
+  "timestamp": "2026-10-16T10:03:16.296229505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הטוב כי",
+      "rationale": "『豈是好事嗎』（反問）對比『祂喜悅（你們的謊言）嗎』——兩種讀法取決於將 כי 讀為疑問或直述。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כהתל／תהתלו",
+      "rationale": "同詞根 התל 重複出現（欺哄……欺哄），中文保留重複以存其修辭。"
+    },
+    {
+      "kind": "you",
+      "subject": "你們",
+      "rationale": "約伯直接質問三位朋友。"
+    }
+  ],
+  "translation": "祂徹底搜查 ⟨את⟩ 你們，豈是好事嗎？豈像人欺哄必死之人那樣，你們要欺哄祂嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a03f396d8017cd9af76fc3885c64bd789e66619cf0b77c44e0b2edf7dd66d9e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/13\/9-12.1792145972504.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "豈是好事嗎"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "徹底搜查"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩你們"
+    },
+    {
+      "surface": "אם",
+      "gloss": "豈"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "像欺哄"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "必死之人"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "你們要欺哄"
+    },
+    {
+      "surface": "בו",
+      "gloss": "祂"
+    }
+  ],
+  "timestamp": "2026-10-16T10:19:32.505449492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 24:12",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חלאתה…חלאתה",
+      "rationale": "『鏽』一詞在句末兩次重複，首尾呼應；中文保留重複"
+    },
+    {
+      "kind": "crux",
+      "subject": "באש חלאתה",
+      "rationale": "末句諸本分歧：『她的鏽在火中』（KJV）vs『火也除不掉她的鏽』（ASV）；希伯來文僅『在火中』，不含動詞"
+    }
+  ],
+  "translation": "它因勞苦而疲乏，其鏽卻出不來；它的鏽甚多，要用火〈除〉它的鏽。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1f661161662517ba772fdfc546400bf2e5664f598d037d625241cc81ff9e6f34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/24\/9-12.1792138495023.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאנים",
+      "gloss": "因勞苦"
+    },
+    {
+      "surface": "הלאת",
+      "gloss": "疲乏"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "卻不"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "出來"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "從它"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "甚多"
+    },
+    {
+      "surface": "חלאתה",
+      "gloss": "它的鏽"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    },
+    {
+      "surface": "חלאתה",
+      "gloss": "它的鏽"
+    }
+  ],
+  "timestamp": "2026-10-16T08:14:55.024496084Z",
+  "model": "glm-5.3"
+}

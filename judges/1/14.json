@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 1:14",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותסיתהו",
+      "rationale": "字根同「引誘」（如蛇引誘夏娃）；此處譯「慫恿」，是推動而非誘惑。"
+    },
+    {
+      "kind": "addition",
+      "subject": "丈夫",
+      "rationale": "בבואה「她來到」未明說對象，中文補出「丈夫」（俄陀聶）。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מה לך",
+      "rationale": "直譯「什麼——對你？」是希伯來慣用問語，譯作「你要什麼？」"
+    }
+  ],
+  "translation": "她來到丈夫那裡的時候，慫恿他向⟨את⟩她父親求一塊田；她就從驢上下來，迦勒對她說：「你要什麼？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0ff7fa6d42a6ad0ca6f77f228eb1f3af8844dc99a4757a1068f1fb621a29e13e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/1\/13-16.1792130060245.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "當…的時候"
+    },
+    {
+      "surface": "בבואה",
+      "gloss": "她來到"
+    },
+    {
+      "surface": "ותסיתהו",
+      "gloss": "慫恿他"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "求"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "向⟨את⟩",
+      "marks": "她父親"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "她父親"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田"
+    },
+    {
+      "surface": "ותצנח",
+      "gloss": "她就下來"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "從…上"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "驢"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "לה",
+      "gloss": "對她"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "迦勒"
+    },
+    {
+      "surface": "מה",
+      "gloss": "什麼"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你要"
+    }
+  ],
+  "timestamp": "2026-10-16T05:54:20.246452641Z",
+  "model": "glm-5.3"
+}

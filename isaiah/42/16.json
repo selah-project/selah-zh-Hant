@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 42:16",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "為他們",
+      "rationale": "עשיתם 帶詞尾「他們」（我已對他們行了這些事），中文以介詞短語標出受詞。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא ידעו…לא ידעו",
+      "rationale": "「不認識的路／不知道的路徑」兩次重複，平行句法的疊句。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עשיתם",
+      "rationale": "完成時態「我已行」，與前文未來時的應許並置；多數英譯改作未來「我必行」。"
+    }
+  ],
+  "translation": "我必領瞎子走他們所不認識的路，走他們所不知道的路徑；我必引導他們踏上。我必使黑暗在他們面前變為光明，彎曲之地變為平直。這些事我已為他們行，並不離棄他們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ce744ac742634978006c718f1e4652dc374f105280324f4ffb59f3d4c75d46e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/42\/13-16.1792135492284.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והולכתי",
+      "gloss": "我必領…走"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "瞎子"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "在路上"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "他們認識"
+    },
+    {
+      "surface": "בנתיבות",
+      "gloss": "在路徑上"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "他們知道"
+    },
+    {
+      "surface": "אדריכם",
+      "gloss": "我必引導他們踏上"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "我必使"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "黑暗"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "在他們面前"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "變為光明"
+    },
+    {
+      "surface": "ומעקשים",
+      "gloss": "與彎曲之地"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "變為平直"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "事"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "我已行"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "並不"
+    },
+    {
+      "surface": "עזבתים",
+      "gloss": "我離棄他們"
+    }
+  ],
+  "timestamp": "2026-10-16T07:24:52.285346529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 8:16",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שנה בעיניו איננו רואה",
+      "rationale": "KJV\/ASV「不論日夜眼不見睡眠」vs YLT「有位晝夜眼不見睡眠的觀察者」；語法人稱不明，譯作「看不見睡眠」。"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי גם",
+      "rationale": "連接詞組點出括號內的插語，語義上由破折號承擔。"
+    },
+    {
+      "kind": "mystery",
+      "subject": "日光之下的忙碌",
+      "rationale": "過渡到 8:17 的結論：人查不出日頭之下所作的工。"
+    }
+  ],
+  "translation": "當我專心認識智慧、觀看 ⟨את⟩ 世上所發生的忙碌事的時候——其實日夜之間，人的眼中根本看不見睡眠——",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b34b3f6b96028f72fdfca2a4921ca172a67a104a88da4a1c11921abdf2c6750d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/8\/13-16.1792147088195.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "當……的時候"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我專"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "心"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "心"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "認識"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "ולראות",
+      "gloss": "觀看"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "忙碌事"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "忙碌事"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所……的"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "發生"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "世上"
+    },
+    {
+      "surface": "כי",
+      "gloss": "其實"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在白日"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "和夜間"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "睡眠"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "在他的眼中"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "根本沒有"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "看見"
+    }
+  ],
+  "timestamp": "2026-10-16T10:38:08.197251185Z",
+  "model": "glm-5.3"
+}

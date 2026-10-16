@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תלאבות",
+      "rationale": "僅見於此處的罕詞，字根關乎渴乏，各譯本作「大乾旱之地」"
+    },
+    {
+      "kind": "addition",
+      "subject": "你",
+      "rationale": "中文代詞補足動詞的受事，希伯來文以字尾形式表達"
+    }
+  ],
+  "translation": "在曠野中，我認識了你，在乾旱之地的極渴之境。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ae7f081d7052a6879eed5ae8bfe162c9668e93b2fbcd9ee0961d773e7108a93d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/13\/5-8.1792139539919.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "認識了你"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "在曠野中"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在……之地"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "極渴之境"
+    }
+  ],
+  "timestamp": "2026-10-16T08:32:19.920168633Z",
+  "model": "glm-5.3"
+}

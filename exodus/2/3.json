@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 2:3",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תבת",
+      "rationale": "「箱」（תבה）與挪亞方舟（創 6:14）同詞，僅此兩處出現，作者刻意呼應"
+    },
+    {
+      "kind": "addition",
+      "subject": "裡面",
+      "rationale": "בה「在其中」，中文補「裡面」使語意完整"
+    },
+    {
+      "kind": "substitution",
+      "subject": "河",
+      "rationale": "היאר 特指尼羅河，此處譯「河」保留原文字面"
+    }
+  ],
+  "translation": "她再不能藏他了，就為他取了一個蒲草箱，用瀝青和柏油抹上，把孩子放在裡面，把箱子放在河邊的蘆葦中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3160c3055f4b7fb737ec7f8b18e13aa9f9bc6f3d0c28f2342f9ad43ea18ef5ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/2\/1-4.1792125705716.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "再能"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再"
+    },
+    {
+      "surface": "הצפינו",
+      "gloss": "藏他"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "取了"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為他"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "箱"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "蒲草"
+    },
+    {
+      "surface": "ותחמרה",
+      "gloss": "抹上"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "用瀝青"
+    },
+    {
+      "surface": "ובזפת",
+      "gloss": "和柏油"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "放"
+    },
+    {
+      "surface": "בה",
+      "gloss": "在裡面"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "孩子"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "孩子"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "把箱子放在"
+    },
+    {
+      "surface": "בסוף",
+      "gloss": "蘆葦中"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "邊"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "河"
+    }
+  ],
+  "timestamp": "2026-10-16T04:41:45.718279789Z",
+  "model": "glm-5.3"
+}

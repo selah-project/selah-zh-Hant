@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "五個את",
+      "rationale": "五個受詞各配一個את，逐一清點擄物：羊、牛、驢、城中之物、田間之物——清單式枚舉。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חמריהם",
+      "rationale": "「驢」（חמור）與被殺的哈抹（חמור）同音異義——奪走他們的「哈抹們（驢）」。"
+    }
+  ],
+  "translation": "他們奪走了 ⟨את⟩ 他們的羊群、⟨את⟩ 他們的牛群、⟨את⟩ 他們的驢，以及 ⟨את⟩ 城裡所有的和 ⟨את⟩ 田間所有的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "be6ad816fb9db0c6c7a8d80b2c066510b8febeee4802a32d37704fc28769f308",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/34\/25-28.1792125351265.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的羊群"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "他們的羊群"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "他們的牛群"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "他們的牛群"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "他們的驢"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "他們的驢"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "城裡所有的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "在城裡"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "田間所有的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "在田間"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "奪走了"
+    }
+  ],
+  "timestamp": "2026-10-16T04:35:51.266221217Z",
+  "model": "glm-5.3"
+}

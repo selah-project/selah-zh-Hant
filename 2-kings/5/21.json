@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 5:21",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "平安嗎",
+      "rationale": "השלום 字面是「平安嗎」，英文傳統譯「一切都好嗎」把問安詞變成狀況詢問"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויראה 的受詞",
+      "rationale": "希伯來文ויראה未指明看見誰，中文補「有人」以合語法"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "追趕／跑",
+      "rationale": "רדף 與 רוץ 連續出現，追逐的急迫感由動詞堆疊造成"
+    }
+  ],
+  "translation": "基哈西追趕乃縵。乃縵看見有人追著他跑，就下車迎接他，說：「一切都平安嗎？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "14148017701166900a4c133113357bfb9fa3b4d0ab4a75189f0f3270b28a639c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/5\/21-24.1792133643851.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "追趕"
+    },
+    {
+      "surface": "גיחזי",
+      "gloss": "基哈西"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "在……之後"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "乃縵"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "乃縵"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "跑"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "追著他"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "下來"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "從……上"
+    },
+    {
+      "surface": "המרכבה",
+      "gloss": "車"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "迎接他"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "平安嗎"
+    }
+  ],
+  "timestamp": "2026-10-16T06:54:03.852228005Z",
+  "model": "glm-5.3"
+}

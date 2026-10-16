@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "上升（第二處）",
+      "rationale": "希伯來文第二子句省略動詞，承前補出「上升」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תרועה",
+      "rationale": "可為歡呼或戰喊，此處取「歡呼」"
+    }
+  ],
+  "translation": "以羅欣在歡呼聲中上升，雅威在號角聲中上升。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d85656acc6dcb427d1a999a114b159e188cebb46a2153fd77c0ea58dbb988aed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/47\/5-8.1792143842060.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "上升"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "在歡呼聲中"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "在……聲中"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "號角"
+    }
+  ],
+  "timestamp": "2026-10-16T09:44:02.060938749Z",
+  "model": "glm-5.3"
+}

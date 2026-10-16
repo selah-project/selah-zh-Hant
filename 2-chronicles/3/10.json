@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "צעצעים",
+      "rationale": "צַעְצֻעַ僅出現於此（複數形），意為雕刻作品"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש הקדשים",
+      "rationale": "「聖中之聖」的疊語結構，希伯來文最高級表達"
+    }
+  ],
+  "translation": "他在至聖的⟨那⟩殿裡造了兩個基路伯，是雕刻的工；他們用金子包貼⟨אתם⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f8eba62acef14d8203e1d5769e9688cdc596aa4f202f43cf60ee1384c9b52625",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/3\/9-12.1792149133530.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "造了"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "殿裡"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "至聖"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "基路伯"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "兩個"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "工"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "雕刻"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "他們包貼"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "他們（基路伯）"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金子"
+    }
+  ],
+  "timestamp": "2026-10-16T11:12:13.531390313Z",
+  "model": "glm-5.3"
+}

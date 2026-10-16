@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 8:5",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתו",
+      "rationale": "此處אתו是「與他同在」的介詞（H854），非受詞記號，但按記號家族保留⟨את⟩字形"
+    },
+    {
+      "kind": "measurement",
+      "subject": "數算與點數",
+      "rationale": "獻祭牲畜多到不能數算、不能點數——計數語言的否定式"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יספרו\/ימנו",
+      "rationale": "兩個近義動詞並列（數算／點數），希伯來文的雙重強調"
+    }
+  ],
+  "translation": "所羅門王和以色列的全會眾，就是聚集到他身旁、與⟨את⟩他一同站在櫃前的，都在宰獻羊群和牛群，多得不能數算、不能點數。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5debe3e4ed32217bf843fe82ab49ce537f7e98583486509e81228d12e603efb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/8\/5-8.1792132842810.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和全"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הנועדים",
+      "gloss": "聚集的"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "到他身旁"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "與⟨את⟩他同在",
+      "marks": "所羅門王"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在……面前"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "櫃"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "宰獻"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "和牛群"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那些"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "能數算"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不"
+    },
+    {
+      "surface": "ימנו",
+      "gloss": "能點數"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "因為繁多"
+    }
+  ],
+  "timestamp": "2026-10-16T06:40:42.811202209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 23:12",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויצילה",
+      "rationale": "字根 נצל 為「奪回／搶救」：他將那塊地搶救回來，傳統譯『保護／防衛』。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשועה גדולה",
+      "rationale": "與第 10 節結尾完全相同——兩位勇士各得同一句「雅威行了大的拯救」作收，敘事的平行重複。"
+    }
+  ],
+  "translation": "他站在那塊地的當中，保護了它，擊打了 ⟨את⟩ 非利士人；雅威行了大的拯救。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "97216f84ccf8b96dca44beebc9892ae3b5f24136f3a4535b2bbe1ab52fdb96a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/23\/9-12.1792132437902.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתיצב",
+      "gloss": "站定"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "在……當中"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "那塊地"
+    },
+    {
+      "surface": "ויצילה",
+      "gloss": "保護了它"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "擊打"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "非利士人"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "行了"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "拯救"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "大的"
+    }
+  ],
+  "timestamp": "2026-10-16T06:33:57.904313706Z",
+  "model": "glm-5.3"
+}

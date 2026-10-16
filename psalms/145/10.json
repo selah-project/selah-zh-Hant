@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "啊",
+      "rationale": "希伯來文呼格雅威後直接動詞，中文呼語加感嘆詞"
+    },
+    {
+      "kind": "substitution",
+      "subject": "敬虔人",
+      "rationale": "חסיד字根即חסד（慈愛），指以慈愛約連於雅威的人；「聖民」「聖徒」皆引進後來詞彙"
+    },
+    {
+      "kind": "crux",
+      "subject": "你／他",
+      "rationale": "本節為對雅威第二人稱直接稱頌，KJV加「shall」讀為未來，原文更是宣告性直述"
+    }
+  ],
+  "translation": "雅威啊，你一切的作為都要稱謝你，你的敬虔人也都要稱頌你。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "163d2630e6c7b183674557c80c55d896e259c6d7d31108df5f3b47a97f9be221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/145\/9-12.1792145130006.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "稱謝你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "你的作為"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "你的敬虔人"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "稱頌你"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:30.006916345Z",
+  "model": "glm-5.3"
+}

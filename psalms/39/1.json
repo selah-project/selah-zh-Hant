@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "的",
+      "rationale": "中文領屬結構需要「的」，希伯來文介詞לְ已含歸屬義"
+    }
+  ],
+  "translation": "交給伶長，耶杜頓的詩，大衛的詩篇。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7c2ab32a375ff9e54959f3239a0df1553b2b559a7759a3e1daabf1d04a1ed9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/39\/1-4.1792143741415.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "交給伶長"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "耶杜頓的"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的詩篇"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:21.415588834Z",
+  "model": "glm-5.3"
+}

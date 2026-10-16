@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "被丟棄",
+      "rationale": "חפשי 字面是「自由的／被豁免的」：KJV『free among the dead』vs ASV『cast off』——希伯來字面在死人之中如得釋放般孤懸"
+    },
+    {
+      "kind": "substitution",
+      "subject": "被殺之人",
+      "rationale": "חללים 字面是「被刺透的」，指橫死之人"
+    }
+  ],
+  "translation": "在死人之中我被丟棄，如同躺臥墳墓的被殺之人，就是你不再記念的；他們已從你的手被剪除。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4986458f8f31a4cb2e7082312e24ed0960421b2a4032994f54e840e23fe000d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/88\/5-8.1792144465521.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "在死人之中"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "被丟棄"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "如同"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "被殺之人"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "躺臥……的"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "墳墓"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "你記念"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "而他們"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "從你的手"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "被剪除"
+    }
+  ],
+  "timestamp": "2026-10-16T09:54:25.522735529Z",
+  "model": "glm-5.3"
+}

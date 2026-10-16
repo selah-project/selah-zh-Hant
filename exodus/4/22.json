@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞；名詞句『我的兒子、我的長子——以色列』直接並列。"
+    },
+    {
+      "kind": "you",
+      "subject": "對法老",
+      "rationale": "本節為奉雅威之名對法老的直接宣告。"
+    }
+  ],
+  "translation": "你要對法老說：『雅威如此說：以色列是我的兒子，我的長子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ae3d94da7b0abb2679d008711b7ff2ebba24b654259f351a3c86471a595b2561",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/4\/21-24.1792125734342.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "你要說"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "כה",
+      "gloss": "如此"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我的兒子"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "我的長子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T04:42:14.343771829Z",
+  "model": "glm-5.3"
+}

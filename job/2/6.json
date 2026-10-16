@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפשו 字面是「他的生命氣息」，非不朽的靈魂。"
+    },
+    {
+      "kind": "you",
+      "subject": "撒但",
+      "rationale": "雅威直接向撒但說話。"
+    }
+  ],
+  "translation": "雅威對撒但說：「看哪，他在你手中；只是要保守⟨את⟩他的性命。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dcc2ad8e5586abc31c88729202a96bda0340f7952bb1329573ea994d70a22086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/2\/5-8.1792145795800.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "撒但"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "看哪，他"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "在你手中"
+    },
+    {
+      "surface": "אך",
+      "gloss": "只是"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的性命"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "他的性命"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "要保守"
+    }
+  ],
+  "timestamp": "2026-10-16T10:16:35.800721332Z",
+  "model": "glm-5.3"
+}

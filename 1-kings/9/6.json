@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 9:6",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שוב תשובון",
+      "rationale": "不定式絕對型強調同一動詞，「轉回啊你們轉回」，中文以「轉離不跟從」流失了疊加。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "神明",
+      "rationale": "אלהים אחרים 指異教諸神，依紀律用「神明」而非聖名位置的「以羅欣」。"
+    }
+  ],
+  "translation": "倘若你們和你們的子孫轉離不跟從我，不謹守我所擺在你們面前的我的誡命、我的律例，去事奉別的神明，向它們下拜，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "caf5c9a308fc693d9233ac01ea678a1dda312b6f1a3458cbf13358621c5028c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/9\/5-8.1792132927947.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "倘若"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "轉離"
+    },
+    {
+      "surface": "תשבון",
+      "gloss": "你們轉回"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "和你們的子孫"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "從…後面（跟從）"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "謹守"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "我的誡命"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "我的律例"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我所擺"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "在你們面前"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "你們去"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "事奉"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "神明"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別的"
+    },
+    {
+      "surface": "והשתחויתם",
+      "gloss": "下拜"
+    },
+    {
+      "surface": "להם",
+      "gloss": "向它們"
+    }
+  ],
+  "timestamp": "2026-10-16T06:42:07.947908922Z",
+  "model": "glm-5.3"
+}

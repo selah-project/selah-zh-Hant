@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בליעל",
+      "rationale": "『比利亞之子』字義為『無益／邪惡之子』：KJV音譯『比利亞之子』，ASV意譯『卑鄙之人』；本譯保留音譯並括注意義"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文名詞短語作謂語，無動詞，中文加『是』"
+    }
+  ],
+  "translation": "以利的兒子是比利亞之子，他們不認識⟨את⟩雅威。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c7772cce911e9becb4225e1edb4745d07b5bb38d314a26c6d8c2ff0ec9f551a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/2\/9-12.1792130682137.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "的兒子"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "以利"
+    },
+    {
+      "surface": "בני",
+      "gloss": "是……之子"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "比利亞（無益之事）"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "認識"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-10-16T06:04:42.138327996Z",
+  "model": "glm-5.3"
+}

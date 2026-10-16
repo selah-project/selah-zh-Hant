@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 5:25",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨知道⟩",
+      "rationale": "כי 引導知道的內容，中文以重複動詞代替連詞結構"
+    },
+    {
+      "kind": "substitution",
+      "subject": "後裔",
+      "rationale": "זרע 字面是「種子」，指後代子孫"
+    },
+    {
+      "kind": "measurement",
+      "subject": "後裔眾多",
+      "rationale": "以數量形容後代，如草之多"
+    }
+  ],
+  "translation": "你必知道你的後裔眾多，你的子孫多如地上的草。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "15b00edfb0bace69fbc461dbc2f2cb0dd720637d35378d48377bc6b5104e4eb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/5\/25-27.1792145851147.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "你必知道"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨知道⟩"
+    },
+    {
+      "surface": "רב",
+      "gloss": "眾多"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "你的後裔"
+    },
+    {
+      "surface": "וצאצאיך",
+      "gloss": "你的子孫"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "多如草"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:17:31.148225935Z",
+  "model": "glm-5.3"
+}

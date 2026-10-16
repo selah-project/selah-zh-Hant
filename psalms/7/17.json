@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ראשׁ／קדקד",
+      "rationale": "「頭」與「頭頂」同義並列，希伯來詩體的遞進強調，中譯保留兩詞。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עמל",
+      "rationale": "עמל 本義是勞苦、磨人的辛勞，諸英譯作 mischief（惡行）是引申義；此處取字面「勞苦」。"
+    }
+  ],
+  "translation": "他的勞苦必轉回 ⟨到⟩ 他自己的頭上，他的強暴必降下 ⟨到⟩ 他自己的頭頂上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7efd8d651ed44c34e14a7d2f59f32fb178b9adaf08e6c355477f672820d439ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/7\/17-18.1792143185535.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "必轉回"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "他的勞苦"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "在他的頭上"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "而在……之上"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "他的頭頂"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "他的強暴"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "必降下"
+    }
+  ],
+  "timestamp": "2026-10-16T09:33:05.536490195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעיר מצור",
+      "rationale": "「在被圍困的城裡」；七十士譯本作「在堅固的城」，古譯或引申為「他待我如堅固之城」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "被圍困的",
+      "rationale": "מצור 是名詞「圍困／攻城工事」，中文以形容詞短語譯出。"
+    }
+  ],
+  "translation": "雅威是應當稱頌的，因為他在被圍困的城裡向我行了奇妙的慈愛。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "68cb93ed3f4736f9409d2fa87775ae44f66645454f61aa0c138273ed22712673",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/31\/21-24.1792143531802.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "是應當稱頌的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "行了奇妙的事"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "他的慈愛"
+    },
+    {
+      "surface": "לי",
+      "gloss": "向我"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "在城裡"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "圍困"
+    }
+  ],
+  "timestamp": "2026-10-16T09:38:51.803608433Z",
+  "model": "glm-5.3"
+}

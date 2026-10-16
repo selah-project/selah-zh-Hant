@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "他的眾使者",
+      "rationale": "直接向雅威的使者發出的呼召"
+    },
+    {
+      "kind": "invitation",
+      "subject": "你們要稱頌雅威",
+      "rationale": "詩篇結尾的稱頌命令，邀請加入讚美"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דברו……דברו",
+      "rationale": "דברו 在「遵行他話語」與「他話語的聲音」兩次出現，回環結構"
+    }
+  ],
+  "translation": "他的眾使者啊，你們要稱頌雅威，你們這些大能的勇士、遵行他話語的，為要聽從他話語的聲音。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2ed312f170965d0b1999dbd283f2022e3498415a54f083213ea30f0eacb7e436",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/103\/17-20.1792144594770.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "你們要稱頌"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "他的眾使者啊"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "大能的"
+    },
+    {
+      "surface": "כח",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "遵行"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "他話語的"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "為要聽從"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "……的聲音"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "他話語"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:34.771360676Z",
+  "model": "glm-5.3"
+}

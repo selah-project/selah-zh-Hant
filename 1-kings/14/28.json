@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 14:28",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "gloss": "敘事公式「事情是這樣」在中文中由「每逢」的慣用框架吸收。"
+    },
+    {
+      "kind": "addition",
+      "subject": "事後",
+      "rationale": "中文需要時間詞表明「送回」發生在王的行程之後，希伯來文以動詞次序表達。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "תא",
+      "rationale": "תא（房間）一詞在塔納赫中僅見於此處與平行經文，是稀有的借詞。"
+    }
+  ],
+  "translation": "王每逢進雅威的殿，衛兵就抬著它們，事後又把牠們送回衛兵的房間。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "80edccb1bd8991d69023936a1eb78523550bc1fc31a72819daaab35e9f47c076",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/14\/25-28.1792133085836.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "〈每逢〉"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "每逢"
+    },
+    {
+      "surface": "בא",
+      "gloss": "進"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ישאום",
+      "gloss": "抬著它們"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "衛兵"
+    },
+    {
+      "surface": "והשיבום",
+      "gloss": "送回它們"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "תא",
+      "gloss": "房間"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "衛兵的"
+    }
+  ],
+  "timestamp": "2026-10-16T06:44:45.838149084Z",
+  "model": "glm-5.3"
+}

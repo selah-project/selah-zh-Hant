@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 16:16",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 是氣息、生命之力，非不朽的「靈魂」；譯「性命」以存其形。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "厭煩得要死",
+      "rationale": "נפש קצרה 直譯「性命短了」，即忍無可忍、厭煩至死。"
+    }
+  ],
+  "translation": "事情是這樣：她天天用她的話逼他，催促他，以致他的性命厭煩得要死。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6954d2708d79fa7944c9d738d96ceb06aabdd8528dddafbc75dd50f865721150",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/16\/13-16.1792130583611.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "事情是這樣"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הציקה",
+      "gloss": "逼"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "בדבריה",
+      "gloss": "用她的話"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "日子"
+    },
+    {
+      "surface": "ותאלצהו",
+      "gloss": "催促他"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "厭煩"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "他的性命"
+    },
+    {
+      "surface": "למות",
+      "gloss": "要死"
+    }
+  ],
+  "timestamp": "2026-10-16T06:03:03.612855246Z",
+  "model": "glm-5.3"
+}

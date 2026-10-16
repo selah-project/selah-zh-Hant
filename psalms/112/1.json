@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "你們要讚美雅",
+      "rationale": "開頭的命令式呼召讀者加入讚美"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשרי",
+      "rationale": "複數式感歎「何等有福」，與詩 1:1 同式開頭，中文難以保留複數形式"
+    },
+    {
+      "kind": "you",
+      "subject": "對會眾",
+      "rationale": "複數命令式直接向讀者發言"
+    }
+  ],
+  "translation": "你們要讚美雅！那人是何等有福——他敬畏 ⟨את⟩ 雅威，在他的誡命中極其喜悅。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d4924ae05067b5716ba309e8db4bc8e4802d406f50a70a7b1937889f1361042b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/112\/1-4.1792144714667.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "你們要讚美"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "何等有福"
+    },
+    {
+      "surface": "איש",
+      "gloss": "那人"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "在他的誡命中"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "喜悅"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極其"
+    }
+  ],
+  "timestamp": "2026-10-16T09:58:34.667988408Z",
+  "model": "glm-5.3"
+}

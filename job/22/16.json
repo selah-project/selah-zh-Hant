@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 22:16",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "根基被洪流傾瀉",
+      "rationale": "נהר יוצק יסודם 諸本分歧：洪流傾瀉在他們的根基上（KJV、BSB），或其根基如江河傾瀉而去（ASV、JPS）。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "未到時候",
+      "rationale": "לא עת 指壽數未滿、時候未到即被剪除。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "被除滅",
+      "rationale": "קמטו 字面為「被掐摘／收攏」，意即被剪除毀滅。"
+    }
+  ],
+  "translation": "他們未到時候就被除滅，他們的根基被洪流傾瀉沖沒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "86dccf118c83c41272bcbf1b5343d5562fad80354b6f591c88a0104a6f7866d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/22\/13-16.1792146169072.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "他們"
+    },
+    {
+      "surface": "קמטו",
+      "gloss": "被除滅"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "未"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時候"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "洪流"
+    },
+    {
+      "surface": "יוצק",
+      "gloss": "傾瀉"
+    },
+    {
+      "surface": "יסודם",
+      "gloss": "他們的根基"
+    }
+  ],
+  "timestamp": "2026-10-16T10:22:49.073205644Z",
+  "model": "glm-5.3"
+}

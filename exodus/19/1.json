@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "以後",
+      "rationale": "中文時間子句需要「以後」標明先後，希伯來文以不定式結構לצאת直接並列"
+    },
+    {
+      "kind": "measurement",
+      "subject": "第三個月",
+      "rationale": "出埃及的日期被精確計算：第三個月、這一天"
+    }
+  ],
+  "translation": "以色列人出埃及地以後第三個月，就在這一天，他們來到了西奈的曠野。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "53312d6f7d1a7d676e93f00e347dea7a63a86d6533150cc76963ca830a037917",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/19\/1-4.1792126070381.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "在……月"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "出去"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "從……地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在……之日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "באו",
+      "gloss": "來到"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "西奈"
+    }
+  ],
+  "timestamp": "2026-10-16T04:47:50.381841195Z",
+  "model": "glm-5.3"
+}

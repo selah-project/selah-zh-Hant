@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 16:11",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "משתין בקיר",
+      "rationale": "「對著牆撒尿的」是希伯來俗語，指男性；英文欽定本照字面保留，現代譯本多改作「男丁」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גואל",
+      "rationale": "גאליו 是按親族律有贖回義務的至親，非泛指親屬"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא השאיר",
+      "rationale": "「留下」（שׁאר）與「倖存者」（שׁארית）同根，滅族敘事的慣用語"
+    }
+  ],
+  "translation": "他一作王、一坐上寶座，就擊殺了 ⟨את⟩ 巴沙的全家，不留一個男的——他的至親和 他的朋友也不留下。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6f02ec899826ec5a24e1809910db58003015a7afa903464827bd41d854d62eee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/16\/9-12.1792133108357.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生了"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "他作王時"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "一坐上"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "他的寶座"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "擊殺"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "巴沙的全家"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "巴沙"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "留下"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給他"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "撒尿的"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "對著牆"
+    },
+    {
+      "surface": "וגאליו",
+      "gloss": "他的至親"
+    },
+    {
+      "surface": "ורעהו",
+      "gloss": "他的朋友"
+    }
+  ],
+  "timestamp": "2026-10-16T06:45:08.358735530Z",
+  "model": "glm-5.3"
+}

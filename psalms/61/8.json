@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 61:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מן",
+      "rationale": "此處מן是動詞「派定／量給」（מנה），非介詞「從」；和合本作「願你預備」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חסד",
+      "rationale": "固定譯作「慈愛」，一詞到底"
+    }
+  ],
+  "translation": "願他永遠坐在以羅欣面前；願你派定慈愛和信實守護他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e514c71f90a4fc1c9677f6e8e9538a38e3818fd64769b312040f215d9a183196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/61\/5-8.1792144018238.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "願他坐在"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在……面前"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "慈愛"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "和信實"
+    },
+    {
+      "surface": "מן",
+      "gloss": "願你派定"
+    },
+    {
+      "surface": "ינצרהו",
+      "gloss": "守護他"
+    }
+  ],
+  "timestamp": "2026-10-16T09:46:58.239814610Z",
+  "model": "glm-5.3"
+}

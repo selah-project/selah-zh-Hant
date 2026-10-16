@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "למה…מה",
+      "rationale": "「為什麼」（לָמָּה）與「什麼」（מֶה）兩個疑問詞連用，聲音呼應，中文難以保留"
+    },
+    {
+      "kind": "you",
+      "subject": "to Saul",
+      "rationale": "約拿單對父親掃羅的直接抗辯提問"
+    }
+  ],
+  "translation": "約拿單回答 ⟨את⟩ 他父親掃羅，對他說：「他為什麼要被處死？他做了什麼？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bd8c22950af1f0ced08a2a5031be67ab40715f7aa1f7964f3838ebdbb95809c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/20\/29-32.1792131309850.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "他回答"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他父親掃羅"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "他父親"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "對他說"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "למה",
+      "gloss": "為什麼"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "他要被處死"
+    },
+    {
+      "surface": "מה",
+      "gloss": "什麼"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "他做了"
+    }
+  ],
+  "timestamp": "2026-10-16T06:15:09.852401955Z",
+  "model": "glm-5.3"
+}

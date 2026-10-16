@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 4:9",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "一位",
+      "rationale": "中文需要量詞，希伯來文無冠詞於此"
+    },
+    {
+      "kind": "substitution",
+      "subject": "以羅欣之人",
+      "rationale": "איש אלהים 直譯「以羅欣的人」，是先知的稱號"
+    }
+  ],
+  "translation": "她對她丈夫說：「看哪，求你留意，我知道他是一位聖潔的以羅欣之人（神），他常常從我們這裡經過。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5466244a943ad9442a68a231c0fd68c1830165fd0540e6b743de938a048b0146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/4\/9-12.1792133536759.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "她說"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "她的丈夫"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "נא",
+      "gloss": "求你留意"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我知道"
+    },
+    {
+      "surface": "כי",
+      "gloss": "知道……（引導從句）"
+    },
+    {
+      "surface": "איש",
+      "gloss": "之人"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖潔的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "經過"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "從我們這裡"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "常常"
+    }
+  ],
+  "timestamp": "2026-10-16T06:52:16.759617969Z",
+  "model": "glm-5.3"
+}

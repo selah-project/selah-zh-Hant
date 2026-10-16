@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם תקטל",
+      "rationale": "條件式「你若殺戮惡人」（JPS、YLT）或肯定式「你必殺戮惡人」（KJV）；此處保留條件式。"
+    },
+    {
+      "kind": "you",
+      "subject": "to 以羅阿 \/ to the men of blood",
+      "rationale": "雙重呼語：向以羅阿祈願，並命令血腥之人離開。"
+    },
+    {
+      "kind": "addition",
+      "subject": "語序調整",
+      "rationale": "「血腥之人啊」前置以配合呼語語序，希伯來文為「流血之人」。"
+    }
+  ],
+  "translation": "以羅阿啊，你若殺戮惡人，血腥之人啊，你們離開我吧！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5f1308854f1c29eb210d34e9b38332f8fcb9733b46c0dfa608ccb6c3073ebdf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/139\/17-20.1792145084435.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "你殺戮"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "以羅阿啊"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "血腥之人啊"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "（流）血的"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "你們離開吧"
+    },
+    {
+      "surface": "מני",
+      "gloss": "離開我"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:44.438304077Z",
+  "model": "glm-5.3"
+}

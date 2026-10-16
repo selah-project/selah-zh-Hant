@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 134,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the Levites",
+      "rationale": "本詩向夜間在聖殿事奉的僕人發出稱頌的呼召，是上行之詩群體的收尾邀請。"
+    },
+    {
+      "kind": "elision",
+      "subject": "שיר המעלות",
+      "rationale": "標題「上行之詩」與首呼籲合併為一句，詞序依中文調整。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברכו／יברכך",
+      "rationale": "第1節的呼召 ברכו（你們要稱頌）在第3節回應為 יברכך（祂賜福你），稱頌往返的結構。"
+    }
+  ],
+  "translation": "上行之詩。看哪，所有事奉雅威的僕人，夜間站在雅威殿中的，你們要稱頌 ⟨את⟩ 雅威！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9416ce6ae5af9e17335c739a8b2f3510b81a1506037e9a6fc535ce2dfed4d2db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/134\/1-3.1792144938571.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "上行之詩"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "上行之詩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "你們要稱頌"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "僕人"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "站在"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "殿中"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "夜間"
+    }
+  ],
+  "timestamp": "2026-10-16T10:02:18.572222857Z",
+  "model": "glm-5.3"
+}

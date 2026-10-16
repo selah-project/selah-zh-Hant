@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 1:5",
+  "book": "micah",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "במות",
+      "rationale": "原文「高處」指敬拜用的邱壇，譯作邱壇以保留宗教語境"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "修辭問句向聽眾發問，期待他們自己認出罪之所在"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פשע יעקב",
+      "rationale": "「雅各的悖逆」在句首與句中重複，首尾呼應，中文保留重複"
+    }
+  ],
+  "translation": "這一切都是因雅各的悖逆，因以色列家的罪惡。雅各的悖逆是甚麼？豈不是撒馬利亞嗎？猶大的邱壇是甚麼？豈不是耶路撒冷嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f23bbf7893dbd1f65357db5290689e8ff814bde0b8e15661ca11a7e96f050348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/micah\/1\/5-8.1792139998859.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "因……的悖逆"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "כל",
+      "gloss": "這一切"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "都"
+    },
+    {
+      "surface": "ובחטאות",
+      "gloss": "並因……的罪惡"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מי",
+      "gloss": "甚麼是"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "悖逆"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "豈不是"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒馬利亞"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "甚麼是"
+    },
+    {
+      "surface": "במות",
+      "gloss": "邱壇"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "豈不是"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-10-16T08:39:58.860550700Z",
+  "model": "glm-5.3"
+}

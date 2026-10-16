@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "馬所拉文本無את，譯文按清輔音文本加 ⟨את⟩ 標記以示受詞；此乃配合兩種文本之差異。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "奮勇",
+      "rationale": "חיל 本義為力量、軍力；「奮勇行事」是成語式意譯。"
+    }
+  ],
+  "translation": "靠著以羅欣，我們必奮勇行事；他必踐踏 ⟨את⟩ 我們的仇敵。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d68e83efc903ae7fe44dd33932e52d81132b5b7547f878a3e0fd048430ffa7d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/60\/13-14.1792143996864.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "靠著以羅欣"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "我們必行事"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "奮勇"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "必踐踏"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "我們的仇敵"
+    }
+  ],
+  "timestamp": "2026-10-16T09:46:36.864644758Z",
+  "model": "glm-5.3"
+}

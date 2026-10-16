@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 5:8",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משכים",
+      "rationale": "字根 שׁכה「因慾遊蕩」（ASV、JPS） vs KJV 讀作 שׁחר「清晨」（in the morning）；此處取慾蕩義"
+    },
+    {
+      "kind": "substitution",
+      "subject": "嘶鳴",
+      "rationale": "יצהלו 本指馬的嘶叫，用作男子對鄰舍之妻的慾求意象"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מיזנים",
+      "rationale": "זוּן（餵養）的 Pual 分詞複數，全塔納赫僅此一見"
+    }
+  ],
+  "translation": "他們成了餵飽的馬、發情遊蕩的種馬，各人向鄰舍的妻子嘶鳴。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2cfed1f50c62ce2f6a9ae9e6a509d262fbbbc74e934d8bc84791336d1677c9e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/5\/5-8.1792136208420.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סוסים",
+      "gloss": "馬"
+    },
+    {
+      "surface": "מיזנים",
+      "gloss": "餵飽的"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "發情遊蕩的"
+    },
+    {
+      "surface": "היו",
+      "gloss": "他們成了"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "…的妻子"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "鄰舍"
+    },
+    {
+      "surface": "יצהלו",
+      "gloss": "嘶鳴"
+    }
+  ],
+  "timestamp": "2026-10-16T07:36:48.421354463Z",
+  "model": "glm-5.3"
+}

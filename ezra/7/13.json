@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 7:13",
+  "book": "ezra",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "都可以",
+      "rationale": "亞蘭文的命令語氣由語序承擔，中文需要加副詞語表達許可"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "למהך…יהך",
+      "rationale": "兩個「去」的動詞呼應（不定式＋完成式），中文以「前往…可以去」保留重複"
+    },
+    {
+      "kind": "elision",
+      "subject": "די",
+      "rationale": "亞蘭文關係詞 די 融入「凡」字，無獨立譯詞"
+    }
+  ],
+  "translation": "由我下令：凡在我國度中出於以色列民、其祭司和利未人、自願前往耶路撒冷的，都可以與你同去。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e176927bf031fd35e0ac726b6118fc75e9224b8839d3735e3e18d8c67dea0508",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/7\/13-16.1792147803249.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מני",
+      "gloss": "由"
+    },
+    {
+      "surface": "שים",
+      "gloss": "下令"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "命令"
+    },
+    {
+      "surface": "די",
+      "gloss": "凡"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "מתנדב",
+      "gloss": "自願的"
+    },
+    {
+      "surface": "במלכותי",
+      "gloss": "在我國度中"
+    },
+    {
+      "surface": "מן",
+      "gloss": "出於"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "民"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וכהנוהי",
+      "gloss": "和其祭司"
+    },
+    {
+      "surface": "ולויא",
+      "gloss": "和利未人"
+    },
+    {
+      "surface": "למהך",
+      "gloss": "前往"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "與你同去"
+    },
+    {
+      "surface": "יהך",
+      "gloss": "⟨他⟩可以去"
+    }
+  ],
+  "timestamp": "2026-10-16T10:50:03.250386986Z",
+  "model": "glm-5.3"
+}

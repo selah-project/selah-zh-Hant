@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "一個",
+      "rationale": "中文需要量詞『一個』，希伯來文無"
+    }
+  ],
+  "translation": "她就懷孕，生了一個兒子，他就給他起名叫珥。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b2ec8a3f0783383dbf76f05b0576657ea541207c96c2c8a39049f2bbab938dc4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/38\/1-4.1792125386469.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "懷孕"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "生了"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "起名"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的名字"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "他的名字"
+    },
+    {
+      "surface": "ער",
+      "gloss": "珥"
+    }
+  ],
+  "timestamp": "2026-10-16T04:36:26.470667435Z",
+  "model": "glm-5.3"
+}

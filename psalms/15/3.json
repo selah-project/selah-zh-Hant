@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "毀謗",
+      "rationale": "רגל字面是「用腳行走／窺探」，此處慣用義為舌上誹謗"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעה\/רעהו",
+      "rationale": "「惡」（רעה）與「同伴」（רעהו）同根近音，中文無法保留"
+    }
+  ],
+  "translation": "他不以舌頭毀謗，不對同伴行惡，也不舉起羞辱加於他的近人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7bd07a927db12a3c9f3ba9985d72ca75203c33e4e56e90f4e39c2c8eb5ed67a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/15\/1-4.1792143334522.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "毀謗"
+    },
+    {
+      "surface": "על",
+      "gloss": "以"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "他的舌頭"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "對他的同伴"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "惡"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "羞辱"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "舉起"
+    },
+    {
+      "surface": "על",
+      "gloss": "加於"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "他的近人"
+    }
+  ],
+  "timestamp": "2026-10-16T09:35:34.523254792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תשלג בצלמון",
+      "rationale": "「撒們下雪」：被殺者的白甲如雪，或直指撒們山降雪為比喻。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "沙代",
+      "rationale": "שדי 音譯為沙代，不譯作「全能者」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "之時",
+      "rationale": "希伯來文時態結構，中文需補時間連接詞。"
+    }
+  ],
+  "translation": "沙代在其中的山上驅散君王們⟨之時⟩，撒們山就下雪一般潔白。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "332e26d3e902df686a11d308ceb207dbff09942d7d48b00832af7ed49536235d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/68\/13-16.1792144073279.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "驅散"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "沙代"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "君王們"
+    },
+    {
+      "surface": "בה",
+      "gloss": "在其中"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "下雪一般潔白"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "在撒們"
+    }
+  ],
+  "timestamp": "2026-10-16T09:47:53.280545490Z",
+  "model": "glm-5.3"
+}

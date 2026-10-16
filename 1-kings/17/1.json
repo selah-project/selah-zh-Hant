@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 17:1",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "希伯來文的雙重否定結構「若非……除非」，中文以「若非」一句承擔。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לפניו עמדתי",
+      "rationale": "「站在他面前」可直譯，也常指在神面前事奉，此處保留字面。"
+    },
+    {
+      "kind": "you",
+      "subject": "對亞哈",
+      "rationale": "以利亞直接向亞哈王宣告誓言與審判。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חי יהוה",
+      "rationale": "起誓公式「雅威永活」，與下文的旱災形成生死對照。"
+    }
+  ],
+  "translation": "提斯比人以利亞——他本是基列的寄居者——對亞哈說：「雅威以色列的以羅欣永活，我正是站在他面前〈事奉〉的。這些年間，若非憑我的話，必有露水和雨水。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bdbf93178e807a081979c543dea798b3abe00eb771bbc55599859ae788ef2d11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/17\/1-4.1792133139222.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "以利亞"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "提斯比人"
+    },
+    {
+      "surface": "מתשבי",
+      "gloss": "寄居者"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "基列"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "חי",
+      "gloss": "永活"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "他"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "我站在"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "他面前"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若非"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "有"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "年間"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "טל",
+      "gloss": "露水"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "和雨水"
+    },
+    {
+      "surface": "כי",
+      "gloss": "除非"
+    },
+    {
+      "surface": "אם",
+      "gloss": "（若非……則）"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "憑……的話"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "我的話"
+    }
+  ],
+  "timestamp": "2026-10-16T06:45:39.222719841Z",
+  "model": "glm-5.3"
+}

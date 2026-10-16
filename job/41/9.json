@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 41:9",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "איש באחיהו",
+      "rationale": "KJV\/ASV 讀為不同母音（איו\/תוחלתו）：『看哪，指望他是徒然的』；馬所拉文本字面是『各與其弟兄』，指鱗片彼此相連。"
+    },
+    {
+      "kind": "addition",
+      "subject": "鱗片",
+      "rationale": "希伯來文未明說主語是鱗片，由上下文補出。"
+    },
+    {
+      "kind": "you",
+      "subject": "to the reader",
+      "rationale": "向聽者描繪利維坦的形象"
+    }
+  ],
+  "translation": "鱗片各與其鄰緊緊相連，互相扣合，不能分開。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a1979f6f514715784fb8510322ebed528f6f814a8a9b6fb470e8d0f8c9a4b649",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/41\/9-12.1792146507058.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "各"
+    },
+    {
+      "surface": "באחיהו",
+      "gloss": "與其鄰"
+    },
+    {
+      "surface": "ידבקו",
+      "gloss": "緊緊相連"
+    },
+    {
+      "surface": "יתלכדו",
+      "gloss": "互相扣合"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不能"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "分開"
+    }
+  ],
+  "timestamp": "2026-10-16T10:28:27.059207323Z",
+  "model": "glm-5.3"
+}

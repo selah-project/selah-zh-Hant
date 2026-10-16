@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 3:33",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "希伯來文動詞 יברך 未標明主語，中文補出主語「他」（指雅威）"
+    },
+    {
+      "kind": "elision",
+      "subject": "ו",
+      "gloss-note": "連接詞 ו 併入「卻」",
+      "rationale": "反義並列的 ו 以「卻」呈現"
+    }
+  ],
+  "translation": "雅威的咒詛在惡人的家中；他卻賜福給義人的居所。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4c2febe255b67608ce402a341d5dff6805a7c4e4fb5fe890ffabef4f6ffedd2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/3\/33-35.1792145199798.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מארת",
+      "gloss": "咒詛"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "在……的家"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "ונוה",
+      "gloss": "卻……居所"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義人"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "賜福"
+    }
+  ],
+  "timestamp": "2026-10-16T10:06:39.799410952Z",
+  "model": "glm-5.3"
+}

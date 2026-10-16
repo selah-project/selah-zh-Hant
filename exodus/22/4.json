@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יבער",
+      "rationale": "同詞根兼有「燒毀」與「吃盡」（放牧吞吃）二義；本節配合「放出牲畜」，取吃盡義，但火燒之義仍在字面之下。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "以最好的償還",
+      "rationale": "賠償標準不是等值而是「田中最好的」，量化司法賠償。"
+    }
+  ],
+  "translation": "若有人使田地或葡萄園被吃盡，又放出⟨את⟩牲畜，在別人的田裡吃光，他要以自己田中最好的、自己葡萄園中最好的來償還。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1bc048124d35040857de33e617141d813587dc1df0fd409e15c47105e3bbd233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/22\/1-4.1792126167548.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "使被吃盡"
+    },
+    {
+      "surface": "איש",
+      "gloss": "有人"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "田地"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "葡萄園"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "又放出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "牲畜"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "吃光"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "在別人的田裡"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "別人的"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "最好的"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "自己田中"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "最好的"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "自己葡萄園中"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "他要償還"
+    }
+  ],
+  "timestamp": "2026-10-16T04:49:27.549167713Z",
+  "model": "glm-5.3"
+}

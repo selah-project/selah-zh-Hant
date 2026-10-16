@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 13:22",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "所殺的人",
+      "rationale": "חלל 字面是「被刺透者」，譯作所殺的人失去刺透意象。"
+    },
+    {
+      "kind": "crux",
+      "subject": "行占卜的",
+      "rationale": "הקוסם 或譯「占卜的／觀兆的」；此詞為巴蘭在塔納赫中唯一的職稱。"
+    }
+  ],
+  "translation": "以色列人又用刀殺了⟨את⟩比珥的兒子巴蘭——那行占卜的——把他殺在他們所殺的人中間。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1e40b2b2ecabc68850feffe9029de7d0556398db8a4973938d2d009a0f203185",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/13\/21-24.1792129736151.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "巴蘭"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "巴蘭"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "比珥"
+    },
+    {
+      "surface": "הקוסם",
+      "gloss": "行占卜的"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "殺了"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "用刀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到…之中"
+    },
+    {
+      "surface": "חלליהם",
+      "gloss": "他們所殺的人中"
+    }
+  ],
+  "timestamp": "2026-10-16T05:48:56.152556757Z",
+  "model": "glm-5.3"
+}

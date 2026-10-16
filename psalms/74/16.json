@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "屬",
+      "rationale": "希伯來文僅用介詞לְ表所屬，中文需動詞「屬」"
+    },
+    {
+      "kind": "you",
+      "subject": "向雅威",
+      "rationale": "延續全詩對雅威的直接稱呼"
+    }
+  ],
+  "translation": "白日屬你，黑夜也屬你；你安置了光體和太陽。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e380654d7fe66c6dd0049f625c92bb1a533cbbc6c38bf76f3da97a9022af5cab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/74\/13-16.1792144256531.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "屬你"
+    },
+    {
+      "surface": "יום",
+      "gloss": "白日"
+    },
+    {
+      "surface": "אף",
+      "gloss": "也"
+    },
+    {
+      "surface": "לך",
+      "gloss": "屬你"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "黑夜"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "安置了"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "光體"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "和太陽"
+    }
+  ],
+  "timestamp": "2026-10-16T09:50:56.532665968Z",
+  "model": "glm-5.3"
+}

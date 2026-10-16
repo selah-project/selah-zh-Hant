@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "משכבי אשה",
+      "rationale": "直譯「女人的床位」，委婉指性交方式；譯作「如同與女人同寢的床位」以保留床的意象"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות יומתו",
+      "rationale": "不定詞絕對型加動詞的強調結構「死—必被處死」，中文以「必被處死」單次表達，重複的力度減弱"
+    },
+    {
+      "kind": "substitution",
+      "subject": "血歸在他們身上",
+      "rationale": "דמיהם בם 是希伯來法律慣語，意為罪責自負；保留直譯「血歸在他們身上」"
+    }
+  ],
+  "translation": "若有男人與 ⟨את⟩ 男性同寢，如同與女人同寢的床位，二人行了可憎惡的事；他們必被處死，他們的血必歸在他們身上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fe2e779e9253bccdc3924a71ac6631b21e796827476e04921208cd48d889ae7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/20\/13-16.1792127213788.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "若有男人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "凡…的"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "同寢"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "男性"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "男性"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "同寢的床位"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女人"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "可憎惡的事"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "行了"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "二人"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "必被處死"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "他們的血"
+    },
+    {
+      "surface": "בם",
+      "gloss": "歸在他們身上"
+    }
+  ],
+  "timestamp": "2026-10-16T05:06:53.788955565Z",
+  "model": "glm-5.3"
+}

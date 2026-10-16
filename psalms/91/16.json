@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "足享",
+      "rationale": "שבע字義為『吃飽、滿足』，以長壽為食糧使其飽足的意象"
+    },
+    {
+      "kind": "addition",
+      "subject": "「」",
+      "rationale": "原文無引號，中文以引號收束14節起雅威的直接發言"
+    }
+  ],
+  "translation": "我必使他足享長壽，並將我的救恩顯明給他看。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "350e53d9d9d1a37ee4016964f01e5c78257c6a62f78b4d7de4dedb33cf8fdf58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/91\/13-16.1792144503127.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "長"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "（多）日子"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "我必使他足享"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "並顯明給他看"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "我的救恩"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:03.128572152Z",
+  "model": "glm-5.3"
+}

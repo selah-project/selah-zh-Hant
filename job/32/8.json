@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 32:8",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רוח",
+      "rationale": "רוה雙關「風／氣息／靈」；中譯依紀律作「魯阿」並首次括註「靈」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "沙代",
+      "rationale": "音譯「沙代」而非頭銜「全能者」，依名號表"
+    }
+  ],
+  "translation": "誠然，是人裡面的魯阿（靈），是沙代的氣息使他們明白。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1d1705853fb0f863e2d13261d331502655f8bcb5af8089895cb8c245216a5636",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/32\/5-8.1792146368600.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "誠然"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "魯阿（靈）"
+    },
+    {
+      "surface": "היא",
+      "gloss": "是"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "氣息"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "沙代"
+    },
+    {
+      "surface": "תבינם",
+      "gloss": "使他們明白"
+    }
+  ],
+  "timestamp": "2026-10-16T10:26:08.601526736Z",
+  "model": "glm-5.3"
+}

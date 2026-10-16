@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "總",
+      "rationale": "איננו מלא是持續否定『不滿』，中文加『總』以顯其恆常"
+    },
+    {
+      "kind": "crux",
+      "subject": "ללכת",
+      "rationale": "不定式『再去』：河水回源頭重新流出，循環不息；或僅指『再走一遍』"
+    }
+  ],
+  "translation": "眾江河都流向海，海卻總不滿盈；江河所流向的那個地方，它們從那裡再轉回、繼續流去。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7ee817c5897eb9019f5f2eb1e4bead17372d0ec66a5cd051a57637b4597197cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/1\/5-8.1792146976259.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "眾"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "江河"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "流"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "והים",
+      "gloss": "海"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "總不"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "滿盈"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "那個地方"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "江河"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "流"
+    },
+    {
+      "surface": "שם",
+      "gloss": "從那裡"
+    },
+    {
+      "surface": "הם",
+      "gloss": "它們"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "轉回"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "繼續流去"
+    }
+  ],
+  "timestamp": "2026-10-16T10:36:16.260761867Z",
+  "model": "glm-5.3"
+}

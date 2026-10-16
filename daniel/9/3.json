@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "將我的臉轉向",
+      "rationale": "希伯來成語指定意尋求；中文字面仍可通"
+    },
+    {
+      "kind": "addition",
+      "subject": "我的",
+      "rationale": "פני 已含人稱，中文補「我的臉」以成句"
+    }
+  ],
+  "translation": "我便將 ⟨את⟩ 我的臉轉向阿多奈——以羅欣（神）——，尋求祈禱和懇求，禁食、披麻、蒙灰。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "74d62cb22e6b7225db46b483f329d99413e8537809ee9b866c6368f05877ddae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/daniel\/9\/1-4.1792147638088.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "我便轉向"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的臉"
+    },
+    {
+      "surface": "פני",
+      "gloss": "臉"
+    },
+    {
+      "surface": "אל",
+      "gloss": "朝向"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣（神）"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "尋求"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "祈禱"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "懇求"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "禁食"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "披麻"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "蒙灰"
+    }
+  ],
+  "timestamp": "2026-10-16T10:47:18.089204140Z",
+  "model": "glm-5.3"
+}

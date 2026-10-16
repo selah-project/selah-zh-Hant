@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 7:14",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "〈他們〉",
+      "rationale": "「王打發」的受詞由中文補出。"
+    },
+    {
+      "kind": "you",
+      "subject": "使者",
+      "rationale": "王的命令直接對被打發的人說：「你們去，看看。」"
+    }
+  ],
+  "translation": "於是他們取了兩輛戰車的馬，王打發〈他們〉跟隨亞蘭的營，說：「你們去，看看。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0650925f038af21d69307956d1da21e9ca7bb89c309b72b226877c6f7de52592",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/7\/13-16.1792133777188.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "於是他們取了"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "輛戰車"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "的馬"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "打發"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "跟隨"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "你們去"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "看看"
+    }
+  ],
+  "timestamp": "2026-10-16T06:56:17.189691003Z",
+  "model": "glm-5.3"
+}

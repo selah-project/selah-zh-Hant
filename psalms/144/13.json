@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל־זן",
+      "rationale": "「一樣又一樣」的重疊片語併入「各樣」，其重疊修辭失落"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מזוינו",
+      "rationale": "מֶזֶו（穀倉）僅於此處出現於《塔納赫》"
+    }
+  ],
+  "translation": "我們的穀倉滿溢，供應各樣糧食；我們的羊群以千計、以萬計，充滿我們的街市。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "03ec3eb36db4f12f8b8d9b5531d39acebaed495ef25298a17ffb668739be92ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/144\/13-15.1792145057921.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "我們的穀倉"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "滿溢"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "供應"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "各樣糧食"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "זן",
+      "gloss": ""
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "我們的羊群"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "以千計"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "以萬計"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "充滿我們的街市"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:17.922035335Z",
+  "model": "glm-5.3"
+}

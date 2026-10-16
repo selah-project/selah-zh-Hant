@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "諸天與地",
+      "rationale": "摩西召喚天地作見證，開場的呼召句"
+    },
+    {
+      "kind": "substitution",
+      "subject": "האזינו",
+      "rationale": "字面是「舒展耳朵」，譯作「側耳聆聽」保留耳朵的圖像"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האזינו\/אזן",
+      "rationale": "與「耳朵」（אֹזֶן）同根，開篇即以聽覺意象呼喚聆聽"
+    }
+  ],
+  "translation": "諸天哪，你們要側耳聆聽，我就說話；願地聽我口中的言語。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5ea134ecc658e6dcff41e48ec371637446f66eb77588760d54d8fcd24bfc9dfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/32\/1-4.1792129349911.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "要側耳聆聽"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "諸天哪"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "我就說話"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "願…聽"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "言語"
+    },
+    {
+      "surface": "פי",
+      "gloss": "我口中的"
+    }
+  ],
+  "timestamp": "2026-10-16T05:42:29.912426813Z",
+  "model": "glm-5.3"
+}

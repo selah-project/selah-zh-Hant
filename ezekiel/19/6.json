@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 19:6",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לטרף\/טרף",
+      "rationale": "同根動詞與名詞並列（撕碎獵物），中文以兩詞呈現，原文音韻重疊"
+    },
+    {
+      "kind": "addition",
+      "subject": "牠",
+      "rationale": "中文需補代詞指明小獅"
+    }
+  ],
+  "translation": "牠在眾獅子中間行走，成了少壯獅子；牠學會了撕碎獵物，吞吃人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1da2ff61c81e6a171a547f8fd2a4dced5eda83ff3b8fc3d9ad5113e43e8450b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/19\/5-8.1792138351376.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "行走"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "在中間"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "眾獅子"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "少壯獅子"
+    },
+    {
+      "surface": "היה",
+      "gloss": "成了"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "學會了"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "撕碎"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "獵物"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "吞吃"
+    }
+  ],
+  "timestamp": "2026-10-16T08:12:31.377057526Z",
+  "model": "glm-5.3"
+}

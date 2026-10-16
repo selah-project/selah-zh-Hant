@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 5:1",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "你",
+      "rationale": "翻譯開頭加了代名詞「你的」，希伯來文由否定詞直接開始"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על פיך",
+      "rationale": "字面「在你的口上」，即急於開口；中文以「你的口不可急躁」保留口的形像"
+    },
+    {
+      "kind": "addition",
+      "subject": "卻",
+      "rationale": "「你卻在地上」的對比語氣詞為中文所加"
+    },
+    {
+      "kind": "you",
+      "subject": "對讀者",
+      "rationale": "全節以第二人稱單數直接勸誡說話者"
+    },
+    {
+      "kind": "invitation",
+      "subject": "勸誡",
+      "rationale": "命令式勸人在以羅欣面前謹慎言語"
+    }
+  ],
+  "translation": "你的口不可急躁，你的心也不可急於在以羅欣面前發出話語，因為以羅欣在天上，你卻在地上，所以你的話要少。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "673c0bdcb3d48faa53297bc9d5e2aee1f7d214ecc60a1d397cb7399cae0c6460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/5\/1-4.1792147009708.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "急躁"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "你的口"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "而你的心"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "ימהר",
+      "gloss": "急於"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "發出"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "在天上"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "而你"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "על",
+      "gloss": "因"
+    },
+    {
+      "surface": "כן",
+      "gloss": "此"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "要是"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "你的話"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "少"
+    }
+  ],
+  "timestamp": "2026-10-16T10:36:49.709206976Z",
+  "model": "glm-5.3"
+}

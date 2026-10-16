@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עמי נדיב",
+      "rationale": "和合本音譯『亞米拿達』（視為專名），另一讀法『我民的尊貴者』；取後者因 נדיב 是普通形容詞。"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא ידעתי נפשי",
+      "rationale": "『我不知道我的性命』或『我不知不覺』；本句為全書最著名的難節之一，譯法分歧極大。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 是『氣息、生命之力』，非不朽的『靈魂』。"
+    }
+  ],
+  "translation": "我不知道，我的性命把我安置在我民尊貴者的戰車之中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6f38d403ae09845fc89e09fc897603b7a6828239b85cf63706400c3330e480dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/6\/9-12.1792146583895.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我知道"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "把我安置"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "戰車"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我民"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "尊貴者"
+    }
+  ],
+  "timestamp": "2026-10-16T10:29:43.897053694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 23:9",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "賣",
+      "rationale": "希伯來文只說「給」，中文補「賣」以表明交易性質"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מכפלה",
+      "rationale": "或與「雙倍」(כפול)相關——洞穴的雙重結構，地名含義不明"
+    }
+  ],
+  "translation": "願他將 ⟨את⟩ 麥比拉洞——那在他田邊盡頭、屬於他的——按足價的銀子賣給我，在你們中間給我，作為墳地的產業。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9ec02d068673cbc7db4f35cacb5cefe4bb3b66de55035064242eb8901ba3efed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/23\/9-12.1792124914926.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "願他將……給"
+    },
+    {
+      "surface": "לי",
+      "gloss": "給我"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "麥比拉洞"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "洞"
+    },
+    {
+      "surface": "המכפלה",
+      "gloss": "麥比拉"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那……的"
+    },
+    {
+      "surface": "לו",
+      "gloss": "屬於他"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那……的"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "在……盡頭"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "他的田"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "按銀子"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "足價的"
+    },
+    {
+      "surface": "יתננה",
+      "gloss": "願他給它"
+    },
+    {
+      "surface": "לי",
+      "gloss": "給我"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "在你們中間"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "作為產業"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "墳地"
+    }
+  ],
+  "timestamp": "2026-10-16T04:28:34.927143085Z",
+  "model": "glm-5.3"
+}

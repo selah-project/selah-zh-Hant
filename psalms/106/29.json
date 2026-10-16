@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 106:29",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨他⟩",
+      "rationale": "希伯來文只說「惹怒」，未標明對象；中文需補出受詞（參上下文指雅威）"
+    },
+    {
+      "kind": "crux",
+      "subject": "במעלליהם",
+      "gloss_note": "",
+      "rationale": "「作為」可指他們的行徑或計謀；諸譯本作 inventions\/doings"
+    }
+  ],
+  "translation": "他們以自己的作為惹動⟨他⟩怒氣，瘟疫便在他們中間爆發。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9f3419b065176ead4aff283b6c319055849ef011e69e14d1cdca7b6ada534d56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/106\/29-32.1792144694349.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכעיסו",
+      "gloss": "惹動怒氣"
+    },
+    {
+      "surface": "במעלליהם",
+      "gloss": "以自己的作為"
+    },
+    {
+      "surface": "ותפרץ",
+      "gloss": "便爆發"
+    },
+    {
+      "surface": "בם",
+      "gloss": "在他們中間"
+    },
+    {
+      "surface": "מגפה",
+      "gloss": "瘟疫"
+    }
+  ],
+  "timestamp": "2026-10-16T09:58:14.350178Z",
+  "model": "glm-5.3"
+}

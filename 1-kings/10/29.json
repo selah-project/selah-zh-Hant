@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 10:29",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בידם יצאו",
+      "rationale": "「由他們經手運出」——主詞是誰（所羅門的商人？眾王？）歷代譯本分歧：欽定本作「他們藉此手段運出」，耶路撒冷塔納赫暗示所羅門是出口商。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שקל（舍客勒）",
+      "rationale": "原文只作「六百銀子」，「舍客勒」為公認重量單位的補充，我以括註補出。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "價格",
+      "rationale": "本節是戰車與馬的價格清單：六百銀子、一百五十銀子。"
+    },
+    {
+      "kind": "elision",
+      "subject": "ותעלה ותצא",
+      "rationale": "希伯來文連用兩個動詞「上來、出來」描述進口流程，中文以「上來、運出來」並存保留雙動詞結構。"
+    }
+  ],
+  "translation": "有戰車從埃及上來、運出來，一輛⟨要⟩六百舍客勒銀子；馬一匹一百五十⟨舍客勒⟩。同樣地，這些都由他們經手，運給眾赫人諸王和亞蘭諸王。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b7f10c0327552518781a6cc0b938393d3e0d2faf5712657e3e8e39286274548b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/10\/29-29.1792132776578.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותעלה",
+      "gloss": "上來"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "運出來"
+    },
+    {
+      "surface": "מרכבה",
+      "gloss": "戰車"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "從埃及"
+    },
+    {
+      "surface": "בשש",
+      "gloss": "六"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀子"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "馬"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "又一百"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "同樣地"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "給所有"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "赫人"
+    },
+    {
+      "surface": "ולמלכי",
+      "gloss": "和諸王"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "由他們經手"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "運出"
+    }
+  ],
+  "timestamp": "2026-10-16T06:39:36.579355799Z",
+  "model": "glm-5.3"
+}

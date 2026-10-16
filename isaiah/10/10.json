@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מירושלם ומשמרון",
+      "rationale": "此處 מִ 可解作「從耶路撒冷和撒馬利亞」（和合本）或比較級「勝過耶路撒冷和撒馬利亞的」（KJV\/ASV），譯者意見分歧"
+    },
+    {
+      "kind": "substitution",
+      "subject": "האליל",
+      "rationale": "אליל 字面為「無用之物／虛無」，特指偶像；此處譯「虛無之物」以保留字面"
+    }
+  ],
+  "translation": "正如我的手已經得著了虛無之物的國度，連同它們的雕像，勝過耶路撒冷和撒馬利亞的，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ba84caccd6ce4c747172d47641badbd41cc89c70f3e5e5012007dab28397f0f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/10\/9-12.1792134693912.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "正如"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "已經得著"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "虛無之物的國度"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "虛無之物"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "連同它們的雕像"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "勝過耶路撒冷"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "和撒馬利亞"
+    }
+  ],
+  "timestamp": "2026-10-16T07:11:33.914276068Z",
+  "model": "glm-5.3"
+}

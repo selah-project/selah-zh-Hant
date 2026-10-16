@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 7:23",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וימח\/וימחו",
+      "rationale": "「擦除」主動與被動同一詞根呼應——擦除者與被擦除者同字——中文重複「擦除」保留。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "擦除",
+      "rationale": "מחה 字面是「擦去、抹掉」如擦去字跡，非泛泛的「毀滅」。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "היקום",
+      "rationale": "「立著的存在物」一詞僅見於此（洪水敘述）。"
+    }
+  ],
+  "translation": "他擦除了 ⟨את⟩ 一切立在地面上的生命之物，從人直到牲畜，直到爬行物，直到天上的飛鳥；他們都從地上被擦除了。惟有挪亞和 ⟨את⟩ 與他同在方舟裡的留存下來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f870d945596293c2d28b810fa2a54834bdd51677b79d02a9de70f768340b12c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/7\/21-24.1792124651908.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימח",
+      "gloss": "他擦除了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切立在地面上的生命之物"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "היקום",
+      "gloss": "立著的生命之物"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "從人"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "爬行物"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "以及直到"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "飛鳥"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天上的"
+    },
+    {
+      "surface": "וימחו",
+      "gloss": "他們都被擦除了"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "וישאר",
+      "gloss": "留存下來"
+    },
+    {
+      "surface": "אך",
+      "gloss": "惟有"
+    },
+    {
+      "surface": "נח",
+      "gloss": "挪亞"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "和……的"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ 與他同在",
+      "marks": "與挪亞同在方舟裡的"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "在方舟裡"
+    }
+  ],
+  "timestamp": "2026-10-16T04:24:11.909400235Z",
+  "model": "glm-5.3"
+}

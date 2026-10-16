@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 6:20",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בשו\/ויחפרו",
+      "rationale": "『蒙羞』與『羞愧失望』兩個近義動詞並列，希伯來文的加倍修辭，中文難以完全傳達其層遞。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויחפרו",
+      "rationale": "חפר 字面是『臉紅發燙』，引申為失望羞愧；譯作『羞愧失望』取其引申義。"
+    }
+  ],
+  "translation": "他們因曾指望而蒙羞；來到那裡，就羞愧失望。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cc637b8423d63b370b86aac4f5866ae281b04411f863c06cc05a73d2346bfbed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/6\/17-20.1792145915279.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשו",
+      "gloss": "蒙羞"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "曾指望"
+    },
+    {
+      "surface": "באו",
+      "gloss": "來到"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "到那裡"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "就羞愧失望"
+    }
+  ],
+  "timestamp": "2026-10-16T10:18:35.280899284Z",
+  "model": "glm-5.3"
+}

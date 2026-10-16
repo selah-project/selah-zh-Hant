@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "屬",
+      "rationale": "希伯來文以介詞ל表歸屬，中文補一動詞"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשוקה",
+      "rationale": "與創3:16、創4:7同詞，首尾呼應伊甸的戀慕之詞"
+    }
+  ],
+  "translation": "我屬我的良人，他也戀慕我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2184022e642cde1860baa9f1e65f0b069d3fd6eddbb4bfcea15fdffc0da6ce1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/7\/9-12.1792146572170.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "屬我的良人"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "也向著我"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "他的戀慕"
+    }
+  ],
+  "timestamp": "2026-10-16T10:29:32.170944980Z",
+  "model": "glm-5.3"
+}

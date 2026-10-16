@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 7:25",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עכרתנו\/יעכרך",
+      "rationale": "動詞 עכר（攪擾）在同一句中重複，並與下節地名 עכור（亞割）呼應——「你攪擾……願雅威攪擾你」的對仗與地名雙關在中文中靠同詞「攪擾」勉強保留。"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויסקלו",
+      "rationale": "撒瑪利亞五經與七十士譯本作「他們踐踏」；馬所拉文本作「用石頭堆疊」，本譯隨馬所拉文本。"
+    },
+    {
+      "kind": "elision",
+      "subject": "אבן",
+      "rationale": "「用石頭打死……石頭」的希伯來語法中名詞重複，中文以「打死」一詞吸收其意。"
+    }
+  ],
+  "translation": "約書亞說：「你為何攪擾我們呢？願雅威在今日攪擾你。」於是以色列眾人用石頭打死 ⟨אתו⟩ 他，又用火焚燒 ⟨אתם⟩ 他們，再用石頭堆疊在 ⟨אתם⟩ 他們身上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ec47585d514866e8b708bbfc8a18475f500b9459aaca67bd89668f74f5644305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/7\/25-26.1792129556787.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "מה",
+      "gloss": "為何"
+    },
+    {
+      "surface": "עכרתנו",
+      "gloss": "你攪擾我們"
+    },
+    {
+      "surface": "יעכרך",
+      "gloss": "願他攪擾你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在……之日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "他們用石頭打死"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "他（亞干）"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全體"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "他們焚燒"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "他們（亞干及其一切所有的）"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    },
+    {
+      "surface": "ויסקלו",
+      "gloss": "他們堆疊石頭"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "他們"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "用石頭"
+    }
+  ],
+  "timestamp": "2026-10-16T05:45:56.787796521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他們",
+      "rationale": "עקב原文的動詞טמנו是第三人稱複數（他們暗設），主詞由動詞形式帶出"
+    },
+    {
+      "kind": "predicate-you",
+      "subject": "向雅威",
+      "rationale": "詩人直接向雅威呼求"
+    }
+  ],
+  "translation": "求你把我從這網中領出來，就是他們為我暗設的；因為你是我 ⟨的⟩ 堅固保障。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "321aab05eaa32e5b93f1892e7168168f80579fbe726107436a18f8a237a6a21d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/31\/5-8.1792143534373.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "把我領出來"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "網"
+    },
+    {
+      "surface": "זו",
+      "gloss": "這"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "他們暗設"
+    },
+    {
+      "surface": "לי",
+      "gloss": "為我"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "我的堅固保障"
+    }
+  ],
+  "timestamp": "2026-10-16T09:38:54.374408838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עצבותם",
+      "rationale": "同一詞形兼指「偶像」與「愁苦」：JPS 讀「他們的偶像」，KJV 讀「他們的愁苦」，雙關在此"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עצבותם \/ מהרו אחר",
+      "rationale": "「別神」與「愁苦」的字形呼應（拜別神者的偶像即成其痛苦），中文無法兩存，取「愁苦」並留此註"
+    },
+    {
+      "kind": "addition",
+      "subject": "追隨",
+      "rationale": "希伯來文僅「急忙＋別的」，中文補動詞以成句"
+    }
+  ],
+  "translation": "他們的愁苦必加增，因他們急忙追隨別神；我絕不倒出他們帶血的祭奠，也絕不把⟨את⟩他們的名字提在我的嘴唇上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dac7418744feaab5a3e0868637f42acc9b8efebf12029a003f62e88da584ce76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/16\/1-4.1792143373428.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "必加增"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "他們的愁苦"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "別的"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "急忙追隨"
+    },
+    {
+      "surface": "בל",
+      "gloss": "絕不"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "我倒出"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "他們的祭奠"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "帶血的"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "也絕不"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "我提起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的名字"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "他們的名字"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "我的嘴唇"
+    }
+  ],
+  "timestamp": "2026-10-16T09:36:13.429493373Z",
+  "model": "glm-5.3"
+}

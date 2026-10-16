@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨因而⟩",
+      "rationale": "אף 連接的因果語氣，中文需要連接詞"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבש לבש",
+      "rationale": "「穿上」一詞連續兩次，希伯來文的疊句強調，中文保留重複"
+    }
+  ],
+  "translation": "雅威作王了，他以威嚴為衣穿上；雅威以能力穿上，以能力束腰；世界也⟨因而⟩堅立，必不動搖。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "831a0ae960a4e0f13d21c2fd8125f15c5390ff0b98d3dcc9db00ad1b9e5d9efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/93\/1-4.1792144531046.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "作王了"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "威嚴"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "穿上"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "穿上"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עז",
+      "gloss": "能力"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "以能力束腰"
+    },
+    {
+      "surface": "אף",
+      "gloss": "也"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "堅立"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世界"
+    },
+    {
+      "surface": "בל",
+      "gloss": "必不"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "動搖"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:31.046690109Z",
+  "model": "glm-5.3"
+}

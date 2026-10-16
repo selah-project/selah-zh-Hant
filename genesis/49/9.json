@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 49:9",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לביא",
+      "rationale": "獅子／母獅之別：KJV 作「老獅」，希伯來文指更兇猛的母獅。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהודה גור אריה",
+      "rationale": "獅子意象三疊（幼獅—獅—母獅），層層加強，中文保留三個形像。"
+    },
+    {
+      "kind": "mystery",
+      "subject": "מי יקימנו",
+      "rationale": "修辭問句「誰能惹起他？」——懸而未答，張力留白。"
+    }
+  ],
+  "translation": "猶大是隻幼獅；我兒啊，你從獵物而上來。他屈身蹲臥，如獅子、如母獅——誰能惹起他呢？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0acda0678629bb60e16fc3a1cb81802d47e019186d924266b70249a4a6218f90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/49\/9-12.1792125663581.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גור",
+      "gloss": "幼獅"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "獅子"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "מטרף",
+      "gloss": "獵物"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我兒"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "你上來"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "屈身"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "蹲臥"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "如獅子"
+    },
+    {
+      "surface": "וכלביא",
+      "gloss": "如母獅"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "יקימנו",
+      "gloss": "能惹起他"
+    }
+  ],
+  "timestamp": "2026-10-16T04:41:03.581992010Z",
+  "model": "glm-5.3"
+}

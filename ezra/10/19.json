@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 10:19",
+  "book": "ezra",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נתנו ידם",
+      "rationale": "「伸手」＝起誓立約的動作，非字面的手"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשמים／אשמתם",
+      "rationale": "「有罪者」與「罪愆」同根重複，中文以「有罪／罪愆」保留呼應"
+    },
+    {
+      "kind": "addition",
+      "subject": "獻上",
+      "rationale": "希伯來文省略動詞，直接列出祭物；中文補「獻上」以成句"
+    }
+  ],
+  "translation": "他們伸手起誓要休⟨他們的⟩妻子；他們既有罪，就為自己的罪愆獻上羊群中的一隻公綿羊為贖愆祭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "32c703d9edb2e7b06e18d9a534e27769f8117fe78ad8db436a511f81e74fbb06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/10\/17-20.1792147920737.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "他們伸出"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "他們的手"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "要休出"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "他們的妻子"
+    },
+    {
+      "surface": "ואשמים",
+      "gloss": "既有罪"
+    },
+    {
+      "surface": "איל",
+      "gloss": "公綿羊"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "על",
+      "gloss": "為"
+    },
+    {
+      "surface": "אשמתם",
+      "gloss": "他們的罪愆"
+    }
+  ],
+  "timestamp": "2026-10-16T10:52:00.738832159Z",
+  "model": "glm-5.3"
+}

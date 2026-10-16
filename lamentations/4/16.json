@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 4:16",
+  "book": "lamentations",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פני יהוה",
+      "rationale": "直譯「雅威的臉」；KJV 譯作「雅威的怒氣」，希伯來文只說「臉」——中文保留「臉」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פני",
+      "rationale": "「臉」三次迴響：雅威的臉驅散、祭司的臉不被尊重——面對面的喪失貫穿全節"
+    },
+    {
+      "kind": "crux",
+      "subject": "נשאו פני",
+      "gloss": null,
+      "rationale": "נשא פני 慣用語為「顧情面、偏待」；此處被動式意為「受尊重」，各譯本歧異"
+    }
+  ],
+  "translation": "雅威的臉驅散了他們，他不再看他們；人不再尊重祭司的臉，也不恩待長老。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7815c1e5e26d9059fcdacec0d4ec5b5fbd7234af19a13fe0f1f4db6e74b00ca8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/lamentations\/4\/13-16.1792146838908.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "臉"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "驅散了他們"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "再"
+    },
+    {
+      "surface": "להביטם",
+      "gloss": "看他們"
+    },
+    {
+      "surface": "פני",
+      "gloss": "臉"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "尊重"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "長老"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "恩待"
+    }
+  ],
+  "timestamp": "2026-10-16T10:33:58.909672125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 49:23",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אמניך",
+      "rationale": "אמן 字根是「扶持、養育」，直譯「你的養育者」，非僅「養父」"
+    },
+    {
+      "kind": "crux",
+      "subject": "קוי",
+      "rationale": "分詞「等候者」原文無「我」字尾，和合本補「我的」；或譯「等候他的」"
+    },
+    {
+      "kind": "you",
+      "subject": "錫安",
+      "rationale": "延續向她的第二人稱宣告"
+    }
+  ],
+  "translation": "列王必作你的養父，他們的王后必作你的乳母；他們必臉伏於地向你下拜，必舔你腳上的塵土。你就知道我是雅威——凡等候我的必不致羞愧。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "70de0d7e86fc71dd516889b0159ebc6c6b11a93cd4b299aa73c7a3456fa3bd09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/49\/21-24.1792135588159.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "他們必成為"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "列王"
+    },
+    {
+      "surface": "אמניך",
+      "gloss": "你的養育者"
+    },
+    {
+      "surface": "ושרותיהם",
+      "gloss": "他們的王后"
+    },
+    {
+      "surface": "מיניקתיך",
+      "gloss": "你的乳母"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "臉"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "下拜"
+    },
+    {
+      "surface": "לך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "而塵土"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "你的腳"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "他們必舔"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "你就知道"
+    },
+    {
+      "surface": "כי",
+      "gloss": "——"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "凡"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "必羞愧"
+    },
+    {
+      "surface": "קוי",
+      "gloss": "等候我的"
+    }
+  ],
+  "timestamp": "2026-10-16T07:26:28.160805822Z",
+  "model": "glm-5.3"
+}

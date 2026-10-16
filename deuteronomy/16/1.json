@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "被動語態",
+      "rationale": "中文以「被領出來」表達，希伯來文是主動使役「他領你出來」"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "命令式直接對以色列說話"
+    },
+    {
+      "kind": "invitation",
+      "subject": "要謹守",
+      "rationale": "命令式開首，召喚聽者遵行"
+    }
+  ],
+  "translation": "要謹守亞筆月，向雅威你的以羅欣守逾越節，因為你是在亞筆月夜間被雅威你的以羅欣從埃及領出來的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2ee06e1038388c3a78020e6e1ea0cd31a342e445f8726e29d84a168555d196b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/16\/1-4.1792128861337.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "要謹守"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞筆月"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "月"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "亞筆"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "你要守"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "逾越節"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "在……月"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "亞筆"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "領出來的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "從埃及"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜間"
+    }
+  ],
+  "timestamp": "2026-10-16T05:34:21.338022307Z",
+  "model": "glm-5.3"
+}

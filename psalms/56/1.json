@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "遠方無聲之鴿",
+      "rationale": "יונת אלם רחקים 是曲調名：或作「遠方無聲的鴿」，或視 אלם 出自 ינה（壓制）而作「遠方受壓迫之鴿」；各譯本分歧極大"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מכתם",
+      "rationale": "米克坦僅見於詩篇標題（16、56–60），確切含義不明，或謂「雕刻之詩」或「金詩」，故音譯保留"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "受詞記號附代詞「他」，中文以語序自然帶出，僅存 ⟨את⟩ 記號"
+    }
+  ],
+  "translation": "交與伶長，按「遠方無聲之鴿」的調。大衛的米克坦，記非利士人在迦特捉拿 ⟨אתו⟩ 他的時候。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a38d85356925c49aedc5bc6ca629f47794193efb8e83720aad23df69d223b3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/56\/1-4.1792143961981.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "交與伶長"
+    },
+    {
+      "surface": "על",
+      "gloss": "按"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "鴿"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "無聲"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "遠方"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "米克坦"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "捉拿的時候"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "他（非利士人所捉拿的對象）"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "在迦特"
+    }
+  ],
+  "timestamp": "2026-10-16T09:46:01.982509386Z",
+  "model": "glm-5.3"
+}

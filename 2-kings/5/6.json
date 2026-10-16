@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "你要",
+      "rationale": "ואספתו 是命令式「你收取他」，中文以「你要治好他」帶出其命令語氣。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "治好",
+      "rationale": "אסף 字面是「收取、收回」，即把他的痲瘋從他身上取去。"
+    },
+    {
+      "kind": "you",
+      "subject": "致以色列王",
+      "rationale": "信的內容直接向以色列王發言。"
+    }
+  ],
+  "translation": "他把信帶到以色列王那裡，說：「如今這信到了你那裡，看哪，我已差 ⟨את⟩ 我的僕人乃縵到你這裡，你要治好他的大痲瘋。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b39ec450498b7878d187663b08778aa418eb799bde7d1f8214433cc4b1c05f9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/5\/5-8.1792133666658.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "他把……帶到"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "這信"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "如今"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "到了"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "這信"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "到你那裡"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "我已差"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "到你這裡"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的僕人乃縵"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "乃縵"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "我的僕人"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "你要治好他"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "他的大痲瘋"
+    }
+  ],
+  "timestamp": "2026-10-16T06:54:26.659492974Z",
+  "model": "glm-5.3"
+}

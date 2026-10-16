@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "挪移地界",
+      "rationale": "גבול 指界石界繩；移動地界即侵占鄰舍地業，中文按字面直譯保留畫面"
+    },
+    {
+      "kind": "substitution",
+      "subject": "古時",
+      "rationale": "עולם 本義為隱退的遠處、遠古，此處指「自古已有的」"
+    }
+  ],
+  "translation": "不可挪移古時的地界，也不可進入孤兒的田地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "163f80a11410ec688886cc1d187c62b1cc5b53f47fd0af5a1f0e9c49520cf34f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/23\/9-12.1792145586453.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "挪移"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "地界"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "古時"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "田地"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "孤兒的"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "進入"
+    }
+  ],
+  "timestamp": "2026-10-16T10:13:06.454565543Z",
+  "model": "glm-5.3"
+}

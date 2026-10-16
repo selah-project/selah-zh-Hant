@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אם",
+      "rationale": "אם 此處非條件詞「若」，而是引出第二問句的語助詞，譯作「那塑造眼睛的」的引言"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "平行結構",
+      "rationale": "耳朵／聽見、眼睛／觀看兩組詞對仗，形成工整的平行問句"
+    },
+    {
+      "kind": "you",
+      "subject": "向愚頑人",
+      "rationale": "承接上文，連續修辭問句直接質問愚頑人"
+    }
+  ],
+  "translation": "那安設耳朵的，難道不聽見嗎？那塑造眼睛的，難道不觀看嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e44314235dd6f7e33bfd17834b872df97f0fc478f6b1ca676f0faca882961b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/94\/9-12.1792144493072.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "那安設……的"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "耳朵"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "難道不"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "聽見嗎"
+    },
+    {
+      "surface": "אם",
+      "gloss": "那塑造……的"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "塑造"
+    },
+    {
+      "surface": "עין",
+      "gloss": "眼睛"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "難道不"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "觀看嗎"
+    }
+  ],
+  "timestamp": "2026-10-16T09:54:53.072588730Z",
+  "model": "glm-5.3"
+}

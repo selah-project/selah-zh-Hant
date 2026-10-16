@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תמרים",
+      "rationale": "建築用語，棕櫚狀壁柱飾，僅見於聖殿裝飾的記載"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ברושים",
+      "rationale": "樹種不確定（柏樹？松樹？），各譯本分歧"
+    }
+  ],
+  "translation": "他又用柏木覆蓋 ⟨את⟩ 大殿，並以美好的金子包裹它，在上面刻上棕樹形的柱飾和鏈子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cf3895dfc603bd841e587225127fc9daa882cea33c502c4d55eb891c5ba97326",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/3\/5-8.1792149183383.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "大殿"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "覆蓋"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "木料"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "柏木"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "包裹它"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金子"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "美好的"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "刻上"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "在上面"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "棕樹形的柱飾"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "鏈子"
+    }
+  ],
+  "timestamp": "2026-10-16T11:13:03.384415751Z",
+  "model": "glm-5.3"
+}

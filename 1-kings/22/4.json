@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתי",
+      "rationale": "此處 אִתִּי 更可能是介詞「與我同」（H854），非受詞記號 H853；按記號家族規則以⟨את⟩標出"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כמוני כמוך כעמי כעמך כסוסי כסוסיך",
+      "rationale": "三組平行對句的音韻遞進（מוך／עמך／סוסיך），中文以「怎樣…也怎樣」的對仗再現"
+    }
+  ],
+  "translation": "他對約沙法說：「你願意與⟨את⟩我同去攻打基列的拉末嗎？」約沙法對以色列王說：「你怎樣，我也怎樣；你的民怎樣，我的民也怎樣；你的馬怎樣，我的馬也怎樣。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8c4ca7562dd7a710173b2e6cfbceb4dcaaf4697f7f5a9ba716b55ee47902fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/22\/1-4.1792133465041.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "約沙法"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "你願意…去"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "與我同去"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "攻打／打仗"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "拉末"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "基列"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "約沙法"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "怎樣，我也怎樣"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "你怎樣"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "我的民"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "你的民"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "我的馬"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "你的馬"
+    }
+  ],
+  "timestamp": "2026-10-16T06:51:05.042529997Z",
+  "model": "glm-5.3"
+}

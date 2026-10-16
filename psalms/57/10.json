@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בל",
+      "rationale": "בל 是 לאום 的詩體同義詞，兩個「民族」詞並列形成對仗；中文以「萬民／列邦」對應"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨你⟩",
+      "rationale": "אודך、אזמרך 的詞尾已含受詞「你」，中文語序需將其顯出"
+    }
+  ],
+  "translation": "阿多奈啊，我要在萬民中稱謝⟨你⟩；我要在列邦中歌頌⟨你⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "88b234e884a18acd4462a9af204869aa65553829ce71268139fe7702a98395d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/57\/9-12.1792143909357.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "我要稱謝你"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "在萬民中"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "我要歌頌你"
+    },
+    {
+      "surface": "בל",
+      "gloss": "在列邦中"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "列邦"
+    }
+  ],
+  "timestamp": "2026-10-16T09:45:09.358275255Z",
+  "model": "glm-5.3"
+}

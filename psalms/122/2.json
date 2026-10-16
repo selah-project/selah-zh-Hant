@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是\/已經",
+      "rationale": "היו為實義動詞「成了、已經」，中文以完成語氣「站立在」吸收，不另加繫詞"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמדות",
+      "rationale": "陰性複數分詞「站立著」前置，詩體倒裝；強調抵達的狀態持續"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jerusalem",
+      "rationale": "耶路撒冷被直接呼喚，全詩以對城說話展開"
+    }
+  ],
+  "translation": "耶路撒冷啊，我們的腳站立在你的門內。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fada0221024951a7a1377830d44fecf2faf73c73fd36e54566392241ebf71cce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/122\/1-4.1792144928243.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "站立"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨已經⟩"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "我們的腳"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "在你的門內"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷啊"
+    }
+  ],
+  "timestamp": "2026-10-16T10:02:08.244400296Z",
+  "model": "glm-5.3"
+}

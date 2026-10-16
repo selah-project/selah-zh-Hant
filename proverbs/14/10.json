@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשו",
+      "rationale": "נפש是氣息／生命，不是不朽的「靈魂」；譯「他的生命」"
+    },
+    {
+      "kind": "literal",
+      "subject": "ערב",
+      "rationale": "「編織、交織」——外人無法編入他喜樂的織體；譯「混入」"
+    }
+  ],
+  "translation": "心知道自己苦楚的滋味，外人不能混入他的喜樂。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "69afcab67d2b04cc3d035ddcb405694f97d806bcedb7294861e5089950dca0ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/14\/9-12.1792145351862.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "知道"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "苦楚"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "他的生命"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "而在他的喜樂中"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "混入"
+    },
+    {
+      "surface": "זר",
+      "gloss": "外人"
+    }
+  ],
+  "timestamp": "2026-10-16T10:09:11.862727566Z",
+  "model": "glm-5.3"
+}

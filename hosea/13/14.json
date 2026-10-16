@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 13:14",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אהי",
+      "rationale": "אהי可讀為疑問「在哪裡」（YLt、ASV、JPS）或宣告「我必作」（KJV「我必是你的瘟疫」）；語境是審判，故取疑問讀法"
+    },
+    {
+      "kind": "crux",
+      "subject": "אפדם אגאלם",
+      "rationale": "直陳「我要贖回」還是反問「我豈要贖回？」（JPS作問句）；13:9-16整段為審判，宣告式讀法有甘言審判之嫌"
+    },
+    {
+      "kind": "substitution",
+      "subject": "示阿勒",
+      "rationale": "שאול音譯為示阿勒，首次括註陰間；不用「地獄」，因它不是刑罰之地"
+    },
+    {
+      "kind": "hapax",
+      "subject": "קטבך",
+      "rationale": "קטב（毀滅）在此以第二人稱形式出現，僅此一見於此構形"
+    }
+  ],
+  "translation": "我要從示阿勒（陰間）手中贖回他們，從死亡中救贖他們。死亡啊，你的瘟疫在哪裡？示阿勒啊，你的毀滅在哪裡？後悔已藏在我眼前。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5598ed3bafb309bd18a2ce30f873958ce9d718627ef7bab56bdcdb0c13571ba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/13\/13-15.1792139512344.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מיד",
+      "gloss": "從……手中"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "示阿勒"
+    },
+    {
+      "surface": "אפדם",
+      "gloss": "我贖回他們"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "從死亡"
+    },
+    {
+      "surface": "אגאלם",
+      "gloss": "我救贖他們"
+    },
+    {
+      "surface": "אהי",
+      "gloss": "在哪裡"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "你的瘟疫"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死亡"
+    },
+    {
+      "surface": "אהי",
+      "gloss": "在哪裡"
+    },
+    {
+      "surface": "קטבך",
+      "gloss": "你的毀滅"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "示阿勒"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "後悔"
+    },
+    {
+      "surface": "יסתר",
+      "gloss": "已藏"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "在我眼前"
+    }
+  ],
+  "timestamp": "2026-10-16T08:31:52.345596124Z",
+  "model": "glm-5.3"
+}

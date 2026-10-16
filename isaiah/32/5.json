@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נבל／נדיב",
+      "rationale": "「愚頑人」與「高尚的人」聲音相近、意義相反，構成對比，中文以反義詞保留對比但失去音韻。"
+    },
+    {
+      "kind": "crux",
+      "subject": "שוע",
+      "rationale": "可作形容詞「尊貴的」或名詞「尊貴者／財主」（如 ylt『富有』），此處取「尊貴的人」。"
+    }
+  ],
+  "translation": "愚頑人不再被稱為高尚的人，吝嗇人不再被說成尊貴的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "53d23cbd994253d13f78c38678c077e527f1ab8c0ae2b2241a0adedc88dff514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/32\/5-8.1792135151431.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "被稱為"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "愚頑人"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "高尚的人"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "而吝嗇人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "被說成"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "尊貴的人"
+    }
+  ],
+  "timestamp": "2026-10-16T07:19:11.431706818Z",
+  "model": "glm-5.3"
+}

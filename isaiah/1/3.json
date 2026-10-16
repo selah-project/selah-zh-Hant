@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "驢認識",
+      "rationale": "希伯來文省略第二個動詞，由平行結構補足"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידע…ידע",
+      "rationale": "「認識」重複，牛的認識與以色列的不認識形成尖銳對比"
+    }
+  ],
+  "translation": "牛認識牠的主人，驢認識牠主人的槽；以色列卻不認識，我的民卻不分辨。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6beb105412b3d0f341ff93a7b970e93c6ed9f7caf9493d7e48af5de34a864aa0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/1\/1-4.1792134442740.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "認識"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "牠的主人"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "和驢"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "槽"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "牠主人的"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "認識"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的民"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "分辨"
+    }
+  ],
+  "timestamp": "2026-10-16T07:07:22.741904236Z",
+  "model": "glm-5.3"
+}

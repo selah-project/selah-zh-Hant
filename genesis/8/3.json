@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "去而復返",
+      "rationale": "הלוך ושוב 字面「行走與返回」，疊詞表示持續不斷地反覆退落"
+    },
+    {
+      "kind": "measurement",
+      "subject": "一百五十天",
+      "rationale": "洪水消退的日數記錄，與創 7:24 的一百五十天對應"
+    }
+  ],
+  "translation": "水從地上漸退，去而復返；到一百五十天終了，水就減少了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "eeab0d0e7f65f5db27d4e71f64c6a9b1af13084f7a969ddbabff66685404b312",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/8\/1-4.1792124659761.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "漸退"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "從"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "去"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "復返"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "減少了"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "終了"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "一百"
+    },
+    {
+      "surface": "יום",
+      "gloss": "天"
+    }
+  ],
+  "timestamp": "2026-10-16T04:24:19.762342156Z",
+  "model": "glm-5.3"
+}

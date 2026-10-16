@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 12:12",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "其實",
+      "rationale": "希伯來文末句無連接詞或語氣詞，中文需標示對比語氣"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא כי",
+      "rationale": "「不行，總要」是希伯來文的強烈否定加肯定慣用語，各譯本處理不一"
+    },
+    {
+      "kind": "you",
+      "subject": "向以色列",
+      "rationale": "撒母耳直接指責百姓要求立王、離棄雅威為王"
+    }
+  ],
+  "translation": "你們看見亞捫人的王拿轄來攻擊你們，就對我說：不行，總要有一個王治理我們——其實雅威你們的以羅欣是你們的王。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0899f8919936ac32233ebd958e20b9a744d6a9a83a6d13ed504be5724bec11a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/12\/9-12.1792130971849.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "你們看見"
+    },
+    {
+      "surface": "כי",
+      "gloss": "……這事"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "拿轄"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……的子孫"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "亞捫"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "攻擊你們"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "你們就說"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不行"
+    },
+    {
+      "surface": "כי",
+      "gloss": "總要"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "一個王"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "治理"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "我們"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "而雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "你們的以羅欣"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "你們的王"
+    }
+  ],
+  "timestamp": "2026-10-16T06:09:31.851374946Z",
+  "model": "glm-5.3"
+}

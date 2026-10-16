@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 12:2",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תזריע",
+      "rationale": "字面為「撒種／授精」：KJV「conceived seed」與 JPS「be delivered」之爭；此處取「懷了孕」的中間讀法。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "病症",
+      "rationale": "דותה 字面為「她的病」，指月經的不潔；「病症」保留字面形狀。"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列人",
+      "rationale": "命令對以色列人發出。"
+    }
+  ],
+  "translation": "你要對以色列人說：女人若懷了孕，生了男孩，她就污穢七天，像她月經污穢的日子一樣，她要污穢。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "31d2ae8262accf9607d7f9426d2efad5fd1cf63a7ae9416d00a61694daa2426d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/12\/1-4.1792126889465.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "你要說"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "תזריע",
+      "gloss": "懷了孕"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "生了"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "男孩"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "她就污穢"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "天"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "像……的日子"
+    },
+    {
+      "surface": "נדת",
+      "gloss": "月經"
+    },
+    {
+      "surface": "דותה",
+      "gloss": "她的病症"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "她要污穢"
+    }
+  ],
+  "timestamp": "2026-10-16T05:01:29.467381696Z",
+  "model": "glm-5.3"
+}

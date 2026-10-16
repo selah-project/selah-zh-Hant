@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "比",
+      "rationale": "比較級מחיים的比較結構，中文需補「比」字"
+    }
+  ],
+  "translation": "因為你的慈愛比生命更好，我的嘴唇要頌讚你。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/63\/1-4.1792144070622.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "更好"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "你的慈愛"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "比生命"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "我的嘴唇"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "要頌讚你"
+    }
+  ],
+  "timestamp": "2026-10-16T09:47:50.624302509Z",
+  "model": "glm-5.3"
+}

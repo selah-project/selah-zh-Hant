@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 1:21",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "魯阿",
+      "rationale": "רוחַ依紀律譯作音譯「魯阿」並括註「靈」，不用「聖靈」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בלכתם ילכו",
+      "rationale": "同根動詞重複（去／就去，站／就站），希伯來文的行動與狀態對仗"
+    }
+  ],
+  "translation": "去的時候就去，站住的時候就站住；從地上被抬起來的時候，輪子也在牠們旁邊被抬起來，因為活物的魯阿（靈）在輪子中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2113cc0b1800adb97ffd86e2da9cf6a3e9a3d4eb2e85a2bb8993fd11e1ec0a9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/1\/21-24.1792137836660.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלכתם",
+      "gloss": "去的時候"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "就去"
+    },
+    {
+      "surface": "ובעמדם",
+      "gloss": "站住的時候"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "就站住"
+    },
+    {
+      "surface": "ובהנשאם",
+      "gloss": "被抬起來的時候"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "從"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "ינשאו",
+      "gloss": "被抬起來"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "輪子"
+    },
+    {
+      "surface": "לעמתם",
+      "gloss": "在牠們旁邊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "魯阿（靈）"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "活物的"
+    },
+    {
+      "surface": "באופנים",
+      "gloss": "在輪子中"
+    }
+  ],
+  "timestamp": "2026-10-16T08:03:56.660677046Z",
+  "model": "glm-5.3"
+}

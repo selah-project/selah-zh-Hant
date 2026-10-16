@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סבוני גם סבבוני",
+      "rationale": "同一動詞重複兩次加גם，表包圍之徹底，是希伯來詩的全句重複"
+    }
+  ],
+  "translation": "他們環繞我，又環繞我，但我必靠雅威的名剪除他們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bd9cec864b494ad40f4737f464792267479515b97a1d8fddf4f56c937385d556",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/118\/9-12.1792144794249.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "他們環繞我"
+    },
+    {
+      "surface": "גם",
+      "gloss": "又"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "環繞我"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "靠……的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨但⟩……必"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "剪除他們"
+    }
+  ],
+  "timestamp": "2026-10-16T09:59:54.250092687Z",
+  "model": "glm-5.3"
+}

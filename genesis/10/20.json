@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "語言",
+      "rationale": "לשון 直譯「舌頭」，轉指語言"
+    },
+    {
+      "kind": "measurement",
+      "subject": "民族名單",
+      "rationale": "含後裔的世代誌至此總結，以家族、語言、土地、邦國四重歸類"
+    }
+  ],
+  "translation": "這些就是含的子孫，各按他們的家族、他們的語言，住在他們的土地、他們的邦國中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bc613200da5eb1e09cbc1b28970cb6bfa0959dc458ac71ee07ab0c6f4f0b80ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/10\/17-20.1792124707718.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "חם",
+      "gloss": "含"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "按他們的家族"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "按他們的語言"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "在他們的土地"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "在他們的邦國"
+    }
+  ],
+  "timestamp": "2026-10-16T04:25:07.719690291Z",
+  "model": "glm-5.3"
+}

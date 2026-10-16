@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 27:16",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לפי",
+      "rationale": "字面是「按其口」（口為度量出口），譯作「按」"
+    },
+    {
+      "kind": "measurement",
+      "subject": "賀梅珥／舍客勒",
+      "rationale": "計量條款：一賀梅珥大麥種子估五十舍客勒銀子，重量與容量並列"
+    },
+    {
+      "kind": "addition",
+      "subject": "「一部分」",
+      "rationale": "משדה（從…田地）的分離式表「田地的一部分」，中文補「一部分」以明之"
+    }
+  ],
+  "translation": "人若將他產業的一部分田地分別為聖歸給雅威，你的估價就要按其種子而定：一賀梅珥大麥種子為五十舍客勒銀子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "68deb97bb83a2aab8f0112506c8993e336c062baee5712271b279b61e973340e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/27\/13-16.1792127391906.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "從…田地"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "他的產業"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "將…分別為聖"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "歸給雅威"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "就要"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "你的估價"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "按"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "其種子"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "種子"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "一賀梅珥"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "大麥"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "舍客勒"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀子"
+    }
+  ],
+  "timestamp": "2026-10-16T05:09:51.907911867Z",
+  "model": "glm-5.3"
+}

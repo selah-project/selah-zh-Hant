@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "對管家",
+      "rationale": "但以理直接向管家提出請求（祈使句「求你試驗」）"
+    },
+    {
+      "kind": "measurement",
+      "subject": "十天",
+      "rationale": "明確的期限計數——十天之試"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הזרעים",
+      "rationale": "זרעים（複數，指種出的菜蔬作食物）僅見於此（但 1:12、16 同章兩次）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "菜蔬",
+      "rationale": "字面是「所撒種的」，KJV 譯「pulse」（豆類）；此處取「菜蔬」存其「種出之物」之義"
+    }
+  ],
+  "translation": "「求你試驗 ⟨את⟩ 你的僕人們十天：給我們一些菜蔬，我們吃；水，我們喝。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cca800926c12a3eedccf394fc6fd6cffd1e650b94aa0a6fa04045bc6e87ad545",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/daniel\/1\/9-12.1792147325760.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "試驗"
+    },
+    {
+      "surface": "נא",
+      "gloss": "求你"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的僕人們"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "你的僕人們"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "天"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "就給"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "給我們"
+    },
+    {
+      "surface": "מן",
+      "gloss": "一些"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "那些菜蔬"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "我們就吃"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "水"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "我們就喝"
+    }
+  ],
+  "timestamp": "2026-10-16T10:42:05.761502968Z",
+  "model": "glm-5.3"
+}

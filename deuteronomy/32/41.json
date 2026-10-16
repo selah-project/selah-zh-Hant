@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 32:41",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ברק",
+      "rationale": "本義是「閃電」，此處修飾刀劍的閃光；譯作「閃亮如閃電」以保留雙重意象。"
+    },
+    {
+      "kind": "crux",
+      "subject": "פרעות／41節無",
+      "rationale": "本節無；略。"
+    },
+    {
+      "kind": "you",
+      "subject": "雅威（發言者）",
+      "rationale": "第一人稱誓言延續40節，說話者為雅威。"
+    }
+  ],
+  "translation": "我若磨得我的刀劍閃亮如閃電，我的手握住審判，我必向我的仇敵報復，向恨我的人償還。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "033fb729d54c35cf01d7b9d8949a650126f85b3350fca9a5ffed1fbf780d10ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/32\/41-44.1792129300330.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "我磨利"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "閃電般閃亮"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "我的刀劍"
+    },
+    {
+      "surface": "ותאחז",
+      "gloss": "而…握住"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "我必回報"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "報復"
+    },
+    {
+      "surface": "לצרי",
+      "gloss": "向我的仇敵"
+    },
+    {
+      "surface": "ולמשנאי",
+      "gloss": "向恨我的人"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "償還"
+    }
+  ],
+  "timestamp": "2026-10-16T05:41:40.331367193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 9:9",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨他⟩",
+      "rationale": "希伯來文未標明動詞主語，由上文補出雅威"
+    },
+    {
+      "kind": "crux",
+      "subject": "יפקוד",
+      "rationale": "「追討／察訪／懲罰」：פקד 兼有臨視與懲罰二義，譯本各取其一"
+    }
+  ],
+  "translation": "他們敗壞自己，深而又深，如基比亞的日子；⟨他⟩必記念他們的罪孽，必追討他們的罪。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "85733376a4fdef4fc44aeaad025b158a6e5314fc167b8af32e92a544459d0ee6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/9\/9-12.1792139479520.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העמיקו",
+      "gloss": "深而又深"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "敗壞自己"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "如……的日子"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "基比亞"
+    },
+    {
+      "surface": "יזכור",
+      "gloss": "必記念"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "他們的罪孽"
+    },
+    {
+      "surface": "יפקוד",
+      "gloss": "必追討"
+    },
+    {
+      "surface": "חטאותם",
+      "gloss": "他們的罪"
+    }
+  ],
+  "timestamp": "2026-10-16T08:31:19.520889950Z",
+  "model": "glm-5.3"
+}

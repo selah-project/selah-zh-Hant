@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 8:3",
+  "book": "amos",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שירות היכל",
+      "rationale": "「宮殿／聖殿的歌（複數）」：多數英譯作「聖殿的歌變為哀號」，YLT讀作陰性複數「宮殿的女歌手」"
+    },
+    {
+      "kind": "crux",
+      "subject": "השליך הס",
+      "rationale": "字面「拋出——噤聲！」：或作「把屍首默默拋出」（KJV），或作命令式的「住口！」（YLT）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "歌聲必變為哀號",
+      "rationale": "希伯來文動詞הילילו（哀號）作主要動詞，中文以「變為」補出對比的縫合"
+    }
+  ],
+  "translation": "那日，宮殿的歌聲必變為哀號；這是阿多奈·雅威的宣告。屍首眾多，拋在各處——各處都要靜默無聲。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "10ec73eb39d32b7962da45acc33df79fcc10d9761653ff1086b4565ed91f7928",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/amos\/8\/1-4.1792139818541.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והילילו",
+      "gloss": "必變為哀號"
+    },
+    {
+      "surface": "שירות",
+      "gloss": "歌聲"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "宮殿"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在那日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "那"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "的宣告"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "רב",
+      "gloss": "眾多"
+    },
+    {
+      "surface": "הפגר",
+      "gloss": "屍首"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "在各處"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "各處"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "拋"
+    },
+    {
+      "surface": "הס",
+      "gloss": "靜默"
+    }
+  ],
+  "timestamp": "2026-10-16T08:36:58.542173496Z",
+  "model": "glm-5.3"
+}

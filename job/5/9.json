@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 5:9",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "動詞分詞片語延續第8節的「以羅阿」，希伯來文本身無主語代名詞"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואין…עד אין",
+      "rationale": "兩次「無有」（אין）首尾呼應：無法測度、無法數算，平行結構"
+    }
+  ],
+  "translation": "他行大事，無法測度；行奇妙的事，多到沒有數目。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e6fe8e4c3e3c69c250163d17ea5765c1dcee36af2404f96997c4209f6d5aabec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/5\/9-12.1792145776458.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "大事"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "測度"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "奇妙的事"
+    },
+    {
+      "surface": "עד",
+      "gloss": "多到"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "數目"
+    }
+  ],
+  "timestamp": "2026-10-16T10:16:16.459451279Z",
+  "model": "glm-5.3"
+}

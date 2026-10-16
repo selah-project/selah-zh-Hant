@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 24:25",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "לאל",
+      "rationale": "否定詞 לוֹא 作名詞「烏有、無有」用，全塔納赫僅此一次（伯 24:25）"
+    },
+    {
+      "kind": "elision",
+      "subject": "אפו",
+      "gloss": "時間性小品詞「如今」，併入「若不是這樣」"
+    },
+    {
+      "kind": "you",
+      "subject": "聽者",
+      "rationale": "約伯以反問向眾人（尤其是三位朋友）發出挑戰"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לאל",
+      "rationale": "或譯「歸於虛無」（把話當作無物），亦通"
+    }
+  ],
+  "translation": "若不是這樣，還有誰能使我成為說謊的，使我的話化為烏有呢？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8c50f1f8aceb5a6bf32e9dd076b7ea52334dd00ec0a98e2e1db93982625cf79b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/24\/25-25.1792146210874.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "這樣"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "יכזיבני",
+      "gloss": "能使我成為說謊的"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "使……化為"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "烏有"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "我的話"
+    }
+  ],
+  "timestamp": "2026-10-16T10:23:30.875200547Z",
+  "model": "glm-5.3"
+}

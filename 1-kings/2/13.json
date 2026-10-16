@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 2:13",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השלום／שלום",
+      "rationale": "她問「平安嗎」，他答「平安」——沙洛姆一詞的問答呼應，中文以重複「平安」保留"
+    },
+    {
+      "kind": "addition",
+      "subject": "那裡",
+      "rationale": "中文需要地點補語，希伯來文以 אל 表達方向即可"
+    },
+    {
+      "kind": "hapax",
+      "subject": "השלום באך",
+      "rationale": "以問候語沙洛姆作動詞性問句是罕見結構，各譯本多化為「你平平安安地來嗎」"
+    }
+  ],
+  "translation": "哈及的兒子亞多尼雅來到所羅門的母親拔示巴那裡，她說：「你平平安安地來嗎？」他說：「平安。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "821f81cb60b100be09e801f68e96ef2d54e7a9d5349f971f72540a75bf0b53c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/2\/13-16.1792132510091.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "亞多尼雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "哈及"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "בת",
+      "gloss": "拔"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "示巴"
+    },
+    {
+      "surface": "אם",
+      "gloss": "母親"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "她說"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "平安嗎"
+    },
+    {
+      "surface": "באך",
+      "gloss": "你……來"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    }
+  ],
+  "timestamp": "2026-10-16T06:35:10.092073646Z",
+  "model": "glm-5.3"
+}

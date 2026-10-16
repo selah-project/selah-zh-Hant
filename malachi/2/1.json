@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文補上"
+    },
+    {
+      "kind": "you",
+      "subject": "to the priests",
+      "rationale": "直接向眾祭司發言"
+    }
+  ],
+  "translation": "而現在，這誡命是給你們的，祭司們啊。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dd82bcdabdf8b43f73f4a7e460cc05ae7a0ccce12245284aef255edbfdcdd1c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/malachi\/2\/1-4.1792143160808.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "而現在"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "給你們"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "誡命"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司們"
+    }
+  ],
+  "timestamp": "2026-10-16T09:32:40.809253052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨位⟩",
+      "rationale": "中文量詞為語法所需，希伯來文無"
+    },
+    {
+      "kind": "substitution",
+      "subject": "塑造",
+      "rationale": "יצר是陶匠塑造泥土的動詞，保有陶匠意象"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "本節以第三人稱論及以色列，承接上文的呼喚"
+    }
+  ],
+  "translation": "這⟨位⟩子民是我為自己塑造的；他們必述說我的讚美。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8fd549779e895247aa5f3d97d5bb2cc3abcc6be3e33ed596ee28c8bf300a9019",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/43\/21-24.1792135440750.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "子民"
+    },
+    {
+      "surface": "זו",
+      "gloss": "這"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "我塑造"
+    },
+    {
+      "surface": "לי",
+      "gloss": "為我自己"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "我的讚美"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "他們必述說"
+    }
+  ],
+  "timestamp": "2026-10-16T07:24:00.751303774Z",
+  "model": "glm-5.3"
+}

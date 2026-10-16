@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文需要"
+    },
+    {
+      "kind": "substitution",
+      "subject": "信實",
+      "rationale": "אמונתו 字面為「堅固／信實」，非抽象「真理」（KJV truth）"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דר ודר",
+      "rationale": "「世代又世代」重複疊加，希伯來文以重複表無限延續"
+    }
+  ],
+  "translation": "因為雅威是善的，他的慈愛存到永遠，他的信實直到世代又世代。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a9149f4869b8ab7ea1c87c2d2ccd930ce505ac28441e37936bca1d4549670bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/100\/5-5.1792144543025.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "善的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "他的慈愛"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "דר",
+      "gloss": "世代"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "又世代"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "他的信實"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:43.026281333Z",
+  "model": "glm-5.3"
+}

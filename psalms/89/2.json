@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לדור ודור",
+      "rationale": "「世代復世代」的重複結構，中文保留疊句"
+    },
+    {
+      "kind": "invitation",
+      "subject": "詩歌開頭",
+      "rationale": "第一人稱宣告之歌，向歷代讀者唱出"
+    }
+  ],
+  "translation": "我要永遠歌唱雅威的慈愛，我要用我的口向世代復世代傳揚你的信實。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "00677826807f8ef4eb285ebc5735edd95335c06db53b37ecefb1a35daed13445",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/89\/1-4.1792144421204.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "慈愛"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "我要歌唱"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "向世代"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "復世代"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "我要傳揚"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "你的信實"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "用我的口"
+    }
+  ],
+  "timestamp": "2026-10-16T09:53:41.205340078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש是氣息、生命力，非不朽的『靈魂』"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תערג重複",
+      "rationale": "同一動詞用於鹿與性命，比喻緊密相扣"
+    }
+  ],
+  "translation": "如同母鹿切慕溪水，我的性命也切慕你，以羅欣（神）。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/42\/1-4.1792143750473.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "如同母鹿"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "切慕"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "溪水"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "כן",
+      "gloss": "照樣"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "切慕"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "你"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣（神）"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:30.474116354Z",
+  "model": "glm-5.3"
+}

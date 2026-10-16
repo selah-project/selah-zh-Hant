@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 10:22",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "必有多",
+      "rationale": "希伯來文只有יהיה（是、成為），中文需補出數量含義"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרוץ",
+      "rationale": "可讀作『已裁定的』（被動分詞）或『果斷的、迅速的』；各譯本分歧"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שאר ישוב",
+      "rationale": "本節再現施亞雅述之名（賽7:3），餘數神學的核心語句"
+    },
+    {
+      "kind": "predicate",
+      "subject": "measurement",
+      "rationale": "以海沙計量百姓之多，與歸回的少數對比"
+    }
+  ],
+  "translation": "因為你的百姓以色列雖多如海沙，惟有餘民必歸回；已裁定的毀滅必氾濫，以公義淹沒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0edb7d33f5b0366564d447ac0e6df73b27e7c076fd9885fbde12317685757563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/10\/21-24.1792134772342.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אם",
+      "gloss": "雖"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "〈必有多〉如"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "如沙"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "餘民"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "必歸回"
+    },
+    {
+      "surface": "בו",
+      "gloss": "其中的"
+    },
+    {
+      "surface": "כליון",
+      "gloss": "毀滅"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "已裁定的"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "必氾濫淹沒"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "以公義"
+    }
+  ],
+  "timestamp": "2026-10-16T07:12:52.343675254Z",
+  "model": "glm-5.3"
+}

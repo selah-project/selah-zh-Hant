@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨他們的⟩",
+      "rationale": "שמות（名字）是名詞片語單獨使用，中文需補所有格"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואלה שמות",
+      "rationale": "本書希伯來書名 Shemot（名字）即取自首詞"
+    }
+  ],
+  "translation": "以色列的眾子，各人帶著自己的家眷，隨雅各來到埃及；以下是⟨他們的⟩名字。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b38a24f04bb804665731a3d0914fac7206ba14193922a5f26e45f04c7f21c9a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/1\/1-4.1792125682396.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "以下是"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名字"
+    },
+    {
+      "surface": "בני",
+      "gloss": "眾子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "來到"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅各"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "自己的家眷"
+    },
+    {
+      "surface": "באו",
+      "gloss": "來"
+    }
+  ],
+  "timestamp": "2026-10-16T04:41:22.396639491Z",
+  "model": "glm-5.3"
+}

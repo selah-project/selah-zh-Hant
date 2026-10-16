@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 13:3",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "此處 אַתְּ 是陰性代名詞「你」，非受詞記號 את H853，故譯「你」而不標 ⟨את⟩。"
+    },
+    {
+      "kind": "you",
+      "subject": "對那婦人",
+      "rationale": "使者直接向瑪挪亞之妻說話。"
+    },
+    {
+      "kind": "invitation",
+      "subject": "הנה נא",
+      "rationale": "「看哪，如今」喚起聽者的注意。"
+    }
+  ],
+  "translation": "雅威的使者向那婦人顯現，對她說：「看哪，如今你是不能生育的，沒有生過孩子；你必懷孕，生一個兒子。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7d426e7f1fd3991cdcac35c60285e776bf96e02eebae00c5c13a1199951556e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/13\/1-4.1792130497595.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "顯現"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "使者"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "那婦人"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "對她"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "נא",
+      "gloss": "如今"
+    },
+    {
+      "surface": "את",
+      "gloss": "你"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "不能生育的"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "生過"
+    },
+    {
+      "surface": "והרית",
+      "gloss": "你必懷孕"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "生"
+    },
+    {
+      "surface": "בן",
+      "gloss": "一個兒子"
+    }
+  ],
+  "timestamp": "2026-10-16T06:01:37.596017379Z",
+  "model": "glm-5.3"
+}

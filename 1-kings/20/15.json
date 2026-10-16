@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "點閱人數",
+      "rationale": "兩次點閱：二百三十二名與七千名，數字原位保留。"
+    },
+    {
+      "kind": "addition",
+      "subject": "亞哈",
+      "rationale": "希伯來文動詞無主語，由上文補出主語亞哈。"
+    }
+  ],
+  "translation": "亞哈點閱了 ⟨את⟩ 眾省首領的年輕人，共有二百三十二名；在他們之後，他又點閱 ⟨את⟩ 全體人民，以色列人全體，共七千名。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9e103acdd39ddccaaf50c4e922632ef9e94a61497601bcceb98bdd7ca5703183",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/20\/13-16.1792133322115.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "點閱了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "眾省首領的年輕人"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "……的年輕人"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "首領"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "眾省"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "共有"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "二百"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "在他們之後"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "點閱"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全體人民"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全體"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全體"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    }
+  ],
+  "timestamp": "2026-10-16T06:48:42.116801666Z",
+  "model": "glm-5.3"
+}

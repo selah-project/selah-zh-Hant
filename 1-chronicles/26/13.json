@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 26:13",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "拈鬮",
+      "rationale": "分派門衛職任以拈鬮分配，屬分配與排序的計數場景"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשער ושער",
+      "rationale": "「一門又一門」的疊語，中文以重複保留"
+    }
+  ],
+  "translation": "他們按宗族拈鬮，無論小的大的，都為一門一門拈鬮。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f893e0460d07e0f466b60f049b3ad836fd4f06ad556f7cc24d6e9e4b69feb530",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/26\/13-16.1792148976140.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפילו",
+      "gloss": "他們使……落下（拈鬮）"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "鬮"
+    },
+    {
+      "surface": "כקטן",
+      "gloss": "無論小的"
+    },
+    {
+      "surface": "כגדול",
+      "gloss": "大的"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "按……的家"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "他們的父（宗族）"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "為一門"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "又一門"
+    }
+  ],
+  "timestamp": "2026-10-16T11:09:36.140539830Z",
+  "model": "glm-5.3"
+}

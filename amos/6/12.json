@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 6:12",
+  "book": "amos",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "耕犁的賓語",
+      "rationale": "希伯來文此句無受詞；和合本補「在那裡」，部分譯本（如聖經標準本）作「用牛耕海」，依撒瑪利亞抄本讀 yam（海）而非 bam（其中）"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רֹאשׁ",
+      "rationale": "「毒物」與「頭」同形同音（רֹאשׁ），此處語帶雙關：毒草之「頭」狀的罌粟"
+    },
+    {
+      "kind": "invitation",
+      "subject": "對以色列",
+      "rationale": "兩個修辭問句直接質問聽者，以不可能之事襯出公正變毒物之荒謬"
+    }
+  ],
+  "translation": "馬能在岩石上奔跑嗎？人能用牛在那裡耕犁嗎？但你們使公正變為毒物，使公義的果子變為苦艾。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "81e0df51ecff49b4005666ee3b67c7450b2891f1e1db1fc1212581482808fde7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/amos\/6\/9-12.1792139775659.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הירצון",
+      "gloss": "能奔跑嗎"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "在岩石上"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "馬"
+    },
+    {
+      "surface": "אם",
+      "gloss": "能否"
+    },
+    {
+      "surface": "יחרוש",
+      "gloss": "耕犁"
+    },
+    {
+      "surface": "בבקרים",
+      "gloss": "用牛"
+    },
+    {
+      "surface": "כי",
+      "gloss": "但"
+    },
+    {
+      "surface": "הפכתם",
+      "gloss": "你們使……變為"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "毒物"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公正"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "……的果子"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "公義"
+    },
+    {
+      "surface": "ללענה",
+      "gloss": "苦艾"
+    }
+  ],
+  "timestamp": "2026-10-16T08:36:15.660376351Z",
+  "model": "glm-5.3"
+}

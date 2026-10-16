@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來無繫詞，中文需補"
+    }
+  ],
+  "translation": "富戶管轄窮人，欠債的是借給他之人的僕人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a94d4f014936ccd737a6609728fa6b191e542030b13b836339044a022b2fb8ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/22\/5-8.1792145543198.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "富戶"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "窮人"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "管轄"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "是……的僕人"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "欠債的"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "那人"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "借給他的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:12:23.199271236Z",
+  "model": "glm-5.3"
+}

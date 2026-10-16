@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 1:9",
+  "book": "joel",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "從…的殿中",
+      "rationale": "מבית 為介詞加單詞，中文需展開為「從…的殿中」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "素祭",
+      "rationale": "מנחה 直譯「禮物／供物」，特指素祭（穀物供品）"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "哀慟",
+      "rationale": "אבלו 於此節啟動的哀悼動詞，在 1:10 以 אבלה（土地哀慟）延續，貫穿全章的哀哭鏈"
+    }
+  ],
+  "translation": "素祭和奠祭從雅威的殿中斷絕了；事奉雅威的祭司都哀慟。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d6805fefa645284de3b62507b0dfdff2192c84a50a2be0a3dbb687edf093f52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joel\/1\/9-12.1792139623629.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכרת",
+      "gloss": "斷絕了"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "素祭"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "和奠祭"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "從…的殿中"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אבלו",
+      "gloss": "哀慟"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司們"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "事奉…的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-10-16T08:33:43.630076687Z",
+  "model": "glm-5.3"
+}

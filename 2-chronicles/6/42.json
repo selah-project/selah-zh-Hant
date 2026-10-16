@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-chronicles 6:42",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תשב פני",
+      "rationale": "字面「使臉轉回」＝拒絕不顧；中文以「轉臉不顧」承載"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסידיך／חסדי",
+      "rationale": "上節「你的敬虔人」（חסידים）與本節「慈愛」（חסדים）同根相呼，中文無法保留"
+    },
+    {
+      "kind": "crux",
+      "subject": "לחסדי דויד",
+      "rationale": "「大衛的慈愛」可指大衛所行的慈愛（參 詩 132:4-5 徹夜不眠）或雅威向大衛所施的慈愛；此處取後者，向雅威求記念"
+    }
+  ],
+  "translation": "雅威、以羅欣啊，不要轉臉不顧你的受膏者們；求你記念你僕人大衛的慈愛。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "723a8eab90368c9d660a59b69366d80a65d583938a4fa3d90518331166d23c27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/6\/41-42.1792149128515.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "轉回"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…的臉"
+    },
+    {
+      "surface": "משיחיך",
+      "gloss": "你的受膏者們"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "求你記念"
+    },
+    {
+      "surface": "לחסדי",
+      "gloss": "的慈愛"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你的僕人"
+    }
+  ],
+  "timestamp": "2026-10-16T11:12:08.515965200Z",
+  "model": "glm-5.3"
+}

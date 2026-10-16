@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "牧人",
+      "rationale": "רֹעִים 字面為「牧人」，在此指掌權者與外邦君王，字面形象保留。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שממה",
+      "rationale": "與下兩節的 שׁמם 詞根一詞串聯，中文以「荒涼」「荒涼之曠野」對應。"
+    }
+  ],
+  "translation": "許多牧人毀壞了我的葡萄園，踐踏了 ⟨את⟩ 我的田地，把我可喜愛的田地變為荒涼的曠野。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1569b722d48746dd5808517ab5af8bee91e20db1beed9eeb2356b376e1a815e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/12\/9-12.1792136484676.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "牧人"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "許多"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "毀壞了"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "我的葡萄園"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "踐踏了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的田地"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "我的田地"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "把……變為"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "可喜愛的田地"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "田地"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "我可喜愛的"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "荒涼"
+    }
+  ],
+  "timestamp": "2026-10-16T07:41:24.677469639Z",
+  "model": "glm-5.3"
+}

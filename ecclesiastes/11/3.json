@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "了水／躺臥",
+      "rationale": "原文雲「若滿」未明言滿的是雨（גשם 實為次句主詞）；「躺臥」為動詞 יהוא（是／在）的語境譯法"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יפול……שיפול",
+      "rationale": "「倒下」與「倒之處」同根重複，尾句迴環：倒在哪裡、就在哪裡"
+    }
+  ],
+  "translation": "雲若滿了水，就把雨傾倒在地上；樹若向南倒，或向北倒，樹倒在哪裡，就躺臥在那裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d138aca0704de1a9db0eef7ca0039ec2e27ef3e5e234cc7b7c29d720e593ddd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/11\/1-4.1792147061085.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "滿了"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "雲"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "雨水"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……之上"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "就傾倒"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "倒下"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "樹"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "向南"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "或若"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "向北"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "地方"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "樹倒之處"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "樹"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裡"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "它就在"
+    }
+  ],
+  "timestamp": "2026-10-16T10:37:41.086362435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "好像寡婦",
+      "rationale": "כאלמנות是「如寡婦」——父親尚在卻流亡異地；譯「成了寡婦」會抹去喻況。"
+    }
+  ],
+  "translation": "我們成了孤兒，沒有父親；我們的母親好像寡婦。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e29e6d0fa4219d79e0b7e7a8123e85c32b15763f1b200b118a7ca81a55a30274",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/lamentations\/5\/1-4.1792146842390.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "孤兒"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "我們成了"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "אב",
+      "gloss": "父親"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "我們的母親"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "好像寡婦"
+    }
+  ],
+  "timestamp": "2026-10-16T10:34:02.390962692Z",
+  "model": "glm-5.3"
+}

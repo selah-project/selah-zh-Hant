@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 27:8",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "בסאסאה",
+      "rationale": "סאסא 僅見於此處，意「適度、量度」，各家譯法分歧：in measure"
+    },
+    {
+      "kind": "crux",
+      "subject": "הגה",
+      "gloss": null,
+      "rationale": "הגה 此處多讀作「除去」（KJV「止住」、ASV「移除」），與其常義「默想」不同"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "此處是尋常的「風」（東風、猛烈的風），非雅威的魯阿"
+    }
+  ],
+  "translation": "在適度之中，藉著遣送她離去，你與她爭辯；他用猛烈的風將她颳去，在東風的日子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7c8ff48e480b5c6a3471f49fae736cd6e7c1cfa83cdd1cefdd810f1078904408",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/27\/5-8.1792135002843.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בסאסאה",
+      "gloss": "在適度之中"
+    },
+    {
+      "surface": "בשלחה",
+      "gloss": "藉著遣送她離去"
+    },
+    {
+      "surface": "תריבנה",
+      "gloss": "你與她爭辯"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "將她颳去"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "用他的風"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "猛烈的"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在……的日子"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "東風"
+    }
+  ],
+  "timestamp": "2026-10-16T07:16:42.844683393Z",
+  "model": "glm-5.3"
+}

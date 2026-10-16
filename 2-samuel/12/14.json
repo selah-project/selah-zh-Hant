@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נאץ נאצת את איבי יהוה",
+      "rationale": "動詞的賓語是 איבי（仇敵）還是雅威？KJV 作「使雅威的仇敵大得褻瀆的機會」，JPS 直譯「你大大褻瀆了雅威的仇敵」，BSB 改為「藐視雅威的話」——本譯直譯保留「藐視了雅威的仇敵」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נאץ נאצת \/ מות ימות",
+      "rationale": "兩組不定式絕對式＋完成式／未完成式的疊用，加強語氣，中文以「大大藐視」「必定要死」補償"
+    }
+  ],
+  "translation": "然而，因為你行這事，大大藐視了 ⟨את⟩ 雅威的仇敵，所以 ⟨את⟩ 那生給你的兒子必定要死。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "79b526961672fd5af3156f7567af2b5c048d331a7929f4c1be6e3c8310e9c3bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/12\/13-16.1792131928575.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "然而"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "藐視（不定式絕對式）"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "你藐視了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的仇敵"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "仇敵"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威的"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "以這事"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "那兒子"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "所生的"
+    },
+    {
+      "surface": "לך",
+      "gloss": "給你的"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死（不定式絕對式）"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "必定要死"
+    }
+  ],
+  "timestamp": "2026-10-16T06:25:28.576029600Z",
+  "model": "glm-5.3"
+}

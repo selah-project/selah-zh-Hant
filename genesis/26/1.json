@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 26:1",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨又發生⟩、⟨一次⟩",
+      "rationale": "中文語法需要補出敘述詞，希伯來文只以 ויהי 起頭"
+    },
+    {
+      "kind": "you",
+      "subject": "敘述",
+      "rationale": "承接創世記敘事框架，向讀者交代以撒的行蹤"
+    }
+  ],
+  "translation": "那地有了饑荒，這是在亞伯拉罕日子那次饑荒以外的頭一次饑荒之後⟨又發生⟩的⟨一次⟩。以撒就往基拉耳去，見非利士人的王亞比米勒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "79ebee9b49e887edc0273c3ea11ce4b666396ca3bf9baae301fc690ac69cadac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/26\/1-4.1792125087856.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "有了"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "饑荒"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在那地"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "在……以外"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "那饑荒"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "頭一次"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那次"
+    },
+    {
+      "surface": "היה",
+      "gloss": "發生"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "在……的日子"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "就往……去"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "亞比米勒"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "גררה",
+      "gloss": "基拉耳"
+    }
+  ],
+  "timestamp": "2026-10-16T04:31:27.857222410Z",
+  "model": "glm-5.3"
+}

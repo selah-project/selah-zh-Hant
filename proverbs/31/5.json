@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 31:5",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מחקק",
+      "rationale": "'制定法令者／所制定的法令'：有譯本作君王（制定者），有作法令（所定之物）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וישנה",
+      "rationale": "字面為'改變／變換'，此處譯'歪曲'以合語境；KJV作pervert"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בני עני",
+      "rationale": "字面'困苦之子'——希伯來習慣以'…之子'表性質，中文以'…之人'代之"
+    }
+  ],
+  "translation": "免得他們喝了就忘記所制定的法令，歪曲所有困苦之人的判決。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1bc39d6e3b1165464627322ae7705ffb4bb3c55c93f714709737976f13e7d83b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/31\/5-8.1792145730389.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "喝了"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "就忘記"
+    },
+    {
+      "surface": "מחקק",
+      "gloss": "所制定的法令"
+    },
+    {
+      "surface": "וישנה",
+      "gloss": "歪曲"
+    },
+    {
+      "surface": "דין",
+      "gloss": "判決"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…之人"
+    },
+    {
+      "surface": "עני",
+      "gloss": "困苦"
+    }
+  ],
+  "timestamp": "2026-10-16T10:15:30.390318513Z",
+  "model": "glm-5.3"
+}

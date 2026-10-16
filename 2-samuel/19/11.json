@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 19:11",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מחרשים",
+      "rationale": "字面是「耕田／刻劃」，引申為閉口不言；譯作「靜默不言」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משחנו／מחרשים",
+      "rationale": "「我們膏了」與「你們靜默」首音相近（m-sh-ch／m-ch-r-sh），中文失去此音響呼應"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列眾支派",
+      "rationale": "眾民的話直接質問「你們」，向猶大眾人發出"
+    }
+  ],
+  "translation": "我們膏立了押沙龍治理我們，他已經死在戰爭中；現在你們為甚麼靜默不言，不將 ⟨את⟩ 王帶回來呢？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "66c534f3ddee1849a6f3eaa4f7a6aec74df96257ccc411bae1f5cd173a3afdcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/19\/9-12.1792132239047.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "而押沙龍"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "משחנו",
+      "gloss": "我們膏立了"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "治理我們"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "在戰爭中"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "現在"
+    },
+    {
+      "surface": "למה",
+      "gloss": "為甚麼"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "מחרשים",
+      "gloss": "靜默不言"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "帶回"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-10-16T06:30:39.049303906Z",
+  "model": "glm-5.3"
+}

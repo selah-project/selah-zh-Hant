@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "生命之氣",
+      "rationale": "נפש是氣息、咽喉、生命力的意思，不是不朽的靈魂——「胃口枯竭」是合理的讀法"
+    },
+    {
+      "kind": "crux",
+      "subject": "אל המן עינינו",
+      "rationale": "字面「我們的眼不在嗎哪之外」：KJV作「在我們眼前」，JPS作「我們只得仰望這嗎哪」"
+    }
+  ],
+  "translation": "現在我們的נפש枯乾了，眼前除這嗎哪以外，一無所有。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "73d9902b17819ec162fd40a284d040e9e9e0c134b0144232766925da6e66abb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/11\/5-8.1792127733875.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "現在"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "我們的生命之氣"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "枯乾"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "כל",
+      "gloss": "任何東西"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "除了……以外"
+    },
+    {
+      "surface": "אל",
+      "gloss": "指向"
+    },
+    {
+      "surface": "המן",
+      "gloss": "嗎哪"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "我們的眼"
+    }
+  ],
+  "timestamp": "2026-10-16T05:15:33.876710009Z",
+  "model": "glm-5.3"
+}

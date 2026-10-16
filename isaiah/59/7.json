@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 59:7",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "人的／盡是",
+      "rationale": "中文語法需要：『無辜人的血』、『路徑盡是』加連接字"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שד ושבר",
+      "rationale": "疊韻對（shod va-shever），毀滅與破壞成對，中文以雙詞對仗補償"
+    }
+  ],
+  "translation": "他們的腳奔向惡事，急速要流無辜人的血；他們的意念是罪孽的意念，他們的路徑盡是毀滅與破壞。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6e6cadf105f81a8450ef9f254f281feaf64de37bc378f7a5da325cd77893e7af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/59\/5-8.1792135902476.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רגליהם",
+      "gloss": "他們的腳"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "向惡事"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "奔"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "急速"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "要流"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "無辜人的"
+    },
+    {
+      "surface": "מחשבותיהם",
+      "gloss": "他們的意念"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "意念"
+    },
+    {
+      "surface": "און",
+      "gloss": "罪孽的"
+    },
+    {
+      "surface": "שד",
+      "gloss": "毀滅"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "與破壞"
+    },
+    {
+      "surface": "במסלותם",
+      "gloss": "在他們的路徑"
+    }
+  ],
+  "timestamp": "2026-10-16T07:31:42.478085963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 16:13",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "棚節",
+      "rationale": "הסכת 直譯「棚」，諸譯本作「帳棚節」，此處保留「棚」的具體圖像"
+    },
+    {
+      "kind": "measurement",
+      "subject": "七日",
+      "rationale": "節期長度以日數規定"
+    }
+  ],
+  "translation": "你要為自己守棚節（住棚節）七日，就是在你從打穀場和酒池收成的時候。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ab5d566bbf5199655fc1b950b918386902035b849b4b9c5bf70a841b345469c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/16\/13-16.1792128847095.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חג",
+      "gloss": "節期"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "棚節（住棚節）"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你要守"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為自己"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "在你收成的時候"
+    },
+    {
+      "surface": "מגרנך",
+      "gloss": "從你的打穀場"
+    },
+    {
+      "surface": "ומיקבך",
+      "gloss": "和你的酒池"
+    }
+  ],
+  "timestamp": "2026-10-16T05:34:07.096373064Z",
+  "model": "glm-5.3"
+}

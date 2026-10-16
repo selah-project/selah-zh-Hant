@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "葡萄樹",
+      "rationale": "גפן是葡萄藤的實物圖像，指以色列；此處按明喻原文保留字面"
+    },
+    {
+      "kind": "alternative",
+      "subject": "你從埃及拔出一棵葡萄樹",
+      "rationale": "נסע字義為拔起帳棚樁、起行；JPS作pluck up，KJV作brought"
+    }
+  ],
+  "translation": "你從埃及拔出一棵葡萄樹，你趕出列國，把它栽種了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f33c1cf4617afbd1aeae9a2c34c1d7521ce9f269390f2ec6ebc6017da2aa271d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/80\/9-12.1792144325134.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "一棵葡萄樹"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "從埃及"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "你拔出"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "你趕出"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "把它栽種了"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:05.135525566Z",
+  "model": "glm-5.3"
+}

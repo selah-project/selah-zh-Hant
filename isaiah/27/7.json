@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מכה\/הכה，הרג\/הרגיו",
+      "rationale": "同根詞三連堆疊（擊打—擊打—擊打；殺—被殺者—殺），中文保留同詞重複"
+    },
+    {
+      "kind": "crux",
+      "subject": "代詞人稱",
+      "rationale": "希伯來文後綴可指雅威、以色列或敵人；此處取「他（雅威）擊打她（以色列）」之讀"
+    }
+  ],
+  "translation": "他擊打她，豈像擊打那些擊打她的人嗎？她被殺，豈像她那些被殺的人被殺嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7c8ff48e480b5c6a3471f49fae736cd6e7c1cfa83cdd1cefdd810f1078904408",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/27\/5-8.1792135002843.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "像擊打"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "擊打她的"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "擊打她"
+    },
+    {
+      "surface": "אם",
+      "gloss": "豈"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "像被殺"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "她那些被殺的"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "被殺"
+    }
+  ],
+  "timestamp": "2026-10-16T07:16:42.844544746Z",
+  "model": "glm-5.3"
+}

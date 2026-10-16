@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הרים",
+      "rationale": "或作動詞「高升」（JPS「曠野亦無高升」），或作名詞「山嶺」（南方山地曠野）；句子主語隱含。"
+    },
+    {
+      "kind": "addition",
+      "subject": "高升",
+      "rationale": "希伯來文將הרים置於句尾，中文需提前作主語以成句。"
+    }
+  ],
+  "translation": "因為高升不出於日出之處，不出於西方，也不出於曠野。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d3288242dcc74fd52b1a4598606b68d0a2a108e24bca9cd89b2dfd78e5ae298c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/75\/5-8.1792144245490.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "出於日出之處"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "不出於西方"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "出於曠野"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "高升"
+    }
+  ],
+  "timestamp": "2026-10-16T09:50:45.491708682Z",
+  "model": "glm-5.3"
+}

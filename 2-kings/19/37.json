@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 19:37",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "神明",
+      "rationale": "אלהיו指異教神祇，依紀律用「神明」而非以羅欣"
+    },
+    {
+      "kind": "addition",
+      "subject": "當……時",
+      "rationale": "ויהי הואמשתחוה為敘事框架，中文以時間子句表達"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נסרך",
+      "rationale": "尼斯洛僅於此處（及以賽亞書平行經文）出現，是亞述神祇名"
+    }
+  ],
+  "translation": "當他在他的神明尼斯洛的殿中俯伏敬拜時，亞得米勒和沙利色用刀擊殺了他，他們逃往亞拉臘地；他的兒子以撒哈頓接續他作王。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ec789943a4c1a9614545531906243b90e65409af09348ca55838442e759a642d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/19\/37-37.1792134211495.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "當……時"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "משתחוה",
+      "gloss": "俯伏敬拜"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "נסרך",
+      "gloss": "尼斯洛"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "他的神明"
+    },
+    {
+      "surface": "ואדרמלך",
+      "gloss": "和亞得米勒"
+    },
+    {
+      "surface": "ושראצר",
+      "gloss": "和沙利色"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "擊殺了他"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "用刀"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "他們"
+    },
+    {
+      "surface": "נמלטו",
+      "gloss": "逃往"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "亞拉臘"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "作王"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "חדן",
+      "gloss": "哈頓"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "他的兒子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "接續他"
+    }
+  ],
+  "timestamp": "2026-10-16T07:03:31.496550704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 2:15",
+  "book": "habakkuk",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מספח חמתך",
+      "rationale": "חמה可作「皮袋」（酒袋）或「烈怒」；KJV作「你的瓶子」，ASV\/JPS作「你的毒物／烈怒」。此處取「皮袋」。"
+    },
+    {
+      "kind": "you",
+      "subject": "巴比倫",
+      "rationale": "「你的皮袋」為對受禍者的直接呼喚，人稱由第三人稱突然轉為第二人稱。"
+    },
+    {
+      "kind": "addition",
+      "subject": "〈之酒〉",
+      "rationale": "中文需補「之酒」以明皮袋所盛之物。"
+    }
+  ],
+  "translation": "禍哉，那給鄰舍酒喝、攙上你的皮袋〈之酒〉、又使他喝醉，為要觀看他們赤身的人！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "218762e25dcd6fd7df4556953228a5a330ff61ec62eea356885682f179ecedd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/habakkuk\/2\/13-16.1792142776714.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "禍哉"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "給……喝"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "鄰舍"
+    },
+    {
+      "surface": "מספח",
+      "gloss": "攙上"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "你的皮袋"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "又"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "使他喝醉"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為要"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "觀看"
+    },
+    {
+      "surface": "על",
+      "gloss": "於"
+    },
+    {
+      "surface": "מעוריהם",
+      "gloss": "他們的赤身"
+    }
+  ],
+  "timestamp": "2026-10-16T09:26:16.715724854Z",
+  "model": "glm-5.3"
+}

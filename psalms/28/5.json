@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יהרסם\/יבנם",
+      "rationale": "拆毀與建造的對偶——先知書中常見的審判配對"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל\/ואל",
+      "rationale": "希伯來文的介詞אל在此作「留意於」，中文以動詞吸收"
+    }
+  ],
+  "translation": "因為他們不明白雅威的作為，也不留心他手中的工作；他必拆毀他們，不再建立他們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/28\/5-8.1792143536153.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "他們明白"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨對⟩"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "作為"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "也不留心"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "工作"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "他手中的"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "他必拆毀他們"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不再"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "建立他們"
+    }
+  ],
+  "timestamp": "2026-10-16T09:38:56.154396911Z",
+  "model": "glm-5.3"
+}

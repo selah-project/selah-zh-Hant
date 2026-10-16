@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 14:30",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "舉手起誓",
+      "rationale": "נָשָׂאתִי אֶת יָדִי 字面是「我舉起我的手」，是起誓的手勢；欽定本作 swore。"
+    },
+    {
+      "kind": "addition",
+      "subject": "才能進去",
+      "rationale": "希伯來文以 אִם…כִּי אִם（若…惟除）表達「除了…以外必不」，中文補出「才能進去」以成句。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "約書亞",
+      "rationale": "וִיהוֹשֻׁעַ 原形是「耶和書亞／約書亞」，沿用和合本通行寫法。"
+    }
+  ],
+  "translation": "你們必不得進入我舉起 ⟨את⟩ 我的手起誓要使你們居住的那地；惟有耶孚尼的兒子迦勒和嫩的兒子約書亞才能進去。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "474f565aa147f798bd87e05b6faacc44175317148103c0c2d9d6069dde0f95f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/14\/29-32.1792127788553.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若（必不）"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "進入"
+    },
+    {
+      "surface": "אל",
+      "gloss": "進入"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "那地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "我舉起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的手"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "要…居住"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ 你們"
+    },
+    {
+      "surface": "בה",
+      "gloss": "在其中"
+    },
+    {
+      "surface": "כי",
+      "gloss": "惟有"
+    },
+    {
+      "surface": "אם",
+      "gloss": "除了"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "迦勒"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "耶孚尼"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "נון",
+      "gloss": "嫩"
+    }
+  ],
+  "timestamp": "2026-10-16T05:16:28.554524718Z",
+  "model": "glm-5.3"
+}

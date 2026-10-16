@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 1:21",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וישב",
+      "rationale": "第二次 ישב 譯作「同住」，希伯來文只用同一個「住」字，兩次重複的字形在中文裡分開了。"
+    },
+    {
+      "kind": "addition",
+      "subject": "與",
+      "rationale": "中文表達「耶布斯人與便雅憫人同住」需要「與」字，希伯來文只用介詞 את。"
+    }
+  ],
+  "translation": "至於⟨את⟩住耶路撒冷的耶布斯人，便雅憫人沒有趕出去；耶布斯人就與便雅憫人同住在耶路撒冷，直到今日。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bfbd6d658551afc9c4164d4b0087372210940f72c2693ebb409819130c5c8352",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/1\/21-24.1792130004358.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "耶布斯人"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "耶布斯人"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "住"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "趕出去"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……的子孫"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "便雅憫"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "就……住"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "耶布斯人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "便雅憫人"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……的子孫"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "便雅憫"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "在耶路撒冷"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    }
+  ],
+  "timestamp": "2026-10-16T05:53:24.359635086Z",
+  "model": "glm-5.3"
+}

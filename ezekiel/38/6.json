@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 38:6",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "軍旅",
+      "rationale": "אַגָּף 原義「軍隊之翼」，僅用複數，指大批部隊"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "אִתָּךְ 是「與你同在」（H854 帶後綴），按家族規則保留 ⟨את⟩"
+    }
+  ],
+  "translation": "歌篾和它的全軍、陀迦瑪家——北方極處之地——和⟨את⟩它的全軍，許多民族都與⟨את⟩你同在。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f9e60814802c096c07d8ad82e12253fd3bfb7ca9300c222feafa13fcfec886ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/38\/5-8.1792138984127.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גמר",
+      "gloss": "歌篾"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和……的全"
+    },
+    {
+      "surface": "אגפיה",
+      "gloss": "它的軍旅"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "תוגרמה",
+      "gloss": "陀迦瑪"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "極處"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "北方"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "它的全軍"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "אגפיו",
+      "gloss": "它的軍旅"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "民族"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "許多"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "與⟨את⟩你同在"
+    }
+  ],
+  "timestamp": "2026-10-16T08:23:04.128338335Z",
+  "model": "glm-5.3"
+}

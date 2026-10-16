@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 23:30",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "人",
+      "rationale": "中文需補出「的人」以完成前節六問的答案"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ממסך",
+      "rationale": "調和之酒（ממסך）在塔納赫中僅出現於此與賽65:11"
+    }
+  ],
+  "translation": "就是那流連在酒旁、去尋求調和之酒的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "81a1400b73ccd98cfeaa6818ffad817c361743a882b99ab47d64c5907d5c406f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/23\/29-32.1792145590377.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למאחרים",
+      "gloss": "流連在……旁"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "היין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "לבאים",
+      "gloss": "去"
+    },
+    {
+      "surface": "לחקר",
+      "gloss": "尋求"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "調和之酒"
+    }
+  ],
+  "timestamp": "2026-10-16T10:13:10.378454577Z",
+  "model": "glm-5.3"
+}

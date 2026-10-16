@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "都是",
+      "rationale": "希伯來文無繫動詞，中文補足判斷句所需。"
+    },
+    {
+      "kind": "addition",
+      "subject": "的人",
+      "rationale": "分詞「謹守者」在中文以「……的人」補足語法。"
+    }
+  ],
+  "translation": "雅威的一切道路都是慈愛和誠實，向那些謹守他的約和他法度的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a30d850e7a42832cef0ccd636d9eca98b1382e0264ff2f0b03c1f9c58ef415c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/25\/9-12.1792143502177.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "道路"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "慈愛"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "和誠實"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "向那些謹守……的人"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "他的約"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "和他的法度"
+    }
+  ],
+  "timestamp": "2026-10-16T09:38:22.178195146Z",
+  "model": "glm-5.3"
+}

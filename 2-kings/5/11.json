@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 5:11",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יצא יצוא",
+      "rationale": "動詞不定獨立式重複，表「必定出來」的強調，中文以「必定」補足，重複形式失落"
+    },
+    {
+      "kind": "substitution",
+      "subject": "המקום",
+      "rationale": "直譯「那地方」，指痲瘋患處；KJV作「擊手其上」，JPS作「在患處上搖手」"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואסף המצרע",
+      "rationale": "直譯「收回那痲瘋患者」，המצרע是分詞作名詞「患痲瘋者」，諸譯本多作「治好痲瘋」"
+    }
+  ],
+  "translation": "乃縵卻發怒走了，說：「看哪，我想著他必定出來見我，站著求告雅威他神的名，在患處上方搖手，除掉那痲瘋。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0846c5869772eccb54377734627142943180bc7bc08afe99ab0c9e48f712baff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/5\/9-12.1792133638034.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "發怒"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "乃縵"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "走了"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我想著"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出來"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "必定出來"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "站著"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "求告"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "…的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "他的神（以羅欣）"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "搖"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "他的手"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "那患處"
+    },
+    {
+      "surface": "ואסף",
+      "gloss": "除掉"
+    },
+    {
+      "surface": "המצרע",
+      "gloss": "那痲瘋"
+    }
+  ],
+  "timestamp": "2026-10-16T06:53:58.035855198Z",
+  "model": "glm-5.3"
+}

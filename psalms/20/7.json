@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 20:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "引導「知道」內容的連接詞，中文以冒號吸收"
+    },
+    {
+      "kind": "crux",
+      "subject": "受膏者",
+      "rationale": "משיחו 指君王（大衛家），一詞到底譯「受膏者」，不用「彌賽亞」「基督」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "他的聖潔的天上",
+      "rationale": "משמי קדשו 為雙重構造「他聖潔之天（複數）」，雙數形式保留為「天上」"
+    }
+  ],
+  "translation": "如今我知道：雅威拯救他的受膏者，必從他聖潔的天上應允他，以他右手拯救的大能拯救他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "407b48d910194a22cdae93bf36cd16b5a136ef15bcee0f67f64355c84fbc1ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/20\/5-8.1792143452441.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "如今"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我知道"
+    },
+    {
+      "surface": "כי",
+      "gloss": "（引導詞）"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "拯救"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "他的受膏者"
+    },
+    {
+      "surface": "יענהו",
+      "gloss": "必應允他"
+    },
+    {
+      "surface": "משמי",
+      "gloss": "從……的天"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "他的聖潔"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "以……的大能"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "拯救"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "他的右手"
+    }
+  ],
+  "timestamp": "2026-10-16T09:37:32.442058193Z",
+  "model": "glm-5.3"
+}

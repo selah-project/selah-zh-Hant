@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אך ריק",
+      "rationale": "『實在徒然』或作『只是徒然』——אך 可作限定（only）或強調（surely）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "無辜",
+      "rationale": "נקיון 是潔淨／清白之意，非道德範疇的抽象名詞"
+    }
+  ],
+  "translation": "實在徒然——我潔淨了我的心，又在無辜中洗了我的手。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "43ec00c0195ae3f2ab7e08027a3c2ccb4931ea329e79132d461e46f9401a9d72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/73\/13-16.1792144148144.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "實在"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "徒然"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "我潔淨了"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "我又洗了"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "在無辜中"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "我的手"
+    }
+  ],
+  "timestamp": "2026-10-16T09:49:08.144953409Z",
+  "model": "glm-5.3"
+}

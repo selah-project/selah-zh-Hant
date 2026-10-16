@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "四王",
+      "rationale": "命令式「你們上來……幫助我」，直接向四王發話"
+    },
+    {
+      "kind": "invitation",
+      "subject": "上到我這裡來",
+      "rationale": "動詞 עלו 為召喚式命令，呼籲結盟"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השלימה／שלום",
+      "rationale": "「立和約」（שלם）與「沙龍／平安」同根，中文失落此關聯"
+    }
+  ],
+  "translation": "「你們上到我這裡來幫助我，我們好攻打 ⟨את⟩ 基遍，因為它已與約書亞和 ⟨את⟩ 以色列人立了和約。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9bb88ad1ab432ae26ee1059731d17768e220b30bdae39f969c2b4aac48386cb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/10\/1-4.1792129652074.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "你們上來"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "到我這裡"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "幫助我"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "我們好攻打"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "基遍"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "基遍"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "立了和約"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約書亞"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的眾子"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……的眾子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T05:47:32.075994001Z",
+  "model": "glm-5.3"
+}

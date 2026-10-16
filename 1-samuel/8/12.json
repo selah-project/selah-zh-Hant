@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 8:12",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חרישו",
+      "rationale": "直譯『他的耕作（之事）』，中文以『他的田』表其對象。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כלי מלחמתו",
+      "rationale": "כלי 直譯『器皿／器具』，此處指兵器。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרש\/חרישו · קצר\/קצירו",
+      "rationale": "動詞與其同根受詞成對（耕他的耕、收他的收），中文以『耕種他的田、收割他的莊稼』保留對仗。"
+    }
+  ],
+  "translation": "又為自己立千夫長、五十夫長，為他耕種他的田、收割他的莊稼，製造他打仗的兵器和他戰車的器具。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "00ed4f9e203c4225df3114edbf866bf95f425e3a7ec6d77d95346c7180b51cb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/8\/9-12.1792130810438.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשום",
+      "gloss": "又立"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為自己"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "……長"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "……長"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "ולחרש",
+      "gloss": "耕種"
+    },
+    {
+      "surface": "חרישו",
+      "gloss": "他的田"
+    },
+    {
+      "surface": "ולקצר",
+      "gloss": "收割"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "他的莊稼"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "製造"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "兵器"
+    },
+    {
+      "surface": "מלחמתו",
+      "gloss": "他打仗的"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "器具"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "他的戰車"
+    }
+  ],
+  "timestamp": "2026-10-16T06:06:50.439935935Z",
+  "model": "glm-5.3"
+}

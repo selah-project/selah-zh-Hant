@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 16:8",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "六天／第七日",
+      "rationale": "節期的日數計算：六天吃無酵餅，第七日集會。"
+    },
+    {
+      "kind": "addition",
+      "subject": "〈你〉",
+      "rationale": "希伯來動詞變位已含主詞，中文補出〈你〉以明其為命令對象。"
+    }
+  ],
+  "translation": "六天你要吃無酵餅，第七日是向雅威你的以羅欣守的嚴肅會；〈你〉不可做任何工作。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "372e101a9a74e67a9df470aec489afe0032cb493c2df1a0aea2b351cb9dc7d65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/16\/5-8.1792128856201.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "六"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "天"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "你要吃"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "無酵餅"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "並且在……日"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "嚴肅會"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你要做"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "工作"
+    }
+  ],
+  "timestamp": "2026-10-16T05:34:16.203080556Z",
+  "model": "glm-5.3"
+}

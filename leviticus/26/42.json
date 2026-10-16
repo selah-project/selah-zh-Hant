@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זכר\/אזכר",
+      "rationale": "「記念」四次重複（זכרתי、אזכר、אזכר），與三先祖之約並列，節奏漸進；中文保留四次重複。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "逆序",
+      "rationale": "希伯來文將三先祖倒序列出（雅各、以撒、亞伯拉罕），有釋經者謂因「雅各之約」最切當時處境；照原文次序保留。"
+    }
+  ],
+  "translation": "我就要記念 ⟨את⟩ 我的約——雅各之約，也要記念 ⟨את⟩ 我的約——以撒之約，也要記念 ⟨את⟩ 我的約——亞伯拉罕之約，並要記念這地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "62160dc84f4ede1a8f56087e4b0ba757293bffea11a318710f943bf0ebdd9854",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/26\/41-44.1792127449481.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "我就要記念"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的約——雅各之約"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "我的約"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "也要"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的約——以撒之約"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "我的約"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "也要"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的約——亞伯拉罕之約"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "我的約"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "記念"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "並這地"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "記念"
+    }
+  ],
+  "timestamp": "2026-10-16T05:10:49.482391244Z",
+  "model": "glm-5.3"
+}

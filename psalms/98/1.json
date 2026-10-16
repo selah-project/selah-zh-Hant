@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "一篇",
+      "rationale": "מזמור 為單數標題，中文需加量詞"
+    },
+    {
+      "kind": "invitation",
+      "subject": "你們要向雅威唱新歌",
+      "rationale": "命令式複數呼籲會眾歌唱"
+    },
+    {
+      "kind": "alternative",
+      "subject": "他的右手…為他施行了拯救",
+      "rationale": "原文語序：『他的右手和他聖潔的膀臂已為他贏得勝利』；拯救一詞兼有勝利之義"
+    }
+  ],
+  "translation": "一篇詩篇。你們要向雅威唱新歌，因為他行了奇事；他的右手和他聖潔的膀臂為他施行了拯救。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6b156fc378f95dc1d2e386ff094626248f893c3897b81daa225b1c2889d745af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/98\/1-4.1792144541062.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "一篇詩篇"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "你們要唱"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "新"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "奇事"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "他行了"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "施行了拯救"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為他"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "他的右手"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "和他的膀臂"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "他聖潔的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:41.063352504Z",
+  "model": "glm-5.3"
+}

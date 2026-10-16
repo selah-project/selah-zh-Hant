@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 58:3",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש 近於「性命、氣息、生命體」，非不朽靈魂；譯「性命」。"
+    },
+    {
+      "kind": "crux",
+      "subject": "עצביכם",
+      "rationale": "或作「你們的愁苦」或「你們的債務人」；「工人」取受欺壓之對象的主流讀法。"
+    },
+    {
+      "kind": "you",
+      "subject": "對以色列",
+      "rationale": "前半為百姓向雅威的質問引語，後半轉為雅威對百姓的直接答話。"
+    }
+  ],
+  "translation": "「我們禁食，你為何看不見呢？我們苦待⟨את⟩我們的性命，你為何不留意呢？」看哪，你們禁食的日子，仍尋求自己所喜好的事，又欺壓你們一切的工人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "426cade05954f05602d2a920fb2716a475569e994549072564b393a2cfc12af5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/58\/1-4.1792135872961.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "為何"
+    },
+    {
+      "surface": "צמנו",
+      "gloss": "我們禁食"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "而不"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "你看見"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "我們苦待"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "我們的性命"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "而不"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "你留意"
+    },
+    {
+      "surface": "הן",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在……的日子"
+    },
+    {
+      "surface": "צמכם",
+      "gloss": "你們的禁食"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "你們尋求"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "所喜好的事"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "又……一切的"
+    },
+    {
+      "surface": "עצביכם",
+      "gloss": "你們的工人"
+    },
+    {
+      "surface": "תנגשו",
+      "gloss": "你們欺壓"
+    }
+  ],
+  "timestamp": "2026-10-16T07:31:12.962542623Z",
+  "model": "glm-5.3"
+}

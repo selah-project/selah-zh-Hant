@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨他⟩",
+      "rationale": "希伯來文以關係子句連接，中文需補代詞指明受揀選者"
+    },
+    {
+      "kind": "alternative",
+      "subject": "נשבעה",
+      "rationale": "可作祈願「願我們得以飽足」（JPS）或陳述「我們已得飽足」；本文取將然式陳述"
+    },
+    {
+      "kind": "invitation",
+      "subject": "אשרי",
+      "rationale": "福哉宣告（macarism）向聽者指出蒙福之路，具召喚性"
+    }
+  ],
+  "translation": "你所揀選、使⟨他⟩親近你的人有福了，他要住在你的院宇中；我們必因你家的美善、你聖殿的聖潔得飽足。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ab8063a2f9bed2e6b4382c635e10e2b815019f702d3e2ed3083fa1edb1a3e193",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/65\/5-8.1792144067570.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "有福了"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "你揀選"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "使……親近"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "他要住"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "你的院宇"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "我們必得飽足"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "因……的美善"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "你的家"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖潔"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "你的聖殿"
+    }
+  ],
+  "timestamp": "2026-10-16T09:47:47.571319483Z",
+  "model": "glm-5.3"
+}

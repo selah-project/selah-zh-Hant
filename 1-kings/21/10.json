@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 21:10",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברכת",
+      "rationale": "字面是「你祝福了」；ברך 作「咒詛」是用於神的委婉語（直說褻瀆為禁忌），各譯本多作「咒詛／褻瀆」"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בני בליעל",
+      "rationale": "字面「無益之子」，意為無賴惡棍；直譯會誤導"
+    }
+  ],
+  "translation": "又要使兩個人坐在他對面，是無賴之子，他們要作見證指控他，說：「你咒詛了以羅欣和王。」然後把他拉出去，用石頭打死他，他就死了。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cbf1cf327c48f0c7d4277c3ed6a988223766221f4a8845896283810cccee4d28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/21\/9-12.1792133279001.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והושיבו",
+      "gloss": "要使……坐"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "兩個"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "人"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……之子"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "無賴"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "在他對面"
+    },
+    {
+      "surface": "ויעדהו",
+      "gloss": "他們要作見證指控他"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "你咒詛了"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "和王"
+    },
+    {
+      "surface": "והוציאהו",
+      "gloss": "把他拉出去"
+    },
+    {
+      "surface": "וסקלהו",
+      "gloss": "用石頭打死他"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "他就死了"
+    }
+  ],
+  "timestamp": "2026-10-16T06:47:59.001844924Z",
+  "model": "glm-5.3"
+}

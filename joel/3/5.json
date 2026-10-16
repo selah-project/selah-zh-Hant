@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joel 3:5",
+  "book": "joel",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובשרידים אשר יהוה קרא",
+      "rationale": "末句難解：『在倖存者中，就是雅威所召的』（JPS式）對比『倖存者就是雅威所召的』或『因為雅威正在呼召』"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקרא\/קרא",
+      "rationale": "首尾呼應：開頭的『求告（קרא）』與結尾的『雅威所召（קרא）』同字，人的呼求與雅威的呼召相對應"
+    }
+  ],
+  "translation": "凡求告雅威之名的必得逃脫，因為在錫安山、在耶路撒冷必有逃脫的人，正如雅威所說的；在倖存的人中，必有雅威所召的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0ad6db242da42c9fd4afa80b38ff0656ca0b39a0245fb4a03ee74085b7e2e165",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joel\/3\/5-5.1792139599925.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "必有"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "求告"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "…之名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "必得逃脫"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "在…山"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "在耶路撒冷"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "必有"
+    },
+    {
+      "surface": "פליטה",
+      "gloss": "逃脫的人"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "正如"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "所說的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ובשרידים",
+      "gloss": "在倖存的人中"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "所召的"
+    }
+  ],
+  "timestamp": "2026-10-16T08:33:19.926559353Z",
+  "model": "glm-5.3"
+}

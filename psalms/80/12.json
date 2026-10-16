@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קצירה",
+      "rationale": "字面為「她的收割／收割物」，諸譯本按上下文讀作「她的枝子」（葡萄樹意象）；直譯應是「她的收成直到海」"
+    },
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "此處元音標點作 אֶת（受詞記號）而非 אֵת（「與」），視為 ⟨את⟩ 標記"
+    }
+  ],
+  "translation": "她差出⟨את⟩她的嫩枝直到海，她的幼芽直到大河。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "862e232718d95183973bd49199680f274e192319a12515d256256b3bd7495fb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/80\/12-12.1792149898725.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "她差出"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "她的嫩枝"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "她的嫩枝"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "直到"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "大河"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "她的幼芽"
+    }
+  ],
+  "timestamp": "2026-10-16T11:24:58.726204410Z",
+  "model": "glm-5.3"
+}

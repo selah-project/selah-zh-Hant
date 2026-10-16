@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 14:8",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "〈說〉",
+      "rationale": "希伯來文無引導動詞，引語直接開始；中文需「說」以引入引文"
+    },
+    {
+      "kind": "hapax",
+      "subject": "בְּרוֹשׁ",
+      "rationale": "樹名確切所指不明（柏樹？杉樹？），各譯本分歧：KJV 作 fir，JPS 作 cypress"
+    },
+    {
+      "kind": "you",
+      "subject": "to 巴比倫王",
+      "rationale": "樹木直接對傾倒的君王說話——死亡諷刺文的擬人高峰"
+    }
+  ],
+  "translation": "連柏樹也因你歡喜，黎巴嫩的香柏樹〈說〉：自從你躺臥，砍伐的人不再上來攻擊我們了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "07c977385d7b59558e92bc3fbceea69f239d8635ff3966db3fe7ac4bd4ff2e5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/14\/5-8.1792134764192.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "連……也"
+    },
+    {
+      "surface": "בְּרוֹשִׁים",
+      "gloss": "柏樹"
+    },
+    {
+      "surface": "שָׂמְחוּ",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "因你"
+    },
+    {
+      "surface": "אַרְזֵי",
+      "gloss": "香柏樹"
+    },
+    {
+      "surface": "לְבָנוֹן",
+      "gloss": "黎巴嫩的"
+    },
+    {
+      "surface": "מֵאָז",
+      "gloss": "自從"
+    },
+    {
+      "surface": "שָׁכַבְתָּ",
+      "gloss": "你躺臥"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יַעֲלֶה",
+      "gloss": "上來"
+    },
+    {
+      "surface": "הַכֹּרֵת",
+      "gloss": "砍伐的人"
+    },
+    {
+      "surface": "עָלֵינוּ",
+      "gloss": "攻擊我們"
+    }
+  ],
+  "timestamp": "2026-10-16T07:12:44.193999397Z",
+  "model": "glm-5.3"
+}

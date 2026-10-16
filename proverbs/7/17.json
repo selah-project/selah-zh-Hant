@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "原文無את；此處不應有⟨את⟩記號，僅交代原文無受詞記號"
+    },
+    {
+      "kind": "substitution",
+      "subject": "蘆薈木",
+      "rationale": "אהלים是蘆薈木（沉香類香料樹木），中文傳統譯『蘆薈』或『沉香』"
+    }
+  ],
+  "translation": "我以沒藥、蘆薈木和肉桂灑遍了⟨את⟩我的床。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d3d23095c5c9abfb9fb97bc2f768a64465fa3c1f03dfa46a4615d3a0d992bf93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/7\/17-20.1792145311189.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "我灑了"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "我的床"
+    },
+    {
+      "surface": "מר",
+      "gloss": "沒藥"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "蘆薈木"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "和肉桂"
+    }
+  ],
+  "timestamp": "2026-10-16T10:08:31.190285107Z",
+  "model": "glm-5.3"
+}

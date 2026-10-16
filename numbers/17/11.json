@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 17:11",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "對亞倫",
+      "rationale": "摩西以連串命令式直接吩咐亞倫"
+    },
+    {
+      "kind": "substitution",
+      "subject": "瘟疫",
+      "rationale": "הנגף 字面是「絆跌之物、擊打」，指擊打民的災病，譯作「瘟疫」"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעל המזבח",
+      "rationale": "「從祭壇取火」：原文可讀作火從祭壇而來或從祭壇上取，各譯本處理不一"
+    }
+  ],
+  "translation": "摩西對亞倫說：「拿 ⟨את⟩ 香爐，把火放在上面，火要從祭壇取來，放上香，快快帶到會眾那裡，為他們贖罪，因為怒氣已經從雅威面前發出，瘟疫已經開始了。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6bf179f191d3f8fda8b20bba7b7258834713a37803e97016d284ed4c2740f5a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/17\/9-12.1792127928095.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "קח",
+      "gloss": "拿"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "香爐"
+    },
+    {
+      "surface": "המחתה",
+      "gloss": "香爐"
+    },
+    {
+      "surface": "ותן",
+      "gloss": "放"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "在上面"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "從"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "放上"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "香"
+    },
+    {
+      "surface": "והולך",
+      "gloss": "帶到"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "快快地"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "贖罪"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "為他們"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "已經發出"
+    },
+    {
+      "surface": "הקצף",
+      "gloss": "怒氣"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "從……面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "החל",
+      "gloss": "已經開始"
+    },
+    {
+      "surface": "הנגף",
+      "gloss": "瘟疫"
+    }
+  ],
+  "timestamp": "2026-10-16T05:18:48.096571640Z",
+  "model": "glm-5.3"
+}

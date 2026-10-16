@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "就必",
+      "rationale": "中文需要條件句的推論連接詞，希伯來文以 והיה 表達"
+    },
+    {
+      "kind": "elision",
+      "subject": "לי",
+      "rationale": "介詞短語「歸我」併入中文所有格「我的」"
+    },
+    {
+      "kind": "you",
+      "subject": "雅各的許願",
+      "rationale": "雅各向雅威說話的條件性誓言"
+    }
+  ],
+  "translation": "而我平安地回到我父的家，雅威就必作我的以羅欣（神）。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "17b557a53ce02ef6c3953f7a4cc97edeb32aa9a24b3784e647edbce45966ca7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/28\/21-22.1792125092695.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "而我回到"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "平安地"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我父的"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "就必成為"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我的"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "以羅欣（神）"
+    }
+  ],
+  "timestamp": "2026-10-16T04:31:32.695626694Z",
+  "model": "glm-5.3"
+}

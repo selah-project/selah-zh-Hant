@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "何等",
+      "rationale": "希伯來文形容詞 גָּדוֹל 前置作謂語，中文需程度詞使其自然"
+    },
+    {
+      "kind": "crux",
+      "subject": "תְּשַׁוֶּה",
+      "rationale": "字根 שוה 本義「使平、使相等」，多譯作「放置／賜予」；或解為「使他與威嚴華美相等」，此取通行義"
+    }
+  ],
+  "translation": "他的榮耀在你的救恩中何等大；你使威嚴和華美加於他身上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9140d3c7680f8657d0052707d2e345ceeb481beecb6969b3c1527dbe66c04aad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/21\/5-8.1792143447197.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "何等大"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "他的榮耀"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "在你的救恩中"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "威嚴"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "和華美"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "你使加於"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "他身上"
+    }
+  ],
+  "timestamp": "2026-10-16T09:37:27.198775378Z",
+  "model": "glm-5.3"
+}

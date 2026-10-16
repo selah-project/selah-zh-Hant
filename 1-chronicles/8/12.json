@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובנתיה",
+      "rationale": "字面為「它的眾女兒」，習指屬城／村莊（參書 15:45）；希伯來文法上單數代詞指兩城，故譯「它們的村莊」"
+    },
+    {
+      "kind": "measurement",
+      "subject": "家譜名單",
+      "rationale": "本節列以利帕勒諸子並記建城之事"
+    }
+  ],
+  "translation": "以利帕勒的兒子是以伯、米沙姆和施米德；他建造了 ⟨את⟩ 挪〈城〉和 ⟨ואת⟩ 羅德，以及它們的村莊。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1f9824ca169078305df306c3abe3fe36f41e6227c7b51f04824fc1b3e64167e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/8\/9-12.1792148594630.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "的兒子"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "以利帕勒"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "以伯"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "米沙姆"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "施米德"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "建造了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "挪"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "挪"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "羅德"
+    },
+    {
+      "surface": "לד",
+      "gloss": "羅德"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "以及它們的村莊"
+    }
+  ],
+  "timestamp": "2026-10-16T11:03:14.631216099Z",
+  "model": "glm-5.3"
+}

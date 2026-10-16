@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 18:30",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "第二個 ויאמר 的主語是神，希伯來文未寫明，中文補⟨他⟩"
+    },
+    {
+      "kind": "idiom",
+      "subject": "יחר",
+      "rationale": "字面是「燒起來、發熱」，怒氣的希伯來慣用語"
+    },
+    {
+      "kind": "you",
+      "subject": "to Adonai",
+      "rationale": "亞伯拉罕直接向阿多奈懇求"
+    }
+  ],
+  "translation": "他說：「願阿多奈不要發怒，容我說：或許在那裡找到三十個。」⟨他⟩說：「我若在那裡找到三十個，就不這樣做。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a56702be094720332b840152301de10ac427a52aa987c4a68b04d097fee8c570",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/18\/29-32.1792124838714.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "נא",
+      "gloss": "願"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "發怒"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "向阿多奈"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "容我說"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "或許"
+    },
+    {
+      "surface": "ימצאון",
+      "gloss": "被找到"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裡"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十個"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "⟨他⟩說"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "我……做"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "我找到"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裡"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十個"
+    }
+  ],
+  "timestamp": "2026-10-16T04:27:18.714966186Z",
+  "model": "glm-5.3"
+}

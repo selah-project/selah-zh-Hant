@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "如同荊棘的火",
+      "rationale": "荊棘燒得快也滅得快，是希伯來常見意象，直譯保留"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דעכו",
+      "rationale": "「熄滅」用於火，也用於燈與生命，雙關蜜蜂之消散"
+    }
+  ],
+  "translation": "他們環繞我，如同蜜蜂；他們熄滅，如同荊棘的火；我必靠雅威的名剪除他們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bd9cec864b494ad40f4737f464792267479515b97a1d8fddf4f56c937385d556",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/118\/9-12.1792144794249.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "他們環繞我"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "如同蜜蜂"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "熄滅"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "如同……的火"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "荊棘"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "靠……的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨我⟩……必"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "剪除他們"
+    }
+  ],
+  "timestamp": "2026-10-16T09:59:54.250265211Z",
+  "model": "glm-5.3"
+}

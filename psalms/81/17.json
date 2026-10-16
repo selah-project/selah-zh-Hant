@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "精華",
+      "rationale": "חלב 字面是「脂肪」，指最肥美、最精選的部分"
+    },
+    {
+      "kind": "crux",
+      "subject": "人稱轉換",
+      "rationale": "同一節內第三人稱（他餵養他）轉為第一人稱對第二人稱（我使你飽足），希伯來文常見，中交保留原樣"
+    }
+  ],
+  "translation": "他本要以小麥的精華餵養他，以磐石出的蜂蜜使你飽足。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f17a751f62b004dc4f2d422c1e60b272b76d4dcecbeb206ea71fdef412e26ff1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/81\/17-17.1792144306111.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "他本要餵養他"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "精華"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "小麥"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "並以磐石"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "蜂蜜"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "使你飽足"
+    }
+  ],
+  "timestamp": "2026-10-16T09:51:46.111536236Z",
+  "model": "glm-5.3"
+}

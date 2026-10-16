@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 12:13",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨你⟩",
+      "rationale": "לך 為反身語氣，中文以加括的「你」承接"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "第二人稱單數命令，向以色列人說話"
+    }
+  ],
+  "translation": "你要謹慎，免得你在隨處見到的任何地方獻上你的燔祭；",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "63070f37d0edbf4890301f1e721a93f6696bac27720cdf2dd5d7fd6e675a8542",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/12\/13-16.1792128815693.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "你要謹慎"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨你⟩"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "獻上"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "你的燔祭"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "地方"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "你見到"
+    }
+  ],
+  "timestamp": "2026-10-16T05:33:35.694042980Z",
+  "model": "glm-5.3"
+}

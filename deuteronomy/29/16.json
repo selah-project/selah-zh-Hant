@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "גלולים",
+      "rationale": "字面為「圓木／木塊」，貶指偶像；譯「偶像」失其鄙視的畫面"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "延續對以色列的直接陳述"
+    }
+  ],
+  "translation": "你們也看見了他們的可憎之物，並⟨את⟩他們的偶像——木頭和石頭、銀子和金子，那些在他們那裡的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4cce3abf327ce58c55f70fadbf7f95eac3d495e0a9cfd29c9924e901e110ef13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/29\/13-16.1792129199383.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "你們也看見了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的可憎之物"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "他們的可憎之物"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "他們的偶像"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "他們的偶像"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "木頭"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "和石頭"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀子"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "和金子"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那些…的"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "在他們那裡"
+    }
+  ],
+  "timestamp": "2026-10-16T05:39:59.384759717Z",
+  "model": "glm-5.3"
+}

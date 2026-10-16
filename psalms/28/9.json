@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "求你",
+      "rationale": "希伯來文祈使式無主語，中文加「求你」以標明向雅威的懇求"
+    },
+    {
+      "kind": "crux",
+      "subject": "扶持",
+      "rationale": "ונשאם：KJV「lift them up」、JPS「carry them」；「背負／抬起」兩讀並存"
+    },
+    {
+      "kind": "you",
+      "subject": "to YHWH",
+      "rationale": "詩人向雅威直接的祈求——四個祈使式動詞"
+    }
+  ],
+  "translation": "求你拯救 ⟨את⟩ 你的百姓，賜福給 ⟨את⟩ 你的產業；牧養他們，扶持他們，直到永遠。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "148f3cb8edf9a33d506ebfe46cde3702e171ff4e49225e6ff3010540e0c90737",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/28\/9-9.1792143487459.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "求你拯救"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的百姓"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "賜福"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的產業"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "你的產業"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "牧養他們"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "扶持他們"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-10-16T09:38:07.461221738Z",
+  "model": "glm-5.3"
+}

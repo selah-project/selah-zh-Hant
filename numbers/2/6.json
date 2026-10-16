@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "人口數點",
+      "rationale": "軍隊人數：五萬四千四百"
+    },
+    {
+      "kind": "idiom",
+      "subject": "四和五十",
+      "rationale": "希伯來文從個位數起算（四與五十千），中文按慣例改為五萬四千"
+    }
+  ],
+  "translation": "他的軍隊、被數點的共有五萬四千四百人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5c8ef20b7aab85768818fdc0f9de7f879c082f23492656f5c0291ed5ac0eb6d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/2\/5-8.1792127466814.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "他的軍隊"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "被數點的"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "四"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    }
+  ],
+  "timestamp": "2026-10-16T05:11:06.815249514Z",
+  "model": "glm-5.3"
+}

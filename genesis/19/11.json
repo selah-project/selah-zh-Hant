@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סנורים",
+      "rationale": "此詞僅出現於創 19:11（及 19:10 相關敘事中），確切病因學意義不明；KJV 譯 blindness。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "מקטן ועד גדול",
+      "rationale": "「從小的到大的」——全體範圍的計數式表述。"
+    }
+  ],
+  "translation": "他們擊打那些在房子門口的人，使其目盲，從小的到大的，以致他們疲乏找不到門口。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a22d0585e144ec315aaf6f9bb35645a03cc58a1a7516e495636d871d7f1ca5e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/19\/9-12.1792124856101.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "那些人"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "那些人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那些"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門口"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "房子"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "他們擊打"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "使其目盲"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "從小的"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大的"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "他們疲乏"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "找到"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "門口"
+    }
+  ],
+  "timestamp": "2026-10-16T04:27:36.102701798Z",
+  "model": "glm-5.3"
+}

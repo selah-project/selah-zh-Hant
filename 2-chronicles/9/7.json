@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אשרי……ואשרי",
+      "rationale": "『有福了』重複兩次，希伯來感嘆句式，中文保留重複"
+    },
+    {
+      "kind": "substitution",
+      "subject": "臣子",
+      "rationale": "אנשיך 直譯『你的人們』，指王廷的臣僕"
+    }
+  ],
+  "translation": "你的臣子有福了，你的僕人這些人有福了，他們時常站在你面前，聽⟨את⟩你的智慧。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4c309775bee395cb686deecd0a65482d717f9cd20ec8b439deac79162140ad88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/9\/5-8.1792149300190.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "有福了"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "你的人"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "也有福了"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "你的僕人"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "站著的"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "在你面前"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "時常"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "聽"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的智慧"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "你的智慧"
+    }
+  ],
+  "timestamp": "2026-10-16T11:15:00.191511072Z",
+  "model": "glm-5.3"
+}

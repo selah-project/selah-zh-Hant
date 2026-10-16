@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 13:24",
+  "book": "nehemiah",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "會",
+      "rationale": "מַכִּירִים 本為「認得、辨認」，此處指「會說」（不認得猶太話）"
+    },
+    {
+      "kind": "crux",
+      "subject": "וכלשון עם ועם",
+      "rationale": "「按這族和那族的語言」——或指子女隨父母各方的族語混雜，或如 KJV 譯「按各族的語言」"
+    }
+  ],
+  "translation": "他們的兒子有一半說亞實突話，不會說猶太話，只會說這一族或那一族的語言。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cd18fcc176b4eeeb5e4ab34152ffb3c20abc02e6e0a01008732d9b6abd9587db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nehemiah\/13\/21-24.1792148280198.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובניהם",
+      "gloss": "他們的兒子"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "一半"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אשדודית",
+      "gloss": "亞實突話"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "而他們不"
+    },
+    {
+      "surface": "מכירים",
+      "gloss": "會"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "猶太話"
+    },
+    {
+      "surface": "וכלשון",
+      "gloss": "並按……語言"
+    },
+    {
+      "surface": "עם",
+      "gloss": "這一族"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "和那一族"
+    }
+  ],
+  "timestamp": "2026-10-16T10:58:00.199285118Z",
+  "model": "glm-5.3"
+}

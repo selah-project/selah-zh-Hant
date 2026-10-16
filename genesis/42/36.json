@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 42:36",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "我的兒女",
+      "rationale": "אתי字面是「我」，前置受詞；中文補出「我的兒女」以成句"
+    },
+    {
+      "kind": "you",
+      "subject": "雅各對眾子說",
+      "rationale": "雅各直接向眾子發言的哀訴"
+    }
+  ],
+  "translation": "他們的父親雅各對他們說：「你們喪盡了 ⟨את⟩ 我的兒女：約瑟不在了，西緬也不在了，你們又要拿走 ⟨את⟩ 便雅憫——這一切都臨到我身上。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4deb58143dfaaff4897b85f5c243bc3a16cf6885e5cc94ebe7a46af55638d15f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/42\/33-36.1792125510948.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "對他們"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "他們的父親"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "我（被奪去兒女的我）"
+    },
+    {
+      "surface": "שכלתם",
+      "gloss": "你們喪盡了"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "不在了"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "西緬"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "也不在了"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "便雅憫"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "便雅憫"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "你們要拿走"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "在我身上"
+    },
+    {
+      "surface": "היו",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "這一切"
+    }
+  ],
+  "timestamp": "2026-10-16T04:38:30.950379481Z",
+  "model": "glm-5.3"
+}

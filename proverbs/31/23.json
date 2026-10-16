@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 31:23",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "為人所…知",
+      "rationale": "נודע是被动式，中文以「為人所知」表達被動"
+    },
+    {
+      "kind": "measurement",
+      "subject": "城門口",
+      "rationale": "城門是古代斷案與公共身分的場所，丈夫的身分在此被眾人數算"
+    }
+  ],
+  "translation": "她的丈夫在城門口為人所知，他與那地的長老同坐的時候。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5eac4d701ffd51344d8454f29a9617e2ef99fe52fbc32abd0564fd1ef28442da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/31\/21-24.1792145747097.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "為人所知"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "在城門口"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "她的丈夫"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "當他坐著"
+    },
+    {
+      "surface": "עם",
+      "gloss": "與"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "長老"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "那地"
+    }
+  ],
+  "timestamp": "2026-10-16T10:15:47.098011983Z",
+  "model": "glm-5.3"
+}

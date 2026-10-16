@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 15:18",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "二人",
+      "rationale": "希伯來文動詞 ורחצו、וטמאו 為複數，隱含男女雙方；中文補出「二人」"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "gloss_note": "",
+      "rationale": "關係詞 אשר 在中文中以「若」的條件結構吸收"
+    }
+  ],
+  "translation": "至於女人，男人若與她同寢、洩了精，二人要用水洗澡，並且不潔淨直到晚上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2bfc9757041a9d4fe0df49a49fc65c742d9febf7a228fcd12d552c5d302d803c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/15\/18-20.1792142336805.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "至於女人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "若"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "同寢"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男人"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "她（受同寢的對象）"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "洩"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "精"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "要洗澡"
+    },
+    {
+      "surface": "במים",
+      "gloss": "用水"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "並且不潔淨"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "晚上"
+    }
+  ],
+  "timestamp": "2026-10-16T09:18:56.806616289Z",
+  "model": "glm-5.3"
+}

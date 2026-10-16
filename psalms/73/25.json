@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ועמך",
+      "rationale": "希伯來文語序極簡：「與你同在（時）」，我未添「除了」作連接詞，僅置於句首以合中文語感；另一讀法是「在地上與你同在，我不求別的」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בשמים／בארץ",
+      "rationale": "天上與地上對舉，首尾呼應詩篇73篇的核心對比。"
+    }
+  ],
+  "translation": "在天上，我有誰呢？在地上，除了與你同在，我不喜愛別的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2cc8df8a4d01344a5592ca92d78a3473980c6b99e83385ee6a12ee5b76933da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/73\/25-28.1792144214267.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我有"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "在天上"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "與你同在"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "我喜愛"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在地上"
+    }
+  ],
+  "timestamp": "2026-10-16T09:50:14.268571742Z",
+  "model": "glm-5.3"
+}

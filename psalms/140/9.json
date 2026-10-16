@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ירומו",
+      "rationale": "字形是「他們高升」（複數）：有譯本作「免得他們自高」（KJV），有作直述「他們高升了」（YLＴ）；單數「他」與複數「他們」在原文中交錯。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "סלה",
+      "rationale": "音樂記號，音譯為「細拉」，意義不明。"
+    }
+  ],
+  "translation": "雅威啊，不要賜下惡人所願的；他的陰謀，不要使它得逞，免得他們高升。細拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "db49c15584be05e5ebb283b31fde4f7517fe03da85e02036b4390c4f2a7ec45b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/140\/9-12.1792145066511.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "賜下"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "所願的"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "他的陰謀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "使它得逞"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "他們高升"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:26.511644678Z",
+  "model": "glm-5.3"
+}

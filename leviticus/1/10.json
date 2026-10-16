@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "一隻",
+      "rationale": "中文需要量詞，希伯來文無"
+    }
+  ],
+  "translation": "他的供物若以羊群中的綿羊或山羊為燔祭，就要獻上 ⟨את⟩ 一隻沒有殘疾的公畜。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9bd2b52cafa60a50ad3b405c210a2b603f0498b7401045f1b4d9a7b74a1ec319",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/1\/9-12.1792126663032.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "他的供物"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "綿羊"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "山羊"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "為燔祭"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "公畜"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "沒有殘疾的"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "就要獻上"
+    }
+  ],
+  "timestamp": "2026-10-16T04:57:43.033421747Z",
+  "model": "glm-5.3"
+}

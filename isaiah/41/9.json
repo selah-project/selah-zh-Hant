@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 41:9",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "אשר",
+      "rationale": "關係代名詞在中文以「那」承接前節，屬連接所需"
+    },
+    {
+      "kind": "crux",
+      "subject": "אציליה",
+      "rationale": "罕用詞：或作「角落／極處」（如 ylt、jps），或作「貴胄」（kjv「chief men」）；此處依平行語境取「角落」"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列／雅各",
+      "rationale": "承接第8節，直接向以色列說話"
+    }
+  ],
+  "translation": "我從地極抓住你，從地的角落呼召你，對你說：你是我的僕人；我揀選了你，並不棄絕你。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a802bdd6320629de330a8399533296e8db58c5bf8f4d88c3f450882af6f2e8cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/41\/9-12.1792135405776.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "⟨那⟩"
+    },
+    {
+      "surface": "החזקתיך",
+      "gloss": "抓住你"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "從……的末端"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ומאציליה",
+      "gloss": "並從它的角落"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "呼召你"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "並說"
+    },
+    {
+      "surface": "לך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "我的僕人"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "我揀選了你"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "並不"
+    },
+    {
+      "surface": "מאסתיך",
+      "gloss": "棄絕你"
+    }
+  ],
+  "timestamp": "2026-10-16T07:23:25.777050994Z",
+  "model": "glm-5.3"
+}

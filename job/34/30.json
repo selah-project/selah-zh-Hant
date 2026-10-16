@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 34:30",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ממלך",
+      "rationale": "介詞מ加不定式：『使不敬虔者不得作王』（KJV、JPS）或『不敬虔者既然作王』（Geneva）——因果或目的之別。"
+    },
+    {
+      "kind": "addition",
+      "subject": "免得",
+      "rationale": "原文僅為介詞結構，中文需補目的連詞以成句。"
+    }
+  ],
+  "translation": "免得不敬虔的人作王，免得百姓落在網羅之中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "32bf92ad5ff7e21a86bd4268cefa935960753f5a9cd2fc268e18e423684f0666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/34\/29-32.1792146398624.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממלך",
+      "gloss": "免得……作王"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "不敬虔的"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "網羅"
+    },
+    {
+      "surface": "עם",
+      "gloss": "百姓"
+    }
+  ],
+  "timestamp": "2026-10-16T10:26:38.625531544Z",
+  "model": "glm-5.3"
+}

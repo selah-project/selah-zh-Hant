@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "原文無動詞，名單式譜系；中文需繫詞「是」"
+    },
+    {
+      "kind": "measurement",
+      "subject": "家譜名單",
+      "rationale": "五子列名，屬譜系計數"
+    }
+  ],
+  "translation": "他的長子是亞伯頓，還有蘇珥、基士、巴力、拿答。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0371539a7de4f2d12139e713b179a38f26962564211f35052ed28a85ea53e8c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/8\/29-32.1792148616162.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "他的兒子"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "長子"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "亞伯頓"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "蘇珥"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "基士"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "巴力"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "拿答"
+    }
+  ],
+  "timestamp": "2026-10-16T11:03:36.162778937Z",
+  "model": "glm-5.3"
+}

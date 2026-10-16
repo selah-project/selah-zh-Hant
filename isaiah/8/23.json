@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 8:23",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי לא מועף",
+      "rationale": "著名難節：JPS讀作「那堅忍的必無昏暗」，KJV傳統讀作「必有昏暗」；此處依上下文取否定式「不再昏暗」，指困境終將過去"
+    },
+    {
+      "kind": "addition",
+      "subject": "雅威",
+      "rationale": "希伯來文無主語，動詞הקל與הכביד的施動者由上下文（8:13雅威）補出"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הקל／הכביד",
+      "rationale": "「輕」與「重」對仗：先前使之輕，後來使之重，光的輕重隱喻在中文以輕罰／重壓保留"
+    },
+    {
+      "kind": "elision",
+      "subject": "לה",
+      "rationale": "陰性代詞「她」指全地／那地，中文譯文中隱含於名詞結構，未單獨譯出"
+    }
+  ],
+  "translation": "因為那遭窘迫的必不再昏暗；像起初的時候，雅威使西布倫地和拿弗他利地受輕罰，後來又使沿海的路、約旦河外、外邦人的加利利地受重壓。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3bd7ec781d3481e83851bee0060aee8e6ee659abce1502efb6930234177ad070",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/8\/21-23.1792134587177.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不再"
+    },
+    {
+      "surface": "מועף",
+      "gloss": "昏暗"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "那……的"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "遭窘迫"
+    },
+    {
+      "surface": "לה",
+      "gloss": "她"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "像……的時候"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "起初"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "受輕罰"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地"
+    },
+    {
+      "surface": "זבלון",
+      "gloss": "西布倫"
+    },
+    {
+      "surface": "וארצה",
+      "gloss": "和地"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "拿弗他利"
+    },
+    {
+      "surface": "והאחרון",
+      "gloss": "後來"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "受重壓"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "הים",
+      "gloss": "沿海的"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "外"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦河"
+    },
+    {
+      "surface": "גליל",
+      "gloss": "加利利"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "外邦人的"
+    }
+  ],
+  "timestamp": "2026-10-16T07:09:47.178388016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "諸天",
+      "rationale": "詩歌以命令式呼喚諸天讚美，是對受造界的召喚"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הללו／הללוהו",
+      "rationale": "同一動詞三次重複，形成三拍召喚結構"
+    }
+  ],
+  "translation": "你們要讚美雅！你們要從諸天讚美 ⟨את⟩ 雅威，要在高處讚美祂。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b7de9ca12aa90e11fddb0f03bf01ddf6fc7ac854967742600f4f57db821fb128",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/148\/1-4.1792145133268.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "你們要讚美"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "你們要讚美"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "要讚美祂"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "在高處"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:33.268593851Z",
+  "model": "glm-5.3"
+}

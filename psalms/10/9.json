@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יארב／יחטף重複",
+      "rationale": "「埋伏」與「抓住」各重複兩次，三行平行的獵捕意象，中文保留重複。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "בסכה",
+      "rationale": "字面是「棚子／樹枝編的掩體」，此處指獅子的藏身處；KJV「洞穴」為意譯。"
+    }
+  ],
+  "translation": "他在隱密處埋伏，如獅子在洞穴中；他埋伏，要抓住貧寒人；他抓住貧寒人，把他拉進自己的網裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "69f62e88b52dde268b8a777f9383ad20cf58fde3d420c1357272749c9bc674a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/10\/9-12.1792143338473.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "埋伏"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "在隱密處"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "如獅子"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "在洞穴中"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "埋伏"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "要抓住"
+    },
+    {
+      "surface": "עני",
+      "gloss": "貧寒人"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "抓住"
+    },
+    {
+      "surface": "עני",
+      "gloss": "貧寒人"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "把他拉進"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "在自己的網裡"
+    }
+  ],
+  "timestamp": "2026-10-16T09:35:38.474414960Z",
+  "model": "glm-5.3"
+}

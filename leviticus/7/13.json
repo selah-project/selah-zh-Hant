@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 7:13",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "有酵的餅",
+      "rationale": "חמץ בדרך כלל אסור בקרבן, כאן דווקא מצווה בלחם התודה"
+    },
+    {
+      "kind": "crux",
+      "subject": "על",
+      "rationale": "'連同'與'在…之上'之爭：חלת על לחם חמץ 可讀作'有酵餅之上的餅'或'用有酵的餅'；各譯本分歧"
+    }
+  ],
+  "translation": "他要用有酵的餅──就是餅──與他的供物一同獻上，連同他感謝的平安祭之祭牲。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ee40c252b5a69349d095423e05c1c09237c3cd6474e56f9554e088188f23e542",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/7\/13-16.1792126748667.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "連同"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "餅"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "有酵的"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "他要獻上"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "他的供物"
+    },
+    {
+      "surface": "על",
+      "gloss": "連同"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "祭牲"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "感謝的"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "他的平安祭"
+    }
+  ],
+  "timestamp": "2026-10-16T04:59:08.668274799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "了",
+      "rationale": "中文時態助詞，希伯來文以完成式動詞表達"
+    }
+  ],
+  "translation": "大衛聽見了，就差派 ⟨את⟩ 約押和 ⟨את⟩ 全體勇士的軍隊。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1f0a0346653f7a5df07da2fabd99978e9a335e8a9f1633e7df2421446ea44326",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/10\/5-8.1792131845914.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "他聽見"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "他就差派"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約押"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "全體勇士的軍隊"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全體"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "軍隊"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "勇士的"
+    }
+  ],
+  "timestamp": "2026-10-16T06:24:05.916206174Z",
+  "model": "glm-5.3"
+}

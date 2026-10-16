@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 7:13",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עשתרת",
+      "rationale": "「繁增」與迦南女神阿施塔特同形，或為雙關語，中譯只取字面義。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שגר\/עשתרת",
+      "rationale": "兩個生育繁增之詞並列呼應牛羊的增產，中文難以再現。"
+    },
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "希伯來文動詞前無主語代詞，中文需補出主語。"
+    }
+  ],
+  "translation": "他必愛你，賜福給你，使你增多；他必賜福給你腹中的果子、你土地的果子——你的五穀、新酒和油——你牛群所生的、你羊群的繁增，在那地上，就是他向你列祖起誓要賜給你的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "44eef7ea7cde91d9cc2426dccee8e8fb8792a0e067dd5db884dfd61cb4335a84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/7\/13-16.1792128705375.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהבך",
+      "gloss": "他必愛你"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "賜福給你"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "使你增多"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "他必賜福"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "果子"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "你腹中的"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "和……的果子"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "你土地的"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "你的五穀"
+    },
+    {
+      "surface": "ותירשך",
+      "gloss": "你的新酒"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "和你的油"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "所生的（牛犢）"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "你牛群的"
+    },
+    {
+      "surface": "ועשתרת",
+      "gloss": "繁增"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "你羊群的"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "那地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "起誓"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "向你列祖"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "要賜"
+    },
+    {
+      "surface": "לך",
+      "gloss": "給你"
+    }
+  ],
+  "timestamp": "2026-10-16T05:31:45.376230093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 30:18",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "第二個「銅」",
+      "rationale": "中文以「和盆座」前已言銅，第二個 נחשת 的重複在譯文中隱含於「銅」的範圍"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהל מועד",
+      "rationale": " tent of meeting「會幕」＝ אהל（帳棚）＋ מועד（相會之定時）；兩詞合為一固定名稱"
+    }
+  ],
+  "translation": "你要用銅做洗濯盆和盆座，用以洗濯。你要把⟨אתו⟩安在會幕和壇之間，又要在其中放水。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c2a1a6f17bc6b39a011243e57844f42c9a959608cdec24de1bdf7f64c7fbbd8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/30\/17-20.1792126347745.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "你要做"
+    },
+    {
+      "surface": "כיור",
+      "gloss": "洗濯盆"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "וכנו",
+      "gloss": "和盆座"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "用以洗濯"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "你要把……安放"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "它（洗濯盆）"
+    },
+    {
+      "surface": "בין",
+      "gloss": "在……之間"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "（會幕）"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "和……之間"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "壇"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "你要放"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "在其中"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-10-16T04:52:27.745776515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "它們",
+      "rationale": "原文「寫」的受詞（前文誡命）承前省略，中文補出語境物件門框即可，不另補代名詞"
+    }
+  ],
+  "translation": "又要寫在⟨את⟩你房屋的門框上和你的城門上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d7fb53a9cfb304c68e6e3cd85885b49b85e4abe1083bee400de1bdf009fbcba4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/6\/9-12.1792128571104.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "又要寫"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "門框"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "你的房屋"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "和你的城門"
+    }
+  ],
+  "timestamp": "2026-10-16T05:29:31.105421034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 7:9",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "中文需動詞連接人數，希伯來文無"
+    },
+    {
+      "kind": "measurement",
+      "subject": "軍隊人口",
+      "rationale": "家譜登記連同戰士總數二萬零二百"
+    }
+  ],
+  "translation": "他們按家譜登記，照他們的世代，作家族父家的首領，是大能的勇士，共二萬零二百人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bd9f02f896632dce40a8e82ac6afb9264757071c455df73ee8a02be6c58693d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/7\/9-12.1792148619892.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והתיחשם",
+      "gloss": "按家譜登記"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "照他們的世代"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "首領"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "他們的父"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "大能的"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "和二百"
+    }
+  ],
+  "timestamp": "2026-10-16T11:03:39.892565522Z",
+  "model": "glm-5.3"
+}

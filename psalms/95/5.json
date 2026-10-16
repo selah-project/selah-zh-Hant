@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文需要"
+    },
+    {
+      "kind": "substitution",
+      "subject": "塑造了",
+      "rationale": "יצר是陶匠塑形的動詞，中文以「塑造」保留其意象"
+    }
+  ],
+  "translation": "海是屬他的，因為是他造了它；塑造旱地的，是他的手。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7e4e8c696a23aa8bfda026475d7bda369010b4169091b2759a77fb307b10f30f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/95\/5-8.1792144539829.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "屬他的"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "而是他"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "造了它"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "旱地"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "他的手"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "塑造了"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:39.830457810Z",
+  "model": "glm-5.3"
+}

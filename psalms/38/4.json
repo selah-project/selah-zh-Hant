@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "平行結構",
+      "rationale": "兩個「毫無……因……」句式平行：肉體／骨頭、健全／安寧、你的忿怒／我的罪"
+    }
+  ],
+  "translation": "因你的忿怒，我的肉體毫無健全；因我的罪，我的骨頭毫無安寧。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "767248106c5f8a526ac050d409d1b966e81905a1157fe78e9c7a797217642993",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/38\/1-4.1792143712651.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "毫無"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "健全"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "我的肉體"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "因"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "你的忿怒"
+    },
+    {
+      "surface": "אין",
+      "gloss": "毫無"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "安寧"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "我的骨頭"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "因"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "我的罪"
+    }
+  ],
+  "timestamp": "2026-10-16T09:41:52.652229089Z",
+  "model": "glm-5.3"
+}

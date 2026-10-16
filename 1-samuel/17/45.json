@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-samuel 17:45",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "萬軍之雅威",
+      "rationale": "צבאות 與聖名連用，固定作「萬軍之雅威」，不作「萬軍之主」。"
+    },
+    {
+      "kind": "crux",
+      "subject": "כידון",
+      "rationale": "各家或作「盾」（欽定本）或作「短矛」（美國標準本）；字義為投擲兵器，此處譯「短矛」。"
+    },
+    {
+      "kind": "you",
+      "subject": "to 非利士人",
+      "rationale": "大衛直接向歌利亞說話，全節為第二人稱宣告。"
+    }
+  ],
+  "translation": "大衛對非利士人說：「你以刀、以槍、以短矛來到我這裡，我卻以萬軍之雅威——以色列戰陣之以羅欣——的名來到你這裡，就是你⟨所⟩斥罵過的。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9e521234a842e7f8e35bad6847d26d15556d57f26aa1522c46e88c8b91a6303e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/17\/45-48.1792131275675.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "到我這裡"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "以刀"
+    },
+    {
+      "surface": "ובחנית",
+      "gloss": "以槍"
+    },
+    {
+      "surface": "ובכידון",
+      "gloss": "以短矛"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "我卻"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "到你這裡"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "以……的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "萬軍之"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "戰陣之"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "斥罵過"
+    }
+  ],
+  "timestamp": "2026-10-16T06:14:35.676078396Z",
+  "model": "glm-5.3"
+}

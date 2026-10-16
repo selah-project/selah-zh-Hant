@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨君王⟩",
+      "rationale": "משל עמים是分詞短語「統管萬民的」，中文需補名詞"
+    },
+    {
+      "kind": "addition",
+      "subject": "人",
+      "rationale": "שלח מלך直譯「王差遣」，中文需補受詞"
+    }
+  ],
+  "translation": "王差遣人釋放他，統管萬民的⟨君王⟩放他自由。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f8327d44b013834f214f5d4c59b87ad829552042b07997840c8b507bc8c87c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/105\/17-20.1792144636849.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "差遣"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "釋放他"
+    },
+    {
+      "surface": "משל",
+      "gloss": "統管"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "萬民"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "放他自由"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:16.850348105Z",
+  "model": "glm-5.3"
+}

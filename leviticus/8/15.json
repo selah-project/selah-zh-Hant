@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 8:15",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "遮罪",
+      "rationale": "כפר 本義為「遮蓋」，非「贖罪」；一詞一形"
+    },
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "וישחט 的主語（摩西）在原文中承前省略，中文補出"
+    }
+  ],
+  "translation": "他宰了牛；摩西取了 ⟨את⟩ 血，用指頭抹在祭壇的四角周圍，為祭壇除罪，又把 ⟨את⟩ 血倒在祭壇的底座，將壇分別為聖，好在壇上行遮罪。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "582b690cadbf75d14b6fac46af90e84c73986e95429031cccc39a60853de1e9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/8\/13-16.1792126880494.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "宰了"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "取了"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "血"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "抹在"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "角"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周圍"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "用他的指頭"
+    },
+    {
+      "surface": "ויחטא",
+      "gloss": "為……除罪"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祭壇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "血"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "倒"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "底座"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "將它分別為聖"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "好遮罪"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "在它上面"
+    }
+  ],
+  "timestamp": "2026-10-16T05:01:20.495968020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 2:1",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ביהוה 求問",
+      "rationale": "希伯來文「在雅威裡求問」即求問雅威的旨意，中文以「求問雅威」表達"
+    },
+    {
+      "kind": "addition",
+      "subject": "האעלה",
+      "rationale": "希伯來文疑問句無疑問詞，中文以「該……嗎」標出"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עלה…אעלה…חברנה",
+      "rationale": "上去一詞三次重複（עלה／אעלה），並與地名詞尾 -ה 呼應，中文無法保留"
+    }
+  ],
+  "translation": "這事以後，大衛求問雅威說：「我該上到猶大的一座城去嗎？」雅威對他說：「你上去吧。」大衛說：「我該上到哪裡去呢？」他說：「上希伯崙去。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0e905cb85735a5fa2fc556902924befdced506971f552e9d777a60e5b71eab24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/2\/1-4.1792131702267.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "這事以後"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "之後"
+    },
+    {
+      "surface": "כן",
+      "gloss": "如此"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "求問"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "האעלה",
+      "gloss": "我該上去嗎"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "一座"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "城"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上去"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "哪裡"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "我上去"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "חברנה",
+      "gloss": "希伯崙"
+    }
+  ],
+  "timestamp": "2026-10-16T06:21:42.268561381Z",
+  "model": "glm-5.3"
+}

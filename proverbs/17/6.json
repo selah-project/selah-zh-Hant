@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "第二半句希伯來文無動詞，中文補繫詞「是」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בני בנים",
+      "rationale": "「兒子的兒子」即孫兒——同一詞 בן 疊用，中文「孫兒」失去此重複。"
+    }
+  ],
+  "translation": "孫兒是老人的冠冕，兒女的榮耀⟨是⟩他們的父親。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7a87d983accc2290c15828830f664af899b684e8e6921402010114f4e44a659f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/17\/5-8.1792145492267.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "冠冕"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "老人"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……的兒子"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "兒子們"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "和榮耀"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "兒女"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "他們的父親"
+    }
+  ],
+  "timestamp": "2026-10-16T10:11:32.268650851Z",
+  "model": "glm-5.3"
+}

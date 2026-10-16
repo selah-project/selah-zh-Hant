@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他們竟",
+      "rationale": "ויראו והנני 句式省略「他們在」；中文補主語以成句，並以「竟」傳達驚訝語氣"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "「發生了…事」敘事框架詞，中文以時間句「…的時候」吸收"
+    }
+  ],
+  "translation": "他們進了撒瑪利亞，以利沙說：「雅威啊，開這些人的眼，使他們能看見。」雅威開了他們的眼，他們就看見了；看哪，⟨他們竟⟩在撒瑪利亞城中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "677dd9e7162bd760a52af816469ff67cad88492fb583f9e63928584f72bf634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/6\/17-20.1792133660518.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "…的時候"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "他們進了"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒瑪利亞"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "以利沙"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "開"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這些人的眼"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "…的眼"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些人"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "他們能看見"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "開了"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的眼"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "他們的眼"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "他們就看見了"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "在…之中"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒瑪利亞"
+    }
+  ],
+  "timestamp": "2026-10-16T06:54:20.519619372Z",
+  "model": "glm-5.3"
+}

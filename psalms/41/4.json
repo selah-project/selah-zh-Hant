@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הפכת",
+      "rationale": "「你翻轉了他全部的床」：KJV「你鋪好他的床」，JPS「求你翻轉」，直譯保留「翻轉」"
+    },
+    {
+      "kind": "hapax",
+      "subject": "דוי",
+      "rationale": "דְּוַי（病榻之病）在塔納赫中僅出現於此"
+    }
+  ],
+  "translation": "雅威必在病榻上扶持他；他在病中，你使他全床翻轉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9b758854654f0c2f66c9f531cba1d38d7b1310124a6734e7a98832ed23f0fa47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/41\/1-4.1792143736353.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "必扶持他"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "榻"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "病"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "他的床"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "你使……翻轉"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "在他的病中"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:16.354938774Z",
+  "model": "glm-5.3"
+}

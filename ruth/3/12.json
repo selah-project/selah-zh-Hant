@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי אמנם כי אם",
+      "rationale": "三重堆疊的語氣詞，『因為實在因為誠然』；各譯本或作 it is true that（和合、KJV），或拆為讓步語『雖然』（YLТ）"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גאל…גאל",
+      "rationale": "『救贖者』一詞在本節重複兩次，與第9節呼應，救贖主題的鑰詞"
+    }
+  ],
+  "translation": "如今，事情實在是這樣：我雖是救贖者，然而還有一個救贖者比我更近。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5ad07fb4d443009a91fc14b91094c8ce705cc209cff39ba028e2d246c041f243",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ruth\/3\/9-12.1792146719142.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "如今"
+    },
+    {
+      "surface": "כי",
+      "gloss": "雖然"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "實在"
+    },
+    {
+      "surface": "כי",
+      "gloss": "（加強語氣）"
+    },
+    {
+      "surface": "אם",
+      "gloss": "誠然"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "救贖者"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "然而也"
+    },
+    {
+      "surface": "יש",
+      "gloss": "有"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "救贖者"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "更近的"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "比我"
+    }
+  ],
+  "timestamp": "2026-10-16T10:31:59.143735964Z",
+  "model": "glm-5.3"
+}

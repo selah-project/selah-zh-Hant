@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 65:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נוראות",
+      "rationale": "動詞分詞「令人畏懼的事」：KJV「可畏的事」對 JPS「奇妙的作為」，亦有譯作「以可畏的公義回應」"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨所倚靠的⟩",
+      "rationale": "מבטח 為名詞「避難所／確據」，中文需補關係結構以成句"
+    },
+    {
+      "kind": "you",
+      "subject": "對以羅欣",
+      "rationale": "全節直接向神呼求的禱告語"
+    }
+  ],
+  "translation": "我們拯救的以羅欣（神）啊，你以公義、用可畏的事回應我們；你是地上一切地極和遠方諸海⟨所倚靠的⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ab8063a2f9bed2e6b4382c635e10e2b815019f702d3e2ed3083fa1edb1a3e193",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/65\/5-8.1792144067570.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נוראות",
+      "gloss": "用可畏的事"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "以公義"
+    },
+    {
+      "surface": "תעננו",
+      "gloss": "你回應我們"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣（神）"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "我們拯救的"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "⟨所倚靠的⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "地極"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "וים",
+      "gloss": "和諸海"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "遠方的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:47:47.571546417Z",
+  "model": "glm-5.3"
+}

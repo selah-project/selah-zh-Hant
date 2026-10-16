@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הבל",
+      "rationale": "הבל 直譯「氣息、蒸氣」，譯「虛空」取其轉瞬即逝、毫無實質之義"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "意念／虛空",
+      "rationale": "上文愚頑人以為雅威不看不听，此節宣告雅威全然知曉其意念——反諷的轉折"
+    }
+  ],
+  "translation": "雅威知道人的意念，知道它們不過是虛空。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e44314235dd6f7e33bfd17834b872df97f0fc478f6b1ca676f0faca882961b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/94\/9-12.1792144493072.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知道"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "意念"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "知道……（它們不過是）"
+    },
+    {
+      "surface": "המה",
+      "gloss": "它們"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "虛空"
+    }
+  ],
+  "timestamp": "2026-10-16T09:54:53.072930424Z",
+  "model": "glm-5.3"
+}

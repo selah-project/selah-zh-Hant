@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בל",
+      "rationale": "בַל通常是否定詞「不」，此處詩體用法作介詞「在…之中」（等同ב），諸譯本皆如此處理"
+    },
+    {
+      "kind": "crux",
+      "subject": "תוכחת",
+      "rationale": "字面是「責備、管教」，KJV作「刑罰」；本譯取「譴責」保留話語管教之義"
+    }
+  ],
+  "translation": "要在列國中施行報復，在萬民中施行譴責⟨刑罰⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "138774c5926d3ebe1c2386901e2fdc7601bfdce21de5403bc196f06529cc508b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/149\/5-8.1792145159536.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "要施行"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "報復"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "在列國中"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "譴責"
+    },
+    {
+      "surface": "בל",
+      "gloss": "在"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "萬民中"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:59.537868452Z",
+  "model": "glm-5.3"
+}

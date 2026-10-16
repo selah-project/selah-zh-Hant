@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 29:12",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "我拯救了",
+      "rationale": "יכול作為持續的習慣性行為譯作「我拯救」（ylt 現在時）；此處取完成體，與29章回顧語境相符"
+    },
+    {
+      "kind": "addition",
+      "subject": "的人",
+      "rationale": "中文需補名詞化詞綴以成「幫助他的人」；希伯來文עזרלו為分詞加介詞短語"
+    }
+  ],
+  "translation": "因為我拯救了那呼求的貧寒人和孤兒——他沒有幫助他的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "212d995a7bbfa5fb3c2a6c51ca66265eb8bbf9ea6845649296e03e758b484579",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/29\/9-12.1792146245628.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אמלט",
+      "gloss": "我拯救了"
+    },
+    {
+      "surface": "עני",
+      "gloss": "貧寒人"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "那呼求的"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "和孤兒"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "幫助他的人"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    }
+  ],
+  "timestamp": "2026-10-16T10:24:05.629305228Z",
+  "model": "glm-5.3"
+}

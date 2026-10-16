@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 8:5",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התפאר עלי",
+      "rationale": "字面「在我身上誇耀」；JPS 作『請你在我身上得榮耀』，意即任憑你定時間"
+    },
+    {
+      "kind": "substitution",
+      "subject": "היאר",
+      "rationale": "指尼羅河，譯作『河』"
+    },
+    {
+      "kind": "you",
+      "subject": "to Pharaoh",
+      "rationale": "摩西直接對法老說話，並以問句挑戰他定時間"
+    },
+    {
+      "kind": "addition",
+      "subject": "吧",
+      "rationale": "中文祈使語氣所需，希伯來文無此助詞"
+    }
+  ],
+  "translation": "摩西對法老說：「任憑你在我以上誇耀⟨吧⟩：到何時我為你、為你的臣僕、為你的百姓懇求，把青蛙從你身上和你的家中剪除，使牠們只留在河裡呢？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9e9427d8b92bb99e327c4bad150b756db9234ba05a5d4e14ddea01e356c1831e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/8\/5-8.1792125847492.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "對法老"
+    },
+    {
+      "surface": "התפאר",
+      "gloss": "任憑你誇耀"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "在我以上"
+    },
+    {
+      "surface": "למתי",
+      "gloss": "到何時"
+    },
+    {
+      "surface": "אעתיר",
+      "gloss": "我懇求"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為你"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "（見上）"
+    },
+    {
+      "surface": "ולעבדיך",
+      "gloss": "和為你的臣僕"
+    },
+    {
+      "surface": "ולעמך",
+      "gloss": "和為你的百姓"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "剪除"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "青蛙"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "從你身上"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "和從你的家"
+    },
+    {
+      "surface": "רק",
+      "gloss": "只"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "在河中"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "牠們留下"
+    }
+  ],
+  "timestamp": "2026-10-16T04:44:07.493347190Z",
+  "model": "glm-5.3"
+}

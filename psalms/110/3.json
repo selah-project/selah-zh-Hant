@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עמך נדבת",
+      "rationale": "希伯來文無動詞、母音古老難讀：或作「你的民甘心奉獻」（多半抄本傳統），或「你的民是甘心的祭」"
+    },
+    {
+      "kind": "crux",
+      "subject": "לך טל ילדתיך",
+      "rationale": "「你青春的甘露（歸你）」或「我使你的少年如甘露降下」；七十分譯本作「我從晨胎生了你」，各家分歧極大"
+    },
+    {
+      "kind": "hapax",
+      "subject": "יולדתיך",
+      "rationale": "יולדת（如早晨之露的青春）此形在全塔納赫僅此一見"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרחם משחר",
+      "rationale": "「母胎—清晨」並列，新生與黎明互相輝映，中文難以保留"
+    }
+  ],
+  "translation": "你的民在爭戰的日子甘心奉獻自己，披上聖潔的華美；從清晨的母胎，你青春的甘露臨到你。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a9fc14d6108c4830e16e28557f49cfef27112e6db4f52b942264cdbdb7d92645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/110\/1-4.1792144745955.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "你的民"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "甘心奉獻"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在……的日子"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "你爭戰之力"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "披上……的華美"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖潔"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "從母胎"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "清晨"
+    },
+    {
+      "surface": "לך",
+      "gloss": "臨到你"
+    },
+    {
+      "surface": "טל",
+      "gloss": "甘露"
+    },
+    {
+      "surface": "יולדתיך",
+      "gloss": "你青春的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:59:05.956071210Z",
+  "model": "glm-5.3"
+}

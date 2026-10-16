@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עשו\/ויעש",
+      "rationale": "首尾重複「行」字，敘事簡潔強調完全順服，中文保留重複"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "受詞代詞融入語序，以⟨את⟩記號保留"
+    }
+  ],
+  "translation": "摩西和亞倫就照雅威所吩咐他們的行了；他們就這樣行。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a56b00862ee25365d28a59932fcb28df1030eb55df348801226a9d293a15abb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/7\/5-8.1792125745544.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "行了"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "和亞倫"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "所吩咐"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "他們"
+    },
+    {
+      "surface": "כן",
+      "gloss": "就這樣"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "行"
+    }
+  ],
+  "timestamp": "2026-10-16T04:42:25.545938448Z",
+  "model": "glm-5.3"
+}

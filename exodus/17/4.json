@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עוד מעט וסקלני",
+      "rationale": "字面「再一點點他們就用石頭打我」，即「再過一會兒就要用石頭打死我」"
+    },
+    {
+      "kind": "you",
+      "subject": "摩西對雅威",
+      "rationale": "摩西直接向雅威發問求指示"
+    }
+  ],
+  "translation": "摩西向雅威呼求，說：「我要向這百姓怎樣行呢？再過一會兒他們就要拿石頭打死我了。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4e0cb33fb780de23a5457460b0fac974a3ed65f1b147121e73b186193c4b33d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/17\/1-4.1792126096932.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "呼求"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "מה",
+      "gloss": "什麼"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "我要……行"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "向這百姓"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "一會兒"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "他們就要拿石頭打死我"
+    }
+  ],
+  "timestamp": "2026-10-16T04:48:16.933373870Z",
+  "model": "glm-5.3"
+}

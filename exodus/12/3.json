@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "「日」",
+      "rationale": "בעשר לחדש 直譯「在本月的十」，中文需補「日」"
+    },
+    {
+      "kind": "measurement",
+      "subject": "本月十日",
+      "rationale": "具體日期與按家分配的數目規定"
+    },
+    {
+      "kind": "invitation",
+      "subject": "דברו",
+      "rationale": "命令式「你們要告訴」召喚聽眾"
+    }
+  ],
+  "translation": "「你們要告訴以色列全會眾說：本月十日，各人要為自己取一隻羊羔，按父家取，一家一隻羊羔。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6a2fca18ed82383ceda26d660db1376d8335a18cf5835d5198440090dbd41aba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/12\/1-4.1792125900605.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "你們要告訴"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "在……十日"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "月"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "本"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "要取"
+    },
+    {
+      "surface": "להם",
+      "gloss": "為自己"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "שה",
+      "gloss": "一隻羊羔"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "按……家"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "父"
+    },
+    {
+      "surface": "שה",
+      "gloss": "一隻羊羔"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "一家"
+    }
+  ],
+  "timestamp": "2026-10-16T04:45:00.608998379Z",
+  "model": "glm-5.3"
+}

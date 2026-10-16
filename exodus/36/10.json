@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויחבר\/חבר",
+      "rationale": "同一動詞חבר前後重複，鏡像對稱結構（五幅連接／五幅連接），中文保留重複"
+    },
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "中文需補主語「他」，希伯來文動詞詞尾已含主語"
+    }
+  ],
+  "translation": "他把五幅幔子連接成一幅，又把五幅幔子連接成一幅。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "500de5f61b8301ee5cb6ec91fd67a68edf2f38e26f299df29e4dbd2519f3cbb0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/36\/9-12.1792126539218.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "連接"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "五幅幔子"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "幔子"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一幅"
+    },
+    {
+      "surface": "אל",
+      "gloss": "連於"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "另一幅"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "幔子"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "連接"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一幅"
+    },
+    {
+      "surface": "אל",
+      "gloss": "連於"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "另一幅"
+    }
+  ],
+  "timestamp": "2026-10-16T04:55:39.219465865Z",
+  "model": "glm-5.3"
+}

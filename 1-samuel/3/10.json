@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כפעם בפעם",
+      "rationale": "「一次又一次」的疊語結構，中譯以「像前幾次一樣」保留其重複感"
+    },
+    {
+      "kind": "addition",
+      "subject": "在那裡",
+      "rationale": "ויתיצב 反身動詞「自己站定」，中文補「在那裡」使站立有地點"
+    }
+  ],
+  "translation": "雅威來了，站在那裡，像前幾次一樣呼喚：「撒母耳！撒母耳！」撒母耳說：「請說，因為你僕人正在聽。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0c5e13e9fa98e0373fdb0caf232f518294f5856e8159d0b5f8ddb99cf25a9221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/3\/9-12.1792130793767.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "來了"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "站著"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "呼喚"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "像一次"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "又一次"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "請說"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你僕人"
+    }
+  ],
+  "timestamp": "2026-10-16T06:06:33.768311261Z",
+  "model": "glm-5.3"
+}

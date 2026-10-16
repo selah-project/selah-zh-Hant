@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 2:9",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "一隻手",
+      "rationale": "希伯來文 יד 無冠詞，直譯「手」；加量詞以合中文語感"
+    },
+    {
+      "kind": "mystery",
+      "subject": "書卷的捲軸",
+      "rationale": "展開的書卷是異象中被封存、待揭示的內容，屬隱而未宣之事"
+    }
+  ],
+  "translation": "我觀看，看哪，有一隻手向我伸出來，看哪，手中有書卷的捲軸。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cc10daeca51f883c05a4f8cc4af48ece0f0d91eadc10effd19d7ef1dcc52dc39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/2\/9-10.1792137878320.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואראה",
+      "gloss": "我觀看"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "יד",
+      "gloss": "一隻手"
+    },
+    {
+      "surface": "שלוחה",
+      "gloss": "伸出來"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "向我"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "בו",
+      "gloss": "在其中"
+    },
+    {
+      "surface": "מגלת",
+      "gloss": "捲軸"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "書卷"
+    }
+  ],
+  "timestamp": "2026-10-16T08:04:38.321206359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 26:4",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "光禿",
+      "rationale": "צחיח 直譯『受烈日曝曬的、曬得發白的』，譯作『光禿』保留其意象"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סחיתי\/עפרה",
+      "rationale": "'颳淨塵土'——鏟刮到底的動作，與下節『曬網之地』的裸岩相連"
+    }
+  ],
+  "translation": "他們必毀壞推羅的城牆，拆毀她的城樓；我必颳淨她的塵土，使她成為⟨את⟩光禿的磐石。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2ed03c3d1372b6b90791a95442a7e5b1a28d06af44da40ab788f32ec74b84394",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/26\/1-4.1792138581017.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחתו",
+      "gloss": "必毀壞"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "城牆"
+    },
+    {
+      "surface": "צר",
+      "gloss": "推羅"
+    },
+    {
+      "surface": "והרסו",
+      "gloss": "拆毀"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "她的城樓"
+    },
+    {
+      "surface": "וסחיתי",
+      "gloss": "我必颳淨"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "她的塵土"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "從她"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "我必使她成為"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "她（光禿的磐石）"
+    },
+    {
+      "surface": "לצחיח",
+      "gloss": "光禿的"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "磐石"
+    }
+  ],
+  "timestamp": "2026-10-16T08:16:21.018899396Z",
+  "model": "glm-5.3"
+}

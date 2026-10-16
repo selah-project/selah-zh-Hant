@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 15:15",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "被…抓住",
+      "rationale": "希伯來文動詞יאחזמו帶後綴代詞「抓住他們」，中文改為被動式需補「被」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נבהלו\/רעד\/נמגו",
+      "rationale": "三個恐懼動詞的層遞——驚惶、戰抖、消化——地理由南向北推進"
+    }
+  ],
+  "translation": "那時，以東的族長驚惶，摩押的勇士被戰抖抓住，迦南的居民全都消化。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5d5880446f42d199b77501d752a853253a71a0302e165e3d0d32c31637ba0d42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/15\/13-16.1792125945557.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "那時"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "族長"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "以東"
+    },
+    {
+      "surface": "אילי",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "יאחזמו",
+      "gloss": "抓住他們"
+    },
+    {
+      "surface": "רעד",
+      "gloss": "戰抖"
+    },
+    {
+      "surface": "נמגו",
+      "gloss": "消化"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    }
+  ],
+  "timestamp": "2026-10-16T04:45:45.558181745Z",
+  "model": "glm-5.3"
+}

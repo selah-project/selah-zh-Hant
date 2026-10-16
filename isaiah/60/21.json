@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 60:21",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是我",
+      "rationale": "希伯來文以名詞短語並列，中文需加「是」字連接"
+    },
+    {
+      "kind": "crux",
+      "subject": "להתפאר",
+      "rationale": "「得榮耀」（KJV）與「得美化／彰顯榮美」（JPS「wherein I glory」）之別：動詞字根義為閃耀、被裝飾"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדיקים\/יירשו",
+      "rationale": "義人承受土地呼應詩 37:11 的公式，以賽亞書重複此公義—承受主題"
+    }
+  ],
+  "translation": "你的民全是義人，他們必永遠承受 ⟨את⟩ 地；他們是我栽種的嫩枝，是我手的工作，為要彰顯榮美。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fb7108b4f69f7d3a7bf06b03d9fc21ca27a2a6eb29965b2bda7f0825b097292f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/60\/21-22.1792135781203.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמך",
+      "gloss": "你的民"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "全部"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義人"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "他們必承受"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "嫩枝"
+    },
+    {
+      "surface": "מטעו",
+      "gloss": "我栽種的"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "工作"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我手的"
+    },
+    {
+      "surface": "להתפאר",
+      "gloss": "為要彰顯榮美"
+    }
+  ],
+  "timestamp": "2026-10-16T07:29:41.204422976Z",
+  "model": "glm-5.3"
+}

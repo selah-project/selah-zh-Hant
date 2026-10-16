@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 5:1",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the son",
+      "rationale": "父親以命令式呼喚兒子留心，是典型的邀請性開頭"
+    },
+    {
+      "kind": "addition",
+      "subject": "你的",
+      "rationale": "希伯來文的耳（אזנך）本身帶第二人稱詞尾，中文以側耳成語表達，補出「你的」以通順"
+    }
+  ],
+  "translation": "我兒，要留心聽我的智慧，向我的明辨側⟨你的⟩耳——",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b1e6ea5b569940579bb87cb85b03bae997f4e737367cd044479011bfb1390459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/5\/1-4.1792145226945.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "我兒"
+    },
+    {
+      "surface": "לחכמתי",
+      "gloss": "我的智慧"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "要留心聽"
+    },
+    {
+      "surface": "לתבונתי",
+      "gloss": "我的明辨"
+    },
+    {
+      "surface": "הט",
+      "gloss": "側"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "⟨你的⟩耳"
+    }
+  ],
+  "timestamp": "2026-10-16T10:07:06.946530383Z",
+  "model": "glm-5.3"
+}

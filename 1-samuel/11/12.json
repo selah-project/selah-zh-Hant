@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מי האומר שאול ימלך עלינו",
+      "rationale": "可作反問「誰說掃羅豈要統治我們？」（指曾反對者），或按 KJV 類讀法帶譏諷語氣；此處取反問式"
+    },
+    {
+      "kind": "addition",
+      "subject": "他們",
+      "rationale": "「處死他們」的「他們」為中文賓語所需，希伯來文由語境承接"
+    }
+  ],
+  "translation": "百姓對撒母耳說：「誰說『掃羅豈要作王統治我們』？把那些人交出來，我們好處死他們。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "53cf25570542505c951b92bd76edc9d4bb62050e171184edbd1287d73d785a32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/11\/9-12.1792130937030.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "作王統治"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "我們"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "把……交出來"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "那些人"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "我們好處死他們"
+    }
+  ],
+  "timestamp": "2026-10-16T06:08:57.031667913Z",
+  "model": "glm-5.3"
+}

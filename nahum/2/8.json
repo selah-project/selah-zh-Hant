@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nahum 2:8",
+  "book": "nahum",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והצב גלתה",
+      "rationale": "KJV 將הוצב גלתה讀作專名「胡撒布」（王后之名）；現代譯本多讀為「她被擄去、被遷移」，指城中王后或城本身的擬人化。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "胸口",
+      "rationale": "לבבהן 字面是「她們的心」，希伯來以內臟指胸膛；捶胸是舉哀之舉，中文取「胸口」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מתפפת",
+      "rationale": "字根是「擊鼓」（תפף）：使女捶胸之聲如擊手鼓，哀哭化為鼓聲的雙關，中文「捶打」僅存其半。"
+    }
+  ],
+  "translation": "她被擄去，被遷移，被帶上來；她的使女們被驅趕前行，聲音如同鴿子，在她們的胸口捶打著。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f17016049f1019e14771de4c3f2cf32c6d86157f09b6dfb9a89a9c8669f908d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nahum\/2\/5-8.1792142753024.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והצב",
+      "gloss": "她被擄去"
+    },
+    {
+      "surface": "גלתה",
+      "gloss": "被遷移"
+    },
+    {
+      "surface": "העלתה",
+      "gloss": "被帶上來"
+    },
+    {
+      "surface": "ואמהתיה",
+      "gloss": "她的使女們"
+    },
+    {
+      "surface": "מנהגות",
+      "gloss": "被驅趕前行"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "聲音如同"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "鴿子"
+    },
+    {
+      "surface": "מתפפת",
+      "gloss": "捶打著"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "לבבהן",
+      "gloss": "她們的胸口"
+    }
+  ],
+  "timestamp": "2026-10-16T09:25:53.025420324Z",
+  "model": "glm-5.3"
+}

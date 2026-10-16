@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文需要「是」。"
+    }
+  ],
+  "translation": "光 ⟨是⟩ 甜的，眼看 ⟨את⟩ 太陽也是好的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "080f883d4fb00876a0c9c80f446adfb93005ca02fcd78b417e32b6f2714db9ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/11\/5-8.1792147089069.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "…甜"
+    },
+    {
+      "surface": "האור",
+      "gloss": "光"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "…好"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "對眼"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "看"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "太陽"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽"
+    }
+  ],
+  "timestamp": "2026-10-16T10:38:09.070972699Z",
+  "model": "glm-5.3"
+}

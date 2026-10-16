@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "初九日",
+      "rationale": "原文只作「第九、對那月」，「日」為譯文所補"
+    },
+    {
+      "kind": "crux",
+      "subject": "第四月",
+      "rationale": "傳統譯本（和合本、KJV 等）依耶利米書 52:6 補「第四月」，本節原文未寫月份，此處不補，忠於所寫文本"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לחם",
+      "rationale": "לחם 直譯為「餅／食物」，譯作「糧食」以涵蓋廣義"
+    }
+  ],
+  "translation": "到那月的初九日，城裏的饑荒極重，那地的百姓沒有糧食。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "793c1b79d6a46f73a9d80ef205e48a6527eba2c2b3bdf4185fe617aa96db5e88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/25\/1-4.1792134456812.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "在初九日"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "對那月"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "越發加重"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "饑荒"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "在城裏"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "而沒有"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "糧食"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "給…的百姓"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "那地"
+    }
+  ],
+  "timestamp": "2026-10-16T07:07:36.813436491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "怒",
+      "rationale": "אף 字面是『鼻孔』，怒氣由鼻息而來；中文取其轉喻義"
+    },
+    {
+      "kind": "alternative",
+      "subject": "驚惶",
+      "rationale": "יבהלמו 或作『使他們惶恐不安』；此處取驚惶之義"
+    }
+  ],
+  "translation": "那時，他必在怒中向他們說話，在他的烈怒中使他們驚惶。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "780e99b9003d6a8cbb48b4c00d2ba0d664e906dbefaea84a48c723a4c19e5859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/2\/5-8.1792143196100.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "那時"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "他必說話"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "向他們"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "在他的怒中"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "在他的烈怒中"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "使他們驚惶"
+    }
+  ],
+  "timestamp": "2026-10-16T09:33:16.101192320Z",
+  "model": "glm-5.3"
+}

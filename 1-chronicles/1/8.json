@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מצרים 麥西",
+      "rationale": "雙數形式「兩塊埃及地」，作人名譯「麥西」以別於地名「埃及」"
+    },
+    {
+      "kind": "measurement",
+      "subject": "家譜名單",
+      "rationale": "含族四子的列出與計數"
+    }
+  ],
+  "translation": "含的兒子：古實、麥西、弗、迦南。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "546c94284ef12ced0d55276aac6c88de94b4219db0e22611faddcdc5cf0b7ea4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/1\/5-8.1792148286572.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "חם",
+      "gloss": "含"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "古實"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "麥西"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "弗"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "迦南"
+    }
+  ],
+  "timestamp": "2026-10-16T10:58:06.573190786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 23:24",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "神明",
+      "rationale": "אלהיהם指異教諸神，依紀律用「神明」，不用「以羅欣」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרס תהרסם…ושבר תשבר",
+      "rationale": "兩組不定詞絕對加限定動詞的強調結構，中文以「徹底」重複對應"
+    },
+    {
+      "kind": "addition",
+      "subject": "它們",
+      "rationale": "כי הרס תהרסם的受詞可指神明或柱像，中文補「它們」以保持含混"
+    }
+  ],
+  "translation": "你不可敬拜他們的神明，不可事奉它們，也不可效法他們的行為；卻要徹底拆毀它們，徹底打碎他們的柱像。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0e279b83c6bba92dabf686a74c77df624b4a62719e10b96c4cbead53d34d7d28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/23\/21-24.1792126161852.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "敬拜"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "他們的神明"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "事奉它們"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "效法"
+    },
+    {
+      "surface": "כמעשיהם",
+      "gloss": "他們的行為"
+    },
+    {
+      "surface": "כי",
+      "gloss": "卻要"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "徹底"
+    },
+    {
+      "surface": "תהרסם",
+      "gloss": "拆毀它們"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "徹底"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "打碎"
+    },
+    {
+      "surface": "מצבתיהם",
+      "gloss": "他們的柱像"
+    }
+  ],
+  "timestamp": "2026-10-16T04:49:21.853675465Z",
+  "model": "glm-5.3"
+}

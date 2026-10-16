@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 22:6",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "四百人",
+      "rationale": "先知的人數被數點：約四百人。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האלך／עלה",
+      "rationale": "王的問話「我上去嗎」（האלך）與先知的答話「上去吧」（עלה）同根呼應，中文以「上去」保留。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדני",
+      "rationale": "經文本身用אדני（阿多奈），非יהוה；照字面音譯，不作「主」。"
+    }
+  ],
+  "translation": "以色列王召集了眾先知，約有四百人，對他們說：「我上去攻打基列的拉末作戰好呢，還是罷休呢？」他們說：「上去吧，阿多奈必將它交在王的手裡。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "371f3e4948ddd1ebaba1a10e65f7045631d0bd27df869e45a6ceaa1bef07d569",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/22\/5-8.1792133478482.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "召集了"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "眾先知"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "眾先知"
+    },
+    {
+      "surface": "כארבע",
+      "gloss": "約有四"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "對他們"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "我上去嗎"
+    },
+    {
+      "surface": "על",
+      "gloss": "攻打"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "拉末"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "基列"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "作戰"
+    },
+    {
+      "surface": "אם",
+      "gloss": "還是"
+    },
+    {
+      "surface": "אחדל",
+      "gloss": "罷休"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "他們說"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上去吧"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "必將……交給"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "在……手裡"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-10-16T06:51:18.483646520Z",
+  "model": "glm-5.3"
+}

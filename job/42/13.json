@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 42:13",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "有",
+      "rationale": "ויהי לו 直譯「對他成了」，中文以「他有」表達"
+    },
+    {
+      "kind": "measurement",
+      "subject": "七個兒子、三個女兒",
+      "rationale": "記數：七與三，與約伯起初的兒女數目相同"
+    }
+  ],
+  "translation": "他有七個兒子、三個女兒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4123a94f2e834c0f1e78180901017d69c5eb5a288970270bde1dd52431863bce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/42\/13-16.1792146545788.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "有"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "שבענה",
+      "gloss": "七個"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "三個"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "女兒"
+    }
+  ],
+  "timestamp": "2026-10-16T10:29:05.789294935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 10:10",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文需加判斷句「是」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "真實的",
+      "rationale": "אמת 本義為堅固、確實、可信，非僅命題上的「真」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קצפו／זעמו",
+      "rationale": "近義並列：烈怒與怒氣兩詞呼應，強化威嚇語氣"
+    }
+  ],
+  "translation": "惟有雅威是真實的，他是以羅欣（神），是活著的以羅欣，是永遠的王；因他的烈怒，地就震動，列國擔當不住他的怒氣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "764c31709649590ada48c640b7c42e5c0cc6c51285aa42609195bc4467a13381",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/10\/9-12.1792136328760.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "惟有雅威"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真實的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "活著的"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "מקצפו",
+      "gloss": "因他的烈怒"
+    },
+    {
+      "surface": "תרעש",
+      "gloss": "震動"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "擔當得住"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "他的怒氣"
+    }
+  ],
+  "timestamp": "2026-10-16T07:38:48.761313221Z",
+  "model": "glm-5.3"
+}

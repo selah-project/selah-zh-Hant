@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 本義是喉嚨、氣息、生命活力；此處「水到性命」是滅頂的意象，不是抽象的「靈魂」。"
+    },
+    {
+      "kind": "invitation",
+      "subject": "求你拯救我",
+      "rationale": "開篇即向以羅欣發出的呼求，全詩的呼召句。"
+    }
+  ],
+  "translation": "以羅欣啊，求你拯救我，因為眾水已經來到我的性命之處。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "53de061516384eb7bb4e8853497ff060c0db10355e8fa1cadbf7984d9cf2a2d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/69\/1-4.1792144167702.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "求你拯救我"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "באו",
+      "gloss": "已經來到"
+    },
+    {
+      "surface": "מים",
+      "gloss": "眾水"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    }
+  ],
+  "timestamp": "2026-10-16T09:49:27.703372254Z",
+  "model": "glm-5.3"
+}

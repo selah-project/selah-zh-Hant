@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "內臣",
+      "rationale": "סריסים 本義是太監，後泛指宮廷近臣；英文譯本分作 eunuchs\/officers 兩路"
+    },
+    {
+      "kind": "measurement",
+      "subject": "十分之一",
+      "rationale": "עשר 動詞直指取十分之一，是本節的計量核心"
+    }
+  ],
+  "translation": "你們的五穀和葡萄園的出產，他也必取十分之一，賜給他的內臣和臣僕。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "23b143ef79b8b28a06835b93331d0e8cc9f9d5ab43b3fc136c9d9dd7ee694a55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/8\/13-16.1792130807557.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "你們的五穀"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "你們的葡萄園"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "取十分之一"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "賜給"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "他的內臣"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "他的臣僕"
+    }
+  ],
+  "timestamp": "2026-10-16T06:06:47.558692659Z",
+  "model": "glm-5.3"
+}

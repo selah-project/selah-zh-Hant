@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "拿著",
+      "rationale": "希伯來文只列名詞「盾牌和頭盔」，中文需動詞連接"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "אִתָּם 是「與他們同在」（H854 帶代詞後綴），非受詞記號，仍按家族規則保留 ⟨את⟩"
+    }
+  ],
+  "translation": "波斯、古實和弗與⟨את⟩他們同在，他們全都拿著盾牌和頭盔。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f9e60814802c096c07d8ad82e12253fd3bfb7ca9300c222feafa13fcfec886ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/38\/5-8.1792138984127.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "波斯"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "古實"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "和弗"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "與⟨את⟩他們同在"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "他們全都"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "盾牌"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "和頭盔"
+    }
+  ],
+  "timestamp": "2026-10-16T08:23:04.128141995Z",
+  "model": "glm-5.3"
+}

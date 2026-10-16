@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 36:14",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש是氣息、生命之力，不是不朽的靈魂。"
+    },
+    {
+      "kind": "crux",
+      "subject": "בקדשים",
+      "rationale": "קדשים指迦南廟宇中的男妓（王下23:7）；KJV「不潔者」、JPS「墮落者」皆緩化；本譯取字面。"
+    }
+  ],
+  "translation": "他們的性命在年幼時死亡，他們的生命在男廟妓之中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "737fd9ff37ef82afbbe2e346fdd5d358b3a555dc01a6e07d5eaac0df2f81372e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/36\/13-16.1792146430574.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמת",
+      "gloss": "死亡"
+    },
+    {
+      "surface": "בנער",
+      "gloss": "在年幼時"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "他們的性命"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "他們的生命"
+    },
+    {
+      "surface": "בקדשים",
+      "gloss": "在男廟妓之中"
+    }
+  ],
+  "timestamp": "2026-10-16T10:27:10.574884706Z",
+  "model": "glm-5.3"
+}

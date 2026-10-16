@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 136:21",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "長存",
+      "rationale": "希伯來文無動詞，中文補「長存」以成句"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחלה",
+      "rationale": "本節與下節「產業」一詞重複相接，連鎖結構"
+    }
+  ],
+  "translation": "他將他們的地賜作產業，因為他的慈愛永遠長存。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "84291bdc12c4bc9b8d48626687e4bf38fb00762379d8cdb3e254505699c1a9de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/136\/21-24.1792145017900.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "他將……賜"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "他們的地"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "作產業"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "他的慈愛長存"
+    }
+  ],
+  "timestamp": "2026-10-16T10:03:37.900557840Z",
+  "model": "glm-5.3"
+}

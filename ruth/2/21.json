@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 2:21",
+  "book": "ruth",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "引號與「的」字",
+      "rationale": "希伯來文無引號標記；「若他們收完」原文用 עד אם（直到…若）的結構，中文以「直到」自然化"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבק",
+      "rationale": "「緊跟／黏附」與創 2:24 人離開父母「黏附」妻子同詞，中文無法保留此呼應"
+    }
+  ],
+  "translation": "摩押女子路得說：「他還對我說：『你要緊跟著我的僕人們，直到他們收完了我全部的收割。』」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dbaa07bbc94ff09d7eb10587cabfa1086177a2ab022eb61a343598f8cd0324cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ruth\/2\/21-23.1792146689567.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "רות",
+      "gloss": "路得"
+    },
+    {
+      "surface": "המואביה",
+      "gloss": "摩押女子"
+    },
+    {
+      "surface": "גם",
+      "gloss": "還"
+    },
+    {
+      "surface": "כי",
+      "gloss": "確實"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "עם",
+      "gloss": "與"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "僕人們"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我的"
+    },
+    {
+      "surface": "תדבקין",
+      "gloss": "你要緊跟著"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "他們收完"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全部的收割"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部的"
+    },
+    {
+      "surface": "הקציר",
+      "gloss": "收割"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:31:29.567787528Z",
+  "model": "glm-5.3"
+}

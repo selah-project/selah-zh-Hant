@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "喝足了血",
+      "rationale": "רותה「解渴、飲足」未言明飲的是什麼；欽定本作 'bathed'，楊氏直譯作 'soaked'——此處按上下文補出「血」以成句"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרמי",
+      "rationale": "חרם 是「歸為禁忌、當滅之物」；和合本「我所咒詛的民」、JPS「My ban」——取禁忌之毀滅義"
+    },
+    {
+      "kind": "mystery",
+      "subject": "is",
+      "rationale": "刀劍在天上飲血的異象是刻意晦澀的末日異象語言"
+    }
+  ],
+  "translation": "因為我的刀劍在天上已經喝足了血；看哪，它必降在以東之上，降在我所毀滅歸禁忌之民的身上，施行審判。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "51766db3d86bbdc89dfd6cee9811e070c6635de387aa77ff4ae8f89f0a4372ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/34\/5-8.1792135291713.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "已經喝足了血"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "在天上"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "我的刀劍"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……之上"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "以東"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "它必降下"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "也在……之上"
+    },
+    {
+      "surface": "עם",
+      "gloss": "之民"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "我的禁忌（歸我毀滅之物）"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "施行審判"
+    }
+  ],
+  "timestamp": "2026-10-16T07:21:31.714465018Z",
+  "model": "glm-5.3"
+}

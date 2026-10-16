@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 13:11",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "把他",
+      "rationale": "中文需賓語，希伯來文「我取去」未言對象。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "廢去",
+      "rationale": "אקח直譯「我取去」，此處指收回王，取「廢去」之意。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "באפי",
+      "rationale": "直譯「在我的鼻中」，希伯來文以鼻息喻怒氣。"
+    }
+  ],
+  "translation": "我在怒中把王賜給你，也在烈怒中把他廢去。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e64b359583dd3d276a9cf5563011e7697cbbfa8712f4197d9a1858af11dcbd93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/13\/9-12.1792139488207.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "我賜"
+    },
+    {
+      "surface": "לך",
+      "gloss": "給你"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "在怒中"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "我也廢去"
+    },
+    {
+      "surface": "בעברתי",
+      "gloss": "在烈怒中"
+    }
+  ],
+  "timestamp": "2026-10-16T08:31:28.208346758Z",
+  "model": "glm-5.3"
+}

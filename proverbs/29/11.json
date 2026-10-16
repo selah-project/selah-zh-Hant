@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 29:11",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישבחנה",
+      "rationale": "שָׁבַח 本義「高聲說話、讚美」，此處字尾נה指向רוח；各家或譯「平息」（KJV\/ASV）或「留住到後來」（Geneva）；按上下文取「平息」之讀法。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "魯阿（氣息）",
+      "rationale": "רוחו 直譯「他的風／氣息」，指怒氣或心緒的爆發，非「靈魂」。"
+    }
+  ],
+  "translation": "愚昧人傾吐全部的魯阿（氣息），智慧人卻在後面平息它。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "347ef1b7fd26606cb72ca8827d1dac8af4e3dfd81df4fa4c33b5ccf0a2e8e397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/29\/9-12.1792145677615.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "全部的"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "魯阿（氣息）"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "傾吐"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "愚昧人"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "智慧人"
+    },
+    {
+      "surface": "באחור",
+      "gloss": "在後面"
+    },
+    {
+      "surface": "ישבחנה",
+      "gloss": "平息它"
+    }
+  ],
+  "timestamp": "2026-10-16T10:14:37.616515429Z",
+  "model": "glm-5.3"
+}

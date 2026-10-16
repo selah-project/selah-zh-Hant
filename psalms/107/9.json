@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "生命",
+      "rationale": "נפש 是呼吸的生命整體，非「靈魂」；此處指人的食慾與生命需要"
+    },
+    {
+      "kind": "alternative",
+      "subject": "渴求的",
+      "rationale": "שקק 字面是如獸追逐般急切奔逐，引申貪求；亦可譯「切望的」"
+    }
+  ],
+  "translation": "因為他使渴求的生命得享飽足，使飢餓的生命滿得美物。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fa2b43ed24c66df6cd26b57e8a2bfa3111682000e5d407cf23a768b653f78263",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/107\/9-12.1792144643284.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "他使……得享飽足"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "生命"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "渴求的"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "而……的生命"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "飢餓的"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "使……滿得"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "美物"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:23.284760140Z",
+  "model": "glm-5.3"
+}

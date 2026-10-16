@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 28:21",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מעשהו זר \/ עבדתו נכריה",
+      "rationale": "兩組同詞重複的交錯結構：他的作為—陌生—他的作為；他的工作—奇特—他的工作"
+    },
+    {
+      "kind": "crux",
+      "subject": "毗拉心山",
+      "rationale": "暗指撒下5:20雅威在毗拉心突破大衛的敵人；此處同一雅威卻興起攻擊他自己的民"
+    },
+    {
+      "kind": "elision",
+      "subject": "כהר פרצים",
+      "rationale": "比較詞כְ與地名連用，「如在毗拉心山」，中文以「如在」補足"
+    }
+  ],
+  "translation": "因為雅威必興起，如在毗拉心山；他必發怒，如在基遍谷；為要行他的作為——他的作為何等陌生；要成就他的工作——他的工作何等奇特。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cb1236964bc9fd516c405ec7fff61e3db233001b37be84bc3aea2068ba296ee0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/28\/21-24.1792135203047.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "如在……山"
+    },
+    {
+      "surface": "פרצים",
+      "gloss": "毗拉心"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "必興起"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כעמק",
+      "gloss": "如在……谷"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "基遍"
+    },
+    {
+      "surface": "ירגז",
+      "gloss": "必發怒"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "為要行"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "他的作為"
+    },
+    {
+      "surface": "זר",
+      "gloss": "陌生的"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "他的作為"
+    },
+    {
+      "surface": "ולעבד",
+      "gloss": "要成就"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "他的工作"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "奇特的"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "他的工作"
+    }
+  ],
+  "timestamp": "2026-10-16T07:20:03.047904508Z",
+  "model": "glm-5.3"
+}

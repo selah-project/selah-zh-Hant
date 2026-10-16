@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "求你把目光移開",
+      "rationale": "השע ממני 直譯「從我移開你的注視」：KJV\/ASV 讀作「饒恕我」，JPS\/BSB 讀作「移開目光」——直譯支持後者"
+    },
+    {
+      "kind": "crux",
+      "subject": "我就得以舒暢",
+      "rationale": "ואבליגה 意為「變亮、恢復光彩」，KJV 譯「恢復力氣」，此處取直譯"
+    },
+    {
+      "kind": "mystery",
+      "subject": "而不復存在",
+      "rationale": "ואינני「而我不在了」——詩人對死亡之後沉默無言，不加任何後來的解釋"
+    }
+  ],
+  "translation": "求你把目光從我移開，我就得以舒暢，在我走去而不復存在之前。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "32dda2c6d6aa40aa90750d9eeee234d260e80059d32e31ad366d758851fa307d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/39\/13-14.1792143690970.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "求你把目光移開"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "從我"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "我就得以舒暢"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "在……之前"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "我走去"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "而不復存在"
+    }
+  ],
+  "timestamp": "2026-10-16T09:41:30.971398561Z",
+  "model": "glm-5.3"
+}

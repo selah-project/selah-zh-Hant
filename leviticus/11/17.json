@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכוס השלך הינשוף",
+      "rationale": "不潔鳥名的確切物種歷代爭議不斷：小鴞、鸕鶿／鵜鶘、大鴞只是通行擬定。"
+    },
+    {
+      "kind": "elision",
+      "subject": "ואת",
+      "rationale": "受詞記號את家族（ואת）以 ⟨את⟩ 標記保留。"
+    }
+  ],
+  "translation": "以及 ⟨את⟩ 小鴞、⟨את⟩ 鸕鶿、⟨את⟩ 大鴞。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4adbb0eca54bd254fe6c40c14044bbb8dcc24df06e1ba126b8139e8383848e82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/11\/17-20.1792126868298.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "小鴞"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "小鴞"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "鸕鶿"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "鸕鶿"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "大鴞"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "大鴞"
+    }
+  ],
+  "timestamp": "2026-10-16T05:01:08.299302179Z",
+  "model": "glm-5.3"
+}

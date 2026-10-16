@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 11:14",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "保全了它",
+      "rationale": "ויצילוה 的受詞是陰性單數——指那塊田地，非指百姓"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויושע יהוה תשועה גדולה",
+      "rationale": "「雅威拯救了一大拯救」：同源動詞與名詞並用，或作「雅威藉大拯救施行拯救」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויושע\/תשועה",
+      "rationale": "同根詞相疊（拯救……拯救），中文以重複「拯救」保留"
+    }
+  ],
+  "translation": "他們站定在那田地當中，保全了它，擊打了 ⟨את⟩ 非利士人；雅威施行了極大的拯救。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "22d440ec4a6060a87c4b2926313b4cea8703a87c3fe8834e7183dd762b571829",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/11\/13-16.1792148715849.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתיצבו",
+      "gloss": "站定"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "在……當中"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "那田地"
+    },
+    {
+      "surface": "ויצילוה",
+      "gloss": "保全了它"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "擊打了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "非利士人"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "ויושע",
+      "gloss": "施行了拯救"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "拯救"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "極大的"
+    }
+  ],
+  "timestamp": "2026-10-16T11:05:15.850574893Z",
+  "model": "glm-5.3"
+}

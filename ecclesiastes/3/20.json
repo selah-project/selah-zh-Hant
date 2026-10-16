@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הכל ×3 · העפר ×2",
+      "rationale": "「一切」三疊、「塵土」二疊的環形結構：出於塵土—歸回塵土；中文保留重複。"
+    },
+    {
+      "kind": "elision",
+      "subject": "היה",
+      "gloss": "希伯來文「曾是」無獨立動詞位，融入「一切都是出於塵土」一句。"
+    }
+  ],
+  "translation": "一切都歸向同一處：一切都是出於塵土，一切也都歸回塵土。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2ed4457092f81334a2f376bb03833a6badab5f5bf9e2f536d4c88485c24c9da4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/3\/17-20.1792146987491.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "都歸向"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "一處"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "同一個"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "היה",
+      "gloss": "曾是"
+    },
+    {
+      "surface": "מן",
+      "gloss": "出於"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "塵土"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "並且一切"
+    },
+    {
+      "surface": "שב",
+      "gloss": "都歸回"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "塵土"
+    }
+  ],
+  "timestamp": "2026-10-16T10:36:27.493182248Z",
+  "model": "glm-5.3"
+}

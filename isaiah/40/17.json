@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 40:17",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "混沌",
+      "rationale": "תהו 即創 1:2 的「空虛混沌」之字，指向荒廢與虛無，不是單純的「虛空」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כאין／מאפס",
+      "rationale": "兩個否定名詞並列遞進：從「如無有」降到「不及虛無」，中文以遞進語勢保留"
+    }
+  ],
+  "translation": "萬民在祂面前如同無有，在祂看來被算為不及虛無、歸於混沌。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b020e2ecec575243b2e86dad6985604644b31184f151ef0c52c777de3f60ff82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/40\/17-20.1792135450414.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "萬"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "民"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "如同無有"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "在祂面前"
+    },
+    {
+      "surface": "מאפס",
+      "gloss": "不及虛無"
+    },
+    {
+      "surface": "ותהו",
+      "gloss": "歸於混沌"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "被算為"
+    },
+    {
+      "surface": "לו",
+      "gloss": "在祂看來"
+    }
+  ],
+  "timestamp": "2026-10-16T07:24:10.414803055Z",
+  "model": "glm-5.3"
+}

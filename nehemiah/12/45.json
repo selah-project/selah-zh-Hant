@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "nehemiah 12:45",
+  "book": "nehemiah",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "也是如此",
+      "rationale": "希伯來文以名詞並列（歌唱的和守門的），中文需補述語以成句"
+    },
+    {
+      "kind": "substitution",
+      "subject": "本分",
+      "rationale": "משמרת是「看守之職、崗位」，具體的職守而非抽象義務"
+    }
+  ],
+  "translation": "他們謹守他們以羅欣（神）的本分，也謹守潔淨禮的本分；歌唱的和守門的也是如此，都照大衛和他兒子所羅門的誡命。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "398cdb4597e9ce9c9ae63dede15a3d7b260848815d1ca761e2f97b6f4c24cf2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nehemiah\/12\/45-47.1792148196360.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמרו",
+      "gloss": "他們謹守"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "本分"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "他們以羅欣（神）"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "也謹守……的本分"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "潔淨禮"
+    },
+    {
+      "surface": "והמשררים",
+      "gloss": "歌唱的"
+    },
+    {
+      "surface": "והשערים",
+      "gloss": "守門的"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "照……的誡命"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "他兒子"
+    }
+  ],
+  "timestamp": "2026-10-16T10:56:36.360858916Z",
+  "model": "glm-5.3"
+}

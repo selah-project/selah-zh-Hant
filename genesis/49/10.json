@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 49:10",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "示羅",
+      "rationale": "最著名的譯經難題：專名「示羅」／「屬他的（שלו）」／「直到他來」／城邑示羅——此處照音保留。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "יקהה",
+      "rationale": "יקהת（歸順）全塔納赫僅此一見，與「期待」同源。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "權杖／立法者",
+      "rationale": "שבט 本義是杖，מחקק 本義是刻寫律法者——取統治意象譯之。"
+    },
+    {
+      "kind": "mystery",
+      "subject": "עד כי יבא שילה",
+      "rationale": "全段最隱晦的預言句，歷代解讀紛紜，文本刻意未明。"
+    }
+  ],
+  "translation": "權杖必不離開猶大，立法之杖也不離開他兩腳之間，直到示羅來到，萬民都歸順於他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0acda0678629bb60e16fc3a1cb81802d47e019186d924266b70249a4a6218f90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/49\/9-12.1792125663581.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "必不"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "離開"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "權杖"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ומחקק",
+      "gloss": "立法者"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "從…之間"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "他的兩腳"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨當⟩"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "שילה",
+      "gloss": "示羅"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "並且歸他"
+    },
+    {
+      "surface": "יקהת",
+      "gloss": "歸順"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "萬民"
+    }
+  ],
+  "timestamp": "2026-10-16T04:41:03.582243041Z",
+  "model": "glm-5.3"
+}

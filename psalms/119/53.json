@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 119:53",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "זלעפה",
+      "rationale": "烈怒一詞罕見，字面是燃燒的熱氣或灼熱的饑荒，諸譯本或作恐懼或作烈怒"
+    },
+    {
+      "kind": "substitution",
+      "subject": "妥拉",
+      "rationale": "按紀律譯作妥拉（訓誨），不用單獨的「律法」"
+    }
+  ],
+  "translation": "烈怒抓住了我，因惡人離棄了你的妥拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9436762ab9cfb774137d9b4ea8f9a7e0d6bc0c56891c9a58eaa37b100b21d52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/53-56.1792144846373.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זלעפה",
+      "gloss": "烈怒"
+    },
+    {
+      "surface": "אחזתני",
+      "gloss": "抓住了我"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "因惡人"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "離棄"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "你的妥拉"
+    }
+  ],
+  "timestamp": "2026-10-16T10:00:46.373878098Z",
+  "model": "glm-5.3"
+}

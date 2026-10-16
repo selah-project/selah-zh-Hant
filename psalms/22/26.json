@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאתך",
+      "rationale": "מֵאִתְּךָ 是 H854 的『從你而出』，帶 ⟨את⟩ 詞根，中文以『在於你』承載其來源義"
+    },
+    {
+      "kind": "you",
+      "subject": "to 雅威",
+      "rationale": "『你』指雅威，本節直接向神說話"
+    }
+  ],
+  "translation": "我的讚美在於你，在廣大的會眾之中；我要在敬畏他的人面前還我的願。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "75ea91ce7a8dee2a3f788c81228b1b68d28090ff25fba0df57837902cbc30a2e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/22\/26-27.1792149874907.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ 在於你",
+      "marks": "⟨את⟩ 從你而出"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "我的讚美"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "在會眾之中"
+    },
+    {
+      "surface": "רב",
+      "gloss": "廣大的"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "我的願"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "我要還"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "在……面前"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "敬畏他的人"
+    }
+  ],
+  "timestamp": "2026-10-16T11:24:34.908440485Z",
+  "model": "glm-5.3"
+}

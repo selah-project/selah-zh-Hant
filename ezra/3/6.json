@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 3:6",
+  "book": "ezra",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אחד",
+      "rationale": "基數『一』作序數『第一日』用，字面是『月之一日』"
+    },
+    {
+      "kind": "elision",
+      "subject": "יסד",
+      "rationale": "字面『被立定』，被動式由中文主動句吸收"
+    }
+  ],
+  "translation": "從七月第一日起，他們開始向雅威獻燔祭；但雅威的殿〈還〉未立定根基。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "51a95af595ec64a53451fff6268b72a2a16b0354979a6905650df2c3a63407a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/3\/5-8.1792147869563.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מיום",
+      "gloss": "從……之日"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "第一"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "月"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "他們開始"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "獻上"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "給雅威"
+    },
+    {
+      "surface": "והיכל",
+      "gloss": "但……的殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לא",
+      "gloss": "未"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "立定根基"
+    }
+  ],
+  "timestamp": "2026-10-16T10:51:09.564248078Z",
+  "model": "glm-5.3"
+}

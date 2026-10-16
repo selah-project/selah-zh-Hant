@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 25:30",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "האדם\/אדום",
+      "rationale": "「紅」（אדם）與「以東」（אדום）同音雙關，敘述者以此解釋以東名的由來"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הלעיטני",
+      "rationale": "לעט 僅此處出現，使役形「餵我吞下」，畫出以掃狼吞虎嚥的姿態"
+    },
+    {
+      "kind": "substitution",
+      "subject": "紅紅的東西",
+      "rationale": "原文只說「這紅紅的」נא，名詞未寫出，中文補「東西」以成句"
+    }
+  ],
+  "translation": "以掃對雅各說：「請讓我把這紅紅的東西吞下去吧，我累極了。」因此他的名叫作以東。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b75a642e967863a33c6af7d6f1e0d8e7a81c7938ecdbe390a33156aa215f8d5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/25\/30-32.1792142385464.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "הלעיטני",
+      "gloss": "讓我吞下去"
+    },
+    {
+      "surface": "נא",
+      "gloss": "吧"
+    },
+    {
+      "surface": "מן",
+      "gloss": "一些"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "紅"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "紅紅的"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "累極了"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "על",
+      "gloss": "因此"
+    },
+    {
+      "surface": "כן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "叫作"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "他的名"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "以東"
+    }
+  ],
+  "timestamp": "2026-10-16T09:19:45.465288804Z",
+  "model": "glm-5.3"
+}

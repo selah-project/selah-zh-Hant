@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨他⟩",
+      "rationale": "תנוט 是第三人稱未完成式動詞（願它搖動），中文需補出主語指向"
+    },
+    {
+      "kind": "substitution",
+      "subject": "基路伯上的",
+      "rationale": "ישב כרובים 直譯「坐基路伯」，中文需加方位詞；經文未明言「之間」或「之上」"
+    },
+    {
+      "kind": "you",
+      "subject": "萬民",
+      "rationale": "呼喚萬民與大地對雅威登基作出反應的登基詩"
+    }
+  ],
+  "translation": "雅威作王了，萬民就戰抖；那坐在基路伯上的，願⟨他⟩使地搖動。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a34ea709d416839a27e0f78640aa3d6afa8cad5336b38216153fd205ca9a92c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/99\/1-2.1792149950963.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "作王了"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "戰抖"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "萬民"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "基路伯"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "使搖動"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-10-16T11:25:50.963648196Z",
+  "model": "glm-5.3"
+}

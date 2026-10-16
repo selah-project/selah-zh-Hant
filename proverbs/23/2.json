@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "胃口",
+      "rationale": "נפש 字面是喉嚨／生命之氣，此處指食慾，בעל נפש 即「胃口大的人」"
+    },
+    {
+      "kind": "you",
+      "subject": "對讀者",
+      "rationale": "第二人稱命令式，直接告誡聽者"
+    }
+  ],
+  "translation": "你要把刀放在喉嚨上，若你是貪食的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fb5f96f3352531037f7dc151273f9e0745d6ed9de74f74612e97c20e8b69f806",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/23\/1-4.1792145571018.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "你要放"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "刀"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "在你的喉嚨"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "…的主人"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "胃口（生命之氣）"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    }
+  ],
+  "timestamp": "2026-10-16T10:12:51.020215064Z",
+  "model": "glm-5.3"
+}

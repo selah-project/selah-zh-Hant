@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "寧可……也不",
+      "rationale": "希伯來文無比較動詞，僅以「遇見熊——不要愚昧人」並列示意。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "喪崽的熊",
+      "rationale": "שכול 直譯「被奪去孩子的」，指失去幼崽而狂暴的母熊。"
+    }
+  ],
+  "translation": "寧可讓人遇見喪崽的熊，也不遇見陷在愚妄中的愚昧人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c6437f1d196d69d887c17074e87f7ce4ed3d0a5be2abc0aff97d759064fd1898",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/17\/9-12.1792145440880.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "遇見"
+    },
+    {
+      "surface": "דב",
+      "gloss": "熊"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "喪崽的"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "被人"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "也不"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "愚昧人"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "在他的愚妄中"
+    }
+  ],
+  "timestamp": "2026-10-16T10:10:40.881892695Z",
+  "model": "glm-5.3"
+}

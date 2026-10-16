@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רמיתני",
+      "rationale": "רמה字面為「擲出、射擊」，喻「欺騙」"
+    },
+    {
+      "kind": "you",
+      "subject": "對掃羅",
+      "rationale": "女人認出掃羅身分，當面揭穿"
+    }
+  ],
+  "translation": "女人看見 ⟨את⟩ 撒母耳，就大聲尖叫；女人對掃羅說：「你為何欺騙我？你就是掃羅。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ec0a09f773261b76ecf72cc7eb340c3872193fdc1bfc35e972214acaf1ae316a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/28\/9-12.1792131464806.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "女人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "撒母耳"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "וותזעק",
+      "gloss": "尖叫"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "用聲音"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大的"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "女人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "למה",
+      "gloss": "為何"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "欺騙我"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    }
+  ],
+  "timestamp": "2026-10-16T06:17:44.807621914Z",
+  "model": "glm-5.3"
+}

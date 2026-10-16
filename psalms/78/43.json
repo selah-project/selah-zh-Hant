@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "放置",
+      "rationale": "第二個「放置」由平行體補足，希伯來文第二行共用動詞 שם。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אשר",
+      "rationale": "可作關係詞「那時」（YLt: When），此處隨主要譯本作「怎樣」承接上文的追述。"
+    }
+  ],
+  "translation": "他怎樣在埃及放置他的記號，在瑣安的田野放置他的奇事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "45ad4b0f1067a6e84594ff8f6dfda82491f7d84cb55c36c28b83e59b6dc67207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/78\/41-44.1792144264806.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "怎樣"
+    },
+    {
+      "surface": "שם",
+      "gloss": "放置"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "在埃及"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "他的記號"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "和他的奇事"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "在田野"
+    },
+    {
+      "surface": "צען",
+      "gloss": "瑣安"
+    }
+  ],
+  "timestamp": "2026-10-16T09:51:04.806866996Z",
+  "model": "glm-5.3"
+}

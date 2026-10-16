@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חילו",
+      "rationale": "字根חול本義是「旋轉、翻騰」——可譯「戰抖」（因懼怕而翻騰）或「翻騰、劇痛」；英譯tradition分tremble與be in pain兩路。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תכון／תמוט",
+      "rationale": "「堅立」（כון，直立站穩）與「動搖」（מוט，搖晃滑落）形成對立平行，音韻上כון／מוט押韻，中文難以保留。"
+    },
+    {
+      "kind": "addition",
+      "subject": "不致",
+      "rationale": "בל תמוט直譯「必不——動搖」，中文補「致」以成句。"
+    }
+  ],
+  "translation": "全地都要在他面前戰抖，世界也必堅立，不致動搖。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "47ceba219b5fe1066c81680741a6d2756c8207dd26a0f6230c2aeaa9b3566feb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/16\/29-32.1792148802869.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "要戰抖"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "在他面前"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全都"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אף",
+      "gloss": "也"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "必堅立"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世界"
+    },
+    {
+      "surface": "בל",
+      "gloss": "不"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "動搖"
+    }
+  ],
+  "timestamp": "2026-10-16T11:06:42.869784265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "結尾命令「你們要讚美雅」直接向會眾呼喚"
+    },
+    {
+      "kind": "substitution",
+      "subject": "雅",
+      "rationale": "יהוה 的短形式音譯為「雅」，不用「上主」等頭銜"
+    }
+  ],
+  "translation": "他未曾這樣對待任何邦國；至於他的典章，他們素不認識。你們要讚美雅！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4589482b212d111c5e480abc4637813234e773414154ac4a2f9cd7ae1bc7d3ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/147\/17-20.1792145131749.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "未曾"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "這樣對待"
+    },
+    {
+      "surface": "כן",
+      "gloss": "如此"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "邦國"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "至於他的典章"
+    },
+    {
+      "surface": "בל",
+      "gloss": "素不"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "認識"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "你們要讚美"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:31.751155821Z",
+  "model": "glm-5.3"
+}

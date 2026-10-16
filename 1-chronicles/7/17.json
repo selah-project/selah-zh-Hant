@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文名單省略動詞，中文需補繫詞"
+    },
+    {
+      "kind": "addition",
+      "subject": "基列是瑪吉的兒子，瑪吉是瑪拿西的兒子",
+      "rationale": "原文為連續 construct 鏈「基列之子、瑪吉之子、瑪拿西之子」，中文重複「是…的兒子」以明世系"
+    }
+  ],
+  "translation": "烏蘭的兒子是比但。這些是基列的兒子——基列是瑪吉的兒子，瑪吉是瑪拿西的兒子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e5f17eeaedbd65afd60a8eea9a37524552506fb91be2f9f119b71481eafec07a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/7\/17-20.1792148619967.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "的兒子"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "烏蘭"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "比但"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的兒子"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "基列"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "瑪吉"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "瑪拿西"
+    }
+  ],
+  "timestamp": "2026-10-16T11:03:39.968045654Z",
+  "model": "glm-5.3"
+}

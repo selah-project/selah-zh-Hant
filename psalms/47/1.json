@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "伶長",
+      "rationale": "למנצח 字面是「給那使發光的／監督者」，沿和合本作「伶長」"
+    }
+  ],
+  "translation": "交給伶長，可拉子孫的詩篇。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4e35d3bd082dfc77ec5d1f114acc86320c6840fd651e2d44f6628c221c9b47a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/47\/1-4.1792143839679.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "交給伶長"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "子孫的"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "可拉"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩篇"
+    }
+  ],
+  "timestamp": "2026-10-16T09:43:59.679704352Z",
+  "model": "glm-5.3"
+}

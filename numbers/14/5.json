@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 14:5",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פניהם",
+      "rationale": "字面為「伏在他們的臉上」，即俯伏於地，中文按成語譯「俯伏在他們面前」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קהל עדת בני ישראל",
+      "rationale": "「會眾」與「會眾的會眾」疊用，希伯來文的層疊結構在中文難以重現"
+    }
+  ],
+  "translation": "摩西和亞倫就俯伏在以色列人會眾全會眾面前。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "671e3b0487f09d7a3ef9bd87ea021ed250f97ec560519c4f1c37a72b75b407f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/14\/5-8.1792127769959.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "就俯伏"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "和亞倫"
+    },
+    {
+      "surface": "על",
+      "gloss": "在…上"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "他們的臉面"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在…面前"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "會眾的"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T05:16:09.960489295Z",
+  "model": "glm-5.3"
+}

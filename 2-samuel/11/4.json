@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 11:4",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "同寢",
+      "rationale": "וישכב עמה 直譯「與她同臥」，為委婉語，中文以「同寢」承之"
+    },
+    {
+      "kind": "crux",
+      "subject": "מתקדשת",
+      "rationale": "動詞形為進行式「正在潔淨自己」（如 YLT）或完成式「已得潔淨」（如 KJV）；時態影響敘事時序的理解"
+    }
+  ],
+  "translation": "大衛差遣使者去，把她接來；她來到他那裡，他就與她同寢。（那時她正從自己的不潔中得潔淨。）她就回到自己的家去了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "87b97f4831e00aaaad12d0be3e3eef3296d096f207bc0e9cbd34062174437279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/11\/1-4.1792131983722.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差遣"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "使者"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "把她接來"
+    },
+    {
+      "surface": "ויתבוא",
+      "gloss": ""
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "她來到"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "他那裡"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "同寢"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "與她"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "而她"
+    },
+    {
+      "surface": "מתקדשת",
+      "gloss": "得潔淨"
+    },
+    {
+      "surface": "מטמאתה",
+      "gloss": "從自己的不潔"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "回到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "自己的家"
+    }
+  ],
+  "timestamp": "2026-10-16T06:26:23.724540174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "苦澀",
+      "rationale": "ימר 出自 מרר「苦」，此處指濃酒本身變苦，不是喝的人口中發苦，一詞兩讀。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "伴著歌聲",
+      "rationale": "בשיר 也可讀作原因（「因歌聲止息，他們不喝酒」），與 24:8 歌樂止息的上下文相合。"
+    }
+  ],
+  "translation": "他們不得伴著歌聲喝酒，濃酒對喝的人變為苦澀。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d73783ffe5f8117bd48bcd3c0527dd82a24470e279d27e65b90a3021c0690c90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/24\/9-12.1792134980584.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "伴著歌聲"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "他們喝"
+    },
+    {
+      "surface": "יין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "變為苦澀"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "濃酒"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "對喝的人"
+    }
+  ],
+  "timestamp": "2026-10-16T07:16:20.585180960Z",
+  "model": "glm-5.3"
+}

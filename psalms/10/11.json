@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "已經",
+      "rationale": "希伯來文完成式，中文以「已經」表達。"
+    },
+    {
+      "kind": "you",
+      "subject": "惡人心中之言",
+      "rationale": "惡人向自己斷言伊勒不看——他將在第13節再度如此說，此節是詩篇10的樞紐獨白。"
+    }
+  ],
+  "translation": "他心裡說：「伊勒已經忘記；他掩了面，永遠不看。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "69f62e88b52dde268b8a777f9383ad20cf58fde3d420c1357272749c9bc674a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/10\/9-12.1792143338473.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "在他心裡"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "已經忘記"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "掩了"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "面"
+    },
+    {
+      "surface": "בל",
+      "gloss": "絕不"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "看"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-10-16T09:35:38.474754213Z",
+  "model": "glm-5.3"
+}

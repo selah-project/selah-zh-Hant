@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 32:18",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "רוח 此處指腹中的氣息／衝動，非專指雅威的魯阿，故譯「魯阿（氣息）」保留雙登記。"
+    },
+    {
+      "kind": "addition",
+      "subject": "開口",
+      "rationale": "中文需補出動作對象「開口」使句子完整，希伯來文只有「壓迫我」。"
+    }
+  ],
+  "translation": "因為我滿懷言語，我腹中的魯阿（氣息）迫使我 ⟨開口⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8cf0ac026d08a78f98a70a4b55691186cd8b88d31a87859d4846116b87129bed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/32\/17-20.1792146368082.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "我滿懷"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "言語"
+    },
+    {
+      "surface": "הציקתני",
+      "gloss": "迫使我"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "魯阿（氣息）"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "我腹中的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:26:08.083331663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 2:4",
+  "book": "daniel",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נחוא",
+      "rationale": "חוא（顯明）僅於亞蘭文段落出現，是本卷亞蘭文部分的標誌詞"
+    },
+    {
+      "kind": "addition",
+      "subject": "自此以後",
+      "rationale": "和合本等依傳統補入段落轉折語；希伯來文本無此字，不應加——已從譯文中刪除"
+    },
+    {
+      "kind": "crux",
+      "subject": "ארמית",
+      "rationale": "或譯「亞蘭語」或「敘利亞語」（KJV／ASV）；此節起全卷轉為亞蘭文，直至第七章末"
+    },
+    {
+      "kind": "you",
+      "subject": "對王",
+      "rationale": "迦勒底人直接向王的請求與問安語——「願王萬歲」是宮廷格式問安"
+    }
+  ],
+  "translation": "迦勒底人用亞蘭語對王說：「願王萬歲！請王將夢告訴僕人們，我們必解明其解釋。」自此以後 ⟨…⟩",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "34ce5c76c3c4e70cd3243e9b95f73c28e3690bc218fe7841e30f6cc98b2d6197",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/daniel\/2\/1-4.1792147320965.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "……說話"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "迦勒底人"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "對王"
+    },
+    {
+      "surface": "ארמית",
+      "gloss": "用亞蘭語"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "王啊"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "活著"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "請告訴"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "夢"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "僕人們"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "其解釋"
+    },
+    {
+      "surface": "נחוא",
+      "gloss": "我們必解明"
+    }
+  ],
+  "timestamp": "2026-10-16T10:42:00.966674162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 40:17",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "大腿",
+      "rationale": "פחדו 字面為「睾丸」（源於羞恥／恐懼之義）；多數譯本作「大腿」，KJV 作 'stones'"
+    },
+    {
+      "kind": "crux",
+      "subject": "彎動",
+      "rationale": "יחפץ 字面為「樂意／彎曲」：KJV 'moveth'、JPS 'straineth'、YLt 'bendeth'"
+    }
+  ],
+  "translation": "他彎動尾巴如同香柏樹；他大腿的筋交織在一起。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1b88c51cb7a46e8d3432c38845377cd38870aedc920b0d3b0ca6cb1f88b46535",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/40\/17-20.1792146520558.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחפץ",
+      "gloss": "彎動"
+    },
+    {
+      "surface": "זנבו",
+      "gloss": "他的尾巴"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "如同"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "香柏樹"
+    },
+    {
+      "surface": "גידי",
+      "gloss": "……的筋"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "他大腿的"
+    },
+    {
+      "surface": "ישרגו",
+      "gloss": "交織在一起"
+    }
+  ],
+  "timestamp": "2026-10-16T10:28:40.559278381Z",
+  "model": "glm-5.3"
+}

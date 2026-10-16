@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "לי（屬我）無繫動詞，中文補「是」以成句"
+    }
+  ],
+  "translation": "我若飢餓，也不告訴你，因為世界和其中所充滿的都是我的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d77fd03860119589c1943f3bab0ac4f0aff142a3d3b27d6235dae13d87fd5c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/50\/9-12.1792143786998.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "我飢餓"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "告訴"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לי",
+      "gloss": "是我的"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世界"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "和其中所充滿的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:43:06.999451377Z",
+  "model": "glm-5.3"
+}

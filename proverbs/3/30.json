@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "語序",
+      "rationale": "中文條件句（「人若不曾以惡待你」）前移，希伯來文的條件子句在後"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אם לא",
+      "rationale": "可讀作「若他不曾」或強調式「因為他確實不曾」；取條件讀法"
+    }
+  ],
+  "translation": "人若不曾以惡待你，不可無故與人爭競。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8844867d968ec9db62dc0e11395174abb8bc87f1deb42f5348a1dc101146471b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/3\/29-32.1792145246534.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "爭競"
+    },
+    {
+      "surface": "עם",
+      "gloss": "與"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "無故"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不曾"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "以…待你"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "惡"
+    }
+  ],
+  "timestamp": "2026-10-16T10:07:26.535122285Z",
+  "model": "glm-5.3"
+}

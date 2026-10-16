@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יודע",
+      "rationale": "「被知道」被动式，譯作「必被顯明」，即惡行終必曝光"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הולך…ילך",
+      "rationale": "同一動詞重複：行走的人必行走——希伯來以重複加強，中文以「必」補足語氣"
+    }
+  ],
+  "translation": "行走在正直中的，必安然行走；使自己的道路彎曲的，必被顯明。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ba335ee071929931783e165e93453b2124faa9b7dff9c211e5ad5ce48700e73b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/10\/9-12.1792145319497.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "行走"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "在正直中"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "必行走"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "安然"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "而使彎曲"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "自己的道路"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "必被顯明"
+    }
+  ],
+  "timestamp": "2026-10-16T10:08:39.498218410Z",
+  "model": "glm-5.3"
+}

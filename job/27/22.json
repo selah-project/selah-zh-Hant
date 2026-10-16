@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 27:22",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברוח\/יברח",
+      "rationale": "同字根重複（不定式絕對＋完成式）：「逃啊逃」——全力奔逃的語氣，中文以疊語「急急逃奔」補足。"
+    },
+    {
+      "kind": "addition",
+      "subject": "它",
+      "rationale": "希伯來文動詞未標明主語，中文需補出施擊者（風暴或以羅欣）。"
+    }
+  ],
+  "translation": "它向他擲擊，並不憐惜；他急急逃奔，也逃不出它的手。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bde751e5e0d77a314c7e1bd5efc2362baaff1955ac16dd0e6069691040b460bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/27\/21-23.1792146233498.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלך",
+      "gloss": "它向他擲擊"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "向他"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "並不"
+    },
+    {
+      "surface": "יחמל",
+      "gloss": "憐惜"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "逃不出它的手"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "急急逃奔"
+    },
+    {
+      "surface": "יברח",
+      "gloss": "逃奔"
+    }
+  ],
+  "timestamp": "2026-10-16T10:23:53.498702041Z",
+  "model": "glm-5.3"
+}

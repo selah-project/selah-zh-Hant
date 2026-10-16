@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "你",
+      "rationale": "動詞詞尾已含人稱，中文補主語"
+    }
+  ],
+  "translation": "你要在四圍立 ⟨את⟩ 院子，又安上 ⟨את⟩ 院門的簾子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6972e9038cb8b99c6e11b2fc1818f1877ae0f15374896d6007bc4b7b2ae62065",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/40\/5-8.1792126615097.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "你要立"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "院子"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "院子"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "又安上"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "簾子"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "簾子"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "院"
+    }
+  ],
+  "timestamp": "2026-10-16T04:56:55.098869666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואת דורו מי ישוחח",
+      "rationale": "最難的一句：「誰會述說他的世代？」（KJV）、「誰會思想他的世代？」（JPS）、或「他同世代的人誰在意？」；את 可作受詞記號或「與」解。"
+    },
+    {
+      "kind": "crux",
+      "subject": "נגע למו",
+      "rationale": "למו 是詩體長形「臨到他們／他」；ASV 讀作「那擊打原是給我百姓的」（限定語句），JPS 同；KJV 讀「他為我百姓的過犯被擊打」。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מעצר",
+      "gloss_context": "在此意義（受拘禁／欺壓）上僅此一見",
+      "rationale": "מעצר 在本節作「壓制／拘禁」解，是孤例用法。"
+    }
+  ],
+  "translation": "因受欺壓和審判，他被奪去；至於他的世代，誰會思想呢？因他從活人之地被剪除，是因我百姓的過犯，那擊打臨到了他們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4d63df52a4df18b1a31bd66c289fd2d65278892628aab788f92367315dd1bdfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/53\/5-8.1792135735501.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "因受欺壓"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "和審判"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "被奪去"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "他的世代"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "他的世代"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "會思想"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "被剪除"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "從……之地"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "活人"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "因……的過犯"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我百姓"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "那擊打"
+    },
+    {
+      "surface": "למו",
+      "gloss": "臨到了他們"
+    }
+  ],
+  "timestamp": "2026-10-16T07:28:55.502742282Z",
+  "model": "glm-5.3"
+}

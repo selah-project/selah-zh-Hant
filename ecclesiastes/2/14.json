@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 2:14",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מקרה／יקרה",
+      "rationale": "名詞「際遇」與動詞「臨到」同根雙關，中文以「際遇—臨到」勉強保留。"
+    },
+    {
+      "kind": "addition",
+      "subject": "我",
+      "rationale": "「我也知道」的「我」承接前文敘事者，中文需補足主語。"
+    }
+  ],
+  "translation": "智慧人的眼在他頭上，愚昧人在黑暗中行走；我也知道，同一件際遇必臨到他們全體 ⟨את⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "80412e64eaa0814d410647e55b2f727041e35597ab6af455a2f3d881d43b22c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/2\/13-16.1792146977685.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החכם",
+      "gloss": "智慧人"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "他的眼"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "在他頭上"
+    },
+    {
+      "surface": "והכסיל",
+      "gloss": "而愚昧人"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "在黑暗中"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "行走"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "我也知道"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "שמקרה",
+      "gloss": "際遇"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "同一件"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "必臨到"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們全體"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "他們全體"
+    }
+  ],
+  "timestamp": "2026-10-16T10:36:17.686407015Z",
+  "model": "glm-5.3"
+}

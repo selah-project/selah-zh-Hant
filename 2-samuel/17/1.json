@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 17:1",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "一萬二千人",
+      "rationale": "亞希多弗點出精確兵力數目——一萬二千人。"
+    },
+    {
+      "kind": "addition",
+      "subject": "「說」後之冒號引號",
+      "rationale": "原文僅有ויאמר，中文引語標點為譯入語所需。"
+    }
+  ],
+  "translation": "亞希多弗對押沙龍說：「請容我挑選一萬二千人，我要起來，今夜追趕大衛。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c5265f5c8454ac1fd503e1efb1042473f5112752bd36afd919893792c0b5e837",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/17\/1-4.1792132067717.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "亞希多弗"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "押沙龍"
+    },
+    {
+      "surface": "אבחרה",
+      "gloss": "容我挑選"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ואקומה",
+      "gloss": "我要起來"
+    },
+    {
+      "surface": "וארדפה",
+      "gloss": "我要追趕"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "在……之後"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "今夜"
+    }
+  ],
+  "timestamp": "2026-10-16T06:27:47.718500238Z",
+  "model": "glm-5.3"
+}

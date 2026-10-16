@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 57:18",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ואשלם",
+      "rationale": "字根שלם本義「使完全、償還」，譯作「賜給」失其償還之意。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ואנחהו",
+      "rationale": "或譯「使他再得安息」，字根נוח與14節「安息之路」呼應。"
+    }
+  ],
+  "translation": "他的道路，我看見了，我必醫治他；我必引導他，將安慰賜給他和他的哀哭者。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4ea6d513f3e08da37aca3c846d55a885418a37f3eb838b416de2fd94e6a4f465",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/57\/17-20.1792135805316.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרכיו",
+      "gloss": "他的道路"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我看見了"
+    },
+    {
+      "surface": "וארפאהו",
+      "gloss": "我必醫治他"
+    },
+    {
+      "surface": "ואנחהו",
+      "gloss": "我必引導他"
+    },
+    {
+      "surface": "ואשלם",
+      "gloss": "賜給"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "安慰"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給他"
+    },
+    {
+      "surface": "ולאבליו",
+      "gloss": "和他的哀哭者"
+    }
+  ],
+  "timestamp": "2026-10-16T07:30:05.317555303Z",
+  "model": "glm-5.3"
+}

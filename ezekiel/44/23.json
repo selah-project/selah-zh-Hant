@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בין…ל…",
+      "rationale": "希伯來文「之間……與……」的分別慣用語，中文以「分辨……與……」表達"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יודעם",
+      "rationale": "字面「使他們知道」，中文補「的分別」以合語感"
+    }
+  ],
+  "translation": "他們要教導 ⟨את⟩ 我的民分辨聖與俗，使他們知道潔淨與不潔淨的分別。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7ab6c9c89820e84f6d4d11774b0556f74dd025635a126514b61ea4e8abfd18a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/44\/21-24.1792139232500.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "我的民"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的民"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "教導"
+    },
+    {
+      "surface": "בין",
+      "gloss": "分辨"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "與俗"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "分別"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "不潔淨"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "與潔淨"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "使他們知道"
+    }
+  ],
+  "timestamp": "2026-10-16T08:27:12.501200677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 8:4",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "擄獲數字",
+      "rationale": "一千七百騎兵、二萬步兵、一百戰車——清點戰利。"
+    },
+    {
+      "kind": "crux",
+      "subject": "הרכב",
+      "rationale": "הרכב 字面是「戰車隊」；砍腿筋的對象是馬，故傳統譯法補「馬」（KJV、和合本）；歷代志上 18:4 作不同數字。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "砍斷腿筋",
+      "rationale": "עקר 本義是拔根，用於牲口即砍斷腿筋使其不能拉車，中文取此具體畫面。"
+    }
+  ],
+  "translation": "大衛從他那裡擄獲了一千七百名騎兵、二萬名步兵；大衛砍斷 ⟨את⟩ 所有的戰車馬的腿筋，只從中留下一百輛戰車⟨的馬⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ea9f104a90429fb30e53e49e39483cd0d351f76a1e611f435127358209d57e50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/8\/1-4.1792131875250.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "擄獲了"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "從他那裡"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "一千"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "騎兵"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "步行的"
+    },
+    {
+      "surface": "ויעקר",
+      "gloss": "砍斷腿筋"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所有的戰車馬"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "戰車"
+    },
+    {
+      "surface": "ויותר",
+      "gloss": "留下"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "從其中"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "一百"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "戰車"
+    }
+  ],
+  "timestamp": "2026-10-16T06:24:35.255422446Z",
+  "model": "glm-5.3"
+}

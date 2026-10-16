@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשר ליראתך",
+      "rationale": "歷代譯本分歧：「那與敬畏你有關的話」（JPS、KJV旁支）、「為要使人敬畏你」（BSB）、「因他敬畏你」（Geneva）；希伯來文不定詞構句「ליראתך」最直接指話語的目的或所屬"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨那⟩",
+      "rationale": "中文關係句需要指示詞連接，希伯來文 אשר 本身承擔此功能"
+    }
+  ],
+  "translation": "求你向你的僕人堅立你的話，就是⟨那⟩使你受敬畏的話。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a1f583fa8c5d10e9a2465be7b2973498b24ae4ae21f3a20071c244c9ee4ecd8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/37-40.1792144810339.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "求你堅立"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "向你的僕人"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "你的話"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "使你受敬畏"
+    }
+  ],
+  "timestamp": "2026-10-16T10:00:10.340622557Z",
+  "model": "glm-5.3"
+}

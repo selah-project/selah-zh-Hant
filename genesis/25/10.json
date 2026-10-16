@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是…的",
+      "rationale": "中文判斷句需動詞「是」，希伯來文的關係句無動詞。"
+    }
+  ],
+  "translation": "那田是亞伯拉罕從赫的子孫那裡買來的；亞伯拉罕和他妻子撒拉都葬在那裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "de05087e2ce424be23747e2d43c6088eb990d1b5c91fc9e32be64c963da95786",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/25\/9-12.1792125039632.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "那田"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "（那田）"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "買了"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "從⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "חת",
+      "gloss": "赫"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "在那裡"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "葬了"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "和撒拉"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "他妻子"
+    }
+  ],
+  "timestamp": "2026-10-16T04:30:39.633495332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "היטיבו נגן",
+      "rationale": "「彈得美好」vs 傳統「彈得巧妙」，יָטַב 使役＝使之美好"
+    },
+    {
+      "kind": "substitution",
+      "subject": "歡呼之聲",
+      "rationale": "תרועה 亦指戰鬥的吶喊或號角聲"
+    }
+  ],
+  "translation": "要向他唱新歌，彈得美好，以歡呼之聲演奏。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f9ffe45fb34d931b0cbbb06d4112e266f1b27b006bca2088bcc7503e8e40fae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/33\/1-4.1792143651324.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "唱"
+    },
+    {
+      "surface": "לו",
+      "gloss": "向他"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "新"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "彈得美好"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "演奏"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "以歡呼之聲"
+    }
+  ],
+  "timestamp": "2026-10-16T09:40:51.325289176Z",
+  "model": "glm-5.3"
+}

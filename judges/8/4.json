@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 8:4",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "此處 אתו 是「與他同在」的介詞用法（H854），非受詞記號，中文以「與他同在」承載"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עֲיֵפִים וְרֹדְפִים",
+      "rationale": "「疲乏，卻仍追趕」兩詞並置，頭韻式的張力（疲乏／追趕）是本節的力量所在"
+    }
+  ],
+  "translation": "基甸到了約旦河，就過河——他和與他同在的三百人——疲乏，卻仍追趕。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "37d4d622d2a82eab9d45e2026f919f5c81d33a0171484b1baeac7202322a1d72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/8\/1-4.1792130340870.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "…到了"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "基甸"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "約旦河"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "過河"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "和三"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ 與他同在",
+      "marks": "他"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "疲乏"
+    },
+    {
+      "surface": "ורדפים",
+      "gloss": "卻仍追趕"
+    }
+  ],
+  "timestamp": "2026-10-16T05:59:00.871608956Z",
+  "model": "glm-5.3"
+}

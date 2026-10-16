@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "細拉",
+      "rationale": "סלה為音樂暫停記號，音譯為細拉，不譯義"
+    },
+    {
+      "kind": "idiom",
+      "subject": "勝於",
+      "rationale": "希伯來文以מן（從、離開）作比較，中譯作勝於"
+    }
+  ],
+  "translation": "你愛惡勝於善，愛謊言勝於⟨說⟩公義。細拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "666400d223fe6cf286c73de32d4fbe9fba816680b00151162d82d6ed1e0aac97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/52\/5-8.1792143952205.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "你愛"
+    },
+    {
+      "surface": "רע",
+      "gloss": "惡"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "勝於善"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "謊言"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "勝於⟨說⟩"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉。"
+    }
+  ],
+  "timestamp": "2026-10-16T09:45:52.205593553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "עפאים",
+      "rationale": "樹枝一詞僅見於此處（複數形），字面為「遮蔽樹的東西」"
+    },
+    {
+      "kind": "alternative",
+      "subject": "發出聲音",
+      "rationale": "יתנו קול 字面「給出聲音」，即鳥鳴歌唱"
+    }
+  ],
+  "translation": "在它們之上，天空的飛鳥居住，從枝葉之間發出聲音。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "80d3b1a0234660459e982c38d9a0f6f7a7384580134b29da2afea89f572060ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/104\/9-12.1792144582790.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "在它們之上"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "飛鳥"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天空的"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "居住"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "從…之間"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "枝葉"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "發出"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲音"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:22.791751302Z",
+  "model": "glm-5.3"
+}

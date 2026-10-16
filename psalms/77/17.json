@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 77:17",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ראוך…ראוך",
+      "rationale": "「看見了你」重複兩次，希伯來文的疊句強調眾水的驚惶，中文保留重複。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "翻騰疼痛",
+      "rationale": "יחילו 源自 חוּל「旋繞、扭動」，指陣痛般的翻騰；和合本譯「懼怕」偏向情緒。"
+    }
+  ],
+  "translation": "眾水看見了你，以羅欣啊，眾水看見了你，就翻騰疼痛；深淵也戰兢。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "237a6ef3212480a073053ad2f6687c93a9331e9aa81b618ee548636cfbb71808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/77\/17-20.1792144236043.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "看見了你"
+    },
+    {
+      "surface": "מים",
+      "gloss": "眾水"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ראוך",
+      "gloss": "看見了你"
+    },
+    {
+      "surface": "מים",
+      "gloss": "眾水"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "翻騰疼痛"
+    },
+    {
+      "surface": "אף",
+      "gloss": "也"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "戰兢"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "深淵"
+    }
+  ],
+  "timestamp": "2026-10-16T09:50:36.044022269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נתתי \/ וישנאה",
+      "rationale": "「我給了」與「他恨她」並置，法律的給予對人性的恨惡，中文保留對比"
+    },
+    {
+      "kind": "you",
+      "subject": "對長老們",
+      "rationale": "父親在城門口長老面前的正式陳詞"
+    }
+  ],
+  "translation": "少女的父親對長老們說：「我把 ⟨את⟩ 我的女兒給了這人為妻，他卻恨她。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0ebf874e02f770a54ec02abe03b2b8af099a467e4496750736318a7a2465d181",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/22\/13-16.1792129027899.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "父親"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "少女的"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "長老們"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的女兒"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "我的女兒"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我給了"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "給這人"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "為妻"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "他卻恨她"
+    }
+  ],
+  "timestamp": "2026-10-16T05:37:07.899997391Z",
+  "model": "glm-5.3"
+}

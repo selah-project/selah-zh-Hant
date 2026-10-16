@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גדול／גדול",
+      "rationale": "同一詞重複：殿「甚大」因為以羅欣「偉大」——大小之名相扣，中文以「甚大／偉大」存其呼應"
+    },
+    {
+      "kind": "substitution",
+      "subject": "האלהים",
+      "rationale": "帶定冠詞的複數指眾神明，譯「一切神明」而非單數的「神」"
+    }
+  ],
+  "translation": "我所要建造的殿宇甚大，因為我們的以羅欣比一切神明偉大。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "33b59f29e34947e154aca152ed16c330b1a62d7eada842dedc9c7f067b303845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/2\/1-4.1792149118269.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "而這殿宇"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "建造"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "甚大"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "偉大"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "我們的以羅欣"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "比一切"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "神明"
+    }
+  ],
+  "timestamp": "2026-10-16T11:11:58.270244972Z",
+  "model": "glm-5.3"
+}

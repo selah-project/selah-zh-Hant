@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מות תמתון",
+      "rationale": "不定式絕對加動詞的同根重疊（『死——你們必死』），蛇把它倒過來否定；中文以「決不一定死」勉強保留其力度。"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא מות תמתון",
+      "rationale": "蛇是全然否認（『你們必不死』）還是淡化（『不一定死』），譯本分歧。"
+    },
+    {
+      "kind": "you",
+      "subject": "to 女人",
+      "rationale": "蛇直接否定的話語，與創2:17的原文吩咐正面牴觸。"
+    }
+  ],
+  "translation": "蛇對女人說：「你們決不一定死。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a700f949133974de2274d0c924c426bc0771e9a00f90f5959b103eeacfe55278",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/3\/1-4.1792124580000.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "牠說"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "蛇"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "女人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "מות",
+      "gloss": "〈一定〉"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "死"
+    }
+  ],
+  "timestamp": "2026-10-16T04:23:00.001118968Z",
+  "model": "glm-5.3"
+}

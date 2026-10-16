@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 33:18",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "你／啊",
+      "rationale": "中文呼格需要加「哪／啊」與「你」，希伯來文名詞本身無人稱代詞。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "בצאתך",
+      "rationale": "「出外」或指經商航運的出行（參創 49:13 西布倫住海口）；此處取字面。"
+    }
+  ],
+  "translation": "論西布倫，他說：西布倫哪，你出外可以歡喜；以薩迦啊，在你帳棚裡可以快樂。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "45a4f86ff8126d6224031df365beb6b1ec601ca080e1ac3c536cbf075c024bf4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/33\/17-20.1792129290920.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולזבולן",
+      "gloss": "論西布倫"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "西布倫哪"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "你出外"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "以薩迦啊"
+    },
+    {
+      "surface": "באהליך",
+      "gloss": "在你帳棚裡"
+    }
+  ],
+  "timestamp": "2026-10-16T05:41:30.920806348Z",
+  "model": "glm-5.3"
+}

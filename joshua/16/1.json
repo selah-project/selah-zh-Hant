@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 16:1",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "從耶利哥上到伯特利",
+      "rationale": "המדבר 與 בהר 的語序各譯本分歧：曠野在東、上到山地至伯特利（KJV\/ASV），或上到曠野直到伯特利（JPS）。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "籤",
+      "rationale": "本段為拈鬮分地的邊界測量記述。"
+    },
+    {
+      "kind": "addition",
+      "subject": "的、延展",
+      "rationale": "中文需結構助詞與動詞以成句，希伯來文僅用地名並列。"
+    }
+  ],
+  "translation": "約瑟子孫的籤從約旦河、耶利哥對面〈的〉水，向東〈延展〉，就是那曠野，從耶利哥上到伯特利〈的〉山地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5f31944a0008ab8d63a520be34c96a0693c2688f800e1743a12e8627e0675167",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/16\/1-4.1792129813354.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "出去了"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "籤"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "……的子孫"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "מירדן",
+      "gloss": "從約旦河"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "耶利哥"
+    },
+    {
+      "surface": "למי",
+      "gloss": "〈的〉水"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "耶利哥"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "向東"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "那曠野"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上到"
+    },
+    {
+      "surface": "מיריחו",
+      "gloss": "從耶利哥"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "在山地"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯"
+    },
+    {
+      "surface": "אל",
+      "gloss": "特耳"
+    }
+  ],
+  "timestamp": "2026-10-16T05:50:13.354569315Z",
+  "model": "glm-5.3"
+}

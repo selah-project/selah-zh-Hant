@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הצבאות",
+      "rationale": "此處指軍隊（複數），非聖號「萬軍之雅威」的 צבאות；譯「軍隊」不譯「萬軍」"
+    },
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "中文需補代詞指明是雅朔班"
+    }
+  ],
+  "translation": "他屬法勒斯的子孫，是眾軍隊長官的首領，屬第一月的班。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7457e84ce4292d8094b74b6dddfd3ee06a3ab4847d01b152933f00ac85d65b00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/27\/1-4.1792149003790.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "屬"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "法勒斯"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "首領"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "眾"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "長官"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "軍隊"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "屬第一月的班"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "第一"
+    }
+  ],
+  "timestamp": "2026-10-16T11:10:03.791687619Z",
+  "model": "glm-5.3"
+}

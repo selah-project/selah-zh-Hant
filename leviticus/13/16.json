@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨若⟩",
+      "rationale": "כִי 在此引出假設條件，中文補『若』以成句；原文的假設語氣由語境承擔。"
+    }
+  ],
+  "translation": "或是那活肉轉回又變為白，他就要來到祭司那裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5ad1b29ac8e96399573dfb9b157c5675ed88159750ad6ea54d145a21e503c971",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/13\/13-16.1792126929362.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "或是"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨若⟩"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "轉回"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "那肉"
+    },
+    {
+      "surface": "החי",
+      "gloss": "活的"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "又變為"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "白"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "就要來到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    }
+  ],
+  "timestamp": "2026-10-16T05:02:09.363242717Z",
+  "model": "glm-5.3"
+}

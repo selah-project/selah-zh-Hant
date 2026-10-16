@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "患漏症的人",
+      "rationale": "הַזָּב 是帶定冠詞的分詞「那流溢者」，指前一節所描述的人，中文以短語譯出。"
+    },
+    {
+      "kind": "addition",
+      "subject": "張／件",
+      "rationale": "中文量詞為語法所需，希伯來文無。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישכב／ישב",
+      "rationale": "「躺臥」（שכב）與「坐」（ישב）兩動詞音形相近，構成本節的平行結構。"
+    }
+  ],
+  "translation": "患漏症的人所躺臥的每一張床，都不潔淨；他所坐的每一件器具，也都不潔淨。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f7d8388bac6284fb4da5c44f4b5e5a5d5c612bb1133e19fbf128272f46f0c857",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/15\/1-4.1792127005270.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "每一"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "床"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "躺臥"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "在其上"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "患漏症的人"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "不潔淨"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和每一"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "器具"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "在其上"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "不潔淨"
+    }
+  ],
+  "timestamp": "2026-10-16T05:03:25.272965987Z",
+  "model": "glm-5.3"
+}

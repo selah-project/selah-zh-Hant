@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "圍困",
+      "rationale": "צרתני 源自 צור「壓迫、束緊」，字面是「你把我壓窄」；「圍困」保留困住的圖像"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "在後、在前",
+      "rationale": "אחור וקדם 一對方位詞並列，首尾夾擊的對仗結構"
+    }
+  ],
+  "translation": "在後、在前，你圍困我；你把你的手掌按在我身上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/139\/5-8.1792145041249.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "在後"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "和在前"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "你圍困我"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "你放置"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "在我身上"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "你的手掌"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:01.250795888Z",
+  "model": "glm-5.3"
+}

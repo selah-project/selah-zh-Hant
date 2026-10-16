@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 19:2",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הנה",
+      "rationale": "「看哪」在中文對話開頭生硬，融入語氣詞未直譯"
+    },
+    {
+      "kind": "crux",
+      "subject": "אדני",
+      "rationale": "羅得對兩位使者用單數「我主」還是複數「我主們」，抄本與譯本有別；此處譯單數形"
+    }
+  ],
+  "translation": "他說：「我主啊，請轉到你僕人的家裡來，住一夜，洗洗腳，清早起來再走你們的路。」他們說：「不，我們要在街上過夜。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6efa65cf530f30f04d8a650cc289a70ae07a6438603545afed93701059c55750",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/19\/1-4.1792124887063.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "我主"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "轉"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "עבדכם",
+      "gloss": "你僕人"
+    },
+    {
+      "surface": "ולינו",
+      "gloss": "住一夜"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "洗"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "你們的腳"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "清早起來"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "走"
+    },
+    {
+      "surface": "לדרככם",
+      "gloss": "你們的路"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "他們說"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨因為⟩"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "在街上"
+    },
+    {
+      "surface": "נלין",
+      "gloss": "過夜"
+    }
+  ],
+  "timestamp": "2026-10-16T04:28:07.063946464Z",
+  "model": "glm-5.3"
+}

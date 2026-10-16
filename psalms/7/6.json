@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 是氣息／生命體，非不朽的「靈魂」。"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "音樂記號，音譯為「細拉」，意義不確定。"
+    }
+  ],
+  "translation": "願仇敵追趕我的性命，並且追上，將我的生命踐踏在地，使我的榮耀住於塵土之中。細拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fa6cabe524eb8ce65b1b736d8fc7760c35142e0a7ec8224f42d2e20b9181d70b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/7\/5-8.1792143271021.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "願……追趕"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "仇敵"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "並且追上"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "踐踏"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "在地"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "我的生命"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "我的榮耀"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "於塵土"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "使……住"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-10-16T09:34:31.022375090Z",
+  "model": "glm-5.3"
+}

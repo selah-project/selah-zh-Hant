@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 28:18",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "身腹",
+      "rationale": "בטן字面是肚腹、子宮，此處指後代"
+    },
+    {
+      "kind": "crux",
+      "subject": "עשתרות",
+      "rationale": "或作『羊羔、幼畜』（與迦南女神阿施塔特的關聯引起爭議），今取『繁殖／所生的』"
+    }
+  ],
+  "translation": "受咒詛的是你身腹的果子和你土地的果子，你牛群新生的和你羊群的繁殖。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f0defbafbbda89eae1d0eb94f35ff549b7f66c3fb06ecb3008fbab28b90dee60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/28\/17-20.1792129253971.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "受咒詛"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "果子"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "你身腹的"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "和…果子"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "你土地的"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "新生的"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "你牛群"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "和…繁殖"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "你羊群的"
+    }
+  ],
+  "timestamp": "2026-10-16T05:40:53.971760549Z",
+  "model": "glm-5.3"
+}

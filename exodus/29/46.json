@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 29:46",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他們",
+      "rationale": "אתם 為受詞記號⟨את⟩複數形，指向「他們」，中文補出受詞"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "gloss": "引述詞無獨立中文對應，以冒號代替"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשכני",
+      "rationale": "與上節「我要住」（ושכנתי）及會幕同根，出埃及的目的即雅威同住"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列人",
+      "rationale": "「他們要知道」指向以色列全会众的认知宣告"
+    }
+  ],
+  "translation": "他們要知道：我是雅威，他們的以羅欣，是我把⟨את⟩他們從埃及地領出來，為要住在他們中間。我是雅威，他們的以羅欣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f8580e6f315854448daddb113835a796f3edbc61938de5d885a444e067aca3fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/29\/45-46.1792126304732.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "他們要知道"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…（引述詞）"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "他們的以羅欣"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "是…的那位"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "我把…領出來"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "他們"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "從…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "לשכני",
+      "gloss": "為要住"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "在他們中間"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "他們的以羅欣"
+    }
+  ],
+  "timestamp": "2026-10-16T04:51:44.732653419Z",
+  "model": "glm-5.3"
+}

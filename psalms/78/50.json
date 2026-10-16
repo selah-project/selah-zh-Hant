@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש為「氣息之體、生命活力」，非不朽的靈魂"
+    },
+    {
+      "kind": "crux",
+      "subject": "לאפו",
+      "rationale": "「為他的怒氣」（怒氣是行路者）或「藉他的怒氣」；希伯來以怒氣為開路者，中文保留其喻象"
+    }
+  ],
+  "translation": "他為自己的怒氣鋪平道路，沒有攔阻死亡離開他們的性命，又把他們的生命交給瘟疫。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e5c7cce20cd82460be456a416232e884abb74c42f60b5975ddb9b876424937ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/78\/49-52.1792144331143.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "他鋪平"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "道路"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "為自己的怒氣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "攔阻"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "從死亡"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "他們的性命"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "而他們的生命"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "給瘟疫"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "交出"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:11.144605882Z",
+  "model": "glm-5.3"
+}

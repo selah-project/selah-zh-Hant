@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "連接詞כי在此引出知識的內容，中文以破折號代之"
+    },
+    {
+      "kind": "idiom",
+      "subject": "你的手",
+      "rationale": "יד指能力與作為，非字面肢體"
+    }
+  ],
+  "translation": "願他們知道這是你的手——是你，雅威，做了這事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b36e15f242b8f3ef42b00063f66bc60f70bf1ed4009aa7c9406df4c942a989ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/109\/25-28.1792144713847.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "願他們知道"
+    },
+    {
+      "surface": "כי",
+      "gloss": "——"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "是你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "做了這事"
+    }
+  ],
+  "timestamp": "2026-10-16T09:58:33.848578150Z",
+  "model": "glm-5.3"
+}

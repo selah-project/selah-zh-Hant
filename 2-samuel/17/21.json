@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 17:21",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "二人",
+      "rationale": "希伯來文僅用動詞複數「他們上來」，中文補出敘事所指的亞希瑪斯與約拿單"
+    },
+    {
+      "kind": "substitution",
+      "subject": "井",
+      "rationale": "הבאר 可指井或坑；敘事中二人藏身其中，譯「井」"
+    },
+    {
+      "kind": "you",
+      "subject": "對大衛說",
+      "rationale": "使者直接向大衛說話，命令式「起來、渡過」指向大衛"
+    }
+  ],
+  "translation": "他們離開以後，二人就從井裡上來，去告訴大衛王，對大衛說：「起來，趕快渡過 ⟨את⟩ 水，因為亞希多弗已經這樣謀算攻擊你們了。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d7ecdda80f8bfca4f13817209edcb061966a2b15561bea0ab5b6517c19d8cbc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/17\/21-24.1792132111641.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生了"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "以後"
+    },
+    {
+      "surface": "לכתם",
+      "gloss": "他們離開"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "就上來"
+    },
+    {
+      "surface": "מהבאר",
+      "gloss": "從井裡"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "去"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "告訴"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "說"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "起來"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "渡過"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "趕快"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "水"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "這樣"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "謀算"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "攻擊你們"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "亞希多弗"
+    }
+  ],
+  "timestamp": "2026-10-16T06:28:31.642344091Z",
+  "model": "glm-5.3"
+}

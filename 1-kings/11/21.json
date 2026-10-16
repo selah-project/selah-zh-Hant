@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 11:21",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "與他列祖同睡",
+      "rationale": "שכב עם אבתיו 是「死」的希伯來婉語，按字面保留「同睡」之形"
+    },
+    {
+      "kind": "addition",
+      "subject": "軍隊",
+      "rationale": "הצבא 與 שר（元帥）連用，中文以「元帥」一詞承擔，צבא 的「軍隊」義補出"
+    },
+    {
+      "kind": "substitution",
+      "subject": "我本地",
+      "rationale": "ארצי 字面是「我的地／我的國土」，此處按語境作「家鄉」解"
+    }
+  ],
+  "translation": "哈達在埃及聽見大衛與他列祖同睡，又聽見元帥約押死了，哈達就對法老說：「請打發我走，我好回我本地去。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "50e44149a296b467b4feaeb0da6958188ba239c2641611acbd37e758cbc065c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/11\/21-24.1792132992706.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והדד",
+      "gloss": "哈達"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "在埃及"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨說⟩"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "同睡"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "עם",
+      "gloss": "與"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "他列祖"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "又聽見"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死了"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "שר",
+      "gloss": "元帥"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "軍隊"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "就說"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "哈達"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "請打發我走"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "我好去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "回"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "我本地"
+    }
+  ],
+  "timestamp": "2026-10-16T06:43:12.706729070Z",
+  "model": "glm-5.3"
+}

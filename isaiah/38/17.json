@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 38:17",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הנה לשלום מר לי מר",
+      "rationale": "眾譯本分歧：『為平安我受大苦』（KJV\/JPS）對『他使我的苦變為平安』（YL T）對『比平安更苦』——本譯取第一讀法。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מר……מר",
+      "rationale": "同詞根重複（苦上加苦），中文以『苦楚』『〈加〉苦』對應。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש是氣息、生命之力，非不朽的靈魂。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "拋在背後",
+      "rationale": "希伯來成語：完全不再看顧；照字面保留。"
+    }
+  ],
+  "translation": "看哪，為平安⟨我遭遇⟩了苦楚；但你憐愛我的性命，使它脫離毀滅之坑，因為你已將我一切的罪拋在你背後。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e42248b4e11e36e1eec30d070329c790124e1c7b6c6fb9559c520eea99a7e4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/38\/17-20.1792135289928.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "為平安"
+    },
+    {
+      "surface": "מר",
+      "gloss": "苦楚"
+    },
+    {
+      "surface": "לי",
+      "gloss": "〈我遭遇〉"
+    },
+    {
+      "surface": "מר",
+      "gloss": "〈加〉苦"
+    },
+    {
+      "surface": "ו אתה",
+      "gloss": "但你"
+    },
+    {
+      "surface": "חשקת",
+      "gloss": "憐愛"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "毀滅之坑"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "〈脫離〉毀壞"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "השלכת",
+      "gloss": "你已拋"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "在……之後"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "你的背"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切的"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "罪"
+    }
+  ],
+  "timestamp": "2026-10-16T07:21:29.928931213Z",
+  "model": "glm-5.3"
+}

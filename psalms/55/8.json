@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "音樂記號「細拉」（懸止），依慣例音譯保留，不作翻譯"
+    },
+    {
+      "kind": "alternative",
+      "subject": "曠野",
+      "rationale": "מדבר 本義是放牧的曠野草地，不必然是荒漠"
+    }
+  ],
+  "translation": "看哪，我要遠遠逃遁，投宿在曠野。細拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5ae239ef97c42c3352964e5516d57741f85c1846c41c65d3502152908a7afc05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/55\/5-8.1792143924542.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "遠遠"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "逃遁"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "投宿"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "在曠野"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-10-16T09:45:24.543669881Z",
+  "model": "glm-5.3"
+}

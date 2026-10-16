@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תרומות",
+      "rationale": "此字既可指獻上的禮物也可指勒索的貢物； context是負面的，故譯「貢物」而非奉獻"
+    },
+    {
+      "kind": "addition",
+      "subject": "它",
+      "rationale": "יהרסנה的詞尾「它」指前述大地，中文以代詞重現"
+    }
+  ],
+  "translation": "君王憑公義使大地堅立；收受貢物的人卻毀壞它。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2b8336082e41c1b0d1af0495e2a2ea5050121a3e7d3fea4beab8ffad2195df0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/29\/1-4.1792145703108.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "君王"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "憑公義"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "使……堅立"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "人"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "貢物"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "毀壞它"
+    }
+  ],
+  "timestamp": "2026-10-16T10:15:03.109563865Z",
+  "model": "glm-5.3"
+}

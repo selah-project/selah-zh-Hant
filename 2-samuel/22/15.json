@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 22:15",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "閃電",
+      "rationale": "ברק 直譯為閃電，是雅威的武器之一"
+    },
+    {
+      "kind": "alternative",
+      "subject": "׃擾亂",
+      "rationale": "ויהמם 意為『使震動、使騷亂』，和合本譯『擾亂了』，亦可作『使他們潰亂』"
+    }
+  ],
+  "translation": "他射出箭來，使敵人四散；發出閃電，擾亂他們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "33cfa62fbff39a9da83baa8367649746eb406fdb54efda4762c49266fb25f763",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/22\/13-16.1792132341431.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "射出"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "箭"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "使四散"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "閃電"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "擾亂他們"
+    }
+  ],
+  "timestamp": "2026-10-16T06:32:21.432441287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "那是",
+      "rationale": "希伯來文名詞句無動詞，中文需繫詞"
+    },
+    {
+      "kind": "idiom",
+      "subject": "父親的下體",
+      "rationale": "「揭露某人的下體」= 與其妻同房；妻的下體算為丈夫的下體，屬同一委婉語系"
+    }
+  ],
+  "translation": "你父親之妻的下體，你不可揭露；那是你父親的下體。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a7fa3d19689258b4b6bc7d2bdc453037a605d0e8d68faa23090dc3c532fca4a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/18\/5-8.1792127026477.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "下體"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "……之妻"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你父親的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "你揭露"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "下體"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你父親的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "那"
+    }
+  ],
+  "timestamp": "2026-10-16T05:03:46.478835911Z",
+  "model": "glm-5.3"
+}

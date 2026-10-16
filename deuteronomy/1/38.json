@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 1:38",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ינחלנה",
+      "rationale": "動詞「使他承受產業」帶指示後綴「她」（指那地）；中文補「那地」以明確受詞。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהושע",
+      "rationale": "約書亞之名與「他必使承受為業」（ינחל）同節並列——名字（雅威是拯救）與使命呼應。"
+    }
+  ],
+  "translation": "嫩的兒子約書亞，那站在你面前的人，他必進到那裏；⟨אתו⟩ 他你要堅固，因為他必使 ⟨את⟩ 以色列承受那地為業。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5ec63513b929aed0e2a2943707b534b72172f738d9b31a4de4b8bd3f85eebce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/1\/37-40.1792128491864.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…的兒子"
+    },
+    {
+      "surface": "נון",
+      "gloss": "嫩"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "那站着的"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "在你面前"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "必進入"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "到那裏"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "約書亞（他）"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "你要堅固"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "ינחלנה",
+      "gloss": "必使…承受那地為業"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T05:28:11.864823571Z",
+  "model": "glm-5.3"
+}

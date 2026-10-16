@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "必湧出",
+      "rationale": "יפרצו 直譯「爆裂而出」，諸譯本作溢出或迸裂，字面的爆裂感被淡化"
+    },
+    {
+      "kind": "addition",
+      "subject": "這樣",
+      "rationale": "承接上節的連接詞 ו，中文以「這樣」表達結果"
+    }
+  ],
+  "translation": "這樣，你的倉房必滿溢豐足，你的酒池必湧出新酒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "67000edac1b2e261e6266bd43e854c53d60eeb7b93ec42aad0a577fb6141487b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/3\/10-11.1792149942259.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "必滿溢"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "你的倉房"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "豐足"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "新酒"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "你的酒池"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "必湧出"
+    }
+  ],
+  "timestamp": "2026-10-16T11:25:42.259523388Z",
+  "model": "glm-5.3"
+}

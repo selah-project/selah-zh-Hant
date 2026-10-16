@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אשרי…אשרי",
+      "rationale": "本節以אשרי（有福啊）疊呼開頭，平行的祝福句式；中文以「有福了」重複保留。"
+    },
+    {
+      "kind": "you",
+      "subject": "對王",
+      "rationale": "女王繼續直接向所羅門說話，全節為直接引語中的稱頌。"
+    }
+  ],
+  "translation": "你的人有福了！你的這些僕人有福了！他們常在你面前侍立，聽⟨את⟩你的智慧。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "16bc6228d1d334220e56b8a85afcb5b76a73bc9f5c6d8ce01aeac43850a2ac44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/10\/5-8.1792132849786.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "有福了"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "你的人"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "有福了"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "你的僕人"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "侍立的"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "在你面前"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "常"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "聽…的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的智慧"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "你的智慧"
+    }
+  ],
+  "timestamp": "2026-10-16T06:40:49.787984615Z",
+  "model": "glm-5.3"
+}

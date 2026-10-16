@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "願",
+      "rationale": "原文為名詞短語陳述，中文以「願」帶出祈願語氣"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "音樂記號，音譯為「細拉」，不譯義"
+    }
+  ],
+  "translation": "救恩屬於雅威；願你的祝福臨到你的百姓。細拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1e5256742b8da765fc6a8e55eeb049274ecfd9ef0927008167d0942e4b06c099",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/3\/9-9.1792143167180.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "屬於雅威"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "救恩"
+    },
+    {
+      "surface": "על",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "你的祝福"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-10-16T09:32:47.181030348Z",
+  "model": "glm-5.3"
+}

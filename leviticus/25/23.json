@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 25:23",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "賣到滅沒",
+      "rationale": "לצמתת 意為『到被剪除』——絕賣、永賣；各譯本作『永遠』『perpetuity』"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列人",
+      "rationale": "雅威直接向百姓說話：地是我的，你們是寄居者"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גרים ותושבים",
+      "rationale": "寄居者／定居者的並置——對亞伯拉罕應許語言的回響（創 23:4）"
+    }
+  ],
+  "translation": "地不可賣到滅沒，因為地是我的；因為你們是與我同住的寄居者和旅居者。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "020bb7a7f7ff70852909841de2f58f655ca18b325424cfa578f5e56300c1465e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/25\/21-24.1792127292943.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "被賣"
+    },
+    {
+      "surface": "לצמתת",
+      "gloss": "到滅沒"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לי",
+      "gloss": "是我的"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "寄居者"
+    },
+    {
+      "surface": "ותושבים",
+      "gloss": "和旅居者"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "你們是"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "與我同住"
+    }
+  ],
+  "timestamp": "2026-10-16T05:08:12.944750101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "了",
+      "rationale": "中文時態助詞，希伯來文無對應"
+    }
+  ],
+  "translation": "亞哈死後，摩押背叛了以色列。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d4da3ecf09d8dbc7bdf118ca2bc3fa1fec0e9896447a31ce38e7567052c5a331",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/1\/1-4.1792133490933.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "背叛了"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…之後"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    }
+  ],
+  "timestamp": "2026-10-16T06:51:30.933898700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "在你前面先行",
+      "rationale": "לפניך 直譯『在你面前』，差派即先行之意，取自然中文"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ריב…ריב…ריב",
+      "rationale": "6:1–2三次『爭訟』的法庭框架在此由歷史救贖陳述作為答覆"
+    }
+  ],
+  "translation": "因為我將你從埃及地領上來，從奴僕之家救贖了你，又差派摩西、亞倫和米利暗在你前面先行。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9ad175fe4fb4690c9f177b589b370d6657e43313f3c45eb16c487a3d02116303",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/micah\/6\/1-4.1792142638177.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "將你領上來"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "從…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "從…之家"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "救贖了你"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "又差派"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "在你面前"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩西"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "和米利暗"
+    }
+  ],
+  "timestamp": "2026-10-16T09:23:58.179315019Z",
+  "model": "glm-5.3"
+}

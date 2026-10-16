@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אילותי",
+      "rationale": "אֱיָלוּת「力量」僅在此處出現於全塔納赫，與 אֵל（伊勒）同源。"
+    },
+    {
+      "kind": "you",
+      "subject": "向雅威",
+      "rationale": "詩人直接向雅威呼求，是本詩下半哀告轉向懇求的開端。"
+    }
+  ],
+  "translation": "至於你，雅威啊，不要遠離；我的力量啊，求你快快來幫助我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2ad92c003b3d9248353d1062d068ad310d7c65ad3e00ee28844db39ac4229a7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/22\/17-20.1792143424200.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "至於你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "遠離"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "我的力量"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "來幫助我"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "求你快快"
+    }
+  ],
+  "timestamp": "2026-10-16T09:37:04.202445579Z",
+  "model": "glm-5.3"
+}

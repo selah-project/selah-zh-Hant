@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משפט",
+      "rationale": "משפט 是判決、公正裁斷，此處譯「斷定」以保司法圖像，非泛指「公義」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבינו…יבינו",
+      "rationale": "同一動詞בין在兩行對仗重複，對比惡人與尋求者，中文保留重複"
+    }
+  ],
+  "translation": "惡人不明斷定，尋求雅威的人卻明白凡事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "70ab27c8be0155fcd212a6e8a3f6308fc4e267f9894af80499f5bbb4b777a040",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/28\/5-8.1792145699598.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "רע",
+      "gloss": "惡"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "明白"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "斷定"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "尋求……的人"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "明白"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡事"
+    }
+  ],
+  "timestamp": "2026-10-16T10:14:59.599179381Z",
+  "model": "glm-5.3"
+}

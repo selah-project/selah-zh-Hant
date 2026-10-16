@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זר",
+      "rationale": "或作「冠冕狀邊飾」；KJV「crown」，實為桌沿的鑲邊模塑，譯「邊飾」以存其物"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתו",
+      "rationale": "אתו 標記的受詞按上下文為桌子；中文以「純金」位置承接，另以記號指明"
+    }
+  ],
+  "translation": "他又包上 ⟨אתו⟩ 純金，並為它做了金邊環繞四周。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d1f098d9ff01c0d8835826ea1c57ffc66e76536add2355666f4aecf4bedf9d42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/37\/9-12.1792126539370.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "包上"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "純金（所包的桌子）"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "純"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "做了"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為它"
+    },
+    {
+      "surface": "זר",
+      "gloss": "邊飾"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "環繞四周"
+    }
+  ],
+  "timestamp": "2026-10-16T04:55:39.371127581Z",
+  "model": "glm-5.3"
+}

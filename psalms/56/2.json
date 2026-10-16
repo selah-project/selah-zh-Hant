@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "把我吞下",
+      "rationale": "שאף 本義是急促吸氣、張口吞嚥，譯作「吞吃」存其畫面"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לחם／ילחצני",
+      "rationale": "לחם（爭戰，與「麵包」同形）與לחץ（壓迫）音近相連，中文無法保留此雙聲"
+    },
+    {
+      "kind": "invitation",
+      "subject": "求告",
+      "rationale": "本節是向以羅欣發出的祈求，直接呼求的禱詞"
+    }
+  ],
+  "translation": "以羅欣（神）啊，求你恩待我，因為必死的人要把我吞下，終日爭戰、欺壓我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a38d85356925c49aedc5bc6ca629f47794193efb8e83720aad23df69d223b3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/56\/1-4.1792143961981.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "求你恩待我"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣（神）"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "把我吞下"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "必死的人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "終"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "爭戰"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "欺壓我"
+    }
+  ],
+  "timestamp": "2026-10-16T09:46:01.982730102Z",
+  "model": "glm-5.3"
+}

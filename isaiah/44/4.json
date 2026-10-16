@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בבין חציר",
+      "rationale": "בין 為「之間」（雙數構造）；或作「在草中」（如和合本），或依雙數讀作「兩叢草之間」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בבין",
+      "gloss": "בין 為「之間」的雙數形，指向兩邊之間的空隙，非普通介詞「在……中」"
+    }
+  ],
+  "translation": "他們必在兩草之中發生，如楊柳在水 stream 旁。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "396a7e0731e46733a07176e845cda5d3659e60453e1af09ccec3d6171d89d04a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/44\/1-4.1792135486819.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "他們必發生"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "在兩草之中"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "草"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "如楊柳"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……旁"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "水 stream 的"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-10-16T07:24:46.820297696Z",
+  "model": "glm-5.3"
+}

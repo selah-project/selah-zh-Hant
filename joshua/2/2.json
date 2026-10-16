@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 2:2",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "有人",
+      "rationale": "ויאמר 無主語，被動式『有人告訴』需中文補出主語。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "以色列人的兒子們",
+      "rationale": "מבני ישראל 直譯『以色列的眾子』，即以色列人。"
+    },
+    {
+      "kind": "secret",
+      "subject": "窺探",
+      "rationale": "לחפר 字面『挖掘、刺探』，本節行動本身屬隱密之事。"
+    }
+  ],
+  "translation": "有人向耶利哥王報告說：「看哪，今夜有以色列人的兒子們來到這裡，要窺探 ⟨את⟩ 那地。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0b0f666e3f034b920a791ad8224672373cb196a26dcc4d442d7247d5dd77e35a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/2\/1-4.1792129504676.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "有人報告說"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "向……王"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "耶利哥"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "有人"
+    },
+    {
+      "surface": "באו",
+      "gloss": "來了"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "來到這裡"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "今夜"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "……的兒子們中"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "要窺探"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "那地"
+    }
+  ],
+  "timestamp": "2026-10-16T05:45:04.677076564Z",
+  "model": "glm-5.3"
+}

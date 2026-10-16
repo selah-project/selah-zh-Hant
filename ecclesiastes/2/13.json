@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יתרון……כיתרון",
+      "rationale": "「長處」一詞重複兩次作平行對比，中文保留同詞重複。"
+    },
+    {
+      "kind": "addition",
+      "subject": "一樣",
+      "rationale": "中文比較句需要補出的連接語，希伯來文無此字。"
+    }
+  ],
+  "translation": "我，我看見智慧勝過愚昧，如同光勝過黑暗一樣有長處。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "80412e64eaa0814d410647e55b2f727041e35597ab6af455a2f3d881d43b22c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/2\/13-16.1792146977685.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "我看見"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "有"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "長處"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "מן",
+      "gloss": "勝過"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "愚昧"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "如同……的長處"
+    },
+    {
+      "surface": "האור",
+      "gloss": "光"
+    },
+    {
+      "surface": "מן",
+      "gloss": "勝過"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "黑暗"
+    }
+  ],
+  "timestamp": "2026-10-16T10:36:17.686155983Z",
+  "model": "glm-5.3"
+}

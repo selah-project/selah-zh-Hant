@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 47:14",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נֶפֶשׁ 本義為呼吸之活體、生命之力，非不朽靈魂。"
+    },
+    {
+      "kind": "crux",
+      "subject": "末句主語",
+      "rationale": "「沒有炭可取暖」一句，諸譯或指占星術士全然滅絕（連殘火也不留），或指火燒後無餘燼可坐；KJV 作 nor fire to sit before it。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "火焰之手",
+      "rationale": "מִיַּד לֶהָבָה「從火焰的手」＝從火焰的權勢中，希伯來以「手」表能力。"
+    }
+  ],
+  "translation": "看哪，他們已如碎稭，火焚燒了他們；他們不能救 ⟨את⟩ 自己的性命脫離火焰之手。沒有炭可以取暖，沒有火光可以坐在它面前。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0da6585cd1d76a77657cfd2424be659d396f0ab0e770e85b963d5844f3c3c9f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/47\/13-15.1792135526029.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "היו",
+      "gloss": "已如"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "碎稭"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "שרפתם",
+      "gloss": "焚燒了他們"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "能救"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自己的性命（נפשם）"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "性命"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "脫離……之手"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "火焰"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "גחלת",
+      "gloss": "炭"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "取暖"
+    },
+    {
+      "surface": "אור",
+      "gloss": "火光"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "坐"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "在它面前"
+    }
+  ],
+  "timestamp": "2026-10-16T07:25:26.030122389Z",
+  "model": "glm-5.3"
+}

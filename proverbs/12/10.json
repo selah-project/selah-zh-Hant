@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "生命",
+      "rationale": "נפש是氣息／生命之力，非不朽的「靈魂」"
+    },
+    {
+      "kind": "idiom",
+      "subject": "יודע",
+      "rationale": "字面「知道」，指切身關注體察，譯作顧惜"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רחמי…אכזרי",
+      "rationale": "「憐憫」與「殘忍」並置成反諷：惡人連他的慈悲也是殘忍"
+    }
+  ],
+  "translation": "義人顧惜他牲畜的生命；惡人的憐憫卻是殘忍。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0515d51e99208262472f592aff6a1f772cb943d75aba443c523cbfbe4bda4475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/12\/9-12.1792145353592.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "顧惜"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "生命"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "他的牲畜"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "憐憫"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "殘忍"
+    }
+  ],
+  "timestamp": "2026-10-16T10:09:13.592709655Z",
+  "model": "glm-5.3"
+}

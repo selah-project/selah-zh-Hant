@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "他聖潔的話…他的僕人亞伯拉罕",
+      "rationale": "第二個 ⟨את⟩ 使亞伯拉罕與「話」並列作記得的對象；或讀作「他對他僕人亞伯拉罕所說聖潔的話」（JPS、BSB 採此讀）"
+    },
+    {
+      "kind": "you",
+      "subject": "背誦中的以色列",
+      "rationale": "歷史敘述的根基句——呼召會眾記念雅威的信實"
+    }
+  ],
+  "translation": "因為他記得 ⟨את⟩ 他聖潔的話，⟨את⟩ 他的僕人亞伯拉罕。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3bcf3e91c9d8187e15f2e68267f20a63cb29afad7a7819666188127303ab1450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/105\/41-44.1792144646872.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "他記得"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他聖潔的話"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "他聖潔的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞伯拉罕"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "他的僕人"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:26.873424995Z",
+  "model": "glm-5.3"
+}

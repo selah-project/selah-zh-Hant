@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יהי אור \/ ויהי אור",
+      "rationale": "命令與成就同詞呼應——「要有光，就有了光」——重複結構"
+    }
+  ],
+  "translation": "以羅欣說：「要有光。」就有了光。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "74811423b4ef720f67f63379fee8e2797e4ed37fb025781088bc80b89f4e564a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/1\/1-4.1792124551208.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "要有"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "就有了"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    }
+  ],
+  "timestamp": "2026-10-16T04:22:31.209232902Z",
+  "model": "glm-5.3"
+}

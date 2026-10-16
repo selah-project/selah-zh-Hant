@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "手中",
+      "rationale": "בכפי「在我的手掌裡」是希伯來慣用語，指手所作之行為或所沾之罪"
+    },
+    {
+      "kind": "you",
+      "subject": "向雅威",
+      "rationale": "直接向雅威起誓式的申辯"
+    }
+  ],
+  "translation": "雅威我的以羅欣啊，我若行了這事，我手中若有不義……",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "121a5ee6b14bbeec86d2ab3a3588a24a266e59ffbd56b802907984948cff1406",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/7\/1-4.1792143251532.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "我行了"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這事"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "יש",
+      "gloss": "有"
+    },
+    {
+      "surface": "עול",
+      "gloss": "不義"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "在我的手掌中"
+    }
+  ],
+  "timestamp": "2026-10-16T09:34:11.533928413Z",
+  "model": "glm-5.3"
+}

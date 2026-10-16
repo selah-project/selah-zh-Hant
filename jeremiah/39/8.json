@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "王宮",
+      "rationale": "בית המלך 字面為「王的房屋」，即王宮；中文以「王宮」表達"
+    },
+    {
+      "kind": "crux",
+      "subject": "בית העם",
+      "rationale": "「百姓的房屋」單數還是複數？希伯來文單數，KJV 作複數 houses，此處照字面單數"
+    }
+  ],
+  "translation": "迦勒底人用火燒了王宮和百姓的房屋，又拆毀了耶路撒冷的城牆。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0b7c8373c29ec8a28187149590c465bb35c49e3897e73aae95c23c9ff0cb9c03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/39\/5-8.1792137241017.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "王宮"
+    },
+    {
+      "surface": "בית",
+      "gloss": "房屋"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "百姓的房屋"
+    },
+    {
+      "surface": "בית",
+      "gloss": "房屋"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓的"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "燒了"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "迦勒底人"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "耶路撒冷的城牆"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "城牆"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "拆毀了"
+    }
+  ],
+  "timestamp": "2026-10-16T07:54:01.018928506Z",
+  "model": "glm-5.3"
+}

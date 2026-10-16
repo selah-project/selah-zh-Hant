@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "怒氣",
+      "rationale": "יטור（看守）的賓語未在原文寫明，按上下文補「怒氣」並加括號"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לנצח／לעולם",
+      "rationale": "兩個「永遠」平行互換，加強神不長久懷怒的宣告"
+    }
+  ],
+  "translation": "他不永遠爭辯，也不永遠看守⟨怒氣⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5eace37ea168adbb12bf2cd218734c76da5492dcc98c24c42bbb589000dc3e43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/103\/9-12.1792144563677.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "爭辯"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "看守"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:03.678375022Z",
+  "model": "glm-5.3"
+}

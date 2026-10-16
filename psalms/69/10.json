@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרפות\/חורפיך",
+      "rationale": "「辱罵／辱罵你的人」同根詞交錯，中文保留同字重複以存其聲。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אכלתני",
+      "rationale": "直譯「吃了我」，即「吞噬／耗盡我」，中文取「吞噬」。"
+    }
+  ],
+  "translation": "因你殿的熱心將我吞噬，辱罵你之人的辱罵落在我身上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "deacf9bac66a1bf073997e0ba7b132c46ba3017dd3621a4741e2c45b4ae10746",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/69\/9-12.1792144184601.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "熱心"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "你的殿"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "將我吞噬"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "而……的辱罵"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "辱罵你的人"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "落在"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "我身上"
+    }
+  ],
+  "timestamp": "2026-10-16T09:49:44.602339094Z",
+  "model": "glm-5.3"
+}

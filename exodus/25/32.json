@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 25:32",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "量詞",
+      "rationale": "中文需要『根』作枝子的量詞，希伯來文沒有量詞。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "三加三",
+      "rationale": "六根枝子按兩側各三分列，屬會幕器具的精確度量描述。"
+    },
+    {
+      "kind": "elision",
+      "subject": "מצדיה 複數",
+      "rationale": "『兩側』是複數形，中文以『兩側』直接表達二分結構。"
+    }
+  ],
+  "translation": "六根枝子要從燈臺的兩側伸出來：從燈臺的一側伸出三根枝子，從燈臺的另一側伸出三根枝子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f5947f62cc4596e3f7127139b32075a25dcc30248ba32344938bbd6da22b407b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/25\/29-32.1792126290640.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וששה",
+      "gloss": "六根"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "枝子"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "伸出來"
+    },
+    {
+      "surface": "מצדיה",
+      "gloss": "從它的兩側"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三根"
+    },
+    {
+      "surface": "קני",
+      "gloss": "枝子"
+    },
+    {
+      "surface": "מנרה",
+      "gloss": "燈臺的"
+    },
+    {
+      "surface": "מצדה",
+      "gloss": "從它的側"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "三根"
+    },
+    {
+      "surface": "קני",
+      "gloss": "枝子"
+    },
+    {
+      "surface": "מנרה",
+      "gloss": "燈臺的"
+    },
+    {
+      "surface": "מצדה",
+      "gloss": "從它的側"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二"
+    }
+  ],
+  "timestamp": "2026-10-16T04:51:30.641657327Z",
+  "model": "glm-5.3"
+}

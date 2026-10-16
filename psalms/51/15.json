@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "便",
+      "rationale": "希伯來文無「那時／便」，中文加連接詞承上文的誓願語氣"
+    }
+  ],
+  "translation": "我便教導悖逆的人你的道路，罪人必歸向你。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0b316f709416da554966f354afab6cf7b0bd3778a8f6cc8a5b61ccad330c358d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/51\/13-16.1792143820664.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "我便教導"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "悖逆的人"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "你的道路"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "而罪人"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "歸向你"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "必回轉"
+    }
+  ],
+  "timestamp": "2026-10-16T09:43:40.664840570Z",
+  "model": "glm-5.3"
+}

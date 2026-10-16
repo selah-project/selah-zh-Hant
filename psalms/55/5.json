@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "翻攪",
+      "rationale": "יחיל 出自 חול「旋轉、扭動」，直譯「在我裡面打轉、翻騰」，如產難之扭動"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אימות／מות",
+      "rationale": "戰慄（אימות）與死亡（מות）僅一字母之差，音近相扣，中文無法保留"
+    }
+  ],
+  "translation": "我的心在我裡面翻攪，死亡的戰慄落在我身上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5ae239ef97c42c3352964e5516d57741f85c1846c41c65d3502152908a7afc05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/55\/5-8.1792143924542.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "翻攪"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "在我裡面"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "戰慄"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死亡的"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "落在"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "在我身上"
+    }
+  ],
+  "timestamp": "2026-10-16T09:45:24.543161675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "放在心上",
+      "rationale": "שת לב 字面「把心放在」，中文成語『放在心上』相合"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שת\/לבו",
+      "rationale": "「置心」對比前節「心剛硬」，同一心字連貫敘事"
+    }
+  ],
+  "translation": "法老轉身進了⟨他的⟩宮，連這件事也不放在心上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0febab48967ed0cdb86dc03f6365a619460851e3ab2178f7df67c74465ef5de0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/7\/21-24.1792125734481.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "轉身"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "進了"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "他的宮"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不"
+    },
+    {
+      "surface": "שת",
+      "gloss": "放"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "他的心"
+    },
+    {
+      "surface": "גם",
+      "gloss": "連"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "這件事"
+    }
+  ],
+  "timestamp": "2026-10-16T04:42:14.483346348Z",
+  "model": "glm-5.3"
+}

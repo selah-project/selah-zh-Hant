@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 1:4",
+  "book": "song-of-songs",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "對良人",
+      "rationale": "女子對王（良人）的直接懇求，人稱在「你／王」之間轉換，希伯來文本身如此"
+    },
+    {
+      "kind": "crux",
+      "subject": "正直人",
+      "rationale": "מישרים 本義「平直」，KJV 作「正直人」，JPS 讀作副詞「真誠地愛你」；取名詞讀法"
+    },
+    {
+      "kind": "addition",
+      "subject": "跟隨",
+      "rationale": "אחריך「在你之後」即跟隨，中文補動詞"
+    }
+  ],
+  "translation": "願你吸引我，我們就跟隨你奔跑。王帶我進入他的內室；我們必因你歡喜快樂，我們要追想你的愛情，勝過美酒。正直人都愛你。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "708639b00a5304c6985f489c6d7714dab9c2c2bae967edba93b746438fe76cd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/1\/1-4.1792146594636.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכני",
+      "gloss": "願你吸引我"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "跟隨你"
+    },
+    {
+      "surface": "נרוצה",
+      "gloss": "我們就奔跑"
+    },
+    {
+      "surface": "הביאני",
+      "gloss": "帶我進入"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "חדריו",
+      "gloss": "他的內室"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "我們必歡喜"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "（並且）快樂"
+    },
+    {
+      "surface": "בך",
+      "gloss": "因你"
+    },
+    {
+      "surface": "נזכירה",
+      "gloss": "我們要追想"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "你的愛情"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "勝過美酒"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "正直人"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "都愛你"
+    }
+  ],
+  "timestamp": "2026-10-16T10:29:54.637917682Z",
+  "model": "glm-5.3"
+}

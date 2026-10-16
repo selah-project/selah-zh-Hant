@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 是氣息、生命之力，非不朽的靈魂"
+    },
+    {
+      "kind": "crux",
+      "subject": "חייתני מיורדי בור",
+      "rationale": "「使我存活脫離下坑之人」（和合本、ASV）與「使我不致下坑」（KJV、JPS 讀法）之別"
+    }
+  ],
+  "translation": "雅威啊，你把我的性命從示阿勒（陰間）拉上來，你使我存活，脫離下坑之人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0696ba0b76a5def4d06eb268cec6a3c566ecd808c78d5abc04c1c5729d13f2db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/30\/1-4.1792143537150.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "你把……拉上來"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "示阿勒（陰間）"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "你使我存活"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "脫離下……之人"
+    },
+    {
+      "surface": "בור",
+      "gloss": "坑"
+    }
+  ],
+  "timestamp": "2026-10-16T09:38:57.151501137Z",
+  "model": "glm-5.3"
+}

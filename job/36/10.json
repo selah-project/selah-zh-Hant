@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 36:10",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "引導詞כי在中文命令句中無對應詞，以括號補出語氣"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויגל",
+      "gloss-ratioale": "",
+      "rationale": "字面為「揭開、裸露」耳朵，中文以「開通」表達"
+    }
+  ],
+  "translation": "他開通他們的耳朵受管教，吩咐他們回轉離開不義。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "49a09f21a4b4d4c6e5f24796a2c21b82c7bbada85bd18360ae376fb3088aeafe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/36\/9-12.1792146398413.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "他開通"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "他們的耳朵"
+    },
+    {
+      "surface": "למוסר",
+      "gloss": "受管教"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "吩咐"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨他們當⟩"
+    },
+    {
+      "surface": "ישבון",
+      "gloss": "回轉"
+    },
+    {
+      "surface": "מאון",
+      "gloss": "離開不義"
+    }
+  ],
+  "timestamp": "2026-10-16T10:26:38.414285682Z",
+  "model": "glm-5.3"
+}

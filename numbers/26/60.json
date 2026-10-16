@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "的兒子是",
+      "rationale": "原文僅「給亞倫生了（את）拿答」，中文補「的兒子是」以成句"
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "亞倫四子名單"
+    }
+  ],
+  "translation": "亞倫生的兒子是⟨את⟩拿答、⟨את⟩亞比戶、⟨את⟩以利亞撒和⟨את⟩以他瑪。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a44fcee9abb88ffa0be749309fba6c7ba61756f0dad9db1bda0dbcc07604682a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/26\/57-60.1792128193262.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "生了"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "給亞倫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "拿答"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "拿答"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "亞比戶"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "亞比戶"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以利亞撒"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "以利亞撒"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "以他瑪"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "以他瑪"
+    }
+  ],
+  "timestamp": "2026-10-16T05:23:13.263299502Z",
+  "model": "glm-5.3"
+}

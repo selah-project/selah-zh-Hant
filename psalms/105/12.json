@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "מספר",
+      "rationale": "「可數的人數」——稀少到可以點算"
+    },
+    {
+      "kind": "substitution",
+      "subject": "人",
+      "rationale": "מתי 字面指成年男子，非泛指的人"
+    }
+  ],
+  "translation": "當他們人數稀少、寥寥無幾、又在那地寄居的時候，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "281b702be77580cfef6a9e9522809a895b22fdd38e94667581fa73996f316440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/105\/9-12.1792144577484.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "當他們……的時候"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "人（成年男子）"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "人數稀少"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "寥寥無幾"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "又寄居"
+    },
+    {
+      "surface": "בה",
+      "gloss": "在那地"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:17.485800953Z",
+  "model": "glm-5.3"
+}

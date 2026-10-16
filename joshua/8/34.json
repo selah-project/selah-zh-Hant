@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 8:34",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הברכה והקללה",
+      "rationale": "祝福與咒詛成對並列（申 27–28 的骨架），中文保留其對稱。"
+    },
+    {
+      "kind": "addition",
+      "subject": "「就是」",
+      "rationale": "同位語連接詞為中文所需，希伯來文僅並列名詞。"
+    }
+  ],
+  "translation": "此後，他宣讀了 ⟨את⟩ 妥拉的一切話，就是祝福和咒詛，都照妥拉書上所寫的一切。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "72a236c80121ed401e1c6c1f34c527f1060d41422e1d25e3400a6ee62b8ec6d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/8\/33-35.1792129594421.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "此後"
+    },
+    {
+      "surface": "כן",
+      "gloss": "於是"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "宣讀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "妥拉的一切話"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "……的話"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "那妥拉"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "那祝福"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "和那咒詛"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "照一切"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "所寫的"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "在……書上"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "那妥拉"
+    }
+  ],
+  "timestamp": "2026-10-16T05:46:34.422456970Z",
+  "model": "glm-5.3"
+}

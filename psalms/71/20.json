@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 71:20",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "人稱",
+      "rationale": "希伯來文在「我們」與「我」之間轉換（הראיתנו\/תחיינו 為複數，תעלני 為單數）；中譯保留此轉換"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשוב…תשוב",
+      "rationale": "「你必轉回」重複兩次，框住復活與上來兩個動作，中譯保留重複"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תחיינו",
+      "rationale": "字面為「使我們活過來」，譯「使我們復活」取其使役復甦之義"
+    }
+  ],
+  "translation": "你曾使我們看見許多災難、許多禍患；你必轉回使我們復活，從地的深淵之中你必轉回、使我上來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0118286a10e1e46bee30527964de21356cbc3893839826f74c7f2befec4d037f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/71\/17-20.1792144159893.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "你"
+    },
+    {
+      "surface": "הראיתנו",
+      "gloss": "曾使我們看見"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "災難"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "許多"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "許多禍患"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "你必轉回"
+    },
+    {
+      "surface": "תחיינו",
+      "gloss": "使我們復活"
+    },
+    {
+      "surface": "ומתהמות",
+      "gloss": "從深淵之中"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地的"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "你必轉回"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "使我上來"
+    }
+  ],
+  "timestamp": "2026-10-16T09:49:19.894741163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על כן",
+      "rationale": "一般作「因此」，但 על כן 亦可指「抬起（頭）在……之上」，與下文「高舉」呼應；本譯取連詞讀法"
+    },
+    {
+      "kind": "alternative",
+      "subject": "溪旁喝水",
+      "rationale": "意象或指爭戰途中不卸甲而飲、迅即昂首再戰；亦有古讀作「他必從途中洗腳」之異文"
+    }
+  ],
+  "translation": "他必在途中從溪旁喝水，因此他必抬起頭來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fad4c1116825250fbd1ec69d0503c0fa9124c7691d3c343a351555d85d80e40c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/110\/5-7.1792144737505.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "從溪旁"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "在途中"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "他必喝水"
+    },
+    {
+      "surface": "על",
+      "gloss": "因此"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨因此⟩"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "他必抬起"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭來"
+    }
+  ],
+  "timestamp": "2026-10-16T09:58:57.506772062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 9:27",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "此處的 את 是介詞「靠近、在……旁」（אשר את יבלעם＝那在伊伯拉瑪旁的），不是受詞記號；譯本多作 by Ibleam。"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויאמר",
+      "rationale": "原文只說「說：連他也擊打」，並無「他們就擊打了他」的直接敘述；和合本補出執行句，本譯照敘述流補出主語。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "גור",
+      "rationale": "古爾（Gur）作地名僅出現於此處。"
+    }
+  ],
+  "translation": "猶大王亞哈謝看見，就沿著園亭之路逃跑；耶戶追趕他，說：「連 ⟨אתו⟩ 他也擊打，在戰車上。」他們就在靠近伊伯拉瑪的古爾上坡擊打了他；他逃到米吉多，就死在那裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4331c243e126435067b1215914bd95429227b2d810c04b2907013378c0b29985",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/9\/25-28.1792133869288.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחזיה",
+      "gloss": "亞哈謝"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "逃跑"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "沿著……之路"
+    },
+    {
+      "surface": "בית",
+      "gloss": "園亭"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "園"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "追趕"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "他"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "耶戶"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "גם",
+      "gloss": "連……也"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "他"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "擊打他"
+    },
+    {
+      "surface": "אל",
+      "gloss": "在"
+    },
+    {
+      "surface": "המרכבה",
+      "gloss": "戰車上"
+    },
+    {
+      "surface": "במעלה",
+      "gloss": "在……上坡"
+    },
+    {
+      "surface": "גור",
+      "gloss": "古爾"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ 靠近"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "伊伯拉瑪"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "他逃到"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "米吉多"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "就死了"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裡"
+    }
+  ],
+  "timestamp": "2026-10-16T06:57:49.289618735Z",
+  "model": "glm-5.3"
+}

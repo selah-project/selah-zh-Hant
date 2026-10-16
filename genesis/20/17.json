@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "便",
+      "rationale": "וילדו 只說「他們生了」，中文加「便」表結果語氣"
+    },
+    {
+      "kind": "measurement",
+      "subject": "生育",
+      "rationale": "生育的恢復是本節的敘事要點——不孕與醫治"
+    }
+  ],
+  "translation": "亞伯拉罕向以羅欣祈求，以羅欣就醫治了 ⟨את⟩ 亞比米勒、⟨ואת⟩ 他的妻子和他的婢女們，她們便能生育。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ebc5c3d80dd8765d16dd74f8b1a42fea020ec3ae3785531958dae86e04273230",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/20\/17-18.1792124900801.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "祈求"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "醫治了"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞比米勒"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "亞比米勒"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "他的妻子"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "他的妻子"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "和他的婢女們"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "她們便能生育"
+    }
+  ],
+  "timestamp": "2026-10-16T04:28:20.802048526Z",
+  "model": "glm-5.3"
+}

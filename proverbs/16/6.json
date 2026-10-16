@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 16:6",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "遮蓋",
+      "rationale": "כפר本義是「遮蓋、塗瀝青」，引申為贖罪；譯「遮蓋」保留原圖像"
+    },
+    {
+      "kind": "addition",
+      "subject": "人",
+      "rationale": "第二半句原文無主語，中文補「人」使通順"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "慈愛／信實",
+      "rationale": "חסד與אמת為箴言成對詞，本紀律將חסד一詞鎖定為「慈愛」"
+    }
+  ],
+  "translation": "藉著慈愛和信實，罪孽得蒙遮蓋；藉著敬畏雅威，人離開惡事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3f3f2b6eb85bb179256fc399fbce0e6b8a36fede4dad8df4aeea82b7ea42199b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/16\/5-8.1792145467342.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחסד",
+      "gloss": "藉著慈愛"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "和信實"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "得蒙遮蓋"
+    },
+    {
+      "surface": "עון",
+      "gloss": "罪孽"
+    },
+    {
+      "surface": "וביראת",
+      "gloss": "藉著敬畏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "סור",
+      "gloss": "離開"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "惡事"
+    }
+  ],
+  "timestamp": "2026-10-16T10:11:07.343202484Z",
+  "model": "glm-5.3"
+}

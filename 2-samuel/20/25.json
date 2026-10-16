@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "示沙",
+      "rationale": "ושיא 即撒下 8:17 的 שׂוֹשָׁא／沙威，同一人名的異寫，經文未解釋其差異"
+    },
+    {
+      "kind": "addition",
+      "subject": "作",
+      "rationale": "希伯來文名詞句無動詞，中文需加『作』"
+    }
+  ],
+  "translation": "示沙作書記，撒督和亞比亞他作祭司。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ba9cb8e86a61b0d3b346c61ce16820ced44238f7f7bbd60c4d60111fd7062bd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/20\/25-26.1792132152348.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "示沙"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "作書記"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "撒督"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "亞比亞他"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "作祭司"
+    }
+  ],
+  "timestamp": "2026-10-16T06:29:12.349144567Z",
+  "model": "glm-5.3"
+}

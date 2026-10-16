@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 45:14",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויבך\/בכה",
+      "rationale": "同一動詞בכה在兩個子句中重複，鏡像結構：約瑟哭、便雅憫哭，中文保留對稱。"
+    },
+    {
+      "kind": "addition",
+      "subject": "伏在（他的頸項上）",
+      "rationale": "第二子句希伯來文只說「便雅憫哭在他的頸項上」，未重複動詞「伏」；中文補足以成句。"
+    }
+  ],
+  "translation": "他就伏在弟弟便雅憫的頸項上哭，便雅憫也伏在他的頸項上哭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6a7e3cc03f8f0e37dd7913e0641362b0a4363f9162151d4d144ca80a6676ca2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/45\/13-16.1792125591003.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "他就伏"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "צוארי",
+      "gloss": "……的頸項上"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "便雅憫"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "他的弟弟"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "哭"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "便雅憫也"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "哭"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "他的頸項上"
+    }
+  ],
+  "timestamp": "2026-10-16T04:39:51.004400338Z",
+  "model": "glm-5.3"
+}

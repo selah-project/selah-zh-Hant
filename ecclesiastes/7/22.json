@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "此處 את 按元音讀法是代詞 אַתָּה「你自己」，不是受詞記號 אֵת；與上一節的 ⟨את⟩ 區別"
+    },
+    {
+      "kind": "elision",
+      "subject": "你自己",
+      "rationale": "代詞 את 在中文以「你自己」合併於句中，不另立一詞"
+    }
+  ],
+  "translation": "因為你的心也知道，許多次你自己也曾咒詛別人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "385c9c9fdc314d77e75f5b26db6d111d282e8b4cd842916d92321956b6bc9450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/7\/21-24.1792147020203.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "次"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "許多"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知道"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "你的心"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "（關係詞）"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "את",
+      "gloss": "你"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "咒詛"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別人"
+    }
+  ],
+  "timestamp": "2026-10-16T10:37:00.204130351Z",
+  "model": "glm-5.3"
+}

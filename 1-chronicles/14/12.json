@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אלהיהם",
+      "gloss-note": "",
+      "rationale": "異教神祇按紀律用「神明」，不用「以羅欣」（參 出 32:8）"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ויאמר דויד",
+      "rationale": "「大衛說」在此為下令之意（參撒下 5:21 平行經文），直譯「說」亦可"
+    }
+  ],
+  "translation": "他們把 ⟨את⟩ 他們的神明遺棄在那裡，大衛下令，神明就在火中被焚燒了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f5152e0182668c46a733286843579704ca1972295636f3d7003dc8295cca337a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/14\/9-12.1792148773739.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "遺棄"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裡"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的神明"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "他們的神明"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "下令"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "被焚燒"
+    },
+    {
+      "surface": "באש",
+      "gloss": "在火中"
+    }
+  ],
+  "timestamp": "2026-10-16T11:06:13.740695947Z",
+  "model": "glm-5.3"
+}

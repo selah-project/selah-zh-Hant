@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 5:11",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "דבר",
+      "rationale": "「沒有一事／一點」為希伯來否定加誇全的慣用結構，中文以「一點也不」表達"
+    },
+    {
+      "kind": "you",
+      "subject": "對以色列百姓",
+      "rationale": "督工轉述法老的話，直接命令百姓"
+    }
+  ],
+  "translation": "你們自己去，在哪裡找得到草，就自己去找吧；因為你們的工一點也不可減少。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "761631a4fb3f1e22986352d8dd52e1fd4b0b782916c544f872671756e2a180a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/5\/9-12.1792125725524.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "你們自己"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "去"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "拿"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "你們自己"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "草"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "從……之處"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "你們找得到"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "被減少"
+    },
+    {
+      "surface": "מעבדתכם",
+      "gloss": "你們的工"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "一點"
+    }
+  ],
+  "timestamp": "2026-10-16T04:42:05.526851913Z",
+  "model": "glm-5.3"
+}

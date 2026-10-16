@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "伶長",
+      "rationale": "למנצח 字面是「那顯耀的、監督者」，沿和合本作「伶長」（樂隊指揮）"
+    },
+    {
+      "kind": "hapax_hint",
+      "subject": "בנגינות",
+      "rationale": "標題術語，指弦樂器伴奏"
+    }
+  ],
+  "translation": "交給伶長，用絲弦樂器。大衛的詩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8c174a185ab4aa0e751ac7befed73883264b6c3469270b59a657583123ea5fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/4\/1-4.1792143266717.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "交給伶長"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "用絲弦樂器"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:34:26.717963883Z",
+  "model": "glm-5.3"
+}

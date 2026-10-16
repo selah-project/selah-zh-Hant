@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "回報我（第二次）",
+      "rationale": "中文語法重複動詞以完成第二個比較短語，希伯來文只一次 וישב"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כצדקתי／כברי",
+      "rationale": "兩個以 כ（照）開頭的平行短語，對仗結構"
+    }
+  ],
+  "translation": "雅威照我的公義回報我，照他眼中的純全回報我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8040045032bfc76d7a954cd620260dace12facd92735e82bebef3fda3a6a6bcb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/22\/25-28.1792132367184.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "回報"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "照我的公義"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "照我的純全"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "在……面前"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "他的眼中"
+    }
+  ],
+  "timestamp": "2026-10-16T06:32:47.184603081Z",
+  "model": "glm-5.3"
+}

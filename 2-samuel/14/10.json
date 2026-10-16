@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 14:10",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לגעת",
+      "rationale": "字面是『觸碰』，在此語境意為加害、攪擾；譯文保留字面"
+    },
+    {
+      "kind": "literal",
+      "subject": "יסיף עוד",
+      "rationale": "希伯來文以『不再加添』表示『不再繼續』，直譯保留此結構"
+    }
+  ],
+  "translation": "王說：「凡向你說話的，你把他帶到我這裡來，他就必不再觸碰你。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b1802e3378ad2be28406f9b4f91b7775b657e4cff246c88d03f7a3dcf2f4eb18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/14\/9-12.1792131997783.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "那說話的"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "והבאתו",
+      "gloss": "你把他帶來"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "到我這裡"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "再加"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再"
+    },
+    {
+      "surface": "לגעת",
+      "gloss": "觸碰"
+    },
+    {
+      "surface": "בך",
+      "gloss": "你"
+    }
+  ],
+  "timestamp": "2026-10-16T06:26:37.785623405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 1:8",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "慈愛",
+      "rationale": "חסד 是約信之愛，本譯一貫用「慈愛」，不用「恩典」「憐憫」"
+    },
+    {
+      "kind": "addition",
+      "subject": "作王",
+      "rationale": "「立我作王」中「作王」由使役動詞 המלכתני 內含，中文需明言"
+    }
+  ],
+  "translation": "所羅門對以羅欣說：「你曾向我父親大衛施行了極大的慈愛，又立我接續他作王。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cf03eae87b8b4aed02b64bdd04f0cebe2d6230099efec1d4e327d7cbf9dc7d5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/1\/5-8.1792149076092.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "對以羅欣"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "施行了"
+    },
+    {
+      "surface": "עם",
+      "gloss": "向"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我父親"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "慈愛"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "極大的"
+    },
+    {
+      "surface": "והמלכתני",
+      "gloss": "又立我作王"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "接續他"
+    }
+  ],
+  "timestamp": "2026-10-16T11:11:16.094173886Z",
+  "model": "glm-5.3"
+}

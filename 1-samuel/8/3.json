@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 8:3",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויטו…ויטו",
+      "rationale": "同一動詞 נטה 兩次出現——「偏斜 after 財利」與「屈枉判斷」平行，中文以「偏追／屈枉」分譯，重複的修辭效果部分流失"
+    },
+    {
+      "kind": "substitution",
+      "subject": "不義之財",
+      "rationale": "הבצע 字面為「暴利、剪奪」，中文以「不義之財」達意"
+    }
+  ],
+  "translation": "他的兒子們不行他的道，反倒偏追不義之財，收受賄賂，屈枉公正。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d1ec159518378571bd01164a52afac388618af46ba725b2458b1ed4b7bc9b6dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/8\/1-4.1792130831053.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "而不"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "行"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "他的兒子們"
+    },
+    {
+      "surface": "בדרכו",
+      "gloss": "他的道"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "偏斜"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "追隨"
+    },
+    {
+      "surface": "הבצע",
+      "gloss": "不義之財"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "收取"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "賄賂"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "屈枉"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公正"
+    }
+  ],
+  "timestamp": "2026-10-16T06:07:11.054318097Z",
+  "model": "glm-5.3"
+}

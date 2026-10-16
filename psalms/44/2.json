@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אזנינו",
+      "rationale": "「用我們的耳朵」以「親耳」傳達，希伯來文的具體身體語彙部分流失"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פעל\/פעלת",
+      "rationale": "同源詞根重複「作為——你行了」，中文以「所行的作為」保留呼應"
+    },
+    {
+      "kind": "you",
+      "subject": "以羅欣",
+      "rationale": "直接向以羅欣呼喊的群體祈禱開端"
+    }
+  ],
+  "translation": "以羅欣啊，我們親耳聽見，我們的列祖向我們述說：你在他們的日子、在古時所行 ⟨את⟩ 的作為。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a528b06f9b565e1b18c9832c4a1b1b25612bf448352341f89a8b410c74eaec38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/44\/1-4.1792143761856.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "親耳聽見（用我們的耳朵）"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "我們聽見"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "我們的列祖"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "述說"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "向我們"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "作為"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "所行的"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "在他們的日子"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "在……的日子"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "古時"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:41.857836719Z",
+  "model": "glm-5.3"
+}

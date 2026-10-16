@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 42:11",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "有／都相同",
+      "rationale": "希伯來文為名詞短語並列，中文需補動詞以成句"
+    },
+    {
+      "kind": "measurement",
+      "subject": "長寬尺寸",
+      "rationale": "本節以長度、寬度對比描述廂房規格，屬聖殿測量敘述"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כארכן…כן רחבן",
+      "rationale": "「長度如何、寬度也如何」的對仗結構，中文保留平行句式"
+    }
+  ],
+  "translation": "在它們面前有一條路，樣式如同北邊那些廂房的外觀：長度如何，寬度也如何；它們一切的出口、樣式和門口都相同。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e5ffa5403fc960fc35c3db33239276a61f74665aa7664acc50d71a2122bab7f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/42\/10-12.1792142616465.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודרך",
+      "gloss": "有一條路"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "在它們面前"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "樣式如同…的外觀"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "那些廂房"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "在…的路上"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "北邊"
+    },
+    {
+      "surface": "כארכן",
+      "gloss": "長度如何"
+    },
+    {
+      "surface": "כן",
+      "gloss": "也如此"
+    },
+    {
+      "surface": "רחבן",
+      "gloss": "寬度"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "並一切"
+    },
+    {
+      "surface": "מוצאיהן",
+      "gloss": "它們的出口"
+    },
+    {
+      "surface": "וכמשפטיהן",
+      "gloss": "樣式都相同"
+    },
+    {
+      "surface": "וכפתחיהן",
+      "gloss": "門口"
+    }
+  ],
+  "timestamp": "2026-10-16T09:23:36.466490795Z",
+  "model": "glm-5.3"
+}

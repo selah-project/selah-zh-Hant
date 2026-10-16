@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 56:8",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עליו",
+      "rationale": "「歸他」可指歸於以色列，也可如 KJV「到他自己（others to him）」；下文 לנקבציו「他的被招聚者」支持歸於以色列。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קבץ 三連用",
+      "rationale": "「招聚」一詞在本節出現三次（מקבץ、אקבץ、לנקבציו），疊加強調招聚的應許。"
+    },
+    {
+      "kind": "mystery",
+      "subject": "別人",
+      "rationale": "「還要招聚別人」暗示外邦人將被收納，呼應上文，但未言明是誰。"
+    }
+  ],
+  "translation": "——這是阿多奈雅威說的，他招聚以色列被趕散的人：「我還要招聚別人歸他，除了那些已經招聚來的以外。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b95d20000ae6c14895b61af9c854ea95bdc1ffe22a624b17205cd7056a7a5236",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/56\/5-8.1792135746990.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "這是……說的"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מקבץ",
+      "gloss": "他招聚"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "被趕散的人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "還要"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "我必招聚"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "歸他"
+    },
+    {
+      "surface": "לנקבציו",
+      "gloss": "除了那些已經招聚來的以外"
+    }
+  ],
+  "timestamp": "2026-10-16T07:29:06.991991492Z",
+  "model": "glm-5.3"
+}

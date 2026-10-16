@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 33:26",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "伊勒",
+      "rationale": "כאל 既是「像伊勒（神）」也可讀作「像大能者」；此處按 D1 表音譯為伊勒。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "耶書崙",
+      "rationale": "ישרון 可作呼格（向以色列說話）或所有格「耶書崙的伊勒」；此處取呼格。"
+    }
+  ],
+  "translation": "沒有像伊勒一樣的，耶書崙啊；他駕行諸天作你的幫助，憑他的威嚴行於雲霄。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "67f3d8fca57661e18ca252ddd0319b9708581d1a1571610ed31b1af14c4eb4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/33\/25-28.1792129324991.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "כאל",
+      "gloss": "像伊勒一樣的"
+    },
+    {
+      "surface": "ישרון",
+      "gloss": "耶書崙啊"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "駕行"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "作你的幫助"
+    },
+    {
+      "surface": "ובגאותו",
+      "gloss": "憑他的威嚴"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "雲霄"
+    }
+  ],
+  "timestamp": "2026-10-16T05:42:04.992058862Z",
+  "model": "glm-5.3"
+}

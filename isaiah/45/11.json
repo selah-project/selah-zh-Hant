@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 45:11",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "האתיות",
+      "rationale": "「將來的事」此形於塔納赫僅見於此，字根 אתה「來到」"
+    },
+    {
+      "kind": "crux",
+      "subject": "שאלוני…תצוני",
+      "rationale": "字面是命令式「你們要問我…吩咐我」（欽定本），但語境是責備，故 BSB 讀作反詰「你豈敢問我…指示我？」"
+    },
+    {
+      "kind": "addition",
+      "subject": "將來的事",
+      "rationale": "「我的兒子」前增補「將來的事」以交代שאלוני所問的內容；希伯來文僅說「關於我的兒子問我」"
+    }
+  ],
+  "translation": "以色列的聖者雅威、他們的塑造者如此說：將來的事，你們要問我；關於我手的工作，你們要吩咐我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f00f181a25d2a7170dcc90a7659cdea7860554cc94dcd89a86b630970e9f8f35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/45\/9-12.1792135539190.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "如此"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖者"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "和他們的塑造者"
+    },
+    {
+      "surface": "האתיות",
+      "gloss": "將來的事"
+    },
+    {
+      "surface": "שאלוני",
+      "gloss": "你們要問我"
+    },
+    {
+      "surface": "על",
+      "gloss": "關於"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我的兒子"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "而關於"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "工作"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我手的"
+    },
+    {
+      "surface": "תצוני",
+      "gloss": "你們要吩咐我"
+    }
+  ],
+  "timestamp": "2026-10-16T07:25:39.191399751Z",
+  "model": "glm-5.3"
+}

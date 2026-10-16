@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "〈要〉",
+      "rationale": "希伯來分詞 הלך 無時態標記，中文疑問句需助詞。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "量耶路撒冷",
+      "rationale": "量寬與長——本章的量度主題。"
+    }
+  ],
+  "translation": "我說：「你〈要〉往哪裡去？」他對我說：「去量 ⟨את⟩ 耶路撒冷，看看它有多寬、有多長。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1d756fff573194abb35f4ed6296a535f8fe0e6ef2448e6dbcf8f5389a840bd0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/zechariah\/2\/5-8.1792142816806.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "我說"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "往哪裡"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "去"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "למד",
+      "gloss": "去量"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶路撒冷"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "看看"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "有多"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "寬"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "有多"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "長"
+    }
+  ],
+  "timestamp": "2026-10-16T09:26:56.807031763Z",
+  "model": "glm-5.3"
+}

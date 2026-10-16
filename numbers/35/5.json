@@ -1,0 +1,163 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 35:5",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "四向度量",
+      "rationale": "本節是命令式的量度：四個方向各二千肘，城的郊野範圍。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "西邊",
+      "rationale": "ים 字面是「海」，以色列以地中海定西方；譯文保留括註「海的方向」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "城在中央",
+      "rationale": "希伯來文 והעיר בתוך 無動詞，中文補繫詞「在」。"
+    }
+  ],
+  "translation": "你們要從城外量度：⟨את⟩東邊二千肘，⟨את⟩南邊二千肘，⟨את⟩西邊（海的方向）二千肘，⟨את⟩北邊二千肘，城在中央。這要作他們的城邑郊野。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ca2676a78566c18bac3bd56dd920fbae5e8651834e283676d044088c12c380c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/35\/5-8.1792128453297.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומדתם",
+      "gloss": "你們要量度"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "從…外"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "東邊"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "邊"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "東（前面）"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "二千"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "南邊"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "邊"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "南"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "二千"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "西邊"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "邊"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海（西）"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "二千"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "北邊"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "邊"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "北"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "二千"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "而城"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "在中央"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "要作"
+    },
+    {
+      "surface": "להם",
+      "gloss": "給他們"
+    },
+    {
+      "surface": "מגרשי",
+      "gloss": "郊野"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "那些城邑"
+    }
+  ],
+  "timestamp": "2026-10-16T05:27:33.298417425Z",
+  "model": "glm-5.3"
+}

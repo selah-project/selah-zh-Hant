@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "敵人的",
+      "rationale": "「他們的心」未指明是誰；上下文（24節的仇敵）補出，置於 ⟨⟩ 之外供參照"
+    },
+    {
+      "kind": "substitution",
+      "subject": "圖謀害",
+      "rationale": "להתנכל 字面為「行詭詐」，中文以成語承載其欺詐之意"
+    }
+  ],
+  "translation": "他使敵人的心轉變，以致恨惡他的百姓，圖謀害他的僕人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0ce82b55faf7b5863002d5902b7e43ce75609cd8c4b992d0d5e236f06f0aa84d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/105\/25-28.1792144638570.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "他使……轉變"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "他們的心"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "以致恨惡"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "他的百姓"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "圖謀害"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "他的僕人"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:18.571354872Z",
+  "model": "glm-5.3"
+}

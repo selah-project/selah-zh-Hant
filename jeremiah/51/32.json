@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 51:32",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "蘆葦叢",
+      "rationale": "האגמים或作「沼澤蘆葦」（KJV「reeds」）或作「堡壘」（JPS依同源亞蘭語「castles」）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "渡口",
+      "rationale": "מעברות字面是「過河之處」，即幼發拉底河的渡口"
+    }
+  ],
+  "translation": "渡口已被佔據，⟨ואת⟩ 蘆葦叢已被火焚燒，戰士們都驚惶失措。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9e0667be2e372106fceaa9511c9b2d67c41ceb4e6d858c853189623e6083a484",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/51\/29-32.1792137755789.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמעברות",
+      "gloss": "渡口"
+    },
+    {
+      "surface": "נתפשו",
+      "gloss": "已被佔據"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "蘆葦叢"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "蘆葦叢"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "已被焚燒"
+    },
+    {
+      "surface": "באש",
+      "gloss": "被火"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "……的人們"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "戰爭"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "驚惶失措"
+    }
+  ],
+  "timestamp": "2026-10-16T08:02:35.790070317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 72:17",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ינין",
+      "rationale": "來自 נוּן（重新發芽、以嫩枝延續）的獨特形式，僅見於此；譯作「發苗延續」保留植物意象。"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויתברכו",
+      "rationale": "「以他的名祝福自己」（如創48:20）與「在他裡面蒙福」兩讀；本譯取後者並保留直說語氣。"
+    }
+  ],
+  "translation": "願他的名存到永遠，在日頭之前他的名必發苗延續；願萬民都在他裡面蒙福得福，願萬國都稱他為有福的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "adf2ee31e20a88469d053f4a16346341db4ab07592323afc55691e694da7f527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/72\/17-20.1792144181488.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "願……存有"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "他的名"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "直到永遠"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在……之前"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "ינין",
+      "gloss": "必發苗延續"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "他的名"
+    },
+    {
+      "surface": "ויתברכו",
+      "gloss": "願……都蒙福得福"
+    },
+    {
+      "surface": "בו",
+      "gloss": "在他裡面"
+    },
+    {
+      "surface": "כל",
+      "gloss": "萬"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "民／國"
+    },
+    {
+      "surface": "יאשרוהו",
+      "gloss": "稱他為有福的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:49:41.488566920Z",
+  "model": "glm-5.3"
+}

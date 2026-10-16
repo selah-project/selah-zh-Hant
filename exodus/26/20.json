@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צלע",
+      "rationale": "字面是「肋骨」，指會幕的側面；中文譯「側翼」以存其形體意象"
+    },
+    {
+      "kind": "measurement",
+      "subject": "二十塊豎板",
+      "rationale": "北面豎板的數量規格"
+    }
+  ],
+  "translation": "會幕的第二面側翼，向北邊，二十塊豎板。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4ba5905649043316d4b06920bdb369035029294b469f1c0299e63a9592c289f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/26\/17-20.1792126269614.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "而向側翼"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "會幕的"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "第二面"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "向……邊"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "北"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "塊豎板"
+    }
+  ],
+  "timestamp": "2026-10-16T04:51:09.615837006Z",
+  "model": "glm-5.3"
+}

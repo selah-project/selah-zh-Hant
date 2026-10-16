@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 5:29",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "安然",
+      "rationale": "ויפליט字面是「使其脫出／帶走」，各譯本補「安然」以表明獵物被帶到安全處"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שאג／נהם",
+      "rationale": "獅吼動詞重複交替，營造層層進逼的聲音效果，中文難以完全保留"
+    },
+    {
+      "kind": "substitution",
+      "subject": "母獅",
+      "rationale": "לביא指母獅（更兇猛的獵手），多數譯本簡作「獅子」，形像被抹平"
+    }
+  ],
+  "translation": "牠吼叫如母獅，又如少壯獅子咆哮；牠低吼，抓住獵物，安然拖走，無人搭救。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2253d951983124f7fa7069c77b687b8eea17cdd51ad80d33d2eda9bb727e51cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/5\/29-30.1792134624767.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאגה",
+      "gloss": "吼叫"
+    },
+    {
+      "surface": "לו",
+      "gloss": "牠"
+    },
+    {
+      "surface": "כלביא",
+      "gloss": "如母獅"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "又咆哮"
+    },
+    {
+      "surface": "ככפירים",
+      "gloss": "如少壯獅子"
+    },
+    {
+      "surface": "וינהם",
+      "gloss": "低吼"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "抓住"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "獵物"
+    },
+    {
+      "surface": "ויפליט",
+      "gloss": "安然拖走"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "搭救者"
+    }
+  ],
+  "timestamp": "2026-10-16T07:10:24.767928229Z",
+  "model": "glm-5.3"
+}

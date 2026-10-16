@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 24:13",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "你們",
+      "rationale": "原文以動詞詞尾表人稱，中文需補出代詞以明確對象"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "重複結構",
+      "rationale": "三組「不是你們……」的平行排比（勞碌／建造／栽種），中文保留此結構"
+    }
+  ],
+  "translation": "我把⟨你們⟩未曾勞碌的地賜給你們，又賜給你們不是你們建造的城邑，你們就住在其中；你們吃著不是你們自己栽種的葡萄園和橄欖樹。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "95c205cf32e1848e145bee027f1f91305aadb269a6636abbb19d65a2bb9b57ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/24\/13-16.1792130030805.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "我賜給"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "你們勞碌"
+    },
+    {
+      "surface": "בה",
+      "gloss": "在其中"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "又城邑"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "בניתם",
+      "gloss": "你們建造"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "你們就住在"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "在其中"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "葡萄園"
+    },
+    {
+      "surface": "וזיתים",
+      "gloss": "和橄欖樹"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "נטעתם",
+      "gloss": "你們栽種"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "你們自己"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "吃著"
+    }
+  ],
+  "timestamp": "2026-10-16T05:53:50.806561159Z",
+  "model": "glm-5.3"
+}

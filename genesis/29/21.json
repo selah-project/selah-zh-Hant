@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הבה",
+      "rationale": "הבה 是命令式的「給」，中文以「請給」緩和語氣"
+    },
+    {
+      "kind": "idiom",
+      "subject": "到我她那裡去",
+      "rationale": "בוא אל 是同房的委婉語，字面是「進到她那裡」"
+    }
+  ],
+  "translation": "雅各對拉班說：「請把⟨את⟩我的妻子給我，因為我的日子已滿，我要到她那裡去。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5a2aa27e0d89c7f43645576a8d4c8ce305ac0b3f10cd92b13715a62c373f8607",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/29\/21-24.1792125114091.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "拉班"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "請給"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的妻子"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "我的妻子"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "已滿"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "我的日子"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "我要去"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "到她那裡"
+    }
+  ],
+  "timestamp": "2026-10-16T04:31:54.092174101Z",
+  "model": "glm-5.3"
+}

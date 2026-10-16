@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-samuel 17:43",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "對大衛",
+      "rationale": "非利士人直接質問並辱罵大衛"
+    },
+    {
+      "kind": "crux",
+      "subject": "棍子",
+      "rationale": "בַּמַּקְלוֹת為複數「棍子」，大衛手中只有一根杖；譯者或照複數、或如七十七譯本作單數"
+    },
+    {
+      "kind": "substitution",
+      "subject": "神明",
+      "rationale": "בֵּאלֹהָיו「在他的眾神（以羅欣）裡」——異教語境，用「神明」而非聖名"
+    }
+  ],
+  "translation": "那非利士人對大衛說：「難道我是狗嗎？你竟拿棍子來到我這裡。」那非利士人就指著自己的神明咒詛⟨את⟩大衛。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "89b451cf4c78c8112e53eb22c64d8df8cf73f2ef168c05ac3796b2370ae12e83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/17\/41-44.1792131197387.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "那非利士人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "狗"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "כי",
+      "gloss": "嗎"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我這裡"
+    },
+    {
+      "surface": "במקלות",
+      "gloss": "拿棍子"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "就咒詛"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "那非利士人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "באלהיו",
+      "gloss": "指著自己的神明"
+    }
+  ],
+  "timestamp": "2026-10-16T06:13:17.388443540Z",
+  "model": "glm-5.3"
+}

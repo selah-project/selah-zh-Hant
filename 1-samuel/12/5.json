@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 12:5",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他是",
+      "rationale": "希伯來文回答只有「見證」一詞，中文需補主語"
+    },
+    {
+      "kind": "crux",
+      "subject": "作見證",
+      "rationale": "עד בכם 可讀作「在你們中間的見證」或「作證攻擊你們」，各譯本分歧"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משיחו",
+      "rationale": "受膏者此處指撒母耳自己，一詞到底不譯作基督"
+    }
+  ],
+  "translation": "他對他們說：「雅威在你們中間作見證，他的受膏者今日也作見證：你們在我手中沒有找到任何東西。」他們說：「⟨他是⟩見證。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ae5a6273aa88dc06720e31d00de57f6e449c243a088c53bd17b45b22adb3b622",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/12\/5-8.1792131019404.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "對他們"
+    },
+    {
+      "surface": "עד",
+      "gloss": "見證"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "在你們中間"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "也作見證"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "他的受膏者"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "מצאתם",
+      "gloss": "你們找到"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "在我的手中"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "任何東西"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "他們說"
+    },
+    {
+      "surface": "עד",
+      "gloss": "見證"
+    }
+  ],
+  "timestamp": "2026-10-16T06:10:19.405544882Z",
+  "model": "glm-5.3"
+}

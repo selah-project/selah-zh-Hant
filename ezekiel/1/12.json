@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 1:12",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הרוח",
+      "rationale": "「靈」或「風」皆可：是差遣活物的靈，還是他們隨之而行的風；此處取「風」，保守於字面。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ילכו×3",
+      "rationale": "「去」字在一節中三現（ללכת…ילכו…בלכתן），行走的主題以重複敲擊，中文保留三個「去／走」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "首句與 1:9 末句",
+      "rationale": "「各向自己臉面直行」逐字重複 1:9 結尾，框住四臉的描述。"
+    }
+  ],
+  "translation": "各向著自己臉面的那一方直行；風要往哪裡去，他們就往哪裡去；他們行走的時候並不轉向。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c2064f9d6c31054ecd64abb83845003ab14c943a031c8a1077ece208ee717401",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/1\/9-12.1792137775201.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "各"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向著"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "那一方"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "自己臉面"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "直行"
+    },
+    {
+      "surface": "אל",
+      "gloss": "往"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "哪裡"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "要"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "那裡"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "風"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "去"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "他們就去"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יסבו",
+      "gloss": "轉向"
+    },
+    {
+      "surface": "בלכתן",
+      "gloss": "他們行走的時候"
+    }
+  ],
+  "timestamp": "2026-10-16T08:02:55.203087269Z",
+  "model": "glm-5.3"
+}

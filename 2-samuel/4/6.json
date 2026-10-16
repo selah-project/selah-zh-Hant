@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 4:6",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "取麥子",
+      "rationale": "לקחי חטים 字面「取麥子的」：偽裝取糧還是當時守衛換崗之時，譯本各異"
+    },
+    {
+      "kind": "crux",
+      "subject": "腹部",
+      "rationale": "החמש 字面「第五（肋）」，傳統譯「第五肋下」，現代譯「腹部／下腹」"
+    },
+    {
+      "kind": "addition",
+      "subject": "像……的人",
+      "rationale": "分詞短語無動詞，中文補出比況語以成句"
+    }
+  ],
+  "translation": "看哪，他們進到屋子的中央，像取麥子的人；他們擊打他的腹部，利甲和他兄弟巴拿就逃走了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0506f02985f44e8e153fc3c793421ce189219bfaf89e3cfac9fb461aa7a566b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/4\/5-8.1792131764185.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "באו",
+      "gloss": "進到"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "中央"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "屋子"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "取"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "麥子"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "擊打他"
+    },
+    {
+      "surface": "אל",
+      "gloss": "在"
+    },
+    {
+      "surface": "החמש",
+      "gloss": "腹部"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "利甲"
+    },
+    {
+      "surface": "ובענה",
+      "gloss": "巴拿"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "他兄弟"
+    },
+    {
+      "surface": "נמלטו",
+      "gloss": "逃走了"
+    }
+  ],
+  "timestamp": "2026-10-16T06:22:44.186780640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "掣籤",
+      "rationale": "גורלי字面是「我的小石」，即用小石掣出的籤，是丈量\/分配的記號"
+    },
+    {
+      "kind": "addition",
+      "subject": "是⟨你⟩",
+      "rationale": "希伯來文強勢獨立代名詞אתה，中文以「是你」重現其強調"
+    }
+  ],
+  "translation": "雅威是我當得的份、是我杯中的份，是⟨你⟩扶持我的掣籤之份。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a9f0d1e529c35e65de466de47729a13b0b3b55bc594c731717a1207842378a8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/16\/5-8.1792143364285.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "當得的份"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "我的分"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "和我的杯"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "扶持"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "我的掣籤"
+    }
+  ],
+  "timestamp": "2026-10-16T09:36:04.285720169Z",
+  "model": "glm-5.3"
+}

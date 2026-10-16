@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 42:3",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "肘",
+      "rationale": "「二十」原文未明言肘，由上下文度量語境補足並加括"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתיק",
+      "rationale": "僅見於以西結書的希伯來詞：或作「廊／遊廊」「三層的廂房」；此處照其「凸出之臺層」之形譯「廊子」"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אתיק",
+      "rationale": "該詞全塔納赫僅出現於以西結書 41–42 章"
+    },
+    {
+      "kind": "measurement",
+      "subject": "二十肘",
+      "rationale": "沿用內院方位丈量"
+    }
+  ],
+  "translation": "對著那屬內院的二十⟨肘⟩，又對著那屬外院的鋪石地，廊子對著廊子，在第三層。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "61363905da4a61e663605f2fda365cca3ac4473e4659fc84f2ab6b774a9c71d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/42\/1-4.1792139133429.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "對著"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那屬於"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "院"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "內"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "又對著"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "鋪石地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那屬於"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "院"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "外"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "廊子"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "廊子"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "第三層"
+    }
+  ],
+  "timestamp": "2026-10-16T08:25:33.430592149Z",
+  "model": "glm-5.3"
+}

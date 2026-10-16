@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 2:22",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "你們",
+      "rationale": "לכם 反身用法，中文以「你們要離棄」表明"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "關係代名詞無獨立中文對應詞，以⟨אשר⟩標記並由語序承擔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשמה באפו",
+      "rationale": "鼻孔裡的一口氣——脆弱必朽的人與上節雅威威嚴的崛起形成對比"
+    },
+    {
+      "kind": "invitation",
+      "subject": "對以色列",
+      "rationale": "命令式「你們要離棄」直接向聽者發出呼籲"
+    }
+  ],
+  "translation": "你們要離棄 ⟨אשר⟩ 那鼻孔裡有氣息的人，因為他算得了甚麼呢？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "15e0f66cd70f4ec1a87cd52785cb961730ac900e797d6e516a55851aba884c74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/2\/21-22.1792134350859.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "你們要離棄"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨你們⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨אשר⟩",
+      "marks": "那鼻孔裡有氣息的人"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "氣息"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "在他的鼻孔裡"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "במה",
+      "gloss": "算得了甚麼"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "被算為"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    }
+  ],
+  "timestamp": "2026-10-16T07:05:50.860426487Z",
+  "model": "glm-5.3"
+}

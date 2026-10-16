@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "破折號補語",
+      "rationale": "中文同位語『埃及的王』以破折號呈現希伯來文名詞串 apposition"
+    }
+  ],
+  "translation": "以及他的記號和他所行的事，就是他在埃及當中所行、對法老——埃及的王——和他全地所行的；",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ef31f912133a2ad1a85300cb17934c74cead5a3e93929008cea6e78a38d84730",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/11\/1-4.1792128754445.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "以及 ⟨את⟩",
+      "marks": "他的記號"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "他的記號"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "以及 ⟨את⟩",
+      "marks": "他所行的事"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "他所行的事"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "他……行"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "在……當中"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "對法老"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及的"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "以及對……的全"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "他的地"
+    }
+  ],
+  "timestamp": "2026-10-16T05:32:34.446859146Z",
+  "model": "glm-5.3"
+}

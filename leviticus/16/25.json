@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨他⟩",
+      "rationale": "希伯來文動詞第三身單數，承接上文的大祭司，中文需補主語"
+    },
+    {
+      "kind": "substitution",
+      "subject": "燻燒",
+      "rationale": "קטר 本義是使發煙成香氣，『燻在壇上』保留煙的意象"
+    }
+  ],
+  "translation": "⟨他⟩要把 ⟨את⟩ 贖罪祭牲的脂油燻在壇上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0f6d8bf77077f86897720c9059ce3f4c68f1b45c8d074a519075b5c784d8bfd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/16\/25-28.1792127105270.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "脂油"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "脂油"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "贖罪祭牲的"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "燻燒"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "在壇上"
+    }
+  ],
+  "timestamp": "2026-10-16T05:05:05.270732429Z",
+  "model": "glm-5.3"
+}

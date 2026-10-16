@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלא",
+      "rationale": "否定詞הלא用作修辭問句「不……嗎」，直譯會誤導"
+    },
+    {
+      "kind": "invitation",
+      "subject": "亞伯蘭對羅得",
+      "rationale": "亞伯蘭以問句與命令邀請羅得自選方向"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמאל\/ימין\/אשמאילה",
+      "rationale": "左右交錯的對偶結構，中文以「左／右」對仗保留"
+    }
+  ],
+  "translation": "全地不都在你面前嗎？請你離開我吧。你若向左，我就向右；你若向右，我就向左。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e9bef3ac35e54187e7586a17cf56659f1f69e679c6e7c67efd9ac6b78b6bc09d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/13\/9-12.1792124739400.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "不……嗎"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "在你面前"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "分開"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "離開我"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "左"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "我就向右"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "右"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "我就向左"
+    }
+  ],
+  "timestamp": "2026-10-16T04:25:39.401148253Z",
+  "model": "glm-5.3"
+}

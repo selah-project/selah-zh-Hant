@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ארון אלהים",
+      "rationale": "「以羅欣的櫃」照字面保留屬格；D2 定案作「櫃」，不作「約櫃」，因本節文本只說「以羅欣的櫃」。"
+    },
+    {
+      "kind": "elision",
+      "subject": "אלהים 的複數形",
+      "rationale": "以羅欣音譯保留原字形，不加單複數解說。"
+    }
+  ],
+  "translation": "以羅欣的櫃被奪去，以利的兩個兒子死了——何弗尼和非尼哈。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "16d7b78cf09d5dabfc13c340a9784c7649c459da851a287886b199f3d0ab3824",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/4\/9-12.1792130820424.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "櫃"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "被奪去"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "兩個"
+    },
+    {
+      "surface": "בני",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "以利"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "死了"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "何弗尼"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "非尼哈"
+    }
+  ],
+  "timestamp": "2026-10-16T06:07:00.425520149Z",
+  "model": "glm-5.3"
+}

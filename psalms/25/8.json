@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文名詞句無繫詞，中文需要「是」"
+    },
+    {
+      "kind": "crux",
+      "subject": "יורה",
+      "rationale": "ירה 可作「教導」（教師 yarah 之源）或「指引方向」；此處作「指教」，兼含引路之義"
+    }
+  ],
+  "translation": "雅威是良善正直的，因此他指教罪人⟨那⟩道路。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f7ebeadd221aa1a9245f9ca19263a00eaddb9c85ee6c267665cbf89101b3ed0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/25\/5-8.1792143516008.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "良善"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "正直"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "על",
+      "gloss": "因此"
+    },
+    {
+      "surface": "כן",
+      "gloss": "……的緣故"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "他指教"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "罪人"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "道路"
+    }
+  ],
+  "timestamp": "2026-10-16T09:38:36.009810261Z",
+  "model": "glm-5.3"
+}

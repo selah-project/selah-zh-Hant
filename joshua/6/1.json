@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סגרת\/ומסגרת",
+      "rationale": "同一詞根重複（關閉／被關閉），強調完全封閉；中文以「嚴嚴實實／緊緊」呼應"
+    },
+    {
+      "kind": "addition",
+      "subject": "的",
+      "rationale": "סגרת ומסגרת 的分詞結構需加繫詞性連接"
+    }
+  ],
+  "translation": "耶利哥城關閉得嚴嚴實實，又緊緊關閉，因以色列人的緣故，無人出去，也無人進來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "be71cc7ae851ab512c4d6208c291dcb6079c0db26b396ef784b36f0d9c454956",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/6\/1-4.1792129514695.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "耶利哥"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "關閉"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "又緊緊關閉"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "因……的緣故"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "出去的"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "也無"
+    },
+    {
+      "surface": "בא",
+      "gloss": "進來的"
+    }
+  ],
+  "timestamp": "2026-10-16T05:45:14.695872218Z",
+  "model": "glm-5.3"
+}

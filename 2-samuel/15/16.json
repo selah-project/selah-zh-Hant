@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ברגליו",
+      "rationale": "直譯「在他的腳下」，即跟隨他步行。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "עשר",
+      "rationale": "十個妃嬪，數目原位保留，呼應撒下20章與押沙龍事件。"
+    }
+  ],
+  "translation": "王出去，他全家的人都跟隨他的腳步行，王留下⟨את⟩十個女人——就是妃嬪——看守宮殿。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "19a1d22330635f4300dea5fe62eb52e33b4f4fa69f5028a74410113fb6ea966d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/15\/13-16.1792132030363.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和他全家"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "他的家"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "跟隨他的腳步行"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "留下"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "十個女人"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "女人"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "妃嬪"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "看守"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "宮殿"
+    }
+  ],
+  "timestamp": "2026-10-16T06:27:10.365440153Z",
+  "model": "glm-5.3"
+}

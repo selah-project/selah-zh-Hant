@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחד\/פחת\/פח",
+      "rationale": "三個近音詞接連堆疊（驚惶、坑、網），中文無法保留這聲音鏈。"
+    },
+    {
+      "kind": "you",
+      "subject": "地上的居民",
+      "rationale": "直接稱呼全地的居民。"
+    }
+  ],
+  "translation": "驚惶、坑阱與網羅都臨到你，地上的居民啊。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "02ac9cb9b7255fc3aeafc4bedfb0a513ed5d7fef824382e6112819c26fcd98f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/24\/17-20.1792135017182.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "和坑阱"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "與網羅"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "臨到你"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "居民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上的"
+    }
+  ],
+  "timestamp": "2026-10-16T07:16:57.182575135Z",
+  "model": "glm-5.3"
+}

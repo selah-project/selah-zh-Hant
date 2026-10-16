@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 3:5",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "贖回",
+      "rationale": "יגאלהו：迦勒底翁譯『玷汙』，楊氏直譯『贖回』（如贖回產業），此處取字面贖回義"
+    },
+    {
+      "kind": "hapax",
+      "subject": "כמרירי",
+      "rationale": "僅以複數出現於《塔納赫》，指光被吞噬的幽暗／日蝕之暗"
+    },
+    {
+      "kind": "substitution",
+      "subject": "死蔭",
+      "rationale": "צלמות＝死亡之蔭，字面形狀保留"
+    }
+  ],
+  "translation": "願黑暗和死蔭把它贖回，願雲霧安居在其上；願白日的幽暗使它驚恐，如最苦之日一般。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "04cc00782941dd4c58ff4d92d2e5b7f1bc517d601098d9e661d5de6ddd945575",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/3\/5-8.1792145754328.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגאלהו",
+      "gloss": "把它贖回"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "黑暗"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "和死蔭"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "願……安居"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "在其上"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "雲霧"
+    },
+    {
+      "surface": "יבעתהו",
+      "gloss": "使它驚恐"
+    },
+    {
+      "surface": "כמרירי",
+      "gloss": "如最苦的"
+    },
+    {
+      "surface": "יום",
+      "gloss": "之日"
+    }
+  ],
+  "timestamp": "2026-10-16T10:15:54.328819274Z",
+  "model": "glm-5.3"
+}

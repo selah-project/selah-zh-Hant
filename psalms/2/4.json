@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "必",
+      "rationale": "中文未來語氣助詞，希伯來文由動詞形態承擔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישחק／ילעג",
+      "rationale": "兩個『笑』的動詞並列——歡笑與嘲弄，中文以『發笑／嗤笑』區分"
+    }
+  ],
+  "translation": "坐在天上的必發笑，阿多奈必嗤笑他們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "da8a75b40a107b51d77aecac28add6566eac14ccbded1c29b7ae567704b28035",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/2\/1-4.1792143204785.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "在天上"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "必發笑"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "必嗤笑"
+    },
+    {
+      "surface": "למו",
+      "gloss": "他們"
+    }
+  ],
+  "timestamp": "2026-10-16T09:33:24.786404575Z",
+  "model": "glm-5.3"
+}

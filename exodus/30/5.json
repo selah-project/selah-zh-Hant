@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "它們",
+      "rationale": "אתם 為受詞標記，指向桿子；中文以「它們」補足受詞並加括號"
+    }
+  ],
+  "translation": "你要用皂莢木做 ⟨את⟩ 桿子，用金子包裹 ⟨את⟩ 它們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8b6e00aac884210ceacd4f25a5f108db61ed176ab43c081fe6b915267a3f4691",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/30\/5-8.1792126328306.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "你要做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "桿子"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "桿子"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "木"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "皂莢"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "你要包裹"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "它們"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金子"
+    }
+  ],
+  "timestamp": "2026-10-16T04:52:08.307519736Z",
+  "model": "glm-5.3"
+}

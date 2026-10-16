@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "攻擊",
+      "rationale": "קמיך 直譯「起來（抵擋）你的人」，中文補「攻擊」以達意"
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "延續上一節對以羅欣的直接呼求"
+    }
+  ],
+  "translation": "求你不要忘記你敵人的聲音，起來攻擊你之人的喧囂不住上騰。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "39cb3110782b1e51d8213863432bb7799bec990105c6d57346399b1de4477c38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/74\/21-23.1792144199454.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "求不要"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "忘記"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲音"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "你敵人的"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "喧囂"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "起來攻擊你之人的"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上騰"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "不住"
+    }
+  ],
+  "timestamp": "2026-10-16T09:49:59.456168389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "中文需動詞判斷字，希伯來文無繫動詞"
+    },
+    {
+      "kind": "crux",
+      "subject": "אל כפים",
+      "rationale": "「向手掌」——心向手舉起（和合本：心與手一同舉起）還是心被舉到張開的手掌之上"
+    },
+    {
+      "kind": "you",
+      "subject": "to God in heaven",
+      "rationale": "直接向天上的伊勒發言"
+    }
+  ],
+  "translation": "我們舉起我們的心向⟨著⟩手掌，向伊勒，⟨那⟩在天上的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4fba566d6b5bd59f449d9992520aab66cb773f7233d713d8907c74f13ed09760",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/lamentations\/3\/41-44.1792146780353.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "我們舉起"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "我們的心"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向⟨著⟩"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "手掌"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "在天上的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:33:00.354374310Z",
+  "model": "glm-5.3"
+}

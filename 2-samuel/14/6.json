@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מציל",
+      "rationale": "字面「拯救者／奪走者」，譯作「拉開的人」取其現場分隔之義"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "受詞記號與代詞合一，譯文中併入「他」"
+    }
+  ],
+  "translation": "婢女有兩個兒子，二人在田間爭鬥，中間沒有人拉開，一個打了⟨את⟩另一個，把他打死了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8822c0ad97eefc47f5a671ecbbe6c040834106384360afea431b1cc633405820",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/14\/5-8.1792131970569.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "婢女"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩個"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "爭鬥"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "二人"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "在田間"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "拉開的人"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "中間"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "打了"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一個"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "另一個"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "另一個"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "打死了"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨אותו⟩",
+      "marks": "他"
+    }
+  ],
+  "timestamp": "2026-10-16T06:26:10.571531588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 5:4",
+  "book": "nehemiah",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שדתינו וכרמינו",
+      "rationale": "田地葡萄園與前句的關係不明：是借貸的抵押，還是賦稅加於其上（「upon our fields」）；希伯來文僅並列，未言明。"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨抵押的是⟩",
+      "rationale": "中文需點明田地葡萄園與借貸的關係，希伯來文僅並列名詞。"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "關係詞由中文句法吸收。"
+    }
+  ],
+  "translation": "也有人說：「我們已為王的賦稅借了銀錢——⟨抵押的是⟩我們的田地和我們的葡萄園。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3e4851fd4e7ef30bc5bc4836abad8c6a6d0fede2e092517c8fc697a5af5f4465",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nehemiah\/5\/1-4.1792148040211.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "也有"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "人說"
+    },
+    {
+      "surface": "לוינו",
+      "gloss": "我們已借了"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀錢"
+    },
+    {
+      "surface": "למדת",
+      "gloss": "為…的賦稅"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שדתינו",
+      "gloss": "我們的田地"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "和我們的葡萄園"
+    }
+  ],
+  "timestamp": "2026-10-16T10:54:00.212603703Z",
+  "model": "glm-5.3"
+}

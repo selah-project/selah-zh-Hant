@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לֹא עַמִּי",
+      "rationale": "象徵名「羅阿米」字面即「非我民」，音譯並以括註存其字面義"
+    },
+    {
+      "kind": "crux",
+      "subject": "וְאָנֹכִי לֹא אֶהְיֶה לָכֶם",
+      "rationale": "字面「我必不作你們的〈所是〉」；諸譯本補「你們的神／你們的」，原文無 אלהיך——此處補⟨神⟩並以括號標示"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לֹא עַמִּי \/ לֹא עַמִּי",
+      "rationale": "孩子的名與宣告語句同字重複，名即審判信息，中譯以音譯加括註保留"
+    }
+  ],
+  "translation": "他說：「給他起名叫羅阿米（非我民），因為你們不是我的民，我也必不作你們的⟨神⟩。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d0b80b7aeffca42215d533f24984fc8f564c28384dc661b562b9e97a36af51b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/1\/9-9.1792139308968.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "給…起名叫"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "他的名"
+    },
+    {
+      "surface": "לא",
+      "gloss": "羅（非）"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "阿米（我民）"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的民"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "而我"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "我必存在（作）"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "屬於你們"
+    }
+  ],
+  "timestamp": "2026-10-16T08:28:28.969089518Z",
+  "model": "glm-5.3"
+}

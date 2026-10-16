@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "並一切……之物",
+      "rationale": "עבר ארחות ימים 字面是「遊行於海道者」，中文加「一切……之物」以成句"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הים\/ימים",
+      "rationale": "同一節內「海」以單數與複數並現（דגי הים／ארחות ימים），中文難以保留"
+    }
+  ],
+  "translation": "空中的飛鳥和海裡的魚，並一切遊過海道之物的⟨את⟩⟨他⟩，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "eb58508ff3f199256c102446a6e0832d2f37da1a0fca7fb9c90c2143b34e5232",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/8\/9-10.1792143173012.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "飛鳥"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "空中的"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "並……的魚"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "遊過"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "道"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "海"
+    }
+  ],
+  "timestamp": "2026-10-16T09:32:53.012728061Z",
+  "model": "glm-5.3"
+}

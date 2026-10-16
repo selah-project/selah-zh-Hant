@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 130,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "「他」承接上文的雅威，希伯來文以והוא強調主語"
+    }
+  ],
+  "translation": "他必救贖 ⟨את⟩ 以色列脫離他一切的罪孽。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3696f5af547dcfc3c015564eab1208db384e056e1d7c5f57c7aadb843fdc2e37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/130\/5-8.1792144996165.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "而他"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "必救贖"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "脫離他一切的"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "罪孽"
+    }
+  ],
+  "timestamp": "2026-10-16T10:03:16.167594029Z",
+  "model": "glm-5.3"
+}

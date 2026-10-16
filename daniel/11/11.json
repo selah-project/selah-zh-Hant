@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 11:11",
+  "book": "daniel",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויתמרמר",
+      "rationale": "字根 מרר「苦」的加強重複形，「苦上加苦」即怒火中燒；中文無法保留叠字形。"
+    },
+    {
+      "kind": "crux",
+      "subject": "ההמון בידו",
+      "rationale": "「這軍被交在他手裡」：誰擺列的軍（北方王的）被交在誰（南方王）手裡，代詞需由上下文補足。"
+    },
+    {
+      "kind": "addition",
+      "subject": "南方王",
+      "rationale": "原文只作「他手裡」，中文需標明歸屬。"
+    }
+  ],
+  "translation": "南方王必大發烈怒，出來與他爭戰，就是與北方王爭戰；北方王擺列眾多大軍，這軍卻被交在南方王手裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "03836e91b6badd55106d4ca2904c87e1e18395c7472f5504dba8865e5c8d2b8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/daniel\/11\/9-12.1792147713866.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתמרמר",
+      "gloss": "必大發烈怒"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "南方"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "必出來"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "必爭戰"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "與他"
+    },
+    {
+      "surface": "עם",
+      "gloss": "與"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "北方"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "必擺列"
+    },
+    {
+      "surface": "המון",
+      "gloss": "大軍"
+    },
+    {
+      "surface": "רב",
+      "gloss": "眾多"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "卻被交"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "這軍"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "在他手裡"
+    }
+  ],
+  "timestamp": "2026-10-16T10:48:33.867623435Z",
+  "model": "glm-5.3"
+}

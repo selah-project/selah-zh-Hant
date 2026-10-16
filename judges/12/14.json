@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 12:14",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "四十、三十、七十、八",
+      "rationale": "本節以數字羅列家族與任期：四十子、三十孫、七十驢駒、審判八年。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "grandsons",
+      "rationale": "בני בנים 直譯「兒子的兒子」，譯作「孫子」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "驢駒",
+      "rationale": "עירם 是「剛馴負的幼驢」，中文以「驢駒」一詞涵蓋。"
+    }
+  ],
+  "translation": "他有四十個兒子和三十個孫子，騎著七十匹驢駒；他審判 ⟨את⟩ 以色列八年。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "72a242087f79c2d9c0352148a5df37688015a455add37d30b06ebded01e1c7be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/12\/13-15.1792130393019.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "有"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "和三十"
+    },
+    {
+      "surface": "בני",
+      "gloss": "兒子的"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "騎著"
+    },
+    {
+      "surface": "על",
+      "gloss": "騎著"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "七十"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "驢駒"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "審判了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "八"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    }
+  ],
+  "timestamp": "2026-10-16T05:59:53.020670749Z",
+  "model": "glm-5.3"
+}

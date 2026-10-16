@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "〈如〉",
+      "rationale": "希伯來文為同位語式的並列（枝條＝伊勒的香柏樹），中文需比喻詞連接。"
+    },
+    {
+      "kind": "crux",
+      "subject": "ארזי אל",
+      "rationale": "「伊勒的香柏樹」（屬格加強式）或譯「極大的香柏樹」（KJV「美好」），此處保留伊勒之名。"
+    }
+  ],
+  "translation": "群山被它的蔭影遮蓋，它的枝條〈如〉伊勒的香柏樹。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a835006f4b65c92aee8d4e959699c53c8018ccf5295e155d210101f252261803",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/80\/10-11.1792149886611.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "遮蓋"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "群山"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "它的蔭影"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "它的枝條"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "香柏樹"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒的"
+    }
+  ],
+  "timestamp": "2026-10-16T11:24:46.612058034Z",
+  "model": "glm-5.3"
+}

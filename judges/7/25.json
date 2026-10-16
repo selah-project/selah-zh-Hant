@@ -1,0 +1,159 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 7:25",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ערב בצור ערב \/ זאב ביקב זאב",
+      "rationale": "人名與地名呼應：俄立死於「俄立磐石」，西伊伯死於「西伊伯酒醡」——地方因被殺之人得名（或反之），雙關在中文中靠重複人名保留。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ערב／זאב",
+      "rationale": "ערב 意為「烏鴉」，זאב 意為「狼」——名字本身是動物，中文音譯（和合本通行）失去此層。"
+    },
+    {
+      "kind": "addition",
+      "subject": "交給",
+      "rationale": "原文只說「帶到基甸」，中文補「交給」以成句。"
+    }
+  ],
+  "translation": "他們捉住了米甸的兩名首領——⟨את⟩ 俄立和 ⟨את⟩ 西伊伯；他們在俄立磐石處殺了 ⟨את⟩ 俄立，又在西伊伯酒醡處殺了 ⟨את⟩ 西伊伯。他們追擊米甸人，把俄立和西伊伯的首級帶到約旦河那邊，交給基甸。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0eb6630799f9f0c7403f7737d5ece1997359ab3ac2be418bc744bdbc5c921c2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/7\/25-25.1792130236249.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכדו",
+      "gloss": "他們捉住了"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩名"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "首領"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "米甸"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "俄立"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "俄立"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "西伊伯"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "西伊伯"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "他們殺了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "俄立"
+    },
+    {
+      "surface": "עורב",
+      "gloss": "俄立"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "在磐石處"
+    },
+    {
+      "surface": "עורב",
+      "gloss": "俄立"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "西伊伯"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "西伊伯"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "殺了"
+    },
+    {
+      "surface": "ביקב",
+      "gloss": "在酒醡處"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "西伊伯"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "他們追擊"
+    },
+    {
+      "surface": "אל",
+      "gloss": "追向"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "米甸"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "首級"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "俄立"
+    },
+    {
+      "surface": "וזאב",
+      "gloss": "和西伊伯"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "他們帶到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "給"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "基甸"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "那邊"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "約旦河"
+    }
+  ],
+  "timestamp": "2026-10-16T05:57:16.249604607Z",
+  "model": "glm-5.3"
+}

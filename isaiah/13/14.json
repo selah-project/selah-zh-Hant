@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 13:14",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צבי",
+      "rationale": "各譯本作「瞪羚／鹿」；KJV 作 roe，JPS 作 gazelle，字面為「華美之獸」，此處取瞪羚。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש…יפנו／ואיש…ינוסו",
+      "rationale": "「各人……轉向／各人……逃」兩聯重複平行結構，中文保留其對仗。"
+    }
+  ],
+  "translation": "那時，人必像被追趕的瞪羚，又如無人收聚的羊群：各人轉向自己的民，各人逃往自己的地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f7781f639bf1de9b3f5b44ccae7bcd7a3af1804de0761600ced9aa623de2fa8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/13\/13-16.1792134708396.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "那時（事情必如此）"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "像瞪羚"
+    },
+    {
+      "surface": "מדח",
+      "gloss": "被追趕的"
+    },
+    {
+      "surface": "וכצאן",
+      "gloss": "又如羊群"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "מקבץ",
+      "gloss": "收聚的"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "自己的民"
+    },
+    {
+      "surface": "יפנו",
+      "gloss": "必轉向"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "往"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "自己的地"
+    },
+    {
+      "surface": "ינוסו",
+      "gloss": "必逃"
+    }
+  ],
+  "timestamp": "2026-10-16T07:11:48.397823754Z",
+  "model": "glm-5.3"
+}

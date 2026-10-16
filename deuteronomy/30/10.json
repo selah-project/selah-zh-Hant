@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 30:10",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש是氣息、生命之力，非不朽靈魂，此處譯「性命」保其本義"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמע\/שוב",
+      "rationale": "「聽從」與「歸回」在本章反覆交織（30:8同構），構成全章的回轉主題"
+    }
+  ],
+  "translation": "倘若你聽從雅威你以羅欣的聲音，謹守他的誡命和律例，就是寫在這妥拉書上的；倘若你盡心盡性歸向雅威你的以羅欣，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1a63e0cb29759a638331b6fb4579cdde360e9da6799c109af65c0cd21026ce65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/30\/9-12.1792129195235.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "倘若"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "你聽從"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "…的聲音"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "謹守"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "他的誡命"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "和他的律例"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "所寫的"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "在…書上"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "這妥拉"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "כי",
+      "gloss": "倘若"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "你歸回"
+    },
+    {
+      "surface": "אל",
+      "gloss": "歸向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "盡…全部"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "你的心"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "和盡"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "你的性命"
+    }
+  ],
+  "timestamp": "2026-10-16T05:39:55.236534027Z",
+  "model": "glm-5.3"
+}

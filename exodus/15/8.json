@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 15:8",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רוח אפיך",
+      "rationale": "「你鼻中的魯阿」：多數譯本作「鼻中的氣／暴風」，字面是氣息或風，與神連用故音譯為魯阿並括註"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נד",
+      "rationale": "「壘／堆」（נֵד）僅在此與詩 78:13 出現，罕見詞"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תהמת",
+      "rationale": "「深淵」回應第5節同一詞，首尾呼應"
+    }
+  ],
+  "translation": "你鼻中的魯阿（靈／氣息）一出，水便堆聚；流動的水直立如壘；深淵在海心中凝結。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f65a8ce19228e7c840b3053e7fcf19f57268e1c66c94b717587ee154627cbe64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/15\/5-8.1792125947354.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברוח",
+      "gloss": "以魯阿"
+    },
+    {
+      "surface": "אפיך",
+      "gloss": "你鼻中的"
+    },
+    {
+      "surface": "נערמו",
+      "gloss": "堆聚"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "נצבו",
+      "gloss": "直立"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "如"
+    },
+    {
+      "surface": "נד",
+      "gloss": "壘"
+    },
+    {
+      "surface": "נזלים",
+      "gloss": "流動的水"
+    },
+    {
+      "surface": "קפאו",
+      "gloss": "凝結"
+    },
+    {
+      "surface": "תהמת",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "在…心中"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    }
+  ],
+  "timestamp": "2026-10-16T04:45:47.355355542Z",
+  "model": "glm-5.3"
+}

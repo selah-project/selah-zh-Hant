@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 13:1",
+  "book": "nehemiah",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "有人",
+      "rationale": "נקרא 被動式無主詞，中文加「有人」以成句"
+    },
+    {
+      "kind": "substitution",
+      "subject": "以羅欣的會",
+      "rationale": "קהל האלהים 直譯「以羅欣的會眾」，此處指敬拜群體"
+    }
+  ],
+  "translation": "在那日，有人在百姓耳中誦讀摩西的書，書中寫著：亞捫人和摩押人永不可入以羅欣的會中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "82e74346f050f7983a14ff82b45861843a0229ec55164d5445f98464f7dcdfab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nehemiah\/13\/1-4.1792148276065.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "在那日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "那"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "被誦讀"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "在……的書"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "在……耳中"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "就發現"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "寫著"
+    },
+    {
+      "surface": "בו",
+      "gloss": "在其中"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "說"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "入"
+    },
+    {
+      "surface": "עמני",
+      "gloss": "亞捫人"
+    },
+    {
+      "surface": "ומאבי",
+      "gloss": "和摩押人"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "入……的會"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-10-16T10:57:56.065579869Z",
+  "model": "glm-5.3"
+}

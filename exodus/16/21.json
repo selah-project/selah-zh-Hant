@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כפי אכלו",
+      "rationale": "字面「按他口中之食」，即按食量；以口喻分量"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בבקר בבקר",
+      "rationale": "「早晨早晨」重疊，表每日重複"
+    }
+  ],
+  "translation": "他們早晨早晨拾取 ⟨אתו⟩，各人按他吃的分量；太陽一熱，它就融化了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f3faeac6ea985d33457ecd8b267d935cdef99f4885a3f069d1cb53bdefbdafd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/16\/21-24.1792126017087.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "拾取"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "它（嗎哪）"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "早晨"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "早晨"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "按……的分量"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "他吃的"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "一熱"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "融化了"
+    }
+  ],
+  "timestamp": "2026-10-16T04:46:57.087965336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "麵包",
+      "rationale": "לחם 兼指食物與餅；此處泛指食物"
+    }
+  ],
+  "translation": "你不給疲乏的人水喝，又從飢餓的人扣留麵包。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1c7995cbd485173227245c7cb067b4f592ccae65d76188ac0ccf6de09839ef39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/22\/5-8.1792146203234.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "疲乏的人"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "你給喝"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "而從飢餓的人"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "你扣留"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "麵包"
+    }
+  ],
+  "timestamp": "2026-10-16T10:23:23.235335980Z",
+  "model": "glm-5.3"
+}

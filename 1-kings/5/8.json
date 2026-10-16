@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 5:8",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רכש",
+      "rationale": "指驛路上的坐騎（騾或快馬），非單一動物名"
+    },
+    {
+      "kind": "addition",
+      "subject": "〈職分〉",
+      "rationale": "『那地方』原文無明言是什麼的地方，中文補出語境所指的職分"
+    }
+  ],
+  "translation": "他們又把大麥和乾草運到那有〈職分〉的地方，給馬和快騾，各人照著自己的職分。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "67c0c506ec3d2e7b5a79e4f076fa23dd9addcc8bc601895f9869a7259e5e4225",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/5\/5-8.1792132611842.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשערים",
+      "gloss": "和大麥"
+    },
+    {
+      "surface": "והתבן",
+      "gloss": "和乾草"
+    },
+    {
+      "surface": "לסוסים",
+      "gloss": "給馬"
+    },
+    {
+      "surface": "ולרכש",
+      "gloss": "和快騾"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "運到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "那地方"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那裡"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "在"
+    },
+    {
+      "surface": "שם",
+      "gloss": "那裡"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "照自己的職分"
+    }
+  ],
+  "timestamp": "2026-10-16T06:36:51.843827797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "這樣的",
+      "rationale": "希伯來文無指示詞，中文需補出承接上文的知識"
+    },
+    {
+      "kind": "crux",
+      "subject": "פלאיה",
+      "rationale": "或作「對我太奇妙」（超乎我能承受）或「比我奇妙」；動詞省略，語意從構詞推得"
+    }
+  ],
+  "translation": "這樣的知識對我奇妙難測，它高得我不能及。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/139\/5-8.1792145041249.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "奇妙難測"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "對我（超出我）"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "它高不可及"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "我能"
+    },
+    {
+      "surface": "לה",
+      "gloss": "及於它"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:01.251523423Z",
+  "model": "glm-5.3"
+}

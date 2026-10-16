@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 7:13",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בעצם היום הזה",
+      "rationale": "字面「在這日的本體（骨頭）裡」，即「正當這一日」，強調同一日。"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨他的⟩",
+      "rationale": "中文需加所有格以釐清「三個兒子的妻子」。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "三個兒子的妻子",
+      "rationale": "經文數算進入方舟的人數共八人。"
+    }
+  ],
+  "translation": "正當這一日，挪亞進入了方舟，他的兒子閃、含、雅弗，並挪亞的妻子和⟨他的⟩三個兒子的妻子，都與他們一同進入方舟。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7779818b5ecbfb020768820301cd4e596c3596d641f848a8e98d699cd97dd60e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/7\/13-16.1792124654945.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "正當…的本體"
+    },
+    {
+      "surface": "היום",
+      "gloss": "這一日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "בא",
+      "gloss": "進入了"
+    },
+    {
+      "surface": "נח",
+      "gloss": "挪亞"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "和閃"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "和含"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "和雅弗"
+    },
+    {
+      "surface": "בני",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "נח",
+      "gloss": "挪亞"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "和…的妻子"
+    },
+    {
+      "surface": "נח",
+      "gloss": "挪亞"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "和三個"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "妻子"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "他的兒子們"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩與他們",
+      "marks": "與他們一同進入方舟的全家"
+    },
+    {
+      "surface": "אל",
+      "gloss": "進入"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "方舟"
+    }
+  ],
+  "timestamp": "2026-10-16T04:24:14.946598571Z",
+  "model": "glm-5.3"
+}

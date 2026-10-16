@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "消瘦",
+      "rationale": "כחש 本義為『說謊、失信』，此處指肉體『失效、衰敗』，中文取其身體義。"
+    }
+  ],
+  "translation": "我的膝因禁食而搖晃，我的肉消瘦失了油脂。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "435c461fed7a48b2b615472f9cc58d672b82cf4e97ebaacf493f1e4ed725e059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/109\/21-24.1792144729987.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "我的膝"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "搖晃"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "因禁食"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "而我的肉"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "消瘦"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "失了油脂"
+    }
+  ],
+  "timestamp": "2026-10-16T09:58:49.988876920Z",
+  "model": "glm-5.3"
+}

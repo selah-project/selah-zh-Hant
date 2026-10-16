@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 7:13",
+  "book": "song-of-songs",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "來吧",
+      "rationale": "第一人稱複數勸诱式「我們……吧」邀請良人同行"
+    },
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "三個「是否」子句共用以אם引導，中文重複「是否」以合語法"
+    },
+    {
+      "kind": "addition",
+      "subject": "去吧",
+      "rationale": "希伯來不定式附代詞（נשכימה）本身含勸诱語氣，中文加「去吧」使邀請明確"
+    }
+  ],
+  "translation": "我們清早起來到葡萄園去吧，看看葡萄樹是否發芽，花苞是否綻開，石榴是否開花；在那裡，我要將我的愛情給 ⟨את⟩ 你。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0cf249feedb7cfb9370f18243c053910d74b482f465f3645070afd19ff9d2888",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/7\/13-14.1792146556379.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשכימה",
+      "gloss": "清早起來"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "到葡萄園"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "看看"
+    },
+    {
+      "surface": "אם",
+      "gloss": "是否"
+    },
+    {
+      "surface": "פרחה",
+      "gloss": "發芽"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "葡萄樹"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "綻開"
+    },
+    {
+      "surface": "הסמדר",
+      "gloss": "花苞"
+    },
+    {
+      "surface": "הנצו",
+      "gloss": "開花"
+    },
+    {
+      "surface": "הרמונים",
+      "gloss": "石榴"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裡"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "我要給"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的愛情"
+    },
+    {
+      "surface": "דדי",
+      "gloss": "我的愛情"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    }
+  ],
+  "timestamp": "2026-10-16T10:29:16.380117023Z",
+  "model": "glm-5.3"
+}

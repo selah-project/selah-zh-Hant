@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "的人",
+      "rationale": "עשוקים 為分詞「被欺壓者」，中文加「的人」以成句。"
+    }
+  ],
+  "translation": "雅威施行公義，為一切受欺壓的人行審判。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "76921e225b98ec9ed64292986f687e5ad0aa90daadad06d654cd0993598f9e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/103\/5-8.1792144559576.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "施行"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "公義"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "和審判"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "為一切"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "受欺壓的人"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:59.577342996Z",
+  "model": "glm-5.3"
+}

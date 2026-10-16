@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 25:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "生命氣息",
+      "rationale": "נפש是氣息、生命之力，不是不朽的靈魂"
+    },
+    {
+      "kind": "elision",
+      "subject": "בטוב",
+      "rationale": "「在美善中」是介詞短語，譯作安居的狀態"
+    }
+  ],
+  "translation": "他的生命氣息必安居在美善中，他的後裔必承受地土。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2a4a084d38c9048d9451005b7fcdac57ce53288afb945c9eaa0475b240f2053a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/25\/13-16.1792143556115.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "他的生命氣息"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "在美善中"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "必安居"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "他的後裔"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "必承受"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地土"
+    }
+  ],
+  "timestamp": "2026-10-16T09:39:16.115706135Z",
+  "model": "glm-5.3"
+}

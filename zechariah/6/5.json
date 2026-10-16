@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 6:5",
+  "book": "zechariah",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "魯阿",
+      "rationale": "רוחות 兼有「風」與「靈」二義；英譯在 winds\/spirits 之間分歧，中文以音譯一詞到底並括註"
+    },
+    {
+      "kind": "crux",
+      "subject": "מהתיצב",
+      "rationale": "「從侍立（於阿多奈面前）之處出來」：各家或作『前去侍立』（KJV）、或作『已侍立之後出來』（ASV）、或作『往四方去』（JPS）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "阿多奈",
+      "rationale": "אדון כל האארץ 指神，音譯阿多奈，不以「主」遮蓋"
+    }
+  ],
+  "translation": "那天使回答，對我說：「這些是天上出來的四個魯阿（靈），牠們從侍立在全地之阿多奈面前之處出來。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7df23a8c6f971657e148a061574fec0d51f6c80c97112701353658eaabe3b0df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/zechariah\/6\/5-8.1792143032631.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "回答"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "那天使"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些是"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "רחות",
+      "gloss": "個魯阿（靈）"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天上的"
+    },
+    {
+      "surface": "יוצאות",
+      "gloss": "出來"
+    },
+    {
+      "surface": "מהתיצב",
+      "gloss": "從侍立之處"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……面前"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-10-16T09:30:32.631597782Z",
+  "model": "glm-5.3"
+}

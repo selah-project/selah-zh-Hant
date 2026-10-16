@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לאדני",
+      "rationale": "「我主」指人或指王，歷來爭議；此處按字面保留「我主」，不指認身分"
+    },
+    {
+      "kind": "you",
+      "subject": "to my lord",
+      "rationale": "全詩是雅威對「我主」的直接說話"
+    },
+    {
+      "kind": "substitution",
+      "subject": "諭示",
+      "rationale": "נאם是神諭的專用詞，非一般「說」"
+    }
+  ],
+  "translation": "大衛的詩。雅威的諭示臨到我主：坐在我右邊，直到我使你的仇敵作你腳的腳凳。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a9fc14d6108c4830e16e28557f49cfef27112e6db4f52b942264cdbdb7d92645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/110\/1-4.1792144745955.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "諭示"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "臨到我主"
+    },
+    {
+      "surface": "שב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "在我右邊"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "我使"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "你的仇敵"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "腳凳"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "你腳的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:59:05.955679434Z",
+  "model": "glm-5.3"
+}

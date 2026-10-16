@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "節序",
+      "rationale": "希伯來文本 22:1 是夜賊挖洞條款；英譯（KJV等）的「五牛賠一牛」其實在希伯來文 21:37，兩個編號系統不同。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "血債",
+      "rationale": "דמים 直譯「血（複數）」，指流人血之罪責；譯「血債」以保留賠償語義。"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨入屋⟩",
+      "rationale": "במחתרת 字面是「在挖洞中」，中文需補出入屋語境。"
+    }
+  ],
+  "translation": "若有賊在挖洞⟨入屋⟩時被發現，被擊打而死，他沒有血債。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1bc048124d35040857de33e617141d813587dc1df0fd409e15c47105e3bbd233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/22\/1-4.1792126167548.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "在挖洞⟨入屋⟩時"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "被發現"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "賊"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "被擊打"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "而死"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "血債"
+    }
+  ],
+  "timestamp": "2026-10-16T04:49:27.548553897Z",
+  "model": "glm-5.3"
+}

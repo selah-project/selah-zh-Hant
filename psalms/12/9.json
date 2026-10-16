@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "זולות",
+      "rationale": "זֻלּוּת 全本塔納赫僅此一見；詞根關乎「輕賤／卑劣」，欽定本作 the vilest men，其他譯本作 vileness"
+    },
+    {
+      "kind": "crux",
+      "subject": "כרם זולות",
+      "rationale": "「卑劣被高舉」與「卑劣之人（複數）被高舉」兩讀並存；取抽象物之讀（如 jps\/asv）"
+    },
+    {
+      "kind": "addition",
+      "subject": "之事",
+      "rationale": "זולות 作抽象名詞，中文需加「之事」以成句"
+    }
+  ],
+  "translation": "惡人四處遊行，因為卑劣之事在人子中間被高舉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b2778bfa2d03ee89d0f960057d56dd703d5cd57a8b8b89b82e2c82745f85fc0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/12\/9-9.1792143289844.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "四處"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "遊行"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "被高舉"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "卑劣之事"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "在……之子中間"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-10-16T09:34:49.845838851Z",
+  "model": "glm-5.3"
+}

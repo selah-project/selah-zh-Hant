@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 118:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "語氣助詞「如今／請」在中文自然語流中併入願望式，未單獨譯出"
+    },
+    {
+      "kind": "addition",
+      "subject": "因為",
+      "rationale": "כי 在此為引語標記而非因果連詞，以引號取代；括號標示其直譯"
+    },
+    {
+      "kind": "invitation",
+      "subject": "יאמר נא",
+      "rationale": "禮儀召喚，逐一點名以色列、亞倫家、敬畏雅威者"
+    }
+  ],
+  "translation": "願以色列說：「他的慈愛存到永遠。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3c25990045a90f821ca2b854677a058eee5ccc8c201918ed0faf2d728f337cf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/118\/1-4.1792144790274.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "願……說"
+    },
+    {
+      "surface": "נא",
+      "gloss": "如今"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨因為⟩"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "他的慈愛"
+    }
+  ],
+  "timestamp": "2026-10-16T09:59:50.275207526Z",
+  "model": "glm-5.3"
+}

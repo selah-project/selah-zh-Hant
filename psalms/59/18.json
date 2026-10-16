@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "向雅威",
+      "rationale": "直接向神呼喊「我的力量啊，我要向你頌讚」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "彈琴頌讚",
+      "rationale": "אזמרה 本義是撥弄琴弦、奏樂，非僅口唱"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלהי חסדי",
+      "rationale": "字面「我慈愛的以羅欣」：可作「向我施慈愛的神」或「我所仰望其慈愛的神」"
+    }
+  ],
+  "translation": "我的力量啊，我要向你彈琴頌讚，因為以羅欣是我的高臺，是施慈愛給我的以羅欣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "92db15f142b0c9afd42cf02ab6b79365ec523970a97251b92e8960f528c1abfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/59\/17-18.1792143930942.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "我的力量"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "我要彈琴頌讚"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "我的高臺"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "……的以羅欣"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "我的慈愛"
+    }
+  ],
+  "timestamp": "2026-10-16T09:45:30.943216111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 8:27",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "都是",
+      "rationale": "希伯來文無繫詞，中文語法所需"
+    },
+    {
+      "kind": "crux",
+      "subject": "以利雅",
+      "rationale": "ואליה 可作「以利亞」或「以利雅」，此處係家譜中另一人，非那位先知"
+    }
+  ],
+  "translation": "還有雅阿利西雅、以利雅、撒克里，都是耶羅罕的兒子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "091e918fbfd25d925674f7d8cc149e0cdf930cd30a491ad92f5b12565b20b7e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/8\/25-28.1792148622379.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויערשיה",
+      "gloss": "還有雅阿利西雅"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "以利雅"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "撒克里"
+    },
+    {
+      "surface": "בני",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "耶羅罕"
+    }
+  ],
+  "timestamp": "2026-10-16T11:03:42.379703718Z",
+  "model": "glm-5.3"
+}

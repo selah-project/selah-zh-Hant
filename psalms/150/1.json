@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 150:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "敬拜者",
+      "rationale": "全詩以命令式複數直接呼喚會眾讚美"
+    },
+    {
+      "kind": "invitation",
+      "subject": "讚美",
+      "rationale": "一連串命令式邀請讀者加入讚美"
+    },
+    {
+      "kind": "substitution",
+      "subject": "伊勒",
+      "rationale": "אל 音譯為「伊勒」，不譯作類名「神」"
+    }
+  ],
+  "translation": "你們要讚美雅！要在他的聖所讚美伊勒，要在他能力的穹蒼讚美他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "00e0b663f8eade436f3748e52762c86674360c69286ee578b619572e9c60824e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/150\/1-4.1792145134255.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "你們要讚美"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "要讚美"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "在他的聖所"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "要讚美他"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "在……的穹蒼"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "他的能力"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:34.255856609Z",
+  "model": "glm-5.3"
+}

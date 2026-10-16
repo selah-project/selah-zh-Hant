@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，感嘆句式由中文補足"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אשר תנה",
+      "rationale": "或作「因你把你的榮美安置在天上」；אשר 可作關係詞或因果連詞"
+    },
+    {
+      "kind": "you",
+      "subject": "向雅威",
+      "rationale": "本節是對雅威的直接稱頌與呼喚"
+    }
+  ],
+  "translation": "雅威，我們的阿多奈啊，你的名在全地何其威嚴！你將你的榮美安置在天上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6a6c2f52fd99c85af060df0d891eca0772a9f08a156742440f7d3fb3d35f6a97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/8\/1-4.1792143216722.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "我們的阿多奈"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何其"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "威嚴"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "在全部"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "你"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "將……安置"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "你的榮美"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……之上"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天（複數）"
+    }
+  ],
+  "timestamp": "2026-10-16T09:33:36.722746080Z",
+  "model": "glm-5.3"
+}

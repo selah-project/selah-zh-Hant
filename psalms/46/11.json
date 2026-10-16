@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "הרפו ודעו",
+      "rationale": "雙重命令式呼召聽者停下並認識神"
+    },
+    {
+      "kind": "you",
+      "subject": "to the congregation",
+      "rationale": "複數命令式直接向會眾說話"
+    },
+    {
+      "kind": "crux",
+      "subject": "ארום",
+      "rationale": "主動式分詞「我被高舉」或「我已升高」，諸本作未來式「我必被高舉」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארום…ארום",
+      "rationale": "同一分詞重複兩次形成對仗：列邦／地上"
+    },
+    {
+      "kind": "addition",
+      "subject": "被",
+      "rationale": "中文被動句所需，希伯來主動分詞無此字"
+    }
+  ],
+  "translation": "你們要靜止，並要知道我是以羅欣（神）；我在列邦中被高舉，我在地上被高舉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4bb028f6c60e54043b340f871415b1dd75b009cf2e31c5010be783dc15d98f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/46\/9-12.1792143802948.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "你們要靜止"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "並要知道"
+    },
+    {
+      "surface": "כי",
+      "gloss": "（引語）"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣（神）"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "我被高舉"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "在列邦中"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "我被高舉"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在地上"
+    }
+  ],
+  "timestamp": "2026-10-16T09:43:22.949731637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "膏油",
+      "rationale": "原文無「膏」字於此處，שמן המשחה 直譯「膏抹之油」，中文名稱凝固為一詞"
+    },
+    {
+      "kind": "measurement",
+      "subject": "膏抹禮",
+      "rationale": "本節記載會幕受膏的儀式次序，屬祭司就職敘事的程序記錄"
+    }
+  ],
+  "translation": "摩西取了 ⟨את⟩ 膏油，膏抹 ⟨את⟩ 會幕和 ⟨את⟩ 其中一切的物件，將它們分別為聖。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d225b7f9d93d930b325d629cb983ee9a4039735740fcce60835895c47e971b01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/8\/9-12.1792126824002.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "取了"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "膏油"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "膏抹用的"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "膏抹"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "會幕"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "其中一切的物件"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "בו",
+      "gloss": "在其中"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "將它們分別為聖"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "它們"
+    }
+  ],
+  "timestamp": "2026-10-16T05:00:24.003988712Z",
+  "model": "glm-5.3"
+}

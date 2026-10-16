@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 45:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דבר אמת",
+      "rationale": "「真理的話／因真理的緣故」：Geneva\/KJV 讀作「話」，多數譯本讀作「緣故」；兩者皆通。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צלח רכב",
+      "rationale": "祈願式短動詞連用（前行！騎上！），命令與祝福語氣交疊，中文以「⟨要⟩」「⟨去⟩」補足。"
+    },
+    {
+      "kind": "addition",
+      "subject": "和",
+      "rationale": "「謙卑和公義」中的「和」為中文連詞所需，希伯來文以附加號直接並列。"
+    }
+  ],
+  "translation": "你的威嚴⟨要⟩順利前行；騎上⟨去⟩，為著真理、謙卑和公義；願你的右手指教你可畏的事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/45\/5-8.1792143868984.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והדרך",
+      "gloss": "你的威嚴"
+    },
+    {
+      "surface": "צלח",
+      "gloss": "順利前行"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "騎上"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨事⟩"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真理"
+    },
+    {
+      "surface": "וענוה",
+      "gloss": "謙卑"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "ותורך",
+      "gloss": "願你的右手指教你"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "可畏的事"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "你的右手"
+    }
+  ],
+  "timestamp": "2026-10-16T09:44:28.985478797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 31:6",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש是'氣息／生命'，非'靈魂'；此處指人的生命內裡"
+    },
+    {
+      "kind": "crux",
+      "subject": "לאובד",
+      "rationale": "'滅亡中的人'或'將死之人'——指苦難深重者，非指死刑犯"
+    }
+  ],
+  "translation": "要把濃酒給那滅亡的人，把酒給心裡苦楚的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1bc39d6e3b1165464627322ae7705ffb4bb3c55c93f714709737976f13e7d83b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/31\/5-8.1792145730389.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "要把…給"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "濃酒"
+    },
+    {
+      "surface": "לאובד",
+      "gloss": "那滅亡的人"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "把酒"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "心裡苦楚的人"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "生命／心"
+    }
+  ],
+  "timestamp": "2026-10-16T10:15:30.390578549Z",
+  "model": "glm-5.3"
+}

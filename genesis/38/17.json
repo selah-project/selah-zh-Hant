@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 38:17",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אשלח\/שלחך",
+      "rationale": "「打發」與「你送來」同一詞根 שלח，首尾呼應，中文以「打發／送來」保留"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ערבון",
+      "rationale": "抵押品一詞在塔納赫中僅見於創38章（17、18、20節）"
+    }
+  ],
+  "translation": "他說：「我必從羊群中打發一隻山羊羔去給你。」她說：「你要給我抵押品，直等你送來才成。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "36035d04b26f0f84ffc04c212e50a83983a380533ff71c6ee1d376c67c1122a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/38\/17-20.1792125396338.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "必打發"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "山羊羔"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "山羊"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "她說"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "你給"
+    },
+    {
+      "surface": "ערבון",
+      "gloss": "抵押品"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "你送來"
+    }
+  ],
+  "timestamp": "2026-10-16T04:36:36.338891594Z",
+  "model": "glm-5.3"
+}

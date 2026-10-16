@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כצדקו",
+      "rationale": "כְּ 是「照著、按著」，中譯以「因」或「照」皆通，此處以「照」為本。"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨因⟩",
+      "rationale": "中文需介詞連接「稱謝」與「他的公義」，希伯來文僅有介詞כְּ（照）。"
+    },
+    {
+      "kind": "crux",
+      "subject": "יהוה עליון",
+      "rationale": "「雅威至高者」可連讀為一個名號，也可作「雅威、至高者」並列；此處採並列歌頌對象。"
+    }
+  ],
+  "translation": "我要稱謝雅威 ⟨因⟩ 他的公義，我要歌頌雅威至高者的名。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7efd8d651ed44c34e14a7d2f59f32fb178b9adaf08e6c355477f672820d439ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/7\/17-18.1792143185535.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "我要稱謝"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "照他的公義"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "我要歌頌"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "至高者"
+    }
+  ],
+  "timestamp": "2026-10-16T09:33:05.536747376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש 是「呼吸的生命體」，非不朽「靈魂」；此處人「成為」נפש，不是人「擁有」נפש"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדם\/האדמה",
+      "rationale": "人（אדם）出於土地（אדמה），音近相連，創 2 章貫穿的雙關"
+    }
+  ],
+  "translation": "雅威以羅欣用地上的塵土塑造 ⟨את⟩ 人，將生命的氣息吹進他的鼻孔，那人就成了活的נפש。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "68450a8e65de4b0b6f44a3c7ad1421b87e4c46e29674bb8f9f92acd3c2a6860f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/2\/5-8.1792124511777.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "於是塑造"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "塵土"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土地"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "吹進"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "在他的鼻孔"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "氣息"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "生命的"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "就成了"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "那人"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "活的נפש"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "活的"
+    }
+  ],
+  "timestamp": "2026-10-16T04:21:51.778093523Z",
+  "model": "glm-5.3"
+}

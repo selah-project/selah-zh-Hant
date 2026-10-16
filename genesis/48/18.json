@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 48:18",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "請",
+      "rationale": "希伯來祈使式 שים 本身帶請求語氣，中文加「請」以合語感。"
+    },
+    {
+      "kind": "you",
+      "subject": "אבי",
+      "rationale": "約瑟直接稱呼父親雅各「我父」。"
+    }
+  ],
+  "translation": "約瑟對父親說：「我父，不是這樣，因為這個是長子，請把你的右手按在他的頭上。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "21316c13a6af0a71331f53839085133eea8eac6eb22f71438c102d435895d6ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/48\/17-20.1792125634584.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "他父親"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "כן",
+      "gloss": "是這樣"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我父"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "長子"
+    },
+    {
+      "surface": "שים",
+      "gloss": "請把…按放"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "你的右手"
+    },
+    {
+      "surface": "על",
+      "gloss": "在…上"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "他的頭"
+    }
+  ],
+  "timestamp": "2026-10-16T04:40:34.585674057Z",
+  "model": "glm-5.3"
+}

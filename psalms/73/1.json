@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "以羅欣",
+      "rationale": "אלהים 在此為聖名位置，譯作以羅欣，不寫神／上帝"
+    },
+    {
+      "kind": "crux",
+      "subject": "ברי לבב",
+      "rationale": "לברי 可作「清潔的」或「純全的」，此處與詩 24:4 的 clean of heart 呼應"
+    }
+  ],
+  "translation": "亞薩的詩。實在，以羅欣善待以色列，就是心裡清潔的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "32f836a9178951769eba19d6e1f91a3afb7992f5dc65d6f6d50084340a98bfef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/73\/1-4.1792144155190.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "詩"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "亞薩的"
+    },
+    {
+      "surface": "אך",
+      "gloss": "實在"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "善待"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "清潔的"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "心"
+    }
+  ],
+  "timestamp": "2026-10-16T09:49:15.191111183Z",
+  "model": "glm-5.3"
+}

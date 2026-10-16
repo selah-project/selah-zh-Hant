@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "以色列人",
+      "rationale": "第二人稱複數命令：不可吃、要憎惡，延續飲食條例的直接吩咐"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שקץ／תשקצו",
+      "rationale": "名詞שקץ與動詞שקץ同根，首尾呼應「可憎之物——你們要憎惡」"
+    }
+  ],
+  "translation": "牠們對你們必成為可憎之物；牠們的肉你們不可吃，⟨את⟩ 牠們的屍體你們要憎惡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "babfaf4812f00d69ea3fb919034ae612c3dba15a23c38b8285a92fba21785235",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/11\/9-12.1792126823173.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "而成為可憎之物"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "牠們必成為"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "對你們"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "牠們的肉"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "你們吃"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "牠們的屍體"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "牠們的屍體"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "你們要憎惡"
+    }
+  ],
+  "timestamp": "2026-10-16T05:00:23.174699629Z",
+  "model": "glm-5.3"
+}

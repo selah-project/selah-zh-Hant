@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 30:11",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "此處是 H854 介詞『與他』，非受詞記號 H853；gloss 依規帶 ⟨את⟩，譯文中作『與他』。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חלל",
+      "rationale": "本義『被刺穿的（屍首）』；譯『被刺死的人』以保字面形狀。"
+    }
+  ],
+  "translation": "他與他的軍民——列國中兇暴的人——必被帶來毀滅這地；他們必拔出刀劍攻擊埃及，用被刺死的人充滿 ⟨את⟩ 那地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "84ec8e9cc04b20a951864baceb3039f45ab69f39ebd8d1949733bf08086ec0e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/30\/9-12.1792138729459.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "與他的軍民"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩與他"
+    },
+    {
+      "surface": "עריצי",
+      "gloss": "兇暴的"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "מובאים",
+      "gloss": "必被帶來"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "毀滅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "這地"
+    },
+    {
+      "surface": "והריקו",
+      "gloss": "必拔出"
+    },
+    {
+      "surface": "חרבותם",
+      "gloss": "他們的刀劍"
+    },
+    {
+      "surface": "על",
+      "gloss": "攻擊"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "必充滿"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "那地"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "被刺死的人"
+    }
+  ],
+  "timestamp": "2026-10-16T08:18:49.460315295Z",
+  "model": "glm-5.3"
+}

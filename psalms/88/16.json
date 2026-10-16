@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אפונה",
+      "rationale": "פון（慌亂）在全塔納赫僅見於此"
+    },
+    {
+      "kind": "substitution",
+      "subject": "臨於死亡",
+      "rationale": "גוע 字面「氣息將盡／呼出最後一口氣」，非泛指的瀕死"
+    }
+  ],
+  "translation": "我困苦，自幼年以來就臨於死亡；我擔負了祢的驚嚇，我慌亂失措。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3c3eff354bf1ac25a5a0e5308c92c07f1b584ab82d017c95d8e0f745392d71a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/88\/13-16.1792144452699.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "困苦"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "臨於死亡"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "自幼年以來"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "我擔負了"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "祢的驚嚇"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "慌亂失措"
+    }
+  ],
+  "timestamp": "2026-10-16T09:54:12.700633229Z",
+  "model": "glm-5.3"
+}

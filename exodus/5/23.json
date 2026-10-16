@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨他⟩",
+      "rationale": "希伯來文動詞 הרע 無明確主語，中文需補出主語（法老）"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לא הצלת 的主語",
+      "rationale": "譯本分歧：KJV「你也沒有拯救」（主語為你）；geneva「你還沒有拯救」；此處 הצלת 第二人稱陽性，主語確是雅威，與前者一致"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרע \/ הצל",
+      "rationale": "苦待與拯救的對比，平行的音節結構強化摩西的控訴"
+    }
+  ],
+  "translation": "自從我去見法老，奉你的名說話以來，⟨他⟩就苦待這百姓，而你一點也沒有拯救⟨את⟩你的百姓。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "70fcb94b6d4a18e1640c6624d74a746d64e326e942e7a5d38f3f01d32fc95d85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/5\/21-23.1792125723269.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "自從"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "我去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "見"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "說話"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "奉你的名"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "苦待"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "……百姓"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "而拯救"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "你拯救了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的百姓"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    }
+  ],
+  "timestamp": "2026-10-16T04:42:03.273809710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "音樂記號細拉，無法直譯，僅保留標記"
+    }
+  ],
+  "translation": "全地要向你下拜，要向你歌頌，要歌頌你的名。（細拉）",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b1a7f2ef87df232157658b0047ad671fbd7c46dccc167f0b2676a262b8f74fdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/66\/1-4.1792144032640.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "下拜"
+    },
+    {
+      "surface": "לך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "歌頌"
+    },
+    {
+      "surface": "לך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "歌頌"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "（細拉）"
+    }
+  ],
+  "timestamp": "2026-10-16T09:47:12.642006786Z",
+  "model": "glm-5.3"
+}

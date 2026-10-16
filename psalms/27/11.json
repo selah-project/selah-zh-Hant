@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "祈求者向雅威",
+      "rationale": "命令式祈求：指教、引導，直接向神呼求"
+    },
+    {
+      "kind": "substitution",
+      "subject": "指教",
+      "rationale": "ירה 本義為如水流瀉、投擲（投箭），引申教導；水的畫面在中文失去"
+    }
+  ],
+  "translation": "雅威啊，求你指教我你的道路，引導我走平坦的路，因我仇敵的緣故。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a15f111ed063f4a60cbff3d9e08f3f1035a3842b56f15b1beb4da6db1d082f93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/27\/9-12.1792143523370.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "求你指教我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "你的道路"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "引導我"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "走……的路"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "平坦"
+    },
+    {
+      "surface": "למען",
+      "gloss": "因……的緣故"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "我仇敵"
+    }
+  ],
+  "timestamp": "2026-10-16T09:38:43.371542347Z",
+  "model": "glm-5.3"
+}

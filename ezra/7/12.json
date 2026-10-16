@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 7:12",
+  "book": "ezra",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גמיר וכענת",
+      "rationale": "亞蘭文書信套語：גמיר 可作「完全的」（和合本作「通達」）或問安語；וכענת 是「云云／等語」，即信件摘錄結尾標記，諸譯本處理各異。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "וכענת",
+      "rationale": "וכענת此形式僅見於此（與拉4:17之כענת同族），是波斯行政文書的轉錄標記。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מלך מלכיא",
+      "rationale": "「諸王之王」是波斯王的帝國頭銜（šar šarāni），照字面保留。"
+    }
+  ],
+  "translation": "「亞達薛西，諸王之王，致以斯拉祭司、天上之神以羅阿的律法之文士：完備，云云。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bf6b3023363d6023ee68fb5b385ae3967faa4c90e2c6faf4aafa857302e022ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/7\/9-12.1792147808366.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "亞達薛西"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מלכיא",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "לעזרא",
+      "gloss": "致以斯拉"
+    },
+    {
+      "surface": "כהנא",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "文士"
+    },
+    {
+      "surface": "דתא",
+      "gloss": "律法"
+    },
+    {
+      "surface": "די",
+      "gloss": "……的"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "以羅阿"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "天上之"
+    },
+    {
+      "surface": "גמיר",
+      "gloss": "完備"
+    },
+    {
+      "surface": "וכענת",
+      "gloss": "云云"
+    }
+  ],
+  "timestamp": "2026-10-16T10:50:08.367816634Z",
+  "model": "glm-5.3"
+}

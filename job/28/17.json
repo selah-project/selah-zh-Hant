@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 28:17",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "它",
+      "rationale": "希伯來文以陰性後綴指智慧，中文需補出代名詞"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זהב\/פז",
+      "rationale": "黃金與精金（煉淨的金）並列遞進，中文難以保留細微高下之分"
+    }
+  ],
+  "translation": "黃金和玻璃不能與它並列，它的交換物不是精金的器皿。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9a39dad4af560f1c75bfdb9147d53561308b20fc62810c15ab0461e209ccd4d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/28\/17-20.1792146285913.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不能"
+    },
+    {
+      "surface": "יערכנה",
+      "gloss": "與它並列"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "黃金"
+    },
+    {
+      "surface": "וזזוכית",
+      "gloss": "和玻璃"
+    },
+    {
+      "surface": "ותמורתה",
+      "gloss": "它的交換物"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器皿"
+    },
+    {
+      "surface": "פז",
+      "gloss": "精金"
+    }
+  ],
+  "timestamp": "2026-10-16T10:24:45.914336164Z",
+  "model": "glm-5.3"
+}

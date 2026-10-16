@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "示阿勒（陰間）",
+      "rationale": "שאול 音譯為示阿勒，首次括註陰間；不是死後受罰之地"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "死↔活、降↔升",
+      "rationale": "兩組反義使役動詞並列，中文以「使…」重現其成對結構"
+    }
+  ],
+  "translation": "雅威使人死，也使人活；使降示阿勒（陰間），也使上來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "478812ae2dbb90111df4402fc355260b9f7d9d69d7974d95b7226c55165bb134",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/2\/5-8.1792130698635.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "使人死"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "也使人活"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "使降下"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "示阿勒（陰間）"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "也使上來"
+    }
+  ],
+  "timestamp": "2026-10-16T06:04:58.636097663Z",
+  "model": "glm-5.3"
+}

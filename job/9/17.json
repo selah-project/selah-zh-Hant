@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 9:17",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בשערה",
+      "rationale": "僅此處出現的暴風雨／狂風一詞，諸譯本作 whirlwind、tempest；此處照其形象譯「狂風」"
+    },
+    {
+      "kind": "hapax",
+      "subject": "בשערה",
+      "rationale": "שְׂעָרָה 在整部塔納赫中僅見於此節"
+    },
+    {
+      "kind": "alternative",
+      "subject": "壓碎我",
+      "rationale": "ישופני 字根 שׁוּף 原意「咬住、撕裂」（創 3:15 同字根），可譯「把我撕碎」"
+    }
+  ],
+  "translation": "他用狂風壓碎我，無故加增我的傷。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "07b33aa8a154ded95739151868aa7cc156a380364261a8efa00d1e783b2a5cf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/9\/17-20.1792145932864.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "他"
+    },
+    {
+      "surface": "בשערה",
+      "gloss": "用狂風"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "壓碎我"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "且加增"
+    },
+    {
+      "surface": "פצעי",
+      "gloss": "我的傷"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "無故"
+    }
+  ],
+  "timestamp": "2026-10-16T10:18:52.864994005Z",
+  "model": "glm-5.3"
+}

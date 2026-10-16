@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דל（軟弱的）",
+      "rationale": "字面為「懸垂的、瘦弱的」——薄弱無依之人，非抽象的「貧窮階級」"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨要⟩",
+      "rationale": "命令式語氣由中文助詞「要」帶出；希伯來文為純命令動詞形式"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שפטו／הצדיקו",
+      "rationale": "兩個法庭動詞並行（審判／稱義），首尾呼應第1、2節的「審判」一詞"
+    }
+  ],
+  "translation": "要為軟弱的和孤兒伸冤，使困苦的和貧寒的得著公義。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fd0b5a856df469a1725c7e70f3e40706c44adbb9d2a44daed8d77efdac23230a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/82\/1-4.1792144341270.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "要……伸冤"
+    },
+    {
+      "surface": "דל",
+      "gloss": "軟弱的"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "和孤兒"
+    },
+    {
+      "surface": "עני",
+      "gloss": "困苦的"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "和貧寒的"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "使……得著公義"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:21.273170186Z",
+  "model": "glm-5.3"
+}

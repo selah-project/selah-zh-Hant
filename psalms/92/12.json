@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשורי",
+      "rationale": "שור 字面是「窺伺\/埋伏之敵」；欽定本添「我的願望」（my desire），原文無此詞"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קמים עלי",
+      "rationale": "字面「起來攻擊我」，希伯來成語指興起作對"
+    }
+  ],
+  "translation": "我的眼已觀看那窺伺我的仇敵；我的耳已聽見那起來攻擊我的作惡者。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ccb29bba7eab0d6769349d3ffd820dfd370e974b97e7c1334d1ae31883a0070a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/92\/9-12.1792144492065.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "已觀看"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的眼"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "那窺伺我的仇敵"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "那起來的"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "攻擊我"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "作惡者"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "已聽見"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "我的耳"
+    }
+  ],
+  "timestamp": "2026-10-16T09:54:52.066245523Z",
+  "model": "glm-5.3"
+}

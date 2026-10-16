@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 21:22",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויפלו",
+      "rationale": "字面是「倒下」；「仆倒……手下」是中文慣用的死亡表達。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ארבעת אלה",
+      "rationale": "本章巨人之戰的總結計數：這四個人。"
+    }
+  ],
+  "translation": "⟨את⟩ 這四個人都是生在迦特的利乏族人的，都仆倒在大衛和他僕人的手下。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6ff426822879c8fbe098491b5a97b5e53f082195e3555d74bc3018968e39526f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/21\/21-22.1792132153632.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這四個人"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "四"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "生"
+    },
+    {
+      "surface": "להרפה",
+      "gloss": "給利乏族人"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "在迦特"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "都仆倒了"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "在……手下"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "和在……手下"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "他的僕人"
+    }
+  ],
+  "timestamp": "2026-10-16T06:29:13.632966126Z",
+  "model": "glm-5.3"
+}

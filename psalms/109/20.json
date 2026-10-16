@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 更近於喉嚨／生命氣息，非不朽的靈魂"
+    },
+    {
+      "kind": "crux",
+      "subject": "מאת",
+      "rationale": "מאת יהוה 可讀作「從雅威而來」或「在雅威面前」，多數譯本取前者"
+    }
+  ],
+  "translation": "這是我控告者從雅威所得的 ⟨את⟩ 報應，就是那些向我性命說惡言的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d726760e8ad24e053ef4fc3d09ef9a0423cca03724ff79bba4bf68ea5f67ffa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/109\/17-20.1792144724935.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "報應"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "我控告者"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ 從",
+      "marks": "報應"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "說…話的人"
+    },
+    {
+      "surface": "רע",
+      "gloss": "惡"
+    },
+    {
+      "surface": "על",
+      "gloss": "向"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    }
+  ],
+  "timestamp": "2026-10-16T09:58:44.936944146Z",
+  "model": "glm-5.3"
+}

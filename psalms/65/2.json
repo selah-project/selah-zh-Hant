@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דמיה תהלה",
+      "rationale": "「靜默的讚美」：或作「讚美靜候你」（如 KJV\/和合本），或「靜默即是讚美」（YLT 式）；本譯取「出於靜默的讚美」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דמיה",
+      "gloss-context": "",
+      "rationale": "דומיה 本義為靜默、安靜等候，諸譯本或化為「等候」而失其靜默之意"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישלם\/נדר",
+      "rationale": "שלם（完成、償還）與 נדר（還願）構成還願成全的呼應，中文以「償還」保留"
+    }
+  ],
+  "translation": "以羅欣啊，在錫安，讚美歸於你——出於靜默；許願也必向你償還。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d3aff8c50347acb0f564b73a480599286c9e131652b5fb885b167de99e50ebde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/65\/1-4.1792144056719.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "歸於你"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "出於靜默"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "讚美"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "在錫安"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "也向你"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "必償還"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "許願"
+    }
+  ],
+  "timestamp": "2026-10-16T09:47:36.720319853Z",
+  "model": "glm-5.3"
+}

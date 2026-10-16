@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 96,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "都要……歡呼",
+      "rationale": "לפני יהוה 承接上文命令句，中文需補動詞以成句"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי בא כי בא",
+      "rationale": "「他來了」重複兩次，宣告性的複疊，中文保留重複"
+    },
+    {
+      "kind": "substitution",
+      "subject": "世界",
+      "rationale": "תבל 指可居住的大地，與 הארץ（地）為同義並列，中文以「地／世界」分譯"
+    }
+  ],
+  "translation": "都要在雅威面前歡呼，因為他來了，因為他來了，要審判 ⟨את⟩ 地。他必按公義審判世界，按他的信實審判萬民。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7608e0ee44926bb4a0ac680cae1383f608f02699b88e5e1ea78d579a01d91da7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/96\/13-13.1792144474790.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "在……面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בא",
+      "gloss": "他來了"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בא",
+      "gloss": "他來了"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "要審判"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "他必審判"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世界"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "按公義"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "萬民"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "按他的信實"
+    }
+  ],
+  "timestamp": "2026-10-16T09:54:34.791386307Z",
+  "model": "glm-5.3"
+}

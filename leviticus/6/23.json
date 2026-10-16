@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 6:23",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אהל מועד",
+      "rationale": "直譯「指定時節的帳棚」，固定譯作「會幕」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לכפר",
+      "rationale": "字根意為「遮蓋」，祭祀術語作「贖罪」"
+    }
+  ],
+  "translation": "凡贖罪祭，只要有牠的血被帶進會幕、在聖所贖罪的，都不可吃；要用火焚燒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "791b5af4d2f12504b2eb949be4f1d56b7b9ba2f27ddfe0bc5ce4fde48dd86f54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/6\/21-23.1792126708045.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "贖罪祭"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "被帶進"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "從牠的血"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "為贖罪"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "在聖所"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "吃"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "焚燒"
+    }
+  ],
+  "timestamp": "2026-10-16T04:58:28.046741933Z",
+  "model": "glm-5.3"
+}

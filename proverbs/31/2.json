@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בר",
+      "rationale": "בר 一字多解：亞蘭文「兒子」、或作「純潔」、或「繼承人」；此處三連呼最可能取「我兒」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברי\/בר\/בר",
+      "rationale": "三重同詞疊呼（我兒、腹中之子、許願之子），排比修辭，中文以重複「兒啊」保留。"
+    },
+    {
+      "kind": "elision",
+      "subject": "ומה",
+      "rationale": "第二、三句的 ומה 為排比連接的感嘆詞，中文併入句式，未逐一譯出。"
+    },
+    {
+      "kind": "you",
+      "subject": "to Lemuel",
+      "rationale": "母親直接向兒子（王）呼喚。"
+    }
+  ],
+  "translation": "我兒啊！我腹中的兒啊！我所許願得的兒啊！我能對你說什麼呢？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dde9941be6f30a67e18cc6bb786b08eee80d9b202a3e0788ab97bcc64ada7b1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/31\/1-4.1792145750748.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "我能對你說什麼呢"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "我兒啊"
+    },
+    {
+      "surface": "ומה",
+      "gloss": ""
+    },
+    {
+      "surface": "בר",
+      "gloss": "的兒啊"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "我腹中"
+    },
+    {
+      "surface": "ומה",
+      "gloss": ""
+    },
+    {
+      "surface": "בר",
+      "gloss": "的兒啊"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "我所許願得的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:15:50.749013644Z",
+  "model": "glm-5.3"
+}

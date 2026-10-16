@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מהולל",
+      "rationale": "被動分詞作呼語（當受讚美的雅威）或如 YLT 視作稱號「那受讚美者」，我取呼語"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מהולל\/אקרא",
+      "rationale": "讚美（הלל）與呼求（קרא）並置，詩體對仗"
+    }
+  ],
+  "translation": "當受讚美的雅威，我呼求⟨他⟩；我就從我的仇敵得拯救。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e28fc1822d7d84c5e1db7c55d6117fb6d3de7064cbc4450b793b609df53c8ce2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/18\/1-4.1792143390028.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "當受讚美的"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "我呼求"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "從"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "我的仇敵"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "我得拯救"
+    }
+  ],
+  "timestamp": "2026-10-16T09:36:30.029847036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "החליק",
+      "rationale": "「它（悖逆）諂媚他」與「他諂媚自己」兩讀；字根本義是「使光滑」，引申為奉承"
+    },
+    {
+      "kind": "crux",
+      "subject": "למצא עונו לשנא",
+      "rationale": "直譯「為要找出他的罪孽、恨惡」——誰找出？誰恨惡？KJV『直到』、ASV『不會被查出』、JPS 各異"
+    },
+    {
+      "kind": "addition",
+      "subject": "被人",
+      "rationale": "中文被動句需「被／被人」標明施事，希伯來文不定式附屬形無此字"
+    }
+  ],
+  "translation": "因它在他眼中諂媚他，直到他的罪孽被查出、被人恨惡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "56927c43cecf8b25b70b732c1a04dced4b8ded1889b4e181f9041d2f23ee6fd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/36\/1-4.1792143681803.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "諂媚"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "他"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "在他眼中"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "被查出"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "他的罪孽"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "被人恨惡"
+    }
+  ],
+  "timestamp": "2026-10-16T09:41:21.803812851Z",
+  "model": "glm-5.3"
+}

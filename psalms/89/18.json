@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "（就是）",
+      "rationale": "希伯來文無繫詞，中文補出判斷句所需"
+    },
+    {
+      "kind": "idiom",
+      "subject": "角",
+      "rationale": "קרן 字面為「角」，希伯來文中象徵力量與尊榮，直譯保留其形"
+    },
+    {
+      "kind": "crux",
+      "subject": "תרים",
+      "rationale": "主動式「你高舉」或被動式「被高舉」，諸譯本分歧"
+    }
+  ],
+  "translation": "因為你本身（就是）他們力量的榮美，憑你的恩惠我們的角被高舉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1efec28f885b7bd897d6f0e74718914e24a473b6970ea360972fcb3ff2b9e72d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/89\/17-20.1792144428477.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "榮美"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "他們的力量"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你本身"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "憑你的恩惠"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "被高舉"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "我們的角"
+    }
+  ],
+  "timestamp": "2026-10-16T09:53:48.478185707Z",
+  "model": "glm-5.3"
+}

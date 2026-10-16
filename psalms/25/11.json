@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "赦免",
+      "rationale": "וְסָלַחְתָּ 形式上可讀作完成式「你已赦免」（YLТ 如此）或祈使／願望「求你赦免」（KJV、JPS）；語境為懇求，取後者。"
+    },
+    {
+      "kind": "addition",
+      "subject": "求你",
+      "rationale": "希伯來文動詞形式未明標祈使，中文以「求你」表達禱告語氣。"
+    }
+  ],
+  "translation": "雅威啊，為了你名的緣故，求你赦免我的罪孽，因為它重大。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a30d850e7a42832cef0ccd636d9eca98b1382e0264ff2f0b03c1f9c58ef415c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/25\/9-12.1792143502177.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "為了……的緣故"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "求你赦免"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "我的罪孽"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "רב",
+      "gloss": "重大"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "它"
+    }
+  ],
+  "timestamp": "2026-10-16T09:38:22.178388758Z",
+  "model": "glm-5.3"
+}

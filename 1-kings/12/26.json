@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 12:26",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "說在他心裡",
+      "rationale": "希伯來成語「在他心裡說」即心裡想、內心盤算"
+    },
+    {
+      "kind": "secret",
+      "subject": "內心的盤算",
+      "rationale": "耶羅波安的政治算計在心中隱藏，敘事者向讀者揭露"
+    }
+  ],
+  "translation": "耶羅波安心裡說：「如今這國必歸回大衛家。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c0ff6b2a3315af840b7a0e5ac52824fcedeae5edfc2ed721f65307826d803bc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/12\/25-28.1792132964468.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "耶羅波安"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "在他心裡"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "如今"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "必歸回"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "這國"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "歸……家"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    }
+  ],
+  "timestamp": "2026-10-16T06:42:44.469366672Z",
+  "model": "glm-5.3"
+}

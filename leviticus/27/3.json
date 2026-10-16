@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 27:3",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "估價",
+      "rationale": "按年齡與性別列出舍客勒銀子的官方估價"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "中文需要的判斷詞，希伯來文 והיה 為'成為／有'"
+    }
+  ],
+  "translation": "你所估的價：男性，從二十歲到六十歲，你所估的價是五十舍客勒銀子，按聖所的舍客勒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "90e56843ecb0c47becab063a7bec26f525d4fbc7c1b8aa26a2205ef4c88c0b44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/27\/1-4.1792127377183.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "是"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "你所估的價"
+    },
+    {
+      "surface": "הזכר",
+      "gloss": "男性"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "從…歲"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…歲"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "六十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "是"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "你所估的價"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "舍客勒"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀子"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "按舍客勒"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖所的"
+    }
+  ],
+  "timestamp": "2026-10-16T05:09:37.183907007Z",
+  "model": "glm-5.3"
+}

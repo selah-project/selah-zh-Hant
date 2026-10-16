@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 62:12",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "人",
+      "rationale": "希伯來文動詞 וקראו 是複數主動式，中文被動式需補出泛稱主語「人」"
+    },
+    {
+      "kind": "you",
+      "subject": " ולך",
+      "rationale": "第二人稱陰性單數直接向錫安（城的擬人化）說話"
+    }
+  ],
+  "translation": "人必稱他們為「聖潔之民，雅威所救贖的」；而你必被稱為「被尋回的，不被撇棄的城」。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ad2358ce4624816b15fb009e656e446101a8e1ac322b1403fbbbb8e577dc2ca5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/62\/9-12.1792135847317.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקראו",
+      "gloss": "人必稱…為"
+    },
+    {
+      "surface": "להם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "עם",
+      "gloss": "之民"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖潔"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "所救贖的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "而你"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "必被稱為"
+    },
+    {
+      "surface": "דרושה",
+      "gloss": "被尋回的"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "נעזבה",
+      "gloss": "被撇棄的"
+    }
+  ],
+  "timestamp": "2026-10-16T07:30:47.318528300Z",
+  "model": "glm-5.3"
+}

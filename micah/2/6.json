@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 2:6",
+  "book": "micah",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "發言者是誰",
+      "rationale": "誰在禁止說預言——民眾對先知（KJV），或先知被禁止向這民說（YLT\/ASV）；兩讀皆古"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נטף 滴流",
+      "rationale": "原義「滴落、滴水」，轉喻「說預言」（言語如水滴落），字面圖像在譯文中失去"
+    },
+    {
+      "kind": "you",
+      "subject": "對先知或對民",
+      "rationale": "複數命令與否定——直接向在場者的發言"
+    }
+  ],
+  "translation": "「不要說預言」——他們〈如此〉說預言；他們不可對這些人說預言，羞辱必不退去。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "647b80723728cdd5af2dbf66ff73331d07ceffe88b1393f0179c442382098790",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/micah\/2\/5-8.1792139967177.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תטפו",
+      "gloss": "說預言"
+    },
+    {
+      "surface": "יטיפון",
+      "gloss": "他們說預言"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "יטטפו",
+      "gloss": "說預言"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "對這些人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יסג",
+      "gloss": "退去"
+    },
+    {
+      "surface": "כלמות",
+      "gloss": "羞辱"
+    }
+  ],
+  "timestamp": "2026-10-16T08:39:27.178434537Z",
+  "model": "glm-5.3"
+}

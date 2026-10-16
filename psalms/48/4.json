@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "為人所知",
+      "rationale": "נודע 被動式「使自己被認識」，ASV 作 hath made himself known"
+    },
+    {
+      "kind": "alternative",
+      "subject": "她的堡壘",
+      "rationale": "「她」指上節的大君王之城（錫安）"
+    }
+  ],
+  "translation": "以羅欣在她的堡壘中為人所知，作為高臺。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "28f4083d8d3b98147ca1e9642c468f8f7ce93a957e56d8149347d86db5af5978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/48\/1-4.1792143857144.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "在她的堡壘中"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "為人所知"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "作為高臺"
+    }
+  ],
+  "timestamp": "2026-10-16T09:44:17.145799793Z",
+  "model": "glm-5.3"
+}

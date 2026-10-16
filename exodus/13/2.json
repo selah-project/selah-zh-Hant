@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他們",
+      "rationale": "הוא 為強調代詞「這是我的」，中文以「他們是屬我的」補出判斷語氣"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel（藉摩西）",
+      "rationale": "雅威直接向摩西宣告以色列頭生的律例"
+    }
+  ],
+  "translation": "以色列子孫中，凡頭生的，凡開母腹的，無論是人或是牲畜，都要分別為聖歸我，他們是屬我的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8cfaa083276e493d83eaeef57f6f56548a84ff7ef53d067ae85b75ae855d5efc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/13\/1-4.1792125988050.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "要分別為聖"
+    },
+    {
+      "surface": "לי",
+      "gloss": "歸我"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "頭生的"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "開"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "母腹"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "子孫中"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "是人"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "或是牲畜"
+    },
+    {
+      "surface": "לי",
+      "gloss": "屬我"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他們"
+    }
+  ],
+  "timestamp": "2026-10-16T04:46:28.051865822Z",
+  "model": "glm-5.3"
+}

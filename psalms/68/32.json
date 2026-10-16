@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חשמנים",
+      "rationale": "חשמן（顯貴／富者）在塔納赫中僅此一處複數形"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תריץ ידיו",
+      "rationale": "字面「使雙手奔跑」——急切伸手的圖像，中文以「急忙伸出」保留其動勢"
+    },
+    {
+      "kind": "substitution",
+      "subject": "古實",
+      "rationale": "כוש 即努比亞／衣索匹亞，沿用和合本音譯「古實」"
+    }
+  ],
+  "translation": "顯貴必從埃及前來，古實必急忙向以羅欣伸出雙手。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2370dfcffe6a436facc24f2f75ec82f5be09e01dc89cb952d8319197ecf0aca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/68\/29-32.1792144123188.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "必前來"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "顯貴"
+    },
+    {
+      "surface": "מני",
+      "gloss": "從"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "古實"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "必急忙奔跑"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "牠的雙手"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "向以羅欣"
+    }
+  ],
+  "timestamp": "2026-10-16T09:48:43.189195005Z",
+  "model": "glm-5.3"
+}

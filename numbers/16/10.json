@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "להקריב\/ויקרב",
+      "rationale": "第9節「使你們親近」與第10節同一動詞重複，強調他們已蒙親近仍不知足"
+    }
+  ],
+  "translation": "祂使你親近，也使⟨את⟩你所有的弟兄——利未的子孫——與你一同親近，你們還要求祭司的職分嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "644dc5f635863d06b20d16c2529df2fad0b7fa1836c177984444bf8fc0fb836c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/16\/9-12.1792127891137.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "使親近"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩你",
+      "marks": "蒙親近之人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "你所有的弟兄"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "弟兄"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "利未"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ 與你一同"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "還要求"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "祭司的職分"
+    }
+  ],
+  "timestamp": "2026-10-16T05:18:11.138375417Z",
+  "model": "glm-5.3"
+}

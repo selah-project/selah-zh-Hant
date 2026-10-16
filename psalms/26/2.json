@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "腎",
+      "rationale": "כליות字面為腎臟，希伯來以腎為內在情感之座，英譯多作reins或mind"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בחנני ונסני צרופה",
+      "rationale": "三個冶金試驗動詞連用（察驗、試煉、熬煉），金屬精煉意象貫穿全節"
+    }
+  ],
+  "translation": "雅威啊，求你察驗我，試煉我，熬煉我的腎和我的心。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c1625a3339a801d19092547c4881464665dc0a2dd25d9b8e187962f73e39d976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/26\/1-4.1792143527298.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "求你察驗我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "試煉我"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "熬煉"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "我的腎"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "和我的心"
+    }
+  ],
+  "timestamp": "2026-10-16T09:38:47.299260245Z",
+  "model": "glm-5.3"
+}

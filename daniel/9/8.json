@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בשת הפנים",
+      "rationale": "與9:7同一成語「臉上的羞恥」，中文前後一致作「羞恥滿面」"
+    },
+    {
+      "kind": "addition",
+      "subject": "歸於",
+      "rationale": "希伯來文לְ前綴「歸屬於」由中文「歸於」補出，中文無領屬動詞則句不成"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "三重לְ排列",
+      "rationale": "君王、首領、祖先三個לְ短語連續堆疊，與9:6的聽眾列表呼應，懺悔的階層遍及全體"
+    }
+  ],
+  "translation": "雅威啊，羞恥滿面歸於我們——歸於我們的君王、我們的首領、我們的祖先，因為我們向你犯了罪。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "714d5f9a3cd558c7da94b4ef10349b2a86872b528f93f39d71ebb165a4d1b855",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/daniel\/9\/5-8.1792147637422.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威啊"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "歸於我們"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "羞恥"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "滿面"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "歸於我們的君王"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "我們的首領"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "我們的祖先"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "我們犯了罪"
+    },
+    {
+      "surface": "לך",
+      "gloss": "向你"
+    }
+  ],
+  "timestamp": "2026-10-16T10:47:17.423816396Z",
+  "model": "glm-5.3"
+}

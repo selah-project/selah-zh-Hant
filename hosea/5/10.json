@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 5:10",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "我的",
+      "rationale": "עברתי 的第一人稱後綴已含「我的」，中文需明寫；傾倒的賓語即此烈怒"
+    },
+    {
+      "kind": "idiom",
+      "subject": "挪移地界",
+      "rationale": "挪移地界是侵佔鄰舍產業的具體罪行（申 19:14），此處作首領行事不義的比喻"
+    }
+  ],
+  "translation": "猶大的首領如同挪移地界的人；我必將我的烈怒如水傾倒在他們身上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ea7228a07a1c959833b7a5e463e837d63fa3e709d76090717e3b576714feddda",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/5\/9-12.1792139344769.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "如同"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "首領"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "כמסיגי",
+      "gloss": "如同挪移……的人"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "地界"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "在他們身上"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "我必傾倒"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "如水"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "我的烈怒"
+    }
+  ],
+  "timestamp": "2026-10-16T08:29:04.770427322Z",
+  "model": "glm-5.3"
+}

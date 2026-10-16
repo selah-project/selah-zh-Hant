@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "冰",
+      "rationale": "「融化」「流動」的受詞按上文的冰與雪補出，希伯來文僅用後綴代詞"
+    }
+  ],
+  "translation": "他發出他的話，冰就融化；他使他的風吹起，水便流動。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4589482b212d111c5e480abc4637813234e773414154ac4a2f9cd7ae1bc7d3ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/147\/17-20.1792145131749.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "他發出"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "他的話"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "冰就融化"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "他使…吹起"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "他的風"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "流動"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:31.750782414Z",
+  "model": "glm-5.3"
+}

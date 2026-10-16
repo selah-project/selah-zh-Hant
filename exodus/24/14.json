@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 24:14",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי בעל דברים",
+      "rationale": "字面「誰是事的擁有者」，即「凡有事的人」"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "關係代名詞無獨立中文對應詞，以連詞「直到那時」吸收"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列眾長老",
+      "rationale": "摩西直接吩咐長老們留守"
+    }
+  ],
+  "translation": "他對長老們說：「你們在這裏為我們等候，直到我們回到你們那裏。看哪，亞倫和戶珥與你們同在；凡有事的人，可以到他們那裏去。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5f381e26bb1c9d04fafad064ced6a1aa24948575f4acbddf184a103ce0376527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/24\/13-16.1792126143672.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "對"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "長老們"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "等候"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "為我們"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "在這裏"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨那時⟩"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "我們回到"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "到你們那裏"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "戶珥"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "與你們同在"
+    },
+    {
+      "surface": "מי",
+      "gloss": "凡……的人"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "有"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "事"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "可以到……去"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "他們那裏"
+    }
+  ],
+  "timestamp": "2026-10-16T04:49:03.673029432Z",
+  "model": "glm-5.3"
+}

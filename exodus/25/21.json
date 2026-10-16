@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "施恩座",
+      "rationale": "הכפרת字面是「蓋子／遮蓋之座」，與כפר（遮蓋）同根；JPS譯「櫃蓋」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "法版",
+      "rationale": "העדת字面是「見證」，指櫃中的法版"
+    },
+    {
+      "kind": "you",
+      "subject": "to Moses",
+      "rationale": "命令直接向摩西發出：「你要……」"
+    }
+  ],
+  "translation": "你要將 ⟨את⟩ 施恩座安在櫃的上邊，又將我所要賜給你的 ⟨את⟩ 法版放在櫃裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8f3da9a96ded92aff1e44a51f99980d11128af44174d87290a1ce7edbc9ce615",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/25\/21-24.1792126242193.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "你要將……安放"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "施恩座"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "施恩座"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "櫃"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "的上邊"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "又向"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "櫃"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "你要放"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "法版"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "法版"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "我要賜"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "給你"
+    }
+  ],
+  "timestamp": "2026-10-16T04:50:42.194221030Z",
+  "model": "glm-5.3"
+}

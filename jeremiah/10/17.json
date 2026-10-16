@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כנעתך",
+      "rationale": "כנעה（包袱、行李）僅此一見於全塔納赫，詞形不確，諸本或護『商品』『羞恥』"
+    },
+    {
+      "kind": "invitation",
+      "subject": "收拾行李",
+      "rationale": "陰性命令式直接呼籲（錫安女子），叫她在被擄前收拾細軟"
+    },
+    {
+      "kind": "substitution",
+      "subject": "住在圍困之中的人",
+      "rationale": "原文名詞 מצור（圍困、圍城的土壘）作『居所』用，是反諷：圍困成了她的家"
+    }
+  ],
+  "translation": "你這住在圍困之中的人哪，要從地上收拾你的行李。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8fa59c9d6972726d009ace5291eb36e8cf6ca6cbf84c3170850657f111264609",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/10\/17-20.1792136355184.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "要收拾"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "從地上"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "你的行李"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "你這住在……的人哪"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "在圍困之中"
+    }
+  ],
+  "timestamp": "2026-10-16T07:39:15.185323599Z",
+  "model": "glm-5.3"
+}

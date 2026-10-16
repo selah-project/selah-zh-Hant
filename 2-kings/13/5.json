@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 13:5",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "如昨日、如前日",
+      "rationale": "כתמול שלשום 直譯「如昨日、前三日」，是「一如往常」的希伯來成語"
+    },
+    {
+      "kind": "alternative",
+      "subject": "拯救者",
+      "rationale": "מושיע 未指名是誰（可能指耶羅波安二世或以利沙）；譯者多以「拯救者／deliverer」保留其不指名性"
+    },
+    {
+      "kind": "elision",
+      "subject": "בני",
+      "gloss_note": "",
+      "rationale": "「以色列之子」是希伯來慣用語，中文以「以色列人」合併"
+    }
+  ],
+  "translation": "雅威賜給以色列一位拯救者，他們就從亞蘭手下出來；以色列人住在他們的帳棚裡，如昨日、如前日一般。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bb3ac625ebb8d8f9c8626dc8061580617f4448a2305b6a73007a920a3d1d1883",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/13\/5-8.1792133989855.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "賜給"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "給以色列"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "一位拯救者"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "他們就出來"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "從……之下"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "他們就居住"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……之子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "在他們的帳棚裡"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "如昨日"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "如前日"
+    }
+  ],
+  "timestamp": "2026-10-16T06:59:49.856726500Z",
+  "model": "glm-5.3"
+}

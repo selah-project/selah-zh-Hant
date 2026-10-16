@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 34:18",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨就是那位⟩",
+      "rationale": "האמר是分詞「說的那位」，承接上節，中文需補出主語。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בליעל",
+      "rationale": "字面為「無益／無價值」，作斥責語譯作「無賴」。"
+    }
+  ],
+  "translation": "⟨就是那位⟩向君王說「無賴」、向貴族說「惡人」的，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e48203d75f7dc2a0718d925269797892361d95e659e65cc307bc86692cd4e3d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/34\/17-20.1792146426918.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "⟨就是那位⟩說"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "向君王"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "無賴"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "貴族"
+    }
+  ],
+  "timestamp": "2026-10-16T10:27:06.919241678Z",
+  "model": "glm-5.3"
+}

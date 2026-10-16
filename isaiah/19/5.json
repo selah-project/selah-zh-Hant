@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ונשתו",
+      "rationale": "字根兼有「羞愧失望」與「水枯竭」二義；此處依上下文取枯竭義，羞愧義的雙關在譯文中失落"
+    }
+  ],
+  "translation": "海中的水必枯竭，河流必乾涸焦乾。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d23145d290370af234e39ff744259cd2891968d0f8eae029b302d3f9c25810fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/19\/5-8.1792134845349.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "必枯竭"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "從海中"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "河流"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "必乾涸"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "焦乾"
+    }
+  ],
+  "timestamp": "2026-10-16T07:14:05.349670751Z",
+  "model": "glm-5.3"
+}

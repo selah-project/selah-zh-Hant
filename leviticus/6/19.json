@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אהל מועד",
+      "rationale": "直譯「相會之幕」，中文沿用通行譯法「會幕」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "המחטא",
+      "rationale": "直譯「使之犯罪的」，指獻此祭以除罪的祭司，譯作「獻贖罪祭的」。"
+    }
+  ],
+  "translation": "獻 ⟨את⟩ 它作贖罪祭的祭司要吃它；要在聖處吃，在會幕的院子裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "578d0f5ca20aa9595556b011070dcf61b41274c7f3804bf9d7f124fd9c0aaab2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/6\/17-20.1792126724690.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "獻……作贖罪祭的"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "它（贖罪祭牲）"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "要吃它"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "在……地方"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "要被吃"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "在……院子"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會幕（相會之幕）"
+    }
+  ],
+  "timestamp": "2026-10-16T04:58:44.691091218Z",
+  "model": "glm-5.3"
+}

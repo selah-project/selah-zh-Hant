@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מכתם",
+      "rationale": "米克坦為詩篇標題專用詞，字根或指「鐫刻」，其確切含義不明；音譯並括註以存其形"
+    },
+    {
+      "kind": "you",
+      "subject": "to El",
+      "rationale": "詩人直接向伊勒呼求保護"
+    }
+  ],
+  "translation": "大衛的米克坦（鐫刻之詩）。伊勒啊，求你保護我，因為我投靠了你。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dac7418744feaab5a3e0868637f42acc9b8efebf12029a003f62e88da584ce76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/16\/1-4.1792143373428.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "米克坦（鐫刻之詩）"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "求你保護我"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒啊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "我投靠了"
+    },
+    {
+      "surface": "בך",
+      "gloss": "你"
+    }
+  ],
+  "timestamp": "2026-10-16T09:36:13.428818741Z",
+  "model": "glm-5.3"
+}

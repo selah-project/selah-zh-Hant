@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 15:4",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "correction",
+      "subject": "translation",
+      "rationale": "譯文中「摩披」應為「摩押」，字形誤植"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפשו",
+      "rationale": "נפש是「性命／氣息」，非不朽靈魂；『他的性命』保留其生命氣息之義"
+    },
+    {
+      "kind": "crux",
+      "subject": "חלצי מואב",
+      "rationale": "分詞可讀作「武裝的勇士」（KJV\/ASV）或「逃亡者」（與15:5的難民呼應）"
+    }
+  ],
+  "translation": "希實本哀叫，以利亞利也哀叫，他們的聲音直到雅雜都可以聽見；因此摩披的勇士呐喊，他的性命在他裡面顫抖。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7178f378870183e04534ee0542956bff203520619acd3145a26c0e7c26b5289e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/15\/1-4.1792134890717.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותזעק",
+      "gloss": "哀叫"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "希實本"
+    },
+    {
+      "surface": "ואלעלה",
+      "gloss": "和以利亞利"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "יהץ",
+      "gloss": "雅雜"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "可以聽見"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "他們的聲音"
+    },
+    {
+      "surface": "על",
+      "gloss": "因此"
+    },
+    {
+      "surface": "כן",
+      "gloss": "如此"
+    },
+    {
+      "surface": "חלצי",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "יריעו",
+      "gloss": "呐喊"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "他的性命"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "顫抖"
+    },
+    {
+      "surface": "לו",
+      "gloss": "在他裡面"
+    }
+  ],
+  "timestamp": "2026-10-16T07:14:50.719039159Z",
+  "model": "glm-5.3"
+}

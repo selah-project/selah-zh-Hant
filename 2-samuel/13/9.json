@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 13:9",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他瑪的哥哥",
+      "rationale": "希伯來文只有「他」，中文需指明是誰不肯吃"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כל־אישׁ……כל־אישׁ",
+      "rationale": "「每一個人」重複兩次，命令與成就互相呼應，中文保留重複"
+    }
+  ],
+  "translation": "他瑪拿起 ⟨את⟩ 那盤，倒在他面前，他瑪的哥哥暗嫩卻不肯吃。暗嫩說：「你們把所有人都從我面前出去。」所有人就都從他面前出去了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1efb8c193e72ffc27e359ce7d87017acce244ff323491bd3090365bdb786af98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/13\/9-12.1792131950913.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "拿起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那盤"
+    },
+    {
+      "surface": "המשרת",
+      "gloss": "那盤"
+    },
+    {
+      "surface": "ותצק",
+      "gloss": "倒"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "在他面前"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "卻不肯"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "吃"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "暗嫩"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "你們使……出去"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "從我面前"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "就出去"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "從他面前"
+    }
+  ],
+  "timestamp": "2026-10-16T06:25:50.914321753Z",
+  "model": "glm-5.3"
+}

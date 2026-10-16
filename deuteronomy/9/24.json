@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עם 譯「對」",
+      "rationale": "原文「與雅威 [相伴] 悖逆」——悖逆是相對雅威而言，介詞兼有「在雅威面前」之意"
+    },
+    {
+      "kind": "addition",
+      "subject": "的",
+      "rationale": "ממרים 分詞作述語，中文補判斷結構"
+    },
+    {
+      "kind": "you",
+      "subject": "對以色列",
+      "rationale": "摩西對以色列的總結性指控"
+    }
+  ],
+  "translation": "自從我認識 ⟨אתכם⟩ 你們的那日以來，你們一直是悖逆雅威的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7fec7a83f2d9403fca0b7eefd224acf3387d40c258c449dcf8801a2cb875b489",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/9\/21-24.1792128705341.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "悖逆…的"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "你們一直是"
+    },
+    {
+      "surface": "עם",
+      "gloss": "對"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "自從…的那日"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "我認識"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "你們"
+    }
+  ],
+  "timestamp": "2026-10-16T05:31:45.342928326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "judges 9:40",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "被殺的人",
+      "rationale": "חללים 字面為「被刺穿的人」，指陣亡者；譯作「被殺的人」。"
+    },
+    {
+      "kind": "elision",
+      "subject": "迦勒",
+      "rationale": "「他就在他面前逃跑」的主語是迦勒，希伯來只以動詞詞尾表明，中文補「他」。"
+    }
+  ],
+  "translation": "亞比米勒追趕他，他就在他面前逃跑；被殺的人眾多，倒斃直到城門口。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "174d6767fe2ab88d55cebf08c31eb1ff3466d47f501c90b17a57d4cf1b9539e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/9\/37-40.1792130271004.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירדפהו",
+      "gloss": "追趕他"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "亞比米勒"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "逃跑"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "在他面前"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "倒斃"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "被殺的人"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "眾多"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "口"
+    },
+    {
+      "surface": "השער",
+      "gloss": "城門"
+    }
+  ],
+  "timestamp": "2026-10-16T05:57:51.005770845Z",
+  "model": "glm-5.3"
+}

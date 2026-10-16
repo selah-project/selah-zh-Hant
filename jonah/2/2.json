@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "禱告",
+      "rationale": "約拿直接向雅威呼求的禱文由此展開。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "以羅欣",
+      "rationale": "אלהיו 音譯為「他的以羅欣」，首現加括註「神」，不以「上帝」遮蔽。"
+    }
+  ],
+  "translation": "約拿從魚腹中向雅威他的以羅欣（神）禱告，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "118e8c25bb755b9b1bb5b1e3152ed62f6bef5e7c9c225726f5754065ba2f1e62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jonah\/2\/1-4.1792139956877.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "禱告"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "約拿"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "他的以羅欣（神）"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "從……腹中"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "那魚"
+    }
+  ],
+  "timestamp": "2026-10-16T08:39:16.878708504Z",
+  "model": "glm-5.3"
+}

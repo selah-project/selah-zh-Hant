@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 17:14",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無動詞，中文需繫動詞"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הגדלים／הקטן",
+      "rationale": "大的對最小的並置，中文保留對比"
+    }
+  ],
+  "translation": "大衛是最小的，那三個大的跟隨了掃羅。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "23aa79b4a96161e2fdadfdecfcc3ea83e6a7faa6eb8a60af0439364dbbfbb56a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/17\/13-16.1792131165333.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "最小的"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "那三個"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "大的"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "跟隨了"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "在…之後"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    }
+  ],
+  "timestamp": "2026-10-16T06:12:45.334717946Z",
+  "model": "glm-5.3"
+}

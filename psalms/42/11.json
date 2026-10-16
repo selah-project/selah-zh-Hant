@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברצח",
+      "rationale": "רצח 字面是「殺戮／粉碎」；KJV 譯「如刀刺」，JPS 譯「如壓碎」，此處取「殺傷」保留暴力畫面"
+    },
+    {
+      "kind": "substitution",
+      "subject": "如同",
+      "rationale": "希伯來文介詞 ב 兼作「在……之中／如同」，譯文取明喻"
+    }
+  ],
+  "translation": "如同我骨中的殺傷，我的仇敵辱罵我；他們終日對我說：你的以羅欣在哪裡？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/42\/9-12.1792143727430.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "如同殺傷"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "在我骨中"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "他們辱罵我"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "我的仇敵"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "他們說"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "כל",
+      "gloss": "終"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "איה",
+      "gloss": "在哪裡"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:07.431346361Z",
+  "model": "glm-5.3"
+}

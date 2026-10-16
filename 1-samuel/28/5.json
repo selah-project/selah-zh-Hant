@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וירא…וירא",
+      "rationale": "同一字形先作「看見」（7200）後作「懼怕」（3372），看見與懼怕在字面上重疊，中文無法保留"
+    },
+    {
+      "kind": "secret",
+      "subject": "雅威的沉默",
+      "rationale": "本節為下節雅威全面沉默作鋪墊，掃羅求助無門"
+    }
+  ],
+  "translation": "掃羅看見 ⟨את⟩ 非利士人的營，就懼怕，他的心大大顫抖。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "93e13a5bc7758e50f368d55c5fe0ecf8fa3d9ee9af084a736af4b4234a53a784",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/28\/5-8.1792131562402.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "非利士人的營"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "懼怕"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "顫抖"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "他的心"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "大大"
+    }
+  ],
+  "timestamp": "2026-10-16T06:19:22.403525522Z",
+  "model": "glm-5.3"
+}

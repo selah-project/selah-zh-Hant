@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 78:44",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יאריהם",
+      "gloss-rationale": null,
+      "rationale": "יאר 本指尼羅河及其運河，複數「江河」保留字面形狀。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ישתיון",
+      "rationale": "שתה 的亞蘭形尾部 -ון 罕見，詩體用法。"
+    }
+  ],
+  "translation": "他把他們的江河翻轉為血，他們的溪流也無法饮用。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "45ad4b0f1067a6e84594ff8f6dfda82491f7d84cb55c36c28b83e59b6dc67207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/78\/41-44.1792144264806.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "他翻轉"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "為血"
+    },
+    {
+      "surface": "יאריהם",
+      "gloss": "他們的江河"
+    },
+    {
+      "surface": "ונזליהם",
+      "gloss": "他們的溪流"
+    },
+    {
+      "surface": "בל",
+      "gloss": "無法"
+    },
+    {
+      "surface": "ישתיון",
+      "gloss": "饮用"
+    }
+  ],
+  "timestamp": "2026-10-16T09:51:04.807017447Z",
+  "model": "glm-5.3"
+}

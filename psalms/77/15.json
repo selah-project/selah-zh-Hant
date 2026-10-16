@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文需補「是」"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "本節無 את 記號；הודעת 的受詞 עזך 直接受事，中文以「彰顯了⟨את⟩」標示所指"
+    }
+  ],
+  "translation": "你⟨是⟩那位行奇事的伊勒，你在萬民中彰顯了⟨את⟩你的能力。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8e0005e575bd252f7341a1e32b89509a3ec21522d407524b92dbb24e461068d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/77\/14-15.1792149898060.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "האל",
+      "gloss": "那位伊勒"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "奇事"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "彰顯了"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "在萬民中"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "你的能力"
+    }
+  ],
+  "timestamp": "2026-10-16T11:24:58.061161846Z",
+  "model": "glm-5.3"
+}

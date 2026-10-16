@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "阿多奈",
+      "rationale": "אדני 指神，依名號表音譯為阿多奈，不用「主」遮蓋"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בדר ודר",
+      "rationale": "字面「在一代又一代」，中文以「世世代代」成一語"
+    },
+    {
+      "kind": "addition",
+      "subject": "標題",
+      "rationale": "「神人摩西的祈禱」為詩篇標題，不屬正文"
+    }
+  ],
+  "translation": "神人摩西的祈禱。阿多奈啊，你世世代代作⟨我們⟩的住處。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "793b4dff5a195143da8df587045aa4146363998a898bd36a7177264be70aa5d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/90\/1-4.1792144470550.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "祈禱"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "摩西的"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "神人（以羅欣的人）"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "住處"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "היית",
+      "gloss": "作"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "我們的"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "世代復世代"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "（又一代）"
+    }
+  ],
+  "timestamp": "2026-10-16T09:54:30.550706278Z",
+  "model": "glm-5.3"
+}

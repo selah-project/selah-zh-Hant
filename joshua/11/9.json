@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עקר",
+      "rationale": "字面是「連根拔起」，此處特指砍斷馬的腿筋，中文取具體畫面"
+    }
+  ],
+  "translation": "約書亞就照雅威對他所說的待他們：砍斷 ⟨את⟩ 他們的馬的腿筋，用火焚燒 ⟨ואת⟩ 他們的戰車。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2e957455d72014792a99304929dfde5480d3079de9f83a9c40e0e3de0973fb15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/11\/9-12.1792129710104.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "待"
+    },
+    {
+      "surface": "להם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "所說的"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的馬"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "他們的馬"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "砍斷腿筋"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "他們的戰車"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "他們的戰車"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "焚燒"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    }
+  ],
+  "timestamp": "2026-10-16T05:48:30.105580751Z",
+  "model": "glm-5.3"
+}

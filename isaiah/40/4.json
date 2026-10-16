@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "העקב",
+      "rationale": "字面為「彎曲不平之地」（字根同「腳跟」），譯作「崎嶇之處」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "高／低對仗",
+      "rationale": "谷被升高、山被降低的交叉對仗，中文以「填高／削低」保留升降對比"
+    }
+  ],
+  "translation": "一切山谷必被填高，一切山岡丘陵必被削低；崎嶇之處必成為平原，山脊必成為谷地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2c47c8032b261dec1f5806e5a5b6003ca79c26a4981197e86ddd957385c3521a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/40\/1-4.1792135465295.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "山谷"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "必被填高"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和一切"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "丘陵"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "必被削低"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "必成為"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "崎嶇之處"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "成為平原"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "和山脊"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "成為谷地"
+    }
+  ],
+  "timestamp": "2026-10-16T07:24:25.296853796Z",
+  "model": "glm-5.3"
+}

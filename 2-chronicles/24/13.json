@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 24:13",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ארוכה",
+      "rationale": "字面是「長好／癒合」（如傷口癒合），譯作「修復」以合中文語感"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מתכנתו",
+      "rationale": "מתכנת（規格、尺寸比例）在《塔納赫》中僅出現兩次（此處與王下 12:12 對應節）"
+    },
+    {
+      "kind": "measurement",
+      "subject": "על מתכנתו",
+      "rationale": "按殿原有的規格／尺寸復立——量度性的語言"
+    }
+  ],
+  "translation": "於是做工的人動工，工程的修復在他們手中得以長成，他們把 ⟨את⟩ 以羅欣（神）的殿立在其原有的規格上，並加固它。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "882af172cada44818c86be4dfab767f2a5ed897fcae29f4a2dd7d04a83b488c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/24\/13-16.1792149459627.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "於是…動工"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "做工的人"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "工程"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "得以長成"
+    },
+    {
+      "surface": "ארוכה",
+      "gloss": "修復"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "對工程"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "在他們手中"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "他們把…立起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以羅欣（神）的殿"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣（神）的"
+    },
+    {
+      "surface": "על",
+      "gloss": "在…之上"
+    },
+    {
+      "surface": "מתכנתו",
+      "gloss": "其原有的規格"
+    },
+    {
+      "surface": "ויאמצהו",
+      "gloss": "並加固它"
+    }
+  ],
+  "timestamp": "2026-10-16T11:17:39.628396003Z",
+  "model": "glm-5.3"
+}

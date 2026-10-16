@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 18:14",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "魯阿",
+      "rationale": "רוח按紀律音譯為「魯阿」，首次括註「靈」；此處指人的生命之氣，非風"
+    },
+    {
+      "kind": "addition",
+      "subject": "所帶來的軟弱",
+      "rationale": "「扶持他的病痛」中文不順，補出隱含的受詞範圍"
+    },
+    {
+      "kind": "crux",
+      "subject": "נכאה",
+      "rationale": "「被擊打／被壓傷的靈」：和合本「憂傷」，KJV「wounded」，字面是「被擊打的」"
+    },
+    {
+      "kind": "mystery",
+      "subject": "誰能承擔呢",
+      "rationale": "修辭問句，暗示無人能擔——文本刻意留白"
+    }
+  ],
+  "translation": "人的魯阿（靈）能扶持他的病痛⟨所帶來的軟弱⟩；魯阿被壓傷的，誰能承擔呢？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0caa280d11821f426c443f316129b619762aff88ad1807092ef6444b23708b50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/18\/13-16.1792145484805.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "魯阿（靈）"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "扶持"
+    },
+    {
+      "surface": "מחלהו",
+      "gloss": "他的病痛"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "而魯阿"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "被壓傷的"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "ישאנה",
+      "gloss": "能承擔呢"
+    }
+  ],
+  "timestamp": "2026-10-16T10:11:24.806263183Z",
+  "model": "glm-5.3"
+}

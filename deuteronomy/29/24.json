@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת",
+      "rationale": "字面為「切割」，希伯來文「立約」作「切約」，中文依用法譯「立」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אתם",
+      "rationale": "此處 אתם 是帶詞尾的受詞記號（與他們），非獨立人稱代詞，保留 ⟨את⟩ 家族標記"
+    }
+  ],
+  "translation": "他們要說：因為他們離棄了 ⟨את⟩ 雅威──他們列祖的以羅欣──的約，就是祂領他們出埃及地之時與他們所立的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "adddd89617aba5d895e8bed54618a4dbde4515c0fe805af950ce6a45592b9aca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/29\/21-24.1792129270520.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "他們要說"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "由於"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "離棄了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的約"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…的以羅欣"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "他們的列祖"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "立了（切割式立約）"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "與他們"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "在…領出之時"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "他們"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "從…之地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    }
+  ],
+  "timestamp": "2026-10-16T05:41:10.522651464Z",
+  "model": "glm-5.3"
+}

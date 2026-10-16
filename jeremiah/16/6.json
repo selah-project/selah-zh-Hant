@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 16:6",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "用刀劃身",
+      "rationale": "יתגדד 本義為割劃己身，是異族弔喪習俗（參申14:1所禁）；直譯存其動作。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "剃光頭",
+      "rationale": "יקרח 本義為拔除、使禿，中文作剃光頭。"
+    },
+    {
+      "kind": "addition",
+      "subject": "無人",
+      "rationale": "希伯來文只說「不為他們哀哭」，中文加「無人」以成句。"
+    }
+  ],
+  "translation": "大的小的都必死在這地，不得埋葬；無人為他們哀哭，無人為他們用刀劃身，也無人為他們剃光頭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4014602ab47bbef07218cca81d9b915c45d9198724a6b0e90e5f53b1c539a8ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/16\/5-8.1792136520687.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומתו",
+      "gloss": "都必死"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "大的"
+    },
+    {
+      "surface": "וקטנים",
+      "gloss": "小的"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在這地"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יקברו",
+      "gloss": "得埋葬"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不"
+    },
+    {
+      "surface": "יספדו",
+      "gloss": "哀哭"
+    },
+    {
+      "surface": "להם",
+      "gloss": "為他們"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不"
+    },
+    {
+      "surface": "יתגדד",
+      "gloss": "用刀劃身"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不"
+    },
+    {
+      "surface": "יקרח",
+      "gloss": "剃光頭"
+    },
+    {
+      "surface": "להם",
+      "gloss": "為他們"
+    }
+  ],
+  "timestamp": "2026-10-16T07:42:00.688326664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 18:20",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תשבע \/ ישבע",
+      "rationale": "同根שבע首尾重複：「得飽—使他飽」，雙聯結構，中文以兩個「飽」字保留"
+    },
+    {
+      "kind": "substitution",
+      "subject": "出產",
+      "rationale": "תבואאת字面為「出產、收成」（田產用語），與「果子」構成農耕隱喻：言語如同收成"
+    }
+  ],
+  "translation": "人必以口中之果得飽其腹；他嘴脣的出產必使他飽足。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dca0a25dce8811f37fe2f0a35fd7ada92c83b5452e0d02d94c38f34edc6a65aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/18\/17-20.1792145489441.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "以……之果"
+    },
+    {
+      "surface": "פי",
+      "gloss": "口中"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "必得飽"
+    },
+    {
+      "surface": "בטנו",
+      "gloss": "其腹"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "出產"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "他嘴脣的"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "必使他飽足"
+    }
+  ],
+  "timestamp": "2026-10-16T10:11:29.442713834Z",
+  "model": "glm-5.3"
+}

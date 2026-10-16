@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויצל\/הציל",
+      "rationale": "同義動詞נצל在前後兩句重複（奪回／救回），形成對仗；中文勉強以兩個近義詞保留"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עמלק",
+      "rationale": "原文是民族名「亞瑪力」，中文按語境作「亞瑪力人」"
+    }
+  ],
+  "translation": "大衛奪回亞瑪力人所擄去的一切，也救回 ⟨את⟩ 他的兩個妻子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "31b5fe3aca73b7a6992470c867813d96506513fc751385bf45d5038431dc2b45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/30\/17-20.1792131517653.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "奪回"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞瑪力人所擄去的一切"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "擄去"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "亞瑪力人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "他的兩個妻子"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩個"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "妻子"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "救回"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    }
+  ],
+  "timestamp": "2026-10-16T06:18:37.654193274Z",
+  "model": "glm-5.3"
+}

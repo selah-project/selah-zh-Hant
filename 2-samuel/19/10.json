@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 19:10",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "敘事引導詞「發生了」在譯文中併入句式，未單獨譯出"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעל אבשלום",
+      "rationale": "「因押沙龍的緣故」：介詞 מעל 可解作「脫離押沙龍」（逃離他）或「因押沙龍」（為他的緣故）；英譯多取 from Absalom"
+    }
+  ],
+  "translation": "眾民在以色列眾支派中爭論說：「王救了我們脫離仇敵的手，他又拯救我們脫離非利士人的手；如今他卻為押沙龍的緣故從這地逃走了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "66c534f3ddee1849a6f3eaa4f7a6aec74df96257ccc411bae1f5cd173a3afdcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/19\/9-12.1792132239047.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生了"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "נדון",
+      "gloss": "爭論"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "在眾"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "支派"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "救了我們"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "脫離……的手"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "仇敵"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "他又"
+    },
+    {
+      "surface": "מלטנו",
+      "gloss": "拯救我們"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "脫離……的手"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "如今"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "逃走"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "這地"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "因……的緣故"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "押沙龍"
+    }
+  ],
+  "timestamp": "2026-10-16T06:30:39.049021376Z",
+  "model": "glm-5.3"
+}

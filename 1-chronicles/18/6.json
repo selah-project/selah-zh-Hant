@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 18:6",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "〈駐軍〉",
+      "rationale": "希伯來文只說「設立」，未明設立何物；歷代志下平行經文作「駐軍」"
+    },
+    {
+      "kind": "addition",
+      "subject": "〈他〉",
+      "rationale": "中文需要受詞，希伯來文由分詞「進貢的」隱含"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מנחה",
+      "rationale": "מנחה 本義是「禮物／供物」，此處為貢物；不譯作祭禮用語"
+    }
+  ],
+  "translation": "大衛就在大馬士革的亞蘭設立〈駐軍〉，亞蘭人便作了大衛的僕人，向〈他〉進貢。雅威使大衛無論往哪裡去都得拯救。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c6ed613fd6c065d2f47d03d3924fd2b838966767b468137ce4efba83e0146f94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/18\/5-8.1792148899025.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "設立"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "在亞蘭"
+    },
+    {
+      "surface": "דרמשק",
+      "gloss": "大馬士革的"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "便作了"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭人"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "歸大衛"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "僕人"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "進貢的"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "貢物"
+    },
+    {
+      "surface": "ויושע",
+      "gloss": "使……得拯救"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "無論……哪裡"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……之處"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "去"
+    }
+  ],
+  "timestamp": "2026-10-16T11:08:19.025941504Z",
+  "model": "glm-5.3"
+}

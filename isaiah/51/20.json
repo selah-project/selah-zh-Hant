@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 51:20",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תוא",
+      "rationale": "「羚羊」此詞於全塔納赫僅此一見。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "滿了雅威的烈怒",
+      "rationale": "原文「滿了…烈怒」可讀作被動承受（滿受烈怒）或如獸受困發狂；諸家多取承受之義。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חמת…גערת",
+      "rationale": "「烈怒」與「斥責」成對收束，與17節「烈怒之杯」呼應成環。"
+    }
+  ],
+  "translation": "你的眾子昏倒了，躺臥在各街口的首處，如網中的羚羊，滿了雅威的烈怒、你以羅欣的斥責。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7112d8e37592ff0d5cf08248a135edffdeb875e39a2c2ef37784d1f4181ff15a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/51\/17-20.1792135733950.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "你的眾子"
+    },
+    {
+      "surface": "עלפו",
+      "gloss": "昏倒了"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "躺臥"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "在…的首處"
+    },
+    {
+      "surface": "כל",
+      "gloss": "各"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "街口"
+    },
+    {
+      "surface": "כתוא",
+      "gloss": "如羚羊"
+    },
+    {
+      "surface": "מכמר",
+      "gloss": "網中的"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "滿了"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "…的烈怒"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "…的斥責"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你以羅欣的"
+    }
+  ],
+  "timestamp": "2026-10-16T07:28:53.951474980Z",
+  "model": "glm-5.3"
+}

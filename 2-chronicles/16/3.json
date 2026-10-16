@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 16:3",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "中文需補出主語『他』（指巴沙），希伯來文以動詞詞尾隱含"
+    },
+    {
+      "kind": "you",
+      "subject": "致便哈達",
+      "rationale": "本節是亞撒對便哈達王說的直接話語"
+    },
+    {
+      "kind": "substitution",
+      "subject": "曾立約",
+      "rationale": "希伯來文僅有名詞『約』，無動詞，中文補『立』"
+    }
+  ],
+  "translation": "『你我和你父我父之間曾立約，看哪，我已差人送銀子金子給你；你去，廢除你與以色列王巴沙所立的約，使〈他〉離開我。』",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d3831cefd66f3f17cac39da0ac006a5c564b300585b67c230e9a06c21a5c166a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/16\/1-4.1792149409965.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "在我……之間"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "和在你之間"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "也在……之間"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我父"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "和……之間"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你父"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "我已差送"
+    },
+    {
+      "surface": "לך",
+      "gloss": "給你"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀子"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "和金子"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "廢除"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "你的約"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "巴沙"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "巴沙"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "他就上去"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "離開我"
+    }
+  ],
+  "timestamp": "2026-10-16T11:16:49.966170723Z",
+  "model": "glm-5.3"
+}

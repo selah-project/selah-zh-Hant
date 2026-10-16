@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "少年人",
+      "rationale": "希伯來文只寫「他開了門」，受詞未指明；中文補出主語以明其人"
+    },
+    {
+      "kind": "crux",
+      "subject": "בחלק",
+      "rationale": "חלק 可作「地界／地段」（書 17:5）或「分」，和合本作「田間」，KJV 作「portion」"
+    }
+  ],
+  "translation": "狗必在耶斯列的地界吃 ⟨ואת⟩ 耶洗別，無人葬埋她。少年人就開了門逃跑了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6d5a247054c90c870d6ea2a632a05ef82067d1c9f75167975567efe211bf34b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/9\/9-12.1792133738367.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "耶洗別"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "耶洗別"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "必吃"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "狗"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "在……的地界"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "耶斯列"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "葬埋"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "他就開了"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "門"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "逃跑了"
+    }
+  ],
+  "timestamp": "2026-10-16T06:55:38.368494250Z",
+  "model": "glm-5.3"
+}

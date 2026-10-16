@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 6:13",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "作為",
+      "rationale": "中文需加動詞性連接詞，希伯來文為名詞並列"
+    },
+    {
+      "kind": "measurement",
+      "subject": "עשירת האפה",
+      "rationale": "細麵的分量：伊法的十分之一，早晚各半"
+    },
+    {
+      "kind": "substitution",
+      "subject": "素祭",
+      "rationale": "מנחה 本義是「禮物／供物」，此處指穀物供物；「素祭」沿用和合本術語"
+    }
+  ],
+  "translation": "這是亞倫和他的眾子受膏之日所要獻給雅威的供物：細麵伊法的十分之一，作為常獻的素祭，早晨一半，晚上一半。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8285aa262641836aafdda9359f112205371f7b9ad21de8c26108843bbfedb389",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/6\/13-16.1792126747420.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "這是"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "供物"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "和他的眾子"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所要……的"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "獻上"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "給雅威"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在……之日"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "受膏"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "他（受膏者亞倫）"
+    },
+    {
+      "surface": "עשירת",
+      "gloss": "十分之一"
+    },
+    {
+      "surface": "האפה",
+      "gloss": "伊法"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "細麵"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "素祭"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "常獻的"
+    },
+    {
+      "surface": "מחציתה",
+      "gloss": "它的一半"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "在早晨"
+    },
+    {
+      "surface": "ומחציתה",
+      "gloss": "它的一半"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "在晚上"
+    }
+  ],
+  "timestamp": "2026-10-16T04:59:07.420746683Z",
+  "model": "glm-5.3"
+}

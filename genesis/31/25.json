@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "早已",
+      "rationale": "תקע為敘述過去式，中文以「早已」表明雅各先紮營、拉班後到"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨的帳棚⟩",
+      "rationale": "原文作「拉班支搭他的弟兄們」，以人代帳棚的換喻，中文補「的帳棚」以通達"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תקע…תקע",
+      "rationale": "兩次「支搭」重複，雅各與拉班平行紮營的對仗結構"
+    }
+  ],
+  "translation": "拉班追上了⟨את⟩雅各；雅各早已在山上支搭⟨את⟩他的帳棚，拉班也和他的弟兄們在基列山上支搭⟨את⟩他的弟兄們⟨的帳棚⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "41260baf6d5efe62ab21a2932e9e12d366584ed1314db333bdd3936b9bc33e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/31\/25-28.1792125214891.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "追上了"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "拉班"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅各"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "支搭"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的帳棚"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "他的帳棚"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "在山上"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "拉班也"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "支搭"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的弟兄們"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "他的弟兄們"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "在山上"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "基列"
+    }
+  ],
+  "timestamp": "2026-10-16T04:33:34.892398803Z",
+  "model": "glm-5.3"
+}

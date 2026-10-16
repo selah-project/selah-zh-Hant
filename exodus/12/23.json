@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 12:23",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ועבר \/ ופסח",
+      "rationale": "雅威「經過」（עבר）擊殺埃及人，卻「越過」（פסח，逾越節之名的動詞）那門——兩個動詞的對比正是逾越節的雙關，中文難以完全保留。"
+    },
+    {
+      "kind": "crux",
+      "subject": "לנגף（末尾）",
+      "rationale": "末尾的不定詞「擊殺」無明確受詞；和合本補「你們」，原文可只作「進來擊殺」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "那毀滅者",
+      "rationale": "המשחית是分詞「那毀滅（者）」，身分未指明——是否雅威自己或另一位使者，經文刻意不說。"
+    }
+  ],
+  "translation": "因為雅威要巡行擊殺埃及人；他看見血在門楣上和兩邊的門框上，雅威就越過那門口，不容那毀滅者進你們的房屋來擊殺你們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b3015a0cc95c9b1038e7d8bed30d22b9c366f63d598846d6cbf57f3f6f033879",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/12\/21-24.1792125948577.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "要巡行"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "擊殺"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "埃及"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "血"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "על",
+      "gloss": "在…上"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "門楣"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "和"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩邊的"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "門框"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "就越過"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "על",
+      "gloss": "越過"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "那門口"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不容"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "讓"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "那毀滅者"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "進"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "你們的房屋"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "來擊殺"
+    }
+  ],
+  "timestamp": "2026-10-16T04:45:48.578619302Z",
+  "model": "glm-5.3"
+}

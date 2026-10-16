@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 12:6",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "קדוש ישראל",
+      "rationale": "字面「以色列的聖者」，是以賽亞書對雅威的固定稱號，直譯保留"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צהלי",
+      "gloss": "原義為閃亮／（牛馬）鳴叫，轉指清亮的歡呼，譯「歡呼」"
+    },
+    {
+      "kind": "you",
+      "subject": "to Zion",
+      "rationale": "陰性單數直接稱呼錫安，擬人為「居住錫安的女子」"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Zion",
+      "rationale": "兩個命令式（歡呼、歌唱）向錫安發出召喚"
+    }
+  ],
+  "translation": "居住錫安的女子啊，你要歡呼歌唱，因為以色列的聖者在你中間是大的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "02bb020b015ec647b5d0428066602a3f74d465d47bb96e4e3e96048daf9ea384",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/12\/5-6.1792134676715.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "你要歡呼"
+    },
+    {
+      "surface": "ורני",
+      "gloss": "並歌唱"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "居住……的女子"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大的"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "在你中間"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖者"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T07:11:16.715812330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 7:14",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "לו יהיה 中文需要動詞連接，希伯來文無繫動詞"
+    },
+    {
+      "kind": "substitution",
+      "subject": "舉祭",
+      "rationale": "תרומה 字根是'高舉'，傳統譯'舉祭'，非一般的'禮物'"
+    }
+  ],
+  "translation": "他要從其中每一樣供物獻上一個，作為奉給雅威的舉祭；這要歸給彈 ⟨את⟩ 平安祭之血的祭司。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ee40c252b5a69349d095423e05c1c09237c3cd6474e56f9554e088188f23e542",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/7\/13-16.1792126748667.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "他要獻上"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "從其中"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一個"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "每一樣"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "供物"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "舉祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "給雅威"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "給祭司"
+    },
+    {
+      "surface": "הזרק",
+      "gloss": "彈…的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "血"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "平安祭的"
+    },
+    {
+      "surface": "לו",
+      "gloss": "歸他"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "這要成為"
+    }
+  ],
+  "timestamp": "2026-10-16T04:59:08.668477635Z",
+  "model": "glm-5.3"
+}

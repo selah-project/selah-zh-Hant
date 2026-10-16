@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "hapax-mismatch",
+      "subject": "צהרים",
+      "rationale": "雙數形式「雙光」，即正午；如光的平行結構是本節的修辭骨架"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "光／正午",
+      "rationale": "光照意象平行：公義如光、公正如正午（雙重之光），中文保留對應"
+    }
+  ],
+  "translation": "他必使你的公義發出如光，你的公正如正午。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "98c18dcb6728e7f29dbb7de9d5244f72da13f2a491b26a5e734f7d4cce0ca2c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/37\/5-8.1792143619615.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "他必使……發出"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "如光"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "你的公義"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "你的公正"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "如正午"
+    }
+  ],
+  "timestamp": "2026-10-16T09:40:19.616122217Z",
+  "model": "glm-5.3"
+}

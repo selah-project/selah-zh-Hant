@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 24:3",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שתם",
+      "rationale": "שָׁתַם 僅見於此處與24:15：KJV讀作「眼睛開啟」，YLT讀作「眼睛關閉」——一字兩解，本譯取「開啟」（與v4「眼睛揭開」呼應）"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שתם",
+      "rationale": "שָׁתַם 全《塔納赫》僅出現兩次（24:3、24:15），皆在此段落"
+    },
+    {
+      "kind": "you",
+      "subject": "to the hearers",
+      "rationale": "巴蘭以第三人稱自我描述開啟神諭，是向巴勒與使者宣告的演說框架"
+    }
+  ],
+  "translation": "他舉起他的箴言，說：巴蘭的話——比珥的兒子；那眼睛開啟之人的話：",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "04120eb1f6c6d3694250fb6db527dbceefe5e843cb79c83d593372d267a3a348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/24\/1-4.1792128161924.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "舉起"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "他的箴言"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "……的話"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "巴蘭"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "בער",
+      "gloss": "比珥"
+    },
+    {
+      "surface": "ונאם",
+      "gloss": "……的話"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "那人"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "開啟"
+    },
+    {
+      "surface": "העין",
+      "gloss": "眼睛"
+    }
+  ],
+  "timestamp": "2026-10-16T05:22:41.925480260Z",
+  "model": "glm-5.3"
+}

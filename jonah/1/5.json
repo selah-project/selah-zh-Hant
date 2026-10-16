@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 1:5",
+  "book": "jonah",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "自己的神明",
+      "rationale": "אלהיו 指各水手自己的神，屬異教語境，故用「神明」而非「以羅欣」"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הספינה",
+      "rationale": "ספינה（有甲板的船）在塔納赫中僅見於約拿書"
+    },
+    {
+      "kind": "addition",
+      "subject": "了",
+      "rationale": "中文時態助詞，希伯來文無對應字"
+    }
+  ],
+  "translation": "水手們就懼怕，各人向自己的神明哀求，並把 ⟨את⟩ 船裡的器具拋入海中，為要使船從他們身上輕省。約拿卻已下到船的深處，躺臥沉睡了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a0c7e3fbcf2dbf189bfe1c9d1a1a548e78aaf482f16ee971671b8ba9c0e34ccb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jonah\/1\/5-8.1792140078896.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "就懼怕"
+    },
+    {
+      "surface": "המלחים",
+      "gloss": "水手們"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "哀求"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "自己的神明"
+    },
+    {
+      "surface": "ויטלו",
+      "gloss": "拋"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "船裡的器具"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "器具"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "באניה",
+      "gloss": "在船裡"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海中"
+    },
+    {
+      "surface": "להקל",
+      "gloss": "為要使輕省"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "從他們身上"
+    },
+    {
+      "surface": "ויונה",
+      "gloss": "約拿卻"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "下到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "深處"
+    },
+    {
+      "surface": "הספינה",
+      "gloss": "船"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "躺臥"
+    },
+    {
+      "surface": "וירדם",
+      "gloss": "沉睡了"
+    }
+  ],
+  "timestamp": "2026-10-16T08:41:18.896868587Z",
+  "model": "glm-5.3"
+}

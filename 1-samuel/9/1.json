@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 9:1",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "便雅憫",
+      "rationale": "ימין字面是「右手／右邊」，作為支派名依和合本通例譯便雅憫"
+    },
+    {
+      "kind": "addition",
+      "subject": "他是……的兒子",
+      "rationale": "中文家譜需要「他是」銜接，希伯來文以名詞鏈並列"
+    }
+  ],
+  "translation": "有一個人，出於便雅憫，名叫基士，他是亞別的兒子，亞別是色羅的兒子，色羅是比歌拉的兒子，比歌拉是亞斐亞的兒子，亞斐亞是一個便雅憫人的兒子，是個大能的勇士。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "06b6e753e2393e863a91a5c6cc68639c70db572f354210b6cadfd11bf7fd0069",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/9\/1-4.1792130896042.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "有"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一個人"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "出於……的兒子"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "便雅憫"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "他的名字叫"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "基士"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "亞別"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "צרור",
+      "gloss": "色羅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "בכורת",
+      "gloss": "比歌拉"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "אפיח",
+      "gloss": "亞斐亞"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一個人"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "便雅憫人"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "大能的"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "勇士"
+    }
+  ],
+  "timestamp": "2026-10-16T06:08:16.043075178Z",
+  "model": "glm-5.3"
+}

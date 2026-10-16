@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עשו／עשה",
+      "rationale": "「造了……所造」同一動詞 עשה 重複，百姓造、亞倫造——責任的迴響。"
+    },
+    {
+      "kind": "crux",
+      "subject": "誰造了牛犢",
+      "rationale": "「他們造了亞倫所造的」語帶張力：造的是百姓還是亞倫，歷代譯本各有着墨。"
+    }
+  ],
+  "translation": "雅威擊打⟨את⟩這百姓，因為他們造了⟨את⟩亞倫所造的牛犢。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5dd0d8af5437b86c6b201ab3e74e916ee98ad021afa9f31210a1f62723d2a299",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/32\/33-35.1792126427988.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "擊打"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "這百姓"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的事"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "他們造了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "牛犢"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "牛犢"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "所造"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    }
+  ],
+  "timestamp": "2026-10-16T04:53:47.989152839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מלפני יהוה \/ מלפני אדון",
+      "rationale": "「在……面前」重複兩次，平行結構，中文保留重複"
+    },
+    {
+      "kind": "substitution",
+      "subject": "主",
+      "rationale": "אדון指神，依紀律譯作「主阿多奈」；此處是經文本身的אדון，非替代雅威"
+    }
+  ],
+  "translation": "群山如蠟熔化，在雅威面前，在全地之主阿多奈面前。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "90ca7e6f79129eb100cd2a224c5a80a2d7aa9fcba58f34eadf132578bf49818c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/97\/5-8.1792144533678.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "群山"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "如蠟"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "熔化"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "在……面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "在……面前"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "主"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:33.679436369Z",
+  "model": "glm-5.3"
+}

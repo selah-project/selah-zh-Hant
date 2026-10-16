@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 17:27",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "敘事引語「發生了」在中文敘事中省略，句法以「到了」直接開展"
+    },
+    {
+      "kind": "hapax",
+      "subject": "משכב…",
+      "rationale": "此節之食物清單延續到 29 節，句尾動詞「帶來」在 29 節；中文以破折號保留未完之感"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא דבר",
+      "rationale": "地名「羅底巴」字面意為「無草之地」，此處作專名音譯"
+    }
+  ],
+  "translation": "大衛到了瑪哈念，朔比——拿鶴的兒子、來自拉巴的亞捫人，瑪吉——亞米利的兒子、來自羅底巴，巴西萊——基列人、來自羅基琳——",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9342efdd948b0524c34945d52739feee20d4ed996c5472f6aae5ca98303c976e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/17\/25-28.1792132066413.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": ""
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "到了"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "瑪哈念"
+    },
+    {
+      "surface": "ושבי",
+      "gloss": "朔比"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "拿鶴"
+    },
+    {
+      "surface": "מרבת",
+      "gloss": "拉巴"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "亞捫"
+    },
+    {
+      "surface": "ומכיר",
+      "gloss": "瑪吉"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "亞米利"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "羅"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "底巴"
+    },
+    {
+      "surface": "וברזלי",
+      "gloss": "巴西萊"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "基列人"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "羅基琳"
+    }
+  ],
+  "timestamp": "2026-10-16T06:27:46.415263769Z",
+  "model": "glm-5.3"
+}

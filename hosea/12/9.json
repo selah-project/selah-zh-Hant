@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 12:9",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מצאתי\/ימצאו",
+      "rationale": "「尋得」重複：以法蓮尋得財利，人卻尋不得他的罪——同一動詞首尾呼應"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "און\/עון",
+      "rationale": "אוֹן（財利）與 עָוֺן（罪孽）同輔音異母音：他尋得的「財利」正是他的「罪孽」"
+    },
+    {
+      "kind": "addition",
+      "subject": "人",
+      "rationale": "希伯來文動詞 יִמְצְאוּ 未標主語，中文補「人」以明誰在查究"
+    }
+  ],
+  "translation": "以法蓮說：「我確然富足了，我為自己尋得了財利；我一切的勞碌所得，人必不能從中找出罪孽，就是罪。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "80e2c9bd12540df068d94b2119aa471aa93d58499d856da8b09f83710d002745",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/12\/9-12.1792139495447.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "אך",
+      "gloss": "確然"
+    },
+    {
+      "surface": "עשרתי",
+      "gloss": "我富足了"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "我尋得了"
+    },
+    {
+      "surface": "און",
+      "gloss": "財利"
+    },
+    {
+      "surface": "לי",
+      "gloss": "為自己"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "יגיעי",
+      "gloss": "勞碌所得"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "他們必找出"
+    },
+    {
+      "surface": "לי",
+      "gloss": "從我"
+    },
+    {
+      "surface": "עון",
+      "gloss": "罪孽"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "罪"
+    }
+  ],
+  "timestamp": "2026-10-16T08:31:35.447931579Z",
+  "model": "glm-5.3"
+}

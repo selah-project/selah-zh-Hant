@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 13:3",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "的日子",
+      "rationale": "אשר 關係子句中文名詞化所需"
+    },
+    {
+      "kind": "crux",
+      "subject": "有酵之物都不可吃",
+      "rationale": "ולא יאכל חמץ 無主語：和合本「有酵的餅都不可吃」 vs 字面「有酵之物不可被吃」；חמץ 泛指發酵之物，不限餅"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to Israel",
+      "rationale": "摩西以命令式「要記念」直接呼籲百姓"
+    }
+  ],
+  "translation": "摩西對百姓說：「要記念 ⟨את⟩ 這一天，就是你們從埃及、從為奴之家出來的日子，因為雅威用大能的手把你們從這裡領出來。有酵之物都不可吃。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8cfaa083276e493d83eaeef57f6f56548a84ff7ef53d067ae85b75ae855d5efc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/13\/1-4.1792125988050.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "要記念"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這一天"
+    },
+    {
+      "surface": "היום",
+      "gloss": "這一天"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "你們出來"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "從埃及"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "從為奴之家"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "用大能"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "領出來"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ 把你們"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "從這裡"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "吃"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "有酵之物"
+    }
+  ],
+  "timestamp": "2026-10-16T04:46:28.052141648Z",
+  "model": "glm-5.3"
+}

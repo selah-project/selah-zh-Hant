@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חקר",
+      "rationale": "與上節「查明」（חקר）同詞：君王榮耀在查明，君王之心卻無法查明。"
+    },
+    {
+      "kind": "mystery",
+      "subject": "ולב מלכים אין חקר",
+      "rationale": "君王的心深不可測——經文以高天深地喻其不可探究。"
+    }
+  ],
+  "translation": "天在高處，地在深處，君王的心沒有可測度的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f992d1e4ab323a6140d847215fa2fe87e2a2def12c7eba812f094039f80e8ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/25\/1-4.1792145650959.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "在高處"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "而地"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "在深處"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "而……的心"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "君王"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "可測度的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:14:10.960659685Z",
+  "model": "glm-5.3"
+}

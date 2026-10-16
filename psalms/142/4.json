@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "昏厥",
+      "rationale": "התעטף 字面為「被遮蔽、被包裹」，喻靈被困住而昏厥"
+    },
+    {
+      "kind": "you",
+      "subject": "to 雅威",
+      "rationale": "詩人轉向雅威說「你卻知道」，直接向神呼告"
+    },
+    {
+      "kind": "addition",
+      "subject": "他們",
+      "rationale": "טמנו 動詞復數無主語，中文補「他們」指追逼者"
+    }
+  ],
+  "translation": "當我的魯阿（靈）在我裡面昏厥時，你卻知道我的路徑；在我所行的這道路上，他們為我埋藏了陷阱。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9d5ab552f0f2d52c46e1e19b00a3216d4ba8beba227dd499df185e35207b5a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/142\/1-4.1792145076374.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "當……昏厥時"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "在我之上"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "我的魯阿（靈）"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "你卻"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "知道"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "我的路徑"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "在道路上"
+    },
+    {
+      "surface": "זו",
+      "gloss": "這"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "我所行的"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "他們埋藏了"
+    },
+    {
+      "surface": "פח",
+      "gloss": "陷阱"
+    },
+    {
+      "surface": "לי",
+      "gloss": "為我"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:36.376297635Z",
+  "model": "glm-5.3"
+}

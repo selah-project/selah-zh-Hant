@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 24:13",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השב תשיב",
+      "rationale": "不定絕對加未完成式的疊用，加強「必定歸還」，中文以「務要……必」傳達。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שלמתו",
+      "rationale": "指他睡臥所蓋的整幅外衣，直譯「他的外衣」，非泛指衣著。"
+    }
+  ],
+  "translation": "日頭落下時，你務要把抵押物還給他，他就躺臥在自己的外衣裡，並祝福你；這在你面前——在雅威你的以羅欣面前——就成為你的義。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6aaea6d8910b8e00cf423ccccbde75dab512cc0914e1836a2a4df4845ad17941",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/24\/13-16.1792129086326.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "務要歸還"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "你必歸還"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給他"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "抵押物"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "抵押物"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "落下時"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "他就躺臥"
+    },
+    {
+      "surface": "בשלמתו",
+      "gloss": "在自己的外衣裡"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "並祝福你"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "就成為"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "義"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在……面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    }
+  ],
+  "timestamp": "2026-10-16T05:38:06.327418716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 15:37",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויבא……יבא",
+      "rationale": "同一動詞 בוא 兩次出現——戶篩進城，押沙龍進城，兩個進入並行對照，形成懸張。"
+    },
+    {
+      "kind": "crux",
+      "subject": "יבא（押沙龍）",
+      "rationale": "JPS 讀作將然未然（「正要進城」）；敘事過去式亦可，取已完成敘述。"
+    }
+  ],
+  "translation": "於是，大衛的朋友戶篩進了城，押沙龍也進了耶路撒冷。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "03d866abc018c4e79cac96fb8c30a6a637260b5549fd298280472b0403777b4c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/15\/37-37.1792132008337.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "於是……進了"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "戶篩"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "朋友"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "押沙龍也"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "進了"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-10-16T06:26:48.337839697Z",
+  "model": "glm-5.3"
+}

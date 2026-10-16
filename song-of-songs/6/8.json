@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "六十、八十、無數",
+      "rationale": "數目遞升的清點：六十王后、八十妃嬪、無數少女。"
+    },
+    {
+      "kind": "crux",
+      "subject": "עלמות",
+      "rationale": "עֲלָמוֹת 意為「少女」而非「處女」（參賽 7:14 之辯）。"
+    }
+  ],
+  "translation": "有六十位王后、八十位妃嬪，還有少女無數。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "36292d4b89e0dfd1a4ec0aa458b5decbc7de40bf44a48e8138a18a5c9181c858",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/6\/5-8.1792146595379.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "六十"
+    },
+    {
+      "surface": "המה",
+      "gloss": "有"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "王后"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "八十"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "妃嬪"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "還有少女"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "數"
+    }
+  ],
+  "timestamp": "2026-10-16T10:29:55.380469163Z",
+  "model": "glm-5.3"
+}

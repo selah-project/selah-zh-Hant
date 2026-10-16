@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברב…ברב",
+      "rationale": "「在繁多中」兩次平行出現，夢與愚昧人的聲音形成對仗，中文保留重複"
+    },
+    {
+      "kind": "addition",
+      "subject": "隨…而來",
+      "rationale": "中文補出夢與事務之間的因果連接，希伯來文僅並列"
+    }
+  ],
+  "translation": "因為夢隨事務繁多而來，愚昧人的聲音也在言語繁多之中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "673c0bdcb3d48faa53297bc9d5e2aee1f7d214ecc60a1d397cb7399cae0c6460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/5\/1-4.1792147009708.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "夢"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "在繁多中"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "事務"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "而聲音"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "愚昧人的"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "在繁多中"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "言語"
+    }
+  ],
+  "timestamp": "2026-10-16T10:36:49.709399965Z",
+  "model": "glm-5.3"
+}

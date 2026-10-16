@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 27:26",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם שור אם שה",
+      "rationale": "「若是牛若是羊」的希伯來選擇句式，譯作「無論是牛是羊」"
+    },
+    {
+      "kind": "addition",
+      "subject": "牠",
+      "rationale": "中文需要受詞代名詞，希伯來文的受詞由אתו標記"
+    }
+  ],
+  "translation": "惟有頭生的，就是獻給雅威作頭生的牲畜，人不可將牠分別為聖；無論是牛是羊，都歸雅威。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4eec02fe031ab5328d54c85d48b408297646004578a1557e1f9838863b0d2ba5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/27\/25-28.1792127356275.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "惟有"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "頭生的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "יבכר",
+      "gloss": "獻作頭生的"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "給雅威"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "在牲畜中"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "分別為聖"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "牠（頭生的牲畜）"
+    },
+    {
+      "surface": "אם",
+      "gloss": "無論是"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "אם",
+      "gloss": "或是"
+    },
+    {
+      "surface": "שה",
+      "gloss": "羊"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "歸雅威"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "牠"
+    }
+  ],
+  "timestamp": "2026-10-16T05:09:16.275877881Z",
+  "model": "glm-5.3"
+}

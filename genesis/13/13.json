@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 13:13",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文補上"
+    },
+    {
+      "kind": "crux",
+      "subject": "ליהוה",
+      "rationale": "『在雅威面前』與『得罪雅威』兩讀；KJV\/ASV 分別取兩種"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מאד",
+      "rationale": "原文『極其』修飾全句，置於句尾；中文移作『罪大惡極』"
+    }
+  ],
+  "translation": "所多瑪的人在雅威面前罪大惡極，是罪人和惡人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fb7b0b09cf813fcf2f419309de432538dbcccba124745701fb1b89183b9c70d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/13\/13-16.1792124728007.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "而……的人"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "所多瑪"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "和罪人"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "在雅威面前"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極其"
+    }
+  ],
+  "timestamp": "2026-10-16T04:25:28.007501970Z",
+  "model": "glm-5.3"
+}

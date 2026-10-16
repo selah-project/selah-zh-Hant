@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "רוח 此處指人的內在氣息／心靈（非神聖的魯阿），譯為「氣息」以保詞形重複"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רוח…רוח",
+      "rationale": "同一詞 רוח 兩次出現構成對仗：「氣息長」對「氣息高」，中文以重複「氣息」保留此結構"
+    }
+  ],
+  "translation": "事情的終局勝過它的起頭；氣息長久的勝過氣息高傲的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3c76ffd76d5268fcc23e84eebccc32f72e9e2a3da275c9ae6a28e1493253cfcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/7\/5-8.1792147022731.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "勝過"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "終局"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "事情"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "它的起頭"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "勝過"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "長久的"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "氣息"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "高傲的"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "氣息"
+    }
+  ],
+  "timestamp": "2026-10-16T10:37:02.732112870Z",
+  "model": "glm-5.3"
+}

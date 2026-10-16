@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 30:9",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "素祭",
+      "rationale": "מנחה是素麵的供物，『素祭』是通行譯法，非全燒之祭"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תעלו／תסכו",
+      "rationale": "兩個動詞各配一個לא，形成平行的否定句結構"
+    }
+  ],
+  "translation": "你們不可在〈它〉上面使異樣的香上升，也不可獻燔祭和素祭，又不可在〈它〉上面澆奠祭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "30599adeb532b0911badfda70f8d8d5c3693df3214a8c00349306a4210ccc553",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/30\/9-12.1792126328146.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "你們使上升"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "在它上面"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "香"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "異樣的"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "和燔祭"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "和素祭"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "又奠祭"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תסכו",
+      "gloss": "你們澆"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "在它上面"
+    }
+  ],
+  "timestamp": "2026-10-16T04:52:08.147588115Z",
+  "model": "glm-5.3"
+}

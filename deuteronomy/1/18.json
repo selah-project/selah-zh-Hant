@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "אתכם 既是受詞記號又帶代詞詞尾；記號以 ⟨אתכם⟩ 保留，代詞『你們』融入中文語序"
+    }
+  ],
+  "translation": "那時，我吩咐你們 ⟨אתכם⟩ 一切 ⟨את⟩ 你們所當行的事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "de8242910b62f82408b93fa2d4d20e394827557b59eafa809ab4805f55b048f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/1\/17-20.1792128513272.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "我就吩咐"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "你們"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "在那時"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "那"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切你們所當行的事"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "的事"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "你們當行"
+    }
+  ],
+  "timestamp": "2026-10-16T05:28:33.273111365Z",
+  "model": "glm-5.3"
+}

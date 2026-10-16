@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 35:12",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויסירו העלה",
+      "rationale": "「移開／分出燔祭」：各譯本讀法不一——移走、取出供用，或 JPS 讀作「當燔（的份）」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ליהוה",
+      "rationale": "雅威按名號表音譯，不用「主」或「耶和華」遮蓋。"
+    },
+    {
+      "kind": "addition",
+      "subject": "他們",
+      "rationale": "中文需主語，原文以動詞詞尾載明第三人稱複數。"
+    }
+  ],
+  "translation": "他們把燔祭分開來，按百姓宗族的班次分給他們，好獻給雅威，正如摩西書上所寫的；牛也照樣行。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8057f020ab9f010b893082d84fe0b0f7132e06f2f455b640ed43dab666897d42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/35\/9-12.1792149795697.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "他們把……分開來"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "לתתם",
+      "gloss": "分給他們"
+    },
+    {
+      "surface": "למפלגות",
+      "gloss": "按……的班次"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "……的家"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "宗族"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "給……的子孫"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "好獻給"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "正如……所寫的"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "在……書上"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "也照樣"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "對牛"
+    }
+  ],
+  "timestamp": "2026-10-16T11:23:15.699043315Z",
+  "model": "glm-5.3"
+}

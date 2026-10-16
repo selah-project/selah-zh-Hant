@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "刀",
+      "rationale": "מאכלת 字面是「食具」（源自「吃」），實指宰牲的刀，非一般兵器"
+    }
+  ],
+  "translation": "亞伯拉罕就伸出手來，拿 ⟨את⟩ 刀，要宰他的兒子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ffb8dc1ed9d7bec130c40f64eb719f5c63487ba6aa227e9f271739788fdceebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/22\/9-12.1792124942128.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "伸出"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的手"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "他的手"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "拿"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "刀"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "刀"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "要宰"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的兒子"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "他的兒子"
+    }
+  ],
+  "timestamp": "2026-10-16T04:29:02.129596387Z",
+  "model": "glm-5.3"
+}

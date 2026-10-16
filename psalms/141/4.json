@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עללות ברשע",
+      "rationale": "「在邪惡中的作為」語序鬆散，中文調整為「在邪惡中行惡行為」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אלחם",
+      "rationale": "לחם 字面與「食物\/爭戰」相關，此處為「吃」"
+    }
+  ],
+  "translation": "求你不要使我的心偏向惡事，以致與行罪孽的人一同在邪惡中行惡〈行為〉；也願我不吃他們的美食。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d8d5ab5faecd126e6dd5f69cf8d88ebaaed02bba0296454339c2cfc5c4280d5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/141\/1-4.1792145022514.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "求你不要"
+    },
+    {
+      "surface": "תט",
+      "gloss": "使……偏向"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "〈向〉事"
+    },
+    {
+      "surface": "רע",
+      "gloss": "惡"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "行"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "〈惡〉行為"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "在邪惡中"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "行罪孽的人"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "人"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "行……的"
+    },
+    {
+      "surface": "און",
+      "gloss": "罪孽"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "也願不"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "我吃"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "他們的美食"
+    }
+  ],
+  "timestamp": "2026-10-16T10:03:42.516124079Z",
+  "model": "glm-5.3"
+}

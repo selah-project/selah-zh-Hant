@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 28:12",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "階梯",
+      "rationale": "סלם 是階梯（此詞在塔納赫中僅此一見），傳統譯「梯子」，希臘文譯本作「天梯」。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "סולם",
+      "rationale": "סלם 在整部塔納赫中只出現於此節。"
+    },
+    {
+      "kind": "mystery",
+      "subject": "夢",
+      "rationale": "本節開啟雅各的夢，異象內容於 28:13 才揭開。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "雙數 השמים",
+      "rationale": "「天」為雙數形（眾天），直達諸天。"
+    }
+  ],
+  "translation": "他做夢，看哪，有一道階梯立在地上，其頂端直達天；看哪，以羅欣的使者們在梯子上去下來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "21fc7755373c638033cd02844917e04d96be732a48242a722026efd8f4952ed4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/28\/9-12.1792125103509.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "做夢"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "סלם",
+      "gloss": "階梯"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "立"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "在地上"
+    },
+    {
+      "surface": "וראשו",
+      "gloss": "其頂端"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "直達"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "天"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "使者們"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣的"
+    },
+    {
+      "surface": "עלים",
+      "gloss": "上去"
+    },
+    {
+      "surface": "וירדים",
+      "gloss": "下來"
+    },
+    {
+      "surface": "בו",
+      "gloss": "在梯子上"
+    }
+  ],
+  "timestamp": "2026-10-16T04:31:43.510548307Z",
+  "model": "glm-5.3"
+}

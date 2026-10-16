@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 20:16",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויכרת",
+      "rationale": "「立約」直譯「剪約」——כרת ברית，與14–15節的「剪除」同詞根，一詞貫穿"
+    },
+    {
+      "kind": "addition",
+      "subject": "說：",
+      "rationale": "原文無「說」字，中文引語需要"
+    }
+  ],
+  "translation": "於是約拿單與大衛家立約，說：願雅威從大衛仇敵的手中追討此事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cb14f6d7744f54c69aaef52baf127fee4bac8c66f30a41aced25b0187218fdb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/20\/13-16.1792131307514.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "立…約"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "עם",
+      "gloss": "與"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "追討"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "從…的手中"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "仇敵"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    }
+  ],
+  "timestamp": "2026-10-16T06:15:07.516360145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וידבר",
+      "rationale": "דבר 本義「說話」，此處為罕見義「制伏、驅使」，KJV「subdueth」；字形仍是「話語」之根。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "報復",
+      "rationale": "נקמות 指伸冤、報復之行，非私人怨恨，是雅威為受膏者伸張的公義。"
+    }
+  ],
+  "translation": "那位伊勒——那賜我報復的，他使萬民服在我以下。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f7495c9dfa5ca669c5420c06779e3b361b73b433562b9edda20145fa1f5aea17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/18\/45-48.1792143404388.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "那位伊勒"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "那賜"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "報復"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "他使……服"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "萬民"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "在我以下"
+    }
+  ],
+  "timestamp": "2026-10-16T09:36:44.389784968Z",
+  "model": "glm-5.3"
+}

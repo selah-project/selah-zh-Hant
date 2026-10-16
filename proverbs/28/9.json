@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 28:9",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "妥拉",
+      "rationale": "תורה 譯作「妥拉」（訓誨），不用「律法」"
+    },
+    {
+      "kind": "addition",
+      "subject": "凡……的",
+      "rationale": "希伯來文分詞無人稱框架，中文加「凡……的」以成句"
+    }
+  ],
+  "translation": "凡轉耳不聽妥拉的，連他的祈禱也是可憎的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5adb8c82565ed10a27f45a90d617a81dccea475c80677554a7a8ae2e4214d7af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/28\/9-12.1792145673412.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "轉離"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "他的耳"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "不聽"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "妥拉"
+    },
+    {
+      "surface": "גם",
+      "gloss": "連"
+    },
+    {
+      "surface": "תפלתו",
+      "gloss": "他的祈禱"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "可憎的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:14:33.414294335Z",
+  "model": "glm-5.3"
+}

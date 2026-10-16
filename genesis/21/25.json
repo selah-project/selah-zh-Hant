@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אדות",
+      "rationale": "「轉動之事」的慣用語，意即「關於、為了」，直譯會誤導"
+    },
+    {
+      "kind": "alternative",
+      "subject": "והוכח",
+      "rationale": "字根本義是「辯明、使顯正」；可譯「與亞比米勒理論」而非「指責」"
+    }
+  ],
+  "translation": "亞伯拉罕指責 ⟨את⟩ 亞比米勒，為了一口水井的事，就是亞比米勒的僕人強行奪去的那井。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "49002eb342b5c2d67127fcb373e7f2c43ed2e5431afb9a74c09f7a5eb374ff74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/21\/25-28.1792124924689.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "指責"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞比米勒"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "亞比米勒"
+    },
+    {
+      "surface": "על",
+      "gloss": "為了"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "的事"
+    },
+    {
+      "surface": "באר",
+      "gloss": "井"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "強行奪去"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "僕人"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "亞比米勒的"
+    }
+  ],
+  "timestamp": "2026-10-16T04:28:44.689688553Z",
+  "model": "glm-5.3"
+}

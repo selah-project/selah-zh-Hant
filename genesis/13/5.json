@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "此處的 את 是「與、靠近」的介詞（非受詞記號），中文以「與」譯出，仍保留 ⟨את⟩ 記號。"
+    },
+    {
+      "kind": "elision",
+      "subject": "היה",
+      "rationale": "「有」吸收了 היה 的存在義，中文以領有句式自然表達。"
+    }
+  ],
+  "translation": "與⟨את⟩亞伯蘭同行的羅得，也有羊群、牛群和帳棚。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "06e976347f2316a08f954f210adf39444b26af9fa88fd7e473b9740501988198",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/13\/5-8.1792124794168.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "也"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "羅得"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "同行"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞伯蘭"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "亞伯蘭"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "和牛群"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "和帳棚"
+    }
+  ],
+  "timestamp": "2026-10-16T04:26:34.169554612Z",
+  "model": "glm-5.3"
+}

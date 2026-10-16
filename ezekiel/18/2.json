@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 18:2",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "以色列地上的百姓",
+      "rationale": "雅威藉先知直接質問百姓引用俗語"
+    },
+    {
+      "kind": "idiom",
+      "subject": "牙酸軟",
+      "rationale": "תקהינה 字面為「變鈍、發麻」，中文以「酸軟」傳達吃酸果後牙齒發麻的感覺"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משלים／המשל",
+      "rationale": "動詞「引俗語」與名詞「俗語」同根重複，中文以「引用俗語／俗語」部分保留"
+    }
+  ],
+  "translation": "你們在以色列地上為何引用⟨את⟩這俗語，說：「父親吃了酸葡萄，兒子的牙就酸軟了。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "37c954b77d810f2558a0a7017a85a33c382d44539968be6d59854323a5d712d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/18\/1-4.1792138322117.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "為何"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "引用俗語"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這俗語"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "俗語"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "על",
+      "gloss": "在…之上"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "地"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "父親們"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "吃了"
+    },
+    {
+      "surface": "בסר",
+      "gloss": "酸葡萄"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "而…的牙"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "兒子們"
+    },
+    {
+      "surface": "תקהינה",
+      "gloss": "酸軟了"
+    }
+  ],
+  "timestamp": "2026-10-16T08:12:02.118147281Z",
+  "model": "glm-5.3"
+}

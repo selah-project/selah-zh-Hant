@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 是氣息、生命之力，不是不朽的靈魂"
+    },
+    {
+      "kind": "crux",
+      "subject": "להטים",
+      "rationale": "火焰／吞滅如焰（KJV『被火點燃』）vs 直譯『火焰』；字根本義是舔食如燄燒"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "牙齒—矛—箭—舌—劍",
+      "rationale": "身體器官逐一化為兵器，獅子意象與兵器意象交織，中文保留此並列"
+    }
+  ],
+  "translation": "我的性命在獅子中間；我躺臥在如火焰吞噬的人中間，就是人的子孫，他們的牙齒是矛和箭，他們的舌頭是鋒利的劍。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "84411a8859fb53a749c3e95403a297451a264393a89b9c982b88286514726b0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/57\/5-8.1792143986337.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "在……中間"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "獅子"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "我躺臥"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "如火焰吞噬的"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……的子孫"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "他們的牙齒"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "矛"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "和箭"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "和他們的舌頭"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "劍"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "鋒利的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:46:26.337921070Z",
+  "model": "glm-5.3"
+}

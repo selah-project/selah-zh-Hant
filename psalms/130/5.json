@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 130,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קויתי\/קותה",
+      "rationale": "同一動詞重複兩次（我等候——等候了），中文以重複「等候」保留"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפשי",
+      "rationale": "נפש是氣息、生命之力，譯「生命」而非「靈魂」"
+    }
+  ],
+  "translation": "我等候雅威，我的生命也等候，我仰望他的話。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3696f5af547dcfc3c015564eab1208db384e056e1d7c5f57c7aadb843fdc2e37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/130\/5-8.1792144996165.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "我等候"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "等候"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的生命"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "而他的話"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "我仰望"
+    }
+  ],
+  "timestamp": "2026-10-16T10:03:16.166211879Z",
+  "model": "glm-5.3"
+}

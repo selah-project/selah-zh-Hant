@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כפר",
+      "rationale": "字面「遮蓋」，譯作慣用的「贖罪」"
+    },
+    {
+      "kind": "addition",
+      "subject": "隻",
+      "rationale": "中文需量詞，希伯來文無"
+    }
+  ],
+  "translation": "他要照條例把 ⟨את⟩ 第二隻獻為燔祭；祭司要為他贖罪，贖他所犯的罪，他必蒙赦免。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "04fdf67e4e53a653f878c816bcafd8b67f5691456f565c931940409e1c365061",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/5\/9-12.1792126760425.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "第二隻"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二隻"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "他要……獻"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "照條例"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "要贖罪"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "為他"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "他所犯的罪"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "犯"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "必蒙赦免"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    }
+  ],
+  "timestamp": "2026-10-16T04:59:20.426327735Z",
+  "model": "glm-5.3"
+}

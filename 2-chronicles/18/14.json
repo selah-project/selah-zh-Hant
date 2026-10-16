@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 18:14",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "被",
+      "rationale": "中文被動式所需，希伯來文 וינתנו 本身含被動義『被交出』"
+    },
+    {
+      "kind": "alternative",
+      "subject": "米該雅的語氣",
+      "rationale": "此處米該雅複述眾先知的話（諷刺語氣），到第15節才被王逼出真話；譯文保留字面，不加諷刺註解"
+    },
+    {
+      "kind": "you",
+      "subject": "王對米該雅",
+      "rationale": "王直接稱名向米該雅發問"
+    }
+  ],
+  "translation": "他來到王那裡，王對他說：「米該雅，我們上去基列的拉末打仗好嗎，還是我歇手不去了呢？」他說：「上去吧，順利成功，他們必被交在你們手中。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3817883f182a303eb79215b321a0576fed0be41b44d0a9d47bef1995e78d931e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/18\/14-15.1792150028838.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "他來到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "米該雅"
+    },
+    {
+      "surface": "הנלך",
+      "gloss": "我們上去嗎"
+    },
+    {
+      "surface": "אל",
+      "gloss": "往"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "拉末"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "基列"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "打仗"
+    },
+    {
+      "surface": "אם",
+      "gloss": "還是"
+    },
+    {
+      "surface": "אחדל",
+      "gloss": "我歇手"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "上去吧"
+    },
+    {
+      "surface": "והצליחו",
+      "gloss": "順利成功"
+    },
+    {
+      "surface": "וינתנו",
+      "gloss": "必被交"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "在你們手中"
+    }
+  ],
+  "timestamp": "2026-10-16T11:27:08.838967574Z",
+  "model": "glm-5.3"
+}

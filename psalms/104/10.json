@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "使…湧流",
+      "rationale": "המשלח 字面是「差遣、送出」，指泉源被差往谷中"
+    },
+    {
+      "kind": "alternative",
+      "subject": "行走",
+      "rationale": "יהלכון 字面「行走」，即溪水流淌於群山之間"
+    }
+  ],
+  "translation": "祂使泉源湧流在谷中，它們在群山之間行走。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "80d3b1a0234660459e982c38d9a0f6f7a7384580134b29da2afea89f572060ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/104\/9-12.1792144582790.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "祂使…湧流（差遣）"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "泉源"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "在谷中"
+    },
+    {
+      "surface": "בין",
+      "gloss": "之間"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "群山"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "行走"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:22.791450677Z",
+  "model": "glm-5.3"
+}

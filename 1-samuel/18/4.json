@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "直到",
+      "rationale": "三個ועד「直到」是希伯來列舉法，意即「連同」所列各物，直譯會誤導"
+    },
+    {
+      "kind": "substitution",
+      "subject": "戰衣",
+      "rationale": "מדין字面與「量度」相關，指衣物（士兵的戰衣）"
+    }
+  ],
+  "translation": "約拿單脫下身上所穿的 ⟨את⟩ 外袍給了大衛，又將自己的戰衣、刀、弓、腰帶都給了他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "03d807db3496fd6db543d4926f34504fb7d78b89c59513fae8d8bca2faeebdf8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/18\/1-4.1792131257588.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "脫下"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "外袍"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "外袍"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "身上的"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "給了"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "戰衣"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "刀"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "弓"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "腰帶"
+    }
+  ],
+  "timestamp": "2026-10-16T06:14:17.589866329Z",
+  "model": "glm-5.3"
+}

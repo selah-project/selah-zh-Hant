@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文需補"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מאד",
+      "rationale": "字面「極其」，修飾「被找到」，即幫助極易尋得；譯為「隨時」"
+    }
+  ],
+  "translation": "以羅欣（神）是我們的避難所，是力量，是患難中隨時找到的幫助。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e381cb8fb4f044d1d19f379d27980836baee6048f2d738c22d0e88aa35a92f92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/46\/1-4.1792143850819.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "是我們的"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "避難所"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "是力量"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "幫助"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "在患難中"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "被找到"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常"
+    }
+  ],
+  "timestamp": "2026-10-16T09:44:10.820086570Z",
+  "model": "glm-5.3"
+}

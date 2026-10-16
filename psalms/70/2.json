@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "求你",
+      "rationale": "原文為不定式構句「以羅欣——搭救我」，中文需補出祈使語氣的「求你」"
+    },
+    {
+      "kind": "you",
+      "subject": "to 以羅欣／雅威",
+      "rationale": "向神發出的直接懇求"
+    }
+  ],
+  "translation": "以羅欣啊，⟨求你⟩搭救我；雅威啊，⟨求你⟩快快幫助我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7460f835e149b447375fa1fedeeda630ef165f4394ff2d5a21b9823cfa1060d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/70\/1-4.1792144133968.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣啊"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "搭救我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威啊"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "幫助我"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "快快"
+    }
+  ],
+  "timestamp": "2026-10-16T09:48:53.968671713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "就是",
+      "rationale": "中文關係子句需要連接詞，希伯來文的 אשר 以此顯明"
+    }
+  ],
+  "translation": "這些就是雅威在西奈山吩咐 ⟨את⟩ 摩西、給以色列人的誡命。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c3fce8cb71bd990fd235cbaa466bf251a5fcc5af8609747b14222a7368190708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/27\/33-34.1792127342589.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "誡命"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "吩咐"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩西"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אל",
+      "gloss": "給"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……的人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "在……山"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "西奈"
+    }
+  ],
+  "timestamp": "2026-10-16T05:09:02.589921891Z",
+  "model": "glm-5.3"
+}

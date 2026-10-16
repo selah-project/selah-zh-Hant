@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צרר",
+      "rationale": "字面是「使受困、壓迫」的分詞，作名詞「仇敵」；保留敵對壓迫的畫面"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨自己的⟩",
+      "rationale": "中文需明確印戒屬王所有，希伯來文由後綴隱含於敘事"
+    }
+  ],
+  "translation": "王從手上摘下 ⟨את⟩ ⟨自己的⟩ 印戒，賜給亞甲族人哈米大他的兒子哈曼——他是仇視猶太人的仇敵。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "556a2ace82385f8675a87f6441b19e25695293e0594e0789163921a9440f1072",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/esther\/3\/9-12.1792147155054.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "摘下"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的印戒"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "他的印戒"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "從……之上"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "他的手"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "賜給"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "哈曼"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "哈米大他"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "亞甲族人"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "仇敵"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "猶太人的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:39:15.055448166Z",
+  "model": "glm-5.3"
+}

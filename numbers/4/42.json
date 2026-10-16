@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 4:42",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "數點",
+      "rationale": "米拉利子孫按家族與父家登記數點。"
+    },
+    {
+      "kind": "addition",
+      "subject": "登記",
+      "rationale": "原文以介詞短語並列，中文補動詞「登記」以成句。"
+    }
+  ],
+  "translation": "米拉利子孫各家族中被數點的，是按他們的家族、按他們父家〈登記〉的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fbd785972404cf5701e049876bfb3afe538f787287490bd9a006a4a01b2f54b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/4\/41-44.1792127492706.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופקודי",
+      "gloss": "而被數點的"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "各家族"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "米拉利"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "按他們的家族"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "按……家"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "他們的父"
+    }
+  ],
+  "timestamp": "2026-10-16T05:11:32.707862882Z",
+  "model": "glm-5.3"
+}

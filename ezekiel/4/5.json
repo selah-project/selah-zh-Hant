@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 4:5",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "三百九十天",
+      "rationale": "年數換算為日數的算術，一年抵一天。"
+    },
+    {
+      "kind": "crux",
+      "subject": "三百九十",
+      "rationale": "390 對應以色列罪孽年數的算法，古今譯本與抄本（LXX 作190）各異。"
+    }
+  ],
+  "translation": "我已將他們罪孽的年日定給你——按日子的數目，三百九十天；你要擔當以色列家的罪孽。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5b3e78c809d6b2e885eac2adc32807b6346dc0be1971def5e47b633dd3158197",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/4\/5-8.1792137953177.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "我"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "已定給"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "年日"
+    },
+    {
+      "surface": "שני",
+      "gloss": "年日"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "他們的罪孽"
+    },
+    {
+      "surface": "למספר",
+      "gloss": "按……的數目"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日子"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "和九十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "天"
+    },
+    {
+      "surface": "ונשאת",
+      "gloss": "你要擔當"
+    },
+    {
+      "surface": "עון",
+      "gloss": "罪孽"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T08:05:53.178110841Z",
+  "model": "glm-5.3"
+}

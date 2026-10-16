@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עקב\/יעקב",
+      "rationale": "動詞עקב（抓腳跟）正是雅各之名的字根，雙關為中文失落"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שרה",
+      "rationale": "שרה（較力／得勝）即「以色列」名字的來源（創32:29），此處以動詞呼應其名"
+    },
+    {
+      "kind": "substitution",
+      "subject": "壯年的時候",
+      "rationale": "באונו直譯「在他的力量裡」，KJV\/ASV作「成年的時候」，取力量／壯年之意"
+    }
+  ],
+  "translation": "他在腹中抓住 ⟨את⟩ 他哥哥的腳跟，壯年的時候與 ⟨את⟩ 以羅欣較力。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "823b702dbbab90508d3e1f0a3744a33cd54c77a956b258685b02456494d37a41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/12\/1-4.1792139559248.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "在腹中"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "抓住腳跟"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他哥哥"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "他哥哥"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "壯年的時候"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "較力"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以羅欣"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-10-16T08:32:39.250124547Z",
+  "model": "glm-5.3"
+}

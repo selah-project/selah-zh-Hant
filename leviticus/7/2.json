@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "人",
+      "rationale": "希伯來文動詞無主語，中文補「人」作泛指主語"
+    }
+  ],
+  "translation": "人要在宰殺燔祭牲的地方宰殺贖愆祭牲，並把 ⟨את⟩ 牠的血彈在壇的四圍。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "000c27701f6384e678ace380bcde0df4f5c26af47cf542d345bf65d8bb2cc244",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/7\/1-4.1792126756800.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "在……的地方"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "在那裡"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "宰殺"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "燔祭牲"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "燔祭牲"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "宰殺"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "贖愆祭牲"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "贖愆祭牲"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "牠的血"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "牠的血"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "彈"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "壇"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    }
+  ],
+  "timestamp": "2026-10-16T04:59:16.801036384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 4:5",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "三千罷特",
+      "rationale": "盆的容量以罷特計量，與王上7:26的兩千罷特不一致，是著名的數字歧異。"
+    },
+    {
+      "kind": "crux",
+      "subject": "מחזיק בתים",
+      "rationale": "分詞「可容」與動詞「容納」並列；王上7:26作「可容兩千罷特」，歷代志作三千。"
+    },
+    {
+      "kind": "elision",
+      "subject": "וְעָבְיוֹ",
+      "rationale": "原文無動詞，中文以「為」字連接，屬必需的添補。"
+    }
+  ],
+  "translation": "其厚度為一掌，其邊如杯邊的作工，百合花的開花，可容三千罷特。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "10557ec61716f0a1d3680901e95b462b80404a0d7cee6221e5a010c839536d2e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/4\/5-8.1792149141412.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועביו",
+      "gloss": "其厚度"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "一掌"
+    },
+    {
+      "surface": "ושפתו",
+      "gloss": "其邊"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "如……的作工"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "杯的邊"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "杯"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "開花"
+    },
+    {
+      "surface": "שושנה",
+      "gloss": "百合花"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "可容"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "罷特"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "יכיל",
+      "gloss": "容納"
+    }
+  ],
+  "timestamp": "2026-10-16T11:12:21.413194037Z",
+  "model": "glm-5.3"
+}

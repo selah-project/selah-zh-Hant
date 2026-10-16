@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 18:5",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "〈也〉",
+      "rationale": "希伯來文第二句無否定詞，直承前句的לא טוב；中文補「也」以成句"
+    },
+    {
+      "kind": "idiom",
+      "subject": "抬舉惡人的面",
+      "rationale": "שאת פני直譯「抬面子」，即偏袒；保留字面圖像"
+    }
+  ],
+  "translation": "抬舉惡人的面不好，在審判中屈枉義人〈也〉不好。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d0f7deed8b2fe6286ffbb96cbdec3ea5fdf660e8b4484aa2f6dfdcae3012dd74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/18\/5-8.1792145457375.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאת",
+      "gloss": "抬舉"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "屈枉"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "在審判中"
+    }
+  ],
+  "timestamp": "2026-10-16T10:10:57.375672486Z",
+  "model": "glm-5.3"
+}

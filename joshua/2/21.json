@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 2:21",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "朱紅線",
+      "rationale": "תקות字面是「繩索」，引申為「盼望」；此處兼有實物與記號的雙重意味。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "朱紅色",
+      "rationale": "השני指胭脂蟲及其染出的朱紅色，非泛指紅色。"
+    }
+  ],
+  "translation": "她說：「照你們的話，如此就是。」她就打發他們去了，他們就走了；她把朱紅線繫在窗戶上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "853317505c11afd20493085fbf131364fbea2a8286d178ec408cb19910c2e51a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/2\/21-24.1792129455548.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "她說"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "照你們的話"
+    },
+    {
+      "surface": "כן",
+      "gloss": "如此"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "就是"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "她就打發他們去"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "他們就走了"
+    },
+    {
+      "surface": "ותקשר",
+      "gloss": "她把……繫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "朱紅線"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "朱紅線"
+    },
+    {
+      "surface": "השני",
+      "gloss": "朱紅色的"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "在窗戶上"
+    }
+  ],
+  "timestamp": "2026-10-16T05:44:15.549039453Z",
+  "model": "glm-5.3"
+}

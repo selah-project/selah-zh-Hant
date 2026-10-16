@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "村鎮",
+      "rationale": "בְּנֹתֶיהָ 字面是「它的眾女兒」，指附屬村鎮；中文慣稱村鎮，女兒的形象失落"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨它⟩",
+      "rationale": "לָה（它）在希伯來文有，中文需補明確賓語位置"
+    },
+    {
+      "kind": "measurement",
+      "subject": "挪巴",
+      "rationale": "以己名命名征服之地——地方記名的記載"
+    }
+  ],
+  "translation": "挪巴去了，攻取了 ⟨את⟩ 肯納特和 ⟨ואת⟩ 它周圍的村鎮，就用自己的名字稱 ⟨它⟩ 為挪巴。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "00e76b02cda4862b5f97798ee6e706c09f1ba84ed998f99631420068abe474f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/32\/41-42.1792128277099.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "挪巴"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "去了"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "攻取了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "肯納特"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "肯納特"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "它的村鎮"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "它的村鎮"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "稱為"
+    },
+    {
+      "surface": "לה",
+      "gloss": "它"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "挪巴"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "用自己的名字"
+    }
+  ],
+  "timestamp": "2026-10-16T05:24:37.099938740Z",
+  "model": "glm-5.3"
+}

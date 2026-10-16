@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כרחם\/רחם",
+      "rationale": "同一詞根 רחם 首尾呼應，中文以「憐憫」重複保留"
+    },
+    {
+      "kind": "addition",
+      "subject": "的人",
+      "rationale": "יראיו為分詞「敬畏他的」，中文加「的人」成自然名詞短語"
+    }
+  ],
+  "translation": "正如父親憐憫兒子，雅威也憐憫那些敬畏他的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8fb404682e6fcceec1c0c687951955156f6b0ffe4ebcd9cec163f0f254815c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/103\/13-16.1792144569271.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "正如……憐憫"
+    },
+    {
+      "surface": "אב",
+      "gloss": "父親"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "憐憫"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "敬畏他的人"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:09.271774247Z",
+  "model": "glm-5.3"
+}

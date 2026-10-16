@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 84:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "啊",
+      "rationale": "呼格語氣詞，中文需要而希伯來文以語序表達"
+    },
+    {
+      "kind": "you",
+      "subject": "對雅威",
+      "rationale": "本節是向雅威發出的直接呼告"
+    }
+  ],
+  "translation": "萬軍之雅威啊，倚靠你的那人是有福的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3481c00196881e8019a8a68d42d0792dca17d59d7eeb04e1b7de5bc4947d3f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/84\/13-13.1792144304331.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "萬軍"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "…有福的"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "那人"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "倚靠"
+    },
+    {
+      "surface": "בך",
+      "gloss": "你"
+    }
+  ],
+  "timestamp": "2026-10-16T09:51:44.333155489Z",
+  "model": "glm-5.3"
+}

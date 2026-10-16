@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 9:25",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "撒母耳",
+      "rationale": "希伯來文動詞未指明主語，中文需補出說話者"
+    },
+    {
+      "kind": "crux",
+      "subject": "הגג",
+      "rationale": "希伯來文置於句尾的「屋頂」，各譯本或連於說話之地（屋頂上）或連於下節"
+    }
+  ],
+  "translation": "他們從邱壇下到城裡，⟨撒母耳⟩在屋頂上與掃羅說話。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d4748ec66df2da1064461909ccf169dc39e942acf8dc181828d36a511374cc56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/9\/25-27.1792130950153.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "他們下到"
+    },
+    {
+      "surface": "מהבמה",
+      "gloss": "從邱壇"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城裡"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "說話"
+    },
+    {
+      "surface": "עם",
+      "gloss": "與"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "屋頂"
+    }
+  ],
+  "timestamp": "2026-10-16T06:09:10.153809083Z",
+  "model": "glm-5.3"
+}

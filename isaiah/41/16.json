@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תזרם…ורוח",
+      "rationale": "揚場意象呼應上節糠秕：糠秕被風吹散，壓制者如糠歸於無。"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "延續對以色列的第二人稱宣告，結局是因雅威歡欣誇耀。"
+    }
+  ],
+  "translation": "你要揚淨它們，風要帶走它們，旋風要吹散它們⟨אותם⟩；而你，你要因雅威歡欣，因以色列的聖者誇耀。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1ebdc0419e297c2b4d710416ff0969004b819ae250f2d5a19c3b620c0c139e8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/41\/13-16.1792135452518.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "你要揚淨它們"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "而風"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "要帶走它們"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "而旋風"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "要吹散"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "它們（被打散的山嶺岡陵）"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "而你"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "你要歡欣"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "因雅威"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "因……的聖者"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "誇耀"
+    }
+  ],
+  "timestamp": "2026-10-16T07:24:12.519476151Z",
+  "model": "glm-5.3"
+}

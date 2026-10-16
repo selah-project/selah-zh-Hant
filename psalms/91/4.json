@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨你⟩",
+      "rationale": "希伯來文的לך（對你）以受詞代名詞形式顯現，中文語序需要明確的「你」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "信實",
+      "rationale": "אמתו本義是堅固、確實、可信，此處以「信實」譯其信靠之義"
+    },
+    {
+      "kind": "hapax",
+      "subject": "סחרה",
+      "rationale": "此詞在塔納赫中僅出現於此處，確切形狀不明的盾類武器，故譯「小盾」"
+    }
+  ],
+  "translation": "他必用自己的翎毛遮蔽⟨你⟩，你要投靠在他的翅膀底下；他的信實是大盾和小盾。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b770583d47aaef117b1796a16521a422f4625a4ce69e33320139b3ac3b8b468f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/91\/4-4.1792149925900.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "用自己的翎毛"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "遮蔽"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨你⟩"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "在……底下"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "他的翅膀"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "你要投靠"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "大盾"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "和小盾"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "他的信實"
+    }
+  ],
+  "timestamp": "2026-10-16T11:25:25.901313208Z",
+  "model": "glm-5.3"
+}

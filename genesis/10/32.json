@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 10:32",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "都是……的",
+      "rationale": "中文需要繫詞性字眼連接名詞句，希伯來名詞句無繫詞"
+    },
+    {
+      "kind": "measurement",
+      "subject": "萬族譜系總結",
+      "rationale": "創世記十章以族系、世代、國族三重計數總結全人類的分布"
+    }
+  ],
+  "translation": "這些都是挪亞兒子們的家族，各按他們的世系、他們的國族；洪水以後，地上的國族都是從這些分出來的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0741288a5e05ad3123a128136ca148adf359fbccb1704843267d84e29bd46f13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/10\/29-32.1792124709501.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "家族"
+    },
+    {
+      "surface": "בני",
+      "gloss": "兒子們"
+    },
+    {
+      "surface": "נח",
+      "gloss": "挪亞"
+    },
+    {
+      "surface": "לתולדתם",
+      "gloss": "各按他們的世系"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "他們的國族"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "從這些"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "分出來"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "國族"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "以後"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "洪水"
+    }
+  ],
+  "timestamp": "2026-10-16T04:25:09.502911557Z",
+  "model": "glm-5.3"
+}

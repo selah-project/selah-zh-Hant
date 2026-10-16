@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ראשית",
+      "rationale": "רֵאשִׁית 本義『初熟果子／起頭』，作בכור的同位語；譯『之首』保留其首位義。"
+    },
+    {
+      "kind": "crux",
+      "subject": "אונם",
+      "rationale": "אוֹן 可作『力量』或『財富』；諸譯本多取『力量』。"
+    }
+  ],
+  "translation": "又擊殺了他們境內所有的長子，就是他們一切力量之首。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "77b3ed9027d522006bc10ae414041d047e16e9edbf970b2cf9a33791f180ac42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/105\/33-36.1792144634154.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "又擊殺"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "長子"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "在他們境內"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "之首"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "他們的力量"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:14.155522857Z",
+  "model": "glm-5.3"
+}

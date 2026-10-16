@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 6:21",
+  "book": "ezra",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨逾越羊羔⟩",
+      "rationale": "動詞「吃」的受詞由上文（6:20 的逾越羊羔）供應，希伯來文未寫出"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלהם",
+      "rationale": "「歸向他們」（歸向以色列人，如 YLT、ASV）或「在當地各族中間」（修訂者將 אלהם 讀為 אלוה，JPS 採後者）；本譯取前者"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גוי",
+      "rationale": "原文為單數「國族之民」，譯作複數「各族」以合語境"
+    }
+  ],
+  "translation": "從被擄之地歸回的以色列人，以及一切從當地各族的不潔中分別出來、歸向他們、尋求雅威——以色列的以羅欣——的人，都吃了 ⟨את⟩ ⟨逾越羊羔⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "33cb85166db28eef2ae1bfbc2c2005bc44bb2a5bbb16baa2412f4c7409040926",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/6\/21-22.1792147777472.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאכלו",
+      "gloss": "吃了"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……的子民"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "השבים",
+      "gloss": "歸回的"
+    },
+    {
+      "surface": "מהגולה",
+      "gloss": "從被擄之地"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "以及一切"
+    },
+    {
+      "surface": "הנבדל",
+      "gloss": "分別出來的"
+    },
+    {
+      "surface": "מטמאת",
+      "gloss": "從……的不潔"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "各族"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "那地"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "歸向他們"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "尋求"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "……的以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T10:49:37.472969905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 1:16",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מקוא",
+      "rationale": "或作地名「奎厄」（基利家，和合本同），或依字形讀作「細麻線」（欽定本），或作「一群群」（美國標準本）；七十士譯本亦作地名 Kovη。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יקחו",
+      "rationale": "לקחו 直譯「取來」，此處按買賣語境譯作「買來」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "是……的",
+      "rationale": "中文需要繫詞與句式，希伯來文為名詞短語並列。"
+    }
+  ],
+  "translation": "所羅門的馬，其出處是從埃及和奎厄來的；王的商人從奎厄按價買來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "323ca4bd9d2ea0440be7d14f17253bccdbb686bb283c393c54956a8278f10710",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/1\/16-16.1792149975119.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "出處"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "馬"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "屬於"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "從埃及"
+    },
+    {
+      "surface": "ומקוא",
+      "gloss": "和奎厄"
+    },
+    {
+      "surface": "סחרי",
+      "gloss": "商人"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מקוא",
+      "gloss": "奎厄"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "買來"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "按價"
+    }
+  ],
+  "timestamp": "2026-10-16T11:26:15.120122350Z",
+  "model": "glm-5.3"
+}

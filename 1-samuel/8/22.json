@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 8:22",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "聽從他們的聲音",
+      "rationale": "שמע בקולם 直譯「在他們的聲音中聽」，希伯來慣用語指順從其要求"
+    },
+    {
+      "kind": "addition",
+      "subject": "就",
+      "rationale": "中文叙事連貫所需，希伯來僅以連接詞 ו 表達"
+    }
+  ],
+  "translation": "雅威對撒母耳說：「要聽從他們的聲音，為他們立一位王。」撒母耳就對以色列人說：「你們各人回自己的城去吧。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d3eb7e4b44ba0b829a1bbccd09231d9fb26635d9405c441e351427190658a5c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/8\/21-22.1792130782780.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "要聽從"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "他們的聲音"
+    },
+    {
+      "surface": "והמלכת",
+      "gloss": "你要立……為王"
+    },
+    {
+      "surface": "להם",
+      "gloss": "為他們"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "一位王"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "……的人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "去吧"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "לעירו",
+      "gloss": "回自己的城"
+    }
+  ],
+  "timestamp": "2026-10-16T06:06:22.781755507Z",
+  "model": "glm-5.3"
+}

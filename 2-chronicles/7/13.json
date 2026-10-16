@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 7:13",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "若",
+      "rationale": "הן／והן／ואם 三個引導詞不同，中文統一作「若」，希伯來的變化在譯文中失去"
+    },
+    {
+      "kind": "addition",
+      "subject": "不降下",
+      "rationale": "ו לא יהיה 直譯「就不有雨」，中文以「不降下」使雨的意象自然"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חגב",
+      "rationale": "此蝗蟲一詞在塔納赫中僅出現兩次（此處與詩 78:46），為罕用詞"
+    }
+  ],
+  "translation": "我若封閉天空，雨就不降下；我若吩咐蝗蟲吃盡那地；我若差遣瘟疫臨到我民——",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f12b1278fbe3478e6b3a4dbddccf5321920383b4174128ff7aeeac77c38ef5a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/7\/13-16.1792149163617.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "若"
+    },
+    {
+      "surface": "אעצר",
+      "gloss": "我若封閉"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天空"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "就不"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "有"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "雨"
+    },
+    {
+      "surface": "והן",
+      "gloss": "我若"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "吩咐"
+    },
+    {
+      "surface": "על",
+      "gloss": "給"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "蝗蟲"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "吃盡"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "那地"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "我若"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "差遣"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "瘟疫"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "臨到我民"
+    }
+  ],
+  "timestamp": "2026-10-16T11:12:43.618222462Z",
+  "model": "glm-5.3"
+}

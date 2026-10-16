@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 17:4",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "祂的",
+      "rationale": "ובמצותיו 的後綴代名詞，中文以「祂的」表明"
+    },
+    {
+      "kind": "substitution",
+      "subject": "尋求",
+      "rationale": "דרש 直譯為「追尋、常去求問」，尋求 為慣用譯法"
+    }
+  ],
+  "translation": "因為他尋求他父親的以羅欣，遵行祂的誡命，不效法以色列的所作所為。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2c79d817f1773add7f975839b7791e79c77efb801d999144ac71709c30927532",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/17\/4-4.1792150015577.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "尋求……的以羅欣"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "他父親的"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "尋求"
+    },
+    {
+      "surface": "ובמצותיו",
+      "gloss": "遵行祂的誡命"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "而不"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "效法……的作為"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T11:26:55.578338410Z",
+  "model": "glm-5.3"
+}

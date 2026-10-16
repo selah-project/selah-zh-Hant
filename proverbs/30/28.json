@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 30:28",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תתפש",
+      "rationale": "或作主動「抓住」（如和合本：用爪抓住）或作被動「被捕捉」，JPS取被動、KJV取主動"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שממית",
+      "rationale": "壁虎一詞僅見於此處，確切所指的爬蟲種類不確定"
+    },
+    {
+      "kind": "addition",
+      "subject": "住在",
+      "rationale": "原文僅有介詞短語「在君王的宮殿裡」，中文補動詞以成句"
+    }
+  ],
+  "translation": "壁虎可以用手捕捉，牠卻住在君王的宮殿裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b20a2793d8e7190392732e592dc13d0bc7f0f8535555ce7aa04fba50fe474cb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/30\/25-28.1792145682219.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שממית",
+      "gloss": "壁虎"
+    },
+    {
+      "surface": "בידים",
+      "gloss": "用手"
+    },
+    {
+      "surface": "תתפש",
+      "gloss": "被捕捉"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "牠卻"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "在……的宮殿裡"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "君王"
+    }
+  ],
+  "timestamp": "2026-10-16T10:14:42.220669011Z",
+  "model": "glm-5.3"
+}

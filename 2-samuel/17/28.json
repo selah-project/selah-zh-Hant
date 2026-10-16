@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 17:28",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "帶來了",
+      "rationale": "動詞在原文中出現於 29 節首（יגשו），中文句首補出以成句"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וקלי…וקלי",
+      "rationale": "同一詞 קלי 兩次出現，第一次指炒穀、第二次指炒豆類，重複為清單的節奏"
+    },
+    {
+      "kind": "measurement",
+      "subject": "清單",
+      "rationale": "十一項物資逐一列出，供應清單式的記數文體"
+    }
+  ],
+  "translation": "帶來了鋪蓋、盆、陶匠所造的器皿、小麥、大麥、麵粉、炒穀、豆子、扁豆、炒豆，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9342efdd948b0524c34945d52739feee20d4ed996c5472f6aae5ca98303c976e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/17\/25-28.1792132066413.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכב",
+      "gloss": "鋪蓋"
+    },
+    {
+      "surface": "וספות",
+      "gloss": "盆"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "器皿"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "陶匠所造的"
+    },
+    {
+      "surface": "וחטים",
+      "gloss": "小麥"
+    },
+    {
+      "surface": "ושערים",
+      "gloss": "大麥"
+    },
+    {
+      "surface": "וקמח",
+      "gloss": "麵粉"
+    },
+    {
+      "surface": "וקלי",
+      "gloss": "炒穀"
+    },
+    {
+      "surface": "ופול",
+      "gloss": "豆子"
+    },
+    {
+      "surface": "ועדשים",
+      "gloss": "扁豆"
+    },
+    {
+      "surface": "וקלי",
+      "gloss": "炒豆"
+    }
+  ],
+  "timestamp": "2026-10-16T06:27:46.415527580Z",
+  "model": "glm-5.3"
+}

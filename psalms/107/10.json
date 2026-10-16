@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "死蔭",
+      "rationale": "צלמות 字面是「死亡的蔭影」，為 צל（蔭）與 מות（死）的複合詞，中文沿用「死蔭」保留其畫面"
+    },
+    {
+      "kind": "addition",
+      "subject": "鏈",
+      "rationale": "ברזל 只是「鐵」，「鐵鏈」補出束縛之器的含義"
+    }
+  ],
+  "translation": "那些坐在黑暗和死蔭裡的人，是被困苦和鐵鏈捆鎖的囚徒，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fa2b43ed24c66df6cd26b57e8a2bfa3111682000e5d407cf23a768b653f78263",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/107\/9-12.1792144643284.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "坐……的人"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "黑暗"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "和死蔭"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "囚徒"
+    },
+    {
+      "surface": "עני",
+      "gloss": "困苦"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "和鐵"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:23.285001673Z",
+  "model": "glm-5.3"
+}

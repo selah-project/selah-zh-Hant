@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "求你聽",
+      "rationale": "詩人向以羅欣發出的懇求呼喚"
+    },
+    {
+      "kind": "substitution",
+      "subject": "呼求",
+      "rationale": "רנה 本義是尖銳聲、呼喊（喜或哀），『呼求』取其哀聲之義"
+    }
+  ],
+  "translation": "以羅欣（神）啊，求你聽我的呼求；求你側耳聽我的禱告。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2a36bc2a0bee8f8154aa229e500fe67ac96f77f6f4bb574fa6d5ac0ccb4ea75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/61\/1-4.1792144008033.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "求你聽"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "我的呼求"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "求你側耳聽"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "我的禱告"
+    }
+  ],
+  "timestamp": "2026-10-16T09:46:48.033729948Z",
+  "model": "glm-5.3"
+}

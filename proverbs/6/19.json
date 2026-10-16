@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 6:19",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "吐出",
+      "rationale": "יפיח字面是「吹氣、噴出」，即從口中噴出謊言，中文取「吐出」保留氣息意象"
+    },
+    {
+      "kind": "addition",
+      "subject": "的人",
+      "rationale": "末句希伯來文是分詞「那散布紛爭的」，中文補「的人」以成句"
+    }
+  ],
+  "translation": "吐出謊言的假見證、和在弟兄間散布紛爭的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e6184baccefb4e874a99ab38c4925f2e560aaa1c58eda30ae1c89a5df362a673",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/6\/17-20.1792145238937.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "吐出"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "謊言"
+    },
+    {
+      "surface": "עד",
+      "gloss": "見證"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "假"
+    },
+    {
+      "surface": "ומשלח",
+      "gloss": "和散布"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "紛爭"
+    },
+    {
+      "surface": "בין",
+      "gloss": "在……間"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "弟兄"
+    }
+  ],
+  "timestamp": "2026-10-16T10:07:18.938213477Z",
+  "model": "glm-5.3"
+}

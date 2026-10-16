@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 78:28",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מחנהו\/למשכנתיו",
+      "rationale": "「他的營」指誰——子民的營（KJV、ASV）還是雅威的營（YLТ讀法）；代詞指向不同譯法"
+    },
+    {
+      "kind": "addition",
+      "subject": "牠們",
+      "rationale": "希伯來文動詞使役「他使其落下」，受詞承接上節的飛鳥，中文補「牠們」"
+    }
+  ],
+  "translation": "牠們落在營的正中，在他帳幕的四圍。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d443103540400b8e7b1430ddc2718cc6d4d35e1a2ead2ea75e416cee4c2141e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/78\/25-28.1792144267258.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "牠們落在"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "在……的正中"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "他的營"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "למשכנתיו",
+      "gloss": "在他的帳幕"
+    }
+  ],
+  "timestamp": "2026-10-16T09:51:07.259734434Z",
+  "model": "glm-5.3"
+}

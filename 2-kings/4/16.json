@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 4:16",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "你必抱一個兒子",
+      "rationale": "חבקת 字面「你正擁抱」，多譯為將來式「你必抱」；動詞形式是完成式，先知預言的確定性語法。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "不要",
+      "rationale": "אל 之後的她說開頭「不要，我主啊」——希伯來文單獨的 אל 是懇求否定詞，譯作「不要」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "למועד הזה כעת חיה",
+      "rationale": "「指定的時節」與「活命的時候」形成對句時間語，預言的韻律在中文中以平行短語保留。"
+    },
+    {
+      "kind": "you",
+      "subject": "對書念婦人",
+      "rationale": "以利沙直接向書念的婦人說話；她以「我主」「你的使女」自稱回應。"
+    }
+  ],
+  "translation": "他說：「到了這指定的時節，如同活命的時候，你必抱一個兒子。」她說：「不要，我主啊，神人哪，不要欺哄你的使女。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "755f744b76d743d2fa845fc6b92a3ee60956766f0dc7df1aad3bc264bbcbaf6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/4\/13-16.1792133590114.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "到了這指定的時節"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "如同……的時候"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "活命"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "你"
+    },
+    {
+      "surface": "חבקת",
+      "gloss": "必抱"
+    },
+    {
+      "surface": "בן",
+      "gloss": "一個兒子"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "她說"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "我主"
+    },
+    {
+      "surface": "איש",
+      "gloss": "……的人"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣（神）"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תכזב",
+      "gloss": "欺哄"
+    },
+    {
+      "surface": "בשפחתך",
+      "gloss": "你的使女"
+    }
+  ],
+  "timestamp": "2026-10-16T06:53:10.115533416Z",
+  "model": "glm-5.3"
+}

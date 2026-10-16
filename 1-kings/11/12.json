@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "它",
+      "rationale": "אקרענה 的附屬字尾代詞指上一節的「這國」，中文需補出受詞"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "撕裂",
+      "rationale": "קרע 呼應 11 節「撕裂這國」及後文撕裂衣袍的意象，維持同一詞形"
+    }
+  ],
+  "translation": "只是在你的日子，我不這樣行，為了你父親大衛的緣故；我必從你兒子手中將它撕裂開來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cbbaa254da38dde57fdbe0764f7cd7ed41105a68d24dddb63df3f28ab3342a84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/11\/9-12.1792132950687.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "只是"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "在你的日子"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "我不…行"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為了…的緣故"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你父親"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "從…手中"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "你兒子"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "我必將它撕裂"
+    }
+  ],
+  "timestamp": "2026-10-16T06:42:30.688282606Z",
+  "model": "glm-5.3"
+}

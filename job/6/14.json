@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 6:14",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חסד 的主語與斷句",
+      "rationale": "各本分歧極大：KJV\/JPS 讀作格言（『受苦者當得朋友的慈愛』，יעזוב 主語是朋友），YLt 讀作『藐視朋友者必蒙羞』；本譯取格言讀法。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "沙代",
+      "rationale": "שדי 音譯為沙代，不用頭銜『全能者』。"
+    },
+    {
+      "kind": "elision",
+      "subject": "動詞",
+      "rationale": "希伯來文無主要動詞，『當施』為供給的斷言動詞，以⟨⟩標記。"
+    }
+  ],
+  "translation": "對喪膽的人，他的朋友⟨當施⟩慈愛；即使他離棄了對沙代的敬畏。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7665eb970d936697d2efdc8f58bccb52f03f1e3817489fc99181d93b2a7e3284",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/6\/13-16.1792145910520.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למס",
+      "gloss": "對喪膽的人"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "他的朋友"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "慈愛"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "而……的敬畏"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "沙代"
+    },
+    {
+      "surface": "יעזוב",
+      "gloss": "離棄"
+    }
+  ],
+  "timestamp": "2026-10-16T10:18:30.521305561Z",
+  "model": "glm-5.3"
+}

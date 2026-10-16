@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "若…當",
+      "rationale": "וְהָיָה כִי 是條件句框架，中文以「若」承擔"
+    }
+  ],
+  "translation": "若他在這些事中的一件事上有了罪，就要承認他所犯的那件事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "353b9ad6baeef4a785dce2d4fb73ff8793908adc996272aa6b5098546726e5ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/5\/5-8.1792126793450.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "若"
+    },
+    {
+      "surface": "כי",
+      "gloss": "當"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "有了罪"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "一件事"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "這些事中的"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "就要承認"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "犯"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "在那件事上"
+    }
+  ],
+  "timestamp": "2026-10-16T04:59:53.450972512Z",
+  "model": "glm-5.3"
+}

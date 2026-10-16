@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "豐美（脂油）",
+      "rationale": "חלב 字面是「脂油」，指最精粹的部分；譯「豐美」並括注意象"
+    },
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "分詞主語由上文補出"
+    }
+  ],
+  "translation": "他使你的邊界太平，用麥子的豐美使你飽足。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "aefde5ace56cc26ce7c9fa31fcee9847094d4270bb48c85742065604024d4606",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/147\/13-16.1792145139015.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "他使……設立"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "你的邊界"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "太平"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "豐美（脂油）"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "麥子"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "使你飽足"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:39.016415715Z",
+  "model": "glm-5.3"
+}

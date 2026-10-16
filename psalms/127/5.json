@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אַשְׁרֵי \/ אֲשֶׁר",
+      "rationale": "開頭「有福」與關係詞「那」同音相連（ashré...asher），中文無法保留此音效"
+    },
+    {
+      "kind": "elision",
+      "subject": "第二個 אֶת",
+      "rationale": "此處 אֶת 實為介詞「與」（近於 אֵת with），非受詞記號；依規約仍以 ⟨את⟩ 保留原形"
+    },
+    {
+      "kind": "addition",
+      "subject": "城門口",
+      "rationale": "「城」字為補足語境所加，原文 שַׁעַר 僅為「門口」（城門口為古時審判、爭訟之處）"
+    }
+  ],
+  "translation": "有福的是那勇士，他的箭袋滿了 ⟨את⟩ 他們；他必不致羞愧，因為他們要在城門口與 ⟨את⟩ 仇敵說話。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e9d87ba12ccdb924ae9984211be8974e22e990c6516ffcd2b95a87ffd082225d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/127\/5-5.1792144933989.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "有福的是"
+    },
+    {
+      "surface": "הַגֶּבֶר",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "他的"
+    },
+    {
+      "surface": "מִלֵּא",
+      "gloss": "滿了"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "箭袋"
+    },
+    {
+      "surface": "אַשְׁפָּתוֹ",
+      "gloss": "箭袋"
+    },
+    {
+      "surface": "מֵהֶם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יֵבֹשׁוּ",
+      "gloss": "羞愧"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יְדַבְּרוּ",
+      "gloss": "說話"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "仇敵"
+    },
+    {
+      "surface": "אוֹיְבִים",
+      "gloss": "仇敵"
+    },
+    {
+      "surface": "בַּשָּׁעַר",
+      "gloss": "在城門口"
+    }
+  ],
+  "timestamp": "2026-10-16T10:02:13.989845809Z",
+  "model": "glm-5.3"
+}

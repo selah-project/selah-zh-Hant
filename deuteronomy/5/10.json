@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "לאלפים",
+      "rationale": "「千」與上節三四代對比；JPS 譯「第一千代」，KJV 譯「千千人」——字面為「向千」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשנאי／לאהבי",
+      "rationale": "上節「恨我的」與本節「愛我的」形成對偶結構"
+    }
+  ],
+  "translation": "向愛我、遵守我誡命的人施行慈愛，直到千代。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "da4241a86ee7643c13d661f19cab627a0344dbc421eac136c11cba150dd2b5b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/5\/9-12.1792128579293.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "施行"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "慈愛"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "直到千代"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "向愛我的人"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "以及遵守"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "我誡命的"
+    }
+  ],
+  "timestamp": "2026-10-16T05:29:39.294588094Z",
+  "model": "glm-5.3"
+}

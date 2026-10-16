@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "野獸",
+      "rationale": "החיה字面是「活的（動物）」，各譯本多作「野獸」"
+    },
+    {
+      "kind": "addition",
+      "subject": "有翅膀的",
+      "rationale": "כנף字面是「翅膀」，作修飾語置於飛鳥前"
+    }
+  ],
+  "translation": "野獸和一切牲畜，爬行之物和有翅膀的飛鳥，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "da315beae6179eb95ca14d90070a725f84edac6cfe9096be2945a0e263a995e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/148\/9-12.1792145112448.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "野獸"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和一切"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "爬行之物"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "和飛鳥"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "有翅膀的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:12.448952922Z",
+  "model": "glm-5.3"
+}

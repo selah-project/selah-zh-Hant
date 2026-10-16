@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 12:12",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם גלעד און",
+      "rationale": "語法可作問句「基列是罪孽嗎？」（KJV、ASV）或實詞句「基列（敬拜）偶像」；希伯來文 אָוֶן 亦可特指偶像"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גלעד\/גלגל",
+      "rationale": "地名首尾同音（gil-\/gil-），加上גַּלִּים（石堆）——三個גל字根連環，譯文僅存其一"
+    },
+    {
+      "kind": "idiom",
+      "subject": "祭壇如石堆",
+      "rationale": "預言祭壇必被拆毀成田間犁溝上的亂石堆——被犁平的敬拜之所"
+    }
+  ],
+  "translation": "基列若有罪孽，他們誠然成了虛妄；他們在吉甲獻牛為祭，他們的祭壇也必如田間犁溝上的石堆。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "80e2c9bd12540df068d94b2119aa471aa93d58499d856da8b09f83710d002745",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/12\/9-12.1792139495447.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "基列"
+    },
+    {
+      "surface": "און",
+      "gloss": "罪孽"
+    },
+    {
+      "surface": "אך",
+      "gloss": "誠然"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "虛妄"
+    },
+    {
+      "surface": "היו",
+      "gloss": "他們成了"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "在吉甲"
+    },
+    {
+      "surface": "שורים",
+      "gloss": "牛"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "他們獻祭"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也必"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "他們的祭壇"
+    },
+    {
+      "surface": "כגלים",
+      "gloss": "如石堆"
+    },
+    {
+      "surface": "על",
+      "gloss": "在…上"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "犁溝"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "田間"
+    }
+  ],
+  "timestamp": "2026-10-16T08:31:35.448437620Z",
+  "model": "glm-5.3"
+}

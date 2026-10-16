@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "魯阿",
+      "rationale": "רוח按D2雙登記譯作魯阿（靈），屬以羅欣所屬的靈"
+    },
+    {
+      "kind": "addition",
+      "subject": "降臨",
+      "rationale": "希伯來文היתה עליו直譯「在他身上」，中文需補動詞"
+    }
+  ],
+  "translation": "亞撒利雅——俄德的兒子——身上有以羅欣的魯阿（靈）降臨。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c2b4d3426fb015ce11698ee7e9a5f15ce22d412854af8955918ba294fc2c9486",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/15\/1-4.1792149385507.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "亞撒利雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "俄德"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "在他身上"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "魯阿"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-10-16T11:16:25.508474890Z",
+  "model": "glm-5.3"
+}

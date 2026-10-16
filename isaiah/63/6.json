@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 63:6",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נצחם",
+      "rationale": "字面為「他們的葡萄汁」（血紅色的葡萄汁液），歷代譯本或作「他們的力量」（KJV）或作「他們的血」（JPS）；比喻指血灑於地"
+    },
+    {
+      "kind": "substitution",
+      "subject": "血〈汁〉",
+      "rationale": "נ׵צח字面是葡萄的血紅汁液，本譯以「血〈汁〉」保留踩踏葡萄園的意象"
+    }
+  ],
+  "translation": "我在怒氣中踐踏萬民，在烈怒中使他們醉倒，又使他們的血〈汁〉流在地上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "58f5760b0fc2985f12f047f01c9e8e5fce91c18602dbc44702070c5142a6427c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/63\/5-8.1792135870990.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבוס",
+      "gloss": "我踐踏"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "萬民"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "在我的怒氣中"
+    },
+    {
+      "surface": "ואשכרם",
+      "gloss": "使他們醉倒"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "在我的烈怒中"
+    },
+    {
+      "surface": "ואוריד",
+      "gloss": "我使……流下"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "在地上"
+    },
+    {
+      "surface": "נצחם",
+      "gloss": "他們的〈血汁〉"
+    }
+  ],
+  "timestamp": "2026-10-16T07:31:10.991069918Z",
+  "model": "glm-5.3"
+}

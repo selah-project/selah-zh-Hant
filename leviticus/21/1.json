@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 21:1",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "死人",
+      "rationale": "לנפש 字面是「為一個性命（נפש）」，此處指屍體；נפש 本義是氣息／生命，不是靈魂"
+    },
+    {
+      "kind": "you",
+      "subject": "to the priests",
+      "rationale": "本節是雅威對摩西的命令，最終受話人是亞倫子孫的祭司們"
+    }
+  ],
+  "translation": "雅威對摩西說：「你要對祭司們——亞倫的子孫——說話，對他們說：『不可為他百姓中的死人使自己沾染不潔。』」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a6508db9da17225b0f10434f35683c180c6502314d0992536520fa4b7174f560",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/21\/1-4.1792127177029.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "你要說"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司們"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "你要說"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "對他們"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "為死人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "使自己沾染不潔"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "在他百姓中"
+    }
+  ],
+  "timestamp": "2026-10-16T05:06:17.029825887Z",
+  "model": "glm-5.3"
+}

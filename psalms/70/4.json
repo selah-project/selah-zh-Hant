@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עקב",
+      "rationale": "和合本／KJV讀作「報應」（因羞辱的報償）；另一讀法為「因著他們的羞辱」（參 LXX、YLT）"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הֶאָח הֶאָח",
+      "rationale": "嘲弄的感嘆詞重複兩次，中文以「哈啊！哈啊！」擬聲保留其譏誚語氣"
+    }
+  ],
+  "translation": "願那些說「哈啊！哈啊！」的人，因他們的羞辱被擊退。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7460f835e149b447375fa1fedeeda630ef165f4394ff2d5a21b9823cfa1060d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/70\/1-4.1792144133968.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "願他們被擊退"
+    },
+    {
+      "surface": "על",
+      "gloss": "因"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "緣故"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "他們的羞辱"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "那些說……的人"
+    },
+    {
+      "surface": "האח",
+      "gloss": "哈啊！"
+    },
+    {
+      "surface": "האח",
+      "gloss": "哈啊！"
+    }
+  ],
+  "timestamp": "2026-10-16T09:48:53.968977015Z",
+  "model": "glm-5.3"
+}

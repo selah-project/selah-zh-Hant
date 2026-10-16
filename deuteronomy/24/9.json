@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "的",
+      "rationale": "中文屬格需要「的」，希伯來文為附屬形組合詞"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "命令式「要記念」直接對以色列全體發言"
+    }
+  ],
+  "translation": "要記念雅威你⟨的⟩以羅欣在道路上、在你們出埃及的時候向米利暗所行的事 ⟨את⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cdf8b6e50b4230c3fef408b52b36eddd2e935af721eb46878f63230031d1d515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/24\/9-12.1792129031905.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "要記念"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "米利暗所行的事"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所行的"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行了"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "向米利暗"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "在道路上"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "在你們出來的時候"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "從埃及"
+    }
+  ],
+  "timestamp": "2026-10-16T05:37:11.906333374Z",
+  "model": "glm-5.3"
+}

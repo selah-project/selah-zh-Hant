@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חיתך",
+      "rationale": "字面「你的活物」（牲畜\/羊群），KJV譯「你的會眾」，JPS譯「你的羊群」"
+    },
+    {
+      "kind": "addition",
+      "subject": "啊",
+      "rationale": "呼格語氣詞，希伯來文以名詞位置表達"
+    }
+  ],
+  "translation": "你的活物群住在其中；以羅欣啊，你憑你的良善為貧窮人預備。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "782088c89db3a0c483570a9cffcc90139503190ce52c3d67f26fa4949be80130",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/68\/9-12.1792144029617.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "你的活物群"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "住在"
+    },
+    {
+      "surface": "בה",
+      "gloss": "在其中"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "你預備"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "憑你的良善"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "為貧窮人"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-10-16T09:47:09.619435739Z",
+  "model": "glm-5.3"
+}

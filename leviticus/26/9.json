@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "句末的 אתכם（H854）是介詞「與你們」，不是受詞記號，故譯為「與你們」而不加 ⟨את⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "轉向你們",
+      "rationale": "ופניתי אליכם 直譯「我臉轉向你們」，諸譯本作「眷顧／看顧」是引申義"
+    }
+  ],
+  "translation": "我要轉向你們，使你們結果子，使你們繁增，我要堅立我的約與你們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ca5cb799880e3020fe7e5e6cfd22135baf1e22751de7a52fe3de4b29c7d313db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/26\/9-12.1792127348780.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "我要轉向"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "使你們結果子"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "你們（結果子的對象）"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "使你們繁增"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "你們（繁增的對象）"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "我要堅立"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的約"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "我的約"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ 與你們"
+    }
+  ],
+  "timestamp": "2026-10-16T05:09:08.780597194Z",
+  "model": "glm-5.3"
+}

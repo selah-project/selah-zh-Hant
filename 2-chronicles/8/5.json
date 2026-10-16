@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，『都是有牆……的堅固城』的『是』為中文所需"
+    },
+    {
+      "kind": "substitution",
+      "subject": "堅固",
+      "rationale": "מצור字面是『圍困／阻隔之物』，此處指設防"
+    }
+  ],
+  "translation": "又建造了 ⟨את⟩ 上伯‧和崙和 ⟨את⟩ 下伯‧和崙，都是有牆、門和門閂的堅固城。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0cd70edb6853391723cb2988f4c5aaba27d706b0e18de56ecae86812517c383d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/8\/5-8.1792149296909.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "又建造了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "上伯‧和崙"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯‧"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "和崙"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "上"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "下伯‧和崙"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯‧"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "和崙"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "下"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "城"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "堅固"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "牆"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "門"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "和門閂"
+    }
+  ],
+  "timestamp": "2026-10-16T11:14:56.910464107Z",
+  "model": "glm-5.3"
+}

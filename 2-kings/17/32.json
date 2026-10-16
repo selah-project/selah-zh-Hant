@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 17:32",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מקצותם",
+      "rationale": "「從他們的末端／卑微人中」：和合本作「最低階的」，七十士譯本作「頭目／首領」，兩讀並存。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "行事",
+      "rationale": "末句עשים להם直譯「為他們行（獻祭之事）」，和合本補「獻祭」，此處保留動詞本義「行事」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "雅威",
+      "rationale": "את雅威的את是受詞記號，直指「雅威」為敬畏的對象，照家族標記保留。"
+    }
+  ],
+  "translation": "他們敬畏 ⟨את⟩ 雅威，又為自己從他們中間的卑微人中立了邱壇的祭司，在邱壇的殿中為他們行事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e7a9fd96d5094ea5756417e9379bfc887e1595f4de89c7f600885bbe247f3c51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/17\/29-32.1792134111359.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "於是"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "立了"
+    },
+    {
+      "surface": "להם",
+      "gloss": "為自己"
+    },
+    {
+      "surface": "מקצותם",
+      "gloss": "從他們中間的卑微人"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "במות",
+      "gloss": "邱壇的"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "他們就在"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "行事"
+    },
+    {
+      "surface": "להם",
+      "gloss": "為他們"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "在……殿中"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "邱壇的"
+    }
+  ],
+  "timestamp": "2026-10-16T07:01:51.360786420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 28:16",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שאול\/תשאלני",
+      "rationale": "「掃羅」與「你問我」（שאל）同根相擊——名為「被求問者」的王求問亡者，諷刺在希伯來文中迴響，中文盡失"
+    },
+    {
+      "kind": "addition",
+      "subject": "與你為敵",
+      "rationale": "ויהי ערך字面「已成為你的仇敵」，中文補「與」以成自然語"
+    }
+  ],
+  "translation": "撒母耳說：「既然雅威已離開你，與你為敵，你為什麼還問我呢？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ade02ef3a9ad94f441db98b89751d15262df2e16e71f91bdedad06bb1d9cf35f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/28\/13-16.1792131494002.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "為什麼還"
+    },
+    {
+      "surface": "תשאלני",
+      "gloss": "問我"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "סר",
+      "gloss": "離開"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "你"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "成為"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "你的仇敵"
+    }
+  ],
+  "timestamp": "2026-10-16T06:18:14.006846491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "希伯來文未明言主語，中文需補出"
+    },
+    {
+      "kind": "crux",
+      "subject": "主語歸屬",
+      "rationale": "『他必不容你的腳搖動』——祈願語氣（願他不容）還是宣告？動詞未指明主語，可指雅威或指上節的幫助"
+    },
+    {
+      "kind": "you",
+      "subject": "to the worshiper",
+      "rationale": "『你的腳』『保守你的』——直接向朝聖者說話"
+    }
+  ],
+  "translation": "他必不容你的腳搖動；那保守你的必不打盹。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8f07faf0f11916aa1ad6ab96a29c64b818bcebbde0b41505d274b77833588e39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/121\/1-4.1792144914541.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "不容"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "他使"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "搖動"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "你的腳"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "打盹"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "那保守你的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:01:54.542752975Z",
+  "model": "glm-5.3"
+}

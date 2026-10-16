@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מלאכי",
+      "rationale": "先知之名「瑪拉基」意為「我的使者」，與全書的使者主題呼應，中文無法保留。"
+    },
+    {
+      "kind": "addition",
+      "subject": "這是",
+      "rationale": "標題句的判斷詞為中文語法所需，希伯來文無繫詞。"
+    }
+  ],
+  "translation": "瑪拉基之話語的默示⟨這是⟩雅威對以色列所說的，藉瑪拉基的手傳講。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "aa8fdf77aec3110d1ef8f5fe827d84ef20afdabbc248b7ad9a52816638d2eeca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/malachi\/1\/1-4.1792143109223.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "默示"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話語"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "藉……的手"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "瑪拉基"
+    }
+  ],
+  "timestamp": "2026-10-16T09:31:49.223791976Z",
+  "model": "glm-5.3"
+}

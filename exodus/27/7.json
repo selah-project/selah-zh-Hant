@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "被動式",
+      "rationale": "原文是被動（וְהוּבָא，「被帶入／被穿入」），中文以「要被穿入」補出被動語態。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צלעת",
+      "rationale": "本義是「肋骨、側面」，指祭壇的兩側面。"
+    }
+  ],
+  "translation": "⟨את⟩它的槓要穿在環內；那些槓要在祭壇的兩旁，好抬⟨את⟩它。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "df947e071b77ac67155545963b694c8baeb7a98f702b32906936e463269148dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/27\/5-8.1792126254101.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "要被穿入"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "它的槓"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "它的槓"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "在環內"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "要在"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "那些槓"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……之上"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "旁"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇的"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "好抬"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "它（指祭壇）"
+    }
+  ],
+  "timestamp": "2026-10-16T04:50:54.102658475Z",
+  "model": "glm-5.3"
+}

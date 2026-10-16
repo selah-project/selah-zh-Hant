@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "降",
+      "rationale": "היה（「有、持續」）中文以「降」表雨持續落下"
+    },
+    {
+      "kind": "measurement",
+      "subject": "四十天四十夜",
+      "rationale": "雨期的日夜計數"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארבעים וארבעים",
+      "rationale": "「四十天、四十夜」名詞重複的平行節奏，中文逐字保留"
+    }
+  ],
+  "translation": "雨就降在地上，四十天，四十夜。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1517930cbdce0b6e78836d467255734e92ce3af7268d11c0762735b8f7cc4483",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/7\/9-12.1792124605616.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "……就發生"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "雨"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……之上"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "天"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜"
+    }
+  ],
+  "timestamp": "2026-10-16T04:23:25.617482500Z",
+  "model": "glm-5.3"
+}

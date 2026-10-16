@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 1:17",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לכי לשלום",
+      "rationale": "字面「去入平安」，中文以「平平安安地去」呈現祝願語"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שאל\/שאלה",
+      "rationale": "「求」與「懇求」同根呼應，中文以同字「求」保留"
+    }
+  ],
+  "translation": "以利回答說：「你平平安安地去吧，願以色列的以羅欣將你向他所求的懇求賜給你。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "98f8a4ad51bf32b36f257cf442f46f7d6c1377bf8de5278c8360a8957cc8a78b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/1\/17-20.1792130752148.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "回答"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "以利"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "去"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "平平安安地"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "願……的以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "賜"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的懇求"
+    },
+    {
+      "surface": "שלתך",
+      "gloss": "你的懇求"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "求"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "向他"
+    }
+  ],
+  "timestamp": "2026-10-16T06:05:52.149118644Z",
+  "model": "glm-5.3"
+}

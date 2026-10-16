@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 4:30",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מבן\/בן",
+      "rationale": "希伯來文『三十之子』的慣用語，中文以『三十歲』自然表達"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לצבא",
+      "rationale": "צבא本義為軍隊編制，此處指會幕的服役班次，譯作『服役』"
+    },
+    {
+      "kind": "measurement",
+      "subject": "三十歲……五十歲",
+      "rationale": "按年齡界定服役人數的計數範圍"
+    }
+  ],
+  "translation": "從三十歲及以上，直到五十歲，你要數點他們，就是一切前來服役、辦理會幕之事工的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d89c13fa2238e052428a20574275f21ddb0c2e8d99b0dcba88ac039baadcf687",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/4\/29-32.1792127538759.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "從……歲"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "及以上"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "בן",
+      "gloss": "……歲"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "你要數點他們"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "前來的"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "服役"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "辦理"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "會幕之事工"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "……之事工"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "會幕（帳棚）"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "聚會之幕"
+    }
+  ],
+  "timestamp": "2026-10-16T05:12:18.760035035Z",
+  "model": "glm-5.3"
+}

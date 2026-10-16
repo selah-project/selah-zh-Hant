@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 36:23",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דלתות",
+      "rationale": "字面是「門頁」（דלת 的複數），指書卷上相連的欄葉；各譯本作「葉」「欄」「頁」不等"
+    },
+    {
+      "kind": "crux",
+      "subject": "誰割書卷",
+      "rationale": "動詞 יקרעה 未標主語：多數譯本補「王」，但語法上主語也可仍是猶底（和合本、KJV 皆不指明）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "割下來",
+      "rationale": "קרע 本義是「撕裂」（如撕裂衣服），此處指撕裂割下書卷的欄葉"
+    }
+  ],
+  "translation": "猶底每讀完三四欄，王就用文士的刀割下來，丟進火盆的火裡，直到全卷在火盆的火上燒盡為止。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "86d03ae8ab9bc3b09ac53cbf84b66bfc26cd53d09f9762864c2dda1a6cc57ba0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/36\/21-24.1792137258027.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "事情發生"
+    },
+    {
+      "surface": "כקרוא",
+      "gloss": "當……誦讀時"
+    },
+    {
+      "surface": "יהודי",
+      "gloss": "猶底"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "欄"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "四"
+    },
+    {
+      "surface": "יקרעה",
+      "gloss": "割下來"
+    },
+    {
+      "surface": "בתער",
+      "gloss": "用刀"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "文士的"
+    },
+    {
+      "surface": "והשלך",
+      "gloss": "丟進"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "אל",
+      "gloss": "在"
+    },
+    {
+      "surface": "האח",
+      "gloss": "火盆"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "תם",
+      "gloss": "燒盡"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "卷"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "האח",
+      "gloss": "火盆"
+    }
+  ],
+  "timestamp": "2026-10-16T07:54:18.028494889Z",
+  "model": "glm-5.3"
+}

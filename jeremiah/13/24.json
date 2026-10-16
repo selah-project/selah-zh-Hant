@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 13:24",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "被吹去的",
+      "rationale": "עובר 字面「經過的」，中文需補被動語感"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לרוח מדבר",
+      "rationale": "曠野之風＝熾熱的東風，審判意象；中文保留字面"
+    }
+  ],
+  "translation": "我必把他們分散，如同被曠野的風吹去的碎稭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4cdf6e28a5b63e5b5a7b2c77d1f569e6a6f5f878b1bdf09799c1812e5a1e3433",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/13\/21-24.1792136496086.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואפיצם",
+      "gloss": "我必把他們分散"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "如同碎稭"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "被吹去的"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "風"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "曠野的"
+    }
+  ],
+  "timestamp": "2026-10-16T07:41:36.087698293Z",
+  "model": "glm-5.3"
+}

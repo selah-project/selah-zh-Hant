@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "了",
+      "rationale": "中文體貌標記，希伯來文無時態標記"
+    }
+  ],
+  "translation": "這樣，我在聖所中瞻仰了你，為要觀看你的力量和你的榮耀。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/63\/1-4.1792144070622.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "這樣"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "在聖所中"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "我瞻仰了你"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "為要觀看"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "你的力量"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "和你的榮耀"
+    }
+  ],
+  "timestamp": "2026-10-16T09:47:50.624114410Z",
+  "model": "glm-5.3"
+}

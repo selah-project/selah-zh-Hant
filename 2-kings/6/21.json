@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "以色列王對以利沙",
+      "rationale": "王稱先知為「我父」，直接稱呼"
+    },
+    {
+      "kind": "crux",
+      "subject": "האכה אכה אבי",
+      "rationale": "詞序不明：『我擊殺嗎、我擊殺嗎，我父』（多數譯本）抑或如 YLT 將 אבי 視為呼格前移"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האכה אכה",
+      "rationale": "同一動詞重複兩次，懇切的問句節奏，中文以重複保留"
+    }
+  ],
+  "translation": "以色列王看見 ⟨אותם⟩ 他們的時候，對以利沙說：「我父啊，我擊殺他們嗎？我擊殺⟨他們⟩嗎？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7cf0dd2deb5262068c3e1f0f128b34586cca44643b69b51959a773a7c148ba9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/6\/21-24.1792133614330.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "以利沙"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "當他看見"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "他們"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "我擊殺嗎"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "我擊殺嗎"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我父啊"
+    }
+  ],
+  "timestamp": "2026-10-16T06:53:34.331340688Z",
+  "model": "glm-5.3"
+}

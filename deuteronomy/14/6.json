@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "倒嚼",
+      "rationale": "מעלה גרה直譯「把反芻之物送上來」，指反芻；中文沿用和合本「倒嚼」"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "本節以「你們」直接向以色列眾人說話，規定飲食界限"
+    }
+  ],
+  "translation": "凡走獸分蹄、蹄分兩瓣、又倒嚼的，⟨את⟩ 那獸你們都可以吃。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "97825781facfb1fcb05fbe0c2a2ebb9533495643192486c6f4346725f79557e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/14\/5-8.1792128870443.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "走獸"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "分"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "蹄"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "裂開"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "裂縫"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "瓣"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "倒嚼"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "所反芻的"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "在走獸中"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "那獸"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "你們都可以吃"
+    }
+  ],
+  "timestamp": "2026-10-16T05:34:30.444778270Z",
+  "model": "glm-5.3"
+}

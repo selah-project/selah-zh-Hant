@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "你是",
+      "rationale": "希伯來文無動詞，中文需繫詞"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומצודתי",
+      "rationale": "מצודה兼有『網羅』與『堡壘』二義；此處取『保障』，與『避難所』平行"
+    },
+    {
+      "kind": "you",
+      "subject": "向雅威說",
+      "rationale": "詩人直接向雅威說話的引語"
+    }
+  ],
+  "translation": "我要向雅威說：⟨你是⟩我的避難所和我的保障；我的以羅欣⟨（神）⟩，我必信靠他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6b27061cd857273d0739abf1af97d2b86292ae29a44dceb3668c0ff5eec15f2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/91\/2-3.1792149892954.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "我要說"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "我的避難所"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "和我的保障"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "我必信靠"
+    },
+    {
+      "surface": "בו",
+      "gloss": "他"
+    }
+  ],
+  "timestamp": "2026-10-16T11:24:52.954959022Z",
+  "model": "glm-5.3"
+}

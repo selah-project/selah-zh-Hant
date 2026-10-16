@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 1:19",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חיות",
+      "rationale": "「有活力／像野獸般強壯」——KJV「lively」，另有讀法解為「像動物一樣自行生產」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "希伯來婦人不像埃及婦人",
+      "rationale": "希伯來原文語序為否定詞在前：לֹא כַנָּשִׁים הַמִּצְרִיֹּת הָעֶבְרִיֹּת，中文調整語序"
+    },
+    {
+      "kind": "you",
+      "subject": "to Pharaoh",
+      "rationale": "收生婆直接回答法老的質問"
+    }
+  ],
+  "translation": "收生婆對法老說：「因為希伯來婦人不像埃及婦人：她們活力旺盛，收生婆還沒有到她們那裡，她們就已經生產了。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ea07d7968f57a30b9380d67d89bfccbd3c5e31ebc71db162550a6f8f99b9c54b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/1\/17-20.1792125685805.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמרן",
+      "gloss": "說"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "收生婆"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "כנשים",
+      "gloss": "像……婦人"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "希伯來"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "活力旺盛"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "她們"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "還沒有"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "到"
+    },
+    {
+      "surface": "אלהן",
+      "gloss": "她們那裡"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "收生婆"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "就已經生產了"
+    }
+  ],
+  "timestamp": "2026-10-16T04:41:25.806804136Z",
+  "model": "glm-5.3"
+}

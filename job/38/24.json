@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 38:24",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קָדִים",
+      "rationale": "『東風』或『光被分往東方』：KJV 將東風作光所散布之物，JPS\/ASV 作『東風被散開』二事並列；此譯隨後者。"
+    },
+    {
+      "kind": "crux",
+      "subject": "אוֹר",
+      "rationale": "『光』或專指『閃電』（如 BSB），約伯記 37 章同根字多指閃電。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אֵי־זֶה",
+      "rationale": "『在哪裡——這條路？』分裂式疑問，希伯來以斷裂語序造懸念，中文以反問重排補足。"
+    },
+    {
+      "kind": "you",
+      "subject": "約伯",
+      "rationale": "向約伯的直接質問。"
+    }
+  ],
+  "translation": "光被分開，往哪條路？東風被散落在地上，是怎樣散布的？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7f3bcddf8957dfa69d99b4fcd933a31116a69114508ac44a828cc81783f1928b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/38\/21-24.1792146477148.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "哪裡"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "被分開"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    },
+    {
+      "surface": "יפץ",
+      "gloss": "被散落"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "東風"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "在……之上"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-10-16T10:27:57.149736129Z",
+  "model": "glm-5.3"
+}

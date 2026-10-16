@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דור בניך",
+      "rationale": "『你兒女們的世代』——或作『你的眾子之世代』；KJV『得罪了你兒女們的世代』"
+    },
+    {
+      "kind": "substitution",
+      "subject": "不忠",
+      "rationale": "בגד 字面是『遮蓋』，引申『行事詭詐、背信』"
+    }
+  ],
+  "translation": "我若說「我要這樣述說」，看哪，我就是對你兒女們的世代不忠了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "43ec00c0195ae3f2ab7e08027a3c2ccb4931ea329e79132d461e46f9401a9d72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/73\/13-16.1792144148144.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "我若"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "說"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "我要述說"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "這樣"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "דור",
+      "gloss": "世代"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "你兒女們的"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "我就是不忠了"
+    }
+  ],
+  "timestamp": "2026-10-16T09:49:08.145377522Z",
+  "model": "glm-5.3"
+}

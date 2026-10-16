@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "先知問使者",
+      "rationale": "先知直接向那在他裏面說話的使者發問。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "打散",
+      "rationale": "זָרָה 本義是揚場篩散（簸散穀殼），譯作「打散」失去揚場的畫面。"
+    }
+  ],
+  "translation": "我問那在我裏面說話的使者：「這些是甚麼？」他對我說：「這些就是打散了 ⟨את⟩ 猶大、⟨את⟩ 以色列和耶路撒冷的角。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "87127273f0aad37dc18402250ecd967bed47e5bb104bb664187d7f6f2bfe4e81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/zechariah\/2\/1-4.1792142903523.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "我問"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "那使者"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "說話的"
+    },
+    {
+      "surface": "בי",
+      "gloss": "在我裏面"
+    },
+    {
+      "surface": "מה",
+      "gloss": "甚麼"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "的角"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "打散了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "猶大"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "和耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-10-16T09:28:23.525764880Z",
+  "model": "glm-5.3"
+}

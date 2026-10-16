@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרבך",
+      "rationale": "「你的刀」字面是武器之劍；多數譯本讀作「工具」（鑿子），取寬義「切割器具」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "牠",
+      "rationale": "ותחללה 的受詞是陰性單數（祭壇或石頭），中文以「牠」代之。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "גזית",
+      "rationale": "「鑿成的石頭」亦可讀作整個祭壇「不可成為鑿成的樣式」。"
+    }
+  ],
+  "translation": "你若為我造一座石頭的祭壇，不可用鑿成的石頭建造 ⟨את⟩ 它們，因為你一旦在石上揮動你的刀，就把牠玷污了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d40b2b47895515cc0540a214d7328ca1aba8ec56d29b8e57ea51caea42e15bb4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/20\/25-26.1792126111063.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "你若"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "石頭的"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "造"
+    },
+    {
+      "surface": "לי",
+      "gloss": "為我"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "建造"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "它們（鑿成的石頭）"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "鑿成的"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "你的刀"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "揮動"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "在石上"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "就把牠玷污了"
+    }
+  ],
+  "timestamp": "2026-10-16T04:48:31.064086528Z",
+  "model": "glm-5.3"
+}

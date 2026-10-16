@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 44:13",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פקד\/פקדתי",
+      "rationale": "同一動詞兩次出現——「追討埃及如追討耶路撒冷」，重複的對等結構是本節的修辭核心"
+    },
+    {
+      "kind": "substitution",
+      "subject": "追討",
+      "rationale": "פקד兼有「眷顧／懲罰」兩面；此處取敵意一面，字面是「臨到、察訪」"
+    }
+  ],
+  "translation": "我必追討住在埃及地的人，如同我追討耶路撒冷一樣——用刀劍、用饑荒、用瘟疫。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "147cf330e71034b3888ff148594b91d005c698a9491ca14f55b88b608207cbae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/44\/13-16.1792137478257.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "我必追討"
+    },
+    {
+      "surface": "על",
+      "gloss": "對付"
+    },
+    {
+      "surface": "היושבים",
+      "gloss": "住在……的人"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在……地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "如同"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "我追討了"
+    },
+    {
+      "surface": "על",
+      "gloss": "對付"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "用刀劍"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "用饑荒"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "用瘟疫"
+    }
+  ],
+  "timestamp": "2026-10-16T07:57:58.258392379Z",
+  "model": "glm-5.3"
+}

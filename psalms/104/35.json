@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "我的生命",
+      "rationale": "נפש 是氣息、生命之力，非不朽的「靈魂」"
+    },
+    {
+      "kind": "invitation",
+      "subject": "你們要讚美雅",
+      "rationale": "הללו יה（哈利路亞）是對會眾的召喚，結束全詩"
+    },
+    {
+      "kind": "you",
+      "subject": "我的生命啊",
+      "rationale": "詩人對自己的生命說話，命令它稱頌雅威"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הללו יה",
+      "rationale": "即「哈利路亞」，讚美＋雅的縮寫聖名，拆譯保留兩個詞"
+    }
+  ],
+  "translation": "願罪人從地上滅絕，願惡人不再存在。我的生命啊，你要稱頌 ⟨את⟩ 雅威。你們要讚美雅！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0f8e6102456bb3bc270249a1ea47b7d8116ccc079f8644cca50f3ccedeb565d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/104\/33-35.1792144579122.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "願…滅絕淨盡"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "罪人"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "並且惡人"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "不再"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "存在"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "你要稱頌"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的生命"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "你們要讚美"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:19.122967388Z",
+  "model": "glm-5.3"
+}

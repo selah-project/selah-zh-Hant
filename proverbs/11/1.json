@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞；中文判斷句需要「是」。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "雙數形態",
+      "rationale": "מאזני是雙數——兩個秤盤，一整具天平；中文「秤」失去雙數形狀。"
+    },
+    {
+      "kind": "you",
+      "subject": "對讀者",
+      "rationale": "格言直接向讀者陳述雅威的憎惡與喜悅，屬訓誨性召喚。"
+    }
+  ],
+  "translation": "欺詐的秤是雅威所憎惡的；完全的法碼是⟨祂⟩所喜悅的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "63d83c8e6d48e81c570f6aa8664cb0f6a93bb39b9ba2312fbfca03e5d2e79420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/11\/1-4.1792145409805.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "秤（雙數：兩個秤盤）"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "欺詐的"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "憎惡"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "而法碼石"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "完全的"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "喜悅"
+    }
+  ],
+  "timestamp": "2026-10-16T10:10:09.806019743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 41:21",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תותח",
+      "rationale": "「棍棒」一詞僅見於此處"
+    },
+    {
+      "kind": "crux",
+      "subject": "נחשבו",
+      "rationale": "動詞主語是武器被「算為」乾草；有譯本以呼吸點火為解，此處依希伯來文直譯"
+    },
+    {
+      "kind": "you",
+      "subject": " Leviathan",
+      "rationale": "描述對象為利維坦，隱含向約伯陳明其威勢"
+    }
+  ],
+  "translation": "棍棒被算為如同乾草，牠嗤笑標槍的響聲。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dde776d5e34e27e6f2054a85643cc5b22fbef9672131d1e9586ad933518924f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/41\/21-24.1792146524491.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כקש",
+      "gloss": "如同乾草"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "被算為"
+    },
+    {
+      "surface": "תותח",
+      "gloss": "棍棒"
+    },
+    {
+      "surface": "וישחק",
+      "gloss": "牠嗤笑"
+    },
+    {
+      "surface": "לרעש",
+      "gloss": "……的響聲"
+    },
+    {
+      "surface": "כידון",
+      "gloss": "標槍"
+    }
+  ],
+  "timestamp": "2026-10-16T10:28:44.492281865Z",
+  "model": "glm-5.3"
+}

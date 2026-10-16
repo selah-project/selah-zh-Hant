@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 3:21",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "自己",
+      "rationale": "נגלה（啟示）的不及物結構需要反身代詞表明雅威啟示的對象是他自己"
+    },
+    {
+      "kind": "substitution",
+      "subject": "繼續",
+      "rationale": "ויסף 字面是「再加添」，慣用為「繼續做某事」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נגלה",
+      "rationale": "גלה 字面是「揭開、裸露」，此處用於啟示——雅威向撒母耳「揭開」自己"
+    }
+  ],
+  "translation": "雅威繼續在示羅顯現，因為雅威藉著他的話在示羅向撒母耳啟示自己。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0223bf0e0c14c41e546221cb3933934321619262a856560fd6108d1708721656",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/3\/21-21.1792130768670.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "繼續"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "להראה",
+      "gloss": "顯現"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "在示羅"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "啟示自己"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "在示羅"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "藉著話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威的"
+    }
+  ],
+  "timestamp": "2026-10-16T06:06:08.671494697Z",
+  "model": "glm-5.3"
+}

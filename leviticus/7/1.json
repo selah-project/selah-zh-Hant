@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "妥拉",
+      "rationale": "תורת譯作「妥拉」，不用單獨的「律法」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש קדשים",
+      "rationale": "「聖中之聖」的疊語結構，中文以「至聖」濃縮"
+    }
+  ],
+  "translation": "這是贖愆祭的妥拉：它是至聖的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "000c27701f6384e678ace380bcde0df4f5c26af47cf542d345bf65d8bb2cc244",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/7\/1-4.1792126756800.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "這是"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "妥拉"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "贖愆祭"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "至聖的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "它"
+    }
+  ],
+  "timestamp": "2026-10-16T04:59:16.800798834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 11:3",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ושדם",
+      "rationale": "字面是「他們的荒毀（שד）」——乖僻本身就是他們的毀滅；諸譯本多譯作動詞「毀滅他們」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "必、卻",
+      "rationale": "希伯來文無這些助詞；中文對仗結構需要。"
+    }
+  ],
+  "translation": "正直人的純全必引導他們；奸詐人的乖僻卻毀滅他們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "63d83c8e6d48e81c570f6aa8664cb0f6a93bb39b9ba2312fbfca03e5d2e79420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/11\/1-4.1792145409805.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמת",
+      "gloss": "純全"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "正直人的"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "引導他們"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "而乖僻"
+    },
+    {
+      "surface": "בוגדים",
+      "gloss": "奸詐人的"
+    },
+    {
+      "surface": "ושדם",
+      "gloss": "毀滅他們"
+    }
+  ],
+  "timestamp": "2026-10-16T10:10:09.806430847Z",
+  "model": "glm-5.3"
+}

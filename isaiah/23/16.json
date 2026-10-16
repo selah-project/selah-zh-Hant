@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 23:16",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "命令式連串",
+      "rationale": "拿琴、遊城、彈奏、多唱——一連串命令呼籲聽者行動。"
+    },
+    {
+      "kind": "you",
+      "subject": "向推羅",
+      "rationale": "陰性單數命令式，直接向推羅（那被遺忘的妓女）說話。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "被遺忘／得蒙記念",
+      "rationale": "נִשְׁכָּחָה 與 תִּזָּכֵרִי 首尾呼應：被遺忘的必設法使自己被記念，反諷結構。"
+    }
+  ],
+  "translation": "拿琴吧，遊遍城邑吧，被遺忘的妓女啊；彈得美妙，多唱歌曲，為使你得蒙記念。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "55c261131dfbbb23620c228e788c4477ab817ae41d967429cd8f6bcbbe3ffe23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/23\/13-16.1792134999008.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קחי",
+      "gloss": "拿吧"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "琴"
+    },
+    {
+      "surface": "סבי",
+      "gloss": "遊遍吧"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "妓女"
+    },
+    {
+      "surface": "נשכחה",
+      "gloss": "被遺忘的"
+    },
+    {
+      "surface": "היטיבי",
+      "gloss": "彈得美妙"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "彈奏"
+    },
+    {
+      "surface": "הרבי",
+      "gloss": "多加"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "歌曲"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為使"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "你得蒙記念"
+    }
+  ],
+  "timestamp": "2026-10-16T07:16:39.009503621Z",
+  "model": "glm-5.3"
+}

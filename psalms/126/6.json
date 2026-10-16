@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 126,
+  "notes": [
+    {
+      "kind": "infinitive-absolute",
+      "subject": "הלוך ילך／בא יבוא",
+      "rationale": "不定詞絕對形加定動詞的疊加結構，強調「必定行走、必定進來」，中文以重複動詞語感近似"
+    },
+    {
+      "kind": "crux",
+      "subject": "משך",
+      "rationale": "僅此處出現：或作「撒種的袋子／量器」（一袋種子），或作「撒種的行囊」；KJV作precious seed，JPS作measure of seed"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשא…נשא",
+      "rationale": "同一動詞首尾呼應——出去時「扛」種袋，回來時「扛」禾捆，中文以「攜帶／肩扛」分譯，失去同詞對稱"
+    }
+  ],
+  "translation": "他前行、且哭泣著，攜帶撒種的種袋出去；他必歡呼著進來，肩扛他的禾捆。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1463c9e58546f1aba4e5cd25b89439d43fbe2911171d2f9ada8db4f54e962d30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/126\/5-6.1792144945587.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "前行"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "行走"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "且哭泣著"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "攜帶"
+    },
+    {
+      "surface": "משך",
+      "gloss": "種袋"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "撒種的"
+    },
+    {
+      "surface": "בא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "必進來"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "歡呼著"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "肩扛"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "他的禾捆"
+    }
+  ],
+  "timestamp": "2026-10-16T10:02:25.588481341Z",
+  "model": "glm-5.3"
+}

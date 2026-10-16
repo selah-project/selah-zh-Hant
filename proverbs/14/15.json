@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 14:15",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "愚蒙人",
+      "rationale": "פתי 指易受誘騙的單純者，非智愚二分的「笨人」"
+    },
+    {
+      "kind": "addition",
+      "subject": "自己的",
+      "rationale": "לאשרו 的代名詞後綴「他的腳步」，中文以「自己的」表明指精明人"
+    }
+  ],
+  "translation": "愚蒙人凡話都信；精明人卻明白自己的腳步。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8158c7d01516cf44466be72d34aaf532368b0a26f47ac6ce35256dbb89718bd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/14\/13-16.1792145379016.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתי",
+      "gloss": "愚蒙人"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "都信"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "而精明人"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "明白"
+    },
+    {
+      "surface": "לאשרו",
+      "gloss": "自己的腳步"
+    }
+  ],
+  "timestamp": "2026-10-16T10:09:39.017055197Z",
+  "model": "glm-5.3"
+}

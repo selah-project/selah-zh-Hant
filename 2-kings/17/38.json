@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-kings 17:38",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "直譯「切約」（剖牲立約），中文以「立約」表達"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "神以第一人稱直接對百姓說話"
+    }
+  ],
+  "translation": "我與你們所立的 ⟨את⟩ 這約，你們不可忘記；也不可敬畏別的神明。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e1f0d0896f67be67ab4c4bea895a697e8112a2b9ef3580a9efd9aba7d6f0423c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/17\/37-40.1792134034426.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "我……立"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ 你們",
+      "marks": "你們"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תשכחו",
+      "gloss": "忘記"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不可"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "神明"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別的"
+    }
+  ],
+  "timestamp": "2026-10-16T07:00:34.427585634Z",
+  "model": "glm-5.3"
+}

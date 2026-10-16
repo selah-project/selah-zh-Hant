@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 64:1",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "節次劃分",
+      "rationale": "希伯來文聖經中此段屬63:19b–64:3，與英文節號相差一節；JPS按希伯來文分節。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אש…אש",
+      "rationale": "「火」在本節兩次出現，火燒枯枝、火煮沸水的意象重疊，中文以重複「火」字保留。"
+    }
+  ],
+  "translation": "如火點燃枯枝，火使水沸騰，為要使你的名被你的敵人認識，使列國在你面前戰抖。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fe4dfc82da3d97c8f4d128d680314a8745bc027acab1784efe46624721794721",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/64\/1-4.1792135888250.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כקדח",
+      "gloss": "如…點燃"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "המסים",
+      "gloss": "枯枝"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "תבעה",
+      "gloss": "使沸騰"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "為要使…認識"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "לצריך",
+      "gloss": "給你的敵人"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "在你面前"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "戰抖"
+    }
+  ],
+  "timestamp": "2026-10-16T07:31:28.250927577Z",
+  "model": "glm-5.3"
+}

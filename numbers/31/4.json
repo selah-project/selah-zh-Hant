@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אלף למטה ×2",
+      "rationale": "「每支派一千」重複兩次，強調各支派均等的徵召"
+    },
+    {
+      "kind": "measurement",
+      "subject": "一千",
+      "rationale": "各支派徵召人數的明確計數"
+    }
+  ],
+  "translation": "每支派一千，每支派一千，從以色列眾支派之中，你們要差遣出去作戰。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9b67a77a3a1956c68237ab6db9ba69f891f2ef9d62dfbdfbc14fcfb2ab68a3f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/31\/1-4.1792128321805.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "一千"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "每支派"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "一千"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "每支派"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "從…眾"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "支派"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "你們要差遣"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "作戰"
+    }
+  ],
+  "timestamp": "2026-10-16T05:25:21.806317462Z",
+  "model": "glm-5.3"
+}

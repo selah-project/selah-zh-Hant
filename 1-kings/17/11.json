@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 17:11",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨水⟩",
+      "rationale": "希伯來文只說「去取」，受詞承上省略，中文需補"
+    },
+    {
+      "kind": "you",
+      "subject": "to the widow",
+      "rationale": "以利亞第二次向寡婦提出請求"
+    }
+  ],
+  "translation": "她去取⟨水⟩的時候，他⟨又⟩呼叫她，說：「求你也拿一口餅在⟨你⟩手中來給我。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d8d05319aa93ba74f05cdda76d50a5672a88c8eced2f3b20f12e9c45c4727645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/17\/9-12.1792133158344.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "她去"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "取"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "他呼叫"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "她"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "你拿"
+    },
+    {
+      "surface": "נא",
+      "gloss": "求你"
+    },
+    {
+      "surface": "לי",
+      "gloss": "給我"
+    },
+    {
+      "surface": "פת",
+      "gloss": "一口"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "在你手中"
+    }
+  ],
+  "timestamp": "2026-10-16T06:45:58.345087081Z",
+  "model": "glm-5.3"
+}

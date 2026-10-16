@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 9:24",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "方向",
+      "rationale": "רוחות 字面是「風」（四風＝四方），中文以「方向」表達"
+    },
+    {
+      "kind": "substitution",
+      "subject": "西方",
+      "rationale": "ימה 字面是「向海」（地中海在西），中文以方位詞「西方」表達"
+    },
+    {
+      "kind": "measurement",
+      "subject": "四個方向",
+      "rationale": "四方方位的排列，守門職任的空間布置"
+    }
+  ],
+  "translation": "守門者按四個方向站崗：東方、西方、北方和南方。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4af917128977be64890599bf9c0f40bec729b6745ca4bd5d4db81380f0168f51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/9\/21-24.1792148679412.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "按四"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "個方向"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "站崗任職"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "守門者"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "東方"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "西方"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "北方"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "和南方"
+    }
+  ],
+  "timestamp": "2026-10-16T11:04:39.413896105Z",
+  "model": "glm-5.3"
+}

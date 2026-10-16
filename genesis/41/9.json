@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Pharaoh",
+      "rationale": "司酒長直接向法老陳述，引語為第一人稱對法老說的話。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "過犯",
+      "rationale": "חטאי是「我的罪／過犯」單數，諸譯本作複數faults；此處保留單數「過犯」。"
+    }
+  ],
+  "translation": "司酒長對法老說：「我今天提起我的過犯。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "738e5aebcec41dacc9580b1a423114915c5cabc304ce52d8ee6d42f27f3a33ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/41\/9-12.1792125409780.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "說"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "司酒的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "法老"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的過犯"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "我的過犯"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "提起"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今天"
+    }
+  ],
+  "timestamp": "2026-10-16T04:36:49.781203505Z",
+  "model": "glm-5.3"
+}

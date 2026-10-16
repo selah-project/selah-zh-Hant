@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "才",
+      "rationale": "הוא 是強調代名詞，「你（正是）」；中文以「才」傳達強調"
+    },
+    {
+      "kind": "invitation",
+      "subject": "求你下令",
+      "rationale": "命令式祈求，向以羅欣發出的呼求"
+    }
+  ],
+  "translation": "你才是我的王，以羅欣⟨神⟩；求你下令賜下雅各的拯救。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e52cd2837ffbe59a8196daa5239e07cb97b990c377c88d197418130afd947f55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/44\/5-8.1792143715850.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨才⟩是"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "我的王"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "下令"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "拯救"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    }
+  ],
+  "timestamp": "2026-10-16T09:41:55.851173479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 50:26",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בן מאה ועשר שנים",
+      "rationale": "直譯「一百一十年之子」，希伯來年歲慣用語。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בארון",
+      "rationale": "ארון 與「約櫃」同詞，此處是棺木／木箱；切勿譯作亞倫。"
+    }
+  ],
+  "translation": "約瑟死了，享年一百一十歲。人用香料薰 ⟨אתו⟩ 他，把他收殮在棺材裡，停在埃及。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "788473786bada7081d921ac596fdd97eefbdfc24d1f04bc1f9cb2eaaabd38300",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/50\/25-26.1792125704709.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "死了"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "בן",
+      "gloss": "……歲"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "一百"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "一十"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "用香料薰（薰屍）"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "他"
+    },
+    {
+      "surface": "ויישם",
+      "gloss": "收殮在"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "棺材裡"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "在埃及"
+    }
+  ],
+  "timestamp": "2026-10-16T04:41:44.710235021Z",
+  "model": "glm-5.3"
+}

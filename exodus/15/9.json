@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 15:9",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 是氣息、生命力的意思，非不朽的靈魂；此處指敵人的慾望得到滿足"
+    },
+    {
+      "kind": "crux",
+      "subject": "除滅",
+      "rationale": "תורישמו（ירש）直譯為『我的手必據有／趕逐他們』，和合本作『毀滅』；希伯來文用佔有動詞表達殲滅"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "疊用動詞",
+      "rationale": "六個第一人稱連續動詞（追趕、追上、均分、滿足、拔出、除滅）模仿敵人急促的貪婪語氣"
+    }
+  ],
+  "translation": "敵人說：「我要追趕，我要追上，我要均分擄物；我的性命必因他們而滿足；我要拔出我的刀，我的手必除滅他們。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1ab465ffed77a72d930c0577bbcf47ead1e5b3eb2067358ed9b163c5cdf06dbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/15\/9-12.1792125932676.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "敵人"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "我要追趕"
+    },
+    {
+      "surface": "אשיג",
+      "gloss": "我要追上"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "我要均分"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "擄物"
+    },
+    {
+      "surface": "תמלאמו",
+      "gloss": "必因他們而滿足"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "אריק",
+      "gloss": "我要拔出"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "我的刀"
+    },
+    {
+      "surface": "תורישמו",
+      "gloss": "必除滅他們"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    }
+  ],
+  "timestamp": "2026-10-16T04:45:32.677240206Z",
+  "model": "glm-5.3"
+}

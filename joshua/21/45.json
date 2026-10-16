@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 21:45",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "落空",
+      "rationale": "נפל 字面是「落下」；「一句話落下」即落空、失效，直譯會誤導"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר／דבר",
+      "rationale": "「話（דבר）沒有落下……雅威所說（דבר）的」——同詞根三現的迴環，中文以「一句／話／說」分譯，修辭密度損失"
+    },
+    {
+      "kind": "substitution",
+      "subject": "應驗了",
+      "rationale": "בא 字面是「來到」，即「臨到、成真」；譯作「應驗」取其語境義"
+    }
+  ],
+  "translation": "雅威向以色列家所說的一切美事，一句也沒有落空，全都應驗了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5148a3fb9e6d8a56047b5597e3c76c388f6d602d3641df5f8ae005d37aeaac99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/21\/45-45.1792129863748.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "落空"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "一句"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "美事"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "全都"
+    },
+    {
+      "surface": "בא",
+      "gloss": "應驗了"
+    }
+  ],
+  "timestamp": "2026-10-16T05:51:03.749254503Z",
+  "model": "glm-5.3"
+}

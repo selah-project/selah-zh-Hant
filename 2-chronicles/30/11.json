@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 30:11",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נכנעו",
+      "rationale": "字面是「屈膝」，引申為自卑順服；肢體姿態在中文以「自卑」呈現"
+    },
+    {
+      "kind": "addition",
+      "subject": "中",
+      "rationale": "中文需方位詞連接族名與「一些人」，希伯來僅用介詞 מן"
+    }
+  ],
+  "translation": "惟有亞設、瑪拿西、西布倫中有一些人自卑，來到耶路撒冷。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c6505f0d71d87f36923342e23c7283dbb6cdde4952cc5428da980324266f5b94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/30\/9-12.1792149706395.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "惟有"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "一些人"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "從亞設"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "和瑪拿西"
+    },
+    {
+      "surface": "ומזבלון",
+      "gloss": "和西布倫"
+    },
+    {
+      "surface": "נכנעו",
+      "gloss": "自卑"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "來到"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-10-16T11:21:46.396350879Z",
+  "model": "glm-5.3"
+}

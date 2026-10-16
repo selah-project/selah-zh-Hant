@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "地名清單",
+      "rationale": "接續的分送名單，再列三處地名。"
+    },
+    {
+      "kind": "crux",
+      "subject": "בבור עשן",
+      "rationale": "一個地名「哥拉珊」（撒上25章作迦密區城邑），各譯本或作 Bor-ashan 或作 Chor-ashan。"
+    }
+  ],
+  "translation": "以及在何珥瑪的，在哥拉珊的，以及在亞袙的，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "93e9fefcb7574bfe6ffeaed468aaa5d7571fbc672d77ad674a938eda20ae322e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/30\/29-31.1792131453782.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "以及在……的"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "何珥瑪"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "以及在……的"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "哥"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "拉珊"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "以及在……的"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "亞袙"
+    }
+  ],
+  "timestamp": "2026-10-16T06:17:33.783436789Z",
+  "model": "glm-5.3"
+}

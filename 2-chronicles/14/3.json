@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "妥拉",
+      "rationale": "תורה是教導，非「律法」；依D2作音譯"
+    },
+    {
+      "kind": "elision",
+      "subject": "ל",
+      "gloss": "לדרוש的ל是不定詞標記，中文以『要』吸收"
+    },
+    {
+      "kind": "you",
+      "subject": "對猶大人",
+      "rationale": "王的命令直接指向百姓"
+    }
+  ],
+  "translation": "他吩咐猶大人尋求 ⟨את⟩ 雅威——他們列祖的以羅欣，遵行妥拉和誡命。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1cbf87edad93e0d28a62d6c2aef8e9a923ce6d697eca254c8c7b151b58e31afa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/14\/1-4.1792149344463.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他吩咐"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "對猶大人"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "要尋求"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "……的以羅欣"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "他們列祖"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "並要遵行"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "妥拉"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "和誡命"
+    }
+  ],
+  "timestamp": "2026-10-16T11:15:44.464519874Z",
+  "model": "glm-5.3"
+}

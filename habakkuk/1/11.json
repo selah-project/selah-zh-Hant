@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 1:11",
+  "book": "habakkuk",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רוח",
+      "rationale": "是「風／氣息吹過」還是「他的心（靈）改變」（KJV）——兩讀皆有古譯支持；字面是風。"
+    },
+    {
+      "kind": "crux",
+      "subject": "לאלהיו",
+      "rationale": "「將能力歸給他的神」抑或ASV「以自己的力量為神」——介詞 ל 兩可。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "魯阿／風",
+      "rationale": "רוח 尋常風義按紀律譯「風」，非神聖靈義。"
+    }
+  ],
+  "translation": "那時，〈狂〉風吹過、逝去，他就有了罪——這就是他的能力，歸給他的以羅欣〈當作神〉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "174a7df9aabb8509ca348d35d8bd9110670b027d09b98329007cd69e748d0a54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/habakkuk\/1\/9-12.1792142753236.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "那時"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "吹過"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "逝去"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "就有了罪"
+    },
+    {
+      "surface": "זו",
+      "gloss": "這就是"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "他的能力"
+    },
+    {
+      "surface": "לאלהו",
+      "gloss": "歸給他的以羅欣"
+    }
+  ],
+  "timestamp": "2026-10-16T09:25:53.238284908Z",
+  "model": "glm-5.3"
+}

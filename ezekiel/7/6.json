@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קץ\/הקיץ",
+      "rationale": "「終局」（קֵץ）與「醒起」（הֵקִיץ）僅一音之差，雙關在中文中無法保留。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בא בא באה",
+      "rationale": "「來了」三次重複，節奏如喪鐘，中文以重複保留。"
+    }
+  ],
+  "translation": "終局來了，終局來了；它已醒起臨到你。看哪，它來了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d81ea06f4e6d9b6e971559f65f7fa8c907b7f81dbccbee3845f6da485cec5a8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/7\/5-8.1792137895625.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "終局"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來了"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來了"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "那終局"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "醒起"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "臨到你"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "באה",
+      "gloss": "它來了"
+    }
+  ],
+  "timestamp": "2026-10-16T08:04:55.626262750Z",
+  "model": "glm-5.3"
+}

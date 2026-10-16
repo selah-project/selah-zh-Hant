@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "願…被",
+      "rationale": "רומה 為祈使語氣，中文需加助動詞與被動式以成句"
+    },
+    {
+      "kind": "you",
+      "subject": "詩人向以羅欣呼求",
+      "rationale": "直接向神說話的祈使句"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "על…על",
+      "rationale": "兩個 על 平行：高過諸天／臨及全地，天與地相對的對仗"
+    }
+  ],
+  "translation": "以羅欣啊，願你被高舉，超過諸天；願你的榮耀遍及全地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "88b234e884a18acd4462a9af204869aa65553829ce71268139fe7702a98395d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/57\/9-12.1792143909357.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "願你被高舉"
+    },
+    {
+      "surface": "על",
+      "gloss": "超過"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "על",
+      "gloss": "遍及"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "你的榮耀"
+    }
+  ],
+  "timestamp": "2026-10-16T09:45:09.358633500Z",
+  "model": "glm-5.3"
+}

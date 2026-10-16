@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "反覆教導",
+      "rationale": "ושננתם字面是『使之尖銳、刺入』，即反覆磨利、殷勤教導"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנן",
+      "rationale": "與『牙齒』（שן）同根，畫面是磨利、重複，中文失去此意象"
+    }
+  ],
+  "translation": "你要反覆教導它們給你的兒子們，無論你坐在家裡、走在路上、躺下、起來，都要講論它們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2cc6d3aec31d90024fe908c7815c1c5ab018ff8f1ed18f7a952c182e11d3de23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/6\/5-8.1792128566245.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "你要反覆教導"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "你的兒子們"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "你要講論"
+    },
+    {
+      "surface": "בם",
+      "gloss": "它們"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "你坐著的時候"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "在家裡"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "你行走的時候"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "在路上"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "你躺下的時候"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "你起來的時候"
+    }
+  ],
+  "timestamp": "2026-10-16T05:29:26.245977897Z",
+  "model": "glm-5.3"
+}

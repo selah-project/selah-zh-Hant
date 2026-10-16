@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "此處的 את（אֵת）是介詞「與」，與受詞記號同形；傳統譯本多譯作 with，此處保留⟨את⟩記號並以「與」呈現"
+    },
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "本節直接論及祕密（סוד，親密議會中的隱事）之保守與洩露"
+    }
+  ],
+  "translation": "要與⟨את⟩你的鄰舍辯論你的案情，不可洩露別人的祕密。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "87550aba326de330518724416d1edfa080be618560f325074fa51f86fa0615a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/25\/9-12.1792145615364.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "你的案情"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "辯論"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的鄰舍"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "你的鄰舍"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "而祕密"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "別人的"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "洩露"
+    }
+  ],
+  "timestamp": "2026-10-16T10:13:35.365227346Z",
+  "model": "glm-5.3"
+}

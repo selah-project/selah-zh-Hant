@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 25:16",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文省略繫詞，中文補「是」"
+    },
+    {
+      "kind": "measurement",
+      "subject": "十二位族長",
+      "rationale": "數算以實瑪利後裔為十二族長，與以色列十二支派平行"
+    }
+  ],
+  "translation": "這些就是以實瑪利的眾子，這些是他們的名字，按著他們的村莊和營寨；他們是按著各族的十二位族長。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0b9b1cc5dc6d1465cb8be9cfc3e52427254c6a149068b50f706c01cec1530052",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/25\/13-16.1792125039460.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "הם",
+      "gloss": "就是"
+    },
+    {
+      "surface": "בני",
+      "gloss": "眾子"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "以實瑪利"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "這些是"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "他們的名字"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "按著他們的村莊"
+    },
+    {
+      "surface": "ובטירתם",
+      "gloss": "和他們的營寨"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "族長"
+    },
+    {
+      "surface": "לאמתם",
+      "gloss": "按著他們的各族"
+    }
+  ],
+  "timestamp": "2026-10-16T04:30:39.461137775Z",
+  "model": "glm-5.3"
+}

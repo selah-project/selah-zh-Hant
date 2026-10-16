@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 3:15",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אדני",
+      "rationale": "此處經文本身寫的是 אדני（阿多奈），故照經文音譯為阿多奈，不以雅威替代"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חלום",
+      "rationale": "「不料，是一個夢」——כלומר 夢的啟示性質由敘事保留，不加「只不過是夢」的貶抑"
+    }
+  ],
+  "translation": "所羅門醒了，不料，是一個夢。他就來到耶路撒冷，站在阿多奈約的櫃前，獻上燔祭，又獻平安祭，又為他眾僕人擺設筵席。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2b7b3ec8dd27086dbb3ab53990c4ad76a58236fc6064fdb70d36db68ee13b4ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/3\/13-16.1792132545628.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "醒了"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "不料"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "是一個夢"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "他就來到"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "站在"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在…前"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "櫃"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約的"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "獻上"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "又獻"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "平安祭"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "又擺設"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "筵席"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "為他眾"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "僕人"
+    }
+  ],
+  "timestamp": "2026-10-16T06:35:45.629751128Z",
+  "model": "glm-5.3"
+}

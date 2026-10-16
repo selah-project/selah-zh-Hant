@@ -1,0 +1,216 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 8:9",
+  "book": "esther",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מהודו",
+      "rationale": "הֹדּוּ 音譯為「印度」；原文是波斯帝國東部行省 Hodu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מדינה ומדינה \/ עם ועם",
+      "rationale": "省與省、族與族的重複結構，與 1:22 平行，本譯保留雙重重複"
+    },
+    {
+      "kind": "measurement",
+      "subject": "一百二十七省",
+      "rationale": "省數重申（與 1:1; 3:9; 8:9; 9:30 同），是帝國疆域的計數"
+    },
+    {
+      "kind": "addition",
+      "subject": "他們便",
+      "rationale": "希伯來文 ויכתב 無主語，中文補出「他們」指文士"
+    }
+  ],
+  "translation": "在那時候，王的文士被召來——第三個月，就是西彎月，二十三日——他們便照末底改所吩咐的一切寫下，寫給猶太人，並給總督、省長和各省的首領，就是從印度直到古實、一百二十七省的；省與省按它的文字，族與族按它的語言，也寫給猶太人，按他們的文字和他們的語言。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e3e5cd678a38e069c7c1897d4a8e0c31d43f1a2521e76f70bd441980cfdfaa22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/esther\/8\/9-12.1792147410153.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "被召來"
+    },
+    {
+      "surface": "ספרי",
+      "gloss": "文士"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王的"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "在…時候"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "那"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "在月"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "就是"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "月"
+    },
+    {
+      "surface": "סיון",
+      "gloss": "西彎"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "在三"
+    },
+    {
+      "surface": "וועשרים",
+      "gloss": "和二十"
+    },
+    {
+      "surface": "בו",
+      "gloss": "其中"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "便寫下"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "照一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "吩咐"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "末底改"
+    },
+    {
+      "surface": "אל",
+      "gloss": "寫給"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "猶太人"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "並給"
+    },
+    {
+      "surface": "האחשדרפנים",
+      "gloss": "總督們"
+    },
+    {
+      "surface": "והפחות",
+      "gloss": "和省長們"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "和首領們"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "各省的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "從印度"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "古實"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "和二十"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "和一百"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "省"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "省"
+    },
+    {
+      "surface": "ומדינה",
+      "gloss": "和省"
+    },
+    {
+      "surface": "ככתבה",
+      "gloss": "按它的文字"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "和族"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "和族"
+    },
+    {
+      "surface": "כלשנו",
+      "gloss": "按它的語言"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "並給"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "猶太人"
+    },
+    {
+      "surface": "ככתבם",
+      "gloss": "按他們的文字"
+    },
+    {
+      "surface": "וכלשונם",
+      "gloss": "和他們的語言"
+    }
+  ],
+  "timestamp": "2026-10-16T10:43:30.154663237Z",
+  "model": "glm-5.3"
+}

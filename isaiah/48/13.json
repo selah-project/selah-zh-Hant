@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 48:13",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "諸天",
+      "rationale": "שמים 是雙數形式，「諸天」保留其雙數面貌，不譯單數「天空」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טפחה",
+      "rationale": "字面是「鋪開如帳棚」，鋪張保留張開手掌的畫面。"
+    }
+  ],
+  "translation": "實在，我的手奠定了地，我的右手鋪張了諸天；我一呼叫它們，它們就一同站立。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fb6b37790ddbdd36f90e076088f9c277694119a0ab4ff6ffbd4ea24fd9b2828c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/48\/13-16.1792135557749.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "實在"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "奠定了"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "וימיני",
+      "gloss": "我的右手"
+    },
+    {
+      "surface": "טפחה",
+      "gloss": "鋪張了"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "一呼叫"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "它們"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "它們就站立"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "一同"
+    }
+  ],
+  "timestamp": "2026-10-16T07:25:57.749926888Z",
+  "model": "glm-5.3"
+}

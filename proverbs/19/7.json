@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 19:7",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אף כי",
+      "rationale": "「何況更」的遞進句式：連弟兄都恨他，朋友更不必說"
+    },
+    {
+      "kind": "crux",
+      "subject": "מרדף אמרים לא המה",
+      "rationale": "極簡難句：字面「追趕話——他們不在」；各譯本分歧大：追逐空話必無所得／用話語懇求他們、他們卻已消失"
+    },
+    {
+      "kind": "addition",
+      "subject": "懇求的",
+      "rationale": "רדף本義是追趕（敵意追逐），此處追的對象是話語，中文補「懇求的」以示意"
+    }
+  ],
+  "translation": "窮人一切的弟兄都恨他，何況他的朋友更是遠離他！他追趕著懇求的話，他們卻不在了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f45880f55fe88e537138ea8f0c89b986e33915e4ec5c7c3e59e736c14ca7e073",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/19\/5-8.1792145508161.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "弟兄"
+    },
+    {
+      "surface": "רש",
+      "gloss": "窮人"
+    },
+    {
+      "surface": "שנאהו",
+      "gloss": "恨他"
+    },
+    {
+      "surface": "אף",
+      "gloss": "何況"
+    },
+    {
+      "surface": "כי",
+      "gloss": "更是"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "他的朋友"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "遠離"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "他"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "追趕"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "話"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "המה",
+      "gloss": "在了"
+    }
+  ],
+  "timestamp": "2026-10-16T10:11:48.162593615Z",
+  "model": "glm-5.3"
+}

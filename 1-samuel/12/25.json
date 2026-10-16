@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 12:25",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הרע\/תרעו",
+      "rationale": "同一詞根 רעע 的名詞與動詞並列，「惡——行惡」，中文以「行惡」重複呈現"
+    },
+    {
+      "kind": "idiom",
+      "subject": "גם…גם",
+      "rationale": "「也…也」的希伯來重複結構，意為「你們和你們的王都」，中文以「也必一同」表達"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "撒母耳對以色列民的直接警告"
+    },
+    {
+      "kind": "substitution",
+      "subject": "被掃滅",
+      "rationale": "ספה 字面是刮除、剃淨，各譯本作 consumed\/swept away，此處取「掃滅」保留刮除的意象"
+    }
+  ],
+  "translation": "但你們若行惡，你們和你們的王也必一同被掃滅。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "263af796ef787e2244c902f567fed4d8c4f38ff8e8aaab7e254dc6ddbf7df686",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/12\/25-25.1792130914308.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "但若"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "行惡"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "你們行"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "你們的王"
+    },
+    {
+      "surface": "תספו",
+      "gloss": "必被掃滅"
+    }
+  ],
+  "timestamp": "2026-10-16T06:08:34.308592631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，「你的王是個少年」的「是」為中文所需"
+    },
+    {
+      "kind": "substitution",
+      "subject": "吃喝",
+      "rationale": "יאכלו 字面為「吃」，清晨吃喝暗示宴樂無度，與 10:17「為力量而吃」相對"
+    },
+    {
+      "kind": "crux",
+      "subject": "נער",
+      "rationale": "「少年」對「孩童」（KJV）對「青年」（YLJ）：年幼無經驗之意"
+    },
+    {
+      "kind": "you",
+      "subject": "向那地",
+      "rationale": "直接向地發言的哀歌體"
+    }
+  ],
+  "translation": "那地有禍了，當你的王是個少年，你的首領在清晨就吃喝！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3b3558fd1b631923924b23c891758c51b0677f3af6102533c4652df24bce6551",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/10\/16-16.1792149965341.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "有禍了"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你⟨的⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "你的王"
+    },
+    {
+      "surface": "נער",
+      "gloss": "少年"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "你的首領"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "在清晨"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "吃喝"
+    }
+  ],
+  "timestamp": "2026-10-16T11:26:05.341563091Z",
+  "model": "glm-5.3"
+}

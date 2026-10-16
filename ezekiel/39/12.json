@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他們",
+      "rationale": "中文需賓語代詞承接上文的屍體，希伯來文後綴已含於動詞"
+    },
+    {
+      "kind": "measurement",
+      "subject": "七個月",
+      "rationale": "埋葬的時長被明確計為七個月，與上節的七年相對"
+    }
+  ],
+  "translation": "以色列家必葬埋他們，為要潔淨 ⟨את⟩ 那地，共七個月。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a20fed10eef06847e563bf34198401139798c7dc96a259654d5e6f8a4fca7730",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/39\/9-12.1792139022110.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "必葬埋他們"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為要"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "潔淨"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "那地"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "七"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "個月"
+    }
+  ],
+  "timestamp": "2026-10-16T08:23:42.111729861Z",
+  "model": "glm-5.3"
+}

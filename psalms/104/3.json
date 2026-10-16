@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "樓閣",
+      "rationale": "עֲלִיּוֹת 是樓上的房間；雅威天上居所的意象，揀選『樓閣』保留房屋的畫面"
+    },
+    {
+      "kind": "substitution",
+      "subject": "風",
+      "rationale": "רוּחַ 此處是尋常的風，非神聖的魯阿"
+    }
+  ],
+  "translation": "他在水中架設樓閣的棟樑，以密雲為他的車輦，行走於風的翅膀之上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/104\/1-4.1792144591454.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "架設棟樑的"
+    },
+    {
+      "surface": "במים",
+      "gloss": "在水中"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "他的樓閣"
+    },
+    {
+      "surface": "השם",
+      "gloss": "以……為"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "密雲"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "他的車輦"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "行走的"
+    },
+    {
+      "surface": "על",
+      "gloss": "於……之上"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "翅膀"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:31.455250721Z",
+  "model": "glm-5.3"
+}

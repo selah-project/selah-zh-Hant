@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "באשה…ובאשה",
+      "rationale": "「為妻子……又為妻子」的重複，希伯來文的對仗結構，中文保留重複"
+    },
+    {
+      "kind": "crux",
+      "subject": "שדה ארם",
+      "rationale": "「亞蘭的田野」直譯；傳統譯本多作「亞蘭地」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שמר",
+      "rationale": "שמר 本義為「看守、守護」，此處意為牧放羊群，中文以「牧羊」呈現"
+    }
+  ],
+  "translation": "雅各逃往亞蘭的田野，以色列為⟨את⟩妻子服役，又為妻子牧羊。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "46b4d4b6dc765202222b342c48e87a245e42046b168da7cd2e16064f8115b9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/12\/13-15.1792139466765.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "逃往"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "田野"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "服役"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "為妻子"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "又為妻子"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "牧羊"
+    }
+  ],
+  "timestamp": "2026-10-16T08:31:06.765752690Z",
+  "model": "glm-5.3"
+}

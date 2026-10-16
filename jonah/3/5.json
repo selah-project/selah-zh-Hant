@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "都",
+      "rationale": "中文需要總括詞來涵蓋מגדולם…ועדקטנם的範圍"
+    },
+    {
+      "kind": "alternative",
+      "subject": "באלהים",
+      "rationale": "「信了以羅欣」或作「信靠以羅欣」；希伯來文介詞ב可表信靠的對象"
+    }
+  ],
+  "translation": "尼尼微的人就信了以羅欣（神），宣告禁食，從最大的到最小的都披上麻布。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "af3e8ddae28a792e8c47f3a6e265b216959c023517e350519df6ab3cc03a061e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jonah\/3\/5-8.1792140040750.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "就信了"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "的人"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "尼尼微"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "以羅欣（神）"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "宣告"
+    },
+    {
+      "surface": "צום",
+      "gloss": "禁食"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "披上"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "麻布"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "從他們最大的"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "他們最小的"
+    }
+  ],
+  "timestamp": "2026-10-16T08:40:40.751526028Z",
+  "model": "glm-5.3"
+}

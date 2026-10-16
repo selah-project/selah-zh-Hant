@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 13:14",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "摩西",
+      "rationale": "希伯來文動詞 נתן 未標明主語，中文補出主語摩西"
+    },
+    {
+      "kind": "crux",
+      "subject": "אשי",
+      "rationale": "אִשֵּׁי 音似『火』（אֵשׁ），和合本譯『祭物』，直譯為『火祭』"
+    }
+  ],
+  "translation": "惟獨對利未支派，摩西沒有給產業；雅威——以色列的以羅欣——的火祭是他的產業，正如雅威對他所說的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "583b5401a9c4cbe0b3c59fa033f93987e7e3b1fb503a51cef30caf18c6a2bcc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/13\/13-16.1792129703334.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "惟獨"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "對……支派"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "利未"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "給"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "產業"
+    },
+    {
+      "surface": "אשי",
+      "gloss": "火祭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "的以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "他的產業"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "正如"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "所說的"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對他"
+    }
+  ],
+  "timestamp": "2026-10-16T05:48:23.335627397Z",
+  "model": "glm-5.3"
+}

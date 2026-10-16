@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 2:1",
+  "book": "ezra",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文補「是」以成句"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בני המדינה",
+      "rationale": "字面為「省之子」，譯作「省的子民」以合中文自然語感"
+    },
+    {
+      "kind": "measurement",
+      "subject": "家譜名冊",
+      "rationale": "本節開啟被擄歸回者的人數登錄名冊，全章以數目點算為架構"
+    }
+  ],
+  "translation": "這些是⟨那⟩省的子民，就是從被擄之民中上來的；那被擄之民是巴比倫王尼布甲尼撒擄到巴比倫去的，他們返回耶路撒冷和猶大，各人歸⟨他⟩自己的城。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "98fb9172f65b6da928d532e1855b3c5ebfef1f8768918a2b55f741616caf2402",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/2\/1-4.1792147744357.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "這些是"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子民"
+    },
+    {
+      "surface": "המדינה",
+      "gloss": "省"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "上來的"
+    },
+    {
+      "surface": "משבי",
+      "gloss": "被擄之民中"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "被擄之民"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "擄去"
+    },
+    {
+      "surface": "נבוכדנצור",
+      "gloss": "尼布甲尼撒"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "到巴比倫"
+    },
+    {
+      "surface": "וישובו",
+      "gloss": "他們返回"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "到耶路撒冷"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "和猶大"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "לעירו",
+      "gloss": "歸他自己的城"
+    }
+  ],
+  "timestamp": "2026-10-16T10:49:04.358255125Z",
+  "model": "glm-5.3"
+}

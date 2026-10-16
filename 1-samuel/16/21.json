@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 16:21",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "拿器具的人",
+      "rationale": "נשא כלים 直譯「抬器具者」，傳統譯「拿兵器的人」；כלים 本義是器具、器皿"
+    },
+    {
+      "kind": "addition",
+      "subject": "他⟨掃羅⟩",
+      "rationale": "希伯來文 ויאהבהו 未指明主語，中文需標明是掃羅愛大衛"
+    }
+  ],
+  "translation": "大衛來到掃羅那裡，站在他面前，他⟨掃羅⟩就極其愛他，大衛就作了他的拿兵器的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2d7593d52ea881d4bdfd672b718ca18d236cfdb80cc8981e3a87b1b463b6a005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/16\/21-23.1792131069941.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "站在"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "他面前"
+    },
+    {
+      "surface": "ויאהבהו",
+      "gloss": "他就愛他"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極其"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "他就成了"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為他"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "拿"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "器具的人"
+    }
+  ],
+  "timestamp": "2026-10-16T06:11:09.942619801Z",
+  "model": "glm-5.3"
+}

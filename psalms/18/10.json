@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "諸天",
+      "rationale": "שמים 為雙數形式，直譯「雙天」"
+    }
+  ],
+  "translation": "他使諸天彎垂而降下，幽暗在他的腳下。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9cf51954dd183cfb042f9c423f4bdb6e91bd98f8166bde785bb175b0addbb432",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/18\/9-12.1792143356433.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "使彎垂"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "而降下"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "幽暗"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "在……之下"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "他的腳"
+    }
+  ],
+  "timestamp": "2026-10-16T09:35:56.433885027Z",
+  "model": "glm-5.3"
+}

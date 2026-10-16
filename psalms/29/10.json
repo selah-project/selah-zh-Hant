@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למבול",
+      "rationale": "לְ可作「在……之時」或「在……之上」：「雅威坐王位於洪水之時」（jps）與「坐在洪水之上」（kjv）。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישב…וישב",
+      "rationale": "同一動詞重複：過去的坐王與永遠的坐王相呼應，中文以「曾坐／要坐」分別時態。"
+    }
+  ],
+  "translation": "雅威曾坐在洪水之上為王，雅威要坐著為王，直到永遠。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "72de4c19d358056f472487a268c5baea71f324be6f164b6e97c70f23a6a4f309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/29\/9-11.1792143498822.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "在洪水之上"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "曾坐（為王）"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "要坐著為王"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "直到永遠"
+    }
+  ],
+  "timestamp": "2026-10-16T09:38:18.824199498Z",
+  "model": "glm-5.3"
+}

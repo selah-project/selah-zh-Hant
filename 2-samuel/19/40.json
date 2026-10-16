@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-samuel 19:40",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "渡過",
+      "rationale": "希伯來文「渡過約旦河」以את標記受詞，中文動詞已含方向，記號以⟨את⟩保留。"
+    }
+  ],
+  "translation": "眾民都渡過了⟨את⟩約旦河，王也渡過了；王與巴西萊親嘴，為他祝福，他就回自己的地方去了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8d3f5052bdf20f9c72f4ac94cd521f1275c4cae853c8d9d03a50a90675f49602",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/19\/37-40.1792132182674.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "渡過了"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全都"
+    },
+    {
+      "surface": "העם",
+      "gloss": "眾民"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約旦河"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦河"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "也渡過了"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "與…親嘴"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "לברזלי",
+      "gloss": "巴西萊"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "為他祝福"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "他就回去了"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "自己的地方"
+    }
+  ],
+  "timestamp": "2026-10-16T06:29:42.675995760Z",
+  "model": "glm-5.3"
+}

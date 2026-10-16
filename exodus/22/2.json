@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "太陽已照在他身上",
+      "rationale": "字面解：白天殺賊有罪、夜間無罪；隱喻解（拉比傳統）：若案情「明朗如日」則有血債。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלם ישלם",
+      "rationale": "不定式絕對加動詞的強調結構：「必要償還」，中文以「必要」補足其強調。"
+    }
+  ],
+  "translation": "若太陽已照在他身上，他有血債；他必要償還；若他一無所有，他必因他的偷竊被賣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1bc048124d35040857de33e617141d813587dc1df0fd409e15c47105e3bbd233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/22\/1-4.1792126167548.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "已照"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "在他身上"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "血債"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "必要"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "償還"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "אין",
+      "gloss": "一無所有"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "他必被賣"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "因他的偷竊"
+    }
+  ],
+  "timestamp": "2026-10-16T04:49:27.548757711Z",
+  "model": "glm-5.3"
+}

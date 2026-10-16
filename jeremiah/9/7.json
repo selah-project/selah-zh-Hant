@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 9:7",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלום\/ארב",
+      "rationale": "口中的平安與心中的埋伏並列，對比修辭，中文保留"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר\/ידבר",
+      "rationale": "同一動詞 שוחט 修飾חץ 的名詞句連續兩個「說」，希伯來文重複強化"
+    }
+  ],
+  "translation": "他們的舌頭是殺戮的箭，說出詭詐；他的口向鄰舍說 ⟨את⟩ 平安，心裡卻設下埋伏。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4a1a6d30105dd61b0f388757c8291d357a5c24ca6b5c65bd8e5b52edd95e89ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/9\/5-8.1792136359398.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חץ",
+      "gloss": "箭"
+    },
+    {
+      "surface": "שוחט",
+      "gloss": "殺戮的"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "他們的舌頭"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "詭詐"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "說出"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "在他的口中"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "平安"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "他的鄰舍"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "ובקרבו",
+      "gloss": "而在他的心裡"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "他設下"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "埋伏"
+    }
+  ],
+  "timestamp": "2026-10-16T07:39:19.399715688Z",
+  "model": "glm-5.3"
+}

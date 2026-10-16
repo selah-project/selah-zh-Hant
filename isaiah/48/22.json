@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "必",
+      "rationale": "אֵין 是存在否定「沒有」，「必」強化斷言語氣以合中文節奏"
+    },
+    {
+      "kind": "crux",
+      "subject": "對惡人",
+      "rationale": "לְ 前置詞可讀作「對惡人而言（沒有平安）」或「論到惡人」，JPS 取後者"
+    }
+  ],
+  "translation": "雅威說：惡人必無平安。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8666b08b1aa6b119c564b64d5c9d0423cb79acd205d160858571bdb52dc137c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/48\/21-22.1792135504203.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "必無"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "惡人"
+    }
+  ],
+  "timestamp": "2026-10-16T07:25:04.204240434Z",
+  "model": "glm-5.3"
+}

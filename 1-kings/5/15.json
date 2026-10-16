@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 5:15",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "人們",
+      "rationale": "משחו 是無指定主語的複數動詞形式（「他們膏了」），中文補「人們」"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כל הימים",
+      "rationale": "字面「所有的日子」，即終其一生；中文以「一生一世」譯出"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אהב היה",
+      "rationale": "動詞「愛」加完成式「是」，表示持續狀態：「素來是……的愛慕者」，JPS 作 was ever a lover"
+    }
+  ],
+  "translation": "推羅王希蘭差遣 ⟨את⟩ 他的僕人去見所羅門，因為他聽見人們膏了 ⟨אתו⟩ 他接續他父親作王，又因為希蘭素來愛大衛，一生一世都是如此。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "091eae413b81795a8880bd1629e238b4cd8255c27c67c079ab4685478a08b2ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/5\/13-16.1792132630523.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "他差遣"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "希蘭"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "צור",
+      "gloss": "推羅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的僕人"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "他的僕人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去見"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "他聽見"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨那⟩"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "膏他"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "人們膏了"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "作王"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "接續"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "他父親"
+    },
+    {
+      "surface": "כי",
+      "gloss": "又因為"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "愛"
+    },
+    {
+      "surface": "היה",
+      "gloss": "素來是"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "希蘭"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一生一世"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "所有的日子"
+    }
+  ],
+  "timestamp": "2026-10-16T06:37:10.524885156Z",
+  "model": "glm-5.3"
+}

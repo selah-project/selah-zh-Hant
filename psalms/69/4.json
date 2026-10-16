@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נחר",
+      "rationale": "此處 הִנְחַר 是「燒灼、烤乾」之義（喉嚨乾如火燒），有古本及譯本讀作「啞」；取「發乾」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גרון／נפש",
+      "rationale": "喉嚨一詞承上節的נפש（喉、氣息）：身體的呼喊器官與生命氣息同位，中文難以保留此呼應。"
+    }
+  ],
+  "translation": "我呼求到疲乏，我的喉嚨發乾，我的眼睛衰竭，仍在等候我的以羅欣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "53de061516384eb7bb4e8853497ff060c0db10355e8fa1cadbf7984d9cf2a2d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/69\/1-4.1792144167702.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "我…疲乏"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "呼求"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "發乾"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "我的喉嚨"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "衰竭"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的眼睛"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "仍在等候"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "我的以羅欣"
+    }
+  ],
+  "timestamp": "2026-10-16T09:49:27.703711921Z",
+  "model": "glm-5.3"
+}

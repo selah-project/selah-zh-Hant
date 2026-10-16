@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "⟨את⟩",
+      "rationale": "原文此處無 את；טוב 為動詞的直接受詞，中文以賓語位置表達，不加記號"
+    }
+  ],
+  "translation": "為了雅威──我們的以羅欣──的殿，我必尋求 ⟨את⟩ 你的福祉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d1e3aadcf74eaea365fa585b1ed22047f7bc5a1a698b41f8f4f823d55d7dda26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/122\/9-9.1792144861197.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "為了"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "我們的以羅欣"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "我必尋求"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨את⟩ 福祉",
+      "marks": "福祉"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:01:01.197687958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "四個獅子詞",
+      "rationale": "אריה、שחל、（下節）ליש、לביא 是四個不同的「獅子」詞，希伯來文的獅子連環排比；中文只能以「獅子／猛獅／壯獅／母獅」區分"
+    },
+    {
+      "kind": "crux",
+      "subject": "被拔除",
+      "rationale": "נתעו 字面「被扯出」，指牙齒被拔掉；KJV 系作「被折斷」，JPS 譯為整句條件式「然而」"
+    }
+  ],
+  "translation": "獅子的吼叫和猛獅的聲音，幼獅的牙齒都被拔除。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fdd7d232f465760fe5b11d95840d7007d9f56feebfeacae54c5e2332999585d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/4\/9-12.1792145760632.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "吼叫"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "獅子"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "和…聲音"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "猛獅"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "和…牙齒"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "幼獅"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "被拔除"
+    }
+  ],
+  "timestamp": "2026-10-16T10:16:00.633531646Z",
+  "model": "glm-5.3"
+}

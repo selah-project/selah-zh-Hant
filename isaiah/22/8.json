@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "遮蔽",
+      "rationale": "מסך 或指城牆防禦（BSB）或宮廷建物的覆蓋；字面是「簾幕／遮蓋」。"
+    },
+    {
+      "kind": "elision",
+      "subject": "בית היער",
+      "rationale": "「樹林之家」是所羅門軍械庫的專名，字面保留。"
+    }
+  ],
+  "translation": "他揭去 ⟨את⟩ 猶大的遮蔽，那日你們注視樹林之家的軍械。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5e60c3386a33758406e16863b733503e5a9ad1d21342715a4229d3989fe49853",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/22\/5-8.1792134893787.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "揭去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "猶大的遮蔽"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "遮蔽"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "你們注視"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在……的日子"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "那"
+    },
+    {
+      "surface": "אל",
+      "gloss": "朝向"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "軍械"
+    },
+    {
+      "surface": "בית",
+      "gloss": "之家"
+    },
+    {
+      "surface": "היער",
+      "gloss": "樹林"
+    }
+  ],
+  "timestamp": "2026-10-16T07:14:53.788778670Z",
+  "model": "glm-5.3"
+}

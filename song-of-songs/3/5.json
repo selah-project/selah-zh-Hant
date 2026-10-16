@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצבאות",
+      "rationale": "字面可讀作「軍隊」（צבאות），但此處是 צביה（羚羊）的複數別形，與下句「田野的母鹿」對偶；英譯多作 gazelles"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תעירו\/תעוררו",
+      "rationale": "同一動詞 עורר 的兩個變位重複並列，中文以「叫醒／驚動」分譯，失去了同根回響"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to 耶路撒冷的眾女子",
+      "rationale": "以起誓式禁令直接呼籲聽者"
+    }
+  ],
+  "translation": "耶路撒冷的眾女子啊，我指著羚羊或田野的母鹿使 ⟨אתכם⟩ 起誓：你們不要叫醒愛情，也不要驚動 ⟨את⟩ 愛情，直等到它情願。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "48fa7a29f10decce6ab0f3002e71442ed7dc27e7e8d6de591df172940d227039",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/3\/5-8.1792146618201.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "我使……起誓"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "耶路撒冷的眾女子"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "眾女子"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "指著羚羊"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "母鹿"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田野的"
+    },
+    {
+      "surface": "אם",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "叫醒"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "也不要"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "驚動"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "愛情"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "愛情"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直等到"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "它情願"
+    }
+  ],
+  "timestamp": "2026-10-16T10:30:18.201796218Z",
+  "model": "glm-5.3"
+}

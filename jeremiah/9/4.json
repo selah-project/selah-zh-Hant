@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 9:4",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "העוה",
+      "rationale": "原意「使彎曲、扭屈」，道德義「行不義」；直譯保留「行彎曲的事」的圖像。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "נלאו",
+      "rationale": "可讀作「因行不義而疲乏」（JPS）或「使別人疲乏厭煩」（KJV 邊註）；取不及物讀法。"
+    }
+  ],
+  "translation": "各人欺哄自己的鄰舍，不說真實；他們教導自己的舌頭說謊言，因行彎曲的事而疲乏。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5135c34095ebc6d5b4692f2f10a15aa294dc1553b64f2ce9acfa24415b3281c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/9\/1-4.1792136453488.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְאִישׁ",
+      "gloss": "各人"
+    },
+    {
+      "surface": "בְּרֵעֵהוּ",
+      "gloss": "自己的鄰舍"
+    },
+    {
+      "surface": "יְהָתֵלּוּ",
+      "gloss": "欺哄"
+    },
+    {
+      "surface": "וֶאֱמֶת",
+      "gloss": "真實"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יְדַבֵּרוּ",
+      "gloss": "說"
+    },
+    {
+      "surface": "לִמְּדוּ",
+      "gloss": "他們教導"
+    },
+    {
+      "surface": "לְשׁוֹנָם",
+      "gloss": "自己的舌頭"
+    },
+    {
+      "surface": "דַּבֵּר",
+      "gloss": "說"
+    },
+    {
+      "surface": "שֶׁקֶר",
+      "gloss": "謊言"
+    },
+    {
+      "surface": "הֶעֱוֵה",
+      "gloss": "行彎曲的事"
+    },
+    {
+      "surface": "נִלְאוּ",
+      "gloss": "而疲乏"
+    }
+  ],
+  "timestamp": "2026-10-16T07:40:53.489829767Z",
+  "model": "glm-5.3"
+}

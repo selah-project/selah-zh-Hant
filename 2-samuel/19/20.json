@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 19:20",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "不把這事放在心上",
+      "rationale": "原文 לשום המלך אל לבו 直譯「使王放在心上」，中文補否定詞以通其意"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עון／העוה",
+      "rationale": "名詞「罪孽」與動詞「敗壞行」同根，示每的懇求中重複呼應"
+    },
+    {
+      "kind": "you",
+      "subject": "to the king",
+      "rationale": "示每直接向大衛王求赦"
+    }
+  ],
+  "translation": "他對王說：「願我主不要向我算罪孽，也不要記念 ⟨את⟩ 你僕人在我主我王出耶路撒冷的那日所敗壞行的事，使王不把這事放在心上。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ac9868d66203a3a9f9eab1c875a7bc4a2c57e21e34c869a344c8e5179194141d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/19\/19-20.1792149917783.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "算"
+    },
+    {
+      "surface": "לי",
+      "gloss": "向我"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "我主"
+    },
+    {
+      "surface": "עון",
+      "gloss": "罪孽"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "也不要"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "記念"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你僕人所敗壞行的事"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "העוה",
+      "gloss": "所敗壞行的"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你僕人"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在……的日子"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那時"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "我主"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "使放"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "他的心"
+    }
+  ],
+  "timestamp": "2026-10-16T11:25:17.783893518Z",
+  "model": "glm-5.3"
+}

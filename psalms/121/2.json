@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他就是那",
+      "rationale": "中文需補出關係句結構，希伯來文僅用分詞『造』"
+    },
+    {
+      "kind": "you",
+      "subject": "詩人向自己／讀者宣告",
+      "rationale": "回答上節的發問：幫助的來源是雅威"
+    }
+  ],
+  "translation": "我的幫助來自雅威，他就是那造天地的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8f07faf0f11916aa1ad6ab96a29c64b818bcebbde0b41505d274b77833588e39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/121\/1-4.1792144914541.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "我的幫助"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "來自"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "和地"
+    }
+  ],
+  "timestamp": "2026-10-16T10:01:54.542458986Z",
+  "model": "glm-5.3"
+}

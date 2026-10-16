@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文需要「是」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "慈愛",
+      "rationale": "חסיד 此處指雅威的慈愛信實，非指「敬虔的人」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בכלדרכיו／בכלמעשיו",
+      "rationale": "兩個「在祂一切……上」平行重複，中文保留對仗"
+    }
+  ],
+  "translation": "雅威在祂一切道路上都是公義的，在祂一切作為上都是慈愛的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f47c414869819a76e70b46732b17f901a1344239eccf6af168e501655b3c4f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/145\/17-20.1792145109305.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "公義的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "在……一切"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "道路上"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "而慈愛的"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "在……一切"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "作為上"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:09.306165397Z",
+  "model": "glm-5.3"
+}

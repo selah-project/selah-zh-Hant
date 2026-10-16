@@ -1,0 +1,149 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 11:11",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ראשים",
+      "rationale": "字面是「頭」，作軍事分隊單位譯「隊」，字面形象失去"
+    },
+    {
+      "kind": "measurement",
+      "subject": "三隊",
+      "rationale": "軍隊分為三隊的計數細節"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשארים／נשארו",
+      "rationale": "「剩下的人」與「沒有留下」同詞根重複，中文部分保留"
+    }
+  ],
+  "translation": "到了次日，掃羅把 ⟨את⟩ 百姓分為三隊，在晨更的時候進入營中，擊打亞捫人，直到日頭熱的時候；剩下的就被打散，他們中間沒有留下兩人在一起。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "53cf25570542505c951b92bd76edc9d4bb62050e171184edbd1287d73d785a32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/11\/9-12.1792130937030.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "到了"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "次日"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "他分設"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "隊"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "他們進入"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "進入……之中"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "באשמרת",
+      "gloss": "在晨更"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "早晨"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "他們擊打"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞捫人"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "亞捫"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "חם",
+      "gloss": "熱"
+    },
+    {
+      "surface": "היום",
+      "gloss": "白日"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "事情發生"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "剩下的"
+    },
+    {
+      "surface": "ויפצו",
+      "gloss": "就被打散"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "נשארו",
+      "gloss": "留下"
+    },
+    {
+      "surface": "בם",
+      "gloss": "在他們中間"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "兩人"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "在一起"
+    }
+  ],
+  "timestamp": "2026-10-16T06:08:57.031504401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נמשל\/נדמו",
+      "rationale": "למשל與דמה同根音相呼應——『被比作』與『滅亡』字音交織，中文無法保留。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "默然滅亡",
+      "rationale": "נדמו字面是『啞然、靜默』，引申為滅亡；譯文雙義並存。"
+    }
+  ],
+  "translation": "但人在尊貴中並不長存，他被比作那默然滅亡的牲畜。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ae76094a5829c5cb42ed74ffb3f10e2a65e874946867c2a24cd66fa141130155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/49\/13-16.1792143837955.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "但人"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "在尊貴中"
+    },
+    {
+      "surface": "בל",
+      "gloss": "並不"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "長存"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "被比作"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "如牲畜"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "默然滅亡"
+    }
+  ],
+  "timestamp": "2026-10-16T09:43:57.956365642Z",
+  "model": "glm-5.3"
+}

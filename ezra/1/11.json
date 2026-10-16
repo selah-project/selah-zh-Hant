@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 1:11",
+  "book": "ezra",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "總數",
+      "rationale": "五千四百為清單總數；與第9–10節分項之和（2499）不符，古來為難題。"
+    },
+    {
+      "kind": "crux",
+      "subject": "עם העלות",
+      "rationale": "「與俘虜一同上來」或「在俘虜上去之時」——עם 的用法兩讀。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העלה\/העלות",
+      "rationale": "同一動詞עלה重複：設巴薩「帶上」與俘虜「上去」呼應，中文難保留。"
+    }
+  ],
+  "translation": "一切金器銀器共五千四百件。這一切是設巴薩在俘虜⟨們⟩從巴比倫上耶路撒冷的時候帶上來的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "003003a3a0c6e0a46b92bf4d4563bcb04cc632ef077ec6a0262f84219e745832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/1\/9-11.1792147741594.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "器皿"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "金的"
+    },
+    {
+      "surface": "ולכסף",
+      "gloss": "和銀的"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "五"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "和四"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "這一切"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "帶上來"
+    },
+    {
+      "surface": "ששבצר",
+      "gloss": "設巴薩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "在……的時候"
+    },
+    {
+      "surface": "העלות",
+      "gloss": "上去"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "俘虜"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "從巴比倫"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "到耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-10-16T10:49:01.595582284Z",
+  "model": "glm-5.3"
+}

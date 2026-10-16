@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "登山的問題",
+      "rationale": "兩個提問向會眾發出，引出第4節的資格答案"
+    },
+    {
+      "kind": "addition",
+      "subject": "能",
+      "rationale": "מי יעלה 是未完成式疑問「誰將登」，中文加「能」表可能性的問語氣"
+    }
+  ],
+  "translation": "誰能登上雅威的山？誰能站立在他的聖所中？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7f3f28bc1f22822331da424a7de5c649ad10418c3a0fa7ffef219a870f546dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/24\/1-4.1792143472353.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "能登上"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "山"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威的"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "和誰"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "能站立"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "在……的所在"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "他的聖所"
+    }
+  ],
+  "timestamp": "2026-10-16T09:37:52.354168778Z",
+  "model": "glm-5.3"
+}

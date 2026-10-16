@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 7:13",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יד יהוה",
+      "rationale": "「雅威的手」是希伯來慣用語，指能力的施展；中文加「攻擊」以達意，直譯則為「雅威的手在非利士人身上」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "〈那裡有〉",
+      "rationale": "ותהי 是敘事動詞「成了／有」，中文以存在句補足。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "כל ימי שמואל",
+      "rationale": "本節以撒母耳在世的年日為時間度量。"
+    }
+  ],
+  "translation": "非利士人被制伏了，不再前來侵犯以色列的邊境；雅威的手攻擊非利士人，盡撒母耳在世的一切日子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cc126d82ab0bdd07b982bdc9d029e63a177d4ac923e938d784b748baead6cb1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/7\/13-16.1792130822964.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "被制伏了"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不再"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "添加"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "前來"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "侵犯……的邊境"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "〈那裡有〉"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "攻擊非利士人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "盡……的一切"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日子"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    }
+  ],
+  "timestamp": "2026-10-16T06:07:02.965114302Z",
+  "model": "glm-5.3"
+}

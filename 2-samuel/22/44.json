@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "2-samuel 22:44",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "的",
+      "rationale": "「列國的首領」中文需所有格助詞，希伯來文以介詞ל直接連接"
+    },
+    {
+      "kind": "crux",
+      "subject": "מריבי עמי",
+      "rationale": "可讀「我民內部的爭競」（內敵）或「與我民的爭競」（外敵）；諸譯本分歧"
+    }
+  ],
+  "translation": "你救我脫離我百姓的爭競，保守我作列國⟨的⟩首領；我不認識的民必事奉我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b75fdaae818cbd2e8bb81776f209da940ba35380ff2582dc6423cfedbaeb3bbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/22\/41-44.1792132350866.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפלטני",
+      "gloss": "你救我脫離"
+    },
+    {
+      "surface": "מריבי",
+      "gloss": "…的爭競"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我百姓"
+    },
+    {
+      "surface": "תשמרני",
+      "gloss": "你保守我"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "作首領"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我認識"
+    },
+    {
+      "surface": "יעבדני",
+      "gloss": "必事奉我"
+    }
+  ],
+  "timestamp": "2026-10-16T06:32:30.868000443Z",
+  "model": "glm-5.3"
+}

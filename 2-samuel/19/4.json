@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 19:4",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יתגנב",
+      "rationale": "本義「偷竊」，這裡是反身式「像賊一樣潛行」，譯作「偷偷」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויתגנב／יתגנב",
+      "rationale": "同一動詞前後重複：眾民偷進城，正如羞愧的敗兵偷逃——比喻與本體用同一個詞"
+    }
+  ],
+  "translation": "那日，眾民偷偷進城，如同蒙羞的人在戰爭中逃跑時偷偷躲藏一樣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7d513da72c5397a4530d00c25306ee3f44094822f52953a061f0566f1fb22797",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/19\/1-4.1792132216266.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתגנב",
+      "gloss": "偷偷"
+    },
+    {
+      "surface": "העם",
+      "gloss": "眾民"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在……之日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "那"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "進"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "如同"
+    },
+    {
+      "surface": "יתגנב",
+      "gloss": "偷偷躲藏"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人"
+    },
+    {
+      "surface": "הנכלמים",
+      "gloss": "蒙羞的"
+    },
+    {
+      "surface": "בנוסם",
+      "gloss": "逃跑時"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "在戰爭中"
+    }
+  ],
+  "timestamp": "2026-10-16T06:30:16.267855114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 78:41",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התוו",
+      "rationale": "字根 תוה 本義是「畫線、刻記」：和合本等譯「惹動」，Geneva\/KJV 譯 limited（設限）——此處取字面「畫定界限」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "的",
+      "rationale": "「以色列的聖者」中的「的」為中文連接詞，希伯來文為同位結構。"
+    }
+  ],
+  "translation": "他們回轉又試探伊勒，為以色列的聖者畫定界限。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "45ad4b0f1067a6e84594ff8f6dfda82491f7d84cb55c36c28b83e59b6dc67207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/78\/41-44.1792144264806.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "他們回轉"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "又試探"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "聖者"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "התוו",
+      "gloss": "畫定界限"
+    }
+  ],
+  "timestamp": "2026-10-16T09:51:04.806495338Z",
+  "model": "glm-5.3"
+}

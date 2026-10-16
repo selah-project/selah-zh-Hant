@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 29:8",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "開首的כי為抗辯引語（「但是」），中文以語氣承擔，不硬譯"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדני המלך",
+      "rationale": "「我主王」指亞吉（人），依紀律譯「我主」，絕不在此用聖名位置詞"
+    },
+    {
+      "kind": "you",
+      "subject": "to Achish",
+      "rationale": "大衛對亞吉的申辯，一連三問"
+    }
+  ],
+  "translation": "大衛對亞吉說：「我做了什麼呢？自從我在你面前的那日起直到今日，你在你僕人身上查出了什麼呢？我怎能不去與我主王的敵人爭戰呢？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f6dc2ce8cb87cc278937aa53dba9e6a36ab3d2273f3f64f561bcec0ab1fc0616",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/29\/5-8.1792131578923.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "並說"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "亞吉"
+    },
+    {
+      "surface": "כי",
+      "gloss": "（抗辯語）"
+    },
+    {
+      "surface": "מה",
+      "gloss": "什麼"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "我做了"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "而什麼"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "你查出"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "在你僕人身上"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "自從…的日子"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "我在"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "在你面前"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "היום",
+      "gloss": "這日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "כי",
+      "gloss": "以致"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "我去"
+    },
+    {
+      "surface": "ונלחמתי",
+      "gloss": "爭戰"
+    },
+    {
+      "surface": "באיבי",
+      "gloss": "與…的敵人"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "我主"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-10-16T06:19:38.925383867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 2:13",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨於⟩",
+      "rationale": "中文介詞由 בדרכי 承擔，動詞「行走」後的方位詞為補足語法所加"
+    }
+  ],
+  "translation": "他們離棄正直的路，行走 ⟨於⟩ 黑暗的道中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "63fe996d07235417bd280007e301249c080a6e2a6fdc11c62a828a02ea2bd02c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/2\/13-16.1792145175867.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העזבים",
+      "gloss": "他們離棄"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "路"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "正直的"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "行走"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "於……的道中"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "黑暗"
+    }
+  ],
+  "timestamp": "2026-10-16T10:06:15.868574472Z",
+  "model": "glm-5.3"
+}

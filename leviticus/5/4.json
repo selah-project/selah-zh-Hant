@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 5:4",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "一個〈人〉",
+      "rationale": "נפש 是「有氣息的生命體」，此處指人。"
+    },
+    {
+      "kind": "crux",
+      "subject": "לבטא",
+      "rationale": "בטא 字根意為「隨口而出、冒失發言」：或譯「冒失」（ASV）、或譯「清楚地」（JPS）。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבטא\/יבטא",
+      "gloss": "",
+      "rationale": "同一動詞在本節兩次出現，首尾呼應，中文以重複「冒失說出」保留。"
+    }
+  ],
+  "translation": "或是一個〈人〉嘴唇冒失起了誓，無論是要行惡、或是要行善——人用誓言冒失說出的一切事——這事向他隱藏了，他知道以後，就在這些事中的一件事上有了罪。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "73b542981217c30cb37207bdfa4217c6be4f5330c0d1e24b87987c8142263341",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/5\/1-4.1792126793350.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "或是"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "一個〈人〉"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〈當〉"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "起了誓"
+    },
+    {
+      "surface": "לבטא",
+      "gloss": "冒失說出"
+    },
+    {
+      "surface": "בשפתים",
+      "gloss": "嘴唇"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "要行惡"
+    },
+    {
+      "surface": "או",
+      "gloss": "或是"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "要行善"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〈那〉"
+    },
+    {
+      "surface": "יבטא",
+      "gloss": "冒失說出"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "用誓言"
+    },
+    {
+      "surface": "ונעלם",
+      "gloss": "隱藏了"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "向他"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知道"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "有了罪"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "一件事上"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "這些……之中"
+    }
+  ],
+  "timestamp": "2026-10-16T04:59:53.351592771Z",
+  "model": "glm-5.3"
+}

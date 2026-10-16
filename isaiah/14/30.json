@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 14:30",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יהרג 主動語態",
+      "rationale": "KJV『he shall slay』以饑荒為主語；多數譯本讀為被動『必被殺』，語態未標，兩者皆通。"
+    },
+    {
+      "kind": "crux",
+      "subject": "貧寒人的長子",
+      "rationale": "בכורי דלים 或作『貧寒人中最困苦的』（希伯來語最高級用法），或字面『貧寒人的長子』。"
+    }
+  ],
+  "translation": "貧寒人的長子必得牧養，困苦人必安然躺臥；我必用饑荒殺戮你的根，你的餘民必被殺滅。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7e1e192fb7568955d3ed558ea1362fe6b04dafa03faa455085855ec11e20a70a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/14\/29-32.1792134930094.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "必得牧養"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "……的長子"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "貧寒人"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "而困苦人"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "安然"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "必躺臥"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "而我必殺戮"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "用饑荒"
+    },
+    {
+      "surface": "שרשך",
+      "gloss": "你的根"
+    },
+    {
+      "surface": "ושאריתך",
+      "gloss": "而你的餘民"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "必被殺滅"
+    }
+  ],
+  "timestamp": "2026-10-16T07:15:30.095918896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 3:19",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "魯阿",
+      "rationale": "רוח 按紀律音譯為「魯阿」並括註「氣息」；不用「靈」以避免後來教義的分量。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקרה ×3",
+      "rationale": "「所遭遇的」一詞三次連擊，命運的單調重複正是本節的修辭核心；中文以重複句式模擬。"
+    },
+    {
+      "kind": "crux",
+      "subject": "הכל הבל",
+      "rationale": "הבל 字面「氣息、霧」，傳道書格言；譯「虛空」（和合本）或「捕風」（直譯想像）各有傳統。"
+    }
+  ],
+  "translation": "因為世人之子所遭遇的，牲畜也遭遇，二者遭遇的是同一件：這一個的死如何，那一個的死也如何；萬有都是同一個魯阿（氣息），人比牲畜毫無長處，因為一切全是虛空。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2ed4457092f81334a2f376bb03833a6badab5f5bf9e2f536d4c88485c24c9da4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/3\/17-20.1792146987491.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "所遭遇的"
+    },
+    {
+      "surface": "בני",
+      "gloss": "之子"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "世人"
+    },
+    {
+      "surface": "ומקרה",
+      "gloss": "也遭遇"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "ומקרה",
+      "gloss": "並且所遭遇的"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "同一件"
+    },
+    {
+      "surface": "להם",
+      "gloss": "歸牠們"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "…的死如何"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這一個"
+    },
+    {
+      "surface": "כן",
+      "gloss": "也如此"
+    },
+    {
+      "surface": "מות",
+      "gloss": "的死"
+    },
+    {
+      "surface": "זה",
+      "gloss": "那一個"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "並且…魯阿"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "同一個"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "對萬有"
+    },
+    {
+      "surface": "ומותר",
+      "gloss": "並且長處"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "מן",
+      "gloss": "比起"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "אין",
+      "gloss": "毫無"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "虛空"
+    }
+  ],
+  "timestamp": "2026-10-16T10:36:27.493000575Z",
+  "model": "glm-5.3"
+}

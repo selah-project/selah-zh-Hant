@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "卻",
+      "rationale": "中文需要轉折語氣詞表達希伯來文平行對比的修辭結構"
+    },
+    {
+      "kind": "substitution",
+      "subject": "心",
+      "rationale": "לב 是希伯來人思想、意志、感受的中樞，比中文「心」含義更廣"
+    }
+  ],
+  "translation": "人的心籌算⟨自己的⟩道路，雅威卻立定他的腳步。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "664f084f18761986a56461539626a6999bee459edca9fec0b4c559562beebcd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/16\/9-12.1792145433300.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "籌算"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "他的道路"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "雅威卻"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "立定"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "他的腳步"
+    }
+  ],
+  "timestamp": "2026-10-16T10:10:33.300910895Z",
+  "model": "glm-5.3"
+}

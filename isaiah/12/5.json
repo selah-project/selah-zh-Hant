@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זמרו",
+      "rationale": "原義是彈奏樂器的弦，此處當命令式的複數：「你們要彈琴歌唱」"
+    },
+    {
+      "kind": "crux",
+      "subject": "מידעת",
+      "rationale": "形態有爭議：或作被动「這事已知」（KJV、ASV），或作命令「要使這事被知道」（JPS）；無母音的 מידעת 兩讀皆通"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זמרו／גאות",
+      "rationale": "歌頌（zammeru）與威嚴（ge'ut）的子音呼應，中文失去音感"
+    },
+    {
+      "kind": "invitation",
+      "subject": "you",
+      "rationale": "命令式複數，召喚會眾歌唱宣告"
+    }
+  ],
+  "translation": "你們要向雅威彈琴歌唱，因為他行了威嚴的事；這事當在全地被人知曉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "02bb020b015ec647b5d0428066602a3f74d465d47bb96e4e3e96048daf9ea384",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/12\/5-6.1792134676715.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "你們要……彈琴歌唱"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "威嚴的事"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行了"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "被人知曉"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這事"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "在全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-10-16T07:11:16.715580437Z",
+  "model": "glm-5.3"
+}

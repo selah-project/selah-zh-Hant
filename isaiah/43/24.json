@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 43:24",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קנית\/קנה",
+      "rationale": "「買」（קנה動詞）與「菖蒲」（קנה名詞）同音雙關，中文失去"
+    },
+    {
+      "kind": "substitution",
+      "subject": "菖蒲",
+      "rationale": "קנה是芳香蘆葦（甘旨菖蒲，出30:23），非普通蘆葦"
+    }
+  ],
+  "translation": "你沒有用銀子為我買菖蒲，也沒有用你祭牲的脂油使我飽足；你倒是因你的罪孽使我服勞，因你的過犯使我疲乏。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8fd549779e895247aa5f3d97d5bb2cc3abcc6be3e33ed596ee28c8bf300a9019",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/43\/21-24.1792135440750.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "你買"
+    },
+    {
+      "surface": "לי",
+      "gloss": "為我"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "用銀子"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "菖蒲"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "和脂油"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "你的祭牲"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "הרויתני",
+      "gloss": "你使我飽足"
+    },
+    {
+      "surface": "אך",
+      "gloss": "倒是"
+    },
+    {
+      "surface": "העבדתני",
+      "gloss": "你使我服勞"
+    },
+    {
+      "surface": "בחטאותיך",
+      "gloss": "因你的罪孽"
+    },
+    {
+      "surface": "הוגעתני",
+      "gloss": "你使我疲乏"
+    },
+    {
+      "surface": "בעונתיך",
+      "gloss": "因你的過犯"
+    }
+  ],
+  "timestamp": "2026-10-16T07:24:00.751820783Z",
+  "model": "glm-5.3"
+}

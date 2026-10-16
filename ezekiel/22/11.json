@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 22:11",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ואיש…ואיש…ואיש",
+      "rationale": "三重「有人」排比，每句同構（人＋את＋受事＋動詞），中文以「有人」三疊保留節奏"
+    },
+    {
+      "kind": "you",
+      "subject": "耶路撒冷",
+      "rationale": "「在你中間」直呼耶路撒冷"
+    }
+  ],
+  "translation": "有人與鄰舍的妻子行了 ⟨את⟩ 可憎的事；有人以醜事玷污了 ⟨את⟩ 自己的兒婦；有人在你中間凌辱了 ⟨את⟩ 自己的妹妹、他父親的女兒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "79f9d99b002c91211468242fab69a423619d8b9711a4e1a1971b42177f35253f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/22\/9-12.1792138515305.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "有人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "鄰舍的妻子"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "妻子"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "鄰舍的"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行了"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "可憎的事"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "有人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自己的兒婦"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "兒婦"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "玷污了"
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "以醜事"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "有人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自己的妹妹"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "妹妹"
+    },
+    {
+      "surface": "בת",
+      "gloss": "女兒"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "他父親的"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "凌辱了"
+    },
+    {
+      "surface": "בך",
+      "gloss": "在你中間"
+    }
+  ],
+  "timestamp": "2026-10-16T08:15:15.306827801Z",
+  "model": "glm-5.3"
+}

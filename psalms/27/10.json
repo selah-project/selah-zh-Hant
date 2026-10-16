@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "因為",
+      "rationale": "כי 可作「因為」（實況）或「即使」（假設，如和合本小字、日譯）；本譯取實況讀法"
+    },
+    {
+      "kind": "addition",
+      "subject": "必",
+      "rationale": "未完成時態帶未來／確定之意，中文加「必」"
+    }
+  ],
+  "translation": "因為我父親我母親離棄了我，雅威必收留我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a15f111ed063f4a60cbff3d9e08f3f1035a3842b56f15b1beb4da6db1d082f93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/27\/9-12.1792143523370.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我父親"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "我母親"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "離棄了我"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "而雅威"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "必收留我"
+    }
+  ],
+  "timestamp": "2026-10-16T09:38:43.371369828Z",
+  "model": "glm-5.3"
+}

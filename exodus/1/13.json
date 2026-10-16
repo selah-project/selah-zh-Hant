@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "嚴嚴地（提前）",
+      "rationale": "בפרך 原在句末，中文語序將其提前並重複語氣"
+    },
+    {
+      "kind": "substitution",
+      "subject": "嚴嚴地",
+      "rationale": "בפרך 字面為「破碎、斷裂」，引申為苛暴"
+    }
+  ],
+  "translation": "埃及人嚴嚴地迫使 ⟨את⟩ 以色列的子孫服勞役，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f66a567ff6388e83344d6aeb1358bfbfbcfced368466e79b0389c166c671e744",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/1\/13-16.1792125659535.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "迫使……服勞役"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的子孫"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "嚴嚴地"
+    }
+  ],
+  "timestamp": "2026-10-16T04:40:59.536146343Z",
+  "model": "glm-5.3"
+}

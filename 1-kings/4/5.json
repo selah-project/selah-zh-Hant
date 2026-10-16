@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 4:5",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "中文需繫動詞，希伯來文無"
+    },
+    {
+      "kind": "crux",
+      "subject": "כהן",
+      "rationale": "撒布得作「祭司」抑或如欽定本作「大臣」；希伯來文即「祭司」一詞"
+    },
+    {
+      "kind": "measurement",
+      "subject": "官員名單",
+      "rationale": "所羅門朝廷官職的登錄名單"
+    }
+  ],
+  "translation": "亞撒利雅是拿單的兒子，管理⟨這些⟩官員；撒布得是拿單的兒子，作祭司，是王的朋友。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9e57713a188d7b2adeca76d9526ba49caeb63f85edcf555f81ddc0e7bee2c001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/4\/5-8.1792132514090.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "亞撒利雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "拿單"
+    },
+    {
+      "surface": "על",
+      "gloss": "管理"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "官員"
+    },
+    {
+      "surface": "וזבוד",
+      "gloss": "撒布得"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "拿單"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "朋友"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-10-16T06:35:14.090877794Z",
+  "model": "glm-5.3"
+}

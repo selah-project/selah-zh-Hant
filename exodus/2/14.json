@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 2:14",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "被知道了",
+      "rationale": "נודע 是被動式「被知曉」，中文以被動式呈現"
+    },
+    {
+      "kind": "you",
+      "subject": "摩西被質問",
+      "rationale": "希伯來人反問摩西，直接對他說話"
+    }
+  ],
+  "translation": "他說：「誰立你作首領和審判官治理我們呢？你要殺我，像你殺 ⟨את⟩ 那埃及人一樣嗎？」摩西就懼怕，說：「這事果然被知道了。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "82604d86beb69d4cde98743c13801de55a665741eb8b1b0e5b4d2b9294b1a651",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/2\/13-16.1792125687786.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "立你"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "作……之人"
+    },
+    {
+      "surface": "שר",
+      "gloss": "首領"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "和審判官"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "治理我們"
+    },
+    {
+      "surface": "הלהרגני",
+      "gloss": "要殺我"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "像……一樣"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "你殺了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那埃及人"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "那埃及人"
+    },
+    {
+      "surface": "ויירא",
+      "gloss": "就懼怕"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "果然"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "被知道了"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "這事"
+    }
+  ],
+  "timestamp": "2026-10-16T04:41:27.787677267Z",
+  "model": "glm-5.3"
+}

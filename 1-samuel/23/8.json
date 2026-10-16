@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "召集",
+      "rationale": "「וישמע」字根是「聽」，使役即「召喚（使人聽命）」；中文取「召集」"
+    }
+  ],
+  "translation": "掃羅就召集 ⟨את⟩ 眾民去打仗，要下到凱伊拉，圍困大衛和他的跟隨者。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f765b91ec771635750517e5b559e3ada8496408aab9c43e04f844148f249c2e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/23\/5-8.1792131329811.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "召集"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "眾民"
+    },
+    {
+      "surface": "כל",
+      "gloss": "眾"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "去打仗"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "下到"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "凱伊拉"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "圍困"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對…"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "和"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "他的跟隨者"
+    }
+  ],
+  "timestamp": "2026-10-16T06:15:29.812629974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 33:18",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפשו 是「性命／氣息之生命」，非不朽的靈魂"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שחת",
+      "rationale": "直譯「坑」——獵獸的陷阱坑，喻指滅亡與死亡；非地獄"
+    },
+    {
+      "kind": "crux",
+      "subject": "בַשָּׁלַח",
+      "rationale": "שֶׁלַח 是「投射之矛」，KJV 引申作「刀」，字面是「標槍」"
+    }
+  ],
+  "translation": "他攔阻 ⟨את⟩ 他的性命免入坑中，保全他的生命免於被刀刺透。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3cd23454b2aa2a0891e94a601ab8c6e94937f82c27733765c568264499387708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/33\/17-20.1792146347780.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחשך",
+      "gloss": "他攔阻"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "他的性命"
+    },
+    {
+      "surface": "מני",
+      "gloss": "免入"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "坑中"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "和他的生命"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "免於被……刺透"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "刀（標槍）"
+    }
+  ],
+  "timestamp": "2026-10-16T10:25:47.781567052Z",
+  "model": "glm-5.3"
+}

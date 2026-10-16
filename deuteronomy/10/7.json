@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "到了",
+      "rationale": "原文地名並列，中文補出動詞以成句"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גדגדה",
+      "gloss": "地名疊音 gud-godah，音譯無法保留原文疊音趣味"
+    }
+  ],
+  "translation": "他們從那裡起行，到了古撒上；又從古加上起行，到了約巴他——那是有水流之溪谷的地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cd6f3422dfe18aa0169a6b7592ae2c3b82f03f978a642382451ecff2d54abfb4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/10\/5-8.1792128715112.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "從那裡"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "起行"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "古撒上"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "又從"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "古加上"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "約巴他"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "溪谷"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-10-16T05:31:55.113621790Z",
+  "model": "glm-5.3"
+}

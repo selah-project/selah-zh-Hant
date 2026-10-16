@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "我",
+      "rationale": "希伯來文動詞未標明主詞，中文需補"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אביר יעקב",
+      "rationale": "「雅各的大能者」為傳統讀法；亦可讀作「雅各的堡壘」"
+    }
+  ],
+  "translation": "直到我為雅威尋得地方，為雅各的大能者尋得居所。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bb87b8b264bc7567d707878fb2682a94a531c35bd177531ffc0507c582e30ce3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/132\/5-8.1792144979075.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "我尋得"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "地方"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "為雅威"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "居所"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "為大能者"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    }
+  ],
+  "timestamp": "2026-10-16T10:02:59.076778760Z",
+  "model": "glm-5.3"
+}

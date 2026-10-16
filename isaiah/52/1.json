@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 52:1",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "醒起啊，醒起啊",
+      "rationale": "重疊的呼喚命令句，向錫安和耶路撒冷發出的喚醒召喚"
+    },
+    {
+      "kind": "you",
+      "subject": "to 錫安、耶路撒冷",
+      "rationale": "直接呼喚錫安與耶路撒冷為受話者"
+    },
+    {
+      "kind": "addition",
+      "subject": "其中",
+      "rationale": "中文需要受詞補語，希伯來文以介詞 בך 表達"
+    }
+  ],
+  "translation": "醒起啊，醒起啊！錫安啊，穿上你力量的衣服；耶路撒冷啊，聖潔之城，穿上你華美的衣服！因為未受割禮的和不潔淨的必不再進入你〈其中〉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "82878627cbc51c07e9aaf9b90461175ba057fe9592f8c0fb9318309ff589c8eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/52\/1-4.1792135747886.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "醒起啊"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "醒起啊"
+    },
+    {
+      "surface": "לבשי",
+      "gloss": "穿上"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "你力量"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "לבשי",
+      "gloss": "穿上"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "衣服"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "你華美的"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "之城"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖潔"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "再"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "進入"
+    },
+    {
+      "surface": "בך",
+      "gloss": "你"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "仍"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "未受割禮的"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "和不潔淨的"
+    }
+  ],
+  "timestamp": "2026-10-16T07:29:07.887230657Z",
+  "model": "glm-5.3"
+}

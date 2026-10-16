@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezekiel 16:48",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "斷沒有",
+      "rationale": "אם 在起誓公式中為否定性誓言詞（「若…願我死去」之意），中文化為「斷沒有」而非條件句「若」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "此 אַתְּ（H859 陰性代詞「你」）非受詞記號 את（H853），故譯作代詞而非 ⟨את⟩ 記號"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jerusalem",
+      "rationale": "誓言直接向耶路撒冷宣告"
+    }
+  ],
+  "translation": "我活著——這是阿多奈雅威的宣言——你姊妹所多瑪和她的眾女，斷沒有行如同你和你的眾女所行的事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7e6b8f0a246a31ef6164bdc24a33f1b4a87ec2334b83df7fde8501f7244db9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/16\/45-48.1792138265447.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "活著"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "的宣言"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "她行了"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "所多瑪"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "你姊妹"
+    },
+    {
+      "surface": "היא",
+      "gloss": "她"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "和她的眾女"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "如同"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "你行了"
+    },
+    {
+      "surface": "את",
+      "gloss": "你"
+    },
+    {
+      "surface": "ובנותיך",
+      "gloss": "和你的眾女"
+    }
+  ],
+  "timestamp": "2026-10-16T08:11:05.448206137Z",
+  "model": "glm-5.3"
+}

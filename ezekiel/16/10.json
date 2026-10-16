@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 16:10",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תחש",
+      "rationale": "塔哈施獸確切身分不明（海豹皮、羚羊皮之爭），故音譯存其形"
+    },
+    {
+      "kind": "addition",
+      "subject": "衣服",
+      "rationale": "רקמה為刺繡本身，中文語法需加「衣服」成句"
+    }
+  ],
+  "translation": "我給你穿上刺繡的衣服，用塔哈施皮給你做鞋，用細麻給你束腰，用絲綢遮蓋你。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7dcf5cb2e732cf2f03d9bdbcad3e67421eabda967efbb87db7508c1a23acbf23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/16\/9-12.1792138198172.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלבישך",
+      "gloss": "給你穿上"
+    },
+    {
+      "surface": "רקמה",
+      "gloss": "刺繡的衣服"
+    },
+    {
+      "surface": "ואנעלך",
+      "gloss": "給你穿鞋"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "塔哈施皮"
+    },
+    {
+      "surface": "ואחבשך",
+      "gloss": "給你束腰"
+    },
+    {
+      "surface": "בשש",
+      "gloss": "用細麻"
+    },
+    {
+      "surface": "ואכסך",
+      "gloss": "遮蓋你"
+    },
+    {
+      "surface": "משי",
+      "gloss": "絲綢"
+    }
+  ],
+  "timestamp": "2026-10-16T08:09:58.173551187Z",
+  "model": "glm-5.3"
+}

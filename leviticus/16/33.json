@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כפר\/יכפר",
+      "rationale": "「贖罪」動詞在同一節三次重複（כפר、יכפר、יכפר），中文以重複「贖罪」保留此節奏。"
+    },
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "中文所需的主語代詞，希伯來文由動詞詞形隱含。"
+    }
+  ],
+  "translation": "他要為至聖的聖所贖罪，為會幕和 ⟨את⟩ 壇贖罪，也要為眾祭司和會眾的全體人民贖罪。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1d3a8d3ce0f13146418a6c3e69e0f795069a2a6bb31222b9ebc1f74a596db30b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/16\/33-34.1792127013925.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "他要……贖罪"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "至聖的聖所"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "聖所"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "至聖的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "會幕"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "壇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "壇"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "贖罪"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "為"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "眾祭司"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "為"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全體"
+    },
+    {
+      "surface": "עם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "會眾的"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "贖罪"
+    }
+  ],
+  "timestamp": "2026-10-16T05:03:33.926370867Z",
+  "model": "glm-5.3"
+}

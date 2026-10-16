@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 24:37",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "娶",
+      "rationale": "תקח 直譯「取」；中文婚嫁語境用「娶」，字面之義略失"
+    },
+    {
+      "kind": "addition",
+      "subject": "「你」",
+      "rationale": "中文命令句需主語，希伯來文由動詞變化含之"
+    }
+  ],
+  "translation": "我主人叫我起誓，說：「你不可從迦南人的女兒中為我兒子娶妻，我如今正住在⟨他⟩的地上。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9fab278f579303705eaf6a7e942b8750abc3759fa8f436964af1f5be934eb3a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/24\/37-40.1792125061712.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבעני",
+      "gloss": "叫我起誓"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "我主人"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "娶"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "妻子"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "為我兒子"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "從…的女兒"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "迦南人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "住"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "在他的地上"
+    }
+  ],
+  "timestamp": "2026-10-16T04:31:01.713179216Z",
+  "model": "glm-5.3"
+}

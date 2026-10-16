@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "同在",
+      "rationale": "中文需要「與你同在」表達希伯來文介詞短語的臨在感"
+    },
+    {
+      "kind": "you",
+      "subject": "對亞伯蘭",
+      "rationale": "以羅欣直接向亞伯蘭宣告應許"
+    }
+  ],
+  "translation": "「我，看哪，我的約與你⟨את⟩同在，你要作多國之父。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c07c6c2ce2c35f2ef0bddc2c3f1f571aa6b1b35c8dac516fc702515ef473251e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/17\/1-4.1792124877199.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "我的約"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "你"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "你要作"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "之父"
+    },
+    {
+      "surface": "המון",
+      "gloss": "多（群眾）"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "國"
+    }
+  ],
+  "timestamp": "2026-10-16T04:27:57.200450226Z",
+  "model": "glm-5.3"
+}

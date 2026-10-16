@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 35:8",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "亞倫巴庫",
+      "rationale": "אַלּוֹן בָּכוּת 意為「哭泣的橡樹」，地名本身是敘事：乳母之死與哭泣"
+    },
+    {
+      "kind": "hapax",
+      "subject": "亞倫巴庫",
+      "rationale": "אַלּוֹן בָּכוּת 全塔納赫僅此一見"
+    },
+    {
+      "kind": "crux",
+      "subject": "他稱它的名",
+      "rationale": "敘事中「他」未指名——按上下文是雅各，但有譯本作「它的名字被稱為」以避開主語"
+    }
+  ],
+  "translation": "利百加的乳母底波拉死了，葬在伯特利下面、那棵橡樹之下；那樹的名字就被稱為亞倫巴庫（哭泣的橡樹）。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "07b642e7fe5075446b211f6422c64af696391c1aa64af62765bbaeb5a529c2ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/35\/5-8.1792125350961.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "死了"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "底波拉"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "乳母"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "利百加"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "葬了"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "在……下面"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "伯特"
+    },
+    {
+      "surface": "אל",
+      "gloss": "勒"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "在……之下"
+    },
+    {
+      "surface": "האלון",
+      "gloss": "那棵橡樹"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "稱了"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "它的名字"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "בכות",
+      "gloss": "巴庫"
+    }
+  ],
+  "timestamp": "2026-10-16T04:35:50.962581844Z",
+  "model": "glm-5.3"
+}

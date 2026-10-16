@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דרכיה／בנתיבותיה",
+      "rationale": "「道路」與「路徑」平行呼應，希伯來詩體對句，中文保留兩個不同詞形"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אל…אל…אל",
+      "rationale": "三個אל（兩個否定詞、一個介詞）同音異義，構成音韻迴環，中文無法傳達"
+    },
+    {
+      "kind": "you",
+      "subject": "對兒子／讀者",
+      "rationale": "命令式否定句直接告誡聽者（承上節「眾子啊」）"
+    }
+  ],
+  "translation": "你的心不可偏向她的道路，不可在她的路徑中迷失。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2c5021b10bc9669fdb40cefa6f00269b147edf41173dcd54d74b4455b74f7137",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/7\/25-27.1792145269222.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "偏向"
+    },
+    {
+      "surface": "אל",
+      "gloss": "朝向"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "她的道路"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "你的心"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "迷失"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "在她的路徑中"
+    }
+  ],
+  "timestamp": "2026-10-16T10:07:49.223359450Z",
+  "model": "glm-5.3"
+}

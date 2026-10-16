@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "窺伺",
+      "rationale": "קוו 字面為「等候、埋伏以待」，譯作窺伺以存窺探守候之象"
+    },
+    {
+      "kind": "addition",
+      "subject": "却",
+      "rationale": "希伯來文無轉折詞，中文加「却」以顯對比"
+    }
+  ],
+  "translation": "惡人窺伺我，要滅絕我；我却默想你的法度。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "22c64f65c6af268f52230991fe989cd453d9df279f6eb79e3685d17830a495c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/94-95.1792149928092.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "窺伺"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "要滅絕我"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "你的法度"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "我却默想"
+    }
+  ],
+  "timestamp": "2026-10-16T11:25:28.092838728Z",
+  "model": "glm-5.3"
+}

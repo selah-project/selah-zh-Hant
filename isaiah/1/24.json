@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 1:24",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אנחם",
+      "rationale": "נחם 尼法態：「我得安慰／得舒解」（KJV『ease me』）或讀嘆詞式「我要後悔」；此處取「得舒解」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הוי",
+      "rationale": "哀嘆嘆詞 הוֹי，常引出禍哉宣告；譯「哀哉」保留嘆詞形狀。"
+    }
+  ],
+  "translation": "因此，阿多奈、萬軍之雅威、以色列的大能者宣告：哀哉，我要從我的壓迫者得舒解，向我的仇敵復仇。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "68ff086ef7d29672bce62a38d974b7b0bb789a3e5bdcac2de4c320c88002fade",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/1\/21-24.1792134384594.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "因此"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "宣告"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "萬軍之"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "大能者"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "哀哉"
+    },
+    {
+      "surface": "אנחם",
+      "gloss": "得舒解"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "我的壓迫者"
+    },
+    {
+      "surface": "ואנקמה",
+      "gloss": "復仇"
+    },
+    {
+      "surface": "מאויבי",
+      "gloss": "我的仇敵"
+    }
+  ],
+  "timestamp": "2026-10-16T07:06:24.596061779Z",
+  "model": "glm-5.3"
+}

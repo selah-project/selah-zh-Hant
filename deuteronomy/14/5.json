@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "動物名單",
+      "rationale": "申 14:5 七種動物的確切辨識自古爭議：דישן或作「白腰羚」（pygarg），תאו或作「野牛」（aurochs），זמר或作「岩羚」（chamois）；各譯本分歧極大"
+    },
+    {
+      "kind": "hapax",
+      "subject": "דישן",
+      "rationale": "此詞在《塔納赫》僅出現於此（作動物名），辨識只能靠古代譯本推測"
+    },
+    {
+      "kind": "measurement",
+      "subject": "潔淨動物名單",
+      "rationale": "本節是一份列舉清單——可食走獸逐項點名，屬目錄式經文"
+    }
+  ],
+  "translation": "鹿、羚羊、麃、野山羊、麋鹿、野羊、黃羊。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "97825781facfb1fcb05fbe0c2a2ebb9533495643192486c6f4346725f79557e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/14\/5-8.1792128870443.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "鹿"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "羚羊"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "麃"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "野山羊"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "麋鹿"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "野羊"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "黃羊"
+    }
+  ],
+  "timestamp": "2026-10-16T05:34:30.444562722Z",
+  "model": "glm-5.3"
+}

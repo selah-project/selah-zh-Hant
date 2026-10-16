@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 9:5",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文名詞短語『真實那話』，中文需繫動詞"
+    },
+    {
+      "kind": "you",
+      "subject": "對王",
+      "rationale": "示巴女王直接向所羅門王說話"
+    }
+  ],
+  "translation": "她對王說：「我在本國所聽見關於你的話、關於你的智慧，那話是真實的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4c309775bee395cb686deecd0a65482d717f9cd20ec8b439deac79162140ad88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/9\/5-8.1792149300190.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "她對……說"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真實"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "那話"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "我所聽見的"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "在我的地"
+    },
+    {
+      "surface": "על",
+      "gloss": "關於"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "你的話"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "以及關於"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "你的智慧"
+    }
+  ],
+  "timestamp": "2026-10-16T11:15:00.191157015Z",
+  "model": "glm-5.3"
+}

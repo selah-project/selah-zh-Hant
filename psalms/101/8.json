@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "每早晨",
+      "rationale": "לַבְּקָרִים 複數形『諸早晨』，表每日重複，非單一早晨"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אצמית／להכרית",
+      "rationale": "兩個『剪除』動詞並用（除滅、剪除），中文保留兩個不同詞形以存其層遞"
+    }
+  ],
+  "translation": "每日早晨我要除滅地上所有的惡人，好從雅威的城裡剪除一切作孽的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "752dc5bdafb1c1ddfe14a1ce4d7bfa2679cce1bf0a40c35d771455eacfa97750",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/101\/5-8.1792144618030.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "每早晨"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "除滅"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "剪除"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "從城"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "作…的人"
+    },
+    {
+      "surface": "און",
+      "gloss": "孽"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:58.031190682Z",
+  "model": "glm-5.3"
+}

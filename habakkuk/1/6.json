@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "habakkuk 1:6",
+  "book": "habakkuk",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "屬於自己的",
+      "rationale": "לא לו 直譯「不是給它的」，中文需補關係詞以成句"
+    },
+    {
+      "kind": "substitution",
+      "subject": "殘暴",
+      "rationale": "המר 本義「苦」，用於國族形容引申為兇狠殘暴"
+    }
+  ],
+  "translation": "因為看哪，我正在興起 ⟨את⟩ 迦勒底人，那殘暴又迅疾的國，行走在地的寬闊處，要搶佔不屬於自己的居所。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "547d8f9fac122dc5605a508cfadacbc5242deb7f338d5dadf9e692987d96aac8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/habakkuk\/1\/5-8.1792142773296.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "看哪，我"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "正在興起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "迦勒底人"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "迦勒底人"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "那國"
+    },
+    {
+      "surface": "המר",
+      "gloss": "殘暴的"
+    },
+    {
+      "surface": "והנמהר",
+      "gloss": "又迅疾的"
+    },
+    {
+      "surface": "ההולך",
+      "gloss": "行走的"
+    },
+    {
+      "surface": "למרחבי",
+      "gloss": "在……的寬闊處"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "要搶佔"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "居所"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "לו",
+      "gloss": "屬於自己"
+    }
+  ],
+  "timestamp": "2026-10-16T09:26:13.298178188Z",
+  "model": "glm-5.3"
+}

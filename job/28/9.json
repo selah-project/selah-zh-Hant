@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 28:9",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "人",
+      "rationale": "希伯來文動詞無主語（採礦者隱含），中文需補主語"
+    },
+    {
+      "kind": "crux",
+      "subject": "בחלמיש",
+      "rationale": "燧石／硬巖石：希伯來文指極硬的巖石，各譯本作 flint 或 rock"
+    }
+  ],
+  "translation": "人在燧石上伸出手來，從根本把山翻轉過來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2bdece10afc0d882d73eb15916a755c8f88992be6a097a2693429a0138e81b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/28\/9-12.1792146248895.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחלמיש",
+      "gloss": "在燧石上"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "伸出"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "他的手"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "翻轉"
+    },
+    {
+      "surface": "משרש",
+      "gloss": "從根本"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山"
+    }
+  ],
+  "timestamp": "2026-10-16T10:24:08.895690180Z",
+  "model": "glm-5.3"
+}

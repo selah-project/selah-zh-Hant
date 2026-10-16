@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 8:9",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Samuel",
+      "rationale": "雅威直接吩咐撒母耳，命令式語氣。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העד תעיד",
+      "rationale": "同根詞重疊的不定式絕對形結構，加強『確實作證警告』的語氣，中文以『鄭重警告』補足。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "משפט",
+      "rationale": "直譯『審判／慣例』，此處指王行事的方式，譯『規矩』。"
+    }
+  ],
+  "translation": "現在你要聽從他們的聲音，只是你必須鄭重警告他們，告訴他們那將要作王治理他們之王的規矩。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "00ed4f9e203c4225df3114edbf866bf95f425e3a7ec6d77d95346c7180b51cb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/8\/9-12.1792130810438.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "現在"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "你要聽從"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "他們的聲音"
+    },
+    {
+      "surface": "אך",
+      "gloss": "只是"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨卻⟩"
+    },
+    {
+      "surface": "העד",
+      "gloss": "鄭重警告"
+    },
+    {
+      "surface": "תעיד",
+      "gloss": "你必須……警告"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "והגדת",
+      "gloss": "告訴"
+    },
+    {
+      "surface": "להם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "規矩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那……的"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "作王治理"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "他們"
+    }
+  ],
+  "timestamp": "2026-10-16T06:06:50.439367519Z",
+  "model": "glm-5.3"
+}

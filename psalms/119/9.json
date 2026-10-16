@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the reader",
+      "rationale": "以問句開頭，直接向讀者發問"
+    },
+    {
+      "kind": "crux",
+      "subject": "לשמר כדברך",
+      "rationale": "答案的連接方式有多種讀法：『謹守行徑以遵行你的話』或『靠你的話謹守行徑』"
+    },
+    {
+      "kind": "substitution",
+      "subject": "道路",
+      "rationale": "ארח是『踏平的路』，也可指商隊行走的路徑"
+    }
+  ],
+  "translation": "少年人用什麼使他的道路潔淨呢？就是謹守⟨את⟩自己的行徑，遵行你的話。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/9-12.1792144826205.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "用什麼"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "使潔淨"
+    },
+    {
+      "surface": "נער",
+      "gloss": "少年人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自己的行徑"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "自己的行徑"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "謹守"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "遵行你的話"
+    }
+  ],
+  "timestamp": "2026-10-16T10:00:26.205606304Z",
+  "model": "glm-5.3"
+}

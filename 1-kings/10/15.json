@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התרים",
+      "rationale": "「往來巡行作買賣的人」：或作「巡行的商人」，KJV 作 merchantmen。"
+    },
+    {
+      "kind": "crux",
+      "subject": "הערב",
+      "rationale": "或作「混居的眾民」（ASV\/JPS the mingled people），或作「亞拉伯」（Arabia）。"
+    },
+    {
+      "kind": "addition",
+      "subject": "進項",
+      "rationale": "原文只有名詞片語，無「來的」動詞；中文需補出語義連貫。"
+    }
+  ],
+  "translation": "此外還有商旅的〈進項〉、商人的貨利、亞拉伯諸王，和各地的省長〈所來的〉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a9c2e69b2d3c01bb1e2d0741799a5121b8ec9e8582484c59d991ef04894bfd5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/10\/13-16.1792132838563.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "此外"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "人的"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "商旅"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "和貨利"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "商人的"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和一切"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "亞拉伯"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "和省長"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "各地"
+    }
+  ],
+  "timestamp": "2026-10-16T06:40:38.564940989Z",
+  "model": "glm-5.3"
+}

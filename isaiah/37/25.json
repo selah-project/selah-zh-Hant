@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מצור",
+      "rationale": "KJV作「被圍困之地」，JPS\/ASV讀作「埃及」；兩者皆古譯本所有"
+    },
+    {
+      "kind": "substitution",
+      "subject": "挖掘",
+      "rationale": "קרתי字面為「挖井掘溝」，非泛指挖掘"
+    },
+    {
+      "kind": "you",
+      "subject": "亞述的誇口",
+      "rationale": "此節仍是西拿基立僕人之口的話，引號至此結束"
+    }
+  ],
+  "translation": "我挖掘了，也喝了水；我用自己的腳掌踏乾埃及一切的河流。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "80e69516efea07861dd8bca213943a302e462b1a6c3b2fe56cdedc336116a713",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/37\/25-28.1792135321567.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "挖掘了"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "也喝了"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "ואחרib",
+      "gloss": "踏乾"
+    },
+    {
+      "surface": "ואחרב",
+      "gloss": "踏乾"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "用…的掌"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "我的腳步"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "河流"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "埃及"
+    }
+  ],
+  "timestamp": "2026-10-16T07:22:01.568100862Z",
+  "model": "glm-5.3"
+}

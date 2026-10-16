@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "伶長",
+      "rationale": "למנצח 字面是「那使發光的／傑出者」，指聖殿詩班的指揮，中譯沿用「伶長」"
+    },
+    {
+      "kind": "measurement",
+      "subject": "詩題",
+      "rationale": "標題行，記明作者與用途"
+    }
+  ],
+  "translation": "交給伶長。大衛的詩篇。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d2a7aaf1490402cc71aefc48c5e7b118fab95d62f37c4f167687c5e8c2a92705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/31\/1-4.1792143556174.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "交給伶長"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩篇"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:39:16.174599083Z",
+  "model": "glm-5.3"
+}

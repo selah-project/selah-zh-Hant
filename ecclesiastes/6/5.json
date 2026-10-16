@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נחת",
+      "rationale": "「安息／寧靜／滿足」：KJV作rest，JPS作gratification，字面是「安定、舒緩」之義"
+    },
+    {
+      "kind": "alternative",
+      "subject": "這人比那人更有安息",
+      "rationale": "לזה…מזה的比較對象是誰（流產的胎兒vs長壽者）取自上文語境，經文本身只用指示代詞"
+    }
+  ],
+  "translation": "他連太陽也沒有見過，也沒有認識過；這人比那人更有安息。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e25dd4707c12d39be825e519c7342db0a22f56572462426e3cdb4b54ed67138c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/6\/5-8.1792147054158.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "連…也"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "見過"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也沒有"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "認識過"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "安息"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "這人"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "比那人"
+    }
+  ],
+  "timestamp": "2026-10-16T10:37:34.158896265Z",
+  "model": "glm-5.3"
+}

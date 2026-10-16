@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ושבלת",
+      "rationale": "שבלת（水流）在《塔納赫》中僅此一處，與「穗子」「穀穗」同詞形，流動之意由脈絡而出。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצולה／מעמקי",
+      "rationale": "「深淵」與「深處」兩詞疊響，加深下沉的意象；中文以「深淵」「深處」平行保留。"
+    }
+  ],
+  "translation": "我沉入淤泥的深淵，沒有立腳之地；我進了眾水的深處，洪流把我淹沒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "53de061516384eb7bb4e8853497ff060c0db10355e8fa1cadbf7984d9cf2a2d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/69\/1-4.1792144167702.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "我沉入"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "淤泥"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "的深淵"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "立腳之地"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "我進了"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "…的深處"
+    },
+    {
+      "surface": "מים",
+      "gloss": "眾水"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "洪流"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "把我淹沒"
+    }
+  ],
+  "timestamp": "2026-10-16T09:49:27.703563636Z",
+  "model": "glm-5.3"
+}

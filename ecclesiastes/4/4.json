@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "רעות רוח",
+      "rationale": "字面「對風的牧養／追捕」，中文以成語「捕風」對應，字面意象部分失落。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קנאת איש מרעהו",
+      "rationale": "字面是「人與鄰舍相爭的嫉妒」，指勞碌與成就的動機是彼此爭勝。"
+    },
+    {
+      "kind": "elision",
+      "subject": "כשרון",
+      "rationale": "此詞在傳道書特指工作中的熟練與成功，以「巧技成就」一詞承載。"
+    }
+  ],
+  "translation": "我又觀看 ⟨את⟩ 一切的勞碌，以及 ⟨את⟩ 一切工作中的巧技成就——原來這是出於人對鄰舍的嫉妒；這也是虛空，也是捕風。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f6af2180538e3ce9e80a385de2e970bd47ac6839f9cc9947c1c6a73ee71573bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/4\/1-4.1792146994364.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "我又觀看"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切的勞碌"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "勞碌"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "一切的巧技成就"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "巧技成就"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "工作中的"
+    },
+    {
+      "surface": "כי",
+      "gloss": "原來"
+    },
+    {
+      "surface": "היא",
+      "gloss": "這"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "嫉妒"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "對鄰舍"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "虛空"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "也是捕"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    }
+  ],
+  "timestamp": "2026-10-16T10:36:34.365645914Z",
+  "model": "glm-5.3"
+}

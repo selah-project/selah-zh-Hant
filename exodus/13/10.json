@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מימים ימימה",
+      "rationale": "字面「從日子到日子」，指年年循環；譯作「年復一年」"
+    },
+    {
+      "kind": "addition",
+      "subject": "地遵守",
+      "rationale": "中文句末補回動詞以成句，希伯來文只一次動詞"
+    }
+  ],
+  "translation": "你要按所定的時節遵守 ⟨את⟩ 這條例，年復一年地遵守。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4049d8ad094d0133afa0bd7845caab51ad8f79d6d6be687d3261d2b662c440e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/13\/9-12.1792125955623.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "你要遵守"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這條例"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "條例"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "按所定的時節"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "從日子"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "到日子"
+    }
+  ],
+  "timestamp": "2026-10-16T04:45:55.624364256Z",
+  "model": "glm-5.3"
+}

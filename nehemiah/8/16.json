@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 8:16",
+  "book": "nehemiah",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויביאו",
+      "rationale": "原文未明說帶來何物，譯文補「枝子」以承接上節；KJV 亦作 brought them。"
+    },
+    {
+      "kind": "addition",
+      "subject": "房屋的",
+      "rationale": "原文 גגו 只有「他的屋頂」，「房屋的」為中文所需。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "地名清單",
+      "rationale": "五處搭棚地點依序列出：屋頂、自家院子、以羅欣殿的院子、水門廣場、以法蓮門廣場。"
+    }
+  ],
+  "translation": "於是百姓出去，帶了枝子來，為自己搭造棚子，各人在自己房屋的屋頂上、在自己的院子和以羅欣殿的院子裡，在水門的廣場和以法蓮門的廣場上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3816488b60a6d2e6b10b6c4b4345cfd6e3ac127f32f8e2734575d54d4779c1d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nehemiah\/8\/13-16.1792148159010.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "於是…出去"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "並帶了來"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "並造了"
+    },
+    {
+      "surface": "להם",
+      "gloss": "為自己"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "棚子"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "על",
+      "gloss": "在…上"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "他的屋頂"
+    },
+    {
+      "surface": "ובחצרתיהם",
+      "gloss": "在他們的院子裡"
+    },
+    {
+      "surface": "ובחצרות",
+      "gloss": "在…的院子裡"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "וברחוב",
+      "gloss": "在…的廣場"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "וברחוב",
+      "gloss": "在…的廣場"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    }
+  ],
+  "timestamp": "2026-10-16T10:55:59.012250101Z",
+  "model": "glm-5.3"
+}

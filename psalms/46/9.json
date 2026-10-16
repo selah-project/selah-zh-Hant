@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "לכו חזו",
+      "rationale": "命令式邀請讀者前來觀看雅威的作為"
+    },
+    {
+      "kind": "you",
+      "subject": "to the congregation",
+      "rationale": "複數命令式直接向會眾發言"
+    },
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "分詞שם的主詞由上下文補出"
+    }
+  ],
+  "translation": "你們來，觀看雅威的作為，就是他在地上所行的荒涼之事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4bb028f6c60e54043b340f871415b1dd75b009cf2e31c5010be783dc15d98f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/46\/9-12.1792143802948.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "你們來"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "觀看"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "作為"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "שם",
+      "gloss": "所行的"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "荒涼之事"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在地上"
+    }
+  ],
+  "timestamp": "2026-10-16T09:43:22.949366898Z",
+  "model": "glm-5.3"
+}

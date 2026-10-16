@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 9:21",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "有時",
+      "rationale": "ויש 直譯「有（這樣的時候）」，中文以「有時」補出"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ונעלה／ונסעו",
+      "rationale": "「上升／起行」兩次重複，形成節奏性的對句結構"
+    }
+  ],
+  "translation": "有時雲彩從晚上到早晨停住，早晨雲彩上升，他們就起行；無論是白天或是黑夜，雲彩一上升，他們就起行。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "38c39f8b9a4fd10b9a325922c4113513bcda7254630d243d9fca0cfc0328f59a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/9\/21-23.1792127682829.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "有時"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨當⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "停住"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "雲彩"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "從晚上"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "早晨"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "上升"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "雲彩"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "在早晨"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "他們就起行"
+    },
+    {
+      "surface": "או",
+      "gloss": "無論是"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "白天"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "或是黑夜"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "一上升"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "雲彩"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "他們就起行"
+    }
+  ],
+  "timestamp": "2026-10-16T05:14:42.830103876Z",
+  "model": "glm-5.3"
+}

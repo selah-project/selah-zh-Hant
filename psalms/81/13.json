@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "任憑",
+      "rationale": "שלח「差遣、放走」在此意為放手任其而行，取其畫面而非字面「差遣」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבם／במועצותיהם",
+      "rationale": "「他們的心…他們的謀略」對仗，回應上文雅威的勸戒，中文保留平行"
+    }
+  ],
+  "translation": "我便任憑他們隨心中的頑梗，他們就行自己的謀略。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6e4ffb89c27f0364e77dd523f405ebb673eff777b41e2601450633ca81424851",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/81\/13-16.1792144330121.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "我便任憑他"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "隨…的頑梗"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "他們的心"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "他們就行"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "自己的謀略"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:10.121571067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "而",
+      "rationale": "中文連貫語氣所需，希伯來文以詞序連接"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מריתי",
+      "rationale": "מרה字面為「苦」，引伸為悖逆——苦味與背叛同根，中文只留引申義"
+    }
+  ],
+  "translation": "阿多奈雅威為我開了耳朵，而我也沒有悖逆，沒有向後退縮。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dff9c400a81395bdfcc8f441a8bd90c315af5b27d9b90942648b13aecd7d3f88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/50\/5-8.1792135735584.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "開了"
+    },
+    {
+      "surface": "לי",
+      "gloss": "為我"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "耳朵"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "而我也"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "悖逆"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "向後"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "退縮"
+    }
+  ],
+  "timestamp": "2026-10-16T07:28:55.585197819Z",
+  "model": "glm-5.3"
+}

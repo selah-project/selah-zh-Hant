@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 27:1",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברח",
+      "rationale": "「逃遁的蛇」vs 欽定本「刺穿的蛇」、JPS「斜行的蛇」；字根意為逃亡。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עקלתון",
+      "rationale": "עקלתון（盤曲的）僅見於此處與伯26:13，形容扭曲盤繞。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לויתן…נחש",
+      "rationale": "利維亞坦與蛇重複兩次，平行疊加的神話意象，中文以對仗保留。"
+    }
+  ],
+  "translation": "在那日，雅威必以他的刀——那嚴厲的、宏大的、堅強的——懲罰利維亞坦，就是那逃遁的蛇；又懲罰利維亞坦，就是那盤曲的蛇；他必殺死在海裡的海怪。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a7cdd0246d1e6b9bfb3c11d9b40f8cbf0c89014599360b6cbbf0b8731ea8ddaa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/27\/1-4.1792135071718.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "在那日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "那"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "必懲罰"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בחרבו",
+      "gloss": "以他的刀"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "那嚴厲的"
+    },
+    {
+      "surface": "והגדולה",
+      "gloss": "那宏大的"
+    },
+    {
+      "surface": "והחזקה",
+      "gloss": "那堅強的"
+    },
+    {
+      "surface": "על",
+      "gloss": "懲罰"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "利維亞坦"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "蛇"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "逃遁的"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "又懲罰"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "利維亞坦"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "蛇"
+    },
+    {
+      "surface": "עקלתון",
+      "gloss": "盤曲的"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "必殺死"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "海怪"
+    },
+    {
+      "surface": "התנין",
+      "gloss": "海怪"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "בים",
+      "gloss": "在海裡"
+    }
+  ],
+  "timestamp": "2026-10-16T07:17:51.719571822Z",
+  "model": "glm-5.3"
+}

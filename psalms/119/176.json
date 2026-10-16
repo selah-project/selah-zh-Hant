@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "祈求",
+      "rationale": "詩人以「求你尋找你的僕人」向神發出呼求，作全詩結語"
+    },
+    {
+      "kind": "substitution",
+      "subject": "走失",
+      "rationale": "אבד 字面是「亡失、滅亡」，此處指迷羊走失，非滅亡"
+    }
+  ],
+  "translation": "我如迷羊走失了；求你尋找你的僕人，因為我沒有忘記你的誡命。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5b6c1377900306498507ee58d5e01ffb1eaeb1e06fce45590d09f9e60bbabc50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/173-176.1792144927368.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "我走失了"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "如迷羊"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "走失的"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "求你尋找"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你的僕人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "你的誡命"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "我…忘記"
+    }
+  ],
+  "timestamp": "2026-10-16T10:02:07.369290494Z",
+  "model": "glm-5.3"
+}

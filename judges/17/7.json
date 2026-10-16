@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 17:7",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "利未人屬猶大家族",
+      "rationale": "利未人怎會屬猶大家族？或作「住在猶大家的境內」（寄居義），或原文語尾殘缺；直譯保留張力。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהודה ×2",
+      "rationale": "「猶大的伯利恆、猶大的家族」重複地名與支派名，強調這利未人兩頭寄居。"
+    }
+  ],
+  "translation": "有一個少年人出於猶大的伯利恆，屬猶大的家族；他是利未人，寄居在那裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b6b144170cf71367ccda2ef8b3b9c78618466219a8ac9ac7b6131b6bc303e828",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/judges/17/5-8.1792130571959.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "有"
+    },
+    {
+      "surface": "נער",
+      "gloss": "一個少年人"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "出於伯(利恆)"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "利恆"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "屬…家族"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "他是"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "גר",
+      "gloss": "寄居"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裡"
+    }
+  ],
+  "timestamp": "2026-10-16T06:02:51.960885079Z",
+  "model": "glm-5.3",
+  "hand": [
+    {
+      "date": "2026-10-16",
+      "by": "shovel",
+      "why": "row surface יהוה where the text reads יהודה (UXLC and OSHB); the flow already said 猶大",
+      "was": "{\"translation\": \"有一個少年人出於猶大的伯利恆，屬猶大的家族；他是利未人，寄居在那裡。\", \"tokens\": [{\"surface\": \"ויהי\", \"gloss\": \"有\"}, {\"surface\": \"נער\", \"gloss\": \"一個少年人\"}, {\"surface\": \"מבית\", \"gloss\": \"出於伯(利恆)\"}, {\"surface\": \"לחם\", \"gloss\": \"利恆\"}, {\"surface\": \"יהוה\", \"gloss\": \"猶大\"}, {\"surface\": \"ממשפחת\", \"gloss\": \"屬…家族\"}, {\"surface\": \"יהודה\", \"gloss\": \"猶大\"}, {\"surface\": \"והוא\", \"gloss\": \"他是\"}, {\"surface\": \"לוי\", \"gloss\": \"利未人\"}, {\"surface\": \"והוא\", \"gloss\": \"他\"}, {\"surface\": \"גר\", \"gloss\": \"寄居\"}, {\"surface\": \"שם\", \"gloss\": \"在那裡\"}]}"
+    }
+  ]
+}

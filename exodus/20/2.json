@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "原文無繫動詞；「我是」由中文語法補足。"
+    },
+    {
+      "kind": "addition",
+      "subject": "的那一位",
+      "rationale": "中文關係句需要名詞化的收尾，原文 אשר 只是關係詞。"
+    },
+    {
+      "kind": "you",
+      "subject": "to 以色列",
+      "rationale": "十誡開篇，直接向以色列全會眾宣告。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "我是雅威",
+      "rationale": "十誡的第一句，自我啟示的根基宣告。"
+    }
+  ],
+  "translation": "我是雅威你的以羅欣，曾將你從埃及地、從為奴之家領出來的那一位。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "69a775fb3ec2f7e067ade54b76e564d770df72874c6f1c38229a2acf4d17d8ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/20\/1-4.1792126068378.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的那一位"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "曾將你領出來"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "從……地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "從……之家"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "為奴"
+    }
+  ],
+  "timestamp": "2026-10-16T04:47:48.378768747Z",
+  "model": "glm-5.3"
+}

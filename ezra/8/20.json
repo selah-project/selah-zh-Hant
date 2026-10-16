@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 8:20",
+  "book": "ezra",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "尼提寧人",
+      "rationale": "נתינים 意為「被賜予者」，以色列中專司殿役的群體，音譯保留"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנתן／נתינים",
+      "rationale": "「賜下」與「尼提寧（被賜予者）」同根 נתן，字根呼應，中文難以保留"
+    },
+    {
+      "kind": "measurement",
+      "subject": "二百二十名",
+      "rationale": "人數統計並逐一記名"
+    }
+  ],
+  "translation": "至於尼提寧人，就是大衛和眾首領為利未人的服事所賜下的，有尼提寧人二百二十名，他們全都按名字被一一指名。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6c5717d1e6f7bc7455e4001b4b13060e52efe02c4985ad84eddedd134461fa77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/8\/17-20.1792147957894.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "至於……中的"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "尼提寧人"
+    },
+    {
+      "surface": "שנתן",
+      "gloss": "所賜下的"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "和眾首領"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "為……的服事"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "נתינים",
+      "gloss": "尼提寧人"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "二百"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "他們全都"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "被指名"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "按名字"
+    }
+  ],
+  "timestamp": "2026-10-16T10:52:37.895646616Z",
+  "model": "glm-5.3"
+}

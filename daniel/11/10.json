@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 11:10",
+  "book": "daniel",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בוא בוא",
+      "rationale": "不定式絕對式重複，加強語氣「必來、確實前來」，直譯重複以保留修辞。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "氾濫",
+      "rationale": "ושטף 字面是「沖溢、淹沒」，軍事隐喻；本譯保留水像。"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעזה",
+      "rationale": "「他的堡壘」指誰的堡壘：南方王的（多數英譯）或北方王自己的；原文代詞有歧義。"
+    }
+  ],
+  "translation": "他的眾子必被激動爭戰，招聚許多大軍；他必前來，確實前來，如洪水氾濫而過，然後返回，再被激動爭戰，直到他的堡壘。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "03836e91b6badd55106d4ca2904c87e1e18395c7472f5504dba8865e5c8d2b8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/daniel\/11\/9-12.1792147713866.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "他的眾子"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "必被激動爭戰"
+    },
+    {
+      "surface": "ואספו",
+      "gloss": "必招聚"
+    },
+    {
+      "surface": "המון",
+      "gloss": "大群"
+    },
+    {
+      "surface": "חילים",
+      "gloss": "軍隊"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "許多"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "他必前來"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "確實前來"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "如洪水氾濫"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "而過"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "然後返回"
+    },
+    {
+      "surface": "ויתגרו",
+      "gloss": "再被激動爭戰"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "מעזה",
+      "gloss": "他的堡壘"
+    }
+  ],
+  "timestamp": "2026-10-16T10:48:33.867478432Z",
+  "model": "glm-5.3"
+}

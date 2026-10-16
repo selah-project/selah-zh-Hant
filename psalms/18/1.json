@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨詩⟩",
+      "rationale": "希伯來文標題無「詩」字，中文語法補足"
+    },
+    {
+      "kind": "hapax",
+      "subject": "השירה",
+      "rationale": "「歌」帶定冠詞的抽象形，僅此處指具體的一首歌"
+    },
+    {
+      "kind": "crux",
+      "subject": "שאול",
+      "rationale": "此處是人名掃羅（王），非示阿勒（陰間）；同一拼法兩個詞"
+    }
+  ],
+  "translation": "交與伶長，雅威的僕人大衛的⟨詩⟩，他曾在雅威救他脫離一切仇敵之手、脫離掃羅之手的日子，向雅威說 ⟨את⟩ 這首歌的言詞。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e28fc1822d7d84c5e1db7c55d6117fb6d3de7064cbc4450b793b609df53c8ce2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/18\/1-4.1792143390028.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "交與伶長"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "的僕人"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "他曾"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "說"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這首歌的言詞"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "言詞"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "這首歌"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在……的日子"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "救"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩他",
+      "marks": "他"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "脫離……之手"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "他的仇敵"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "和脫離……之手"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    }
+  ],
+  "timestamp": "2026-10-16T09:36:30.029260129Z",
+  "model": "glm-5.3"
+}

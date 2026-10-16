@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 11:31",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "此處是尋常的風，非雅威所賜的靈，故譯「風」不用「魯阿」。"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "מאת 是「從……那裡」的複合介詞（את H854，非受詞記號），按家族紀律保留⟨את⟩記號。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "一天的路程、二肘",
+      "rationale": "兩處距離與高度量度。"
+    },
+    {
+      "kind": "crux",
+      "subject": "כאמתים",
+      "rationale": "「二肘」指鵪鶉堆積的厚度或飛離地面的高度，譯者有別。"
+    }
+  ],
+  "translation": "有風從雅威那裡⟨את⟩颳起，把鵪鶉從海颳來，散落在營的四圍——這邊約有一天的路程，那邊也約有一天的路程——離地面約有二肘。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9c4aab5071c1383fed50a644053d555640637d1a95c290a5fe79654c5263fbe3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/11\/29-32.1792127803289.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "有風"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "颳起"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "從……那裡⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "颳來"
+    },
+    {
+      "surface": "שלוים",
+      "gloss": "鵪鶉"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ויטש",
+      "gloss": "散落"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "約有……的路程"
+    },
+    {
+      "surface": "יום",
+      "gloss": "一天"
+    },
+    {
+      "surface": "כה",
+      "gloss": "這邊"
+    },
+    {
+      "surface": "וכדרך",
+      "gloss": "也約有……的路程"
+    },
+    {
+      "surface": "יום",
+      "gloss": "一天"
+    },
+    {
+      "surface": "כה",
+      "gloss": "那邊"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "וכאמתים",
+      "gloss": "約有二肘"
+    },
+    {
+      "surface": "על",
+      "gloss": "離"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-10-16T05:16:43.290237324Z",
+  "model": "glm-5.3"
+}

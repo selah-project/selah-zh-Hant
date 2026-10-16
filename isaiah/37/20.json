@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 37:20",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "求你",
+      "rationale": "中文祈使／懇求語氣詞，希伯來文為命令式"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "gloss": "內容從句引詞以中文冒號代替，不另譯出"
+    },
+    {
+      "kind": "you",
+      "subject": "to 雅威",
+      "rationale": "希西家禱告的直接呼求，並以「使萬國都知道」為目的"
+    }
+  ],
+  "translation": "如今，雅威我們的以羅欣啊，求你拯救我們脫離他的手，使地上所有的國都知道：唯獨你——雅威。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6d0ac52548fee0a94e29c560ff65b7efc2d6e0ef292400aeaf218770c9789935",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/37\/17-20.1792135331492.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "如今"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "我們的以羅欣"
+    },
+    {
+      "surface": "הושיענו",
+      "gloss": "求你拯救我們"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "脫離他的手"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "使……都知道"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "國"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〈知道〉"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "唯獨你"
+    }
+  ],
+  "timestamp": "2026-10-16T07:22:11.493848971Z",
+  "model": "glm-5.3"
+}

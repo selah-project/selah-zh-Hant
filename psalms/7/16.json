@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "自掘陷阱",
+      "rationale": "שחת 既是「陷阱坑」也是「毀滅」，雙關：惡人所掘的坑正是他自己的毀滅"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יפעל",
+      "rationale": "末句「他所造的」承接前文坑的意象；希伯來文僅一動詞「做」，按語境補足"
+    }
+  ],
+  "translation": "他掘了坑，挖深了它，自己卻落入他所造的毀滅坑中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cde8a333cd66e7f1e6340b4957c7a2c26ead845377c63444c6458b18cbe08ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/7\/13-16.1792143235473.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "坑"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "掘"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "並挖深了它"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "自己卻落入"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "毀滅坑中"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "他所造的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:33:55.474193860Z",
+  "model": "glm-5.3"
+}

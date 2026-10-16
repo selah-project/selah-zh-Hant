@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 22:17",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "伊勒",
+      "rationale": "אל 音譯為伊勒，不用類名「神」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "沙代",
+      "rationale": "שדי 音譯為沙代，不用「全能者」"
+    },
+    {
+      "kind": "crux",
+      "subject": "למו 的先行詞",
+      "rationale": "「為他們」指誰：惡人自己（KJV）還是義人（另讀）"
+    }
+  ],
+  "translation": "他們向伊勒說：「你離開我們吧！」又說：「沙代能為他們行什麼呢？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5604adf21904d7e7c69009cec48db614adb6fdd8e0cb30c73d57b097fca58d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/22\/17-20.1792146152139.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "他們說"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "向伊勒"
+    },
+    {
+      "surface": "סור",
+      "gloss": "離開"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "離我們"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "而什麼"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "能行"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "沙代"
+    },
+    {
+      "surface": "למו",
+      "gloss": "為他們"
+    }
+  ],
+  "timestamp": "2026-10-16T10:22:32.139786898Z",
+  "model": "glm-5.3"
+}

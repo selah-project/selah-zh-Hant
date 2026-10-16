@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 7:16",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מרבדים",
+      "rationale": "繡毯一詞僅見於此處（與רבדתי同根雙關）。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרבדים\/רבדתי",
+      "rationale": "名詞與動詞同根疊用，中文以「繡毯／鋪」相應，詞形呼應未能全保。"
+    },
+    {
+      "kind": "crux",
+      "subject": "חטבות אטון",
+      "rationale": "諸本或作「雕花」「細麻」「棉線」；本譯取「雕花細麻布」的複合理解。"
+    }
+  ],
+  "translation": "我用繡毯鋪了我的床，配著埃及的雕花細麻布。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "60f88e3bcd5dffd49c031577fcf11e7f1967fa10034d49b0654fe2d83d876cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/7\/16-16.1792149931206.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מרבדים",
+      "gloss": "繡毯"
+    },
+    {
+      "surface": "רבדתי",
+      "gloss": "我鋪了"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "我的床"
+    },
+    {
+      "surface": "חטבות",
+      "gloss": "雕花"
+    },
+    {
+      "surface": "אטון",
+      "gloss": "細麻布"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    }
+  ],
+  "timestamp": "2026-10-16T11:25:31.206375763Z",
+  "model": "glm-5.3"
+}

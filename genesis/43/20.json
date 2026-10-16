@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יָרֹד יָרַדְנוּ",
+      "rationale": "不定式絕對加完成式重複同一字根「下來」，加強語氣「實在是下來了」，中文以「實在」表達"
+    },
+    {
+      "kind": "addition",
+      "subject": "容我們說明",
+      "rationale": "בי 是請求允許的助語（「請容我」），中文補出賓語結構"
+    }
+  ],
+  "translation": "他們說：「求我主容我們說明：我們先前實在是下來買糧食的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8bfaadb19cb1dd2a0f16b19a3632f1fdb933e5d6e836695ab8319008c57dda33",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/43\/17-20.1792125512313.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "他們說"
+    },
+    {
+      "surface": "בי",
+      "gloss": "求"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "我主"
+    },
+    {
+      "surface": "יורד",
+      "gloss": "實在下"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "我們下去了"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "先前"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "買糧"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "糧食"
+    }
+  ],
+  "timestamp": "2026-10-16T04:38:32.314660221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "慈愛",
+      "rationale": "חסד 一律譯作「慈愛」，不換成恩典或憐憫"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "追隨",
+      "rationale": "רדף 通常指「追趕、追逼」（帶敵意），此處倒轉為好事追逐我——牧人意象的反轉"
+    },
+    {
+      "kind": "crux",
+      "subject": "לארך ימים",
+      "rationale": "字面「長度的日子」，指長久而非絕對的「永遠」"
+    }
+  ],
+  "translation": "誠然，美好和慈愛必追隨我，我一生的年日；我且要住在雅威的殿中，直到長遠的日子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "437b3805d8dd14efde3cf52258f186cd44e8aaff39de9897338cf7b3111e3449",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/23\/5-6.1792143414416.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "誠然"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "美好"
+    },
+    {
+      "surface": "和חסד",
+      "gloss": "慈愛"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "追隨我"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "…的日子"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "我的生命"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "且要住"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "在…殿中"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "長遠"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日子"
+    }
+  ],
+  "timestamp": "2026-10-16T09:36:54.417251288Z",
+  "model": "glm-5.3"
+}

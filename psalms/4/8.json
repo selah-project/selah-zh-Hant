@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מעת",
+      "rationale": "מֵעֵת 可讀作比較『勝過……的時候』（和合本）或來源『從他們穀物新酒豐盛（之時起）』（YLТ）；本譯取比較讀法。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תירוש",
+      "gloss": "新酒",
+      "rationale": "原文指剛榨出的葡萄汁。"
+    }
+  ],
+  "translation": "你已把喜樂放在我心裡，勝過他們穀物和新酒豐盛的時候。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a3bd87c48661f56309d6a35bebae66b06a6ceb9024570ce214dcf6a4d178f119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/4\/5-8.1792143246097.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "你已把……放在"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "喜樂"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "在我心裡"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "的時候"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "他們的穀物"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "和他們的新酒"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "豐盛"
+    }
+  ],
+  "timestamp": "2026-10-16T09:34:06.098835540Z",
+  "model": "glm-5.3"
+}

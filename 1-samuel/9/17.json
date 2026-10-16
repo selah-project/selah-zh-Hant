@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יעצר",
+      "rationale": "עצר 字面是「攔住、約束」，諸譯本或作「管轄」（和合）或作「統治」；YLT 獨作 restrain。此處取「管束」，保留字面。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בעמי",
+      "rationale": "原文是 בְּ「在……之中」，譯作「我的民」的直接受詞語感，字面是「在我的民之中」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "說",
+      "rationale": "原文無「說」字，中文引語需要。"
+    }
+  ],
+  "translation": "撒母耳看見了 ⟨את⟩ 掃羅，雅威就回答他說：「看哪，就是我對你說過的那個人，這人必管束我的民。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b2fb7a248a450927b9646e01aa7e7008efb3526cd33fde017db47532b6fdd218",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/9\/17-20.1792131004699.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "看見了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "掃羅"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "回答他"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "那人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我對你說過"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這人"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "必管束"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "我的民"
+    }
+  ],
+  "timestamp": "2026-10-16T06:10:04.699978585Z",
+  "model": "glm-5.3"
+}

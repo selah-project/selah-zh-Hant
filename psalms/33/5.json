@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צדקה ומשפט",
+      "rationale": "公義與公平並列，希伯來詩體的同義對仗。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "慈愛",
+      "rationale": "חסד 一詞到底，鎖定『慈愛』，不換成恩典或憐憫。"
+    }
+  ],
+  "translation": "他喜愛公義和公平；雅威的慈愛滿了全地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9d65857068bb7b3baf01a688d717f2ae89ab965a75f3140f46a8c32153b93467",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/33\/5-8.1792143607398.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "喜愛"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "公義"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "和公平"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "慈愛"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "滿了"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "全地"
+    }
+  ],
+  "timestamp": "2026-10-16T09:40:07.398970700Z",
+  "model": "glm-5.3"
+}

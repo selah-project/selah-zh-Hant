@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "人",
+      "rationale": "וישלח僅言「打發」，受詞未寫出；中文補「人」"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ויכבד לב",
+      "rationale": "字面「心變重」，即頑梗剛硬；譯「沉重剛硬」保留重量意象"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישלח\/שלח",
+      "rationale": "同一詞根「打發」首尾呼應：法老打發人去看，卻不打發那民走；中文以「打發／釋放」分譯，雙關失落"
+    }
+  ],
+  "translation": "法老打發人去看，看哪，以色列人的牲畜連一隻都沒有死。法老的心卻沉重剛硬，不釋放⟨את⟩那民。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bd39f570aa916172511f2f0bdf97ee05281021bea126b548275b64ed02f44fa5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/9\/5-8.1792125871036.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "打發人去"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "…的牲畜"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "עד",
+      "gloss": "連"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一隻"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "沉重剛硬"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "釋放"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "那民"
+    }
+  ],
+  "timestamp": "2026-10-16T04:44:31.038266352Z",
+  "model": "glm-5.3"
+}

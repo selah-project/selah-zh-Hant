@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "它們",
+      "rationale": "第三個 אתם 指前述的律例典章，中文補出代名詞"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "命令式延續，直接對會眾說話"
+    }
+  ],
+  "translation": "你們要遵行⟨את⟩我的律例，謹守⟨את⟩我的典章並遵行它們，就必安然居住在那地上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a431c7e21a0c3391dca146a9d882b362a1230afbf440704e41c90fb4c5af69f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/25\/17-20.1792127263235.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "你們要遵行"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的律例"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "我的律例"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "我的典章"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "我的典章"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "謹守"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "並遵行"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "它們"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "就必居住"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "那地"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "安然"
+    }
+  ],
+  "timestamp": "2026-10-16T05:07:43.236693403Z",
+  "model": "glm-5.3"
+}

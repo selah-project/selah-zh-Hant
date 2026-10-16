@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "它",
+      "rationale": "נטל 的受詞未言明，即上節的「軛」，中文補出賓語"
+    },
+    {
+      "kind": "crux",
+      "subject": "נטל",
+      "rationale": "誰施放？英譯分歧：『他已將它加在他身上』（雅威施加）與『他已承當它』（人自己背負）"
+    }
+  ],
+  "translation": "他獨自靜坐，靜默不言，因為已將它加在他身上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b248cd7e741a04abc857fea2bf6b8b493e579edf1a0a2ed5d559d397e54e71b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/lamentations\/3\/25-28.1792146824656.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "獨自"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "且靜默不言"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "已將它加"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "在他身上"
+    }
+  ],
+  "timestamp": "2026-10-16T10:33:44.657144965Z",
+  "model": "glm-5.3"
+}

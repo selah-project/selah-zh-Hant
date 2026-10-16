@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 9:12",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כי……כי",
+      "rationale": "連續兩個「因為」構成疊句，中文保留雙「因為」的節奏"
+    },
+    {
+      "kind": "substitution",
+      "subject": "邱壇",
+      "rationale": "במה 直譯「高處」，指高處的敬拜場所；「邱壇」沿用和合本通行譯法"
+    }
+  ],
+  "translation": "她們回答 ⟨אותם⟩ 說：「在，看哪，他就在你面前；現在要趕快，因為他今日來到城裏，因為眾民今日在邱壇有祭事。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "726618519fc0d1fa85f8e84a1328ca3c79d8fc170346a081a5076b45010040cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/9\/9-12.1792130940115.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "她們回答"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "他們（掃羅與他的僕人）"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "說"
+    },
+    {
+      "surface": "יש",
+      "gloss": "在"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "在你面前"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "要趕快"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "現在"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "城裏"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "祭事"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "眾民的"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "在邱壇"
+    }
+  ],
+  "timestamp": "2026-10-16T06:09:00.116604924Z",
+  "model": "glm-5.3"
+}

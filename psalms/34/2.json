@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "我口中",
+      "rationale": "בפי 僅作「在口中」，第一人稱代名詞由中文補出。"
+    },
+    {
+      "kind": "you",
+      "subject": "我",
+      "rationale": "詩人以第一人稱開口的自我宣告。"
+    }
+  ],
+  "translation": "我要時時稱頌雅威，他的讚美常在我口中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/34\/1-4.1792143626995.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "我要稱頌"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "在一切"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時候"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "不斷地"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "他的讚美"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "在我口中"
+    }
+  ],
+  "timestamp": "2026-10-16T09:40:26.996448940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עשק בדם נפש",
+      "rationale": "「在血中受壓迫」可讀作「流人血的壓迫者」（依據 עשק 主動義）或「背負血債被追逼的人」，各譯本分歧。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש 是呼吸的生命體，此處譯「生命」而非「靈魂」。"
+    }
+  ],
+  "translation": "流人血而受壓迫的人，必逃到坑邊，無人 ⟨替他⟩ 撐持他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3181c1b9699163fd3d4412d818a1b05e9d3579f6e99f1224b2187ac140a7f885",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/28\/17-20.1792145711931.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "受壓迫"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "在血中"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "生命"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "בור",
+      "gloss": "坑"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "必逃"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "撐持"
+    },
+    {
+      "surface": "בו",
+      "gloss": "他"
+    }
+  ],
+  "timestamp": "2026-10-16T10:15:11.932261281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 2:15",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "少壯獅子",
+      "rationale": "希伯來文無冠詞於כפרים之前，中文補入限定語以求自然。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כפרים",
+      "rationale": "כפיר 同輔音可讀作『村莊』或『少壯獅子』，譯者多取獅子。"
+    }
+  ],
+  "translation": "少壯獅子向他咆哮，發出了牠們的聲音，使他的地成為荒涼；他的城邑被焚燒，無人居住。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5e3cdf33f73d8ec6cb4471d44b4b797c6915590511f70df71ca7a74ad8ff1a09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/2\/13-16.1792135990143.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עליו",
+      "gloss": "向他"
+    },
+    {
+      "surface": "ישאגו",
+      "gloss": "咆哮"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "少壯獅子"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "發出了"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "牠們的聲音"
+    },
+    {
+      "surface": "וישיתו",
+      "gloss": "使…成為"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "他的地"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "荒涼"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "他的城邑"
+    },
+    {
+      "surface": "נצתה",
+      "gloss": "被焚燒"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "無"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "居住者"
+    }
+  ],
+  "timestamp": "2026-10-16T07:33:10.144827267Z",
+  "model": "glm-5.3"
+}

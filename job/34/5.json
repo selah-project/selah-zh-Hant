@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "伊勒",
+      "rationale": "ואל（伊勒）在此平行雅威作神名，故音譯而非譯作「神」"
+    },
+    {
+      "kind": "you",
+      "subject": "以利戶引述約伯的話",
+      "rationale": "本節是以利戶對會眾引述約伯的原言"
+    }
+  ],
+  "translation": "因為約伯曾說：我已被稱為義，而伊勒挪移了我的判斷。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7f6ee47fd518beff898ee7d1dbb6a3cb2a864ea3644c6a9e6edb1641655b24cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/34\/5-8.1792146395452.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "曾說"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "約伯"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "我已被稱為義"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "而伊勒"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "挪移了"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "我的判斷"
+    }
+  ],
+  "timestamp": "2026-10-16T10:26:35.452473060Z",
+  "model": "glm-5.3"
+}

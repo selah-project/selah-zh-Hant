@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 11:20",
+  "book": "nehemiah",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "住在",
+      "rationale": "希伯來文無動詞，由上文居住名單的語境補出"
+    },
+    {
+      "kind": "substitution",
+      "subject": "產業",
+      "rationale": "נחלה是「繼承得來的產業」，各譯本作 inheritance／possessions"
+    }
+  ],
+  "translation": "其餘的以色列人、祭司和利未人，住在猶大各城，各人在自己的產業裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "024d408f424a83ea204575762aa2027220a60f1d2ca8213739f8240108ab2765",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nehemiah\/11\/17-20.1792148235453.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "其餘的"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列人"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "在…各"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "城"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "בנחלתו",
+      "gloss": "在自己的產業裡"
+    }
+  ],
+  "timestamp": "2026-10-16T10:57:15.454540838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 14:10",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ואיו",
+      "rationale": "希伯來問句「他在哪裡？」——死後難以捉摸的存在，以地點問句表達存在之問"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יגוע",
+      "rationale": "字面為「呼出最後一口氣」——最後一息即離世"
+    }
+  ],
+  "translation": "但人死去，便衰弱仆倒；人斷了氣，他在哪裡呢？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f5883ca82d29d0ca4117c77add83c358672af30a499eb265053c30c4111b34ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/14\/9-12.1792145953857.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגבר",
+      "gloss": "但人"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "死去"
+    },
+    {
+      "surface": "ויחלש",
+      "gloss": "便衰弱仆倒"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "斷了氣"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "他在哪裡呢"
+    }
+  ],
+  "timestamp": "2026-10-16T10:19:13.858633165Z",
+  "model": "glm-5.3"
+}

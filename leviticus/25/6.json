@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "出產",
+      "rationale": "希伯來文只說「地的安息」，中文需補「出產」以成句，故加〈〉。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "受益者名單",
+      "rationale": "列出安息年出產的受益者：你、僕人、婢女、雇工、寄居者——一張五重的清單。"
+    }
+  ],
+  "translation": "地的安息〈出產〉要給你們作食物：給你、你的僕人、你的婢女、你的雇工，以及與你們一同寄居的外人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a41bade2eac609d4621619da794c6d8244eac84883d27511db8ea86e6074f80d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/25\/5-8.1792127277865.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "而…要作"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "安息（年的出產）"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地的"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "給你們"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "作食物"
+    },
+    {
+      "surface": "לך",
+      "gloss": "給你"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "和你的僕人"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "和你的婢女"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "和你的雇工"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "和寄居的外人"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "寄居的"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "與你在一起"
+    }
+  ],
+  "timestamp": "2026-10-16T05:07:57.866366229Z",
+  "model": "glm-5.3"
+}

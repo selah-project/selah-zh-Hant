@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "四十八",
+      "rationale": "總數四十八座城，回應第6節的六加四十二。"
+    },
+    {
+      "kind": "addition",
+      "subject": "共",
+      "rationale": "中文加「共」字以表明數目是總和。"
+    }
+  ],
+  "translation": "你們給利未人的城邑，全部共四十八座城：⟨את⟩這些城和⟨את⟩它們的郊野。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ca2676a78566c18bac3bd56dd920fbae5e8651834e283676d044088c12c380c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/35\/5-8.1792128453297.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "那些城邑"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "你們要給"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "給利未人"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "又八"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "座城"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩（她們）",
+      "marks": "這些城"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "它們的郊野"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "它們的郊野"
+    }
+  ],
+  "timestamp": "2026-10-16T05:27:33.298855087Z",
+  "model": "glm-5.3"
+}

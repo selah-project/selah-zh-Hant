@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 82:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "抬舉惡人的面",
+      "rationale": "נשא פנים（抬起臉面）是希伯來成語，指偏袒、看情面；直譯保留「面」的意象"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "音樂記號，音譯為「細拉」，意義不確定（可能為暫停或插部標記）"
+    },
+    {
+      "kind": "you",
+      "subject": "向諸神／審判者說話",
+      "rationale": "以羅欣直接質問議會中的成員"
+    }
+  ],
+  "translation": "你們審判不公，又抬舉惡人的面，要到幾時呢？細拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fd0b5a856df469a1725c7e70f3e40706c44adbb9d2a44daed8d77efdac23230a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/82\/1-4.1792144341270.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "幾時"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "你們審判"
+    },
+    {
+      "surface": "עול",
+      "gloss": "不公"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "又……的面"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "抬舉"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉。"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:21.272933822Z",
+  "model": "glm-5.3"
+}

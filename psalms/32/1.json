@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "得蒙擔負",
+      "rationale": "נשוי 是「被抬起、被擔走」的被動分詞，中譯以「擔負」保留搬運的意象而非抽象的「赦免」"
+    },
+    {
+      "kind": "alternative",
+      "subject": "遮蓋",
+      "rationale": "כסוי 字面是「被遮蓋」，JPS 作 pardoned 是意譯；本譯保留遮蓋的實物意象"
+    }
+  ],
+  "translation": "大衛的詩，訓誨詩。過犯得蒙擔負、罪得蒙遮蓋的人，何等有福。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "597c22f8483057877c4c741b33466b7b61002057e18ba7a0843808bc5ed6349b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/32\/1-4.1792143533910.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "訓誨詩"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "何等有福"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "得蒙擔負"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "過犯"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "得蒙遮蓋"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "罪"
+    }
+  ],
+  "timestamp": "2026-10-16T09:38:53.911558406Z",
+  "model": "glm-5.3"
+}

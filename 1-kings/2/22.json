@@ -1,0 +1,149 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 2:22",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי הוא אחי הגדול ממני",
+      "rationale": "「他是我哥哥，比我大」——長幼身份？還是反諷（他有篡位的資格與黨羽）？各譯本多取前者，語氣實為指控"
+    },
+    {
+      "kind": "addition",
+      "subject": "都站在他那裏",
+      "rationale": "句末三個לְ（為他、為亞比亞他、為約押）懸空，中文補出其支持含義"
+    },
+    {
+      "kind": "you",
+      "subject": "to Bathsheba",
+      "rationale": "所羅門直接質問母親拔示巴"
+    }
+  ],
+  "translation": "所羅門王回答⟨他母親⟩說：「你為甚麼替亞多尼雅求 ⟨את⟩ 書念的女子亞比煞呢？你可以替他求 ⟨את⟩ 王位啊，因為他是我哥哥，比我大——⟨不只有他⟩，還有亞比亞他祭司和洗魯雅的兒子約押⟨都站在他那裏⟩。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "21c4be3396919679eb8e541edaec6629efa0836db3cdc91ff5bc27dbfd2aea04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/2\/21-24.1792132533663.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "回答"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "⟨他母親⟩"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "為甚麼"
+    },
+    {
+      "surface": "את",
+      "gloss": "你"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "求"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "書念的女子亞比煞"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "亞比煞"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "書念的女子"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "替亞多尼雅"
+    },
+    {
+      "surface": "ושאלי",
+      "gloss": "你可以求"
+    },
+    {
+      "surface": "לו",
+      "gloss": "替他"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王位"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "王位"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "我哥哥"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "比我大"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "比我"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "⟨不只有他⟩"
+    },
+    {
+      "surface": "ולאביתר",
+      "gloss": "還有亞比亞他"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "וליואב",
+      "gloss": "和約押"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "洗魯雅的"
+    }
+  ],
+  "timestamp": "2026-10-16T06:35:33.665053303Z",
+  "model": "glm-5.3"
+}

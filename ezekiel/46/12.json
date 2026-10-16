@@ -1,0 +1,158 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 46:12",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "人要",
+      "rationale": "希伯來文動詞無主詞（『要為他開』『要關閉』），中文需補出施事者，加⟨人⟩式泛指"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נדבה 三現",
+      "rationale": "『甘心祭』一詞在本節兩次出現（另一次為字面重複），強調自願性質，中文保留重複"
+    }
+  ],
+  "translation": "王若甘心獻上燔祭或平安祭，作為甘心祭獻給雅威，人就要為他開那朝東的門，他要獻上⟨את⟩他的燔祭和⟨את⟩他的平安祭，如同在安息日的日子所行的一樣；然後他出去，他出去以後，人要把那門關閉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e464b1efdf259a2468d20b1cc404e25685bd10747235db0238fa721e5d4a6475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/46\/9-12.1792139257545.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "至於…若"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "獻上"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "王"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "甘心祭"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "平安祭"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "甘心祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "給雅威"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "要開"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為他"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那門"
+    },
+    {
+      "surface": "השער",
+      "gloss": "那門"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "朝向"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "東"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "他要獻上"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的燔祭"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "他的燔祭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "他的平安祭"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "他的平安祭"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "如同"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "所行的"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在…的日子"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "安息日"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "然後他出去"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "要關閉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那門"
+    },
+    {
+      "surface": "השער",
+      "gloss": "那門"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "在…之後"
+    },
+    {
+      "surface": "צאתו",
+      "gloss": "他出去"
+    }
+  ],
+  "timestamp": "2026-10-16T08:27:37.547092460Z",
+  "model": "glm-5.3"
+}

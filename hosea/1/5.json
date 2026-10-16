@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "והיה",
+      "rationale": "「到那日」已含將臨之意，開頭的發生動詞併入譯文語境"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יזרעאל",
+      "rationale": "耶斯列之名與1:4報血仇之言呼應，弓之折斷即以色列軍力在同名谷中終結"
+    }
+  ],
+  "translation": "到那日，我必折斷 ⟨את⟩ 以色列的弓，在耶斯列山谷。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0815d649f9d8b549fc7f21c384dc54e6dd985d4fc56ed2d2e23f2328c3713344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/1\/5-8.1792139406207.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "必〈發生〉"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在…之日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "那"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "我必折斷"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的弓"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "弓"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "在…山谷"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "耶斯列"
+    }
+  ],
+  "timestamp": "2026-10-16T08:30:06.207612931Z",
+  "model": "glm-5.3"
+}

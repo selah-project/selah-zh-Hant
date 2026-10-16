@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 15:16",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "誰",
+      "rationale": "אשר 為關係詞「那擊打的」，中文以「誰」作條件問句更自然"
+    },
+    {
+      "kind": "invitation",
+      "subject": "迦勒的宣告",
+      "rationale": "對聽眾發出的懸賞式召喚：誰攻打基列西弗便得他女兒為妻"
+    }
+  ],
+  "translation": "迦勒說：「誰擊打 ⟨את⟩ 基列西弗、將它奪取，我就把 ⟨את⟩ 我女兒押撒給他為妻。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0deff7f1ffbe6908a79d4b1594176b47a058f85ff604b3b4af62562b8375d31c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/15\/13-16.1792129814922.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "迦勒"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "誰"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "擊打"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "基列西弗"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "基列"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "西弗"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "將它奪取"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "我就把……給"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "押撒"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "押撒"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "我女兒"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "為妻"
+    }
+  ],
+  "timestamp": "2026-10-16T05:50:14.923711913Z",
+  "model": "glm-5.3"
+}

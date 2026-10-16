@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד מאד",
+      "rationale": "字面「到極處」，即「全然、徹底」；譯作「全然」"
+    },
+    {
+      "kind": "addition",
+      "subject": "求你",
+      "rationale": "希伯來文否定祈願式，中文加「求你」以表懇求語氣"
+    }
+  ],
+  "translation": "求你不要全然從我口中奪去真實的話，因我等候你的判語。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "083b74b5421d477a7b0acb4e1a3563295e4833d22f5e9e5fbcdd8aa043e28985",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/41-44.1792144829535.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "求你不要"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "奪去"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "從我口中"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真實的"
+    },
+    {
+      "surface": "עד",
+      "gloss": "……"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "全然"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "你的判語"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "我等候"
+    }
+  ],
+  "timestamp": "2026-10-16T10:00:29.536621573Z",
+  "model": "glm-5.3"
+}

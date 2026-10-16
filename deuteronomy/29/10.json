@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 29:10",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨你⟩",
+      "rationale": "中文語法需要指示客旅所指的對象"
+    },
+    {
+      "kind": "measurement",
+      "subject": "從砍柴的到打水的",
+      "rationale": "由低到高涵蓋全營的範圍表述，標示立約群體的完整"
+    }
+  ],
+  "translation": "你們的孩子、你們的妻子，以及在你營中寄居的⟨你⟩客旅，從砍柴的到打水的，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "613764cbd906a2d63bb9cfe5d19264aead3614839c7c7a0fe55c8496ca3849b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/29\/9-12.1792129173575.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טפכם",
+      "gloss": "你們的孩子"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "你們的妻子"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "和你的客旅"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨那⟩"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "在……中"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "你的營"
+    },
+    {
+      "surface": "מחטב",
+      "gloss": "從砍……的"
+    },
+    {
+      "surface": "עציך",
+      "gloss": "你的柴"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "שאב",
+      "gloss": "打……的"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "你的水"
+    }
+  ],
+  "timestamp": "2026-10-16T05:39:33.576055143Z",
+  "model": "glm-5.3"
+}

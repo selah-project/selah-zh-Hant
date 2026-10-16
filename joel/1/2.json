@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "啊",
+      "rationale": "中文呼格助詞，希伯來文以獨立稱呼表達"
+    },
+    {
+      "kind": "addition",
+      "subject": "嗎",
+      "rationale": "中文疑問語氣詞，希伯來文以 הֶ 前綴表疑問"
+    },
+    {
+      "kind": "invitation",
+      "subject": "長老們／居民",
+      "rationale": "雙重命令式（要聽、要側耳而聽）向百姓發出召喚"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列的長老與居民",
+      "rationale": "直接稱呼全地長老與居民"
+    }
+  ],
+  "translation": "長老們啊，要聽這事；這地的全體居民啊，要側耳而聽。在你們的日子曾發生過這樣的事嗎？或在你們祖先的日子嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "45ec4144656b393b5be42ca51f70630482d559c7d6c577947af9d11450d8110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joel\/1\/1-4.1792139584851.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "要聽"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這事"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "長老們"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "要側耳而聽"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全體"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "這地"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "曾發生過嗎"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這樣的事"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "在你們的日子"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "或"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "在……的日子"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "你們祖先"
+    }
+  ],
+  "timestamp": "2026-10-16T08:33:04.852408665Z",
+  "model": "glm-5.3"
+}

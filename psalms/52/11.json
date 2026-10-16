@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עשִׂיתָ 的受詞",
+      "rationale": "希伯來文「你行了它」的「它」隱含未寫出；中文補「這事」以合語法，不加 ⟨את⟩ 記號因原文無 את。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חֲסִידֶיךָ",
+      "rationale": "「虔誠人」或「敬虔人」；和合本作「聖民」，但 חסיד 是慈愛（חסד）之民，非「聖徒」。"
+    }
+  ],
+  "translation": "我要稱謝你，直到永遠，因為你行了 ⟨אֶת⟩ 這事；我要等候你的名，因為這名在你虔誠人面前是美好的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e6750be2d40b520a5c845d4ed20b9269a2e52498d84d5e2d22a8f04717cc7dee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/52\/10-11.1792149890309.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "我要稱謝你"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "直到永遠"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "你行了"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "我要等候"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "美好"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "在……面前"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "你的虔誠人"
+    }
+  ],
+  "timestamp": "2026-10-16T11:24:50.309780385Z",
+  "model": "glm-5.3"
+}

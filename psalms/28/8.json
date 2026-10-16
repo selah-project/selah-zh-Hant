@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למו",
+      "rationale": "「他們」指誰？——KJV作「他的民」，JPS作「他們」，YLT作「他」；上文第7節的詩人與下文的受膏者／百姓皆可"
+    },
+    {
+      "kind": "substitution",
+      "subject": "受膏者",
+      "rationale": "משיח是一詞到底的「受膏者」——君王（撒下22:51平行），不用「基督」「彌賽亞」"
+    }
+  ],
+  "translation": "雅威是他百姓的力量，又是他受膏者得救的保障，他本是如此。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/28\/5-8.1792143536153.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עז",
+      "gloss": "力量"
+    },
+    {
+      "surface": "למו",
+      "gloss": "是他們的"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "又是保障"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "得救的"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "他受膏者的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他本是如此"
+    }
+  ],
+  "timestamp": "2026-10-16T09:38:56.154906505Z",
+  "model": "glm-5.3"
+}

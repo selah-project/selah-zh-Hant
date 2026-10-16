@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 2:7",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עכר\/עוכר",
+      "rationale": "名字『亞干』與動詞『攪擾』同根雙關，中文失去"
+    },
+    {
+      "kind": "substitution",
+      "subject": "當滅之物",
+      "rationale": "חרם 是『被滅盡歸雅威之物』，以中文『當滅之物』近之"
+    },
+    {
+      "kind": "alternative",
+      "subject": "亞干",
+      "rationale": "書 7:1 作 אכר（亞割），歷代志作 עכר，拼法略異"
+    }
+  ],
+  "translation": "迦米的兒子是亞干，他攪擾以色列，在當滅之物上犯了背信的罪。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e688587675671ac2e5b874c32f86514ec58f1e577af70816543a0e93e7d9028d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/2\/5-8.1792148290371.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "迦米"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "亞干"
+    },
+    {
+      "surface": "עוכר",
+      "gloss": "攪擾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "他"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "背信"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "當滅之物"
+    }
+  ],
+  "timestamp": "2026-10-16T10:58:10.372654711Z",
+  "model": "glm-5.3"
+}

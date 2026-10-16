@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשמים",
+      "rationale": "「在天上」還是「對抗天上」：希伯來文只有介詞 בְ，「對抗」是譯者按語境所加（和合本：他們的口褻瀆上天）。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "口與舌",
+      "rationale": "天／地的對仗：口高及諸天、舌行遍大地，誇大的空間對比。"
+    }
+  ],
+  "translation": "他們向天上高抬自己的口，他們的舌頭遊行在地上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "76b9dbbdc790bd624493e24736de2792cb7d9b78b74ca3d8c08d3434ef6ddea3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/73\/9-12.1792144110731.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "高抬"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "向天上"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "他們的口"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "他們的舌頭"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "遊行"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在地上"
+    }
+  ],
+  "timestamp": "2026-10-16T09:48:30.731638664Z",
+  "model": "glm-5.3"
+}

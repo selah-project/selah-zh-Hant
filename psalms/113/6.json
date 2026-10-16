@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "事",
+      "rationale": "希伯來文只說「在天和在地」；中文需要名詞「事」補足"
+    },
+    {
+      "kind": "crux",
+      "subject": "המשפילי",
+      "rationale": "他使自己謙卑俯就觀看（KJV）對照他向下觀看天與地（JPS）"
+    },
+    {
+      "kind": "you",
+      "subject": "雅威",
+      "rationale": "本節延續對雅威的描述性頌讚，回應上文「誰像雅威我們的以羅欣」"
+    }
+  ],
+  "translation": "他俯首屈身，為要觀看天上的事和地上的事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a197913ae5c0cb215b5da965f9f654cfebc468b5cff53252e031d4e08b995900",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/113\/6-7.1792149949416.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "俯首屈身"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "為要觀看"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "在天上"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "和在地上"
+    }
+  ],
+  "timestamp": "2026-10-16T11:25:49.416536104Z",
+  "model": "glm-5.3"
+}

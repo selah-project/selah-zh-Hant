@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 31:14",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "生命",
+      "rationale": "נפש 直譯是「呼吸的生命／性命」，非不朽靈魂；此處指那個人本身"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מות יומת",
+      "rationale": "不定詞絕對型加動詞的強調結構：「必被處死」，字面「死必被治死」"
+    },
+    {
+      "kind": "crux",
+      "subject": "兩種刑罰",
+      "rationale": "處死（人執行）與被剪除（כרת，可能指雅威施行的剪除）並列——學者對兩者是同一刑罰還是兩種刑罰意見分歧"
+    }
+  ],
+  "translation": "你們要謹守⟨את⟩安息日，因為它是歸你們為聖的；凡褻瀆它的，必被處死；因為凡在這日做工的，那生命必從他百姓中間被剪除。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cae0e4c5a202d80ae60ba94edb0f1bb7308add0fdcc87751baae82b411c2623b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/31\/13-16.1792126368240.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "你們要謹守"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "安息日"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "安息日"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "它"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "歸你們"
+    },
+    {
+      "surface": "מחלליה",
+      "gloss": "褻瀆它的"
+    },
+    {
+      "surface": "מות",
+      "gloss": "處死"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "必被處死"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "做工的"
+    },
+    {
+      "surface": "בה",
+      "gloss": "在它…之內"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "工"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "必被剪除"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "那生命"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "那"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "從…中間"
+    },
+    {
+      "surface": "עמיה",
+      "gloss": "他的百姓"
+    }
+  ],
+  "timestamp": "2026-10-16T04:52:48.241572626Z",
+  "model": "glm-5.3"
+}

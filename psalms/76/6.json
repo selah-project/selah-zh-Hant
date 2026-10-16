@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "找不到手",
+      "rationale": "「找不到手」是希伯來成語，指雙手失去作用、無力行動，直譯保留畫面"
+    },
+    {
+      "kind": "crux",
+      "subject": "אבירי לב",
+      "rationale": "「心之強者」：KJV 作「心高氣傲的」（貶），JPS 作「失去理智的」；字面是心裡強壯的勇士"
+    }
+  ],
+  "translation": "心氣強橫的勇士遭洗劫，他們沉睡了他們的睡眠，所有大能之士都找不到自己的手。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2a74c3ec15b03c54751aa2fb13eeaf047c52e9e4390a0d393c579c4d9caf67e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/76\/5-8.1792144225008.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "遭洗劫"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "沉睡了"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "他們的睡眠"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "而不"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "找到"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "之士"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "大能"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "自己的手"
+    }
+  ],
+  "timestamp": "2026-10-16T09:50:25.008740570Z",
+  "model": "glm-5.3"
+}

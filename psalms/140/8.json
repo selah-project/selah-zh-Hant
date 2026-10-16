@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "在佩帶兵器之日",
+      "rationale": "נשק 直譯「兵器／軍械」，多數譯本作「爭戰之日」；此處保留原詞的具體圖像"
+    },
+    {
+      "kind": "crux",
+      "subject": "אדני",
+      "rationale": "אדני 在此指神，依紀律譯「阿多奈」，不用「主」遮蓋"
+    }
+  ],
+  "translation": "雅威，阿多奈，我拯救的力量啊，在佩帶兵器之日你遮蔽了我的頭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f06e768a26a834343732c1f2e13446a76b7c3e2d7ff917327d1302bb6fa497fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/140\/5-8.1792145088922.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "עז",
+      "gloss": "力量"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "我的拯救"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "你遮蔽了"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "我的頭"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在……之日"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "兵器"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:48.923292987Z",
+  "model": "glm-5.3"
+}

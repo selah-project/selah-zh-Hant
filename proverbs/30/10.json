@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "對讀者",
+      "rationale": "命令句直接勸誡讀者"
+    },
+    {
+      "kind": "invitation",
+      "subject": "不可……",
+      "rationale": "否定命令式勸誡，屬箴言訓誨體"
+    }
+  ],
+  "translation": "不可向僕人的主人讒謗僕人，免得他咒詛你，你就有罪了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/30\/9-12.1792145690651.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "讒謗"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "僕人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "他的主人"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "他咒詛你"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "你就有罪了"
+    }
+  ],
+  "timestamp": "2026-10-16T10:14:50.652028220Z",
+  "model": "glm-5.3"
+}

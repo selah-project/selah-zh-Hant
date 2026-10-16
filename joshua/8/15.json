@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 8:15",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "假裝被擊敗",
+      "rationale": "נגע 字面是「被擊打／退縮」；敘事的詭計使多數譯本補「假裝」，但動詞本身未言明——這是譯者的詮釋"
+    },
+    {
+      "kind": "alternative",
+      "subject": "在他們面前退縮",
+      "rationale": "直譯可作「在他們面前被擊退」，不預設佯敗"
+    }
+  ],
+  "translation": "約書亞和以色列眾人在他們面前假裝被擊敗，往曠野的路逃去。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1405c917282e6929f518035c0adeb1d1003df8978adfed62d587b9e64d83e2dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/8\/13-16.1792129581964.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינגעו",
+      "gloss": "假裝被擊敗"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和眾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "在他們面前"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "逃去"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "曠野的"
+    }
+  ],
+  "timestamp": "2026-10-16T05:46:21.965352800Z",
+  "model": "glm-5.3"
+}

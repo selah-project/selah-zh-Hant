@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 47:2",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "此節動詞 וישטפו 的受詞以受詞記號省略形式出現於元音文本，譯文以「漫過 ⟨את⟩」補記結構"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוטף\/ישטפו",
+      "rationale": "同一詞根 שטף 連用兩次（氾濫／漫過），中文以同根詞保留重複"
+    },
+    {
+      "kind": "secret",
+      "subject": "從北方上漲的水",
+      "rationale": "以洪水隱喻指巴比倫大軍，文本本身未明言，意象刻意遮掩"
+    }
+  ],
+  "translation": "雅威如此說：「看哪，有水從北方上漲，成為氾濫的急流，漫過 ⟨את⟩ 那地和其中所充滿的，漫過城和城中的居民。人都要哀喊，那地所有的居民都要哀號。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c146cf3cfa145807c5ccab8b1491c844b77828f372507f12f60a394402c28919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/47\/1-4.1792137446228.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "如此"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "עלים",
+      "gloss": "上漲"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "從北方"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "成為"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "急流"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "氾濫的"
+    },
+    {
+      "surface": "וישטפו",
+      "gloss": "漫過"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "那地"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "和其中所充滿的"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "和居民"
+    },
+    {
+      "surface": "בה",
+      "gloss": "其中的"
+    },
+    {
+      "surface": "וזעקו",
+      "gloss": "都要哀喊"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "והילל",
+      "gloss": "都要哀號"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "居民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "那地"
+    }
+  ],
+  "timestamp": "2026-10-16T07:57:26.229167358Z",
+  "model": "glm-5.3"
+}

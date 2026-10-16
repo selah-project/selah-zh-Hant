@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 13:15",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "若是",
+      "rationale": "希伯來文無假設連詞，中文補「若是」以明條件語氣"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ודרשת וחקרת ושאלת",
+      "rationale": "三個近義動詞連用，層層加重的調查命令"
+    }
+  ],
+  "translation": "你就要查問、探究、好好地詢問；看哪，若是真的、確實的，這可憎的事在你中間行出來了，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "16c60cc1dfe89d277b407e9512ffe46793da95fb1fb3079ddc3bcffb44d72756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/13\/13-16.1792128804661.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודרשת",
+      "gloss": "你就要查問"
+    },
+    {
+      "surface": "וחקרת",
+      "gloss": "探究"
+    },
+    {
+      "surface": "ושאלת",
+      "gloss": "詢問"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "好好地"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真的"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "確實的"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "這事"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "行出來了"
+    },
+    {
+      "surface": "התועבה",
+      "gloss": "可憎的事"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "在你中間"
+    }
+  ],
+  "timestamp": "2026-10-16T05:33:24.662585845Z",
+  "model": "glm-5.3"
+}

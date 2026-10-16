@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 29:20",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "比",
+      "rationale": "中文比較句需補出介詞，希伯來文以לכסיל ממנו並置表達"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חזית",
+      "rationale": "29:18的חזון（異象）與本節חזית（你看見）同根相呼，失去異象之民與急躁之人並列"
+    }
+  ],
+  "translation": "你見過言語急躁的人嗎？愚昧人比他更有指望。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "247a2fa37d1a26cd1ef80a95662cc3b3e7ac41c8d228c9f10c65be049b47cfac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/29\/17-20.1792145676436.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חזית",
+      "gloss": "你見過"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "急躁"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "言語"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "指望"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "愚昧人"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "比他"
+    }
+  ],
+  "timestamp": "2026-10-16T10:14:36.438019714Z",
+  "model": "glm-5.3"
+}

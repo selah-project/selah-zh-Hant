@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישאו הרים",
+      "rationale": "眾山「領受／高舉」平安：KJV 作「山帶來平安」，YLT 作「山高舉（bear）平安」——動詞 נשא 可指高舉或承受，此處取領受"
+    },
+    {
+      "kind": "elision",
+      "subject": "בצדקה",
+      "rationale": "「在公義之中」懸空無動詞，與前半句共用領受之意，中文補⟨如此行⟩以成句"
+    }
+  ],
+  "translation": "願眾山向民領受平安，願岡陵在公義之中⟨如此行⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "81db9c243c285027d9898f6dd4329e80601dbb8fadb722114ac0a616b08f3df4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/72\/2-3.1792149879118.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "領受"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "眾山"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "向民"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "願岡陵"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "在公義之中"
+    }
+  ],
+  "timestamp": "2026-10-16T11:24:39.119302912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "以",
+      "rationale": "וֶאֱמוּנָה 為副詞性名詞，中文需介詞「以」表手段"
+    },
+    {
+      "kind": "substitution",
+      "subject": "管教",
+      "rationale": "ענה 基本義為壓低、苦待；此處譯「管教」以貼合詩人接受苦難的語境"
+    }
+  ],
+  "translation": "雅威啊，我知道你的典章是公義的，你以信實管教了我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "46f8de14e78cfb5e23511b2a2f66feec5d4c8bfa32810a665daaa2ee44872858",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/73-76.1792144812649.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "我知道"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨That⟩"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義的"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "你的典章"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "以信實"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "你管教了我"
+    }
+  ],
+  "timestamp": "2026-10-16T10:00:12.650051972Z",
+  "model": "glm-5.3"
+}

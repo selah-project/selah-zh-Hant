@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "偶像",
+      "rationale": "פסל 字面是「雕琢而成的像」，「雕刻偶像」保留其工藝之義。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ממעל／מתחת",
+      "rationale": "「上—下—下」三層空間（天、地、水）對稱鋪排，宇宙三界盡數涵蓋。"
+    },
+    {
+      "kind": "you",
+      "subject": "to 以色列",
+      "rationale": "第二誡延續對以色列的直接命令。"
+    }
+  ],
+  "translation": "你不可為自己雕刻偶像，也不可做任何形像——凡在天上高處的、在地上底下的、在水裡地底下的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "69a775fb3ec2f7e067ade54b76e564d770df72874c6f1c38229a2acf4d17d8ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/20\/1-4.1792126068378.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "做／雕刻"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為你自己"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "偶像"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和任何"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "形像"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "凡……的"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "在天上"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "高處"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "和凡……的"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在地上"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "底下的"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "和凡……的"
+    },
+    {
+      "surface": "במים",
+      "gloss": "在水裡"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "底下的"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-10-16T04:47:48.379238888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פתח תפתח … תעביטנו",
+      "rationale": "兩處不定式絕對重疊——「敞開而又敞開」「借而又借」——與上節的兩個「不可」形成命令與禁止的對照"
+    },
+    {
+      "kind": "substitution",
+      "subject": "די מחסרו",
+      "rationale": "字面「足他的缺乏」，即照他所缺的數量充分供給"
+    }
+  ],
+  "translation": "你 總 要 向 他 敞開 ⟨את⟩ 你的 手，照 他 所 缺乏 的，足夠 補足 他 的 缺乏，借 給 他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "28b1fff41988a6bfadd7cdf73b8731394c6aa4151dbf25580eaa81edede5fdcb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/15\/5-8.1792128836455.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "總要"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "敞開"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "敞開"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的手"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "לו",
+      "gloss": "向他"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "借給"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "借給他"
+    },
+    {
+      "surface": "די",
+      "gloss": "足夠"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "他的缺乏"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "缺乏"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    }
+  ],
+  "timestamp": "2026-10-16T05:33:56.456737138Z",
+  "model": "glm-5.3"
+}

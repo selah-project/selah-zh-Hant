@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מתוכם",
+      "rationale": "תוך本義「剖分、中間」，中文以「從他們中間」達意。"
+    },
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "ויוצא的敘述式動詞已含主語「他」，中文需明寫。"
+    }
+  ],
+  "translation": "他領以色列從他們中間出來，因為他的慈愛永遠長存。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6878842d7f85e6c13eebce35360ead4f69361d0e960a09cf83082446e8cd9593",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/136\/9-12.1792144964994.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "他領……出來"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "從他們中間"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "他的慈愛"
+    }
+  ],
+  "timestamp": "2026-10-16T10:02:44.995897608Z",
+  "model": "glm-5.3"
+}

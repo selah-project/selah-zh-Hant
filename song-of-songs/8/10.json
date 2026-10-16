@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 8:10",
+  "book": "song-of-songs",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨是⟩",
+      "rationale": "首句希伯來文無動詞，中文需補繫詞。"
+    },
+    {
+      "kind": "crux",
+      "subject": "שלום",
+      "rationale": "KJV作「蒙恩」，直譯為「平安／完全」；此處照字面譯「平安」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום／שלמה",
+      "rationale": "שלום（平安）與下節שלמה（所羅門）同根呼應，中文無法保留。"
+    }
+  ],
+  "translation": "我⟨是⟩牆，我的雙乳如塔樓；那時我在他眼中如尋得平安的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7d3eaa55d3627b589be5cf6493e4000c4c6820a81cc1cdd6099f06d05b3ee1f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/8\/9-12.1792146696173.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "牆"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "我的雙乳"
+    },
+    {
+      "surface": "כמגדלות",
+      "gloss": "如塔樓"
+    },
+    {
+      "surface": "אז",
+      "gloss": "那時"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "我是"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "在他眼中"
+    },
+    {
+      "surface": "כמוצאת",
+      "gloss": "如尋得……的人"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    }
+  ],
+  "timestamp": "2026-10-16T10:31:36.174243585Z",
+  "model": "glm-5.3"
+}

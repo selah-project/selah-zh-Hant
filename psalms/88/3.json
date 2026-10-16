@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הטה אזנך",
+      "rationale": "直译『垂下你的耳』，即『侧耳垂听』"
+    },
+    {
+      "kind": "substitution",
+      "subject": "哀號",
+      "rationale": "רנה 本为尖锐呼喊，可表喜或哀；此处为哀号"
+    }
+  ],
+  "translation": "願我的祈禱來到你面前，你側耳垂聽我的哀號。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e9be61345a0526ae278b5e0ab0a1d76c8f25951a4be1da4f53fd5cee2af8d07f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/88\/1-4.1792144447836.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "願……來到"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "你面前"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "我的祈禱"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "側耳垂聽"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "你的耳"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "我的哀號"
+    }
+  ],
+  "timestamp": "2026-10-16T09:54:07.837440595Z",
+  "model": "glm-5.3"
+}

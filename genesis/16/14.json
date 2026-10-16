@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 16:14",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "庇耳·拉海·萊",
+      "rationale": "地名按慣例音譯；字義為「那活著且看顧我者之井」，以括註保存。"
+    },
+    {
+      "kind": "addition",
+      "subject": "括註",
+      "rationale": "加上地名字義的括註，因中文音譯完全失去 לחי ראי 與上節的呼應。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "地理標記",
+      "rationale": "「在加低斯和巴列之間」為井的位置定位。"
+    }
+  ],
+  "translation": "因此那井被稱為「庇耳·拉海·萊」（意即「那看顧我的永生者之井」）；看哪，它在加低斯和巴列之間。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5269a0ad2441ac4d32d9e6c91b754361a547f1504ddfe81ed4e405b14717fcf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/16\/13-16.1792124849795.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "因"
+    },
+    {
+      "surface": "כן",
+      "gloss": "此"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "被稱為"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "那井"
+    },
+    {
+      "surface": "באר",
+      "gloss": "井"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "拉海（永生者）"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "萊（看顧我的）"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "בין",
+      "gloss": "在……之間"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "加低斯"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "和……之間"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "巴列"
+    }
+  ],
+  "timestamp": "2026-10-16T04:27:29.796571550Z",
+  "model": "glm-5.3"
+}

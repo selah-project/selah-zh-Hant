@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 6:18",
+  "book": "ezra",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "設立",
+      "rationale": "中文需重複動詞『又設立』以連接第二個賓語，希伯來文（亞蘭文）只有一個 והקימו"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פלוגתא／מחלקתא",
+      "rationale": "亞蘭文用兩個近義詞分指祭司的『班次』與利未人的『班別』，中文以『班次／班別』勉強對應"
+    }
+  ],
+  "translation": "他們設立祭司按他們的班次，又設立利未人按他們的班別，在耶路撒冷辦理以羅欣的事奉，正如摩西書上所寫的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "390652fcd415b9f860c70f66242fd8778ea921a533c1b5cbc1d44cd70b6baf2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/6\/17-20.1792147827981.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקימו",
+      "gloss": "他們設立"
+    },
+    {
+      "surface": "כהניא",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "בפלגתהון",
+      "gloss": "按他們的班次"
+    },
+    {
+      "surface": "ולויא",
+      "gloss": "又利未人"
+    },
+    {
+      "surface": "במחלקתהון",
+      "gloss": "按他們的班別"
+    },
+    {
+      "surface": "על",
+      "gloss": "辦理"
+    },
+    {
+      "surface": "עבידת",
+      "gloss": "…的事奉"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "די",
+      "gloss": "就是"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "在耶路撒冷"
+    },
+    {
+      "surface": "ככתב",
+      "gloss": "正如…所寫的"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "書"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    }
+  ],
+  "timestamp": "2026-10-16T10:50:27.982538633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 28:37",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "שָׁמָה",
+      "rationale": "「那裏」在句尾被并入「驅趕你去的」，中文語序容不下孤立的方位詞"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשמה\/שמה",
+      "rationale": "「驚駭」(שמה) 與句尾「那裏」(שמה) 同音相呼，中文失落"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "咒詛段落直接以「你」稱呼以色列"
+    }
+  ],
+  "translation": "你必成為驚駭、成為箴言和笑談，在雅威所驅趕你去的萬民中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "da17e54fe72a791fff7f04ebcc914d98e01e379006b161e353d656818a22526e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/28\/37-40.1792129167145.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "你必成為"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "驚駭"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "箴言"
+    },
+    {
+      "surface": "ולשנינה",
+      "gloss": "和笑談"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "在……中所有的"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "萬民"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "ינהגך",
+      "gloss": "驅趕你去的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "那裏"
+    }
+  ],
+  "timestamp": "2026-10-16T05:39:27.145938159Z",
+  "model": "glm-5.3"
+}

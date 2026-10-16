@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 12:29",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אותם",
+      "rationale": "受詞記號 את 的附有後綴形式（אותם），以 ⟨את⟩他們 標出，指向「那些國民」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "剪除",
+      "rationale": "כרת 字面是「砍下、切斷」，引申為滅絕；譯文保留「剪除」以貼近動作的圖像"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "第二人稱單數直接對以色列說話"
+    }
+  ],
+  "translation": "當雅威——你的以羅欣——在你面前剪除 ⟨את⟩ 那些你進去得為業的國民，你得了他們的地，住在他們境內的時候，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "736f215c98bf7c1bc335c9393193470da507e1d3d7ba05e8b317e2cb7e8eff15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/12\/29-31.1792128820612.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "當"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "剪除"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那些國民"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "那些國民"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那些"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "בא",
+      "gloss": "進去"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "往那裡"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "得為業"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩他們",
+      "marks": "那些國民"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "在你面前"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "你就得了"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩他們",
+      "marks": "那些國民"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "你就住在"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "他們的地"
+    }
+  ],
+  "timestamp": "2026-10-16T05:33:40.613539342Z",
+  "model": "glm-5.3"
+}

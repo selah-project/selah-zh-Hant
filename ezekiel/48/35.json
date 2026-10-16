@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 48:35",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "一萬八千肘",
+      "rationale": "城牆四周總長；希伯來字母數值中「一萬八千」隱含 חי（十八，生命）之意"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמה／שם",
+      "rationale": "城的名（שם）與「在那裡」（שמה）音近相呼，末句成雙關：雅威沙瑪"
+    },
+    {
+      "kind": "crux",
+      "subject": "雅威在那裡",
+      "rationale": "異文與譯本之爭：「那裡是雅威」（JPS）vs「雅威在那裡」（和合本）；希伯來語序可容兩讀"
+    }
+  ],
+  "translation": "城的四周共一萬八千肘。從那日起，這城的名字必稱為：雅威在那裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "90d8a5ab686b4ebccf4e4aee6e2009569ab63df3282078f1429c916d0b3f2c4c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/48\/33-35.1792139347701.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "四周"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "八"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "名字"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "這城"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "從那日"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "在那裡"
+    }
+  ],
+  "timestamp": "2026-10-16T08:29:07.702617471Z",
+  "model": "glm-5.3"
+}

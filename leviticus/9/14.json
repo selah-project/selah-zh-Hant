@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "腿",
+      "rationale": "הכרעים為雙數形式，指膝至踝的兩腿"
+    },
+    {
+      "kind": "substitution",
+      "subject": "燒成香氣",
+      "rationale": "ויקטר字根意為「使冒煙、化為香氣」"
+    }
+  ],
+  "translation": "他洗了 ⟨את⟩ 內臟和 ⟨את⟩ 腿，在壇上把牠燒成香氣，歸於燔祭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7b13d6658cf2d0ad38f60c1b9dbc2c93acefc7320c87c214955c01dd35d33339",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/9\/13-16.1792126847460.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "洗了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "內臟"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "內臟"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "腿"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "腿"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "燒成香氣"
+    },
+    {
+      "surface": "על",
+      "gloss": "在…上"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "壇"
+    }
+  ],
+  "timestamp": "2026-10-16T05:00:47.461505313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הסיר\/ויטהו",
+      "rationale": "同一詞根 סור（轉離）貫穿上下文——大衛不「轉移」櫃到己城，反而「使它轉往」別處"
+    },
+    {
+      "kind": "addition",
+      "subject": "俄別以東",
+      "rationale": "עבד אדם 兩個希伯來詞元合為一人名，第二詞元不重複譯出"
+    }
+  ],
+  "translation": "大衛沒有把 ⟨את⟩ 櫃運到自己那裏、到大衛城，而是使它轉往俄別以東．迦特人的家。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "af5d31a21834212420a5cd6544984cbf1d518d486195f5b37fe4750c819ebc7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/13\/13-14.1792148747196.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "運離"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "櫃"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "櫃"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "到自己那裏"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "使它轉往"
+    },
+    {
+      "surface": "אל",
+      "gloss": "往"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "俄別以東"
+    },
+    {
+      "surface": "אדם",
+      "gloss": ""
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "迦特人"
+    }
+  ],
+  "timestamp": "2026-10-16T11:05:47.196619347Z",
+  "model": "glm-5.3"
+}

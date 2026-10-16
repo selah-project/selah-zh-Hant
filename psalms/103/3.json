@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "分詞無主詞，承接上節的雅威"
+    }
+  ],
+  "translation": "他赦免你的一切罪孽，醫治你的一切疾病。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/103\/1-4.1792144580919.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "赦免"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "你的一切"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "罪孽"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "醫治"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "你的一切"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "疾病"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:20.920223749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 6:9",
+  "book": "song-of-songs",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברה",
+      "rationale": "בַּר 可作「純潔的」（如 v10）或「揀選的／獨一的」（和合本：『是蒙揀選的』）；此處取『純潔』以與 6:10 同一詞形一致。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אחת היא",
+      "rationale": "『獨一的，她是』重複兩次，是本節的疊句結構；中文以語序倒裝保留其強調。"
+    },
+    {
+      "kind": "addition",
+      "subject": "而言",
+      "rationale": "中文需要『對……而言』表明希伯來介詞 ל 的歸屬關係。"
+    }
+  ],
+  "translation": "獨一的，她是——我的鴿子，我完全的那一位；獨一的，她對她母親而言，純潔的，她對生她的那位而言。眾女子看見了她，就稱她有福；眾王后和妃嬪也讚美她。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6f38d403ae09845fc89e09fc897603b7a6828239b85cf63706400c3330e480dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/6\/9-12.1792146583895.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "獨一的"
+    },
+    {
+      "surface": "היא",
+      "gloss": "她"
+    },
+    {
+      "surface": "יונתי",
+      "gloss": "我的鴿子"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "我完全的那一位"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "獨一的"
+    },
+    {
+      "surface": "היא",
+      "gloss": "她"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "對她母親"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "純潔的"
+    },
+    {
+      "surface": "היא",
+      "gloss": "她"
+    },
+    {
+      "surface": "ליולדתה",
+      "gloss": "對生她的那位"
+    },
+    {
+      "surface": "ראוה",
+      "gloss": "看見了她"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "眾女子"
+    },
+    {
+      "surface": "ויאשרוה",
+      "gloss": "就稱她有福"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "眾王后"
+    },
+    {
+      "surface": "ופילגשים",
+      "gloss": "和妃嬪"
+    },
+    {
+      "surface": "ויהללוה",
+      "gloss": "也讚美她"
+    }
+  ],
+  "timestamp": "2026-10-16T10:29:43.896515172Z",
+  "model": "glm-5.3"
+}

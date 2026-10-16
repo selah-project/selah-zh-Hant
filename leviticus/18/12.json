@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "骨肉之親",
+      "rationale": "שאר 直譯「肉」，指血親骨肉；各譯本作 near kinswoman"
+    },
+    {
+      "kind": "addition",
+      "subject": "因為……她是",
+      "rationale": "原文無連接詞與繫詞，中文補足判斷句"
+    }
+  ],
+  "translation": "你父親的姊妹的下體你不可露出，因為她是你父親的骨肉之親。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1024c7c36b88be9e668d61a1c67f471dcfdc591d7fed26ad0f667bdcf5c97d03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/18\/9-12.1792127017790.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "下體"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "姊妹"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你父親的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "露出"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "骨肉之親"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你父親的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "她是"
+    }
+  ],
+  "timestamp": "2026-10-16T05:03:37.792165847Z",
+  "model": "glm-5.3"
+}

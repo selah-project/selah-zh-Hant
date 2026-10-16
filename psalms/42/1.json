@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨所作⟩",
+      "rationale": "標題語法需要的字，希伯來文未明言"
+    },
+    {
+      "kind": "elision",
+      "subject": "למנצח",
+      "gloss": "音樂標記，譯作『指揮者』"
+    }
+  ],
+  "translation": "給指揮者，訓誨詩，可拉的子孫⟨所作⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/42\/1-4.1792143750473.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "給指揮者"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "訓誨詩"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "可拉的子孫⟨所作⟩"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "可拉"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:30.473911703Z",
+  "model": "glm-5.3"
+}

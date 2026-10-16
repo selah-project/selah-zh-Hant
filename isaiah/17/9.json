@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 17:9",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מעזו／עזבו",
+      "rationale": "「堅固」（מעזו）與「撇棄」（עזבו）音近相對：他們引以為堅固的，正是被撇棄的，中文無法保留此音韻。"
+    },
+    {
+      "kind": "crux",
+      "subject": "האמיר",
+      "rationale": "僅此處出現的詞：「山頂／樹頂枝條」或「高地」；KJV 作「最高的枝子」，JPS 作「高聳的森林」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "那城",
+      "rationale": "והיתה 主語單數陰性，中文需補出所指（那城／那地）。"
+    }
+  ],
+  "translation": "在那日，他的堅固城必如樹林中被撇棄之物和山頂的枝條，就是他們在以色列人面前所撇棄的；那城必成為荒涼。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "53bd39ee18239dcbb230b601ed0b7c7b6f74d41f8ade89c8b49155072f1d59bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/17\/9-12.1792134863131.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "在…的日子"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "那"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "必成為"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "城"
+    },
+    {
+      "surface": "מעזו",
+      "gloss": "他的堅固"
+    },
+    {
+      "surface": "כעזובת",
+      "gloss": "如…的撇棄之物"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "樹林"
+    },
+    {
+      "surface": "והאמיר",
+      "gloss": "和山頂的枝條"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "他們所撇棄的"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "因…的面"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "且必成為"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "荒涼"
+    }
+  ],
+  "timestamp": "2026-10-16T07:14:23.131953398Z",
+  "model": "glm-5.3"
+}

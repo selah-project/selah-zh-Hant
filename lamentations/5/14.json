@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבתו…מנגינתם",
+      "rationale": "同一動詞「止息」治理兩行——長老停於城門，少年停於音樂——平行結構，中文重複以存之"
+    },
+    {
+      "kind": "substitution",
+      "subject": "城門口",
+      "rationale": "שער是長老坐著斷案的城門口場所，不止是門"
+    }
+  ],
+  "translation": "長老們從城門口止息了，少年人從他們的樂聲止息了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "55feb2082ad0c94562169a2af9adf4acda3b8f8c108d8187d6960a2d18b52d84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/lamentations\/5\/13-16.1792146905210.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "長老們"
+    },
+    {
+      "surface": "משער",
+      "gloss": "從城門口"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "止息了"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "少年人"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "從他們的樂聲"
+    }
+  ],
+  "timestamp": "2026-10-16T10:35:05.211165411Z",
+  "model": "glm-5.3"
+}

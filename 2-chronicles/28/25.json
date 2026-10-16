@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 28:25",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "別神",
+      "rationale": "אלהים אחרים在異教語境，依紀律用「神明」而非以羅欣"
+    },
+    {
+      "kind": "addition",
+      "subject": "發怒",
+      "rationale": "ויכעס的受詞語意──惹怒──中文需補出「發怒」以成句"
+    }
+  ],
+  "translation": "他在猶大各城、每一座城造了邱壇，要向別神燒香，惹了 ⟨את⟩ 雅威──他列祖的以羅欣（神）發怒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b3711484b43a3f66c1b884d6d3d0ebd6b0b25be071d4ec820aa96a5c586ff06d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/28\/25-27.1792149543337.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "在……各"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "每一座城"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "屬猶大的"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造了"
+    },
+    {
+      "surface": "במות",
+      "gloss": "邱壇"
+    },
+    {
+      "surface": "לקטר",
+      "gloss": "要燒香"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "向……神明"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別的"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "惹了……發怒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "……的以羅欣"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "他列祖的"
+    }
+  ],
+  "timestamp": "2026-10-16T11:19:03.337931994Z",
+  "model": "glm-5.3"
+}

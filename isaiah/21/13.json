@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 21:13",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בערב／בערב",
+      "rationale": "「亞拉伯」與「傍晚」（創 8:11 的「晚上」）同音異義，兩次出現形成雙關，中文無法保留。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "בַּעְרָב",
+      "rationale": "「亞拉伯」作為國名在塔納赫中僅此一處以此形式出現。"
+    }
+  ],
+  "translation": "關乎亞拉伯的重擔：在亞拉伯的密林中你們必過夜，底但人的商隊啊。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7034096a3a50d196a17900691383f539e0c4b375babff40a04c993096788bec4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/21\/13-16.1792134852935.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "重擔"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "亞拉伯"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "密林中"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "亞拉伯的"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "你們必過夜"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "商隊"
+    },
+    {
+      "surface": "דדנים",
+      "gloss": "底但人的"
+    }
+  ],
+  "timestamp": "2026-10-16T07:14:12.936072182Z",
+  "model": "glm-5.3"
+}

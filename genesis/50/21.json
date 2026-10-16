@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "對他們的心說話",
+      "rationale": "על לבם 直譯「對他們的心」，和合本作「好話安慰」；此處保留身體意象"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טף",
+      "rationale": "טף 字面是「迅速行走的小步伐」，指隨行的小孩子；譯作孩童"
+    }
+  ],
+  "translation": "現在，不要害怕，我必供養你們和你們 ⟨את⟩ 的〈孩童〉。他就安慰他們，對他們的心說話。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6343e7145f69ba2644b17f9d786797df1c9e41780e6d7862b6e1abea30edbff8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/50\/21-24.1792125709956.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "現在"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "害怕"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "供養"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "你們"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "孩童"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "你們的孩童"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "他就安慰"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "他們"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "他就說話"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "他們的心"
+    }
+  ],
+  "timestamp": "2026-10-16T04:41:49.958064222Z",
+  "model": "glm-5.3"
+}

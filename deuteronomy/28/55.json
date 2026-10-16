@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "deuteronomy 28:55",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מתת 的否定",
+      "rationale": "和合本等譯「他不肯分給」，另有讀法依 28:57 將否定詞理解為懼怕；此處按希伯來文法以 54 節「眼變惡」延續吝嗇之義"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצור\/מצוק\/יציק",
+      "rationale": "與 53 節同根三連響再次出現，中文無法保留"
+    }
+  ],
+  "translation": "他不肯分給他們任何一點他兒子的肉——就是他自己要吃的——因為在圍困和窘迫之中，你的仇敵在你一切城門內困迫你，他已一無所剩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6a8f570ccf4f105af9ef5f71268a8659a6678ac49f797c601e71ed5bbd67ebe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/28\/53-56.1792129222761.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מתת",
+      "gloss": "不肯分給"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "任何一人"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "他們之中"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "…的肉"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "他兒子的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "他要吃的"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "因為沒有"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "留下"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給他"
+    },
+    {
+      "surface": "כל",
+      "gloss": "任何東西"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "在圍困中"
+    },
+    {
+      "surface": "ובמצוק",
+      "gloss": "和窘迫中"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "יציק",
+      "gloss": "困迫"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "你仇敵"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "在一切"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "你城門內"
+    }
+  ],
+  "timestamp": "2026-10-16T05:40:22.762452927Z",
+  "model": "glm-5.3"
+}

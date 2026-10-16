@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文需要"
+    },
+    {
+      "kind": "substitution",
+      "subject": "蔭庇",
+      "rationale": "צל字面是「蔭／影子」，保護之蔭而非黑暗之影"
+    }
+  ],
+  "translation": "雅威是保守你的，雅威是⟨你⟩右手邊的蔭庇。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f95f567b911d2f62c715c4d81895daa8baa9c04b89ec0e0baea6fcc293a459b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/121\/5-8.1792144913157.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "保守你的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "你的蔭庇"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……之上"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "你的右邊"
+    }
+  ],
+  "timestamp": "2026-10-16T10:01:53.158524269Z",
+  "model": "glm-5.3"
+}

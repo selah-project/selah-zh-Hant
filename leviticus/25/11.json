@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 25:11",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נזיריה",
+      "rationale": "נזר字面為「分別出來之物」——未修剪的葡萄（KJV undressed vines）與分別為聖之果（ylt separated things）之爭。"
+    },
+    {
+      "kind": "addition",
+      "subject": "〈一年〉",
+      "rationale": "中文需補名詞；希伯來文 שנה已隱於句構。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "第五十年",
+      "rationale": "禧年年限的重申。"
+    }
+  ],
+  "translation": "這禧年是第五十年，是你們的〈一年〉：你們不可撒種，也不可收割自生的，也不可修理〈採摘〉未修剪的葡萄樹。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9c3360af99f28ed494964a26737d076c89e5bc4552227a53ddbf154e20495d0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/25\/9-12.1792127269852.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יובל",
+      "gloss": "禧年"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "這是"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "……之年"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "第五十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "是"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "你們的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תזרעו",
+      "gloss": "撒種"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不可"
+    },
+    {
+      "surface": "תקצרו",
+      "gloss": "收割"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自生的"
+    },
+    {
+      "surface": "ספיחיה",
+      "gloss": "自生的"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不可"
+    },
+    {
+      "surface": "תבצרו",
+      "gloss": "採摘葡萄"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "未修剪之果"
+    },
+    {
+      "surface": "נזריה",
+      "gloss": "未修剪之果"
+    }
+  ],
+  "timestamp": "2026-10-16T05:07:49.854178420Z",
+  "model": "glm-5.3"
+}

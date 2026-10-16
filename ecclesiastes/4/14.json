@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הסורים",
+      "rationale": "字根是「被捆綁者」；諸本或譯「監牢」（KJV）或作「悖逆之家」（參何 9:15 同字根），此處採「被囚之家」。"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי גם",
+      "rationale": "第二子句的邏輯各家分歧：JPS 作讓步（「雖然」），另讀作因果或時間（「當他在位時」）。"
+    }
+  ],
+  "translation": "因為他從被囚之家出來登基作王，因為他雖在自己的國中、生來貧窮。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "045fec749268d343a4a42f5e81aeb0e65c2239db708c9d75bfc8cccc23b26d2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/4\/13-16.1792146945592.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "從……之家"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "被囚的"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出來"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "登基作王"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "גם",
+      "gloss": "雖"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "在自己的國中"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "生來"
+    },
+    {
+      "surface": "רש",
+      "gloss": "貧窮"
+    }
+  ],
+  "timestamp": "2026-10-16T10:35:45.593406843Z",
+  "model": "glm-5.3"
+}

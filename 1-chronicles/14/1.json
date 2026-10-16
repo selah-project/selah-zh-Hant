@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 14:1",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בית",
+      "rationale": "字面是「房屋」；此處指王的宮殿，非聖殿"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרשי קיר",
+      "rationale": "直譯「牆的匠人」，即砌牆的石匠"
+    },
+    {
+      "kind": "crux",
+      "subject": "חיראם\/希蘭",
+      "rationale": "歷代志作 חירם（未帶ו），撒母耳記作 חיראם；同一人"
+    }
+  ],
+  "translation": "推羅王希蘭差遣使者到大衛那裏，又差遣香柏木、石匠和木匠，要為他建造宮殿。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5a05b24d66802b8ea78d25fc4ed7186f6b3c885f9032bb61b508351b615b9246",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/14\/1-4.1792148801974.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差遣"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "希蘭"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "צר",
+      "gloss": "推羅"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "使者"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "又……木"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "香柏"
+    },
+    {
+      "surface": "וחרשי",
+      "gloss": "和……匠人"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "牆（石匠）"
+    },
+    {
+      "surface": "וחרשי",
+      "gloss": "和……匠人"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "木（木匠）"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "要建造"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為他"
+    },
+    {
+      "surface": "בית",
+      "gloss": "宮殿"
+    }
+  ],
+  "timestamp": "2026-10-16T11:06:41.974861161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מבט",
+      "rationale": "此詞兼有「目光／所仰望之物」兩義；諸譯本作 expectation 或 confidence，此處取「所仰望的」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תפארתם",
+      "rationale": "תפארה字面為「華美、飾物」，此處取其轉喻「所誇耀的」。"
+    }
+  ],
+  "translation": "他們必驚惶羞愧，因古實是他們所仰望的，因埃及是他們所誇耀的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "36cb4e4d39e0566383440ad6d994b155340167b150a18ee3bf1b3dfa1f65452d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/20\/5-6.1792134828770.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "必驚惶"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "羞愧"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "因古實"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "他們所仰望的"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "因"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "他們所誇耀的"
+    }
+  ],
+  "timestamp": "2026-10-16T07:13:48.770711808Z",
+  "model": "glm-5.3"
+}

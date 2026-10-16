@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 18:14",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "עשה為分詞，中文需補主語代詞"
+    },
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "原文作את משפט וצדקה帶受詞記號，此處以⟨את⟩標出；惟經文無此記號，故不標"
+    }
+  ],
+  "translation": "大衛作王治理全以色列，他向他的全體人民施行⟨את⟩公正與公義。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "80245ada4bb3aec48de7134b3e642bff17d9d4f60b32fc7a9037ac4ce0ad0f26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/18\/13-16.1792148840991.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "作王"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "על",
+      "gloss": "治理"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "他"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "施行"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公正"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "公義"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "向全體"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "人民"
+    }
+  ],
+  "timestamp": "2026-10-16T11:07:20.992218260Z",
+  "model": "glm-5.3"
+}

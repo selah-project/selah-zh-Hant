@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "向以羅欣",
+      "rationale": "全詩結尾從個人祈求轉為團體的呼求，直接向以羅欣發聲"
+    },
+    {
+      "kind": "substitution",
+      "subject": "困境",
+      "rationale": "צרה 字面為「狹窄」，指被困境壓縮之處"
+    }
+  ],
+  "translation": "以羅欣（神）啊，求你救贖 ⟨את⟩ 以色列，脫離他一切的困境。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d39c11fa390c92cffbb3e01a556c69c05dec81b3b2447a395fcd727d1d73ccf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/25\/21-22.1792143490489.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "求你救贖"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "脫離他一切的"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "困境"
+    }
+  ],
+  "timestamp": "2026-10-16T09:38:10.489862867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "judges 1:28",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "למס",
+      "rationale": "字面「使人口中的苦工／擔子」，指強制勞役或貢物；中文作「服勞役」"
+    },
+    {
+      "kind": "addition",
+      "subject": "他們",
+      "rationale": "希伯來文的受詞附於動詞詞尾（הורישו），中文需補出「他們」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הוריש／הורישו",
+      "rationale": "同詞根重複：「趕出……沒有趕出」，動詞自我否定，中文以重複「趕出」保留"
+    }
+  ],
+  "translation": "後來以色列強盛了，就使迦南人服勞役，卻沒有把他們全然趕出。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7b2804b92da97afeeff116791ab6cc0e7326b5c49a1af8fe63bb969c9907a670",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/1\/25-28.1792130068650.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "後來……了"
+    },
+    {
+      "surface": "כי",
+      "gloss": "當"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "強盛"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "使……服"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "迦南人"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "迦南人"
+    },
+    {
+      "surface": "למס",
+      "gloss": "勞役"
+    },
+    {
+      "surface": "והוריש",
+      "gloss": "趕出"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "全然趕出"
+    }
+  ],
+  "timestamp": "2026-10-16T05:54:28.651467350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 18:16",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "雅威",
+      "rationale": "詩人直接向雅威呼喊「雅威啊」，轉為第二人稱"
+    },
+    {
+      "kind": "idiom",
+      "subject": "רוח אפך",
+      "rationale": "「你鼻孔的氣息」是怒氣的希伯來意象，照字面保留"
+    }
+  ],
+  "translation": "那時水的深淵顯露，大地的根基現出，因你的斥責，雅威啊，因你鼻孔之氣的吹拂。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "608c6fed06f7833bbbefd115254c0e4e2e7d5951059d2364ce59478d255b4ba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/18\/13-16.1792143380237.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "顯露"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "水的深淵"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "ויגלו",
+      "gloss": "現出"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "根基"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "大地"
+    },
+    {
+      "surface": "מגערתך",
+      "gloss": "因你的斥責"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מנשמת",
+      "gloss": "之氣的吹拂"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "氣"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "你的鼻孔"
+    }
+  ],
+  "timestamp": "2026-10-16T09:36:20.238428353Z",
+  "model": "glm-5.3"
+}

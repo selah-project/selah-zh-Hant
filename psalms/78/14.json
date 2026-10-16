@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "中文所需的主語代詞，希伯來文由動詞詞形隱含"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "日\/夜對仗",
+      "rationale": "雲與火光、白日與黑夜構成平行對句"
+    }
+  ],
+  "translation": "白日他用雲引導他們，夜間他用火的光。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "72c6c5410ab05fc6c4f97fac561837ad9097507f1b394ff4793951fcaa5d00eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/78\/13-16.1792144245965.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "他引導他們"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "用雲"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "白日"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "夜間全程"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "夜間"
+    },
+    {
+      "surface": "באור",
+      "gloss": "用……的光"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    }
+  ],
+  "timestamp": "2026-10-16T09:50:45.965905373Z",
+  "model": "glm-5.3"
+}

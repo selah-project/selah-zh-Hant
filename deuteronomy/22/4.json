@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הקם תקים",
+      "rationale": "不定絕對疊語：「務要扶起——扶起」，與第1節的「務要帶回——帶回」平行。"
+    },
+    {
+      "kind": "crux",
+      "subject": "עמו",
+      "rationale": "「與他一起」的「他」指牲畜的主人（KJV：help him）或指牲畜（YLТ：raise them up with him）；和合本取「和主人一同」之意。"
+    },
+    {
+      "kind": "addition",
+      "subject": "牠的主人",
+      "rationale": "עמו 字面是「與他」，中文補明所指為牲畜的主人。"
+    }
+  ],
+  "translation": "你看見弟兄的驢或牛倒在路上，不可佯裝不見；務要和牠的主人一起把牠扶起來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5ac9a73a6cec47aec85e53dab9b9141d9ee06032c09bc004bad12048237c28e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/22\/1-4.1792129001143.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "驢"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "驢"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "你弟兄的"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "他的牛"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "倒"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "在路上"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "佯裝不見"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "避開牠們"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "務要扶起"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "扶起"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "和牠的主人一起"
+    }
+  ],
+  "timestamp": "2026-10-16T05:36:41.145098047Z",
+  "model": "glm-5.3"
+}

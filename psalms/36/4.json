@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "奸惡",
+      "rationale": "און 字義是「虛無、空妄」，兼指邪惡；取其道德義譯奸惡"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文名詞句無繫動詞，中文需「是」字"
+    }
+  ],
+  "translation": "他口中的言語是奸惡和詭詐，他已停止明辨，不再行善。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "56927c43cecf8b25b70b732c1a04dced4b8ded1889b4e181f9041d2f23ee6fd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/36\/1-4.1792143681803.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "言語"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "他口中的"
+    },
+    {
+      "surface": "און",
+      "gloss": "奸惡"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "和詭詐"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "已停止"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "明辨"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "行善"
+    }
+  ],
+  "timestamp": "2026-10-16T09:41:21.803961763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלם ישלם",
+      "rationale": "同根動詞疊用（「賠償他必賠償」），表絕對完整賠償，中文以「必全然賠償」捕捉。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ונאכל",
+      "rationale": "字面是「被吃掉」，希伯來文以火「吞吃」之物描述燒燬。"
+    }
+  ],
+  "translation": "「若火燒出來，燒著了荊棘，以致禾捆、或站立的莊稼、或田園被燒盡了，點火的人必全然賠償 ⟨את⟩ 燒燬之物。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0bf4f97fb15e47a8ec3938b11ffbccb02b4ca14c9c1fabdb7c30713c96a91bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/22\/5-8.1792126195009.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "燒出來"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "燒著了"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "荊棘"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "被燒盡了"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "禾捆"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "站立的莊稼"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田園"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "必全然"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "賠償"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "點火的人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "燒燬之物"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "燒燬之物"
+    }
+  ],
+  "timestamp": "2026-10-16T04:49:55.009943666Z",
+  "model": "glm-5.3"
+}

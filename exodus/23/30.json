@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מעט מעט",
+      "rationale": "「一點一點」疊字重複，強調漸進的過程"
+    },
+    {
+      "kind": "crux",
+      "subject": "תפרה",
+      "rationale": "字根 פרה「結果子／生養」，諸譯本或作「你增多」"
+    }
+  ],
+  "translation": "我要漸漸地、漸漸地把他們從你面前趕出，直到你生養眾多，可以承受 ⟨את⟩ 那地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "09f9bd38b14ac0e4b199910d9d05b3e251dc8cdfc0c1a381399627334c710efe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/23\/29-32.1792126192984.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "漸漸地"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "漸漸地"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "把他們趕出"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "從你面前"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨直到⟩"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "你生養眾多"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "你承受"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "那地"
+    }
+  ],
+  "timestamp": "2026-10-16T04:49:52.985046757Z",
+  "model": "glm-5.3"
+}

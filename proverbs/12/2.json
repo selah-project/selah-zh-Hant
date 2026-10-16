@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ירשיע",
+      "rationale": "主動語態「他（雅威）必定他為惡」抑或使役「他行事邪惡」，譯本分歧"
+    },
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "第二半句主語（雅威或那人）中文需補出"
+    }
+  ],
+  "translation": "善人必從雅威得恩惠；設計謀惡的，他必被定為惡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0638d996d48731068fb7026737d18735acaf4c13abd6173197b0aa539974cd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/12\/1-4.1792145379853.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "善"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "必得"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "恩惠"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "從雅威"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "而…的人"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "計謀"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "必被定為惡"
+    }
+  ],
+  "timestamp": "2026-10-16T10:09:39.853749031Z",
+  "model": "glm-5.3"
+}

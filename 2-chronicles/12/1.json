@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨離棄⟩",
+      "rationale": "עזב 的賓語僅在句首出現一次，以色列眾人與他同犯一事由中文補出動詞"
+    },
+    {
+      "kind": "substitution",
+      "subject": "妥拉",
+      "rationale": "תורה 譯作妥拉（訓誨），不用「律法」，避免後來的律法對立框架"
+    }
+  ],
+  "translation": "羅波安的國堅立、他自己強盛之後，他就離棄了 ⟨את⟩ 雅威的妥拉，以色列眾人也與他一同⟨離棄⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0335d5440a18d7dc4dcd9d32c47047f3fc45861eb7b5f25379bbf32a4c2c7da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/12\/1-4.1792149278511.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "之後"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "堅立"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "國"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "羅波安"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "他自己強盛"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "離棄了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的妥拉"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "妥拉"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威的"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "以色列眾人也"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "與他一同"
+    }
+  ],
+  "timestamp": "2026-10-16T11:14:38.511953557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש是呼吸的生命、活物，非不朽的「靈魂」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפש בנפש",
+      "rationale": "同詞重疊的對稱結構（x以x），五組排比，節奏感強"
+    },
+    {
+      "kind": "addition",
+      "subject": "償還",
+      "rationale": "首組「性命以性命償還」補一動詞以成句，其餘四組依原文省略式並列"
+    }
+  ],
+  "translation": "你的眼不可憐惜：性命以性命償還，眼以眼，牙以牙，手以手，腳以腳。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "edbabdf5da33fdfb17351659669753377b0ecdf07b7c498ce0af80c7dc64517b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/19\/21-21.1792128895313.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "憐惜"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "你的眼"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "以性命償還"
+    },
+    {
+      "surface": "עין",
+      "gloss": "眼"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "以眼"
+    },
+    {
+      "surface": "שן",
+      "gloss": "牙"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "以牙"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "以手"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "腳"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "以腳"
+    }
+  ],
+  "timestamp": "2026-10-16T05:34:55.313852512Z",
+  "model": "glm-5.3"
+}

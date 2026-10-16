@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 1:3",
+  "book": "esther",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חיל פרס ומדי",
+      "rationale": "חיל 可指軍隊、權貴或財力——JPS 作 army，KJV 作 power；本譯取「軍力」。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "第三年",
+      "rationale": "在位年分被確切記數。"
+    }
+  ],
+  "translation": "他作王第三年，為他眾臣僕和僕從設擺筵席，有波斯和瑪代的軍力、並貴族和各省首領在他面前。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8d74a11ea25af1db6bcf72b20acef22d1170627026705392d9fbad140ced0df0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/esther\/1\/1-4.1792147214357.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "在……年"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "三"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "他作王"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "設擺"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "筵席"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "為眾"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "他的臣僕"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "和他的僕從"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "軍力"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "波斯"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "和瑪代"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "貴族"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "和……的首領"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "各省"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "在他面前"
+    }
+  ],
+  "timestamp": "2026-10-16T10:40:14.358323482Z",
+  "model": "glm-5.3"
+}

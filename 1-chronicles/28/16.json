@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "陳設餅",
+      "rationale": "המערכת 直譯「排列之物」，指陳設在桌上的餅堆；「陳設餅」是通行的具體化譯法。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "重量",
+      "rationale": "桌子按重量配金銀，屬度量清單。"
+    }
+  ],
+  "translation": "又按重量給 ⟨את⟩ 陳設餅桌的金子，一桌一桌；以及銀子為銀桌。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9618b62f233265ffe12f4dec4698e2faefc1363636d9a5cccf09305250c7ebeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/28\/13-16.1792149043339.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "金子"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金子"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "重量"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "為…桌子"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "陳設餅的"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "一桌"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "一桌"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "以及銀子"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "為…桌子"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀的"
+    }
+  ],
+  "timestamp": "2026-10-16T11:10:43.340563582Z",
+  "model": "glm-5.3"
+}

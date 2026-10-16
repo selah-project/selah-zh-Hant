@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the man",
+      "rationale": "約瑟回答那人，並直接向他發問"
+    },
+    {
+      "kind": "addition",
+      "subject": "求你",
+      "rationale": "נא 是希伯來文柔化命令的助詞，中文以「求你」對應"
+    }
+  ],
+  "translation": "他說：「我找 ⟨את⟩ 我的哥哥們。求你告訴我，他們在哪裡放羊。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "406fbb212c15fff66266e76e2246bb5c8b3e0968b21638c550452e4834fb6363",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/37\/13-16.1792125342009.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的哥哥們"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "我的哥哥們"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "找"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "告訴"
+    },
+    {
+      "surface": "נא",
+      "gloss": "求你"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "在哪裡"
+    },
+    {
+      "surface": "הם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "放羊"
+    }
+  ],
+  "timestamp": "2026-10-16T04:35:42.010877255Z",
+  "model": "glm-5.3"
+}

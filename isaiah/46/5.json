@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תדמיוני\/ונדמה",
+      "rationale": "同一詞根 דמה 首尾呼應（誰比你們使我相似…我們相似），中文無法保留環形結構"
+    },
+    {
+      "kind": "you",
+      "subject": "對拜偶像的以色列",
+      "rationale": "一連串質問直接指向聽者"
+    },
+    {
+      "kind": "invitation",
+      "subject": "一連串反問",
+      "rationale": "以質問喚起聽者思想，無人能與雅威相比"
+    }
+  ],
+  "translation": "你們把我比作誰？使我與誰同等？用甚麼比擬我，說我們相似呢？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f63118e8af6f796429a26da125c4abd1e3690d88d43cc14b87e4d806dbf18030",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/46\/5-8.1792135584658.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "比作誰"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "你們把我比作"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "使我與誰同等"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "用比喻比擬我"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "使我們相似"
+    }
+  ],
+  "timestamp": "2026-10-16T07:26:24.658925644Z",
+  "model": "glm-5.3"
+}

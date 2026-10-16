@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 64:10",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "殿",
+      "rationale": "בית 直譯「房屋」；此處指聖殿，取殿"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשרפת…לחרבה",
+      "rationale": "「成為火焚」與「成為荒廢」平行結構，היה ל＋名詞的同一句式重複"
+    }
+  ],
+  "translation": "我們聖潔華美的殿，就是我們列祖⟨在其中⟩讚美你的，已成了火焚之地；我們所喜愛的一切都成了荒廢。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bc774ce81b29543c300c47e3d7ec7c3b2a3c0fa31742a26f175a7dc3efaeb8fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/64\/9-11.1792135991930.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "קדשנו",
+      "gloss": "我們聖潔的"
+    },
+    {
+      "surface": "ותפארתנו",
+      "gloss": "華美的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "הללוך",
+      "gloss": "讚美你"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "我們列祖"
+    },
+    {
+      "surface": "היה",
+      "gloss": "已成了"
+    },
+    {
+      "surface": "לשרפת",
+      "gloss": "火焚之地"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "מחמדינו",
+      "gloss": "我們所喜愛的"
+    },
+    {
+      "surface": "היה",
+      "gloss": "成了"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "荒廢"
+    }
+  ],
+  "timestamp": "2026-10-16T07:33:11.931532515Z",
+  "model": "glm-5.3"
+}

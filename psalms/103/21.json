@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "呼召",
+      "rationale": "命令式「你們要稱頌」向雅威的軍隊與僕役發出敬拜的召喚"
+    },
+    {
+      "kind": "substitution",
+      "subject": "軍隊",
+      "rationale": "צבאיו 字面是「他的萬軍」；「萬軍之雅威」的צבאות同源"
+    },
+    {
+      "kind": "alternative",
+      "subject": "他的軍隊",
+      "rationale": "צבאיו 亦可譯「他的萬軍」，與賽 6:3 的撒拉弗呼喊相呼應"
+    }
+  ],
+  "translation": "你們要稱頌雅威，他的一切軍隊啊，他的眾僕役啊，那行他所喜悅之事的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d6cd3bcbfd8277dd61cc4f14b7fdfeaf34c7c0d62141f66f7ad5a10028332049",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/103\/21-22.1792144552563.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "你們要稱頌"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "他的軍隊"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "他的眾僕役"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "行……的"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "他所喜悅之事"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:52.564403584Z",
+  "model": "glm-5.3"
+}

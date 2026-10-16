@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ידי לילה נגרה",
+      "rationale": "欽定本讀作「我的傷在夜間流溢」（改標音為מזרה），和合本等讀作「我的手在夜間伸出」——本譯隨後者"
+    },
+    {
+      "kind": "substitution",
+      "subject": "我的性命",
+      "rationale": "נפש是氣息、生命整體，不是二分的「靈魂」"
+    },
+    {
+      "kind": "crux",
+      "subject": "阿多奈",
+      "rationale": "אדני此處為經文本身的用字，依紀律譯作阿多奈，不以「主」替代"
+    }
+  ],
+  "translation": "在我遭難的日子，我尋求阿多奈；夜間我的手伸出，總不鬆懈；我的性命拒絕受安慰。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ac36b624f484cbc0cfdb97169212bf6862166553e03ee1f37780cad82100b747",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/77\/1-4.1792144284268.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "在……的日子"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "我遭難"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "我尋求"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜間"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "伸出（如水流瀉）"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "總不"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "鬆懈"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "拒絕"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "受安慰"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    }
+  ],
+  "timestamp": "2026-10-16T09:51:24.269661767Z",
+  "model": "glm-5.3"
+}

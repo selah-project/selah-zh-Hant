@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להרע",
+      "rationale": "「發誓要行損害（自己的）事」——和合本作『發誓雖然自己吃虧也不更改』；另有讀法作『發誓害人（而害到自己）』"
+    },
+    {
+      "kind": "substitution",
+      "subject": "損己",
+      "rationale": "להרע不定式「去行惡／受損」，中文壓縮為一詞"
+    }
+  ],
+  "translation": "被藐視的人在他眼中是被棄絕的；他尊崇 ⟨את⟩ 敬畏雅威的人；他起誓損己也不更改。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7bd07a927db12a3c9f3ba9985d72ca75203c33e4e56e90f4e39c2c8eb5ed67a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/15\/1-4.1792143334522.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "被藐視的人"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "在他眼中"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "被棄絕"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "敬畏雅威的人"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "尊崇"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "起誓"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "損己"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "更改"
+    }
+  ],
+  "timestamp": "2026-10-16T09:35:34.523451136Z",
+  "model": "glm-5.3"
+}

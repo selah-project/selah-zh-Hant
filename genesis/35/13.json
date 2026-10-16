@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "就是",
+      "rationale": "中文同位語需要連接詞，希伯來文僅並列名詞短語"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויעל מעליו",
+      "rationale": "「升離」與「從他之上」同字根 על 重複，中文無法保留"
+    }
+  ],
+  "translation": "以羅欣就在那裡升離了他，就是在祂與他說話的那地方。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "12621bee20c0f198d5670f1fb24ec6f5514dfef2edb7ff482140f6e955f2ac34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/35\/13-16.1792125316226.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "升離"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "從他之上"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "在那地方"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "說話"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "他"
+    }
+  ],
+  "timestamp": "2026-10-16T04:35:16.227242836Z",
+  "model": "glm-5.3"
+}

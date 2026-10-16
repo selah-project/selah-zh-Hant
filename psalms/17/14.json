@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 17:14",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ממתים ידך",
+      "rationale": "「世人——你的手」語序破碎：傳統讀作「用手救我脫離世人」；亦可讀「世人就是你的手」（惡人為雅威的刑具，參13節）。"
+    },
+    {
+      "kind": "crux",
+      "subject": "וצפינך",
+      "rationale": "「你隱藏之物」：或指雅威珍藏賜給世人的富足（傳統讀法），或讀作「你所珍藏的人」（BSB，指義人得飽足）。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "今生",
+      "rationale": "חלד本義是短暫飛逝的時光，引指轉瞬即逝的世界。"
+    }
+  ],
+  "translation": "雅威啊，求你用手救我脫離世人，脫離那些只在今生有分的世人；你以你隱藏的珍寶充滿他們的肚腹，他們因兒女飽足，還把剩餘的留給他們的幼兒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "16a4bad9a59e51584fd3aecb9b76a34c45d370cd0cc2e263983226aafc0d1ea0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/17\/13-15.1792143315575.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממתים",
+      "gloss": "脫離世人"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "用手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威啊"
+    },
+    {
+      "surface": "ממתים",
+      "gloss": "脫離世人"
+    },
+    {
+      "surface": "מחלד",
+      "gloss": "只在今生"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "有分的"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "在生命之中"
+    },
+    {
+      "surface": "וצפינך",
+      "gloss": "你隱藏的珍寶"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "充滿"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "他們的肚腹"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "飽足"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "因兒女"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "還把……留給"
+    },
+    {
+      "surface": "יתרם",
+      "gloss": "剩餘的"
+    },
+    {
+      "surface": "לעולליהם",
+      "gloss": "他們的幼兒"
+    }
+  ],
+  "timestamp": "2026-10-16T09:35:15.576609726Z",
+  "model": "glm-5.3"
+}

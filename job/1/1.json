@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 1:1",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "完全",
+      "rationale": "תם 本義是「完整、純全」，非「無罪完美」"
+    },
+    {
+      "kind": "addition",
+      "subject": "有一個",
+      "rationale": "中文句構所需的引導詞，希伯來文無冠詞系統"
+    }
+  ],
+  "translation": "有一個人在烏斯地，名叫約伯；那人完全、正直、敬畏以羅欣（神）、遠離惡事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3e5e494b7a43b63a7ba85f41cd9c4e3d2f83d2e5050621762ad6282d42899d7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/1\/1-4.1792145815798.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "有一個人"
+    },
+    {
+      "surface": "היה",
+      "gloss": "（曾）在"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在……地"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "烏斯"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "約伯"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "他的名叫"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "而那人是"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "那人"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "那個"
+    },
+    {
+      "surface": "תם",
+      "gloss": "完全"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "正直"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣（神）"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "遠離"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "惡事"
+    }
+  ],
+  "timestamp": "2026-10-16T10:16:55.799011385Z",
+  "model": "glm-5.3"
+}

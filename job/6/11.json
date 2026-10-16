@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 6:11",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "生命氣息",
+      "rationale": "נפש是氣息、生命力的整體，不是 disembodied 的「靈魂」。"
+    },
+    {
+      "kind": "you",
+      "subject": "對自己",
+      "rationale": "約伯的自問修辭問句，兩個平行結構（力氣／結局）。"
+    }
+  ],
+  "translation": "我的力氣是什麼，使我仍等候？我的結局是什麼，使我仍延長我的生命氣息？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "671760bb976709a9f9abe80a24b05c2ca760148014d1ec445f7cbefb10f33f06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/6\/9-12.1792145890632.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "什麼"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "我的力氣"
+    },
+    {
+      "surface": "כי",
+      "gloss": "使"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "仍等候"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "而什麼"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "我的結局"
+    },
+    {
+      "surface": "כי",
+      "gloss": "使"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "仍延長"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的生命氣息"
+    }
+  ],
+  "timestamp": "2026-10-16T10:18:10.633910587Z",
+  "model": "glm-5.3"
+}

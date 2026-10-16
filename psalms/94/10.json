@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "豈不知曉嗎",
+      "rationale": "希伯來文第二問句省略謂語，僅列「那教導人知識的」，中文補出問句以達意"
+    },
+    {
+      "kind": "crux",
+      "subject": "第二問句結構",
+      "rationale": "古譯本或補「他豈不知」，或如 YLT 讀作直述「教導人知識的是雅威」；此處從多數譯本的問句讀法"
+    },
+    {
+      "kind": "you",
+      "subject": "向愚頑人",
+      "rationale": "延續修辭問句，直接質問受責備者"
+    }
+  ],
+  "translation": "那管教列國的，難道不施行責備嗎？那教導人知識的⟨豈不知曉嗎⟩？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e44314235dd6f7e33bfd17834b872df97f0fc478f6b1ca676f0faca882961b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/94\/9-12.1792144493072.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "那管教……的"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "難道不"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "施行責備嗎"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "那教導……的"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識"
+    }
+  ],
+  "timestamp": "2026-10-16T09:54:53.072796107Z",
+  "model": "glm-5.3"
+}

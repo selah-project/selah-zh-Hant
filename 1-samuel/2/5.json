@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 2:5",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חדלו",
+      "rationale": "譯作「止息了」；各本或補「不再飢餓」（ASV）或作「不再受僱」（日內瓦），希伯來文只說「停止」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "七個",
+      "rationale": "שבעה 是完全的象徵數，非實數；直譯「七」保留其數值"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "交錯顛倒",
+      "rationale": "本節四組對倒（飽足↔飢餓、不育↔多子），與全首哈拿之歌的顛倒主題呼應"
+    }
+  ],
+  "translation": "飽足的人為了餅受僱，飢餓的人卻止息了；不育的婦人生了七個，多子的婦人反倒衰弱。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "478812ae2dbb90111df4402fc355260b9f7d9d69d7974d95b7226c55165bb134",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/2\/5-8.1792130698635.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבעים",
+      "gloss": "飽足的人"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "為了餅"
+    },
+    {
+      "surface": "נשכרו",
+      "gloss": "受僱"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "飢餓的人"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "止息了"
+    },
+    {
+      "surface": "עד",
+      "gloss": "至於"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "不育的婦人"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "生了"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "七個"
+    },
+    {
+      "surface": "ורבת",
+      "gloss": "多子的"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "反倒衰弱"
+    }
+  ],
+  "timestamp": "2026-10-16T06:04:58.635929541Z",
+  "model": "glm-5.3"
+}

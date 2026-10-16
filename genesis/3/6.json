@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 3:6",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨她那⟩",
+      "rationale": "中文需要指明丈夫的身分，希伯來文只有 לאישׁהּ（她的男人／丈夫）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "喫",
+      "rationale": "臺灣用法以「喫」為正體通行寫法，與「吃」同義，此處統一用「喫」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "三重的「好／渴望／喜愛」",
+      "rationale": "טוב、תאוה、נחמד 三個形容並列，呼應第5節的「知道善惡」，構成誘惑的節奏"
+    }
+  ],
+  "translation": "於是女人見那棵樹好作食物，也悅人的眼目，那樹令人喜愛、使人有智慧，就摘下牠的果子來喫了，又給了⟨她那⟩與她一起的丈夫，他也喫了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "568b6b304f4558abd639e79d93f2b96c63d82758632ac3ff76e234305718108d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/3\/5-8.1792124546368.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "於是……見"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "女人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "（引出）"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "那棵樹"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "作食物"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "也"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "令人渴望"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "牠"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "悅人的眼目"
+    },
+    {
+      "surface": "ונחמד",
+      "gloss": "令人喜愛"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "那樹"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "使人有智慧"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "就摘下"
+    },
+    {
+      "surface": "מפריו",
+      "gloss": "牠的果子"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "來喫了"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "又給了"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "לאישה",
+      "gloss": "她的丈夫"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "與她一起"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "他也喫了"
+    }
+  ],
+  "timestamp": "2026-10-16T04:22:26.369680366Z",
+  "model": "glm-5.3"
+}

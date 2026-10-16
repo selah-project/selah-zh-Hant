@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 16:30",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "希伯來文分詞短語無主語代詞，中文需補"
+    },
+    {
+      "kind": "substitution",
+      "subject": "咬緊嘴唇",
+      "rationale": "קרץ 本義是「捏、夾」，指咬合嘴唇的惡意表情"
+    },
+    {
+      "kind": "substitution",
+      "subject": "成就惡事",
+      "rationale": "כלה 本義是「完成、終結」，此處指使惡事得成"
+    }
+  ],
+  "translation": "他緊閉雙眼，圖謀悖逆之事；他咬緊嘴唇，成就惡事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b8d5488630d9718e13a4c86dab67c1fab2abc533b365a14780e881385f43e6c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/16\/29-32.1792145491528.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצה",
+      "gloss": "緊閉"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "他的雙眼"
+    },
+    {
+      "surface": "לחשב",
+      "gloss": "圖謀"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "悖逆之事"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "咬緊"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "他的嘴唇"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "成就"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "惡事"
+    }
+  ],
+  "timestamp": "2026-10-16T10:11:31.529686706Z",
+  "model": "glm-5.3"
+}

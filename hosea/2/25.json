@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "羅·魯哈瑪／羅·阿米",
+      "rationale": "לא רחמה 與 לא עמי 是何西阿兒女的名字（何 1:6、1:9），此處保留名字形式並附括註"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרע／זרעה",
+      "rationale": "「栽種」呼應耶斯列（יִזְרְעֶאל，神栽種）之名，2:25（2:24）連續的栽種意象"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文按需要補上"
+    }
+  ],
+  "translation": "我必將她栽種給我自己在地上，我必憐恤 ⟨את⟩ 羅·魯哈瑪（未被憐恤的），我必對羅·阿米（非我民）說：你是我的民；他必說：你是我的以羅欣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6fec8fedddb02aaf41659331e6ab37dadc165c57a0d9da86dba00d845b119ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/2\/25-25.1792139306194.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "我必將她栽種"
+    },
+    {
+      "surface": "לי",
+      "gloss": "給我自己"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在地上"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "我必憐恤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "羅·魯哈瑪（未被憐恤的）"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "被憐恤的（羅·魯哈瑪）"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "我必說"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "對不"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我民（羅·阿米）"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的民"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "而他"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "必說"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    }
+  ],
+  "timestamp": "2026-10-16T08:28:26.195153808Z",
+  "model": "glm-5.3"
+}

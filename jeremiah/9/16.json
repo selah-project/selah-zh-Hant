@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 9:16",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "婦女",
+      "rationale": "למקוננות與החכמות皆為陰性複數分詞指人，中文需補『婦女』以明其指人"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ותבואינה\/ותבואנה",
+      "rationale": "『使她們來』兩次重複，哀歌召喚的迴環節奏，中文保留重複"
+    },
+    {
+      "kind": "invitation",
+      "subject": "你們",
+      "rationale": "一連串命令式——思想、召來、打發去請——直接向聽眾發出"
+    },
+    {
+      "kind": "you",
+      "subject": "百姓",
+      "rationale": "命令的收信人是猶大眾民，命他們預備舉哀"
+    }
+  ],
+  "translation": "萬軍之雅威如此說：你們要思想，要召善哭的婦女前來，使她們來；又要打發人去請聰明的婦女，使她們前來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "14884529c301db6840f6316534d8e3a5034407427f479a3d35a33695aa5d8f81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/9\/13-16.1792136396958.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "如此"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "萬軍之"
+    },
+    {
+      "surface": "התבוננו",
+      "gloss": "你們要思想"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "要召"
+    },
+    {
+      "surface": "למקוננות",
+      "gloss": "善哭的婦女"
+    },
+    {
+      "surface": "ותבואינה",
+      "gloss": "使她們來"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "又向"
+    },
+    {
+      "surface": "החכמות",
+      "gloss": "聰明的婦女"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "你們要打發去請"
+    },
+    {
+      "surface": "ותבואנה",
+      "gloss": "使她們前來"
+    }
+  ],
+  "timestamp": "2026-10-16T07:39:56.959229298Z",
+  "model": "glm-5.3"
+}

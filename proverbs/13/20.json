@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וחכם／ירוע",
+      "rationale": "חכם與רעע相對：與智者同行變智，與愚人相伴變損——音近義反，中文難存"
+    },
+    {
+      "kind": "substitution",
+      "subject": "與愚昧人為伴",
+      "rationale": "ורעה 字面是「牧放」：牧養愚昧人的，必被傷害；「為伴」失了牧放的圖畫"
+    }
+  ],
+  "translation": "與智慧人同行的⟨את⟩必成為智慧，與愚昧人為伴的必遭損害。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9f12e9deddf112db526c31462abd0a43af59dbbe6b903eddf374fc951026c0e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/13\/17-20.1792145403181.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "與……同行"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "智慧人"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "智慧人"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "必成為智慧"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "與……為伴"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "愚昧人"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "必遭損害"
+    }
+  ],
+  "timestamp": "2026-10-16T10:10:03.182503875Z",
+  "model": "glm-5.3"
+}

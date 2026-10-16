@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 18:18",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשה אל אחתה",
+      "rationale": "可讀作『娶一婦人與她的姊妹』（姊妹為妻之姊妹）或依撒母耳記上 18 章慣用語『一婦人加上另一婦人』，KJV\/JPS 取前者，YLT 取後者；本譯取前者"
+    },
+    {
+      "kind": "crux",
+      "subject": "לצרר",
+      "rationale": "צרר 字面是『束緊、擠壓』，引申為『作對頭／使苦惱』，如哈拿與毘尼拿的關係（撒上 1:6）"
+    },
+    {
+      "kind": "idiom",
+      "subject": "露下體",
+      "rationale": "גלה ערוה 委婉語，指性關係"
+    }
+  ],
+  "translation": "婦人連她的姊妹，你也不可娶，以免作她的對頭，在她還活著的時候露她的下體。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6a05889e1099dd6b5e49bc51fd66988a953cdf55fb93ed9cf36eb849d22b92d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/18\/17-20.1792127040629.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "婦人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "連"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "她的姊妹"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "你不可娶"
+    },
+    {
+      "surface": "לצרר",
+      "gloss": "作對頭"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "露"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "她的下體"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "在她之上"
+    },
+    {
+      "surface": "בחייה",
+      "gloss": "在她還活著的時候"
+    }
+  ],
+  "timestamp": "2026-10-16T05:04:00.631346320Z",
+  "model": "glm-5.3"
+}

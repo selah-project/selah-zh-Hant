@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 直譯為呼吸的生命體，近於『氣息／性命』，不譯「靈魂」"
+    },
+    {
+      "kind": "you",
+      "subject": "對雅威",
+      "rationale": "詩人直接向雅威呼救的直接引語"
+    }
+  ],
+  "translation": "我就以雅威的名呼求：哦，如今求你，雅威啊，求你拯救我的性命。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5897e4c1e51bf2c50d80e75a595ba47d56c93cfae3d2e2a5233a0143986693db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/116\/1-4.1792144761941.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "以…的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "我呼求"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "哦，如今求你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "求你拯救"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    }
+  ],
+  "timestamp": "2026-10-16T09:59:21.942878330Z",
+  "model": "glm-5.3"
+}

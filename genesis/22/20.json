@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 22:20",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "有人",
+      "rationale": "希伯來文未指明傳話者，中文被動式需要一個施事。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "家譜引入",
+      "rationale": "本節開始拿鶴後代的名單（22:20–24），為利百加出場預備。"
+    }
+  ],
+  "translation": "這些事以後，有人告訴亞伯拉罕說：「看哪，密迦也為你弟弟拿鶴生了兒子。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bf0f61fb73dd978dfa2e28bf0e4f617e3e070e8525920a0b6fcce1d55bd70607",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/22\/17-20.1792124915060.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "……以後"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "在……之後"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "這些事"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "有人告訴"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "生了"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "密迦"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "她"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "為拿鶴"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "你弟弟"
+    }
+  ],
+  "timestamp": "2026-10-16T04:28:35.063462603Z",
+  "model": "glm-5.3"
+}

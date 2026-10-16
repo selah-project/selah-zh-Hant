@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 17:10",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文省略繫詞，中文補「是」"
+    },
+    {
+      "kind": "crux",
+      "subject": "גבולו",
+      "rationale": "「它的邊界」的「它」指誰：多數譯本視為瑪拿西，然上下文或指兩支派共用海岸線"
+    },
+    {
+      "kind": "measurement",
+      "subject": "territory directions",
+      "rationale": "疆界方位描述：南、北、海界、北接、東接"
+    }
+  ],
+  "translation": "南邊歸以法蓮，北邊歸瑪拿西，大海〈是〉它的邊界；他們在北邊與亞設地相接，在東邊與以薩迦地相接。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c5985b1a5d00ea9376a6ee0be1523ab07c78ec899613575ddb1deab07c87482d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/17\/9-12.1792129836851.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נגבה",
+      "gloss": "南邊"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "歸以法蓮"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "而北邊"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "歸瑪拿西"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "而……是"
+    },
+    {
+      "surface": "הים",
+      "gloss": "大海"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "它的邊界"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "而與亞設"
+    },
+    {
+      "surface": "יפגעון",
+      "gloss": "相接"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "在北邊"
+    },
+    {
+      "surface": "וביששכר",
+      "gloss": "而與以薩迦"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "在東邊"
+    }
+  ],
+  "timestamp": "2026-10-16T05:50:36.852747028Z",
+  "model": "glm-5.3"
+}

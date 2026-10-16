@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 24:20",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נוע תנוע",
+      "rationale": "不定詞絕對式疊用，同根動詞連續，搖晃之聲本身在重複。"
+    },
+    {
+      "kind": "crux",
+      "subject": "כמלונה",
+      "rationale": "可作「帳棚／草棚」或「吊床」（ASV 'hammock'），搖晃的意象兩者皆通。"
+    }
+  ],
+  "translation": "地必搖晃，大大搖晃，好像醉酒的人；又搖來搖去，好像帳棚；它的悖逆重壓在它上面，它就倒塌，不能再起來了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "02ac9cb9b7255fc3aeafc4bedfb0a513ed5d7fef824382e6112819c26fcd98f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/24\/17-20.1792135017182.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נוע",
+      "gloss": "搖晃"
+    },
+    {
+      "surface": "תנוע",
+      "gloss": "大大搖晃"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "好像醉酒的人"
+    },
+    {
+      "surface": "והתנודדה",
+      "gloss": "又搖來搖去"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "好像帳棚"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "重壓"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "在它上面"
+    },
+    {
+      "surface": "פשעה",
+      "gloss": "它的悖逆"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "它就倒塌"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "而不"
+    },
+    {
+      "surface": "תסיף",
+      "gloss": "再"
+    },
+    {
+      "surface": "קום",
+      "gloss": "起來"
+    }
+  ],
+  "timestamp": "2026-10-16T07:16:57.183121201Z",
+  "model": "glm-5.3"
+}

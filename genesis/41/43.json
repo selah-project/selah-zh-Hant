@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "genesis 41:43",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אברך",
+      "rationale": "אַבְרֵךְ 僅見於此處，意義不明；和合本作「跪下」，JPS 保留音譯，也可能是埃及語官銜"
+    },
+    {
+      "kind": "crux",
+      "subject": "המשנה",
+      "rationale": "「第二輛戰車」（次位、僅次於法老）與「他的副車」兩讀；מִשְׁנֶה 字根為「重複、加倍」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "治理",
+      "rationale": "וְנָתוֹן 為不定式「賜、立」，中文以「立他治理」整合"
+    }
+  ],
+  "translation": "又使他坐上 ⟨אתו⟩ 自己的第二輛戰車；人在他面前呼喊：「阿布瑞克」；這樣，法老立他治理全埃及地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7f2d25a22a4a16c096db20bb15aa8f88dca21e5e26073dc87360a18dc3844d3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/41\/41-44.1792125476361.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "使……坐上"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "他"
+    },
+    {
+      "surface": "במרכבת",
+      "gloss": "戰車"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "第二（副）"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "לו",
+      "gloss": "屬他的"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "他們呼喊"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "在他面前"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "阿布瑞克"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": ""
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "⟨את⟩ 立"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "他"
+    },
+    {
+      "surface": "על",
+      "gloss": "治理"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    }
+  ],
+  "timestamp": "2026-10-16T04:37:56.362459088Z",
+  "model": "glm-5.3"
+}

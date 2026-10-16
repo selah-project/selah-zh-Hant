@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 18:4",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש是氣息／生命之力，非不朽的靈魂"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨自己的⟩",
+      "rationale": "希伯來文後綴代名詞「他的性命」，中文以第二人稱語境補出"
+    },
+    {
+      "kind": "crux",
+      "subject": "טרף נפשו",
+      "rationale": "字面「他撕裂他的性命」：KJV\/ASV作「撕裂自己」，或譯「因怒氣耗盡自己」"
+    }
+  ],
+  "translation": "你在怒氣中撕裂⟨自己的⟩性命；難道為你的緣故地要被離棄，磐石要從原處挪移嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "db8e85e6a43743958d010dc4adfe357c206712898dfcd8c5c9e93238a2000701",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/18\/1-4.1792146123715.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "撕裂"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "性命"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "在怒氣中"
+    },
+    {
+      "surface": "הלמענך",
+      "gloss": "難道為你的緣故"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "要被離棄"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ויעתק",
+      "gloss": "要挪移"
+    },
+    {
+      "surface": "צור",
+      "gloss": "磐石"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "從原處"
+    }
+  ],
+  "timestamp": "2026-10-16T10:22:03.716978353Z",
+  "model": "glm-5.3"
+}

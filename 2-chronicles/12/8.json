@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 12:8",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "示撒",
+      "rationalale": "希伯來文只用代詞「לו」（他），示撒是從上文補出的受詞。",
+      "rationale": "希伯來文只用代詞לו（他），「示撒」由上文語境補出。"
+    },
+    {
+      "kind": "crux",
+      "subject": "עבודתי ועבודת ממלכות",
+      "rationale": "「知道我的服事與列國的服事」歷來二讀：知道兩者的分別（BSV「learn the difference」）／知道兩者為何（經歷對比）；希伯來文僅並列兩詞。"
+    }
+  ],
+  "translation": "然而他們必作示撒的僕人，好叫他們知道事奉我與事奉地上列國的差別。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7737da1ed1038ad80d1eaad8df4d1e89ca0acd5d95fa6e1ea61ef3ada5d4a892",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/12\/5-8.1792149258427.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "然而"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "必作"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他的"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "僕人"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "好叫他們知道"
+    },
+    {
+      "surface": "עבודתי",
+      "gloss": "事奉我"
+    },
+    {
+      "surface": "ועבודת",
+      "gloss": "與事奉"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "列國"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "地上的"
+    }
+  ],
+  "timestamp": "2026-10-16T11:14:18.428575599Z",
+  "model": "glm-5.3"
+}

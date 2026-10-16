@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 32:5",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שחת לו לא בניו מומם",
+      "rationale": "歷代譯本各異：『不是他的兒女』（KJV）對『他們的瑕疵不是他兒女的』（JPS）對『敗壞歸自己，不歸他』；此處採『瑕疵屬他們、不屬他兒女身份』之意。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עקש ופתלתל",
+      "rationale": "兩個罕見的扭曲字形疊用，聲音迂曲如義，中文以『乖僻又扭曲』保留並列。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "פתלתל",
+      "rationale": "此詞形在塔納赫中僅見於此。"
+    }
+  ],
+  "translation": "他們敗壞⟨了⟩自己；他的兒女本不該如此，這是他們的瑕疵：一個乖僻又扭曲的世代。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "01e6404bb23e7f38f11084473686e15dfc1ce45994dce4abc0e18121c9a1abce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/32\/5-8.1792129325251.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שִׁחֵ֥ת",
+      "gloss": "敗壞"
+    },
+    {
+      "surface": "ל֛וֹ",
+      "gloss": "向他"
+    },
+    {
+      "surface": "לֹ֖א",
+      "gloss": "不"
+    },
+    {
+      "surface": "בָּנָ֣יו",
+      "gloss": "他的兒女"
+    },
+    {
+      "surface": "מוּמָ֑ם",
+      "gloss": "他們的瑕疵"
+    },
+    {
+      "surface": "דּ֥וֹר",
+      "gloss": "世代"
+    },
+    {
+      "surface": "עִקֵּ֖שׁ",
+      "gloss": "乖僻"
+    },
+    {
+      "surface": "וּפְתַלְתֹּֽל",
+      "gloss": "又扭曲"
+    }
+  ],
+  "timestamp": "2026-10-16T05:42:05.252580769Z",
+  "model": "glm-5.3"
+}

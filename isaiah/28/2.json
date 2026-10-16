@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 28:2",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שער",
+      "rationale": "שַׂעַר（暴風、狂風）與שֵׁעָר（毛髮）同音異義，此處取狂風"
+    },
+    {
+      "kind": "crux",
+      "subject": "לאדני",
+      "rationale": "'阿多奈有一位強而有力的'——原文לאדני是'屬於主'；或譯'主自己有強力者'，各譯本在'一位'的省略與否上分歧"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כזרם……כזרם",
+      "rationale": "兩個'如暴流'平行疊加，中文重複'如……流'以保留節奏"
+    }
+  ],
+  "translation": "看哪，阿多奈有一位強而有力的，如冰雹的暴流、毀滅的狂風，如大水沖溢的洪流，他必用手將它摔落地面。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7bc698e7ae6683da4a0af4e86aa053d6a9fcc8ccbebb8d815fca88b64546b0b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/28\/1-4.1792135084244.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "強"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "而有力的"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "כזרם",
+      "gloss": "如……的暴流"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "冰雹"
+    },
+    {
+      "surface": "שער",
+      "gloss": "狂風"
+    },
+    {
+      "surface": "קטב",
+      "gloss": "毀滅的"
+    },
+    {
+      "surface": "כזרם",
+      "gloss": "如……的洪流"
+    },
+    {
+      "surface": "מים",
+      "gloss": "大水"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "沖溢的"
+    },
+    {
+      "surface": "שטפים",
+      "gloss": "沖溢"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "摔落"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "地面"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "用手"
+    }
+  ],
+  "timestamp": "2026-10-16T07:18:04.245928065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זמרת",
+      "rationale": "罕用詞，僅見於此與出15:2；本義為樂器之聲／頌讚，譯「詩歌」"
+    },
+    {
+      "kind": "addition",
+      "subject": "成為",
+      "rationale": "ויהי 為「成了、成為」之敘述動詞，非僅繫詞"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "本節",
+      "rationale": "與出埃及記15:2逐字平行，紅海之歌的回聲"
+    }
+  ],
+  "translation": "雅是我的力量、我的詩歌，他成了我的拯救。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2aeaca3382c2a5175a83394d03f395865dafa17d1116cce07f895350419817b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/118\/13-16.1792144811379.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "我的力量"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "和我的詩歌"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "他成了"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我的"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "拯救"
+    }
+  ],
+  "timestamp": "2026-10-16T10:00:11.379982230Z",
+  "model": "glm-5.3"
+}

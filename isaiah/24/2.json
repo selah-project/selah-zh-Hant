@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 24:2",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "六對對偶",
+      "rationale": "民／祭司、僕／主、婢／主母、買／賣、借出／借入、放債／欠債——社會各階層成對傾覆，對仗結構是修辭重點"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נשא בו",
+      "rationale": "כאשר נשא בו 直譯「如那向他取利的人」，譯為『欠債的也如何』以完成對偶"
+    }
+  ],
+  "translation": "那時，民如何，祭司也如何；僕人如何，主人也如何；婢女如何，主母也如何；買的如何，賣的也如何；借出的如何，借入的也如何；放債的如何，欠債的也如何。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0eefc8af49c179054712df3c85ce8d98161160f1c6551019c7820f00d6724d45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/24\/1-4.1792135041984.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "那時"
+    },
+    {
+      "surface": "כעם",
+      "gloss": "民如何"
+    },
+    {
+      "surface": "ככהן",
+      "gloss": "祭司也如何"
+    },
+    {
+      "surface": "כעבד",
+      "gloss": "僕人如何"
+    },
+    {
+      "surface": "כאדניו",
+      "gloss": "他的主人也如何"
+    },
+    {
+      "surface": "כשפחה",
+      "gloss": "婢女如何"
+    },
+    {
+      "surface": "כגברתה",
+      "gloss": "她的主母也如何"
+    },
+    {
+      "surface": "כקונה",
+      "gloss": "買的如何"
+    },
+    {
+      "surface": "כמוכר",
+      "gloss": "賣的也如何"
+    },
+    {
+      "surface": "כמלוה",
+      "gloss": "借出的如何"
+    },
+    {
+      "surface": "כלוה",
+      "gloss": "借入的也如何"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "放債的如何"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "也如何"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "欠債的"
+    },
+    {
+      "surface": "בו",
+      "gloss": "於他"
+    }
+  ],
+  "timestamp": "2026-10-16T07:17:21.985804420Z",
+  "model": "glm-5.3"
+}

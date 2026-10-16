@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 38:20",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "求你聽從雅威的聲音",
+      "rationale": "耶利米以命令式加נא向王發出懇切籲求"
+    },
+    {
+      "kind": "addition",
+      "subject": "你",
+      "rationale": "יתנו 的受詞在原文由字尾承載，中文需要「你」補出"
+    },
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 作「性命」，與17節同一詞形"
+    }
+  ],
+  "translation": "耶利米說：「他們必不把你交出。求你聽從雅威的聲音，就是我所對你說的話，這樣就必對你好，你的性命也必存活。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ad864c5a764678757aef7ff12ca985729c524e187c501bc1b1ebbdbbc7b4d9b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/38\/17-20.1792137315959.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "耶利米"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "他們必把……交出"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "求你聽從"
+    },
+    {
+      "surface": "נא",
+      "gloss": "求"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "的聲音"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "所說"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "就必對……好"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "ותחי",
+      "gloss": "也必存活"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "你的性命"
+    }
+  ],
+  "timestamp": "2026-10-16T07:55:15.960780340Z",
+  "model": "glm-5.3"
+}

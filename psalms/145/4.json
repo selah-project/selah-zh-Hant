@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他們",
+      "rationale": "יגידו 為複數動詞，主語（眾代）未明寫，中文補出"
+    },
+    {
+      "kind": "measurement",
+      "subject": "דור לדור",
+      "rationale": "世世代代的時間跨度被明確計數"
+    }
+  ],
+  "translation": "一代要向一代頌讚你的作為，他們要述說你的大能。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c75e2c3935a863208f7b83342017afaf0e0381497f5a0e2093666fe8e45e4748",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/145\/1-4.1792145058656.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "一代"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "向一代"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "要頌讚"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "你的作為"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "和你的大能"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "他們要述說"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:18.657704447Z",
+  "model": "glm-5.3"
+}

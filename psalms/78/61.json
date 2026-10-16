@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 78:61",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צר",
+      "rationale": "字面是「狹窄／患難之處」，作名詞指「仇敵」；取「敵人」"
+    }
+  ],
+  "translation": "他將自己的力量交給擄掠，將自己的榮美交在敵人手中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "15fd05ec2736a76694749f7b80338f5e715f099d9d3d88ee36640ec380cf5b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/78\/61-64.1792144312922.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "他將……交給"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "擄掠"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "自己的力量"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "自己的榮美"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "交在……手中"
+    },
+    {
+      "surface": "צר",
+      "gloss": "敵人"
+    }
+  ],
+  "timestamp": "2026-10-16T09:51:52.923316070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "זכר תזכר",
+      "rationale": "不定詞絕對式加限定動詞的強調結構，譯作「牢牢記住」"
+    },
+    {
+      "kind": "elision",
+      "subject": "את אשר",
+      "rationale": "受詞記號與關係詞合併指向下一節的內容，中文以「就是」承接"
+    }
+  ],
+  "translation": "你不要懼怕他們，只要牢牢記住雅威你的以羅欣向法老和全埃及所行的事，就是⟨את⟩那曾臨到你眼前的大試煉、神蹟奇事、大能的手和伸出來的膀臂。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5335b492775e1c5f28846656b568e028f959e43e09e3a020e03fad825df8e9a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/7\/17-20.1792128675050.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "懼怕"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "記住"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "牢牢記住"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那曾臨到你眼前的大試煉、神蹟奇事、大能的手和伸出來的膀臂"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所行的"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "向法老"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "和全"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    }
+  ],
+  "timestamp": "2026-10-16T05:31:15.051351702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 22:22",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "連累",
+      "rationale": "סבב 字面為「轉動、繞行」，此處意為「招致、轉到你身上」，各譯本作 occasioned\/brought about"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הגד יגיד",
+      "rationale": "同一詞根重複以表確定「必告知」，中文以「必定告訴」補足"
+    },
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 字面為呼吸之物、生命體，非不朽的靈魂"
+    }
+  ],
+  "translation": "大衛對亞比亞他說：「那日我就知道，以東人多益在那裏，他必定告訴掃羅；是我連累了你父家全部的性命。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "319c1bcccfac058cbb6f70e417e24a79300a215fe8a23dbb5fc628fdf7108782",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/22\/21-23.1792131322950.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "לאביתר",
+      "gloss": "對亞比亞他"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我就知道"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在……那日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "那"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〈因為〉"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裏"
+    },
+    {
+      "surface": "דויג",
+      "gloss": "多益"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "以東人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "必定"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "告訴"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "告訴"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "是我"
+    },
+    {
+      "surface": "סבתי",
+      "gloss": "連累了"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你父"
+    }
+  ],
+  "timestamp": "2026-10-16T06:15:22.951667128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 44:24",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויהי כי",
+      "rationale": "敘事時間標記『當…的時候』，中文以時間句呈現"
+    },
+    {
+      "kind": "elision",
+      "subject": "לו",
+      "gloss": "與『告訴了他』合併，中文代詞不重複"
+    }
+  ],
+  "translation": "我們上到你僕人、我父親那裡，就把我主的話告訴了他⟨את⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5c3d7b915734945335198bfb967da9e29d2b152041fa9243dd5f30456f19980c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/44\/21-24.1792125484473.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "當…的時候"
+    },
+    {
+      "surface": "כי",
+      "gloss": "當"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "我們上來"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你僕人"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我父親"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "我們告訴"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我主的話"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "…的話"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "我主"
+    }
+  ],
+  "timestamp": "2026-10-16T04:38:04.474739188Z",
+  "model": "glm-5.3"
+}

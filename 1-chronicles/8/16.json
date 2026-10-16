@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他們都是",
+      "rationale": "希伯來文僅作同位語「比利亞的兒子」，中文需補主語與判斷語氣"
+    },
+    {
+      "kind": "measurement",
+      "subject": "族譜名單",
+      "rationale": "人名列表收束於家系歸屬，屬族譜計數文體"
+    }
+  ],
+  "translation": "還有米迦勒、伊施帕、約哈，他們都是比利亞的兒子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "595d79ef62734dfa2fec266e5f21b8aa9ef0b3750e8286b8f271ed8071427810",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/8\/13-16.1792148620941.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "還有米迦勒"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "伊施帕"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "約哈"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的兒子"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "比利亞"
+    }
+  ],
+  "timestamp": "2026-10-16T11:03:40.942137089Z",
+  "model": "glm-5.3"
+}

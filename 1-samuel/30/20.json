@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לפני המקנה ההוא",
+      "rationale": "「趕在那牲畜前頭」所指有異：KJV作「趕在其餘牲畜之前」，YL T作「趕在這些牲畜前面」；所趕的是掠物本身還是原有畜群，譯者分歧"
+    },
+    {
+      "kind": "addition",
+      "subject": "人們",
+      "rationale": "ויאמרו動詞無主語，中文需補出說話者"
+    }
+  ],
+  "translation": "大衛奪取了 ⟨את⟩ 所有的羊群和牛群；人們趕著這些牲畜走在前頭，說：「這是大衛的掠物。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "31b5fe3aca73b7a6992470c867813d96506513fc751385bf45d5038431dc2b45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/30\/17-20.1792131517653.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "奪取"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所有的羊群和牛群"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "和牛群"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "趕著走"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在前頭"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "這"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "說"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這是"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "掠物"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛的"
+    }
+  ],
+  "timestamp": "2026-10-16T06:18:37.654589440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 18:19",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אח נפשע מקרית עז",
+      "rationale": "直譯為「弟兄干犯，比堅固之城（更難）」：是被弟兄得罪，還是弟兄自己叛離？各譯本取「被得罪」者多"
+    },
+    {
+      "kind": "addition",
+      "subject": "還難奪回",
+      "rationale": "希伯來文無比較句的述語，中文補出隱含的「難以攻取」之意"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מדינים",
+      "rationale": "與18:18的מדינים（紛爭）同根相連，構成爭訟系列的連鎖詞"
+    }
+  ],
+  "translation": "弟兄被得罪，比堅固的城還難奪回；爭執如堡壘的門閂。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dca0a25dce8811f37fe2f0a35fd7ada92c83b5452e0d02d94c38f34edc6a65aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/18\/17-20.1792145489441.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "弟兄"
+    },
+    {
+      "surface": "נפשע",
+      "gloss": "被得罪"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "比城"
+    },
+    {
+      "surface": "עז",
+      "gloss": "堅固的"
+    },
+    {
+      "surface": "ומדונים",
+      "gloss": "而爭執"
+    },
+    {
+      "surface": "כבריח",
+      "gloss": "如門閂"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "堡壘"
+    }
+  ],
+  "timestamp": "2026-10-16T10:11:29.442542434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "地的四極",
+      "rationale": "אפסי ארץ 字面『地的末端』，即地極"
+    },
+    {
+      "kind": "substitution",
+      "subject": "慈愛",
+      "rationale": "חסד 涵蓋堅愛、盟約之愛，任何單一譯詞皆有折損"
+    }
+  ],
+  "translation": "他記念他向以色列家所施的慈愛和信實；地的四極都看見了我們以羅欣（神）⟨את⟩ 的救恩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6b156fc378f95dc1d2e386ff094626248f893c3897b81daa225b1c2889d745af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/98\/1-4.1792144541062.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "他記念"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "他的慈愛"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "和他的信實"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "向…家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "都看見了"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全都"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "的極端"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我們以羅欣的救恩"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "的救恩"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "我們以羅欣（神）"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:41.064411884Z",
+  "model": "glm-5.3"
+}

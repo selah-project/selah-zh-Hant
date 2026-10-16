@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 17:13",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש 未出現",
+      "rationale": "本節以「凡人」開頭，延續第12節以「生命」論血的禁令；獵物之血必須倒出掩埋。"
+    },
+    {
+      "kind": "addition",
+      "subject": "就必須",
+      "rationale": "希伯來文用未完成式表達規定，中文加命令語氣詞。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יצוד ציד",
+      "rationale": "動詞「獵」與名詞「獵物」同根連用——獵取獵物——中文以「獵取……獵物」保留。"
+    }
+  ],
+  "translation": "凡以色列人、或寄居在他們中間的寄居者，獵取可吃的走獸或飛禽，就必須把牠的血倒出來，用塵土掩蓋牠。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a730804f036026d31fa4f1ec807632a2a81dd5b2a57f8e21085bc3befa7b01be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/17\/13-16.1792127056647.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "凡"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "……的人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "或"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "寄居者"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "寄居在"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "在他們中間"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "凡"
+    },
+    {
+      "surface": "יצוד",
+      "gloss": "獵取"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "獵物"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "走獸"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "飛禽"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "可"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "吃的"
+    },
+    {
+      "surface": "ושפך",
+      "gloss": "就必須倒出來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "牠的血"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "牠的血"
+    },
+    {
+      "surface": "וכסהו",
+      "gloss": "用塵土掩蓋牠"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "用塵土"
+    }
+  ],
+  "timestamp": "2026-10-16T05:04:16.647843422Z",
+  "model": "glm-5.3"
+}

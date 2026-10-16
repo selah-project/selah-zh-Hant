@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨他的⟩",
+      "rationale": "中文需補代詞以明指啞巴之口，希伯來文為第三人稱פיו"
+    }
+  ],
+  "translation": "至於我，如同聾子不聽見，又如啞巴不開⟨他的⟩口。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "15ecc37329783fe2dd5340cf9baf2798718760c5537513fb17315b6ee0d50b2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/38\/13-16.1792143707329.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "至於我"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "如同聾子"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "又如啞巴"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "開"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "口"
+    }
+  ],
+  "timestamp": "2026-10-16T09:41:47.329872031Z",
+  "model": "glm-5.3"
+}

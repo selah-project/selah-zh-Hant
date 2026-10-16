@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 9:22",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ימים",
+      "rationale": "第一處ימים帶雙數詞尾，傳統譯「兩天」（KJV等）；第二處為複數「許多天」，KJV作「一年」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משכן／לשכן",
+      "rationale": "「會幕／居住」同根雙關，中文無法保留"
+    }
+  ],
+  "translation": "無論是兩天，或一個月，或許多天，雲彩若延長停駐在會幕上，以色列人就在那裡安營，不起行；雲彩一上升，他們就起行。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "38c39f8b9a4fd10b9a325922c4113513bcda7254630d243d9fca0cfc0328f59a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/9\/21-23.1792127682829.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "無論是"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "兩天"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "一個月"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "許多天"
+    },
+    {
+      "surface": "בהאריך",
+      "gloss": "延長停駐"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "雲彩"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "居住"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "在其上"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "他們就安營"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "起行"
+    },
+    {
+      "surface": "ובהעלתו",
+      "gloss": "當它上升"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "他們就起行"
+    }
+  ],
+  "timestamp": "2026-10-16T05:14:42.830411693Z",
+  "model": "glm-5.3"
+}

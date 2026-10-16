@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "亞舍拉",
+      "rationale": "אשרים是女神亞舍拉的柱像，音譯保留專名；和合本作「木偶」"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "全節為對以色列眾人的命令式勸諭，直接稱呼「你們」"
+    }
+  ],
+  "translation": "你們要拆毀 ⟨את⟩ 他們的祭壇，打碎 ⟨את⟩ 他們的柱像，用火焚燒他們的亞舍拉，砍下他們神明的雕刻偶像，又要從那地方除滅 ⟨את⟩ 他們的名。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c95a845d91546d0fddaa56306d1a8dcb889d1538fff03de1eae7ba857884b7aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/12\/1-4.1792128832367.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתצתם",
+      "gloss": "你們要拆毀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的祭壇"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "他們的祭壇"
+    },
+    {
+      "surface": "ושברתם",
+      "gloss": "打碎"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的柱像"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "他們的柱像"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "他們的亞舍拉"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "你們要焚燒"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    },
+    {
+      "surface": "ופסילי",
+      "gloss": "和……的雕刻偶像"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "他們的神明"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "你們要砍下"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "又要除滅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的名"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "他們的名"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "那地方"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "那"
+    }
+  ],
+  "timestamp": "2026-10-16T05:33:52.368988332Z",
+  "model": "glm-5.3"
+}

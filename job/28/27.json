@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 28:27",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "它",
+      "rationale": "希伯來文以附綴代詞標記受詞，中文需補出「它」指智慧"
+    },
+    {
+      "kind": "elision",
+      "subject": "智慧",
+      "rationale": "受詞附綴 -הּ 指前文所述的智慧，中文以「它」承接，智慧一詞本身未在希伯來文中出現"
+    }
+  ],
+  "translation": "那時他看見智慧，便述說⟨它⟩；他堅立⟨它⟩，也查究⟨它⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "09c05d7896406b54fcd6bc1e3d974545d24802afc21fb0a1318dbb421e429958",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/28\/25-28.1792146283539.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "那時"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "他看見"
+    },
+    {
+      "surface": "ויספרה",
+      "gloss": "便述說它"
+    },
+    {
+      "surface": "הכינה",
+      "gloss": "他堅立它"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "也"
+    },
+    {
+      "surface": "חקרה",
+      "gloss": "查究它"
+    }
+  ],
+  "timestamp": "2026-10-16T10:24:43.540245857Z",
+  "model": "glm-5.3"
+}

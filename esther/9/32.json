@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "esther 9:32",
+  "book": "esther",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "於是",
+      "rationale": "中文句首需連接詞，希伯來文以附屬 ו 表達。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קים",
+      "rationale": "「確立」第四度出現，為9:29–32段落作總結收束。"
+    }
+  ],
+  "translation": "於是以斯帖的命令確立了 ⟨את⟩ 這些普珥的規例，並記在書上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "17796a276e1347aeeffa4ce98e6c82cc02d9afe24a9f2a6828f880b9979c85b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/esther\/9\/29-32.1792147340989.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומאמר",
+      "gloss": "於是……的命令"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "以斯帖"
+    },
+    {
+      "surface": "קים",
+      "gloss": "確立了"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "……的規例"
+    },
+    {
+      "surface": "הפורים",
+      "gloss": "普珥"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "ונכתב",
+      "gloss": "並記在"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "在書上"
+    }
+  ],
+  "timestamp": "2026-10-16T10:42:20.990255611Z",
+  "model": "glm-5.3"
+}

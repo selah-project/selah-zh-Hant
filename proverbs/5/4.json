@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 5:4",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מרה\/לענה",
+      "rationale": "『苦』與『苦艾』雙字疊響，中文以『苦如苦艾』保留部分音義重疊"
+    },
+    {
+      "kind": "substitution",
+      "subject": "兩刃的劍",
+      "rationale": "פיות是『口』的雙數——劍的『兩口』；傳統譯『兩刃的劍』取其意象而非其形狀，此處保留『兩口』的字面"
+    }
+  ],
+  "translation": "但她的結局苦如苦艾，銳利如有兩口的劍。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b1e6ea5b569940579bb87cb85b03bae997f4e737367cd044479011bfb1390459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/5\/1-4.1792145226945.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחריתה",
+      "gloss": "但她的結局"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "苦"
+    },
+    {
+      "surface": "כלענה",
+      "gloss": "如苦艾"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "銳利"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "如劍"
+    },
+    {
+      "surface": "פיות",
+      "gloss": "有兩口的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:07:06.947154544Z",
+  "model": "glm-5.3"
+}

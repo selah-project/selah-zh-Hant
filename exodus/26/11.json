@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "五十個銅鉤",
+      "rationale": "鉤子數目與鈕環數目五十相配。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "銅",
+      "rationale": "נחשת 是銅；傳統譯本作「黃銅」是後代金屬，非原文所指。"
+    }
+  ],
+  "translation": "你要做五十個銅鉤，把 ⟨את⟩ 銅鉤穿入鈕環中，將帳棚連接起來，使它成為一個整體。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c80ce229d4e1a8e74b8b138ebabeac435779e4bd19481db70400f827c66d0cc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/26\/9-12.1792126225997.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "你要做"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "鉤子"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "你要把……穿入"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "銅鉤"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "那些鉤子"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "入鈕環中"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "你要把……連接起來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "帳棚"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "使它成為"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一個整體"
+    }
+  ],
+  "timestamp": "2026-10-16T04:50:25.998781818Z",
+  "model": "glm-5.3"
+}

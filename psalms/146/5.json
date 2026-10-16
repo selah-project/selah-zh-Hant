@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 146:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שאל",
+      "rationale": "讀作 שֶׁאֵל 連於 אֵל（伊勒，全能者）：『雅各的伊勒為其幫助』；傳統譯本多隨『以雅各的神為幫助』的讀法。"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文需『為／是』連接。"
+    }
+  ],
+  "translation": "以雅各的伊勒為幫助、所盼望的在於雅威他的以羅欣的，這人有福了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "df2325d84195eeda451fcf47037af6d3c7fb2a77f3bf3cf53c2d0809185a5939",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/146\/5-8.1792145151127.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "有福了"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "伊勒"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各的"
+    },
+    {
+      "surface": "בעזרו",
+      "gloss": "為幫助"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "所盼望的"
+    },
+    {
+      "surface": "על",
+      "gloss": "在於"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "他的以羅欣"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:51.128134047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "過",
+      "rationale": "中文表示時間經過所需，希伯來文只說「再三日」"
+    },
+    {
+      "kind": "measurement",
+      "subject": "三日",
+      "rationale": "明確的時間期限設定"
+    }
+  ],
+  "translation": "他對他們說：「再過三日，然後回到我這裡來。」百姓就去了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bec773b208767d994b14450efce18e9a908effb92f59607874bc9bb4fa523a44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/10\/5-8.1792149293655.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他對……說"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "對他們"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "你們要回來"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "到我這裡"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "去了"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    }
+  ],
+  "timestamp": "2026-10-16T11:14:53.655568338Z",
+  "model": "glm-5.3"
+}

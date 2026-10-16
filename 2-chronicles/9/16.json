@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 9:16",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "用於",
+      "rationale": "יעלה直译为「升上」，即金子上到一面盾牌上。"
+    },
+    {
+      "kind": "addition",
+      "subject": "舍客勒",
+      "rationale": "「三百」后希伯来文未写重量单位，由上下文补出。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "盾牌",
+      "rationale": "盾牌数量与用金重量俱为计量。"
+    }
+  ],
+  "translation": "又用锤出来的金子製成三百面小盾牌，每面盾牌用三百舍客勒金子；王把这些盾牌放在黎巴嫩林宮裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ed74386c79c2606b92095c6a3600b2c60dbc8c86ace6139c53df08e99eb51652",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/9\/13-16.1792149250859.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלש",
+      "gloss": "又三百"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "（百）"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "小盾牌"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金子"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "锤出来的"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三百"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "（百）"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金子"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "用於"
+    },
+    {
+      "surface": "על",
+      "gloss": "在…上"
+    },
+    {
+      "surface": "המגן",
+      "gloss": "那盾牌"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "每一面"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "把…放在"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "在…宮"
+    },
+    {
+      "surface": "יער",
+      "gloss": "林"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "黎巴嫩"
+    }
+  ],
+  "timestamp": "2026-10-16T11:14:10.860918630Z",
+  "model": "glm-5.3"
+}

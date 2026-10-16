@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש是氣息、生命之力，非不朽的『靈魂』"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבקה\/תמכה",
+      "rationale": "緊貼與扶持相呼應，中文難顯其音韻"
+    }
+  ],
+  "translation": "我的性命緊緊跟隨你，你的右手扶持⟨著⟩我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a6bd11b0433fd2e8ac46bc2ccb62e89be14c7c212bf14565ba135586b13f9937",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/63\/9-12.1792144029611.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "緊緊跟隨"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "你"
+    },
+    {
+      "surface": "בי",
+      "gloss": "在我身上"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "扶持"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "你的右手"
+    }
+  ],
+  "timestamp": "2026-10-16T09:47:09.612350445Z",
+  "model": "glm-5.3"
+}

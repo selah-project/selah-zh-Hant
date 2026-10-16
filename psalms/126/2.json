@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 126:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 126,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "為",
+      "rationale": "עם 直譯「與」，多譯本作「為這些人」；保留「與這些人同行」之意。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אז……אז",
+      "rationale": "「那時」首尾重複，框架本節。"
+    }
+  ],
+  "translation": "那時我們滿口欢笑，我們的舌頭歡呼；那時列國中就說：雅威為這些人行了大事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "798ea3a92aec631aa94802c46f21659af8b3879b66171e9128c6eba126b5d4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/126\/1-4.1792144976467.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "那時"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "滿"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "欢笑"
+    },
+    {
+      "surface": "פינו",
+      "gloss": "口"
+    },
+    {
+      "surface": "ולשוננו",
+      "gloss": "我們的舌頭"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "歡呼"
+    },
+    {
+      "surface": "אז",
+      "gloss": "那時"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "就說"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "列國中"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "行了大事"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "行"
+    },
+    {
+      "surface": "עם",
+      "gloss": "為"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些人"
+    }
+  ],
+  "timestamp": "2026-10-16T10:02:56.470264243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "就在哪裡",
+      "rationale": "希伯來文『王的話所在之處，權柄』無第二個『在那裡』，中文補足以成句。"
+    },
+    {
+      "kind": "you",
+      "subject": "to the king",
+      "rationale": "『誰能對他說』——修辭問句，指向上文那位任意而為的王。"
+    }
+  ],
+  "translation": "王的話在哪裡，權柄就在哪裡；誰能對他說：你做甚麼呢？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ab5194fb5734e8ad5b6da3ed010248d0ee08189ca164c81a73ecc7e041f31d73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/8\/1-4.1792147019936.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "在哪裡"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "權柄"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "能說"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "מה",
+      "gloss": "甚麼"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你做"
+    }
+  ],
+  "timestamp": "2026-10-16T10:36:59.937582622Z",
+  "model": "glm-5.3"
+}

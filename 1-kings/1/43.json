@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 1:43",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אבל",
+      "rationale": "字義「不然／的確」兩可：KJV「確然」與 YLT「nay」相反；語境中約拿單是在否認好消息，故取「不」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "我們的主、王大衛",
+      "rationale": "希伯來文同位語堆疊 אדנינו המלך דוד；中文以頓號保留三層頭銜。"
+    }
+  ],
+  "translation": "約拿單回答亞多尼雅說：「不；我們的主、王大衛已經立 ⟨את⟩ 所羅門作王了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4ca43b0ba9238ec91b49c99242d574dc12c866bacaca837f02421d0338adfde8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/1\/41-44.1792132514911.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "回答"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "對亞多尼雅"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "不"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "我們的主"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "המליך",
+      "gloss": "已經立……作王"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所羅門"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    }
+  ],
+  "timestamp": "2026-10-16T06:35:14.912341505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תשב\/שובו",
+      "rationale": "同一詞根 שוב 兩現——你使人「歸回」，又命人「歸回」，一語雙回，中文重複「歸回」以存之"
+    },
+    {
+      "kind": "crux",
+      "subject": "דכא",
+      "rationale": "字面「壓碎成粉」：和合本作「毀滅」，JPS作「痛悔」，此取「化為塵土」存其物象"
+    },
+    {
+      "kind": "invitation",
+      "subject": "對世人",
+      "rationale": "「歸回吧」是向亞當之子發出的召喚"
+    }
+  ],
+  "translation": "你使人歸回，直到化為塵土；你說：「世人啊，歸回吧。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "793b4dff5a195143da8df587045aa4146363998a898bd36a7177264be70aa5d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/90\/1-4.1792144470550.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "你使……歸回"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "人（必朽的人）"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "化為塵土"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "你說"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "歸回吧"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……之子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "亞當（世人）"
+    }
+  ],
+  "timestamp": "2026-10-16T09:54:30.551075004Z",
+  "model": "glm-5.3"
+}

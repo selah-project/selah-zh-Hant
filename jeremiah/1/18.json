@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 1:18",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "銅",
+      "rationale": "נחשת 是銅／青銅，傳統譯本作「黃銅」（brasen walls），本譯取「銅」"
+    },
+    {
+      "kind": "addition",
+      "subject": "她的",
+      "rationale": "首領、祭司的後綴代名詞指猶大，中文以「她的」表明"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "三重意象",
+      "rationale": "堅固城、鐵柱、銅牆——三個平行的防禦意象，對應四類敵人（君王、首領、祭司、眾民）"
+    }
+  ],
+  "translation": "至於我，看哪，我今日已立你成為堅固城、鐵柱、銅牆，抵擋全地，抵擋猶大的君王、她的首領、她的祭司，並這地的眾民。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "01911bf39988c42a8df8d7d7c506888bfa260d4a0c6098784f68fbb19416463d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/1\/17-19.1792135960772.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "至於我"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "已立你"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "成為城"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "堅固"
+    },
+    {
+      "surface": "ולעמוד",
+      "gloss": "鐵柱"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "鐵"
+    },
+    {
+      "surface": "ולחמות",
+      "gloss": "銅牆"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "על",
+      "gloss": "抵擋"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "抵擋……的君王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "לשריה",
+      "gloss": "她的首領"
+    },
+    {
+      "surface": "לכהניה",
+      "gloss": "她的祭司"
+    },
+    {
+      "surface": "ולעם",
+      "gloss": "並……的眾民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "這地"
+    }
+  ],
+  "timestamp": "2026-10-16T07:32:40.773453212Z",
+  "model": "glm-5.3"
+}

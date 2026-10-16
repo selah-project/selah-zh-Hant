@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 32:9",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רבים",
+      "rationale": "「多的／尊貴的」：和合本取「尊貴的」，YLT 取「多數人」"
+    },
+    {
+      "kind": "elision",
+      "subject": "לא",
+      "rationale": "一個「未必」對應兩個否定的平行句，第二句沿用其否定"
+    }
+  ],
+  "translation": "尊貴的未必有智慧，年老的未必明白判斷。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2743f4787f260e77c7363dc55da4eab6146757b1b3a753abdc93df51a4377513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/32\/9-12.1792146325870.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "未必"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "尊貴的"
+    },
+    {
+      "surface": "יחכמו",
+      "gloss": "有智慧"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "年老的"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "明白"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "判斷"
+    }
+  ],
+  "timestamp": "2026-10-16T10:25:25.871394525Z",
+  "model": "glm-5.3"
+}

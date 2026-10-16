@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "這一日",
+      "rationale": "希伯來文無「在它裡面」的獨立短語，中文以「這一日」承接語境"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "誡命直接向聽眾發出，第二人稱單數貫穿全節"
+    }
+  ],
+  "translation": "但第七日是向雅威——你的以羅欣（神）——守的安息日：這一日，無論是你、你的兒子、你的女兒、你的男僕、你的女僕、你的牲畜，還是你城門內的寄居者，都不可做任何的工。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "337709d88430ef699d043eaf84815bcb5628e8010c210e650de3c8ef37ad7842",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/20\/9-12.1792126066495.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "但……日"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "安息日"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "כל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "工"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "你的兒子"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "你的女兒"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你的男僕"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "你的女僕"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "你的牲畜"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "你的寄居者"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "在你的城門內"
+    }
+  ],
+  "timestamp": "2026-10-16T04:47:46.495959645Z",
+  "model": "glm-5.3"
+}

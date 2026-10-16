@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 22:10",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שלח ידו",
+      "rationale": "「伸手於」即下手染指、侵占；直譯會誤導"
+    },
+    {
+      "kind": "elision",
+      "subject": "ולקח",
+      "rationale": "「接受」的賓語（起誓）希伯來文未明寫，中文補⟨起誓⟩"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨，以查明⟩",
+      "rationale": "אם לא 引導的間接問句需補連接語以成句"
+    }
+  ],
+  "translation": "二人之間必有雅威的起誓⟨，以查明⟩他是否未曾伸手染指鄰舍之物；物主當接受⟨起誓⟩，看守的人不必賠還。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f80bf2e6de2bddac0dc60239cd715af131cedcde923a6b50eb7f4107600f818d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/22\/9-12.1792126120864.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "起誓"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "必有"
+    },
+    {
+      "surface": "בין",
+      "gloss": "之間"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "二人"
+    },
+    {
+      "surface": "אם",
+      "gloss": "是否"
+    },
+    {
+      "surface": "לא",
+      "gloss": "未曾"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "伸"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "手"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "之物"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "鄰舍"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "當接受"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "物主"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不必"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "賠還"
+    }
+  ],
+  "timestamp": "2026-10-16T04:48:40.865724314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 35:15",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אין פקד אפו",
+      "rationale": "此句諸本分歧：KJV『他已在怒中刑罰』、ASV『他未曾以怒刑罰』、JPS『他豈無故刑罰』；ה文句難解，本譯取「不曾察罰」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "怒氣",
+      "rationale": "אף 本義是鼻子，引申為怒氣（鼻中的氣）"
+    }
+  ],
+  "translation": "如今，因為他不曾以怒氣察罰，也不大大理會愚妄——",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1221ddfa222e5314b2a02b62e9f928e1299f504ec6dc7518e19fe0c98ea7a099",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/35\/13-16.1792146420189.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "如今"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אין",
+      "gloss": "不曾"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "察罰"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "以怒氣"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "理會"
+    },
+    {
+      "surface": "בפש",
+      "gloss": "愚妄"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "大大"
+    }
+  ],
+  "timestamp": "2026-10-16T10:27:00.189992108Z",
+  "model": "glm-5.3"
+}

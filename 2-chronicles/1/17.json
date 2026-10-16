@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 1:17",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "舍客勒",
+      "rationale": "希伯來文只說「六百銀子」，幣名是中文所需而補"
+    },
+    {
+      "kind": "measurement",
+      "subject": "價格",
+      "rationale": "戰車六百、馬一百五十——本節是買賣計價"
+    },
+    {
+      "kind": "crux",
+      "subject": "בידם יוציאו",
+      "rationale": "「藉他們的手運出」：所羅門的商人運出，還是赫人亞蘭君王的手（經手人）轉售——譯本分歧"
+    }
+  ],
+  "translation": "他們上來，從埃及運出一輛戰車，〈要〉六百舍客勒銀子，一匹馬〈要〉一百五十；照樣，他們藉著眾赫人君王和亞蘭君王的手，把〈它們〉運出去。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "65e46b81f10873ef196f892f032518e9cbed6031977106b539d9c17b1764a9e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/1\/17-18.1792149099565.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "他們上來"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "運出"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "從埃及"
+    },
+    {
+      "surface": "מרכבה",
+      "gloss": "一輛戰車"
+    },
+    {
+      "surface": "בשש",
+      "gloss": "六百〈舍客勒〉"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "…百"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀子"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "一匹馬"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "和一百"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "照樣"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "為所有"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "…的君王"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "赫人"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "和…的君王"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "藉他們的手"
+    },
+    {
+      "surface": "יוציאו",
+      "gloss": "他們運出"
+    }
+  ],
+  "timestamp": "2026-10-16T11:11:39.565636529Z",
+  "model": "glm-5.3"
+}

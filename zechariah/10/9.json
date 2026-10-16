@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 10:9",
+  "book": "zechariah",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "撒在萬民中",
+      "rationale": "「撒種」比喻離散與繁衍並存；字面是農業意象"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וזרעם／יזכרוני",
+      "rationale": "散播與記念的並置：被撒於列國卻記起雅威，是本段的核心張力"
+    }
+  ],
+  "translation": "我必將他們撒在萬民中，他們在遠方必記念我，他們必與兒女一同存活並歸回。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0c72e884c6151fcf4478a0c4be256f1d359d0cf03acef6ee95a1265cd650e7cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/zechariah\/10\/9-12.1792143132706.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואזרעם",
+      "gloss": "我必將他們撒在"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "萬民中"
+    },
+    {
+      "surface": "ובמרחקים",
+      "gloss": "在遠方"
+    },
+    {
+      "surface": "יזכרוני",
+      "gloss": "他們必記念我"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "他們必……存活"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的兒女"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "他們的兒女"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "並歸回"
+    }
+  ],
+  "timestamp": "2026-10-16T09:32:12.707439277Z",
+  "model": "glm-5.3"
+}

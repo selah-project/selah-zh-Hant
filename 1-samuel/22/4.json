@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "面前",
+      "rationale": "את פני直譯「…的臉面」，即「帶到某人面前」，希伯來慣用語"
+    },
+    {
+      "kind": "crux",
+      "subject": "山寨",
+      "rationale": "מצודה本義「網羅／捕捉」，轉指「堡壘、山寨」；上下文取堡壘義"
+    }
+  ],
+  "translation": "他領他們到 ⟨את⟩ 摩押王面前，他們就與他同住，住在大衛住山寨的一切日子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9e6949e1d187902aa7707ff1db513f0301ecab4843dfe83992db6838e23bb091",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/22\/1-4.1792131414022.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "領"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩押王的面前"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…面前"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "他們就同住"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "與他"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "…的日子"
+    },
+    {
+      "surface": "היות",
+      "gloss": "住在大衛…"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "山寨"
+    }
+  ],
+  "timestamp": "2026-10-16T06:16:54.023998376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "便題起",
+      "rationale": "וישא משלו 直譯「舉起他的箴言」，中文以「題起箴言」成語化。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראשית／אחריתו",
+      "rationale": "「首／結局」首尾對仗，預言的修辭骨架。"
+    },
+    {
+      "kind": "mystery",
+      "subject": "箴言",
+      "rationale": "巴蘭的箴言（משל）是暗喻式預言，意象封存於比喻之中。"
+    }
+  ],
+  "translation": "他觀看 ⟨את⟩ 亞瑪力，便題起他的箴言說：亞瑪力原為列國之首，他的結局終必滅亡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9a1c4f95fbfc837165fe6a31afa07b6a96491cf87ec32aecbe53476753c9dcf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/24\/17-20.1792128142526.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "他觀看"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞瑪力"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "亞瑪力"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "便題起"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "他的箴言"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "之首"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "亞瑪力"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "他的結局"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "終必"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "滅亡"
+    }
+  ],
+  "timestamp": "2026-10-16T05:22:22.527977414Z",
+  "model": "glm-5.3"
+}

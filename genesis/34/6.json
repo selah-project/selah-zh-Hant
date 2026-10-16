@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "אתו 在此為介詞「與他」，非受詞記號；譯文補「他」以成句"
+    }
+  ],
+  "translation": "哈抹，示劍的父親，出來到雅各那裡，要與 ⟨אתו⟩ 他說話。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "acbba441ef351150b8f15d65c954d83b33d82e476362df2ccca2283dff75687f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/34\/5-8.1792125333459.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "出來"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "哈抹"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "的父親"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "示劍"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到……那裡"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "要說話"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ 他",
+      "marks": "他（雅各）"
+    }
+  ],
+  "timestamp": "2026-10-16T04:35:33.460289033Z",
+  "model": "glm-5.3"
+}

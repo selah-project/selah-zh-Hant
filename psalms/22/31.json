@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "述說的內容",
+      "rationale": "「向阿多奈述說」（視他為聽者）與「述說關於阿多奈的事」（視他為內容）兩讀並存；後者合上下文（32節向後世宣告）"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨事⟩",
+      "rationale": "「關於阿多奈的事」補一「事」字以成中文語法"
+    }
+  ],
+  "translation": "必有後裔事奉他；必有關於阿多奈的事述說給後代。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "03fa2f55e08f0629296c390b04d1ea48a7f608edc917030c11d7cf47eb6c461f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/22\/29-32.1792143437637.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "後裔"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "必事奉他"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "必述說"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "關於阿多奈"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "給後代"
+    }
+  ],
+  "timestamp": "2026-10-16T09:37:17.638363440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "了他",
+      "rationale": "中文需補間接受詞（亞述王）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "殿",
+      "rationale": "בית直譯「房屋／家」，指雅威的殿"
+    }
+  ],
+  "translation": "希西家就把雅威殿裡和王宮府庫中所有找到的銀子都給了他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "43c029305de39882329eef63c978ccf8794fea6d3bbac64af55232c566b08ba1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/18\/13-16.1792134052989.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "給了"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "希西家"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所有找到的銀子"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀子"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "找到的"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "和……府庫中"
+    },
+    {
+      "surface": "בית",
+      "gloss": "宮"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-10-16T07:00:52.991021318Z",
+  "model": "glm-5.3"
+}

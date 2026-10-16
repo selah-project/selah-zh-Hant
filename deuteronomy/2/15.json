@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יד היתה בם",
+      "rationale": "『手在他們身上』＝攻擊他們；直譯會誤導。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "להמם…תמם",
+      "rationale": "動詞המם（擾亂）與תמם（滅盡）疊尾成韻，中文難以復現。"
+    }
+  ],
+  "translation": "雅威的手也攻擊他們，要擾亂他們，直到他們從營中被滅盡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a686c443e58d7aeb2e26679f150f77e7f2ef674122bdeb91bb5178261f2a0da4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/2\/14-16.1792142323419.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "也"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "在"
+    },
+    {
+      "surface": "בם",
+      "gloss": "攻擊他們"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "要擾亂他們"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "從……之中"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "被滅盡"
+    }
+  ],
+  "timestamp": "2026-10-16T09:18:43.420754652Z",
+  "model": "glm-5.3"
+}

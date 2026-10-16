@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 8:9",
+  "book": "amos",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בצהרים",
+      "rationale": "雙數「雙光」即正午，字面圖像消失於譯文"
+    },
+    {
+      "kind": "crux",
+      "subject": "בצהרים",
+      "rationale": "或作「正午」，或依字面「雙重的光」"
+    },
+    {
+      "kind": "mystery",
+      "subject": "本節",
+      "rationale": "白晝變暗是被封住的審判意象，屬晦暗啟示"
+    }
+  ],
+  "translation": "到那日必如此——阿多奈雅威的神諭：我必使日頭在正午落下，使大地在白晝變為黑暗。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "afb258fcd798d2b5067b7b193cc9e6248516f227d6ab1b7dbd2aca4a02cb560f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/amos\/8\/9-12.1792139853795.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "必如此"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在……之日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "那"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "神諭"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "我必使……落下"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "在正午"
+    },
+    {
+      "surface": "והחשכתי",
+      "gloss": "我必使……變為黑暗"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在……之日"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光亮"
+    }
+  ],
+  "timestamp": "2026-10-16T08:37:33.796068053Z",
+  "model": "glm-5.3"
+}

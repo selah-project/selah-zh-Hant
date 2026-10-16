@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨他們的⟩",
+      "rationale": "中文需指明牙齒所屬，希伯來文僅有代詞後綴"
+    }
+  ],
+  "translation": "願雅威受稱頌，他沒有把我們交給〈他們的〉牙齒作撕碎的獵物。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2f3f1ff67fc6c604af6d8a8895cf26968e3b4b6204f95e7d0c1401defac21b66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/124\/5-8.1792144962667.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "受稱頌"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "把我們交給"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "作撕碎的獵物"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "他們的牙齒"
+    }
+  ],
+  "timestamp": "2026-10-16T10:02:42.668467010Z",
+  "model": "glm-5.3"
+}

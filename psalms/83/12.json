@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "求你",
+      "rationale": "祈使句主語由上下文補出"
+    },
+    {
+      "kind": "substitution",
+      "subject": "君王",
+      "rationale": "נסיך本義「被膏澆奠者」，指首領／藩王"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כערב\/וכזאב",
+      "rationale": "俄立（烏鴉）與西伊伯（狼）名字本身是動物名，中文音譯失去字義"
+    }
+  ],
+  "translation": "求你使他們的首領如俄立、如西伊伯，又使他們所有的君王如西巴、如撒慕拿。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4d68588690c2e339ec328024aca5ab55546f99503f443c98eeacd1737939e6bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/83\/9-12.1792144332929.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "使"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "他們的首領"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "如俄立"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "如西伊伯"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "如西巴"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "如撒慕拿"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "君王"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:12.930134854Z",
+  "model": "glm-5.3"
+}

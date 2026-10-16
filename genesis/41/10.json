@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "都在那裡",
+      "rationale": "原文第二組אתי…ואת僅重列受詞「我…和…」，中文補一短語使句子完整。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "護衛長",
+      "rationale": "הטבחים本義「屠夫」，後指刑吏／護衛；沿用和合本「護衛長」以求可讀。"
+    }
+  ],
+  "translation": "法老向他的臣僕發怒，把⟨我⟩下在護衛長的監裡，⟨את⟩我和⟨את⟩司廚長〈都在那裡〉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "738e5aebcec41dacc9580b1a423114915c5cabc304ce52d8ee6d42f27f3a33ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/41\/9-12.1792125409780.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "發怒"
+    },
+    {
+      "surface": "על",
+      "gloss": "向"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "他的臣僕"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "把…下在"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩我",
+      "marks": "監裡"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "監裡"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…的家"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "護衛（屠宰的）"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩我",
+      "marks": "下監的對象"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "司廚長"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "司廚的"
+    }
+  ],
+  "timestamp": "2026-10-16T04:36:49.781470600Z",
+  "model": "glm-5.3"
+}

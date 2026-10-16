@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "弟弟",
+      "rationale": "אח 兄弟未標明長幼，此處依敘事語境（最小的）作弟弟"
+    }
+  ],
+  "translation": "把你們最小的弟弟帶到我這裡來，你們的話就得以證實，你們也不至於死。』他們就照樣行了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d104c970e2a5ef8838e0d24a1eede219368c1bf2f2cabca0d6f4673deafa5572",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/42\/17-20.1792125492753.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "你們最小的弟弟"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "你們的弟弟"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "最小的"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "你們帶來"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "到我這裡"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "就得以證實"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "你們的話"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "你們至於死"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "他們行了"
+    },
+    {
+      "surface": "כן",
+      "gloss": "照樣"
+    }
+  ],
+  "timestamp": "2026-10-16T04:38:12.754953921Z",
+  "model": "glm-5.3"
+}

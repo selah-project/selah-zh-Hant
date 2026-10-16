@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 32:27",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "希伯來語「若不」的慣用組合，中文譯作「你不……我就不」的條件句。"
+    },
+    {
+      "kind": "mystery",
+      "subject": "放我走吧",
+      "rationale": "那人不解釋為何黎明一到就必須離開，原因隱而未揭。"
+    }
+  ],
+  "translation": "那人說：「你放我走吧，因為黎明已經升起了。」雅各說：「你不給我祝福，我就不放你走。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7c84fd83bbbb3f69393152ff3289cc39303f19c2cc85fd490b68ccc3080d2d08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/32\/25-28.1792125200083.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "放我走吧"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "已經升起"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "黎明"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "放你走"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〈若〉"
+    },
+    {
+      "surface": "אם",
+      "gloss": "不"
+    },
+    {
+      "surface": "ברכתני",
+      "gloss": "你給我祝福"
+    }
+  ],
+  "timestamp": "2026-10-16T04:33:20.084821506Z",
+  "model": "glm-5.3"
+}

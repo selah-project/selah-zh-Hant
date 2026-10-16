@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 18:25",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלילה לך",
+      "rationale": "字面為「褻瀆之事歸於你」，慣用語譯作「斷不可歸於你」"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨那位⟩",
+      "rationale": "中文需要名詞化的「施行全地審判的那位」，希伯來文分詞短語無此結構"
+    },
+    {
+      "kind": "you",
+      "subject": "to YHWH",
+      "rationale": "亞伯拉罕直接向雅威說話"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדיק\/רשע 與 משפט\/השפט",
+      "rationale": "義人與惡人對舉，且「審判」（השפט）與「公義」（משפט）同根呼應"
+    }
+  ],
+  "translation": "「斷不可使你行這樣的事，把義人與惡人一同殺死，使義人像惡人一樣——斷不可歸於你。施行全地審判的⟨那位⟩豈不行公義嗎？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a649f003ff1173488e283ad7b205172bfca930830a85808c11cc1bdb5f850ed5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/18\/25-28.1792124818264.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חללה",
+      "gloss": "斷不可"
+    },
+    {
+      "surface": "לך",
+      "gloss": "歸於你"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "使你行"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "這樣的事"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "殺死"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "עם",
+      "gloss": "與……一同"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "使……像"
+    },
+    {
+      "surface": "כצדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "כרשע",
+      "gloss": "惡人一樣"
+    },
+    {
+      "surface": "חללה",
+      "gloss": "斷不可"
+    },
+    {
+      "surface": "לך",
+      "gloss": "歸於你"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "施行審判"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公義"
+    }
+  ],
+  "timestamp": "2026-10-16T04:26:58.265677321Z",
+  "model": "glm-5.3"
+}

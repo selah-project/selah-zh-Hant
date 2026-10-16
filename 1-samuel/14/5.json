@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "השן",
+      "rationale": "字義為「牙齒」，喻指尖削如牙的峭壁，譯作「牙狀的峭壁」以保留意象"
+    },
+    {
+      "kind": "addition",
+      "subject": "峭壁",
+      "rationale": "מצוק 一詞兼指窄隘與柱狀高地，中文以「峭壁」一語補足"
+    }
+  ],
+  "translation": "那牙狀的峭壁，一座在北邊，對著密抹；另一座在南邊，對著迦巴。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8c12ceb12aa27484046b689bc581ca37953665bbfdb0f1554390b27fc9e21e2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/14\/5-8.1792131050689.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "牙狀的"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一座"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "峭壁"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "在北邊"
+    },
+    {
+      "surface": "מול",
+      "gloss": "對著"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "密抹"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "另一座"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "在南邊"
+    },
+    {
+      "surface": "מול",
+      "gloss": "對著"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "迦巴"
+    }
+  ],
+  "timestamp": "2026-10-16T06:10:50.689810449Z",
+  "model": "glm-5.3"
+}

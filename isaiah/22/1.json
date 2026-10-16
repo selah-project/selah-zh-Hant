@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "默示",
+      "rationale": "משא 直譯為「重擔」，既是負擔又是神諭；「默示」取其神諭義，「重擔」之義失落"
+    },
+    {
+      "kind": "idiom",
+      "subject": "上了屋頂",
+      "rationale": "古人哀悼或在屋頂觀望，此處諷刺全城居民聚集屋頂"
+    },
+    {
+      "kind": "you",
+      "subject": "耶路撒冷（異象谷）",
+      "rationale": "直接向城發問的呼語"
+    }
+  ],
+  "translation": "關於異象谷的默示。你如今怎麼了，竟全都上了屋頂？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b3e4ea3d07311a81b849e0c79b10142bf06d4098aa7c5770fa2ba336fa6ef54b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/22\/1-4.1792134924814.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "默示"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "谷"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "異象"
+    },
+    {
+      "surface": "מה",
+      "gloss": "怎麼"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "如今"
+    },
+    {
+      "surface": "כי",
+      "gloss": "竟"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "上了"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "你全都"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "屋頂"
+    }
+  ],
+  "timestamp": "2026-10-16T07:15:24.815116308Z",
+  "model": "glm-5.3"
+}

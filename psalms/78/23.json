@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "中文需主語，希伯來文動詞詞尾已含第三人稱單數"
+    }
+  ],
+  "translation": "他曾命令雲彩從上頭，並敞開天空的門戶。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "da57fde5bf333c2237b2715ecd4a86ab6c59a3732dd97f0a4f93e32741e3d531",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/78\/21-24.1792144261423.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "他命令"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "雲彩"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "從上頭"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "並……的門戶"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天空"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "敞開"
+    }
+  ],
+  "timestamp": "2026-10-16T09:51:01.424849068Z",
+  "model": "glm-5.3"
+}

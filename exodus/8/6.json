@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "行",
+      "rationale": "『照你的話』後中文需一動詞，希伯來文省略"
+    },
+    {
+      "kind": "measurement",
+      "subject": "למחר",
+      "rationale": "摩西定出明確時間：到明天"
+    }
+  ],
+  "translation": "他說：「到明天。」並說：「照你的話⟨行⟩，為要使你知道，沒有像雅威我們的以羅欣的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9e9427d8b92bb99e327c4bad150b756db9234ba05a5d4e14ddea01e356c1831e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/8\/5-8.1792125847492.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "到明天"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "並說"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "照你的話"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為要"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "你知道"
+    },
+    {
+      "surface": "כי",
+      "gloss": "那"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "像雅威"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "我們的以羅欣"
+    }
+  ],
+  "timestamp": "2026-10-16T04:44:07.493554357Z",
+  "model": "glm-5.3"
+}

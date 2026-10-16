@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 43:14",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שכלתי שכלתי",
+      "rationale": "「喪子」一詞重複兩次—— resignation 的修辭重複，中文以「就喪了吧」保留"
+    },
+    {
+      "kind": "addition",
+      "subject": "若／就",
+      "rationale": "原文無條件詞，只有重複的動詞，中文以「若……就」承載讓步語氣"
+    }
+  ],
+  "translation": "願伊勒·沙代賜你們憐憫在那人面前，使他釋放 ⟨את⟩ 你們的另一個兄弟和 ⟨את⟩ 便雅憫歸回你們；至於我，我若喪子，就喪了吧。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f3cf59480239a9db7dc154829027e9fffeebfd17fc1de920ea78a0b0a93e9c95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/43\/13-16.1792125549834.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "願伊勒"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "沙代"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "賜"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "憐憫"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在……面前"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "那人"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "釋放"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "歸回你們"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你們的另一個兄弟"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "你們的兄弟"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "另一個"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "便雅憫"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "便雅憫"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "至於我"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "若"
+    },
+    {
+      "surface": "שכלתי",
+      "gloss": "喪子"
+    },
+    {
+      "surface": "שכלתי",
+      "gloss": "喪了吧"
+    }
+  ],
+  "timestamp": "2026-10-16T04:39:09.835060383Z",
+  "model": "glm-5.3"
+}

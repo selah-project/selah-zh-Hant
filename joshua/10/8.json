@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 10:8",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את 未以獨立詞出現",
+      "rationale": "本節的受詞標記溶於後綴形 נתתים（我已將他們交出），故以⟨את⟩標記此受詞結構"
+    },
+    {
+      "kind": "you",
+      "subject": "雅威對約書亞",
+      "rationale": "雅威直接向約書亞說話的應許"
+    }
+  ],
+  "translation": "雅威對約書亞說：「不要怕他們，因為我已將⟨את⟩他們交在你手中；他們中無一人能站在你面前。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1e74cfe1b550b7e57f9a04c7bd4fdb7dffe80dba1e8250f52c2697332bf47c0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/10\/5-8.1792129655385.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "怕"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "在你手中"
+    },
+    {
+      "surface": "נתתים",
+      "gloss": "我已將……交"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "站"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一人"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "他們中"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "在你面前"
+    }
+  ],
+  "timestamp": "2026-10-16T05:47:35.387114253Z",
+  "model": "glm-5.3"
+}

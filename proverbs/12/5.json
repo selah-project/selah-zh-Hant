@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文名詞句無繫詞，中文需加"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "心思\/計謀 對仗",
+      "rationale": "מחשבות 與 תחבלות 平行對仗，後者字根本義為「操縱船纜」，比喻籌劃"
+    }
+  ],
+  "translation": "義人的心思是公正，惡人的計謀是詭詐。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d2779ffb0844c10ed427f898d0e6419f70e0ab81aee59b173f3351f6e1aae832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/12\/5-8.1792145346137.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "心思"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義人"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公正"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "計謀"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "詭詐"
+    }
+  ],
+  "timestamp": "2026-10-16T10:09:06.137770291Z",
+  "model": "glm-5.3"
+}

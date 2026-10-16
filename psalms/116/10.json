@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "傳統讀作因果「因此我說」（KJV）；JPS 讀作讓步「即使我說」；YL T 讀作「因為我（仍要）說話」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האמנתי\/אדבר",
+      "rationale": "林後 4:13 引此節；希伯來文的信念—言說結構在中文中失去簡潔對仗"
+    }
+  ],
+  "translation": "我信了，所以⟨我⟩說話：我受了大大的苦。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9f58a11b1cc15e365db798881c68fda07224e8dec0b6059f3be84b87af347ac0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/116\/9-12.1792144791713.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "我信了"
+    },
+    {
+      "surface": "כי",
+      "gloss": "所以"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "我說話"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "我受了苦"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "大大地"
+    }
+  ],
+  "timestamp": "2026-10-16T09:59:51.714142584Z",
+  "model": "glm-5.3"
+}

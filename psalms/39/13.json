@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 39:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "留心聽向我的眼淚",
+      "rationale": "「耳向眼淚敞開」的希伯來意象，直譯會生硬，譯作留心聽我的眼淚"
+    },
+    {
+      "kind": "substitution",
+      "subject": "在你面前",
+      "rationale": "עמך 是「與你同在／一起」，譯作在你面前以合中文語感"
+    },
+    {
+      "kind": "crux",
+      "subject": "寄居者與旅居者",
+      "rationale": "גר（外來客）與 תושב（定居的僑居者）近義並列，譯者常合併為一詞；此處保留兩詞"
+    },
+    {
+      "kind": "invitation",
+      "subject": "對雅威",
+      "rationale": "三個祈使語態的懇求：垂聽、留心聽、不要緘默"
+    }
+  ],
+  "translation": "求你垂聽我的祈禱，雅威；留心聽我的呼求；向我的眼淚⟨側耳⟩，不要緘默；因為我是在你面前的寄居者，是旅居者，像我一切的祖先一樣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "32dda2c6d6aa40aa90750d9eeee234d260e80059d32e31ad366d758851fa307d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/39\/13-14.1792143690970.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "求你垂聽"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "我的祈禱"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "和我的呼求"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "留心聽"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "我的眼淚"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "緘默"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "גר",
+      "gloss": "寄居者"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "在你面前"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "旅居者"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "像一切"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "我的祖先"
+    }
+  ],
+  "timestamp": "2026-10-16T09:41:30.971133773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אנכי אנכי",
+      "rationale": "「我，我」的重複是希伯來文的強調法；中文以「我，惟有我」傳達其力道"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "承接上節法庭語境，宣告者對見證人以色列說"
+    }
+  ],
+  "translation": "我，惟有我是雅威；除我以外，沒有拯救者。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2086284d44258a805aeeb1f6ef139858f95212ee8d470fe6876a6f00ce54e638",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/43\/9-12.1792135413788.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "惟有我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "除我以外"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "拯救者"
+    }
+  ],
+  "timestamp": "2026-10-16T07:23:33.789443158Z",
+  "model": "glm-5.3"
+}

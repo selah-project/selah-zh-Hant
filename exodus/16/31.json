@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צפיחת",
+      "rationale": "僅此處與民數記11:8出現：「薄餅」或「油煎餅」，各家譯法不一。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "גד",
+      "rationale": "芫荽一詞在《塔納赫》中僅出現於此處及出16:34的平行敘述語境之外極罕見。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "嗎哪",
+      "rationale": "מן源自「這是什麼」（man hu）的提問，名字本身是個問題，音譯保留。"
+    }
+  ],
+  "translation": "以色列家稱 ⟨את⟩ 它的名字為嗎哪；它像芫荽子，是白色的，味道如同攙蜜的薄餅。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dc64eb92fd66c561715791ee4c52d4ee26b946a0cf6c7b958822b20cca9f2675",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/16\/29-32.1792126050739.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "稱了"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "它的名字"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "它的名字"
+    },
+    {
+      "surface": "מן",
+      "gloss": "嗎哪"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "它"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "像種子"
+    },
+    {
+      "surface": "גד",
+      "gloss": "芫荽"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "白色的"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "它的味道"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "如同薄餅"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "攙蜜的"
+    }
+  ],
+  "timestamp": "2026-10-16T04:47:30.741044817Z",
+  "model": "glm-5.3"
+}

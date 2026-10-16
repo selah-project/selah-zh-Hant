@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יצג",
+      "rationale": "字面是「被安置／留下」；各譯本或作「留下」或作「留下作抵押」，此處取被動的「留下來」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "孩子",
+      "rationale": "טַף 指家中年幼的成員（家眷、小孩），統稱「孩子」。"
+    },
+    {
+      "kind": "you",
+      "subject": "法老對摩西",
+      "rationale": "法老直接向摩西說話，讓步中仍扣留牲畜。"
+    }
+  ],
+  "translation": "法老召了摩西來，說：「去事奉 ⟨את⟩ 雅威吧；只是你們的羊羣和牛羣要留下來，你們的孩子也和你們同去。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4afe2dc940b2d1c652d6ac864512f759a948c80af82daf006aaff879d85716ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/10\/21-24.1792125865286.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "召了"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "אל",
+      "gloss": "來（對）"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "去"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "事奉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "רק",
+      "gloss": "只是"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "你們的羊羣"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "和你們的牛羣"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "留下來"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "你們的孩子"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "去"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "和你們同"
+    }
+  ],
+  "timestamp": "2026-10-16T04:44:25.287901918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 28:48",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "攻擊你",
+      "rationale": "בך字面是「在你身上／在你裡面」，指差敵人「臨到你」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבד的重複",
+      "rationale": "第47節「不事奉雅威」與第48節「必事奉仇敵」同一動詞，對比在中文保留。"
+    }
+  ],
+  "translation": "你就必在飢餓、乾渴、赤身、萬物缺乏之中，事奉 ⟨את⟩ 你的仇敵，就是雅威所要差來攻擊你的；他必將鐵軛放在你的頸上，直到他除滅 ⟨את⟩ ⟨אותך⟩ 你。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1f73694980dbef0bf8ab8657d8e1cba56fe22d008ade40749fde568454a7594b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/28\/45-48.1792129173765.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבדת",
+      "gloss": "你就必事奉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的仇敵"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "你的仇敵"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "所要差來"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בך",
+      "gloss": "攻擊你"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "在飢餓"
+    },
+    {
+      "surface": "ובצמא",
+      "gloss": "乾渴"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "赤身"
+    },
+    {
+      "surface": "ובחסר",
+      "gloss": "缺乏"
+    },
+    {
+      "surface": "כל",
+      "gloss": "萬物"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "他必放"
+    },
+    {
+      "surface": "על",
+      "gloss": "軛"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "鐵"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "你的頸上"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "他除滅"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨אותך⟩",
+      "marks": "你"
+    }
+  ],
+  "timestamp": "2026-10-16T05:39:33.766685839Z",
+  "model": "glm-5.3"
+}

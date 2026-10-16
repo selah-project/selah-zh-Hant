@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נתן……如",
+      "rationale": "字面是「賜予\/使成」，意為「使多如」；中文以「使……多如」傳意。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לרב",
+      "rationale": "字面「以致豐多」，KJV 作 ”for abundance”；譯為「多得無法計數」。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "銀如石頭、香柏如桑樹",
+      "rationale": "以誇張的量化比喻述說財富之多。"
+    }
+  ],
+  "translation": "王使銀子和⟨את⟩金子在耶路撒冷多如石頭，香柏樹多如低地的桑樹，多得無法計數。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a13e8e4f07dc619318b076161adee6a2eb32ad6607a5f91ac5087cd5f0918713",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/1\/14-15.1792150005588.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "王使……有"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "銀子"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀子"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "金子"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "和金子"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "在耶路撒冷"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "如石頭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "香柏樹"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "香柏樹"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "使……有"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "如桑樹"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "在低地"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "多得無法計數"
+    }
+  ],
+  "timestamp": "2026-10-16T11:26:45.588812861Z",
+  "model": "glm-5.3"
+}

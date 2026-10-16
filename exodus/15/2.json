@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 15:2",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואנוהו",
+      "rationale": "或讀作 ואנוהו（源自 נוה，「居所」）——「我要為他預備居所」（KJV）；或讀作 ואוהו（源自 יהה）——「我要尊崇他」（七十士譯本、JPS）。"
+    },
+    {
+      "kind": "addition",
+      "subject": "「是」",
+      "rationale": "עזי וזמרת יה 無動詞；中文補「是」。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "זמרת",
+      "rationale": "此形僅見於此（及賽 12:2；詩 118:14 引用）——「詩歌／頌讚」的罕見形。"
+    }
+  ],
+  "translation": "雅是我的力量和我的詩歌，他也成了我的拯救。這是我的伊勒，我要尊崇他；我父親的以羅欣，我要高舉他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bdfb3a96fc3cb785010d36ed133e28ef776ab7e63c92c2856664559acd0cb367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/15\/1-4.1792125987971.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "我的力量"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "和我的詩歌"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "他也成了"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我的"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "拯救"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我的伊勒"
+    },
+    {
+      "surface": "ואנוהו",
+      "gloss": "我要尊崇他"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "的以羅欣"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我父親"
+    },
+    {
+      "surface": "וארממנהו",
+      "gloss": "我要高舉他"
+    }
+  ],
+  "timestamp": "2026-10-16T04:46:27.971962955Z",
+  "model": "glm-5.3"
+}

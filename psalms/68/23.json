@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אשיב…אשיב",
+      "rationale": "同一動詞重複兩次，詩體疊句強調帶回的確定，中文保留兩次「我要帶回」"
+    },
+    {
+      "kind": "alternative",
+      "subject": "帶回的對象",
+      "rationale": "希伯來文未言明帶回誰——或指被擄的子民（多數譯本補「我的民」），或按上文指被擊碎的仇敵"
+    }
+  ],
+  "translation": "阿多奈說：「我要從巴珊帶回，我要從海的深處帶回。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7d1ce227a1f20f3019b18c287bbf851593961d95f40d6f997cd7aca082101515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/68\/21-24.1792144055107.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "從巴珊"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "我要帶回"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "我要帶回"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "從深處"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    }
+  ],
+  "timestamp": "2026-10-16T09:47:35.108279164Z",
+  "model": "glm-5.3"
+}

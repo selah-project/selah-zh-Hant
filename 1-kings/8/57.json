@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-kings 8:57",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "中文需主語，希伯來文動詞詞尾已含「我們」，主語以⟨他⟩補出"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עזב\/נטש",
+      "rationale": "「離棄／撇下」為近義並列，中文以兩個近義詞保留"
+    }
+  ],
+  "translation": "願雅威我們的以羅欣與我們同在，正如他從前與我們列祖同在一樣；願⟨他⟩不離棄我們，也不撇下我們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d611074c2dce6dc2205ae58c87777883de1ccc264ba1c45a58d28c1951626fb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/8\/57-60.1792132838532.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "願…垂下"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "我們的以羅欣"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "與我們同在"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "正如"
+    },
+    {
+      "surface": "היה",
+      "gloss": "同在"
+    },
+    {
+      "surface": "עם",
+      "gloss": "與"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "我們列祖"
+    },
+    {
+      "surface": "אל",
+      "gloss": "願不"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "離棄我們"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "也不"
+    },
+    {
+      "surface": "יטשנו",
+      "gloss": "撇下我們"
+    }
+  ],
+  "timestamp": "2026-10-16T06:40:38.532800386Z",
+  "model": "glm-5.3"
+}

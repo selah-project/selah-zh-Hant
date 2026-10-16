@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זה",
+      "rationale": "「למה זה」可作「這是為什麼」或僅強化疑問詞「究竟為什麼」"
+    },
+    {
+      "kind": "elision",
+      "subject": "זה",
+      "rationale": "指示詞「這」在譯文中以括號形式保留，中文語感下近乎虛詞"
+    }
+  ],
+  "translation": "百姓在那裏渴得要水喝，百姓就向摩西發怨言，說：「你為什麼把我們從埃及領上來，要使我、我的兒子和我的牲畜都渴死呢？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4e0cb33fb780de23a5457460b0fac974a3ed65f1b147121e73b186193c4b33d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/17\/1-4.1792126096932.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "渴"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裏"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "למים",
+      "gloss": "要水"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "發怨言"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "על",
+      "gloss": "向"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "למה",
+      "gloss": "為什麼"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨這⟩"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "把我們領上來"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "從埃及"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "要……死"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "我"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "我的兒子"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我的兒子"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "我的牲畜"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "我的牲畜"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "因渴"
+    }
+  ],
+  "timestamp": "2026-10-16T04:48:16.933215038Z",
+  "model": "glm-5.3"
+}

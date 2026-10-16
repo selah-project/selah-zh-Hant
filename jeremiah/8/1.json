@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 8:1",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "人",
+      "rationale": "希伯來文動詞 ויציאו 未指明主語，中文加「人」以成句"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עצמות重複",
+      "rationale": "「骸骨」一詞重複五次，名單式的排比如奏喪鐘，中文保留其重複"
+    }
+  ],
+  "translation": "在那時候——雅威說——人必將猶大諸王的骸骨、⟨את⟩ 其首領的骸骨、⟨את⟩ 眾祭司的骸骨、⟨את⟩ 眾先知的骸骨、以及 ⟨את⟩ 耶路撒冷居民的骸骨，從他們的墳墓中取出來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7ead3dc54f29b85c3152caf1608472c3fe47d6f0ff29a9e053dc93b66b485668",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/8\/1-4.1792136440799.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "在那時候"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "那"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "說（神諭）"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויציאו",
+      "gloss": "必取出來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "猶大諸王的骸骨"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "骸骨"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "其首領的骸骨"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "骸骨"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "其首領"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "眾祭司的骸骨"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "骸骨"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "眾祭司"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "眾先知的骸骨"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "骸骨"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "眾先知"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "耶路撒冷居民的骸骨"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "骸骨"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "מקבריהם",
+      "gloss": "從他們的墳墓中"
+    }
+  ],
+  "timestamp": "2026-10-16T07:40:40.800156486Z",
+  "model": "glm-5.3"
+}

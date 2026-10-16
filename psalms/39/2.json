@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 39:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אשמרה",
+      "rationale": "「謹守」一詞在兩行中重複（謹守道路／謹守口），希伯來文的平行重複在中文中保留"
+    },
+    {
+      "kind": "substitution",
+      "subject": "嚼環籠住",
+      "rationale": "מחסום字面是「口套／籠頭」（如牲口的口套），和合本作「嚼環」；英文各本作muzzle或bridle"
+    }
+  ],
+  "translation": "我曾說：我要謹守我的道路，免得用舌頭犯罪；惡人還在我面前的時候，我要用嚼環籠住我的口。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7c2ab32a375ff9e54959f3239a0df1553b2b559a7759a3e1daabf1d04a1ed9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/39\/1-4.1792143741415.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "我曾說"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "我要謹守"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "我的道路"
+    },
+    {
+      "surface": "מחטוא",
+      "gloss": "免得……犯罪"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "用舌頭"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "我要謹守"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "我的口"
+    },
+    {
+      "surface": "מחסום",
+      "gloss": "用嚼環籠住"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "……的時候"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "在我面前"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:21.415816184Z",
+  "model": "glm-5.3"
+}

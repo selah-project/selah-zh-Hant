@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הנה והנה",
+      "rationale": "「向這邊、向那邊」同一詞根重複，畫出水分開的對稱畫面，中文以「左右」保留。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בחרבה",
+      "rationale": "原文是「在乾地上」——地已乾（參出14），非泛指「乾地而過」的抽象說法。"
+    }
+  ],
+  "translation": "以利亞拿 ⟨את⟩ 他的外衣捲起來，擊打 ⟨את⟩ 那水，水就左右分開，二人就走乾地而過。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "88f0fe0068bb156ab1f7f708bd0d8bec9551f84262d36e9c3e2e7d79489100e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/2\/5-8.1792133529495.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "拿"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "以利亞"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的外衣"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "他的外衣"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "捲起來"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "擊打"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那水"
+    },
+    {
+      "surface": "המים",
+      "gloss": "那水"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "分開"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "向這邊"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "向那邊"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "過去"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "二人"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "走乾地"
+    }
+  ],
+  "timestamp": "2026-10-16T06:52:09.496623361Z",
+  "model": "glm-5.3"
+}

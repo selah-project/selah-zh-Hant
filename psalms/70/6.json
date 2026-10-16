@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to God",
+      "rationale": "詩人直接向以羅欣和雅威呼求的祈禱"
+    },
+    {
+      "kind": "addition",
+      "subject": "我是",
+      "rationale": "希伯來文無繫詞，中文需要「我是」連接"
+    },
+    {
+      "kind": "substitution",
+      "subject": "拯救者",
+      "rationale": "מפלטי 是分詞「那使我逃脫的」，中文以名詞化「拯救者」表達"
+    }
+  ],
+  "translation": "至於我，我是貧困的、窮乏的；以羅欣啊，求你快快到我這裡來。你是我的幫助、我的拯救者；雅威啊，求你不要耽延。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5472612b7449b7643614afcc20f7d591ddaadc21d2e1b50d1f5b2e14a76832a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/70\/5-6.1792144093409.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "至於我"
+    },
+    {
+      "surface": "עני",
+      "gloss": "貧困的"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "窮乏的"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "求你快快來"
+    },
+    {
+      "surface": "לי",
+      "gloss": "到我這裡"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "我的幫助"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "我的拯救者"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你是"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "求不要"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "耽延"
+    }
+  ],
+  "timestamp": "2026-10-16T09:48:13.409747964Z",
+  "model": "glm-5.3"
+}

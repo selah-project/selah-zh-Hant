@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בני האדם",
+      "rationale": "直譯「那人（亞當）的眾子」，此處泛指人類，譯作「人的子孫」"
+    },
+    {
+      "kind": "idiom",
+      "subject": "降下來",
+      "rationale": "擬人筆法：雅威親臨察看，非真的由上而下移動"
+    }
+  ],
+  "translation": "雅威降下來，要察看 ⟨את⟩ 那城和 ⟨את⟩ 那塔，就是人的子孫所建造的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "69d5a501e1f549f4d9adc257799f261adc105898adba55e5a1de8d8dc822b5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/11\/5-8.1792124779756.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "降下來"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "要察看"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那城"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "那城"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "那塔"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "那塔"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是……的"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "所建造"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……的子孫"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-10-16T04:26:19.756852831Z",
+  "model": "glm-5.3"
+}

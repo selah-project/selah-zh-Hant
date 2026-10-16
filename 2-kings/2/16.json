@@ -1,0 +1,157 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 2:16",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "此處的 את 是介詞「與、在…那裡」，並非受詞記號；中文以「你僕人這裡有」譯出其伴隨之義"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בני חיל",
+      "rationale": "字面「力量之子」，即英勇之士；譯作「壯士」亦通"
+    },
+    {
+      "kind": "measurement",
+      "subject": "五十",
+      "rationale": "僕人的人數被具體數算：五十人"
+    }
+  ],
+  "translation": "他們對他說：「看哪，求你，⟨את⟩ 你僕人這裡有五十個英勇之士，讓他們去尋找 ⟨את⟩ 你主吧，恐怕雅威的魯阿把他提起，拋在某一座山上，或拋在某一個山谷裡。」他說：「你們不可打發去。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c44a39ee10cbb524acb8865b40d9842968029f4faf6192e773c63c1921fcb9be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/2\/13-16.1792133558643.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "他們對…說"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "他"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "נא",
+      "gloss": "求你"
+    },
+    {
+      "surface": "יש",
+      "gloss": "有"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你僕人"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "你僕人"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "個…人"
+    },
+    {
+      "surface": "בני",
+      "gloss": "之子"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "英勇"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "讓他們去"
+    },
+    {
+      "surface": "נא",
+      "gloss": "求你"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "尋找"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你主"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "你主"
+    },
+    {
+      "surface": "פן",
+      "gloss": "恐怕"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "提起"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "魯阿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וישלכהו",
+      "gloss": "拋"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "在某一"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "山"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "在某一"
+    },
+    {
+      "surface": "הגיאות",
+      "gloss": "山谷"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "打發去"
+    }
+  ],
+  "timestamp": "2026-10-16T06:52:38.645181602Z",
+  "model": "glm-5.3"
+}

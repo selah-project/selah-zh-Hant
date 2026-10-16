@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 26:8",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תחתם",
+      "rationale": "「在其下」的「其」指雲還是水？KJV 作雲在水之下不裂；JPS 同；本譯取「雲在其（水）下不破裂」"
+    },
+    {
+      "kind": "addition",
+      "subject": "祂",
+      "rationale": "原文分詞片語無主語，承上文的雅威，中文需補出"
+    }
+  ],
+  "translation": "祂將諸水捆束在祂的密雲之中，雲在其下並不破裂。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "152c63d6c621933ac89e1e3a17fb121e5eeb47d3b2b672f34f85d76c3ffae927",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/26\/5-8.1792146291198.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "捆束"
+    },
+    {
+      "surface": "מים",
+      "gloss": "諸水"
+    },
+    {
+      "surface": "בעביו",
+      "gloss": "在祂的密雲之中"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "而不"
+    },
+    {
+      "surface": "נבקע",
+      "gloss": "破裂"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "在其下"
+    }
+  ],
+  "timestamp": "2026-10-16T10:24:51.199550738Z",
+  "model": "glm-5.3"
+}

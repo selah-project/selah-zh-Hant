@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "它",
+      "rationale": "אותו 的先行詞出自上文的「我的名」，中文補出受詞"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחללים\/מגאל",
+      "rationale": "「褻瀆」與「玷污」二字呼應：祭司褻瀆的名，正是他們口中說被玷污的桌子"
+    }
+  ],
+  "translation": "你們卻褻瀆 ⟨אותו⟩ 它，因為你們說：「阿多奈的桌子是被玷污的，它的出產、它的食物是可藐視的。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "337b958ab3e2127b39674fa08f035a3df99a5d3749d21d43654f61ce16cd92e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/malachi\/1\/9-12.1792143119377.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "你們卻"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "褻瀆"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "它（我的名）"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "因為你們說"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "桌子"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "被玷污的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "它"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "而它的出產"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "可藐視的"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "它的食物"
+    }
+  ],
+  "timestamp": "2026-10-16T09:31:59.378390347Z",
+  "model": "glm-5.3"
+}

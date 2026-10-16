@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "對君王",
+      "rationale": "引語直接斥責列王：不可碰、不可害，是雅威藉詩人對欺壓者的警告。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אל תגעו…אל תרעו",
+      "rationale": "兩個禁令近音呼應（tigʿu \/ tarʿu），中文以重複「不可」再現節奏。"
+    }
+  ],
+  "translation": "說：「不可碰我的受膏者，不可加害我的先知。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9bcd5fa945c956f216e73e64353d732b6dd67505ae7714aa05e78c7dc51889dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/105\/13-16.1792144637179.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "碰"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "我的受膏者"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "而我的先知"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "加害"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:17.179975097Z",
+  "model": "glm-5.3"
+}

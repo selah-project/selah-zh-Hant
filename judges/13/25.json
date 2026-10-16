@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 13:25",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "魯阿",
+      "rationale": "רוח 屬雅威，譯作音譯「魯阿」並括註「靈」，拒用「聖靈」"
+    },
+    {
+      "kind": "crux",
+      "subject": "לפעמו",
+      "rationale": "意為「按時敲擊／攪動他」：和修作「激動」，KJV 'move him at times'，另有譯作「催促」"
+    },
+    {
+      "kind": "alternative",
+      "subject": "瑪哈念．但",
+      "rationale": "מחנה דן 可作專名「但的營」（Mahaneh-dan，如 ASV\/JPS），此處依字面譯「但營」"
+    }
+  ],
+  "translation": "雅威的魯阿（靈）開始在瑪哈念．但營中、在瑣拉和以實陶之間激動他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e79da95a215a2f3eee2705ac82865cfaa277ccae0b63d158c82537f647cbe204",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/13\/25-25.1792130387286.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחל",
+      "gloss": "開始"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "魯阿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לפעמו",
+      "gloss": "激動他"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "在……營中"
+    },
+    {
+      "surface": "דן",
+      "gloss": "但"
+    },
+    {
+      "surface": "בין",
+      "gloss": "在……之間"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "瑣拉"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "和……之間"
+    },
+    {
+      "surface": "אשתאל",
+      "gloss": "以實陶"
+    }
+  ],
+  "timestamp": "2026-10-16T05:59:47.287235302Z",
+  "model": "glm-5.3"
+}

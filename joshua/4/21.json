@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 4:21",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "約書亞對以色列子孫說話，引述將來子孫的問題。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "日後",
+      "rationale": "מחר字面是「明天」，此處指未來的時日。"
+    }
+  ],
+  "translation": "他對以色列的子孫說：「日後你們的子孫問 ⟨את⟩ 他們的父親說：『這些石頭是什麼意思？』",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6cec6a287fa36478e2ac566c02b552c850c37894f66cff8fcf2d2ba9355ceba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/4\/21-24.1792129449907.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "當"
+    },
+    {
+      "surface": "ישאלון",
+      "gloss": "問"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "你們的子孫"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "日後"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的父親"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "他們的父親"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "מה",
+      "gloss": "什麼"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "這些石頭"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    }
+  ],
+  "timestamp": "2026-10-16T05:44:09.908083097Z",
+  "model": "glm-5.3"
+}

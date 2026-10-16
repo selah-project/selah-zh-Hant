@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "八天",
+      "rationale": "בן שמנת ימים 直譯「八天之子」，是精確的日齡計數"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "צוה אתו 的受詞記號指亞伯拉罕，中文以代詞「他」承接，僅以記號保留"
+    }
+  ],
+  "translation": "亞伯拉罕給以羅欣所吩咐他的，在他的兒子以撒生下來八天的時候，行了割禮 ⟨את⟩ 以撒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cd8243c2b20d6e3a961189ee6c25caf43fcc61abdb85e6ece7cf86bd398351e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/21\/1-4.1792124945524.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "行了割禮"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以撒"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "他的兒子"
+    },
+    {
+      "surface": "בן",
+      "gloss": "……歲的"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "八"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "天"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照……所吩咐的"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "吩咐"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "他"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-10-16T04:29:05.525449078Z",
+  "model": "glm-5.3"
+}

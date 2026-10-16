@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "呢",
+      "rationale": "希伯來文疑問詞 מי 已承載疑問語氣，中文句末助詞為語法所需"
+    },
+    {
+      "kind": "substitution",
+      "subject": "這一切",
+      "rationale": "זאת 原文為單數「這」，中文以複數概括上帝的作為"
+    }
+  ],
+  "translation": "在這一切之中，誰不曉得呢？乃是雅威的手造了這一切。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ff3b4df072ff2e545b0f9cf9949b11f9eb09ee997cd08f68424c37cda5ca1a7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/12\/9-12.1792145953601.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "曉得"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "在……之中一切"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "כי",
+      "gloss": "乃是"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "造了"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    }
+  ],
+  "timestamp": "2026-10-16T10:19:13.601567434Z",
+  "model": "glm-5.3"
+}

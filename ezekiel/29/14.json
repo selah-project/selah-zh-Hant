@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 29:14",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שבות",
+      "rationale": "「被擄歸回」與「復興前況」兩讀；此處隨多數譯本取「被擄之民歸回」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבתי\/השבתי\/שבות",
+      "rationale": "同根 שׁוב 三連——歸回、領回、被擄歸回——中文無法保留此字根迴響"
+    },
+    {
+      "kind": "substitution",
+      "subject": "על",
+      "rationue": "על 此處作「歸回、進入」之義而非「在……之上」，按文意譯出"
+    }
+  ],
+  "translation": "我必使埃及被擄的歸回，領他們回巴忒羅地，歸回他們出生之地；他們必在那裡作低微的王國。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d7776574e5fa9a1611955f73768600e1a5932d0f2b9abd138187164eea311b3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/29\/13-16.1792138771205.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "我必使……歸回"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "被擄"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "被擄"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "我必領回"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "巴忒羅地"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "巴忒羅"
+    },
+    {
+      "surface": "על",
+      "gloss": "歸回"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מכורתם",
+      "gloss": "他們出生之地"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "他們必作"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裡"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "王國"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "低微的"
+    }
+  ],
+  "timestamp": "2026-10-16T08:19:31.206164365Z",
+  "model": "glm-5.3"
+}

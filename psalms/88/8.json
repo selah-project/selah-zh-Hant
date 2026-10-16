@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "烈怒",
+      "rationale": "חמתך 字面是「你的熱氣／怒火」，heat 的比喻"
+    },
+    {
+      "kind": "substitution",
+      "subject": "波浪",
+      "rationale": "משבריך 字面是「你的破碎者」——海浪拍碎之意"
+    },
+    {
+      "kind": "you",
+      "subject": "向雅威",
+      "rationale": "直接向雅威說話：烈怒與波浪皆出於祂之手"
+    }
+  ],
+  "translation": "你的烈怒壓在我身上，你用你一切的波浪壓制我。（細拉）",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4986458f8f31a4cb2e7082312e24ed0960421b2a4032994f54e840e23fe000d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/88\/5-8.1792144465521.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "在我身上"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "壓"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "你的烈怒"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和你一切的"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "波浪"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "你壓制"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "（細拉）"
+    }
+  ],
+  "timestamp": "2026-10-16T09:54:25.523026584Z",
+  "model": "glm-5.3"
+}

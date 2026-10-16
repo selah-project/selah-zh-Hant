@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "一體",
+      "rationale": "לבשר אחד 直譯『成為一個肉』，即一個血肉之體；『一體』是中文慣用而仍存其意"
+    },
+    {
+      "kind": "crux",
+      "subject": "敘述者",
+      "rationale": "此節是敘事者的評述還是亞當的話延伸，譯者意見不一；希伯來文無引號可判"
+    }
+  ],
+  "translation": "因此，人要離開⟨את⟩他的父親和⟨את⟩他的母親，與他的妻子連合，二人成為一體。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f140cd0774f5bb110bd3acd7ed3aec53bebda3d6b35a55e10dd6ed8102089fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/2\/21-24.1792124529933.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "因"
+    },
+    {
+      "surface": "כן",
+      "gloss": "此"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "要離開"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的父親"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "他的父親"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "他的母親"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "他的母親"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "與……連合"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "他的妻子"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "成為"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "一體"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一"
+    }
+  ],
+  "timestamp": "2026-10-16T04:22:09.934479896Z",
+  "model": "glm-5.3"
+}

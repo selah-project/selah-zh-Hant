@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 39:1",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "護衛長",
+      "rationale": "שר הטבחים 字面是「屠夫們的長」，實指行刑侍衛之首；傳統譯「護衛長」"
+    },
+    {
+      "kind": "crux",
+      "subject": "臣宰",
+      "rationale": "סריס 本義「宦官」，後泛指宮廷官員；此處取「臣宰／內臣」而非「太監」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הורד…הורדהו",
+      "rationale": "「被帶下」重複兩次，強調約瑟被販下的羞辱循環，中文保留重複"
+    }
+  ],
+  "translation": "約瑟被帶下到埃及去，法老的臣宰、護衛長波提乏，一個埃及人，從以實瑪利人手中買了他，就是那些把他帶下到那裡的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "17e25ea9f80445fb68623ec36d87ab2dc3e7437fdba07a19abc3006360b6fcf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/39\/1-4.1792125430914.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "被帶下"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "到埃及去"
+    },
+    {
+      "surface": "ויקנהו",
+      "gloss": "買了他"
+    },
+    {
+      "surface": "פוטיפר",
+      "gloss": "波提乏"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "臣宰"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老的"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "護衛"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一個人"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "埃及人"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "從……手中"
+    },
+    {
+      "surface": "הישמעאלים",
+      "gloss": "以實瑪利人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是那些"
+    },
+    {
+      "surface": "הורדהו",
+      "gloss": "把他帶下"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "到那裡"
+    }
+  ],
+  "timestamp": "2026-10-16T04:37:10.915361228Z",
+  "model": "glm-5.3"
+}

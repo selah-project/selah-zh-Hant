@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "באהלו",
+      "rationale": "「他的帳棚」——大衛自己的帳棚（KJV、JPS），或解作雅威的帳幕（武加大傳統）；原文僅有代名詞詞尾，未指明是誰的帳棚。"
+    },
+    {
+      "kind": "mystery",
+      "subject": "敘事",
+      "rationale": "此時耶路撒冷尚是耶布斯人的城（撒下 5 才攻取），大衛怎能把歌利亞的頭帶到那裡——經文刻意不解釋。"
+    }
+  ],
+  "translation": "大衛拿 ⟨את⟩ 那非利士人的頭，帶到耶路撒冷；卻把 ⟨את⟩ 他的器械放在 ⟨自己的⟩ 帳棚裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ec733bd8fea3bc62283a4684d678d2bdb8b426e343e89844a8cbee86867b89a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/17\/53-56.1792131211987.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "拿"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那非利士人的頭"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "那非利士人"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "帶到"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "他的器械"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "他的器械"
+    },
+    {
+      "surface": "שם",
+      "gloss": "放在"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "在自己的帳棚裡"
+    }
+  ],
+  "timestamp": "2026-10-16T06:13:31.988282577Z",
+  "model": "glm-5.3"
+}

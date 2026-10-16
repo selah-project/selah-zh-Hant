@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 43:16",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתם／אתי",
+      "rationale": "此二處是 H854 前置詞「與……同」，非受詞記號 את，譯作「與他們同在／與我」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וטבח טבח",
+      "rationale": "動詞與名詞同根連用「宰殺牲畜」——原文「宰一宰」的不定絕對結構"
+    },
+    {
+      "kind": "hapax",
+      "subject": "צהרים 雙數",
+      "rationale": "「正午」原為雙數形「雙光」，字面形狀在譯文中未顯"
+    },
+    {
+      "kind": "you",
+      "subject": "約瑟對家宰",
+      "rationale": "命令式直接向管家發話"
+    }
+  ],
+  "translation": "約瑟看見他們與便雅憫同在，就對那管理他家的人說：「把 ⟨את⟩ 這些人帶進屋裡，宰殺牲畜，預備妥當，因為這些人要在中午與我一同吃飯。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f3cf59480239a9db7dc154829027e9fffeebfd17fc1de920ea78a0b0a93e9c95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/43\/13-16.1792125549834.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ 與他們同在"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "便雅憫"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "便雅憫"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "對那……的人"
+    },
+    {
+      "surface": "על",
+      "gloss": "管理"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "他的家"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "帶進"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這些人"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "這些人"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "到屋裡"
+    },
+    {
+      "surface": "וטבח",
+      "gloss": "宰殺"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "預備妥當"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ 與我"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "吃飯"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "這些人"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "在中午"
+    }
+  ],
+  "timestamp": "2026-10-16T04:39:09.835514249Z",
+  "model": "glm-5.3"
+}

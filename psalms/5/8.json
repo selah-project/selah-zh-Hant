@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "殿\/聖殿",
+      "rationale": "希伯來文用兩個不同的字：בֵּיתְךָ（你的家）與הֵיכַל קָדְשְׁךָ（你聖的宏偉殿宇）；中文同用『殿』，失去對比。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסד",
+      "rationale": "חֶסֶד 每次固定譯作『慈愛』，不換成恩典或憐憫，守住一詞一形。"
+    }
+  ],
+  "translation": "至於我，我必憑你豐盛的慈愛進入你的殿；我要向你的聖殿下拜，在敬畏你之中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c051fc4b02dfeab5281d256f13d2732f51be7285321fe6f50be3567b9473ab6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/5\/5-8.1792143227073.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "至於我"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "憑……豐盛"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "你的慈愛"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "進入"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "你的殿"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "下拜"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "聖殿"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "你的聖"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "在敬畏你之中"
+    }
+  ],
+  "timestamp": "2026-10-16T09:33:47.074697893Z",
+  "model": "glm-5.3"
+}

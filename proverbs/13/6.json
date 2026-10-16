@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חטאת",
+      "rationale": "חטאת可指「罪」或「罪人」（多數譯本補「人」）或「贖罪祭」（Young直譯），此處按字面保留「罪」"
+    },
+    {
+      "kind": "addition",
+      "subject": "完全人的",
+      "rationale": "תם דרך為組合詞「完全的道路」；譯作「完全人」時補出了人，另一讀法是「守護道路的完整」"
+    }
+  ],
+  "translation": "公義守護完全人的道路，邪惡卻顛覆罪。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "681d23404d87e076aca5c7ec2700c89b2de65f149e5d9a23ca74e428611d6a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/13\/5-8.1792145360105.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "公義"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "守護"
+    },
+    {
+      "surface": "תם",
+      "gloss": "完全人的"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道路"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "邪惡"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "顛覆"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "罪"
+    }
+  ],
+  "timestamp": "2026-10-16T10:09:20.106038261Z",
+  "model": "glm-5.3"
+}

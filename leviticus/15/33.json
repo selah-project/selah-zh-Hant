@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 15:33",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זובו",
+      "rationale": "「他的漏症」：希伯來文用陽性代詞指男女皆有的漏症，譯作「無論男女」以合語境"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דוה",
+      "rationale": "דוה 本義為「患病」，此處特指月經，譯作「月經中的婦人」"
+    }
+  ],
+  "translation": "以及月經中的婦人〈在她〉的污穢中，並患漏症的——⟨את⟩ 他的漏症，無論男女，以及與不潔淨的婦人同寢的男人：",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7d54101215110467fd7b6f3f70a21f53c39e0f6c04e3a941d60aff002d0f9f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/15\/33-33.1792127006353.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והדוה",
+      "gloss": "以及月經中的婦人"
+    },
+    {
+      "surface": "בנדתה",
+      "gloss": "在她的污穢中"
+    },
+    {
+      "surface": "והזב",
+      "gloss": "並患漏症的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的漏症"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "他的漏症"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "無論男"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "或女"
+    },
+    {
+      "surface": "ולאיש",
+      "gloss": "以及……的男人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "與……同寢"
+    },
+    {
+      "surface": "עם",
+      "gloss": "與"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "不潔淨的婦人"
+    }
+  ],
+  "timestamp": "2026-10-16T05:03:26.354301364Z",
+  "model": "glm-5.3"
+}

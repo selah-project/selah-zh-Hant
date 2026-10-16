@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בן אדם",
+      "rationale": "「人之子」＝人類的平行語，與אנוש同義重疊。"
+    },
+    {
+      "kind": "addition",
+      "subject": "如",
+      "rationale": "希伯來文無「如」字，名詞並置即為隱喻；中文加「如」以合語法。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רמה\/תולעה",
+      "rationale": "兩個「蛆／蟲」字並列加強鄙棄，中文以蛆、蟲分別對應。"
+    }
+  ],
+  "translation": "何況人如蛆，人之子如蟲呢！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2bf0ab9a81aaace5fc1e3ca7d1f71278e2de5d4d2ec4a6f70fd5a5b021a3d784",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/25\/5-6.1792146218953.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "何況"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨何況〉"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "人"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "如蛆"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "之子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "如蟲"
+    }
+  ],
+  "timestamp": "2026-10-16T10:23:38.954078343Z",
+  "model": "glm-5.3"
+}

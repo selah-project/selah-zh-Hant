@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 26:6",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "動詞前置",
+      "rationale": "希伯來文把『砍斷腳』『吞飲強暴』放在句首、主句（差愚昧人傳話者）放後；中文語序調整以保持因果比喻。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "drinketh damage",
+      "rationale": "חמס 本義是強暴／殘暴，非『損害』（KJV 傳統）；此處吞飲的是強暴本身。"
+    }
+  ],
+  "translation": "砍斷雙腳、吞飲強暴的，是那藉愚昧人的手傳話語的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "75d48ab1bd013f5bd106e5b070039e47079f81c2deef9c24b655f1c01f12447b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/26\/5-8.1792145642990.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "砍斷"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "雙腳"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "強暴"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "吞飲"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "傳送"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "話語"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "藉……的手"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "愚昧人"
+    }
+  ],
+  "timestamp": "2026-10-16T10:14:02.991468886Z",
+  "model": "glm-5.3"
+}

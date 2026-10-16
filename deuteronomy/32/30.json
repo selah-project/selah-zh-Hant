@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 32:30",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "一／千／二／萬",
+      "rationale": "數字遞升的比例（1:1000、2:10000）構成修辭性的計量對比。"
+    },
+    {
+      "kind": "crux",
+      "subject": "他們的磐石",
+      "rationale": "צוּרָם 指以色列的磐石雅威；但「賣了他們」的主詞是誰——是雅威自己，還是下句平行的雅威——譯本多以反諷讀法：敵人的「磐石」遠不如以色列的磐石（參31節）。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "交出",
+      "rationale": "הִסְגִּירָם 字面是「關閉、鎖住」，引申為「交出、交付」。"
+    }
+  ],
+  "translation": "一人怎能追趕千人，二人怎能叫萬人逃跑？若不是他們的磐石賣了他們，雅威交出他們〈的緣故〉？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c67d672c8a66b2a780ff34c83280611977e93f49a47615fc86b87202d50a5d1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/32\/29-32.1792129316523.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "怎能"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "追趕"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一人"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千人"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "二人"
+    },
+    {
+      "surface": "יניסו",
+      "gloss": "叫……逃跑"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "萬人"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若不是"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "כי",
+      "gloss": "的緣故"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "他們的磐石"
+    },
+    {
+      "surface": "מכרם",
+      "gloss": "賣了他們"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הסגירם",
+      "gloss": "交出他們"
+    }
+  ],
+  "timestamp": "2026-10-16T05:41:56.524239763Z",
+  "model": "glm-5.3"
+}

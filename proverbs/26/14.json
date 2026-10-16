@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨這樣轉動⟩",
+      "rationale": "中文需補出喻體動詞，希伯來僅以平行結構暗示。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "על……על",
+      "rationale": "「門在樞紐上」與「懶人在床上」以同一介詞על平行對照。"
+    }
+  ],
+  "translation": "門在樞紐上轉動，懶惰人在他的床上也⟨這樣轉動⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9303938cdea077702843c108027c0b092f80a992ef27443ebd0a0086bfd5a494",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/26\/13-16.1792145634900.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "門"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "轉動"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "樞紐"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "懶惰人"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "他的床"
+    }
+  ],
+  "timestamp": "2026-10-16T10:13:54.900744529Z",
+  "model": "glm-5.3"
+}

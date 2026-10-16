@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "呼格直接稱呼以色列"
+    },
+    {
+      "kind": "addition",
+      "subject": "他是……的",
+      "rationale": "希伯來文名詞短語無動詞，中文需繫詞"
+    }
+  ],
+  "translation": "以色列啊，要倚靠雅威；他是他們的幫助、他們的盾牌。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8c8b486acabcd6c65fbb9711d225a56314fbaa84265560a66c475cee8e99090a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/115\/9-12.1792144705897.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "以色列啊"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "要倚靠"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "在雅威"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "他們的幫助"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "他們的盾牌"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他是"
+    }
+  ],
+  "timestamp": "2026-10-16T09:58:25.897902637Z",
+  "model": "glm-5.3"
+}

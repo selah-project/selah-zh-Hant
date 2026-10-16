@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "掌",
+      "rationale": "כף 字面是「手掌的凹處」，譯作「掌」保留身體部位之意，不作抽象的「手」"
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "על משקהו 直譯「在他的司酒之職上」，中文以「回到他的酒職」消化介詞"
+    }
+  ],
+  "translation": "他使酒政長官復回原職，再供他的酒職；他把杯放在法老的掌上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6f29a32fb94cab91aa1712ead137520fb620ea41ccf0685860fe441300813feb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/40\/21-23.1792125367085.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "使……復回"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "酒政長官"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長官"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "酒政"
+    },
+    {
+      "surface": "על",
+      "gloss": "回到"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "他的酒職"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "他把……放"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "杯"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "כף",
+      "gloss": "掌"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    }
+  ],
+  "timestamp": "2026-10-16T04:36:07.086467672Z",
+  "model": "glm-5.3"
+}

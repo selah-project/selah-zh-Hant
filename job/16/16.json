@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 16:16",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חמרמרה",
+      "rationale": "罕見強意形：KJV作foul（發烏），ASV\/JPS作reddened（因哭而通紅）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "死蔭",
+      "rationale": "צלמות字面「死亡的蔭影」，是深沉黑暗的意象，非死後所在"
+    }
+  ],
+  "translation": "我的臉因哭泣而通紅，我的眼皮上有死蔭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8552818e8be4d4a25762ee92f9e05ae2d078abb39d5dd6cc265d2059fc2b2a51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/16\/13-16.1792146099670.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "我的臉"
+    },
+    {
+      "surface": "חמרמרה",
+      "gloss": "通紅發熱"
+    },
+    {
+      "surface": "מני",
+      "gloss": "因"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "哭泣"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "並在其上"
+    },
+    {
+      "surface": "עפעפי",
+      "gloss": "我的眼皮"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "死蔭"
+    }
+  ],
+  "timestamp": "2026-10-16T10:21:39.671553389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "以眼還眼",
+      "rationale": "著名經文：是字面同等報復，還是賠償上限的法定公式，歷代譯者與釋經者長期爭議"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבר תחת שבר",
+      "rationale": "三名詞×2 的對稱排比公式（傷／眼／牙），中文以「以…還…」保留節奏"
+    },
+    {
+      "kind": "substitution",
+      "subject": "傷",
+      "rationale": "שבר 直譯為「骨折／破裂處」，此處指人身傷害"
+    }
+  ],
+  "translation": "以傷還傷，以眼還眼，以牙還牙；他怎樣使人在身上有殘缺，也必照樣行在他身上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "eb6af1bfa56ffa5d9cb8971dfa10b84923673b11e7455c74754d0018e56990da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/24\/17-20.1792127288408.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "傷"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "代替"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "傷"
+    },
+    {
+      "surface": "עין",
+      "gloss": "眼"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "代替"
+    },
+    {
+      "surface": "עין",
+      "gloss": "眼"
+    },
+    {
+      "surface": "שן",
+      "gloss": "牙"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "代替"
+    },
+    {
+      "surface": "שן",
+      "gloss": "牙"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "怎樣"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "使……有"
+    },
+    {
+      "surface": "מום",
+      "gloss": "殘缺"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "在人身上"
+    },
+    {
+      "surface": "כן",
+      "gloss": "照樣"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "必行"
+    },
+    {
+      "surface": "בו",
+      "gloss": "在他身上"
+    }
+  ],
+  "timestamp": "2026-10-16T05:08:08.409561836Z",
+  "model": "glm-5.3"
+}

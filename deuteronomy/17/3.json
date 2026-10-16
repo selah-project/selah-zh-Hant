@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "別的神明",
+      "rationale": "異教諸神語境，אלהים אחרים 用「別的神明」而非「以羅欣」"
+    },
+    {
+      "kind": "addition",
+      "subject": "我",
+      "rationale": "צויתי 是第一人稱單數「我吩咐」，說話者是雅威"
+    }
+  ],
+  "translation": "去事奉別的神明，向他們下拜，或拜日頭，或拜月亮，或拜天上的萬象——這是我沒有吩咐過的——",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e9b94d43cecdca996ba506d597951075fcd2c4829a758a2008a479aa130d0044",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/17\/1-4.1792129002851.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "去"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "事奉"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "神明"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別的"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "下拜"
+    },
+    {
+      "surface": "להם",
+      "gloss": "向他們"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "或拜日頭"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "拜月亮"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "或拜"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "萬象"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天上的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "我吩咐過"
+    }
+  ],
+  "timestamp": "2026-10-16T05:36:42.852984726Z",
+  "model": "glm-5.3"
+}

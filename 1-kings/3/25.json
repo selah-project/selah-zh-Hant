@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "לשנים",
+      "rationale": "分成兩半——分割與均分的計量語言"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גזרו…לאחת…לאחת",
+      "rationale": "「切割」與兩次重複的「給這一個」形成對稱的裁決語調"
+    }
+  ],
+  "translation": "王說：「把活著的孩子切成兩半，一半給這一個，一半給那一個。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ecdd2f0eb860736a6866a395935254e30403f39ef7e60882d270ade41a63d6de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/3\/25-28.1792132584296.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "切成"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "活著的孩子"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "孩子"
+    },
+    {
+      "surface": "החי",
+      "gloss": "活著的"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "成兩半"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "給"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一半"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "一半"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "給這一個"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "另一半"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "一半"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "給那一個"
+    }
+  ],
+  "timestamp": "2026-10-16T06:36:24.296791715Z",
+  "model": "glm-5.3"
+}

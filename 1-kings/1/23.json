@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 1:23",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "有人",
+      "rationale": "ויגידו動詞未指明主語（「他們告訴」），中文以「有人告訴」處理"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אפיו",
+      "rationale": "אף本義是「鼻、鼻孔」，引申為「臉面」，此處譯「他的面」"
+    }
+  ],
+  "translation": "有人告訴王說：「看哪，先知拿單來了。」拿單就來到王面前，面伏於地向王下拜。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "583057bc609fef89f7b89732cc37245e5dd36646d606aae621f430f736c386f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/1\/21-24.1792132468987.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "有人告訴"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "拿單"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "先知"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "下拜"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "向王"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "他的面"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "於地"
+    }
+  ],
+  "timestamp": "2026-10-16T06:34:28.988696743Z",
+  "model": "glm-5.3"
+}

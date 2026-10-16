@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עד סירים סבכים",
+      "rationale": "「直到纏結的荊棘」句法破碎；סירים 或作「壺」（賽 34:11 同字），各譯本分歧"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סבכים／סבואים",
+      "rationale": "ס-ב-開頭的雙關：纏結（סבך）與醉酒（סבא）音近相映"
+    },
+    {
+      "kind": "substitution",
+      "subject": "爛醉",
+      "rationale": "סבואים 為被動分詞「被灌醉的」，中文以成語式動詞表達"
+    }
+  ],
+  "translation": "因為他們如纏結的荊棘，又因他們的酒喝得爛醉，必被吞噬，如全然乾透的碎稭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1f480c5ba6659a2440d3d5ee3f5f26d23a326f449adf822fb2700c7a09b03399",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nahum\/1\/9-12.1792142684602.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "荊棘"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "纏結的"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "又因他們的酒"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "喝得爛醉"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "必被吞噬"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "如碎稭"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "乾透"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "全然"
+    }
+  ],
+  "timestamp": "2026-10-16T09:24:44.604647979Z",
+  "model": "glm-5.3"
+}

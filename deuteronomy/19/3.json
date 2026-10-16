@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "correction",
+      "subject": "translation",
+      "rationale": "「every」為滲漏的英文，應作「每一個」"
+    },
+    {
+      "kind": "measurement",
+      "subject": "三分疆界",
+      "rationale": "土地按三等分丈量規劃，使逃城距離均等，屬度量性的立法"
+    },
+    {
+      "kind": "substitution",
+      "subject": "殺人的",
+      "rationale": "רצח 分詞作名詞「殺人者」，此處指誤殺者，中文保持字面「殺人的」"
+    }
+  ],
+  "translation": "你要為自己修備道路，三分你地的疆界——就是雅威你的以羅欣使你承受為業的——使 every 殺人的都可以逃到那裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "97fa7d0f694e87d7572efd304e809512ff3e360606348332a893a94f3d51621a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/19\/1-4.1792128945001.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "你要修備"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為你自己"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "道路"
+    },
+    {
+      "surface": "וושלשת",
+      "gloss": "你要三分"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你地的疆界"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "疆界"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "你的地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "使你承受為業"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "使……可以"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "逃"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "到那裡"
+    },
+    {
+      "surface": "כל",
+      "gloss": "每一個"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "殺人的"
+    }
+  ],
+  "timestamp": "2026-10-16T05:35:45.001960959Z",
+  "model": "glm-5.3"
+}

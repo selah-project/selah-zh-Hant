@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 30:16",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "它",
+      "rationale": "中文需要受詞「它」承接前面的銀子，希伯來以אתו記號表達。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 直譯為呼吸之生命，非「靈魂」。"
+    },
+    {
+      "kind": "you",
+      "subject": "對摩西",
+      "rationale": "本節命令句「你要收取」直接對摩西說話，末尾又轉向「你們的性命」。"
+    }
+  ],
+  "translation": "你要從以色列人那裡收取 ⟨את⟩ 贖罪之銀，把它用在會幕的服事上；這要在雅威面前作以色列人的記念，為你們的性命贖罪。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0026fa4643c4ed30338f5fbe4bca1e078a1cb7db93dc588fc9bf2231de52f10f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/30\/13-16.1792126389072.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "你要收取"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "贖罪之銀"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "贖罪的"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "從…那裡⟨את⟩",
+      "marks": "以色列人"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…之子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "你要把…用在"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "它（贖罪之銀）"
+    },
+    {
+      "surface": "על",
+      "gloss": "用在"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "服事"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "這要作"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "為…之子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "作記念"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在…面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "贖罪"
+    },
+    {
+      "surface": "על",
+      "gloss": "為"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "你們的性命"
+    }
+  ],
+  "timestamp": "2026-10-16T04:53:09.073696002Z",
+  "model": "glm-5.3"
+}

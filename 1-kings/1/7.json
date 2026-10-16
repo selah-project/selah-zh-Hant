@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 1:7",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "דבריו עם",
+      "rationale": "「他的話與某人在一起」＝他與某人商議；直譯保留『他的話與……在一起』"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהיו",
+      "rationale": "『成了』引導句子的存在動詞，融入語序而未單獨譯出"
+    }
+  ],
+  "translation": "他的話與洗魯雅的兒子約押在一起，也與祭司亞比亞他在一起；他們幫助亞多尼雅。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "125f51d37982b445ba9b65e316efa7f3b9cace9beb9bf84d25d2aa20ad1723a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/1\/5-8.1792132450743.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "而……成了"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "他的話（謀議）"
+    },
+    {
+      "surface": "עם",
+      "gloss": "與"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "洗魯雅"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "也與"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "亞比亞他"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ויעזרו",
+      "gloss": "他們幫助了"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "在……之後（跟從）"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "亞多尼雅"
+    }
+  ],
+  "timestamp": "2026-10-16T06:34:10.744956534Z",
+  "model": "glm-5.3"
+}

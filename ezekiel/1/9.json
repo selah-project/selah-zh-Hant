@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 1:9",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אשה…אחותה",
+      "rationale": "希伯來慣用語「一個女人連於她的姊妹」意即「一個連於另一個」，直譯會誤導，此處譯其意並存其結構。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יסבו",
+      "rationale": "或譯「不轉身」，סבב 本義為環繞、回轉；此處取「轉向」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש…פניו ילכו",
+      "rationale": "「各向自己臉面直行」與 1:12 首句逐字重複，是章內的回響結構。"
+    }
+  ],
+  "translation": "她們的翅膀相連，一個連於她的姊妹；她們行走的時候並不轉向，各向著自己臉面的那一方直行。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c2064f9d6c31054ecd64abb83845003ab14c943a031c8a1077ece208ee717401",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/1\/9-12.1792137775201.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חברת",
+      "gloss": "相連"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "一個"
+    },
+    {
+      "surface": "אל",
+      "gloss": "連於"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "她的姊妹"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "她們的翅膀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יסבו",
+      "gloss": "轉向"
+    },
+    {
+      "surface": "בלכתן",
+      "gloss": "她們行走的時候"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向著"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "那一方"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "自己臉面"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "直行"
+    }
+  ],
+  "timestamp": "2026-10-16T08:02:55.202472898Z",
+  "model": "glm-5.3"
+}

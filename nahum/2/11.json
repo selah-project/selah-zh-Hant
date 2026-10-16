@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 2:11",
+  "book": "nahum",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בוקה ומבוקה ומבלקה",
+      "rationale": "三重疊音：「空虛、被劫空、全毀」，聲音本身即崩塌，中文只能部分模仿。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "פארור",
+      "rationale": "僅此一見；「發亮的紅色／慘白」，或譯「焦黑」，譯本分歧。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "聚集了慘白",
+      "rationale": "קבצו פארור 直譯「收集了慘白（的紅色）」，臉色收攏成一片黯淡。"
+    }
+  ],
+  "translation": "空虛，被劫空，全然毀滅；心消化，膝發顫，所有的腰都絞痛，他們眾人的臉都聚集了慘白。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e4b0faf6c8ccb81376b6c815a7cc3c508746db00cfd0a7109f1831b743b77b1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nahum\/2\/9-12.1792142720524.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בוקה",
+      "gloss": "空虛"
+    },
+    {
+      "surface": "ומבוקה",
+      "gloss": "被劫空"
+    },
+    {
+      "surface": "ומבלקה",
+      "gloss": "全然毀滅"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "心"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "消化"
+    },
+    {
+      "surface": "ופק",
+      "gloss": "發顫"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "膝"
+    },
+    {
+      "surface": "וחלחלה",
+      "gloss": "絞痛"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "腰"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "臉"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "他們眾人"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "聚集了"
+    },
+    {
+      "surface": "פארור",
+      "gloss": "慘白"
+    }
+  ],
+  "timestamp": "2026-10-16T09:25:20.525686832Z",
+  "model": "glm-5.3"
+}

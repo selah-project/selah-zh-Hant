@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תהום אל תהום",
+      "rationale": "深淵對深淵的重複呼應，聲勢如濤聲相續，中文保留重複"
+    },
+    {
+      "kind": "hapax",
+      "subject": "צנוריך",
+      "rationale": "צנור全塔納赫僅此一處：瀑布、水道（KJV作waterspouts）"
+    },
+    {
+      "kind": "mystery",
+      "subject": "深淵呼喚深淵",
+      "rationale": "意象晦暗：苦難如大淵彼此呼應、無盡相續"
+    }
+  ],
+  "translation": "深淵向深淵呼喚，在你瀑布的聲音中；你一切的碎浪、你的洪濤都漫過了我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f45caec732fda1f80e58f5b86b9c1a8e0682bd37b7506f36e4c28ce33b1b1447",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/42\/5-8.1792143775081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "呼喚"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "在…的聲音中"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "你瀑布的"
+    },
+    {
+      "surface": "כל",
+      "gloss": "你一切的"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "碎浪"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "和你的洪濤"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "過"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "漫過了我"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:55.082785855Z",
+  "model": "glm-5.3"
+}

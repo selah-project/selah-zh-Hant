@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 11:17",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתך",
+      "rationale": "此 את 是介詞「與」（H854），非受詞記號（H853），故譯「與你」而不加⟨את⟩標記"
+    },
+    {
+      "kind": "substitution",
+      "subject": "魯阿",
+      "rationale": "רוח 屬於雅威所賜，依 D2 譯「魯阿」（首見括註 靈），不用「聖靈」"
+    },
+    {
+      "kind": "crux",
+      "subject": "מן הרוח",
+      "rationale": "「從你身上的靈取出」——是分賜一份而非取走全部；譯「取出一些」保留分賜的圖像"
+    }
+  ],
+  "translation": "我要降臨，在那裡與你說話；我要從那在你身上的魯阿（靈）取出一些，放在他們身上，他們就與你一同擔當百姓的重擔，你就不必獨自擔當了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f6b5814ac3e3241e8a8dd0db04a7564fb544f5291eaf45198bd62097c2f5a9ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/11\/17-20.1792127848099.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורדתי",
+      "gloss": "我要降臨"
+    },
+    {
+      "surface": "ודברתי",
+      "gloss": "我要說話"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "與你"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裡"
+    },
+    {
+      "surface": "ואצלתי",
+      "gloss": "我要取出"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "那魯阿（靈）"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "在你身上"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "我要放"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "在他們身上"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "他們必擔當"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ 與你"
+    },
+    {
+      "surface": "במשא",
+      "gloss": "重擔"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓的"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "而不"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "你擔當"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "獨自"
+    }
+  ],
+  "timestamp": "2026-10-16T05:17:28.099847084Z",
+  "model": "glm-5.3"
+}

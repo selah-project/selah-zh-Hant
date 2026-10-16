@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 11:42",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "共",
+      "rationale": "中文需一總括詞連結「日子」與「四十年」，希伯來以並置表達"
+    },
+    {
+      "kind": "measurement",
+      "subject": "四十年",
+      "rationale": "在位年數的計算，王國史書的標準格式"
+    }
+  ],
+  "translation": "所羅門在耶路撒冷作王治理全以色列的日子，共四十年。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cbc5686352073280db1da9c26e022bc6c1af21427e447e8dcb73cda7b4cdadbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/11\/41-43.1792132940650.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "……的日子"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "作王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "在耶路撒冷"
+    },
+    {
+      "surface": "על",
+      "gloss": "治理"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    }
+  ],
+  "timestamp": "2026-10-16T06:42:20.651637200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 5:25",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אנה ואנה",
+      "rationale": "同一副詞「哪裡」重複兩次（hither-thither），強調謊言的全盤否認；中文以「這裡、那裡」對舉保留重複"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדניו",
+      "gloss-context": "指人",
+      "rationale": "אדניו 此處指人以利沙，譯「他主人」；非聖名位置，不譯阿多奈"
+    },
+    {
+      "kind": "you",
+      "subject": "to 基哈西",
+      "rationale": "以利沙直接質問基哈西，deceptive exchange 的對質語境"
+    }
+  ],
+  "translation": "他進去，站在他主人面前；以利沙對他說：「基哈西，你從哪裡來？」他說：「僕人沒有往這裡、往那裡去。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8edaa30a94dbf14b93d11841a4f61ec84cbf897279df5d741f932797871a9825",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/5\/25-27.1792133599530.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "בא",
+      "gloss": "進去"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "站"
+    },
+    {
+      "surface": "אל",
+      "gloss": "在…面前"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "他主人"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "以利沙"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "從哪裡"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "基哈西"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "去"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你的僕人"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "往這裡"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "往那裡"
+    }
+  ],
+  "timestamp": "2026-10-16T06:53:19.531070927Z",
+  "model": "glm-5.3"
+}

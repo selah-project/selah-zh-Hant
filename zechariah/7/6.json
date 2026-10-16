@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלוא אתם האכלים",
+      "rationale": "希伯來反問分詞結構『豈不是你們（就是）那吃的人嗎』，意即『你們吃喝只為自己』，中文以反問保留。"
+    },
+    {
+      "kind": "you",
+      "subject": "百姓與祭司",
+      "rationale": "延續上節的直接質問。"
+    }
+  ],
+  "translation": "你們吃喝，豈不是你們自己吃、自己喝嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cd9eac0da49561c5e02cc5d3e781fed677bace510fb409453cf1344b91dc08d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/zechariah\/7\/5-8.1792143016367.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "而當"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "你們吃"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "和當"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "你們喝"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "豈不是"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "那吃的"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "那喝的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:30:16.367846433Z",
+  "model": "glm-5.3"
+}

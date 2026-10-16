@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא פנים",
+      "rationale": "字面『抬起面子』即『看情面、偏袒』，中文以『抬舉面子、偏袒人』保留雙層。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הוכיח יוכיח",
+      "rationale": "不定絕對＋未完成的強調結構，中文以『必責備』傳達其確定語氣。"
+    }
+  ],
+  "translation": "祂必責備 ⟨את⟩ 你們，若你們在隱密處抬舉面子、偏袒人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a03f396d8017cd9af76fc3885c64bd789e66619cf0b77c44e0b2edf7dd66d9e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/13\/9-12.1792145972504.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוכיח",
+      "gloss": "責備"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "必責備"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩你們"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "在隱密處"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "面子"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "你們抬舉（偏袒）"
+    }
+  ],
+  "timestamp": "2026-10-16T10:19:32.505630464Z",
+  "model": "glm-5.3"
+}

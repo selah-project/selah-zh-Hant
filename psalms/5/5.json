@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רשע\/רע",
+      "rationale": "兩個『惡』字（רֶשֶׁׁע 與 רַע）在同一節前後呼應，中文以『惡事』『邪惡』勉強保住重複。"
+    },
+    {
+      "kind": "crux",
+      "subject": "יגרך",
+      "rationale": "גּוּר 本義是『寄居、作客』；『與你同住』是軟化，直譯應為『邪惡不寄居於你那裡』。"
+    }
+  ],
+  "translation": "因為你並非喜愛惡事的伊勒，邪惡不能與你同住。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c051fc4b02dfeab5281d256f13d2732f51be7285321fe6f50be3567b9473ab6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/5\/5-8.1792143227073.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "喜愛"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡事"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "與你同住"
+    },
+    {
+      "surface": "רע",
+      "gloss": "邪惡"
+    }
+  ],
+  "timestamp": "2026-10-16T09:33:47.074194148Z",
+  "model": "glm-5.3"
+}

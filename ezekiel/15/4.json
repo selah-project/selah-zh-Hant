@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 15:4",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לאכלה",
+      "rationale": "直譯「作食物」，即燃料之意；譯作「作燃料」保留其被吞吃的功能"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אכלה\/לאכלה",
+      "rationale": "「作食物（לאכלה）」與「吞吃（אכלה）」同根，火的燃料即火的食糧，中文無法保留"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נחר",
+      "rationale": "חרר（燒焦）在此為僅見或少見的詞形，畫面是被火烤得焦黑"
+    }
+  ],
+  "translation": "看哪，它被交給火作燃料；火吞吃了 ⟨את⟩ 它的兩端，它的中段也被燒焦了——它還能成功用作任何工作嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "431404168a6fc5531a8264f614ad17ac92735cce91bbe9433ee30c0c7329c797",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/15\/1-4.1792138182018.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "給火"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "被交給"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "作燃料"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "它的兩端"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "它的端"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "吞吃了"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    },
+    {
+      "surface": "ותוכו",
+      "gloss": "它的中段"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "被燒焦"
+    },
+    {
+      "surface": "היצלח",
+      "gloss": "還能成功嗎"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "用作工作"
+    }
+  ],
+  "timestamp": "2026-10-16T08:09:42.019207419Z",
+  "model": "glm-5.3"
+}

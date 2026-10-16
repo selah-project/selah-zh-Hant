@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 119:37",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "העבר",
+      "rationale": "「使經過／轉移」在此為使役祈願式，譯作「使……轉離」，直譯「使我的眼越過」會生硬"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שוא",
+      "rationale": "שוא兼有虛妄、欺謊、毀壞之義，取「虛妄」以涵蓋道德與實指兩面"
+    },
+    {
+      "kind": "alternative",
+      "subject": "חיני",
+      "rationale": "使役形可譯「使我甦醒」或「賜我生命」；此處取「使我存活」保留生命義"
+    }
+  ],
+  "translation": "求你使我的眼轉離、不看虛妄的事；求你在你的道路上使我存活。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a1f583fa8c5d10e9a2465be7b2973498b24ae4ae21f3a20071c244c9ee4ecd8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/37-40.1792144810339.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "使……轉離"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的眼"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "看"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "虛妄的事"
+    },
+    {
+      "surface": "בדרכך",
+      "gloss": "在你的道路上"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "使我存活"
+    }
+  ],
+  "timestamp": "2026-10-16T10:00:10.340363492Z",
+  "model": "glm-5.3"
+}

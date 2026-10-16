@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "（神）",
+      "rationale": "以羅欣單元內首次出現，依紀律加括註。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשוע／שועתי",
+      "rationale": "動詞與其名詞同一詞根呼應，中文以「哀求／呼求」保持對應。"
+    }
+  ],
+  "translation": "我在急難中呼求雅威，向我的以羅欣（神）哀求。他從他的殿中垂聽我的聲音，我的呼求到他面前，進入他耳中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ba9860e17bc2d3b95092939356ff36087dcf98587ed75d1aacf106c838a4c4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/18\/5-8.1792143374452.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "在急難中"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "呼求"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "向"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣（神）"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "哀求"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "垂聽"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "從他的殿"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "我的聲音"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "我的呼求"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "到他面前"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "進入"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "他耳中"
+    }
+  ],
+  "timestamp": "2026-10-16T09:36:14.454196335Z",
+  "model": "glm-5.3"
+}

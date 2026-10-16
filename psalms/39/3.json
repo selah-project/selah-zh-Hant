@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נעכר",
+      "rationale": "עכר字面是「攪渾水」（如泉水被攪渾）：和合本\/KJV作「被攪動」，JPS作「被勒住」（化用עכר另一義「攔阻」）"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נעכר",
+      "rationale": "עכר的Niph'al形式在全塔納赫僅此一出"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נאלמתי דומיה",
+      "rationale": "אלם與דומיה兩個「靜默」詞根疊用，加強無聲的層次"
+    }
+  ],
+  "translation": "我默然無聲，連好話也不出口；我的痛苦攪動不息。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7c2ab32a375ff9e54959f3239a0df1553b2b559a7759a3e1daabf1d04a1ed9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/39\/1-4.1792143741415.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "我默然"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "無聲"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "也不出口"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "連好話"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "我的痛苦"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "攪動不息"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:21.416010637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 59:2",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他的",
+      "rationale": "פנים（面容）無所有格代名詞，中文需指明是誰的面"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "「乃是／而是」的否定轉折慣用語，回應上節的兩個「不」"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "全節直接以「你們」控訴以色列"
+    }
+  ],
+  "translation": "而是你們的罪孽在你們與你們的以羅欣之間造成了隔離，你們的罪惡使〈他的〉面容向你們隱藏，不被聽見。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/59\/1-4.1792135847190.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "而是"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〈惟獨〉"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "你們的罪孽"
+    },
+    {
+      "surface": "היו",
+      "gloss": "成了"
+    },
+    {
+      "surface": "מבדלים",
+      "gloss": "隔離"
+    },
+    {
+      "surface": "בינכם",
+      "gloss": "在你們"
+    },
+    {
+      "surface": "לבין",
+      "gloss": "與…之間"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "你們的以羅欣"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "你們的罪惡"
+    },
+    {
+      "surface": "הסתירו",
+      "gloss": "隱藏了"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "面容"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "向你們"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "被聽見"
+    }
+  ],
+  "timestamp": "2026-10-16T07:30:47.191206681Z",
+  "model": "glm-5.3"
+}

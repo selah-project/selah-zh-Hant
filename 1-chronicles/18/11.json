@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 18:11",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "奪來",
+      "rationale": "נשא 字面是「舉起、帶走」，戰利品語境中即「擄走」"
+    },
+    {
+      "kind": "addition",
+      "subject": "這些器皿",
+      "rationale": "אתם 回指上節的金銀銅器皿，中文補出名詞以明確"
+    }
+  ],
+  "translation": "大衛王也把 ⟨אתם⟩ 這些分別為聖歸給雅威，連同他從各族奪來的金銀——從以東、摩押、亞捫人、非利士人和亞瑪力奪來的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "eb2d7147291a18cfc0afb577cc2f62e46ebc37b7abb25145a20439b229c596d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/18\/9-12.1792148879008.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "這些器皿"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "分別為聖"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "歸給雅威"
+    },
+    {
+      "surface": "עם",
+      "gloss": "連同"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀子"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "和金子"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "奪來"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "從所有的"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "各族"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "從以東"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "和從摩押"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "和從……之子"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "亞捫"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "和從非利士人"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "和從亞瑪力"
+    }
+  ],
+  "timestamp": "2026-10-16T11:07:59.009649560Z",
+  "model": "glm-5.3"
+}

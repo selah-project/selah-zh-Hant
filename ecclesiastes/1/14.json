@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ורעות רוח",
+      "rationale": "「捕風／風的折磨」——רעות 意為「牧放、追獵」，傳統譯「心靈的煩擾」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "虛空",
+      "rationale": "הבל 字面為「氣息、霧」，非僅抽象的「虛無」"
+    }
+  ],
+  "translation": "我見過 ⟨את⟩ 日光之下所行的一切事，看哪，全是虛空，也是捕風。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "88885696a6c6f925e4a32cec718a1f9f8999b0bd8c499054ba50f2264dc505d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/1\/13-16.1792146936242.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "我見過"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切的事"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "所行的事"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "被行"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "之下"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日光"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "全是"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "虛空"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "也是捕"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    }
+  ],
+  "timestamp": "2026-10-16T10:35:36.243328555Z",
+  "model": "glm-5.3"
+}

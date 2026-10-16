@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 52:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨他的⟩保障",
+      "rationale": "希伯來文מעוזו帶詞尾代名詞「他的」，中文以括註標出"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעוזו／יעז",
+      "rationale": "同根雙關：他「不以……為保障（מעוז）」，卻「自逞強悍（יעז）」——同一個עזז字根的反諷對照，中文難以保留"
+    },
+    {
+      "kind": "crux",
+      "subject": "בהותו",
+      "rationale": "הוה可解作「毀壞／滅亡」或「慾望／貪婪」；KJV作malice（邪惡），BSB作destruction（毀滅），此處取「毀壞」"
+    },
+    {
+      "kind": "you",
+      "subject": "看哪，這勇士",
+      "rationale": "詩人指向旁觀者，呼喚他們看這倚靠財富之人"
+    }
+  ],
+  "translation": "看哪，這〈勇士〉不以以羅欣為⟨他的⟩保障，卻倚靠他豐富的財物，在自己的毀壞中自誇強悍。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c09ec736921c238f40da3b1cd0c46de03be1f944cbc0f1d5433f946cefca0fae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/52\/9-11.1792143984552.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "這〈勇士〉"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "以……為"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "מעוזו",
+      "gloss": "⟨他的⟩保障"
+    },
+    {
+      "surface": "ויבטח",
+      "gloss": "卻倚靠"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "豐富的"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "財物"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "自誇強悍"
+    },
+    {
+      "surface": "בהותו",
+      "gloss": "在自己的毀壞中"
+    }
+  ],
+  "timestamp": "2026-10-16T09:46:24.552784291Z",
+  "model": "glm-5.3"
+}

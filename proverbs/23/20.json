@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למו",
+      "rationale": "語助詞，加強屬格「他們的酒、他們的肉」，中文無對應而略去"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סבאי\/זללי",
+      "rationale": "兩個分詞並列的平行結構：酗酒者與貪食者，中文保留對仗"
+    }
+  ],
+  "translation": "不要與酗酒的人來往，不要與貪食肉類的人作伴。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fed1001da8e9e5cb021f68ee88ec0019e4515ee69cb8fa2ad3fa5657dd334ac9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/23\/17-20.1792145593768.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "成為"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "在酗酒的人中"
+    },
+    {
+      "surface": "יין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "在貪食的人中"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉類"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-16T10:13:13.769530852Z",
+  "model": "glm-5.3"
+}

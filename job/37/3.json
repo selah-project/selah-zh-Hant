@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 37:3",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "閃電",
+      "rationale": "ישרהו 的受詞未明寫，依下文「他的光」理解為閃電；中文補出受詞"
+    },
+    {
+      "kind": "alternative",
+      "subject": "他使它平直",
+      "rationale": "ישר 本義為「使直」，可解作他把閃電引直射向全地"
+    }
+  ],
+  "translation": "在全部天空之下他放出 ⟨את⟩ 閃電，他的光照在地的兩翼之上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2fba9b30a419c2db1e04062441e1255097cc4af898950900bab143834125e3de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/37\/1-4.1792146446064.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "在……之下"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天空"
+    },
+    {
+      "surface": "ישרהו",
+      "gloss": "他放出它"
+    },
+    {
+      "surface": "ואורו",
+      "gloss": "他的光"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……之上"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "兩翼"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-10-16T10:27:26.064969337Z",
+  "model": "glm-5.3"
+}

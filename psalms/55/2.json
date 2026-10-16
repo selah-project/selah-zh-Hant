@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨你自己⟩",
+      "rationale": "希伯來文 תתעלם 不帶反身代名詞，中文補出受詞以通順"
+    },
+    {
+      "kind": "invitation",
+      "subject": "祈求",
+      "rationale": "詩人直接向以羅欣呼求，命令式動詞構成懇求的召喚"
+    }
+  ],
+  "translation": "以羅欣（神）啊，求你側耳聽我的禱告，不要向我懇求的呼聲隱藏⟨你自己⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ab6c04bd53aeebb59181e135386ea4b27d8a3a55c0af490ef5368af0b2ea7bd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/55\/1-4.1792143973538.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "求你側耳聽"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣（神）"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "我的禱告"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "隱藏"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "我懇求的呼聲"
+    }
+  ],
+  "timestamp": "2026-10-16T09:46:13.538891548Z",
+  "model": "glm-5.3"
+}

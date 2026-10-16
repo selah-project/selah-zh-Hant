@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 78:19",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "攻擊以羅欣說話",
+      "rationale": "ב + אלהים這裡是敵意用法（攻擊…說話），非中性『對…說話』"
+    },
+    {
+      "kind": "mystery",
+      "subject": "伊勒豈能…嗎",
+      "rationale": "修辭問句挑戰以羅欣的能力，是他們不信的核心"
+    }
+  ],
+  "translation": "他們攻擊以羅欣說話；他們說：「伊勒豈能在曠野擺設筵席嗎？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "45132fcddd19c03ae7c7fda930131bc10ebc10a668dd27918511bfbed25c9ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/78\/17-20.1792144261376.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "他們說話"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "攻擊以羅欣"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "他們說"
+    },
+    {
+      "surface": "היוכל",
+      "gloss": "豈能"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "擺設"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "筵席"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "在曠野"
+    }
+  ],
+  "timestamp": "2026-10-16T09:51:01.376986869Z",
+  "model": "glm-5.3"
+}

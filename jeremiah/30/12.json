@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 30:12",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אנוש",
+      "rationale": "字面是「病入絕境、無藥可救」，各本譯「無法醫治」"
+    },
+    {
+      "kind": "alternative",
+      "subject": "נחלה",
+      "rationale": "字面「軟弱患病」，此處作「極重」；亦可譯「頑劣難癒」"
+    }
+  ],
+  "translation": "因為雅威如此說：你的傷損無法醫治，你的擊傷極重。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "04f41b180d6a472b099f07457115631a99cd14550794c54f4428d9b1bb359a5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/30\/9-12.1792136922168.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כה",
+      "gloss": "如此"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "無法醫治（絕望）"
+    },
+    {
+      "surface": "לשברך",
+      "gloss": "你的傷損"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "極重（病弱）"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "你的擊傷"
+    }
+  ],
+  "timestamp": "2026-10-16T07:48:42.169454798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עזו",
+      "rationale": "可讀作「他的力量」（我必因他的力量仰望你）或呼格「我的力量啊」（如和合本作「我的力量啊」）；取呼格。"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文需加「是」。"
+    },
+    {
+      "kind": "you",
+      "subject": "to 雅威",
+      "rationale": "詩人繼續向神說話，稱他為「我的力量」。"
+    }
+  ],
+  "translation": "我的力量啊，我要仰望你；因為以羅欣是我的高臺。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f0283e5b1c1d299a88dc20399bc6a9716c62d1628082d08dfa487ce0e6e075c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/59\/9-12.1792143910909.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "我的力量"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "仰望你"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "我要仰望"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "是我的高臺"
+    }
+  ],
+  "timestamp": "2026-10-16T09:45:10.910027467Z",
+  "model": "glm-5.3"
+}

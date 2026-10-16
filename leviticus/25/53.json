@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 25:53",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "轄制",
+      "rationale": "ירד 是踩踏、壓制之意，原文畫面是「踩在他身上」，非一般的管理"
+    },
+    {
+      "kind": "crux",
+      "subject": "בפרך",
+      "rationale": "字面為「折斷／壓碎」，諸譯本作「嚴苛」或「暴虐」，此處取「嚴苛」並保留其壓碎的力道"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列的買主",
+      "rationale": "לעיניך「在你眼前」直接向讀經的以色列人說話"
+    }
+  ],
+  "translation": "他要像按年雇的雇工一樣，一年一年與他同住；不可在⟨你⟩眼前以嚴苛轄制他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5bfd8a8d98d15571d8e506a5d8b336657a9c301ac9a570aed0a90f39be06d51f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/25\/53-55.1792127263135.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כשכיר",
+      "gloss": "像雇工"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "按年"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "一年一年"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "他要…與…同住"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "與他"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "轄制他"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "以嚴苛"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "在你眼前"
+    }
+  ],
+  "timestamp": "2026-10-16T05:07:43.136141148Z",
+  "model": "glm-5.3"
+}

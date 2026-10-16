@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דחה דחיתני",
+      "rationale": "同一詞根連用（推擠、推擠我），強調重擊的力度；中文以「猛力推／推」重複呼應"
+    },
+    {
+      "kind": "alternative",
+      "subject": "דחה",
+      "rationale": "此形亦有讀作名詞「猛推」者：「猛推，你推我要我跌倒」"
+    },
+    {
+      "kind": "crux",
+      "subject": "主詞",
+      "rationale": "希伯來文未指明推者是誰（萬民、仇敵）；「你」為補入的直指"
+    }
+  ],
+  "translation": "你猛力推我，要我跌倒，雅威卻幫助了我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2aeaca3382c2a5175a83394d03f395865dafa17d1116cce07f895350419817b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/118\/13-16.1792144811379.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "猛力推"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "你推我"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "要跌倒"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "雅威卻"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "幫助了我"
+    }
+  ],
+  "timestamp": "2026-10-16T10:00:11.379772687Z",
+  "model": "glm-5.3"
+}

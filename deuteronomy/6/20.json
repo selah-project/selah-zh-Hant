@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "問答體",
+      "rationale": "本節設立父子問答的傳授場景，是示瑪段的核心教導鉤子"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מחר",
+      "rationale": "字面為「明天」，此處指不定將來的「日後」，各譯本同此"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתכם",
+      "rationale": "את＋你們：吩咐「你們」——發言的是未來世代的孩子，對上一代說話；有抄本傳統讀作「我們」，七十士譯本即如此"
+    }
+  ],
+  "translation": "日後，你的兒子問你說：「雅威我們以羅欣吩咐你們的這些法度、律例和典章是甚麼意思？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8f64f317e09f3a6056a8429f6714166220d45df8c4d14d136bd4e1aea95d56c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/6\/17-20.1792128580773.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "日後當"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "你的兒子問你"
+    },
+    {
+      "surface": "בנך",
+      "gloss": ""
+    },
+    {
+      "surface": "מחר",
+      "gloss": "日後"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "מה",
+      "gloss": "是甚麼意思"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "這些法度"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "和律例"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "和典章"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "צוה",
+      "gloss": "吩咐"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "我們以羅欣"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "你們"
+    }
+  ],
+  "timestamp": "2026-10-16T05:29:40.774432495Z",
+  "model": "glm-5.3"
+}

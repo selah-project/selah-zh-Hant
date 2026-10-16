@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 26:13",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文需「是／有」補足名詞句"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויעבר／העבר",
+      "rationale": "動詞「過去」與名詞「對面」同根呼應，中文難以保留"
+    }
+  ],
+  "translation": "大衛渡到對面，站在山頂上，相距很遠，他們之間的地方很大。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b0992ff3bee5fa1455f6dc2c2358ca3cf52d4cd8d48bd0d869f16ab4720425c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/26\/13-16.1792131576594.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "渡到"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "對面"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "站在"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頂"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "那山"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "很遠"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "地方"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "他們之間"
+    }
+  ],
+  "timestamp": "2026-10-16T06:19:36.595432923Z",
+  "model": "glm-5.3"
+}

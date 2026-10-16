@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "面色昏暗",
+      "rationale": "קדר 字面是「發黑如灰燼」，引申披麻哀痛；譯文保留灰暗的畫面"
+    },
+    {
+      "kind": "crux",
+      "subject": "בלחץ",
+      "rationale": "可作「在仇敵的壓迫中」或「因仇敵的欺壓」，介詞方向有別"
+    },
+    {
+      "kind": "you",
+      "subject": "對伊勒",
+      "rationale": "詩人直接向伊勒發問的禱詞"
+    }
+  ],
+  "translation": "我要對伊勒──我的磐石──說：你為何忘記我？我為何面色昏暗，在仇敵的壓迫之下行走？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/42\/9-12.1792143727430.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "我要說"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "對伊勒"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "我的磐石"
+    },
+    {
+      "surface": "למה",
+      "gloss": "為何"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "你忘記我"
+    },
+    {
+      "surface": "למה",
+      "gloss": "為何"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "面色昏暗"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "行走"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "在壓迫之下"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "仇敵"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:07.431166576Z",
+  "model": "glm-5.3"
+}

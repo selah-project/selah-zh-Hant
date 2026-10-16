@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 13:8",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ותבשל",
+      "rationale": "字面「煮沸」，和合本作「烤」；希伯來文是煮，非烤"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבבות",
+      "rationale": "餅名לביבות與לב「心」同根，雙關在中文中失落"
+    }
+  ],
+  "translation": "他瑪就到她哥哥暗嫩的家中去；他正躺著。她拿⟨את⟩生麵，揉好，在他眼前做餅，把⟨את⟩那些餅煮熟了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fb4c93937e4b8a4d70d78c0ec791d06b860830217b7d140a3d35306967a69abf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/13\/5-8.1792131939212.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "就去"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "他瑪"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "暗嫩"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "她哥哥"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "躺著"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "拿"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "生麵"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "生麵"
+    },
+    {
+      "surface": "ותלוש",
+      "gloss": "揉"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "做餅"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "在他眼前"
+    },
+    {
+      "surface": "ותבשל",
+      "gloss": "煮"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那些餅"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "那些餅"
+    }
+  ],
+  "timestamp": "2026-10-16T06:25:39.215424316Z",
+  "model": "glm-5.3"
+}

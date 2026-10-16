@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 2:21",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨祂⟩",
+      "rationale": "中文需主語以辨明動作出於雅威以羅欣，希伯來文以動詞形態隱含"
+    },
+    {
+      "kind": "substitution",
+      "subject": "沉睡",
+      "rationale": "תרדמה 是昏沉的恍惚之眠，非尋常的睡"
+    },
+    {
+      "kind": "alternative",
+      "subject": "用肉把那處封合",
+      "rationale": "ויסגר בשר תחתנה 直譯『在那肋骨之下封上肉』，即以肉填補取肋之處"
+    }
+  ],
+  "translation": "雅威以羅欣使沉睡臨到那人身上，他就睡了；於是⟨祂⟩取下他的一條肋骨，又用肉把那處封合起來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f140cd0774f5bb110bd3acd7ed3aec53bebda3d6b35a55e10dd6ed8102089fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/2\/21-24.1792124529933.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "使……臨到"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "沉睡"
+    },
+    {
+      "surface": "על",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "那人"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "他就睡了"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "取下"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一條"
+    },
+    {
+      "surface": "מצלעתיו",
+      "gloss": "他的肋骨"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "封合"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "תחתנה",
+      "gloss": "在那處之下"
+    }
+  ],
+  "timestamp": "2026-10-16T04:22:09.933926778Z",
+  "model": "glm-5.3"
+}

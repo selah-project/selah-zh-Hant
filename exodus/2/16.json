@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "有",
+      "rationale": "中文需動詞「有」表領有，希伯來文僅以附屬短語 ולכהן מדין שבע בנות 表達"
+    },
+    {
+      "kind": "measurement",
+      "subject": "七個女兒",
+      "rationale": "明確計數：七"
+    }
+  ],
+  "translation": "米甸的祭司有七個女兒；她們來打水，灌滿了 ⟨את⟩ 水槽，要飲她們父親的羊群。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "82604d86beb69d4cde98743c13801de55a665741eb8b1b0e5b4d2b9294b1a651",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/2\/13-16.1792125687786.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "米甸的"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "女兒"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "她們來"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "打水"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "灌滿了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "水槽"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "水槽"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "要飲"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "她們父親的"
+    }
+  ],
+  "timestamp": "2026-10-16T04:41:27.788023080Z",
+  "model": "glm-5.3"
+}

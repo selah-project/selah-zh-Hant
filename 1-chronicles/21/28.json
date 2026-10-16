@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 21:28",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "引導詞「看見……」在中文中以語序呈現，無對應詞。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "獻祭",
+      "rationale": "ויזבח字面為「宰牲」，通常指獻祭，此處統作獻祭。"
+    }
+  ],
+  "translation": "那時，大衛見雅威在耶布斯人阿爾南的打穀場上應允了他，就在那裡獻祭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "928737a46f07a8631d033b9545ebf962c6950f27276e7969288724f1fba6fb13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/21\/25-28.1792148842021.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "那時"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "（那）"
+    },
+    {
+      "surface": "בראות",
+      "gloss": "見"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "כי",
+      "gloss": "（那）"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "應允了他"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "在打穀場"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "阿爾南"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "耶布斯人"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "獻祭"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裡"
+    }
+  ],
+  "timestamp": "2026-10-16T11:07:22.022579968Z",
+  "model": "glm-5.3"
+}

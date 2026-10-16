@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "我的靈",
+      "rationale": "רוח此處指人的氣息／心靈，非雅威的魯阿，故不音譯"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אשיחה",
+      "rationale": "亦可作「我訴說」——שיח兼有沉思與出聲傾訴兩義"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "音樂標記細拉，原樣保留，不另譯義"
+    }
+  ],
+  "translation": "我想念以羅欣，就呻吟；我沉思默想，我的靈便昏厥。細拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ac36b624f484cbc0cfdb97169212bf6862166553e03ee1f37780cad82100b747",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/77\/1-4.1792144284268.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "我想念"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "就呻吟"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "我沉思默想"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "便昏厥（如被遮蔽）"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "我的靈"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-10-16T09:51:24.269806072Z",
+  "model": "glm-5.3"
+}

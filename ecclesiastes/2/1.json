@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "你",
+      "rationale": "希伯來文未寫出受試的對象（說話者對自己說話），中文補出「你」"
+    },
+    {
+      "kind": "you",
+      "subject": "to self",
+      "rationale": "說話者對自己的心說話，自我勸誘的修辭結構"
+    },
+    {
+      "kind": "substitution",
+      "subject": "虛空",
+      "rationale": "הבל 字面是「氣息／蒸氣」，譯作「虛空」"
+    }
+  ],
+  "translation": "我心裡說：「來吧，讓我以喜樂試試你，看看美物」；看哪，這也是虛空。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2da1288e19257dbd17f2a221370d43981aa409a8b2038fce826468db28841a95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/2\/1-4.1792146969757.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "我說"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "在我心裡"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "來吧"
+    },
+    {
+      "surface": "נא",
+      "gloss": "吧"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "讓我試試你"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "以喜樂"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "看看"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "美物"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "這"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "虛空"
+    }
+  ],
+  "timestamp": "2026-10-16T10:36:09.758487625Z",
+  "model": "glm-5.3"
+}

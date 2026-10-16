@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 11:2",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "魯阿",
+      "rationale": "רוח 譯作音譯「魯阿」（括註 靈），不用「聖靈」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רוח×4",
+      "rationale": "四重重複的結構遞進，中文保留同一詞形"
+    }
+  ],
+  "translation": "雅威的魯阿（靈）必停在他身上——智慧和聰明的魯阿、謀略和能力的魯阿、認識雅威和敬畏雅威的魯阿。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c74e25d4305f81d497d181d8591de47c9f818c0760129d2a473e3acfbd8daf8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/11\/1-4.1792134800694.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונחה",
+      "gloss": "停在"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "在他身上"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "魯阿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "魯阿"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "和聰明"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "魯阿"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "謀略"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "和能力"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "魯阿"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "認識"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "和敬畏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-10-16T07:13:20.695843284Z",
+  "model": "glm-5.3"
+}

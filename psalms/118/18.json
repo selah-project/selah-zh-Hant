@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יסר יסרני",
+      "rationale": "同根動詞連用（不定絕對＋完成式）加強語氣：管教——祂管教我；中文以「重重」補足強調"
+    },
+    {
+      "kind": "addition",
+      "subject": "重重",
+      "rationale": "不定絕對結構的強調用法，中文以副詞呈現"
+    }
+  ],
+  "translation": "雅重重管教我，卻沒有把我交給死亡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "054739b81d58769ad3454f9c1db11c07dca8c746921a4c10b959f73f4a890008",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/118\/17-20.1792144808621.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "管教"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "重重管教我"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "卻給死亡"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "把我交給"
+    }
+  ],
+  "timestamp": "2026-10-16T10:00:08.622698277Z",
+  "model": "glm-5.3"
+}

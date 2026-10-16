@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "事",
+      "rationale": "『惡事』之『事』為中文語法所加，原文僅『惡』"
+    }
+  ],
+  "translation": "不可在自己眼中看為有智慧；要敬畏⟨את⟩雅威，遠離惡事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "560062527fb27e3860896ed6c66d96e8a9a0dc589c340ce18779c78c1570302d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/3\/5-8.1792145215210.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "看為"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "有智慧"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "在你眼中"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "要敬畏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "要遠離"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "惡事"
+    }
+  ],
+  "timestamp": "2026-10-16T10:06:55.211853462Z",
+  "model": "glm-5.3"
+}

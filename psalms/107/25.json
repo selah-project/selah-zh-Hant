@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "他一說",
+      "rationale": "ויאמר 直譯「他說」，即他一發令事就成就"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רוח סערה",
+      "rationale": "風＋暴風的疊加，中文以「狂風」壓縮為一詞"
+    }
+  ],
+  "translation": "他一說，就興起狂風，波浪就翻騰起來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "213f323a1eb252fb03113974b76d84387e4d33d740bcc49748feb77cb332705e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/107\/25-28.1792144687638.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他一說"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "就興起"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "狂風"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "就翻騰起來"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "波浪"
+    }
+  ],
+  "timestamp": "2026-10-16T09:58:07.638850457Z",
+  "model": "glm-5.3"
+}

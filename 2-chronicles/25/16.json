@@ -1,0 +1,143 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 25:16",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨王⟩",
+      "rationale": "第二個「他說」的主語是亞瑪謝王，原文未寫明，中文需補出以免混淆"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעץ／לעצתי",
+      "rationale": "王的「謀士」（הליועץ）與先知的「勸戒」（עצתי）同根，王拒絕人的謀，以羅欣已謀定毀滅——字的呼應，中文以「謀士／定意／勸戒」部分保留"
+    },
+    {
+      "kind": "alternative",
+      "subject": "免得挨打",
+      "rationale": "「為什麼要挨打」直譯更貼原文的質問語氣；本譯採警告式讀法"
+    }
+  ],
+  "translation": "他向王說話的時候，⟨王⟩對他說：「我們豈立你作王的謀士？你住手吧，免得挨打！」先知就住了手，卻說：「我知道以羅欣已定意要毀滅你，因為你行了這事，卻沒有聽從我的勸戒。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e21a8519484c2d80627950f837f744d4e04a57e9419c85af194d495dac4e1f87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/25\/13-16.1792149649634.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "當…的時候"
+    },
+    {
+      "surface": "בדברו",
+      "gloss": "他說話"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "向王"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "הליועץ",
+      "gloss": "豈作謀士"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王的"
+    },
+    {
+      "surface": "נתנוך",
+      "gloss": "我們立了你"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "你住手"
+    },
+    {
+      "surface": "לך",
+      "gloss": "吧"
+    },
+    {
+      "surface": "למה",
+      "gloss": "為什麼"
+    },
+    {
+      "surface": "יכוך",
+      "gloss": "要擊打你"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "就住了手"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "那先知"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "卻說"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我知道"
+    },
+    {
+      "surface": "כי",
+      "gloss": "（引語）"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "已定意"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "להשחיתך",
+      "gloss": "要毀滅你"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "你行了"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這事"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "卻沒有"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "聽從"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "我的勸戒"
+    }
+  ],
+  "timestamp": "2026-10-16T11:20:49.635903171Z",
+  "model": "glm-5.3"
+}

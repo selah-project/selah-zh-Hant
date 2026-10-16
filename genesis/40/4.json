@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אתם（H854 介詞）",
+      "rationale": "此處 אתם 作「與他們同在」的介詞，非受詞記號；與下一個受詞 אתם 區分"
+    },
+    {
+      "kind": "addition",
+      "subject": "一些",
+      "rationale": "ימים 無定指「日子」，中文加量詞「一些」"
+    }
+  ],
+  "translation": "護衛長派約瑟服事⟨את⟩他們，⟨את⟩ 與他們同在；他就伺候⟨את⟩他們。他們在監裡過了一些日子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f19d19edcc53c1c029aa89a6634d5e75d2a4de24161a969c71c25bb35d2e967a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/40\/1-4.1792125434927.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "派"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "護衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約瑟"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ 與他們同在"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "伺候"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "他們"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "過了"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "一些日子"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "在監裡"
+    }
+  ],
+  "timestamp": "2026-10-16T04:37:14.928645050Z",
+  "model": "glm-5.3"
+}

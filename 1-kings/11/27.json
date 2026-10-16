@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 11:27",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "סגר",
+      "rationale": "字面『封閉』，譯本多作『修補』；ylt 保留『shut up』"
+    },
+    {
+      "kind": "measurement",
+      "subject": "米羅",
+      "rationale": "耶路撒冷城防工程的專名，建築記述"
+    }
+  ],
+  "translation": "這就是他舉手攻擊王所羅門的緣由：所羅門建造了⟨את⟩米羅，封閉了⟨את⟩他父親大衛城的破口。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c5630a19817262dc5fbc53e060bca896f91f13ef2e1aeb57c26939812d2fa0d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/11\/25-28.1792133026767.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "這就是"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "緣由（那事）"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "他舉起"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "攻擊王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "建造了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "米羅"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "米羅"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "封閉了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "破口"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "破口"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "他父親"
+    }
+  ],
+  "timestamp": "2026-10-16T06:43:46.768021806Z",
+  "model": "glm-5.3"
+}

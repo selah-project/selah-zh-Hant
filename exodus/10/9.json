@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 10:9",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נלך",
+      "rationale": "「同去」在同一節中重複兩次，框住人丁與牲畜的名單；中文保留重複。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חג יהוה לנו",
+      "rationale": "直譯「雅威的節期是給我們的」；英文諸本作「我們必須向耶和華守節」，本譯貼近希伯來結構。"
+    },
+    {
+      "kind": "you",
+      "subject": "摩西回答法老",
+      "rationale": "摩西直接回覆法老的問話（10:8），宣告全民同去。"
+    }
+  ],
+  "translation": "摩西說：「我們要帶著我們的少年人和老年人同去，帶著我們的兒子和女兒，帶著我們的羊群和牛群同去，因為這是雅威向我們〈所定〉的節期。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ee90873ce6996c091a60876c31e586c08f6354397c8e0b15d32cfc5ed7a752ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/10\/9-12.1792125876861.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "בנערינו",
+      "gloss": "帶著我們的少年人"
+    },
+    {
+      "surface": "ובזקנינו",
+      "gloss": "和我們的老年人"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "同去"
+    },
+    {
+      "surface": "בבנינו",
+      "gloss": "帶著我們的兒子"
+    },
+    {
+      "surface": "ובבנותנו",
+      "gloss": "和我們的女兒"
+    },
+    {
+      "surface": "בצאננו",
+      "gloss": "帶著我們的羊群"
+    },
+    {
+      "surface": "ובבקרנו",
+      "gloss": "和我們的牛群"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "同去"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חג",
+      "gloss": "節期"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "向我們"
+    }
+  ],
+  "timestamp": "2026-10-16T04:44:36.862368843Z",
+  "model": "glm-5.3"
+}

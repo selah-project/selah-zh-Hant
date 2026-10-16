@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 29:17",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש是氣息／生命活力，不是不朽的靈魂"
+    },
+    {
+      "kind": "alternative",
+      "subject": "管教你的兒子",
+      "rationale": "ייסר為未完成式可讀祈使（管教吧）或陳述（管教了……就必），傳統取祈使"
+    }
+  ],
+  "translation": "管教你的兒子，他就使你得安息；他必將愉悅賜給你的性命。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "247a2fa37d1a26cd1ef80a95662cc3b3e7ac41c8d228c9f10c65be049b47cfac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/29\/17-20.1792145676436.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "管教"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "你的兒子"
+    },
+    {
+      "surface": "ויניחך",
+      "gloss": "他就使你得安息"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "他必將……賜給"
+    },
+    {
+      "surface": "מעדנים",
+      "gloss": "愉悅"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "你的性命"
+    }
+  ],
+  "timestamp": "2026-10-16T10:14:36.437490004Z",
+  "model": "glm-5.3"
+}

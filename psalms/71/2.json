@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "側耳",
+      "rationale": "הטה אזנך 直譯「垂下你的耳」，中文以「側耳」為慣用語"
+    },
+    {
+      "kind": "you",
+      "subject": "to 雅威",
+      "rationale": "延續上節對雅威的直接祈求"
+    }
+  ],
+  "translation": "求你憑你的公義搭救我，救我脫離；側耳向我，拯救我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "38058d90d99057f2165ca77799e41e1aa7540a660bf582d3cd81aac6bf69eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/71\/1-4.1792144156549.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "憑你的公義"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "搭救我"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "救我脫離"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "側"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "向"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "你的耳"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "拯救我"
+    }
+  ],
+  "timestamp": "2026-10-16T09:49:16.549938141Z",
+  "model": "glm-5.3"
+}

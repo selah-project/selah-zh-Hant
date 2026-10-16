@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨這⟩",
+      "rationale": "中文需要指示詞，希伯來文有定冠詞"
+    },
+    {
+      "kind": "crux",
+      "subject": "מאין יבא עזרי",
+      "rationale": "可作疑問『我的幫助從何處來？』或宣告『我的幫助從造山之處而來』；和合本作疑問"
+    },
+    {
+      "kind": "invitation",
+      "subject": "舉目觀看",
+      "rationale": "詩人自述並向讀者發問，引人進入詩篇"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאין",
+      "rationale": "既可讀作『從何處』也可讀作『從阿因（Maon／全能者）』，雙關在中文中喪失"
+    }
+  ],
+  "translation": "上行之詩。我舉目觀看⟨這⟩眾山：我的幫助從何處來呢？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8f07faf0f11916aa1ad6ab96a29c64b818bcebbde0b41505d274b77833588e39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/121\/1-4.1792144914541.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "詩"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "上行之"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "我舉起"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的眼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "觀看"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "眾山"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "從何處"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "來"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "我的幫助"
+    }
+  ],
+  "timestamp": "2026-10-16T10:01:54.542024602Z",
+  "model": "glm-5.3"
+}

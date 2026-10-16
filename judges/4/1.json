@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 4:1",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "又行了",
+      "rationale": "ויספו字面是「又加添做」，中譯以「又行了」濃縮重複體"
+    },
+    {
+      "kind": "addition",
+      "subject": "以珥胡德死後",
+      "rationale": "希伯來文語序為「以珥胡德死了」置於句末，中文移至句首並加「後」"
+    }
+  ],
+  "translation": "以珥胡德死後，以色列人又行了雅威眼中看為惡的事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0857687e4fafd5a3b3faefc6e9749ad447dade816daa5d4799ecc8f56f860610",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/4\/1-4.1792130187085.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויספו",
+      "gloss": "又行了"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "行"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "惡的事"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "眼中"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "以珥胡德"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死"
+    }
+  ],
+  "timestamp": "2026-10-16T05:56:27.086288448Z",
+  "model": "glm-5.3"
+}

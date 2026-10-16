@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 26:1",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קרא בן מן בני אסף",
+      "rationale": "各家譯本處理不一：可拉是誰、他如何出於亞薩的子孫——他勒根與諸譯本或作「亞薩的兒子可拉」（參出 6:24 可拉屬哥轄族，非亞薩族）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "守門人",
+      "rationale": "לשערים 直譯「門的（看守者）」，中文以「守門人」表其職分"
+    },
+    {
+      "kind": "measurement",
+      "subject": "班次的分配",
+      "rationale": "利未守門人的班次名冊，本節起首的編制記錄"
+    }
+  ],
+  "translation": "論班次的分配：守門人中，屬可拉族的，有米示利米雅，他是可拉的兒子，出於亞薩的子孫。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2c1179243e6cd9e9ef75dca40a83e25cec0f0012f0c771aad78f642a1cfa1318",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/26\/1-4.1792148990559.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למחלקות",
+      "gloss": "論班次的分配"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "守門人中"
+    },
+    {
+      "surface": "לקרחים",
+      "gloss": "屬可拉族的"
+    },
+    {
+      "surface": "משלמיהו",
+      "gloss": "米示利米雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "可拉"
+    },
+    {
+      "surface": "מן",
+      "gloss": "出於"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "亞薩"
+    }
+  ],
+  "timestamp": "2026-10-16T11:09:50.559621192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 12:17",
+  "book": "nehemiah",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "priestly courses",
+      "rationale": "此段為祭司家族名單，逐一計數。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "撒刻",
+      "rationale": "זִכְרִי 在此為人名（和合本作撒刻），非指流便支派的謝拉族。"
+    }
+  ],
+  "translation": "亞比雅家有撒刻；米拿尼族有、瑪阿底雅家有毗勒太。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6785cc6aad8fe31256392b4785ed4596b8c0aae6a5ce56fa880eb33300b86f65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nehemiah\/12\/17-20.1792148222045.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאביה",
+      "gloss": "亞比雅家"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "撒刻"
+    },
+    {
+      "surface": "למנימין",
+      "gloss": "米拿尼族"
+    },
+    {
+      "surface": "למועדיה",
+      "gloss": "瑪阿底雅家"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "毗勒太"
+    }
+  ],
+  "timestamp": "2026-10-16T10:57:02.045871922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文需要"
+    },
+    {
+      "kind": "addition",
+      "subject": "的橛子",
+      "rationale": "中文以重複名詞補足「會幕和院子周圍」的並列結構"
+    },
+    {
+      "kind": "substitution",
+      "subject": "銅",
+      "rationale": "נְחֹשֶׁת 是銅；和合本傳統譯「銅」，非青銅或黃銅"
+    }
+  ],
+  "translation": "會幕的一切橛子和院子周圍⟨的橛子⟩都是銅的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "71816650805c29147c468ff0ca43810270d351f2ffc767c00b98d3faec2714c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/38\/18-20.1792142360752.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "橛子"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "院子"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周圍"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    }
+  ],
+  "timestamp": "2026-10-16T09:19:20.753976338Z",
+  "model": "glm-5.3"
+}

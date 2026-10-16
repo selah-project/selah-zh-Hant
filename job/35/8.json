@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 35:8",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "以利戶對約伯",
+      "rationale": "「你的」延續對約伯的直接論述"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לְ",
+      "rationale": "希伯來文介詞לְ字面是「歸於／屬於」，各譯本或作「傷害」或作「關乎」；此處譯「只及於」以保留其歸屬之義"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אישׁ／בן־אדם",
+      "rationale": "「人」與「人的兒子」平行互指，皆指同等的凡人，非專有名號"
+    }
+  ],
+  "translation": "你的邪惡只及於像你的人，你的公義只及於人的兒子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e66d573fdf9712bdf484cba9d20923a21f339765e5bd167bd637c76beed12547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/35\/5-8.1792146450206.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאיש",
+      "gloss": "及於人"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "像你的"
+    },
+    {
+      "surface": "רשעך",
+      "gloss": "你的邪惡"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "及於兒子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人的"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "你的公義"
+    }
+  ],
+  "timestamp": "2026-10-16T10:27:30.207410064Z",
+  "model": "glm-5.3"
+}

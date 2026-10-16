@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "一百肘",
+      "rationale": "院子南面帷子的長度以肘計算"
+    },
+    {
+      "kind": "addition",
+      "subject": "長",
+      "rationale": "希伯來文僅記數目「一百肘」，中文補一「長」字以成句"
+    }
+  ],
+  "translation": "他做了 ⟨את⟩ 院子：南面朝南，院子的帷子是細麻撚線的，長一百肘。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9ddd22e2caac854851d8b578ff1bae338ba7cb37f957c495eb14b905c6ed51bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/38\/9-12.1792126533009.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "他做了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "院子"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "院子"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "面"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "南"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "朝南"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "帷子"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "院子的"
+    },
+    {
+      "surface": "שש",
+      "gloss": "細麻"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "撚線"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "一百"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "肘"
+    }
+  ],
+  "timestamp": "2026-10-16T04:55:33.009801507Z",
+  "model": "glm-5.3"
+}

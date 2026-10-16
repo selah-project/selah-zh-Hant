@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 11:17",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כרת ברית",
+      "rationale": "『割約』：立約的字面是切開、從剖開的祭牲之間經過，中文『立約』失去切割的圖像。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "立的範圍",
+      "rationale": "原文的『之間』連鎖可讀作雅威、王、民三方一約，或兩約（雅威—王民、王—民），譯文保留兩種讀法的餘地。"
+    }
+  ],
+  "translation": "耶何耶大割立了⟨את⟩約，在雅威與王、王與民之間，要使他們成為雅威之民；又在王與民之間立約。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "14e4a16a1fc2f87e6900385045f8570fcb2eda1c1147647683a69eb98cde5d5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/11\/17-20.1792133955207.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "割立了"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "耶何耶大"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "בין",
+      "gloss": "之間"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "與……之間"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "與……之間"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "要成為"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "之民"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "又在……與……之間"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "與……之間"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    }
+  ],
+  "timestamp": "2026-10-16T06:59:15.208394866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "願",
+      "rationale": "希伯來文為未完成式祈願，中文以「願」表達"
+    }
+  ],
+  "translation": "願他照你心所願的賜給你，願他成就你一切的謀略。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "407b48d910194a22cdae93bf36cd16b5a136ef15bcee0f67f64355c84fbc1ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/20\/5-8.1792143452441.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "願他賜給"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "照你的心"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和你一切的"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "謀略"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "願他成就"
+    }
+  ],
+  "timestamp": "2026-10-16T09:37:32.441622987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "（他）",
+      "rationale": "關係詞 אשר 引導的子句中文需補出主語"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשרי\/אשר",
+      "rationale": "「有福啊」與關係詞 אשר 首尾相連，形成音韻迴環，中文難以保留"
+    }
+  ],
+  "translation": "以雅威為他所倚靠的，那人何等有福；他不轉向狂傲之輩，也不轉向偏向謊言的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1b36c23f3912af408b64b2067bc2ca86a38f1bfbb4f73c1c716271d62b3e01b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/40\/5-8.1792143767717.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "何等有福"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "那人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "（他）"
+    },
+    {
+      "surface": "שם",
+      "gloss": "以……為"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "他所倚靠的"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "轉向"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "狂傲之輩"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "也不轉向偏向謊言的人"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "謊言"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:47.718061482Z",
+  "model": "glm-5.3"
+}

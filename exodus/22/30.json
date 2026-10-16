@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "聖潔之人",
+      "rationale": "אנשי קדש 直譯「聖潔的人們」，希伯來文以名詞片語作述語，中文補動詞「作」"
+    },
+    {
+      "kind": "addition",
+      "subject": "被撕裂的",
+      "rationale": "טרפה 為被動分詞，中文補「被」字以保持語態"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "複數命令式直接向以色列全體說話"
+    }
+  ],
+  "translation": "你們要作屬我的聖潔之人；田間被撕裂的肉，你們不可吃，要丟給狗⟨אתו⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0daa481e6d8d6b0dcc39aa380373fcba324226b4ba7538638f24e1179dc53b22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/22\/29-30.1792126111562.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "而你們……之人"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖潔"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "你們要作"
+    },
+    {
+      "surface": "לי",
+      "gloss": "屬我"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "而肉"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "在田間"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "被撕裂的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "你們吃"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "給狗"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "你們要丟"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "牠（被撕裂的肉）"
+    }
+  ],
+  "timestamp": "2026-10-16T04:48:31.563789208Z",
+  "model": "glm-5.3"
+}

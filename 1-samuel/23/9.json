@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 23:9",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "亞希米勒⟨的兒子⟩",
+      "rationale": "希伯來文只寫「亞比亞他」，中文加父名以辨識，其實原文無此，應刪除括註只留亞比亞他"
+    },
+    {
+      "kind": "substitution",
+      "subject": "暗中策劃",
+      "rationale": "מחריש字面是「靜默不語」，指掃羅暗中進行，此處以意譯呈現"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨那⟩",
+      "rationale": "הרעה帶定冠詞，中文以「那」標示"
+    }
+  ],
+  "translation": "大衛知道掃羅暗中策劃 ⟨那⟩ 禍患要害他，就對亞希米勒⟨的兒子⟩亞比亞他祭司說：「把以弗得拿過來。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "df90f4fe3ac1d5578593274c89bb1e49be210f087ac5ec2c42f581c8871bf873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/23\/9-12.1792131336522.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "知道"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "כי",
+      "gloss": "知道"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "要害他"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "暗中策劃"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "禍患"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "亞比亞他"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "拿過來"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "以弗得"
+    }
+  ],
+  "timestamp": "2026-10-16T06:15:36.523161268Z",
+  "model": "glm-5.3"
+}

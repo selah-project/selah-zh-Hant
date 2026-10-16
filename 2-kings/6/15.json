@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 6:15",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "איש האלהים",
+      "rationale": "איש האלהים 即「以羅欣之人」，中文以屬格「以羅欣之人」保留構造。"
+    },
+    {
+      "kind": "you",
+      "subject": "對以利沙",
+      "rationale": "僕人直接向以利沙發問「哀哉，我主！我們該怎麼辦呢？」"
+    },
+    {
+      "kind": "addition",
+      "subject": "呢",
+      "rationale": "中文疑問語氣詞為中文語法所需，希伯來文無此字。"
+    }
+  ],
+  "translation": "以羅欣之人的僕人清早起來出去，看哪，一支軍隊正圍著 ⟨את⟩ 那城，有馬匹和戰車。他的僕人對他說：「哀哉，我主！我們該怎麼辦呢？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "33cbf42bb2efc8e29e9ce81f046a85d3af2c7ba4852890509d5ca6b54fea0953",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/6\/14-16.1792142439216.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "清早起來"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "僕人"
+    },
+    {
+      "surface": "איש",
+      "gloss": "之人"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "起來"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "一支軍隊"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "正圍著"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那城"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "那城"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "和馬匹"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "和戰車"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "他的僕人"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "哀哉"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "我主"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "怎麼"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "我們該辦"
+    }
+  ],
+  "timestamp": "2026-10-16T09:20:39.218061419Z",
+  "model": "glm-5.3"
+}

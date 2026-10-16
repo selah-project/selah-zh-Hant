@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨牠們的⟩",
+      "rationale": "後綴代名詞包含在אכלם之內，中文分開時補足"
+    },
+    {
+      "kind": "substitution",
+      "subject": "伊勒",
+      "rationale": "אל音譯為伊勒，不譯作「神」作類名"
+    },
+    {
+      "kind": "you",
+      "subject": "向伊勒",
+      "rationale": "獅子向伊勒尋求食物，詩中的祈求意象"
+    }
+  ],
+  "translation": "少壯獅子吼叫掠食，向伊勒尋求⟨牠們的⟩食物。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9e7b141356948e4cd92bb06f6f5e2f705ad6ad6ab93b8c20b8b5a2a07d0ec7ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/104\/21-24.1792144559032.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "少壯獅子"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "吼叫"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "掠食"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "並尋求"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "向伊勒"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "牠們的食物"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:59.033396652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "在",
+      "rationale": "希伯來文名詞短句無動詞，中文補「在」以成句。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אבל\/שמחה",
+      "rationale": "喪與樂的對句承接上文7:2的喪家與宴樂之家，兩節用同一對詞。"
+    }
+  ],
+  "translation": "智慧人的心在喪家，愚昧人的心在歡樂之家。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "88416ebfdb9190a4ed711f197ac7969d1185e9aba19ea520cb1612e01ed1de8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/7\/1-4.1792147057870.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "…的心"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "智慧人"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "在…家"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "喪"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "而…的心"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "愚昧人"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "在…家"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "歡樂"
+    }
+  ],
+  "timestamp": "2026-10-16T10:37:37.871070187Z",
+  "model": "glm-5.3"
+}

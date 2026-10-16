@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תועפות",
+      "rationale": "希伯來文僅以複數集體形式出現，本義「疲乏、勞苦」，引申為山之高處（險峻難攀之地）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "深處",
+      "rationale": "מחקרי 本義「被勘察之處」，指地底深不可測的隱密處"
+    },
+    {
+      "kind": "measurement",
+      "subject": "深處／高峰",
+      "rationale": "以地之最深與山之最高作極限對比，述說雅威的掌管範圍"
+    }
+  ],
+  "translation": "地的深處在他手中，山的高峰也是他的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "10d86986e2ff93155526143b6e52afb9b7bf2e9ef6d05a572507347523f37b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/95\/1-4.1792144495114.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "⟨他的手中有⟩地的深處的那位"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "在他手中"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "深處"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "高峰"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山"
+    },
+    {
+      "surface": "לו",
+      "gloss": "是他的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:54:55.115110389Z",
+  "model": "glm-5.3"
+}

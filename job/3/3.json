@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 3:3",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "有男子懷了胎",
+      "rationale": "גבר 一般指成年男子，此處作被孕育的男胎：「有男孩被懷了」對「有男子懷了胎」"
+    },
+    {
+      "kind": "addition",
+      "subject": "消失",
+      "rationale": "原文第二願句只有「那夜」，動詞承上句的 יאבד，中文補出以成句"
+    }
+  ],
+  "translation": "願我出生的那日滅亡，願那夜消失——就是宣告「有男子懷了胎」的那夜。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "49b0db4e71e4397a1ad67c7edba9773d430144d901673ae76c48146c8c508694",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/3\/1-4.1792145782534.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאבד",
+      "gloss": "願…滅亡"
+    },
+    {
+      "surface": "יום",
+      "gloss": "那日"
+    },
+    {
+      "surface": "אולד",
+      "gloss": "我出生"
+    },
+    {
+      "surface": "בו",
+      "gloss": "在其中"
+    },
+    {
+      "surface": "והלילה",
+      "gloss": "願那夜"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "宣告"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "懷了胎"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "男子"
+    }
+  ],
+  "timestamp": "2026-10-16T10:16:22.535831517Z",
+  "model": "glm-5.3"
+}

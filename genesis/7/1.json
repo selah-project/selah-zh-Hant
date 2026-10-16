@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 7:1",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文需補「是」以連接義人"
+    },
+    {
+      "kind": "you",
+      "subject": "to 挪亞",
+      "rationale": "雅威直接向挪亞說話，命令他進方舟"
+    },
+    {
+      "kind": "invitation",
+      "subject": "בא",
+      "rationale": "命令式召喚：進入方舟"
+    }
+  ],
+  "translation": "雅威對挪亞說：「你和你全家都要進方舟，因為在這世代中，我見你⟨את⟩是義人，在我面前。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7ed5a7f1b58598d87b2812527f8481b796bc652fa16983a9606156afd03a3b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/7\/1-4.1792124667006.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "對挪亞"
+    },
+    {
+      "surface": "בא",
+      "gloss": "進"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和全"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "你的家"
+    },
+    {
+      "surface": "אל",
+      "gloss": "進入"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "方舟"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "你"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我見"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在我面前"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "在世代中"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    }
+  ],
+  "timestamp": "2026-10-16T04:24:27.006726409Z",
+  "model": "glm-5.3"
+}

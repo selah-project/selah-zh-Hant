@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "materials",
+      "rationale": "壇的材質被指定為皂莢木，屬會幕器物製造指示。"
+    },
+    {
+      "kind": "elision",
+      "subject": "燒香之處",
+      "rationale": "מקטר קטרת 為「燒香之器·香」的受詞組合，中文以「燒香的壇」合併語譯。"
+    }
+  ],
+  "translation": "你要做一座燒香的壇，用皂莢木做 ⟨את⟩它。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c1adbe715a292f985d482873e77ea895e49169ad141f650e3592857536c02aff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/30\/1-4.1792126358705.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "你要做"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "壇"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "燒香之處"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "香"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "木"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "皂莢"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩它",
+      "marks": "壇（香壇）"
+    }
+  ],
+  "timestamp": "2026-10-16T04:52:38.706264419Z",
+  "model": "glm-5.3"
+}

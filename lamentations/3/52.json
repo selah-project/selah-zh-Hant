@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צוד\/צדוני",
+      "rationale": "同一詞根連用（不定式＋動詞）：「追捕啊，他們追捕我」，中文以重複「追捕」模擬。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כצפור",
+      "rationale": "「像鳥一樣」指如獵人捕鳥般被圍困，非僅比喻輕小。"
+    }
+  ],
+  "translation": "埋伏追捕我，我的仇敵無緣無故地像捕鳥一樣追捕我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b27ac5f8c92b894d6f00ba7c9cd999629b9ae2e8299a36f7f65c4c7b8ed72f11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/lamentations\/3\/49-52.1792146780864.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "埋伏追捕"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "追捕我"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "像捕鳥一樣"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "我的仇敵"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "無緣無故地"
+    }
+  ],
+  "timestamp": "2026-10-16T10:33:00.865420282Z",
+  "model": "glm-5.3"
+}

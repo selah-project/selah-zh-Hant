@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 21:9",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "就是",
+      "rationale": "中文關係句需要連詞，希伯來文 אשר 已譯出，語序調整處以⟨⟩標示者省略以免冗贅"
+    },
+    {
+      "kind": "measurement",
+      "subject": "按名指明的城",
+      "rationale": "逐城列名的行政性分配合敘述"
+    }
+  ],
+  "translation": "他們從猶大支派、西緬支派中，給了這些按名指明的城。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f7218e2316651d3ed1c66a2d6c55baaeaaee77111433bcca1cbf8db535a6b44c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/21\/9-12.1792129897211.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "他們給了"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "從……支派"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子孫"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "並從……支派"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子孫"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "西緬"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這些城"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "這些城"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "按名指明"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "它們"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "按名"
+    }
+  ],
+  "timestamp": "2026-10-16T05:51:37.211706268Z",
+  "model": "glm-5.3"
+}

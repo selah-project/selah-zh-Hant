@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 22:11",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "派人",
+      "rationale": "希伯來文只說「王差遣去召」，中文補出受差之人的語感。"
+    }
+  ],
+  "translation": "王就派人去召 ⟨את⟩ 亞希米勒——亞希突的兒子、那祭司——和 ⟨את⟩ 他父家所有的祭司，就是在挪伯的祭司；他們就都來到王那裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "db24cb0b17f4e24899bc10c1fd29cdb1c5db4bdae090cc71ba83fb18d199f401",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/22\/9-12.1792131350261.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差遣"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "去召"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞希米勒"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "亞希米勒"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "亞希突"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "那祭司"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "他父家所有的祭司"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "他父"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "在挪伯"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "他們就來到"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "他們都"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王那裡"
+    }
+  ],
+  "timestamp": "2026-10-16T06:15:50.262582782Z",
+  "model": "glm-5.3"
+}

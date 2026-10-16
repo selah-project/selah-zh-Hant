@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 30:3",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמש",
+      "rationale": "「昨夜／昔日」與前文如何相連極難解：或作「在夜間的幽暗中」，或作「在古時」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שואה\/משאה",
+      "rationale": "毀滅（shoah）與廢墟（mishoah）僅一音之差，中文無法保留此迴響"
+    },
+    {
+      "kind": "addition",
+      "subject": "度過",
+      "rationale": "希伯來文無動詞，中文補出以成句，已標記"
+    }
+  ],
+  "translation": "在缺乏與飢餓中他們枯槁孤絕；他們咀嚼曠野的乾土，在荒涼與廢墟的幽暗中〈度過〉昨夜。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "398f25acbcee001d712b7d65b23c489fc208a49cb4e4a4071a862bf085ad5c9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/30\/1-4.1792146294630.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחסר",
+      "gloss": "在缺乏中"
+    },
+    {
+      "surface": "ובכפן",
+      "gloss": "與飢餓中"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "枯槁孤絕"
+    },
+    {
+      "surface": "הערקים",
+      "gloss": "咀嚼"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "乾旱之地"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "昨夜"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "荒涼"
+    },
+    {
+      "surface": "ומשאה",
+      "gloss": "與廢墟"
+    }
+  ],
+  "timestamp": "2026-10-16T10:24:54.631563413Z",
+  "model": "glm-5.3"
+}

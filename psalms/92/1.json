@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "之日",
+      "rationale": "希伯來文ליום的「日」以屬格結構譯出，中文加「之日」使語法自然"
+    },
+    {
+      "kind": "you",
+      "subject": "標題",
+      "rationale": "本詩標題指明為安息日之用，向敬拜者標示場合"
+    }
+  ],
+  "translation": "詩篇，一首歌，為安息日⟨之日⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "75aa2654dc0b02aebda872bbc4bf764367c9e56852a0f3d23ae13035f9c8688f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/92\/1-4.1792144512614.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "詩篇"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "一首歌"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "為…之日"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "安息日"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:12.615200198Z",
+  "model": "glm-5.3"
+}

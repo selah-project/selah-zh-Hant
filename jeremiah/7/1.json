@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "敘述框架引語，譯作「說：」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מאת",
+      "gloss": "",
+      "rationale": "מאת（從……而出）帶 את 記號，譯作「出自雅威」"
+    }
+  ],
+  "translation": "那臨到耶利米的話，出自雅威，說：",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c08a3ae0e5e7275241ba019f1ce5004e3b1c89172a6d7145828c29977594b657",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/7\/1-4.1792136248997.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "היה",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "耶利米"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    }
+  ],
+  "timestamp": "2026-10-16T07:37:28.998164368Z",
+  "model": "glm-5.3"
+}

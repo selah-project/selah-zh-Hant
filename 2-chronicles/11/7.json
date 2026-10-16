@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בית צור",
+      "rationale": "兩個希伯來詞元合成一個中文地名『伯夙』，分記於兩個詞位"
+    }
+  ],
+  "translation": "以及 ⟨את⟩ 伯夙、⟨ואת⟩ 梭哥、⟨ואת⟩ 亞杜蘭，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9678e41e341194a687d71b9ae7e714fb6d931e9f34898a5780de08d27e48942c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/11\/5-8.1792149220721.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "伯夙"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯"
+    },
+    {
+      "surface": "צור",
+      "gloss": "夙"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "梭哥"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "梭哥"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "亞杜蘭"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "亞杜蘭"
+    }
+  ],
+  "timestamp": "2026-10-16T11:13:40.722221057Z",
+  "model": "glm-5.3"
+}

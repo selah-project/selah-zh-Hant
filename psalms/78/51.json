@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ראשית אונים",
+      "rationale": "字面「力量的起頭」，即長子的專稱（創49:3）；譯作「力量的初熟之果」以存其形"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חם",
+      "rationale": "含是挪亞之子、埃及的祖先；「含的帳棚」即埃及，與前半「在埃及」同指異名"
+    }
+  ],
+  "translation": "他擊殺了埃及所有的長子，就是含的帳棚中他們力量的初熟之果。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e5c7cce20cd82460be456a416232e884abb74c42f60b5975ddb9b876424937ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/78\/49-52.1792144331143.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "他擊殺了"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "長子"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "在埃及"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "初熟之果"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "力量的"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "在帳棚"
+    },
+    {
+      "surface": "חם",
+      "gloss": "含"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:11.144761083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 9:1",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Pharaoh",
+      "rationale": "雅威吩咐摩西向法老傳話，全句是對法老的間接宣告。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלח\/יעבדני",
+      "rationale": "「差遣去／釋放」與「事奉」相對：容去是為了事奉雅威，而非休憩；中文難以保留兩個動詞的張力。"
+    }
+  ],
+  "translation": "雅威對摩西說：「你進到法老那裡去，對他說：希伯來人的以羅欣、雅威如此說：容⟨את⟩我的百姓去，讓他們事奉我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d9536b8f02f1201db2c51c8e5dd43a6ce8c11a3e40892dcd9981106108b1927a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/9\/1-4.1792125862267.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "בא",
+      "gloss": "進到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "你要說"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "כה",
+      "gloss": "如此"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說了"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "希伯來人的"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "容……去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的百姓"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "讓他們事奉我"
+    }
+  ],
+  "timestamp": "2026-10-16T04:44:22.267842928Z",
+  "model": "glm-5.3"
+}

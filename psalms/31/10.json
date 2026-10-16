@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨也一樣⟩",
+      "rationale": "עששה為單數動詞統攝三個主語（眼、性命、肚腹），中文補足省略的述語"
+    },
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש是氣息／生命之力，非「靈魂」二元論之魂"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עששה",
+      "rationale": "עָשׁוֹשׁ罕見；本詩31:11與本節重複出現（עששו），描繪衰竭枯萎"
+    }
+  ],
+  "translation": "雅威啊，恩待我，因為我遭困苦；我的眼睛因愁煩而衰退，我的性命和我的肚腹⟨也一樣⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d7d768349330cb3911c1022e6e58f2b70f368dddddb704a24760ec3b18f53312",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/31\/9-12.1792143542602.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "恩待我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "צר",
+      "gloss": "困苦"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我遭"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "衰退"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "因愁煩"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的眼睛"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "和我的肚腹"
+    }
+  ],
+  "timestamp": "2026-10-16T09:39:02.602774442Z",
+  "model": "glm-5.3"
+}

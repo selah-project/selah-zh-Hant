@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 5:21",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "的人",
+      "rationale": "中文需名詞化以承接分詞結構，希伯來文僅有分詞"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "六個禍哉",
+      "rationale": "賽5:8–24為一連串הוי宣告，此為第五禍，結構重複"
+    }
+  ],
+  "translation": "禍哉，那些在自己眼中為智慧的、在自己面前自以為聰明的人！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d58ec96a7d2900cba89cb8bf81c6479fafabe8a79bb33a2d3f7b6f053dbbd1e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/5\/21-24.1792134646285.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "禍哉"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "為智慧的"
+    },
+    {
+      "surface": "בעיניהם",
+      "gloss": "在自己眼中"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "在……面前"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "自己面前"
+    },
+    {
+      "surface": "נבנים",
+      "gloss": "自以為聰明的"
+    }
+  ],
+  "timestamp": "2026-10-16T07:10:46.286286595Z",
+  "model": "glm-5.3"
+}

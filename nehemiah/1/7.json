@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חבל חבלנו",
+      "rationale": "不定式絕對形加強語氣——「敗壞又敗壞」，英譯作 dealt very corruptly；中文重複動詞以存其力"
+    },
+    {
+      "kind": "crux",
+      "subject": "敗壞",
+      "rationale": "חבל 字面為「纏綁、抵押」，此處作敗壞行事解；KJV 作 corruptly，另有「行事詭詐」的譯法"
+    }
+  ],
+  "translation": "我們敗壞又敗壞地得罪了你，沒有謹守 ⟨את⟩ 誡命、⟨ואת⟩ 律例和 ⟨אותם⟩ 典章，就是你吩咐 ⟨את⟩ 你僕人摩西的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8f5a258e3e12b7cd256ccb241971e4e467dac2fb53bba301489757cc2f73152f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nehemiah\/1\/5-8.1792147985266.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "敗壞地"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "我們敗壞了"
+    },
+    {
+      "surface": "לך",
+      "gloss": "得罪了你"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "我們謹守"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "誡命"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "誡命"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "律例"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "律例"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "典章"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "典章"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "你吩咐"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你僕人摩西"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你僕人"
+    }
+  ],
+  "timestamp": "2026-10-16T10:53:05.267505879Z",
+  "model": "glm-5.3"
+}

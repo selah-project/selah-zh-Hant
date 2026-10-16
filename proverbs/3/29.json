@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רעך／רעה",
+      "rationale": "「鄰舍」（רֵעַ）與「惡」（רַע）同音相鄰——對鄰舍（רע）不可行惡（רע），雙關在中文中失去"
+    },
+    {
+      "kind": "you",
+      "subject": "智慧教導",
+      "rationale": "本節以否定命令式直接教導讀者（門徒）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתך",
+      "rationale": "此את為介詞「與」（H854）而非受詞記號，仍按家族記號保留⟨את⟩"
+    }
+  ],
+  "translation": "不可對你的鄰舍圖謀惡事，而他正安然與⟨את⟩你同住。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8844867d968ec9db62dc0e11395174abb8bc87f1deb42f5348a1dc101146471b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/3\/29-32.1792145246534.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "圖謀"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "你的鄰舍"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "惡事"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "而他"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "同住"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "安然"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩你",
+      "marks": "你（同住的對象）"
+    }
+  ],
+  "timestamp": "2026-10-16T10:07:26.534838074Z",
+  "model": "glm-5.3"
+}

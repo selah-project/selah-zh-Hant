@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "自己的",
+      "rationale": "中文需要代名詞所有格，希伯來文僅作附屬形「他的父親」"
+    },
+    {
+      "kind": "idiom",
+      "subject": "揭開衣襟",
+      "rationale": "גלה כנף 直譯「揭開衣角」，是發生性關係的委婉語"
+    },
+    {
+      "kind": "crux",
+      "subject": "אשת אביו",
+      "rationale": "指父親的妻子（繼母）而非親生母親；經文僅說「父親的妻子」"
+    }
+  ],
+  "translation": "人不可娶 ⟨את⟩ 自己父親的妻子，也不可揭開父親的衣襟。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "eb4129bc2faeda18b5719cfc8cacc7f6a8d82ee068b1a311486b76b946c1cbea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/23\/1-4.1792129083342.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "娶"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自己父親的妻子"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "妻子"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "自己的父親"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不可"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "揭開"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "衣襟"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "父親的"
+    }
+  ],
+  "timestamp": "2026-10-16T05:38:03.343200263Z",
+  "model": "glm-5.3"
+}

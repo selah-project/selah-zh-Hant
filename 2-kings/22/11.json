@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "撕裂衣服",
+      "rationale": "希伯來文哀慟與驚懼的記號性動作，中文保留字面「撕裂衣服」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "妥拉",
+      "rationale": "התורה 譯作「妥拉」，不用「律法書」以免引入律法與恩典的對立。"
+    }
+  ],
+  "translation": "王聽見 ⟨את⟩ 妥拉之書的話語時，就撕裂了自己的衣服。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "082bf40211ddafb5ac2df370970d3739275cadb31a81d019ad4eed5815e1f8ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/22\/9-12.1792134282776.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "…的時候"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "那王"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "妥拉之書的話語"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "…的話語"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "之書"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "那妥拉"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "撕裂了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自己的衣服"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "自己的衣服"
+    }
+  ],
+  "timestamp": "2026-10-16T07:04:42.777718911Z",
+  "model": "glm-5.3"
+}

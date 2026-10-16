@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 13:32",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "給他們",
+      "rationale": "希伯來文נחל為使役「使他們承受為業」，受詞由上下文補出"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מעבר לירדן",
+      "rationale": "字面『約旦河的那一邊』，從敘事者身處河西的視角即河東；直譯會令中文讀者迷失方位"
+    }
+  ],
+  "translation": "這些是摩西在約旦河東邊、耶利哥對面的摩押平原，所分給他們為業的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1534713c8fe7e1ddc8512f0df3acce64c7aa9d14e01f25e6152a993d2c0ee9ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/13\/29-32.1792129724465.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "所分給……為業的"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "在……平原"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "在……東邊"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "約旦河"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "耶利哥"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "東邊"
+    }
+  ],
+  "timestamp": "2026-10-16T05:48:44.466142824Z",
+  "model": "glm-5.3"
+}

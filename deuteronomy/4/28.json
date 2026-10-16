@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 4:28",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אלהים",
+      "rationale": "此處指外邦偶像，依紀律用「神明」而非「以羅欣」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא…ולא…ולא…ולא",
+      "rationale": "四重的「不能」排比（看、聽、吃、聞），中文保留四連否定結構"
+    }
+  ],
+  "translation": "在那裡你們必事奉神明，就是人手所造的，木頭和石頭，它們不能看、不能聽、不能吃、也不能聞。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "57dfa7baabb0f14250b65b7644cfd751d0e62558f060756bdb1bd26bb97aad1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/4\/26-28.1792142325533.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "你們必事奉"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裡"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "神明"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "所造的"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "手"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "木頭"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "和石頭"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "它們"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יראון",
+      "gloss": "能看"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "能聽"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יאכלון",
+      "gloss": "能吃"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יריחן",
+      "gloss": "能聞"
+    }
+  ],
+  "timestamp": "2026-10-16T09:18:45.536188044Z",
+  "model": "glm-5.3"
+}

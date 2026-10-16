@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "自己",
+      "rationale": "תעלים是及物動詞「隱藏」，受詞未言明，中文補「自己」並加括號"
+    },
+    {
+      "kind": "you",
+      "subject": "雅威",
+      "rationale": "直接向雅威發問的祈禱"
+    }
+  ],
+  "translation": "雅威啊，你為何站在遠處？在遭難的時刻，你為何隱藏⟨自己⟩？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/10\/1-4.1792143366154.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "為何"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "你站在"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "在遠處"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "你隱藏"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "在……的時刻"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "在遭難中"
+    }
+  ],
+  "timestamp": "2026-10-16T09:36:06.155161137Z",
+  "model": "glm-5.3"
+}

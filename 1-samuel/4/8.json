@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במדבר",
+      "rationale": "「在曠野」——出埃及的災殃其實發生在埃及地；歷代譯本多照字面保留，JPS 亦然"
+    },
+    {
+      "kind": "substitution",
+      "subject": "האלהים",
+      "rationale": "非利士人以複數稱之——「這些神明」；照他們口中的話保留，不改成單數"
+    }
+  ],
+  "translation": "我們有禍了！誰能救我們脫離這些大能之神明的手呢？這些就是那在曠野擊打 ⟨את⟩ 埃及、用各樣災殃擊打埃及的眾神明。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e22cc62d0726d92c285ce54fc5a4b4e97306e999a63b7ef63e166f9958f7657a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/4\/5-8.1792130848694.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "我們有禍了"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "我們"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "能救我們"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "脫離…的手"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "神明"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "大能的"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "הם",
+      "gloss": "就是"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "眾神明"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "擊打…的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "埃及"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "用各樣"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "災殃"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "在曠野"
+    }
+  ],
+  "timestamp": "2026-10-16T06:07:28.695566518Z",
+  "model": "glm-5.3"
+}

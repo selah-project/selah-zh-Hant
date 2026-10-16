@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 1:30",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census criteria",
+      "rationale": "數點按世系、家族、父家、名字數目，限二十歲以上能出戰者。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צבא",
+      "rationale": "希伯來字面為「軍隊／出征」，此處譯「打仗」以存其軍事召集之義。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מבן עשרים שנה",
+      "rationale": "字面「從二十歲之子起」，即滿二十歲。"
+    }
+  ],
+  "translation": "西布倫的子孫，按他們的世系、按他們的家族、按他們父系的家室，依名字的數目，從二十歲以上，凡能出去打仗的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dcd183f9aadd9828ff5268ea4ca299cc0beda65074aa3b1e62aec81f53e4b3ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/1\/29-32.1792127388338.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "的子孫"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "西布倫"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "他們的世系"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "按他們的家族"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "按……的家室"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "他們父系的"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "依……的數目"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "名字"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "從……歲"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "以上"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "能出去"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "打仗"
+    }
+  ],
+  "timestamp": "2026-10-16T05:09:48.339332955Z",
+  "model": "glm-5.3"
+}

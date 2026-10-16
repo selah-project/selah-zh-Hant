@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ומאת",
+      "rationale": "受詞記號 ⟨את⟩ 隨介詞 מן 出現（ומאת），以「從⟨את⟩會眾」保留記號。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "數目",
+      "rationale": "兩隻公山羊、一隻公綿羊——祭物的數目被精確點算。"
+    }
+  ],
+  "translation": "他要從以色列人的會眾中取兩隻公山羊作贖罪祭，一隻公綿羊作燔祭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "944eda1228738cb0d634cd8c362a87d7b9f0c1241d839c15bf5b819456315147",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/16\/5-8.1792127028557.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "從⟨את⟩",
+      "marks": "會眾"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人（之子）"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "取"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩隻"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "公山羊"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "山羊"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "作贖罪祭"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "一隻公綿羊"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一隻"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "作燔祭"
+    }
+  ],
+  "timestamp": "2026-10-16T05:03:48.557749535Z",
+  "model": "glm-5.3"
+}

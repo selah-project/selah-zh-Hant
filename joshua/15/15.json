@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他又",
+      "rationale": "中文補出主語「他」（迦勒）並承接上文的連貫詞"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אל",
+      "rationale": "介詞「往、對」在此語境譯作「攻擊」"
+    }
+  ],
+  "translation": "他又從那裡上去，攻擊底璧的居民；底璧從前的名字是基列西弗。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0deff7f1ffbe6908a79d4b1594176b47a058f85ff604b3b4af62562b8375d31c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/15\/13-16.1792129814922.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "上去"
+    },
+    {
+      "surface": "משם",
+      "gloss": "從那裡"
+    },
+    {
+      "surface": "אל",
+      "gloss": "攻擊"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "底璧"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "名字"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "底璧"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "從前"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "基列"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "西弗"
+    }
+  ],
+  "timestamp": "2026-10-16T05:50:14.923503489Z",
+  "model": "glm-5.3"
+}

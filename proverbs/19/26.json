@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "詞序",
+      "rationale": "JPS 把『帶羞愧的兒子』作主語置前；KJV\/ASV 譯文以『毀壞父親者』為主語，希伯來文兩讀皆通"
+    },
+    {
+      "kind": "substitution",
+      "subject": "毀壞",
+      "rationale": "משדד 本是『施行暴力和掠奪』，中文以『毀壞』概括"
+    }
+  ],
+  "translation": "毀壞父親、趕走母親的，是帶來羞愧和恥辱的兒子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "020a594e952816da3fbef489dd9078a6892229aa781b9676aeb63096cd00a2dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/19\/25-28.1792145521179.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "毀壞"
+    },
+    {
+      "surface": "אב",
+      "gloss": "父親"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "趕走"
+    },
+    {
+      "surface": "אם",
+      "gloss": "母親"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "帶來羞愧"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "和恥辱"
+    }
+  ],
+  "timestamp": "2026-10-16T10:12:01.180599253Z",
+  "model": "glm-5.3"
+}

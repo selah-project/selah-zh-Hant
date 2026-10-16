@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 22:19",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨這祭⟩",
+      "rationale": "希伯來文本無名詞，中文語法需要補出所論及的祭物"
+    },
+    {
+      "kind": "crux",
+      "subject": "לרצנכם",
+      "rationale": "「為你們的悅納」：KJV 讀作「甘心樂意地獻」，JPS\/ASV 讀作「使你們蒙悅納」；此處取後者語境下的獻祭條件義"
+    }
+  ],
+  "translation": "⟨這祭⟩要蒙你們悅納地獻上：必須是無殘疾的公的，或從牛群、或從綿羊、或從山羊。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "299943f5431fd5a943fb25372d91757cf4b75814dd3d8a1d732c401d3eccc380",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/22\/17-20.1792127139459.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לרצנכם",
+      "gloss": "蒙你們悅納地"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "無殘疾的"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "公的"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "從牛群"
+    },
+    {
+      "surface": "בכשבים",
+      "gloss": "從綿羊"
+    },
+    {
+      "surface": "ובעזים",
+      "gloss": "或從山羊"
+    }
+  ],
+  "timestamp": "2026-10-16T05:05:39.460307407Z",
+  "model": "glm-5.3"
+}

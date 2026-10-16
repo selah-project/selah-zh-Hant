@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 29:3",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "那時",
+      "rationale": "中文需要時間連接詞，希伯來文以分詞構造表達"
+    },
+    {
+      "kind": "addition",
+      "subject": "中",
+      "rationale": "「在黑暗中行走」的「中」為中文方位詞，希伯來文無"
+    }
+  ],
+  "translation": "那時他的燈還照在我頭上，我靠他的光在黑暗中行走。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "05ef4e52220b7dc15e8e21ecd887947a28bc1da1de39c45a09c0a686a16fe0c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/29\/1-4.1792146269991.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהלו",
+      "gloss": "當……照耀時"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "他的燈"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "我的頭"
+    },
+    {
+      "surface": "לאורו",
+      "gloss": "靠他的光"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "我行走"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "黑暗"
+    }
+  ],
+  "timestamp": "2026-10-16T10:24:29.992124344Z",
+  "model": "glm-5.3"
+}

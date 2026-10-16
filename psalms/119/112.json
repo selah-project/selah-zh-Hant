@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עקב",
+      "rationale": "本義「腳跟」，轉指結局／至終；JPS 作「每一步」（at every step）為另一讀法"
+    },
+    {
+      "kind": "crux",
+      "subject": "עקב",
+      "rationale": "「直至最終」（KJV）與「每一步」（JPS）兩大傳統分歧"
+    }
+  ],
+  "translation": "我傾心遵行你的律例，直到永遠，直至最終。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c25d66ebf54a4637bc1d45fc35c5552b129120b3f369161dad96001cefcd08b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/109-112.1792144914292.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נטיתי",
+      "gloss": "我傾"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "去遵行"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "你的律例"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "直到永遠"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "直至最終"
+    }
+  ],
+  "timestamp": "2026-10-16T10:01:54.295627159Z",
+  "model": "glm-5.3"
+}

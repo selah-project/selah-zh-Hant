@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "別⟨神明⟩",
+      "rationale": "中文需補出名詞以成句；希伯來文僅有否定詞אין בלתך"
+    },
+    {
+      "kind": "substitution",
+      "subject": "磐石",
+      "rationale": "צור 字面是「巖石、峭壁」，作神稱號；中文以「磐石」存其圖像"
+    }
+  ],
+  "translation": "沒有聖者如同雅威，因除你以外再無別⟨神明⟩，也沒有磐石如同我們的以羅欣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "de876f4b77ed6ae946f0fbcb09ebde86173e2e0da637a189c61241495c1bd821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/2\/1-4.1792130743125.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖者"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "如同雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因"
+    },
+    {
+      "surface": "אין",
+      "gloss": "再無"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "除你以外"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "也沒有"
+    },
+    {
+      "surface": "צור",
+      "gloss": "磐石"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "如同我們的以羅欣"
+    }
+  ],
+  "timestamp": "2026-10-16T06:05:43.126091250Z",
+  "model": "glm-5.3"
+}

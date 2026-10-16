@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 4:20",
+  "book": "joel",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "有人",
+      "rationale": "ישב直譯「坐、居住」，中文需補出居住者"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לדור ודור",
+      "rationale": "字面「到代又代」，中文以「存到萬代」成語化"
+    }
+  ],
+  "translation": "猶大必永遠有人居住，耶路撒冷必存到萬代。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0e0b6eb408dbc1b0f6fbd6e576c634e1cc8bbc2be8d770e2513278e9ca094e86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joel\/4\/17-20.1792139674336.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "必有人居住"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "存到…代"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "萬代"
+    }
+  ],
+  "timestamp": "2026-10-16T08:34:34.337620706Z",
+  "model": "glm-5.3"
+}

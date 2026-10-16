@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 33:4",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "魯阿",
+      "rationale": "רוח 是風／氣息／靈，依 D2 譯作魯阿並括註"
+    },
+    {
+      "kind": "crux",
+      "subject": "רוח אל",
+      "rationale": "「伊勒的靈」或「伊勒的氣息」——創造之氣而非位格化聖靈"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רוח\/נשמת",
+      "rationale": "風／氣息與生命之氣平行對仗，中文難以完全保留"
+    }
+  ],
+  "translation": "伊勒的魯阿（靈）造了我，沙代的氣息使我存活。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c95f0e869cbb0b60370b3167500d79a829f2ac3535c5bf511a253f5553f34934",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/33\/1-4.1792146341558.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "魯阿（靈）"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    },
+    {
+      "surface": "עשתני",
+      "gloss": "造了我"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "而…的氣息"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "沙代"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "使我存活"
+    }
+  ],
+  "timestamp": "2026-10-16T10:25:41.559913389Z",
+  "model": "glm-5.3"
+}

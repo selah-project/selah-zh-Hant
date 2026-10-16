@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 50:17",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "擔待",
+      "rationale": "נשא直譯「舉起、背負」，此處意為擔當饒恕；兩次重複同一動詞"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שא נא",
+      "rationale": "兩個同音詞根（נשא／נא）並列，「求你擔負、求求你」，音韻效果中文難以保留"
+    },
+    {
+      "kind": "you",
+      "subject": "對約瑟",
+      "rationale": "兄弟們託話直接向約瑟求饒"
+    }
+  ],
+  "translation": "你們要這樣對約瑟說：求你現在擔待你哥哥們的過犯和他們的罪，因為他們以惡待了你；現在求你擔待你父親的以羅欣之僕人的過犯。約瑟聽他們說話的時候，就哭了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "08234d931fdabe92398d69dd06243c33c2752fd01a5554c59c8f2c52857005be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/50\/17-20.1792125706232.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "這樣"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "你們要說"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "對約瑟"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "求你"
+    },
+    {
+      "surface": "שא",
+      "gloss": "擔待"
+    },
+    {
+      "surface": "נא",
+      "gloss": "現在"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "過犯"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "你哥哥們的"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "和他們的罪"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "惡"
+    },
+    {
+      "surface": "גמלוך",
+      "gloss": "他們待了你"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "現在"
+    },
+    {
+      "surface": "שא",
+      "gloss": "擔待"
+    },
+    {
+      "surface": "נא",
+      "gloss": "求你"
+    },
+    {
+      "surface": "לפשע",
+      "gloss": "過犯"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "僕人的"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣的"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你父親"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "就哭了"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "בדברם",
+      "gloss": "他們說話的時候"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對他"
+    }
+  ],
+  "timestamp": "2026-10-16T04:41:46.233115340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבת שבתון",
+      "rationale": "同根疊用——「安息、深安息」，修辭上的強調，中文以「完全安息」補足"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列會眾",
+      "rationale": "第二人稱複數直接吩咐"
+    }
+  ],
+  "translation": "這是你們的安息日，完全安息之日；你們要刻苦 ⟨את⟩ 自己的性命，這是永遠的定例。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "12e00a8d15d084c617f4e7bdaac6e3d7f70e67ca3461688c69cf413ea2c7f886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/16\/29-32.1792127077814.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "安息日"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "完全安息之日"
+    },
+    {
+      "surface": "היא",
+      "gloss": "這是"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "你們的"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "你們要刻苦"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自己的性命"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "你們的性命"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "定例"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠的"
+    }
+  ],
+  "timestamp": "2026-10-16T05:04:37.815306121Z",
+  "model": "glm-5.3"
+}

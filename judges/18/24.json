@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 18:24",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "神明",
+      "rationale": "אלהי 此處指米迦自造的偶像（異教語境），依紀律用「神明」，不用「以羅欣」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מה לך",
+      "rationale": "米迦以 18:23 但人問他的同一句話（「你有甚麼事」）反問回去，希伯來語的對答語氣在中文中靠引號保留。"
+    }
+  ],
+  "translation": "他說：「你們取去了 ⟨את⟩ 我所做的神明，又帶走了 ⟨את⟩ 祭司，就離去了；我還剩下甚麼呢？你們怎麼還對我說：『你有甚麼事？』」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e6942a3e40b0169bc8eba13b2db582dd1f0670b2f9d4de45f9197d133864502e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/18\/21-24.1792130599248.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我所做的神明"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "神明"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "我所做的"
+    },
+    {
+      "surface": "לקחתם",
+      "gloss": "你們取去"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "祭司"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ותלכו",
+      "gloss": "就離去了"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "還有甚麼"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "還"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "怎麼還"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "你們說"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "מה",
+      "gloss": "甚麼"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你有"
+    }
+  ],
+  "timestamp": "2026-10-16T06:03:19.249263096Z",
+  "model": "glm-5.3"
+}

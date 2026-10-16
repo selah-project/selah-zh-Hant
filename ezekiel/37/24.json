@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 37:24",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "我僕人大衛",
+      "rationale": "以西結在被擄期宣告早已去世的大衛作未來的王與牧人：按字面（大衛復活）還是「大衛的後裔」，譯本各有所取；本譯按字面保留「大衛」"
+    },
+    {
+      "kind": "addition",
+      "subject": "王／牧人",
+      "rationale": "希伯來文無動詞連於「我僕人大衛…王」與「牧人」，中文補「作」「有」以成句"
+    }
+  ],
+  "translation": "我僕人大衛要作王治理他們，他們全體要有一位牧人；他們要行在我的典章中，謹守我的律例而遵行 ⟨את⟩ 它們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1155d77f394997fe1785ddd74ac3245a70f75f7251d02b290c1b81557a390890",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/37\/21-24.1792139071607.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבדי",
+      "gloss": "我僕人"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "治理他們"
+    },
+    {
+      "surface": "ורועה",
+      "gloss": "牧人"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一位"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "要有"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "對他們全體"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "在我的典章中"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "他們要行"
+    },
+    {
+      "surface": "וחקתי",
+      "gloss": "我的律例"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "他們要謹守"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "他們要遵行"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "我的律例"
+    }
+  ],
+  "timestamp": "2026-10-16T08:24:31.609089255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 33:20",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "與他列祖同睡",
+      "rationale": "וישכב……עם直譯「與他列祖同躺下」，希伯來文死亡的委婉語"
+    },
+    {
+      "kind": "addition",
+      "subject": "人們",
+      "rationale": "動詞ויקברהו無主語，中文補出泛指主語"
+    }
+  ],
+  "translation": "瑪拿西與他列祖同睡，人們把他葬在自己的宮裡，他兒子亞們接續他作王。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0e86ef3fa42b2947df972af314e528c4a2aa1be1d1e1a377f00eec1080e31991",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/33\/17-20.1792149722432.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "他就睡了"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "瑪拿西"
+    },
+    {
+      "surface": "עם",
+      "gloss": "與"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "他的列祖"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "他們把他埋葬"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "在他的宮"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "就作王"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "亞們"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "他的兒子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "接續他"
+    }
+  ],
+  "timestamp": "2026-10-16T11:22:02.433260223Z",
+  "model": "glm-5.3"
+}

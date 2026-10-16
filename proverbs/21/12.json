@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צדיק",
+      "rationale": "「צדיק」可指「義人」（人）或「那義者」（指雅威，如呂振中譯本、猶太出版學會譯本）；上下文未明言，兩讀並存。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מסלף",
+      "rationale": "「סלף」字義為「扭轉／扳扭」，喻「傾覆、推翻」，譯作「傾覆」取其喻義。"
+    }
+  ],
+  "translation": "那義人明辨惡人的家，卻使惡人因災禍傾覆。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6eca46156950e5b8304f229174d81d14854208c53097416c5ea7c6e75424a28d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/21\/9-12.1792145524792.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "明辨"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "……的家"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "傾覆"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "惡人（複數）"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "因災禍"
+    }
+  ],
+  "timestamp": "2026-10-16T10:12:04.793371124Z",
+  "model": "glm-5.3"
+}

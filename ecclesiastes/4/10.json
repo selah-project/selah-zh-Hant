@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואילו",
+      "rationale": "וְאִילוֹ 傳統讀作感嘆詞「有禍了」（woe），亦有人按字面「而那一個」連讀；譯文採「有禍」的讀法"
+    }
+  ],
+  "translation": "因為他們若跌倒，一人必扶起 ⟨את⟩ 他的同伴；若是那孤身一人跌倒了，沒有第二人扶起他，就有禍了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "da31e3970c32c59c4f9f012eaedb32f6b05f7cec520d2046e0f09b862f94130b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/4\/9-12.1792146909287.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "他們跌倒"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一人"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "必扶起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的同伴"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "他的同伴"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "若是……就有禍了"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "那一人"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "跌倒了"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "שני",
+      "gloss": "第二人"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "扶起他"
+    }
+  ],
+  "timestamp": "2026-10-16T10:35:09.287792489Z",
+  "model": "glm-5.3"
+}

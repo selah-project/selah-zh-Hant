@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 7:9",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文兩處補「是」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תאמינו／תאמנו",
+      "rationale": "同一詞根 אמן 的雙關：若不「堅信」（אמן），就不得「堅立」（אמן），中文以「堅」字呼應但無法完全保留"
+    }
+  ],
+  "translation": "以法蓮的頭⟨是⟩撒瑪利亞，撒瑪利亞的頭⟨是⟩利瑪利的兒子；你們若不堅信，就必不得堅立。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c98f078f313b73a8784c949650af5c89516139d3e118f10f31c027a8ad8ee195",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/7\/9-12.1792134564242.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒瑪利亞"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒瑪利亞"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "利瑪利"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "堅信"
+    },
+    {
+      "surface": "כי",
+      "gloss": "就必"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תאמנו",
+      "gloss": "得堅立"
+    }
+  ],
+  "timestamp": "2026-10-16T07:09:24.242650800Z",
+  "model": "glm-5.3"
+}

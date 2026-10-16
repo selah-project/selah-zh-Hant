@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 25:15",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקדנו",
+      "rationale": "字面「數點／查看」：我們未曾數點（即一無所缺）；和合本「缺少」，本譯取「短少」保留清點的畫面"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתם",
+      "rationale": "此 אתם 是介詞「與」（H854）而非受詞記號（H853），故不標 ⟨את⟩"
+    }
+  ],
+  "translation": "那些人待我們甚好，我們未曾受辱，我們與他們同行的日子、在田野的期間，一樣也不曾短少。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f31918c70d8ab991d80eaaa3feb942cda977601c4cac09f9b1e91c21798a190b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/25\/13-16.1792131438663.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "那些人"
+    },
+    {
+      "surface": "טבים",
+      "gloss": "甚好"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "待我們"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "甚"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "未曾"
+    },
+    {
+      "surface": "הכלמנו",
+      "gloss": "受辱"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不曾"
+    },
+    {
+      "surface": "פקדנו",
+      "gloss": "短少"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "一樣也"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日子"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "同行"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ 與他們同"
+    },
+    {
+      "surface": "בהיותנו",
+      "gloss": "在……的期間"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "在田野"
+    }
+  ],
+  "timestamp": "2026-10-16T06:17:18.664477059Z",
+  "model": "glm-5.3"
+}

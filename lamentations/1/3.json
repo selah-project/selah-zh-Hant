@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 1:3",
+  "book": "lamentations",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "המצרים",
+      "rationale": "字面「狹窄處」，與「埃及」（מצרים）同形，雙關被逐回埃及般的困境"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעני",
+      "rationale": "或作「因苦役而遷徙」，諸本各異"
+    }
+  ],
+  "translation": "猶大因遭受苦難、因服苦役繁多，已被擄去；她住在列國之中，尋不著安息；追趕她的人都在狹窄之地追上了她。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9f3d9a904525dee1a3f9eb2475fa53f53d00376f398bbede518c33fc6a6fdf7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/lamentations\/1\/1-4.1792146783960.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גלתה",
+      "gloss": "被擄去"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "因遭受苦難"
+    },
+    {
+      "surface": "ומרב",
+      "gloss": "因……繁多"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "服苦役"
+    },
+    {
+      "surface": "היא",
+      "gloss": "她"
+    },
+    {
+      "surface": "ישבה",
+      "gloss": "住在"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "在列國之中"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "尋著"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "安息"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "רדפיה",
+      "gloss": "追趕她的人"
+    },
+    {
+      "surface": "השיגוה",
+      "gloss": "追上了她"
+    },
+    {
+      "surface": "בין",
+      "gloss": "在……之中"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "狹窄之地"
+    }
+  ],
+  "timestamp": "2026-10-16T10:33:03.961203313Z",
+  "model": "glm-5.3"
+}

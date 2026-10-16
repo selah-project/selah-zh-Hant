@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אברם\/אברהם",
+      "rationale": "改名插入ה，與「אב המון גוים（多國之父）」的發音相呼應，中文無法保留"
+    },
+    {
+      "kind": "you",
+      "subject": "亞伯蘭",
+      "rationale": "雅威直接對亞伯蘭說話，宣告其名字的改變"
+    }
+  ],
+  "translation": "你的名字亞伯蘭不能再被稱呼了，你的名字要成為亞伯拉罕，因為我已立你作多國之父。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ff704b0c1123ac105380f63608cad20a98f22253750a2fa2da2300a347ce1918",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/17\/5-8.1792124862167.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "不再"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "被稱呼"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的名字"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名字"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "亞伯蘭"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "要成為"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名字"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אב",
+      "gloss": "之父"
+    },
+    {
+      "surface": "המון",
+      "gloss": "眾多"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "國"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "我已立你"
+    }
+  ],
+  "timestamp": "2026-10-16T04:27:42.167657365Z",
+  "model": "glm-5.3"
+}

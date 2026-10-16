@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 24:18",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קל הוא",
+      "rationale": "「他輕（快）」：或譯「他如水面上的泡沫般輕浮」；「輕」與 v17 的「咒詛」（קלל）同根雙關"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קל／תקלל",
+      "rationale": "「輕」與「被咒詛」同根（קלל），希伯來文的輕＝可鄙＝受咒，中文難以保留"
+    },
+    {
+      "kind": "crux",
+      "subject": "יפנה",
+      "rationale": "「不轉向」的主語是誰：那惡人自己不轉向（JPS），或無人轉向葡萄園的路（BSB）；取後者並括註 ⟨無人⟩"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨無人⟩",
+      "rationale": "希伯來文未言明主語，中文補出以成句"
+    }
+  ],
+  "translation": "他在水面上輕浮易逝；他們的份在地上被咒詛；⟨無人⟩轉向葡萄園的路。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "413a27be091c0d8942678c66a29ee6385c11d96b0bd12cf7b2ce050ce76ee944",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/24\/17-20.1792146240339.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קל",
+      "gloss": "輕浮易逝"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……之上"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "被咒詛"
+    },
+    {
+      "surface": "חלקתם",
+      "gloss": "他們的份"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在地上"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "轉向"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "葡萄園"
+    }
+  ],
+  "timestamp": "2026-10-16T10:24:00.340167553Z",
+  "model": "glm-5.3"
+}

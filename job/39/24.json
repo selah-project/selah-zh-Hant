@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 39:24",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "吞噬大地",
+      "rationale": "יגמא ארץ 直譯「吸盡大地」，形容戰馬疾馳如吞地而過。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "גמא",
+      "rationale": "動詞「吸盡、吞沒」僅見於此節（另只作地名出現）。"
+    },
+    {
+      "kind": "crux",
+      "subject": "不信那是角的聲音",
+      "rationale": "KJV 系解作「不信那是角聲」（不因此駐足）；BSB 作「角聲一響牠站立不住」；此處照字面譯。"
+    }
+  ],
+  "translation": "牠在震顫與激動中吞噬大地，必不信那是角的聲音。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1e795df4c01c40cf2040d147a68b6b5249969709ced8fa9a1cc0923d82e08344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/39\/21-24.1792146495211.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברעש",
+      "gloss": "在震顫中"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "與激動"
+    },
+    {
+      "surface": "יגמא",
+      "gloss": "吞噬"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "必不"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "信"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〈那〉是"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲音"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "角"
+    }
+  ],
+  "timestamp": "2026-10-16T10:28:15.212417434Z",
+  "model": "glm-5.3"
+}

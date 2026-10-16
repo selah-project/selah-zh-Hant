@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 16:17",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 是氣息、生命之力，非不朽的靈魂"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמר\/נצר",
+      "rationale": "兩個近義的「保守」並列，中文難以顯出其區別"
+    }
+  ],
+  "translation": "正直人的大道，是離開惡事；凡保守自己性命的，謹守自己的道路。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bcd9366600b6cf5bd47f5796dbd5cbf7160ffe9ebc4f8adc61694b8cac87a44e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/16\/17-20.1792145478496.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מסלת",
+      "gloss": "大道"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "正直人的"
+    },
+    {
+      "surface": "סור",
+      "gloss": "離開"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "惡事"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "保守"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "自己的性命"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "謹守"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "自己的道路"
+    }
+  ],
+  "timestamp": "2026-10-16T10:11:18.496676081Z",
+  "model": "glm-5.3"
+}

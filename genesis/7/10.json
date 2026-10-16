@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "過了",
+      "rationale": "ויהי ל（「到了……的期限」）中文以「過了」表時間經過"
+    },
+    {
+      "kind": "measurement",
+      "subject": "七天",
+      "rationale": "日期計數標記洪水降臨的時刻"
+    }
+  ],
+  "translation": "過了七天，洪水的水就臨到地上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1517930cbdce0b6e78836d467255734e92ce3af7268d11c0762735b8f7cc4483",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/7\/9-12.1792124605616.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "過了"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "七天"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "……的水"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "洪水"
+    },
+    {
+      "surface": "היו",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……之上"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-10-16T04:23:25.617011662Z",
+  "model": "glm-5.3"
+}

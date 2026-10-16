@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הלא",
+      "rationale": "反問詞'豈不是'期待肯定答案——以羅欣確曾丟棄——語氣是哀告而非單純疑問"
+    },
+    {
+      "kind": "alternative",
+      "subject": "תצא",
+      "gloss": "可讀作請求'願你出去'或陳述'你不出去'，母音未定"
+    }
+  ],
+  "translation": "以羅欣啊，你不是已經丟棄了我們嗎？以羅欣啊，你不與我們的軍隊一同出戰嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e69b23b51c4bea361ba24c724e93c2f89bf0e653cd67a10f2afcb61cd32469ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/108\/9-12.1792144709685.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "豈不是"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "丟棄了我們"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "你出去"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "與我們的軍隊"
+    }
+  ],
+  "timestamp": "2026-10-16T09:58:29.686283099Z",
+  "model": "glm-5.3"
+}

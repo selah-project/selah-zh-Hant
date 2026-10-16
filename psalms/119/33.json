@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨它⟩",
+      "rationale": "希伯來文動詞的受詞由詞尾隱含，中文需補出"
+    },
+    {
+      "kind": "crux",
+      "subject": "עקב",
+      "rationale": "字面是「腳跟」，引申「至終／每一步」：和合本「到底」對 JPS「at every step」"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to 雅威",
+      "rationale": "祈使句向雅威發出的祈求"
+    }
+  ],
+  "translation": "求你指教我，雅威啊，你律例的道路，我必遵守⟨它⟩到底。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "eab5b816828de101e86cb7aa463f2d876246dcec84e3ba96a850a676d4b21947",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/33-36.1792144828796.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "求你指教我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道路"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "你律例的"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "我必遵守"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "到底"
+    }
+  ],
+  "timestamp": "2026-10-16T10:00:28.796924259Z",
+  "model": "glm-5.3"
+}

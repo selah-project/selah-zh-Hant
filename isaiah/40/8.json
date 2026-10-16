@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "枯乾／立定",
+      "rationale": "40:7–8 以草的枯乾與話語的立定相對，קום「起立」正與נבל「凋倒」相反"
+    },
+    {
+      "kind": "substitution",
+      "subject": "唯有",
+      "rationale": "ודבר 的 waw 在此為反意（草枯乾，但話立定），中譯以「唯有」承載"
+    }
+  ],
+  "translation": "草必枯乾，花必凋殘，唯有我們以羅欣的話必永遠立定。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "45d37660a3ca284f90e97770363f015278304239bd2d246007efb799d6e48ba1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/40\/7-8.1792142550787.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "枯乾"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "草"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "凋殘"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "花"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "唯有……的話"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "我們以羅欣"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "立定"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-10-16T09:22:30.788483720Z",
+  "model": "glm-5.3"
+}

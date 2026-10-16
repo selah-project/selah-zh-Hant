@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 41:24",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "這事",
+      "rationale": "『我告訴了』缺少受詞，中文補出『這事』（即此夢）。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרטמים",
+      "rationale": "原意為觀星畫符者（術士），非泛稱『博士』。"
+    },
+    {
+      "kind": "mystery",
+      "subject": "沒有人能向我說明",
+      "rationale": "法老的夢無人能解，懸而未決，為約瑟登場鋪路。"
+    }
+  ],
+  "translation": "那些細弱的穗子吞掉了 ⟨את⟩ 那七枝美好的穗子。我將這事告訴了那些術士，卻沒有人能向我說明。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "52d171f77d4a0db9bbf35013864851f355b569df8d50ed632cc3a8f5d9874886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/41\/21-24.1792142389261.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבלען",
+      "gloss": "吞掉了"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "那些穗子"
+    },
+    {
+      "surface": "הדקת",
+      "gloss": "細弱的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那七枝美好的穗子"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "那七枝"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "穗子"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "美好的"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "我告訴了"
+    },
+    {
+      "surface": "אל",
+      "gloss": "給"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "那些術士"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "卻沒有人"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "能說明"
+    },
+    {
+      "surface": "לי",
+      "gloss": "向我"
+    }
+  ],
+  "timestamp": "2026-10-16T09:19:49.263910875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "他的姐姐",
+      "rationale": "אחתו 只是「他的姊妹」，譯「姐姐」依下文米利暗的處境推定"
+    },
+    {
+      "kind": "alternative",
+      "subject": "要知道他究竟會被如何對待",
+      "rationale": "יעשה לו 被動式「被做成什麼」，直譯更貼近希伯來文"
+    }
+  ],
+  "translation": "他的姐姐遠遠站著，要知道他究竟會怎樣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3160c3055f4b7fb737ec7f8b18e13aa9f9bc6f3d0c28f2342f9ad43ea18ef5ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/2\/1-4.1792125705716.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "站著"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "他的姐姐"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "遠遠"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "要知道"
+    },
+    {
+      "surface": "מה",
+      "gloss": "什麼"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "會怎樣"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    }
+  ],
+  "timestamp": "2026-10-16T04:41:45.718525511Z",
+  "model": "glm-5.3"
+}

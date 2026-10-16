@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨你是⟩",
+      "rationale": "希伯來文稱呼中無繫詞，中文需補「你是」"
+    },
+    {
+      "kind": "invitation",
+      "subject": "全詩",
+      "rationale": "詩 145 開篇的頌讚宣告，邀請讀者進入讚美"
+    }
+  ],
+  "translation": "大衛的讚美詩。我的以羅阿、⟨你是⟩王，我要尊崇你；我要稱頌你的名，直到永遠、永不止息。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c75e2c3935a863208f7b83342017afaf0e0381497f5a0e2093666fe8e45e4748",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/145\/1-4.1792145058656.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "讚美詩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "我要尊崇你"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "我的以羅阿"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "我要稱頌"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "直到永遠"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "永不止息"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:18.657029646Z",
+  "model": "glm-5.3"
+}

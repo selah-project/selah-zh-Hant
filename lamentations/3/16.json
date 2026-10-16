@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הכפישני",
+      "rationale": "כפש 僅此處出現——踩踏、壓低之意，譯本作 covered／wallow／trampled 各異"
+    },
+    {
+      "kind": "crux",
+      "subject": "כפש",
+      "rationale": "「遮蓋」與「踐踏在灰中」兩讀；JPS 取 wallow，KJV 取 covered"
+    }
+  ],
+  "translation": "他用沙礫磨碎 ⟨את⟩ 我的牙齒，又踐踏我在灰中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dc741e5f64bfae2fd338fe7b8d28ef5f549f3a25068b120f2959fe67d17eb357",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/lamentations\/3\/13-16.1792146803685.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "他磨碎"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "用沙礫"
+    },
+    {
+      "surface": "שני",
+      "gloss": "我的牙齒"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "他踐踏我"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "在灰中"
+    }
+  ],
+  "timestamp": "2026-10-16T10:33:23.686211193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "向雅威",
+      "rationale": "祈求的延續，求雅威彰顯作為"
+    },
+    {
+      "kind": "substitution",
+      "subject": "威榮",
+      "rationale": "הדר本義是『華美、壯麗的裝飾』，此處指雅威自身的光輝"
+    }
+  ],
+  "translation": "願你的作為向你的僕人顯現，願你的威榮臨到他們的兒女身上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3f225827a7058d87ddbce5c0afd9998834a95364ffe8d8a857f9b9b5d5eaaff4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/90\/13-16.1792144493174.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "願……顯現"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "你的僕人"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "你的作為"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "你的威榮"
+    },
+    {
+      "surface": "על",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "他們的兒女"
+    }
+  ],
+  "timestamp": "2026-10-16T09:54:53.174986788Z",
+  "model": "glm-5.3"
+}

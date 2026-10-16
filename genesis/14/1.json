@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 14:1",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨以下的事發生了⟩",
+      "rationale": "ויהי 引導敘事框架，中文需補出動詞短語"
+    },
+    {
+      "kind": "hapax",
+      "subject": "גוים 作為國名",
+      "rationale": "「戈印」在此作專有名詞（列王之地），非普通名詞「眾國民」"
+    }
+  ],
+  "translation": "當亞摩拉法、示拿王亞里俄克、以拉撒王基大老瑪、以攔王和提達、戈印王的日子，⟨以下的事發生了⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b536d78a180eab8b115762f86c1e99103396565de6a0138bd0530d80ab59ca98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/14\/1-4.1792124709104.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨以下的事發生了⟩"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "當……的日子"
+    },
+    {
+      "surface": "אמרפל",
+      "gloss": "亞摩拉法"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "示拿"
+    },
+    {
+      "surface": "אריוך",
+      "gloss": "亞里俄克"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אלסר",
+      "gloss": "以拉撒"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "基大老瑪"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "以攔"
+    },
+    {
+      "surface": "ותדעל",
+      "gloss": "和提達"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "戈印"
+    }
+  ],
+  "timestamp": "2026-10-16T04:25:09.104719653Z",
+  "model": "glm-5.3"
+}

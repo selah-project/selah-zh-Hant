@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 16:31",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "「發生了」併入「當他說完……就……」的敘事框架，中文無需獨立成詞。"
+    }
+  ],
+  "translation": "他說完 ⟨את⟩ 這一切話，他們腳下的地就裂開了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "721770a72061354889270f3106b5c2d1c66012372fb1a02abf3cda4ce5c40d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/16\/29-32.1792127966704.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生了"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "當他說完"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "說"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這一切話"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "話"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "ותבקע",
+      "gloss": "裂開"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "在他們腳下"
+    }
+  ],
+  "timestamp": "2026-10-16T05:19:26.705215439Z",
+  "model": "glm-5.3"
+}

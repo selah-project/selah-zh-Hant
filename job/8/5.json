@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 8:5",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תשחר",
+      "rationale": "שחר 本義是「破曉、黎明」，引申為清早殷勤尋求；直譯會誤導"
+    },
+    {
+      "kind": "substitution",
+      "subject": "沙代",
+      "rationale": "沙代為音譯聖名，不用「全能者」遮蓋"
+    },
+    {
+      "kind": "you",
+      "subject": "比勒達對約伯說",
+      "rationale": "本節直接向約伯發言的條件句"
+    }
+  ],
+  "translation": "你若及早尋求伊勒，向沙代懇求恩惠，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dfe413fbc92753263dd6c5c295bde0023545c9410cf4c5314581b826b1a975d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/8\/5-8.1792145883006.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "תשחר",
+      "gloss": "及早尋求"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "向"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "沙代"
+    },
+    {
+      "surface": "תתחנן",
+      "gloss": "懇求恩惠"
+    }
+  ],
+  "timestamp": "2026-10-16T10:18:03.007272859Z",
+  "model": "glm-5.3"
+}

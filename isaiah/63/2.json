@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文補「是」。"
+    },
+    {
+      "kind": "invitation",
+      "subject": "對那穿紅衣者",
+      "rationale": "連續設問，直接向說話者發問。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדום／אדם",
+      "rationale": "「以東」與「紅」同根，上一節的地名在此化為顏色的雙關。"
+    }
+  ],
+  "translation": "「你的衣裳為何是紅的？你的衣服為何像踹酒醡的人呢？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cd7ba23a782916557019d3f111fca9cbf73f8a4c5f175cd79b732f3da29654ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/63\/1-4.1792135878852.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "為何"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "是紅的"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "你的衣裳"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "你的衣服"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "像踹"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "酒醡"
+    }
+  ],
+  "timestamp": "2026-10-16T07:31:18.853267828Z",
+  "model": "glm-5.3"
+}

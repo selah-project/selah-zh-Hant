@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 11:20",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נֶפֶשׁ 近於『氣息／生命之力』，非不朽的『靈魂』。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תקוה\/מפח נפש",
+      "rationale": "תִּקְוָה 本義是『繩索』——指望之繩最終成了呼出的最後一口氣，圖像的張力在譯文中淡去。"
+    }
+  ],
+  "translation": "惡人的眼目必衰殘，逃脫之路必從他們滅沒，他們的指望就是斷了氣息。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bc62d85a8cddea47d71ca00ffc477c64651bc787b67151bcd7378b1207abcd14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/11\/17-20.1792146030586.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "而……的眼目"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "תכלינה",
+      "gloss": "必衰殘滅沒"
+    },
+    {
+      "surface": "ומנוס",
+      "gloss": "而逃脫"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "必滅沒"
+    },
+    {
+      "surface": "מנהם",
+      "gloss": "從他們"
+    },
+    {
+      "surface": "ותקותם",
+      "gloss": "而他們的指望"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "斷氣"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "生命氣息"
+    }
+  ],
+  "timestamp": "2026-10-16T10:20:30.587313108Z",
+  "model": "glm-5.3"
+}

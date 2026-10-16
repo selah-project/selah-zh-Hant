@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חתן דמים",
+      "rationale": "「血郎」：新郎／女婿之血——因割禮之血而成的姻親關係；各譯本或作「血郎」或作「血丈夫」"
+    },
+    {
+      "kind": "crux",
+      "subject": "לרגליו",
+      "rationale": "「他的腳」可為委婉語指男性器官；西坡拉觸碰的對象是摩西還是其子，譯者有別"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צר",
+      "rationale": "原文是「火石」而非泛指刀，KJV 的 sharp stone 亦如此"
+    }
+  ],
+  "translation": "西坡拉拿了一塊火石，割下她兒子的陽皮，使它觸碰他的腳，就說：「你真是我的血郎。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e014031325bbd993abce2beab89b9b4c59c4f0826779b63709dcc772c94b23b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/4\/25-28.1792125754655.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "拿了"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "西坡拉"
+    },
+    {
+      "surface": "צר",
+      "gloss": "火石"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "割下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "陽皮"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "陽皮"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "她兒子的"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "使它觸碰"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "他的腳"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "就說"
+    },
+    {
+      "surface": "כי",
+      "gloss": "真"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "血郎"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "血"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我的"
+    }
+  ],
+  "timestamp": "2026-10-16T04:42:34.655963964Z",
+  "model": "glm-5.3"
+}

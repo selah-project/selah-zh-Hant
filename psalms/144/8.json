@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文補「是」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימינם ימין",
+      "rationale": "「他們的右手是…右手」同詞重複，誓言之手的虛假；中文保留此重複"
+    },
+    {
+      "kind": "alternative",
+      "subject": "虛謊",
+      "rationale": "שוא或譯「虛空」（如傳道書），此處指言語的欺謊，取「虛謊」"
+    }
+  ],
+  "translation": "他們的口說虛謊，他們的右手是謊詐的右手。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3823681dd95ba4e8da74844860cec153bb0ccfe1195e43e232858978f5b1f86d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/144\/5-8.1792145057776.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "他們"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "他們的口"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "說"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "虛謊"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "他們的右手"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "…的右手"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "謊詐"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:17.778111805Z",
+  "model": "glm-5.3"
+}

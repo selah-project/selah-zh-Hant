@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "ותצוהו 的後綴「他」在中文以賓語補出，故不再加括號之外的贅詞"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss_note": "",
+      "rationale": "אל 在此為間接受詞方向詞，併入「傳給」"
+    }
+  ],
+  "translation": "以斯帖對哈他革說話，又吩咐 ⟨他⟩ 傳給末底改。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a7651c20981d1d736a3cdb5ec0965258bf5482e282da7dc380bfe7d8bf86abe6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/esther\/4\/9-12.1792147127043.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "以斯帖"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "對哈他革"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "吩咐他"
+    },
+    {
+      "surface": "אל",
+      "gloss": "傳給"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "末底改"
+    }
+  ],
+  "timestamp": "2026-10-16T10:38:47.044253703Z",
+  "model": "glm-5.3"
+}

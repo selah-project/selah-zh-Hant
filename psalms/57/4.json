@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרף שאפי",
+      "rationale": "主語可為雅威（他斥責那吞吃我的）或仇敵（那吞吃我的辱罵我）；此處取前者，與「差遣拯救」相連"
+    },
+    {
+      "kind": "substitution",
+      "subject": "吞吃",
+      "rationale": "שאף本義是急促吸氣、張口吞噬，描繪獅口吞食（參下節），比「吞滅」更具畫面"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישלח……ישלח",
+      "rationale": "「差遣」一詞前後兩次對稱出現：一次從天上，一次差遣慈愛誠實，經文的鏡像結構"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "細拉為音樂記號（休止），按慣例音譯保留，不譯其義"
+    }
+  ],
+  "translation": "他必從天上差遣拯救我；他斥責那吞吃我的人。細拉。以羅欣必差遣他的慈愛和他的誠實。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d9e16379a7b9d56d469c1d2d3802e3db3a926d926af845591578736d2477456a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/57\/1-4.1792143997371.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "他必差遣"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "從天上"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "拯救我"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "他斥責"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "那吞吃我的人"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "必差遣"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "他的慈愛"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "和他的誠實"
+    }
+  ],
+  "timestamp": "2026-10-16T09:46:37.372790032Z",
+  "model": "glm-5.3"
+}

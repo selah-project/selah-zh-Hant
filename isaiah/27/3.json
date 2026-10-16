@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 27:3",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨人⟩",
+      "rationale": "希伯來文動詞無主語，中文補出「有人」以成句。"
+    },
+    {
+      "kind": "crux",
+      "subject": "פן יפקד עליה",
+      "rationale": "「免得有人臨到它」vs JPS「免得我的怒氣臨到它」；פקד 主語未言明。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נצרה…אצרנה",
+      "rationale": "看守一詞於節首節尾重複，包圍式結構。"
+    }
+  ],
+  "translation": "我雅威看守它，我時刻澆灌它；免得有⟨人⟩臨到它，我晝夜看守它。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a7cdd0246d1e6b9bfb3c11d9b40f8cbf0c89014599360b6cbbf0b8731ea8ddaa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/27\/1-4.1792135071718.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "看守它"
+    },
+    {
+      "surface": "לרגעים",
+      "gloss": "時刻"
+    },
+    {
+      "surface": "אשקנה",
+      "gloss": "我澆灌它"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "它"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "晝"
+    },
+    {
+      "surface": "אצרנה",
+      "gloss": "我看守它"
+    }
+  ],
+  "timestamp": "2026-10-16T07:17:51.719982593Z",
+  "model": "glm-5.3"
+}

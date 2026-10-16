@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אריה／כפיר",
+      "rationale": "成獅與少壯獅成對，兩問平行，修辭謎語鏈的第二環"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בלתי אם",
+      "rationale": "雙重否定成條件——「若非」，與第3節同構"
+    },
+    {
+      "kind": "mystery",
+      "subject": "獅子吼叫",
+      "rationale": "因果謎語：答案隱而未宣，指向隨後雅威發聲的宣告"
+    }
+  ],
+  "translation": "獅子若無獵物，會在林中吼叫嗎？少壯獅子若無所擒獲，會從牠的洞中發聲嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "64c45bbf4869bdfa2c7d03960363dfce92ca8aaf04a119e88d65abe56f324c69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/amos\/3\/1-4.1792139688664.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "會吼叫嗎"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "獅子"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "在林中"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "若無獵物"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "לו",
+      "gloss": "（牠）"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "會發出嗎"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "少壯獅子"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "牠的聲音"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "從牠的洞中"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "若不"
+    },
+    {
+      "surface": "אם",
+      "gloss": "（是）"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "擒獲"
+    }
+  ],
+  "timestamp": "2026-10-16T08:34:48.665719155Z",
+  "model": "glm-5.3"
+}

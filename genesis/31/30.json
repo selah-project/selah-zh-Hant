@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הלך הלכת \/ נכסף נכספתה",
+      "rationale": "兩組不定詞絕對式強調：「確實走了」「深深渴望」，中文以疊加副詞補償"
+    },
+    {
+      "kind": "substitution",
+      "subject": "神明",
+      "rationale": "אלהי 此處指拉班家中異教神像（特拉芬），按紀律用「神明」而非「以羅欣」"
+    }
+  ],
+  "translation": "你因深切想念你父家，確實走了；但你為什麼偷了我的神明呢？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "45dc9318c1baa20899fb0a3e612adc7f88e10d0ccbb27ffba8ecec4be1f073fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/31\/29-32.1792125264219.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "但如今"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "確實"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "走了"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "深切"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "想念"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你父"
+    },
+    {
+      "surface": "למה",
+      "gloss": "為什麼"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "偷了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的神明"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的神明"
+    }
+  ],
+  "timestamp": "2026-10-16T04:34:24.220822642Z",
+  "model": "glm-5.3"
+}

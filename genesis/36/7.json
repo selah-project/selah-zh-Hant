@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 36:7",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他们二人",
+      "rationale": "补明所指为以扫与雅各，原文无此词"
+    },
+    {
+      "kind": "idiom",
+      "subject": "容不下",
+      "rationale": "לשאת 字面为「抬起、承载」，译作容载"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מפני",
+      "rationale": "上节「离开雅各的面」与此节「因他们的牲畜」同一片语，理由与离去相呼应"
+    }
+  ],
+  "translation": "因为他们二人的财产太多，不能同居一地；他们寄居之地容不下他们，因为他们的牲畜众多。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "61f18a706eae2e776160c46f99e4e585e0011440e267dc81b376871a468d40be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/36\/5-8.1792125304027.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "היה",
+      "gloss": "是"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "他们的财产"
+    },
+    {
+      "surface": "רב",
+      "gloss": "太多"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "同居一地"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "一同"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不能"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "能容纳"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "他们寄居之地"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "容下"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "他们"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "因为"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "他们的牲畜"
+    }
+  ],
+  "timestamp": "2026-10-16T04:35:04.029074254Z",
+  "model": "glm-5.3"
+}

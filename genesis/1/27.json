@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברא 三疊",
+      "rationale": "「創造」一詞三次重複，構成詩節的骨架"
+    },
+    {
+      "kind": "addition",
+      "subject": "為",
+      "rationale": "זכר ונקבה 直譯「男和女」，中文需繫詞式連接"
+    }
+  ],
+  "translation": "以羅欣就創造了 ⟨את⟩ 人，照著自己的形像創造他；照著以羅欣的形像創造 ⟨אתו⟩ 他；創造 ⟨אתם⟩ 他們為男為女。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fa5a5940706a609b9662839ef89eeb035bffa88f31852fdad820e65bdf6b3ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/1\/25-28.1792124559896.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "創造了"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "照著自己的形像"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "照著……的形像"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "創造"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "他"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "男"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "女"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "創造"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "他們"
+    }
+  ],
+  "timestamp": "2026-10-16T04:22:39.897173512Z",
+  "model": "glm-5.3"
+}

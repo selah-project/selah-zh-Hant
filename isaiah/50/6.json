@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "的人",
+      "rationale": "希伯來文分詞למכים、למרטים本身兼指動作者，中文需補名詞"
+    },
+    {
+      "kind": "crux",
+      "subject": "למרטים",
+      "rationale": "字根「磨光／拔光」：和合本作「拔鬚的人」，另有譯本作「掌摑的人」——希伯來文未明言拔的是什麼"
+    }
+  ],
+  "translation": "我的背，我交給擊打的人；我的臉頰，給拔鬚的人。我沒有遮掩我的臉，躲避羞辱和唾沫。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dff9c400a81395bdfcc8f441a8bd90c315af5b27d9b90942648b13aecd7d3f88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/50\/5-8.1792135735584.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "我的背"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我交給"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "擊打的人"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "我的臉頰"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "給拔鬚的人"
+    },
+    {
+      "surface": "פני",
+      "gloss": "我的臉"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "遮掩"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "羞辱"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "和唾沫"
+    }
+  ],
+  "timestamp": "2026-10-16T07:28:55.585513106Z",
+  "model": "glm-5.3"
+}

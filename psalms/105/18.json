@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "鐵進入了他的生命",
+      "rationale": "באה נפשו：直譯「他的נפש進入了鐵」（被鐵捆鎖）；KJV「他被鎖在鐵裡」，YLT取直譯"
+    },
+    {
+      "kind": "substitution",
+      "subject": "生命",
+      "rationale": "נפש是氣息、生命之力，非不朽的靈魂"
+    }
+  ],
+  "translation": "他們用腳鐐傷他的腳，鐵進入了他的生命。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f8327d44b013834f214f5d4c59b87ad829552042b07997840c8b507bc8c87c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/105\/17-20.1792144636849.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "傷"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "用腳鐐"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "他的腳"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "鐵"
+    },
+    {
+      "surface": "באה",
+      "gloss": "進入了"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "他的生命"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:16.850030367Z",
+  "model": "glm-5.3"
+}

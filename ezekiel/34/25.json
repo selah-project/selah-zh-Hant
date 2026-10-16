@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 34:25",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "字面是「切約」（因立約須經過劈開的肉塊），中文以「立約」表達，宰割之象失去。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חיה רעה",
+      "rationale": "字面「惡的活物」，即野獸；譯作「惡獸」保留「惡」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "他們就",
+      "rationale": "中文所需主語，希伯來文由動詞詞尾承載。"
+    }
+  ],
+  "translation": "我要與他們立平安的約，使惡獸從地上止息，他們就安然住在曠野，在林中睡臥。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d80b246f8f8d3c7cd3ead4db6812f73adc15a82f8dccdc990b81a228482ecfd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/34\/25-28.1792138798205.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכרתי",
+      "gloss": "我要剪立"
+    },
+    {
+      "surface": "להם",
+      "gloss": "與他們"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "使……止息"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "惡獸"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "惡的"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "他們就住"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "在曠野"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "安然"
+    },
+    {
+      "surface": "וישנו",
+      "gloss": "睡臥"
+    },
+    {
+      "surface": "ביערים",
+      "gloss": "在林中"
+    }
+  ],
+  "timestamp": "2026-10-16T08:19:58.206216142Z",
+  "model": "glm-5.3"
+}

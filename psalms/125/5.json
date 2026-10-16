@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יוליכם את פעלי האון",
+      "rationale": "「使他們與作惡的人一同離去」（同行）與「把他們交給作惡的人」（交出）兩讀並存；KJV\/ASV\/JPS 取同行之義。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עקלקלותם",
+      "rationale": "「彎曲」一詞疊音重複（qalqallāh），希伯來文的曲折音感在中文中失落。"
+    },
+    {
+      "kind": "invitation",
+      "subject": "שלום על ישראל",
+      "rationale": "「願平安歸於以色列」是向全會眾宣告的祝福語，直接呼喚聽者。"
+    }
+  ],
+  "translation": "至於那些偏行彎曲道路的人，雅威必使他們與 ⟨את⟩ 作惡的人一同離去；願平安歸於以色列。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "77e57cbb0eefeb92bde67babb3a747e55bb582fbf55cbe4469e75c45d3504480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/125\/5-5.1792144928338.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "偏行彎曲道路的人"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "他們的彎曲"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "使他們離去"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "作惡的人"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "作……的人"
+    },
+    {
+      "surface": "האון",
+      "gloss": "惡"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "על",
+      "gloss": "歸於"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T10:02:08.338981346Z",
+  "model": "glm-5.3"
+}

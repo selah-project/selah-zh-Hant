@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כחללים",
+      "rationale": "字根 חול 可指旋轉跳舞，亦可指吹笛者（חליל）；英譯或作 players on instruments，或作 dancers"
+    },
+    {
+      "kind": "addition",
+      "subject": "都要說",
+      "rationale": "中文補出引語動詞以成句"
+    }
+  ],
+  "translation": "歌唱的如同跳舞的都要說：我一切的泉源都在你裡面。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "db8918deef8cc9863fb10534a7683a7ed9bffce3d6117e01ab82f51826a57c37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/87\/5-7.1792144402330.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "歌唱的"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "如同跳舞的"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切的"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "泉源"
+    },
+    {
+      "surface": "בך",
+      "gloss": "都在你裡面"
+    }
+  ],
+  "timestamp": "2026-10-16T09:53:22.331282679Z",
+  "model": "glm-5.3"
+}

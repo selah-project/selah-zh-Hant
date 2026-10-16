@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 12:1",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "עצור 被攔阻",
+      "rationale": "עוד עצור 字面「還被封閉」：可指大衛仍被拘守在洗革拉（受制於非利士人），也可指他仍躲避掃羅；中譯取「被攔阻」保留兩可。"
+    },
+    {
+      "kind": "elision",
+      "subject": "עזרי המלחמה",
+      "rationale": "構造式複合詞「打仗的幫助者」，中文以「是……的」拆開以成句。"
+    }
+  ],
+  "translation": "這些人來到大衛那裡、到洗革拉，那時他還因掃羅──基士的兒子──的緣故被攔阻；他們是勇士，是打仗的幫助者。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9d83dc5480d13cdadf4c8b3b29577fbe6620c1eb5ca3d9a1c46698b003f60a2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/12\/1-4.1792148755504.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "來到……的人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "לציקלג",
+      "gloss": "到洗革拉"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "還"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "被攔阻"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "因……的緣故"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "基士"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "他們"
+    },
+    {
+      "surface": "בגבורים",
+      "gloss": "在勇士之中"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "幫助者"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "打仗"
+    }
+  ],
+  "timestamp": "2026-10-16T11:05:55.504708861Z",
+  "model": "glm-5.3"
+}

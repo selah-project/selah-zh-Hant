@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "以便以謝",
+      "rationale": "מאבן העזר 是地名「以便以謝」（「幫助之石」），非普通名詞"
+    },
+    {
+      "kind": "elision",
+      "subject": "ארון",
+      "gloss": "原文作「櫃」，此處依上下文指約櫃"
+    }
+  ],
+  "translation": "非利士人擄走了 ⟨את⟩ 以羅欣的約櫃，將它從以便以謝運到亞實突。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "54e0879cfe8cb456718a389f669b32562a4598d03f60c0ffadf45483615ebc7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/5\/1-4.1792130883822.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "擄走了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以羅欣的約櫃"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "約櫃"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣的"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "將它運到"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "從以便"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "以謝"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "亞實突"
+    }
+  ],
+  "timestamp": "2026-10-16T06:08:03.822937080Z",
+  "model": "glm-5.3"
+}

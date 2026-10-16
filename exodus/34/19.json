@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 34:19",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תזכר",
+      "rationale": "字根זכר意「記念／指名為公」：KJV作「公的」、JPS作「分別為聖歸我」，取「以公的為歸我」兼含兩面"
+    },
+    {
+      "kind": "addition",
+      "subject": "分別為歸我",
+      "rationale": "希伯來文僅一動詞תזכר，中文需補出「歸我」以達意"
+    }
+  ],
+  "translation": "凡開母胎的都是我的；你一切牲畜中頭生的公的，無論牛羊，都要分別為歸我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b9cadb946a500c1f3cdbc0eb6d795b0fae08bcdf24406bb8b093ca3445a26e07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/34\/17-20.1792126451189.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "開……的"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "母胎"
+    },
+    {
+      "surface": "לי",
+      "gloss": "是我的"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "以及一切"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "你的牲畜"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "你要以公的為歸"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "開胎的"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "和羊"
+    }
+  ],
+  "timestamp": "2026-10-16T04:54:11.190966496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 1:18",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "輪輞",
+      "rationale": "גב意為「圓拱形的背／邊緣」，諸譯本作「環」「輞」，此處取「輪輞」以存其圓凸之形"
+    },
+    {
+      "kind": "hapax",
+      "subject": "וגבה",
+      "rationale": "גֹּבַהַּ（高大）在此語境罕見，與「背／輞」גב同音相連"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גביהן／גבתם",
+      "rationale": "同詞גב重複兩次，首尾呼應，中文以「輪輞」重複保留"
+    }
+  ],
+  "translation": "至於牠們的輪輞，又高又可畏；牠們四個的輪輞都滿了眼睛，環繞四周。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bfad28ead181742b8ddc879eac1c565a1153dc11044cc40319a507fa087a8eb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/1\/17-20.1792137833574.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגביהן",
+      "gloss": "牠們的輪輞"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "高"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨牠們有⟩"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "可畏"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨牠們有⟩"
+    },
+    {
+      "surface": "וגבתם",
+      "gloss": "牠們的輪輞"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "滿了"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "眼睛"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "環繞四周"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "四個"
+    }
+  ],
+  "timestamp": "2026-10-16T08:03:53.575341442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 2:7",
+  "book": "song-of-songs",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צבאות／צבאות",
+      "rationale": "『羚羊』צביות 与『万军』צבאות 同音——马所拉经文以温柔的谐音替代起誓中神的名号。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תעירו／תעוררו",
+      "rationale": "同一字根 עור 重复两次（唤醒／搅醒），中文以『惊动』『唤醒』分担。"
+    },
+    {
+      "kind": "crux",
+      "subject": "עד שתחפץ",
+      "rationale": "『等它情愿』：阳性动词可指良人（KJV『等他情愿』）或以『爱情』为主（JPS）；一字两读。"
+    },
+    {
+      "kind": "you",
+      "subject": "向耶路撒冷的众女子",
+      "rationale": "说话者直接向耶路撒冷众女子起誓叮嘱。"
+    },
+    {
+      "kind": "invitation",
+      "subject": "起誓叮嘱",
+      "rationale": "以誓言形式向听众发出约束性召唤：不可惊动爱情。"
+    }
+  ],
+  "translation": "耶路撒冷的眾女子啊，我指著羚羊、或指著田野的母鹿，向你們起誓囑咐⟨את⟩你們：不要驚動愛情，也不要喚醒⟨את⟩愛情，等它情願。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0a8e4ff521e79130072931154f13756e4a88c683f0908c6de7f7e8d0497d86da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/2\/5-8.1792146636803.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "我……起誓囑咐"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "你們（耶路撒冷的眾女子）"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "……的眾女子"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "指著羚羊"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "指著母鹿"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田野的"
+    },
+    {
+      "surface": "אם",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "驚動"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "也不要"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "喚醒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "愛情"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "愛情"
+    },
+    {
+      "surface": "עד",
+      "gloss": "等到"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "它情願"
+    }
+  ],
+  "timestamp": "2026-10-16T10:30:36.804288380Z",
+  "model": "glm-5.3"
+}

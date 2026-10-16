@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "慈愛",
+      "rationale": "חסד 固定譯作「慈愛」，不換成恩典或憐憫"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשירה／אזמרה",
+      "rationale": "「歌唱」與「彈琴頌讚」首尾呼應，中文保留兩個動詞的對應"
+    },
+    {
+      "kind": "you",
+      "subject": "雅威",
+      "rationale": "詩人直接向雅威說話"
+    }
+  ],
+  "translation": "大衛的詩篇。慈愛和公平，我要向你歌唱；雅威啊，我要彈琴頌讚你。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b37b7a31c7fe5bf7e64765e12cc69d9d01b60ee2f2abe042d573610044072146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/101\/1-4.1792144600325.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩篇"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "慈愛"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "和公平"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "我要歌唱"
+    },
+    {
+      "surface": "לך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "我要彈琴頌讚"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:40.326332653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "羊群",
+      "rationale": "הרועה「牧放」為不及物，中文補出受詞以成句"
+    },
+    {
+      "kind": "crux",
+      "subject": "הרועה בשושנים",
+      "rationale": "「在百合花中牧放」：實景牧羊，或「在百合花間流連嬉戲」的婉曲，譯者各異"
+    }
+  ],
+  "translation": "我的良人屬我，我也屬他；他在百合花中牧放⟨羊群⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bd3493168025ecb6e5d4595580375f36c28be81abe3c704484593b3a3243cf76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/2\/13-16.1792146593309.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "我的良人"
+    },
+    {
+      "surface": "לי",
+      "gloss": "屬我"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "我也"
+    },
+    {
+      "surface": "לו",
+      "gloss": "屬他"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "牧放"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "在百合花中"
+    }
+  ],
+  "timestamp": "2026-10-16T10:29:53.310843705Z",
+  "model": "glm-5.3"
+}

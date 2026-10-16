@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בקר 在他的殿中",
+      "rationale": "動詞 בקר 可作「尋求／求問」或「清晨造訪」，JPS 取「清晨」，和合本取「求問」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "一生一世",
+      "rationale": "כל ימי חיי 直譯「我生命所有的日子」，中文以四字語代之，字數結構隨之改變"
+    },
+    {
+      "kind": "elision",
+      "subject": "כל ימי",
+      "gloss": "併入「一生一世」",
+      "rationale": "כל（全部）與 ימי（日子）在中文四字語中合併，未單獨成詞"
+    }
+  ],
+  "translation": "有一件事我曾向雅威求問 ⟨את⟩，這一件事我仍要尋求：一生一世住在雅威的家中，瞻仰雅威的恩美，在他的殿中清晨求問。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9cfc6d4e5dc90945a0a5571075fff462d5c1b6f14d31fe82df068b28f2d63e5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/27\/1-4.1792143569876.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "有一件事"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "我曾求問"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "向 ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "這一件事（我所尋求的）"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "我仍要尋求"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "住在"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "在……的家中"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一生一世"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "（所有的日子）"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "我生命的"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "瞻仰"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "恩美"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "並清晨求問"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "在他的殿中"
+    }
+  ],
+  "timestamp": "2026-10-16T09:39:29.878105853Z",
+  "model": "glm-5.3"
+}

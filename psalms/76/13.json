@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 76:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "剪除",
+      "rationale": "בצר 基本義為『摘葡萄／隔絕』；KJV 作 cut off，YLQ 作 gather，JPS 作削弱——此處取『剪除』如摘除葡萄。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "魯阿",
+      "rationale": "רוח 屬雅威所屬範圍，音譯魯阿，此處指生命的氣息。"
+    }
+  ],
+  "translation": "他必剪除首領們的氣息（魯阿），他向地上的眾王是可畏的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "eb78fc4a60bd8f5941b7fa786b88fc66a5436e02bd61b66edd90c1c4e0d5dc39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/76\/13-13.1792144191210.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבצר",
+      "gloss": "他必剪除"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "魯阿"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "首領們"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "可畏的"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "向眾王"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-10-16T09:49:51.210785224Z",
+  "model": "glm-5.3"
+}

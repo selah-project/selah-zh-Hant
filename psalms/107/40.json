@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 107:40",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תֹהוּ",
+      "rationale": "創1:2的「空虛」一詞，此處指無路可循的荒廢之地，譯作「荒蕪之地」保留其混沌意象"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תֹהוּ לֹא דָרֶךְ",
+      "rationale": "「荒蕪——沒有路」呼應以色列在曠野流浪的母題（107:4同用תֹהוּ），首尾框住全詩"
+    }
+  ],
+  "translation": "他將藐視傾倒在貴胄身上，使他們在荒蕪之地流浪，那裏沒有路。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0a76bb418e8ac9b7fcc85f1f000cf59f3a68eece92414ddbfee56ba39d3661e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/107\/37-40.1792144667657.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "傾倒"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "藐視"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……身上"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "貴胄"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "使他們流浪"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "在荒蕪之地"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:47.659117037Z",
+  "model": "glm-5.3"
+}

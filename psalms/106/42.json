@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "其",
+      "rationale": "代名詞所有格為中文所需，希伯來文由construct鏈暗含"
+    }
+  ],
+  "translation": "他們的仇敵欺壓他們，他們就在其手下被制伏。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "96b79bed50790099396a203d5e781d85daaa465482431e47b96ee620a5808eed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/106\/41-44.1792144668069.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "欺壓他們"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "他們的仇敵"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "被制伏／屈膝降卑"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "在……之下"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "其手"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:48.069996878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מרום",
+      "rationale": "馬所拉文本作「高處」：或視為呼格「至高者啊」（如 KJV、JPS），或修訂為מרום「狂傲地攻擊我」（如 ASV、BSB）；今直譯「居於高處的」，保留兩可"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שאפו",
+      "rationale": "上節שאפני、本節שאפו重複「吞嚥」意象，首尾呼應，中文保留「把我吞下」同一詞形"
+    }
+  ],
+  "translation": "我的仇敵終日要把我吞下，因為與我爭戰的眾多，就是居於高處的 ⟨至高者⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a38d85356925c49aedc5bc6ca629f47794193efb8e83720aad23df69d223b3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/56\/1-4.1792143961981.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "要把我吞下"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "我的仇敵"
+    },
+    {
+      "surface": "כל",
+      "gloss": "終"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "眾多"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "與我爭戰的"
+    },
+    {
+      "surface": "לי",
+      "gloss": "與我"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "居於高處的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:46:01.982905558Z",
+  "model": "glm-5.3"
+}

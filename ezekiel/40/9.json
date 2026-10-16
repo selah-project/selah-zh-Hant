@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 40:9",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואילו",
+      "rationale": "איל 在此為建築用語「柱、門框柱」，各譯本作 posts\/jambs；與同詞「首領、公羊」同形異義"
+    },
+    {
+      "kind": "crux",
+      "subject": "מהבית",
+      "rationale": "「從殿那邊／朝內」：KJV、JPS 作 inward，ASV 作 toward the house"
+    },
+    {
+      "kind": "measurement",
+      "subject": "全節",
+      "rationale": "聖殿量度異象中的尺寸記載：八肘、二肘"
+    }
+  ],
+  "translation": "他量了 ⟨את⟩ 門的門廊，八肘；其柱子二肘；門的門廊朝向殿那邊。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "76f5ee42bbef492dccbfc26f2ce9efabf819932a6a42836847267b2fe2080f5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/40\/9-12.1792139117461.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "他量了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "門的門廊"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "門廊"
+    },
+    {
+      "surface": "השער",
+      "gloss": "門的"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "八"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "柱子"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "二"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    },
+    {
+      "surface": "ואלם",
+      "gloss": "門廊"
+    },
+    {
+      "surface": "השער",
+      "gloss": "門的"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "朝向殿"
+    }
+  ],
+  "timestamp": "2026-10-16T08:25:17.461795076Z",
+  "model": "glm-5.3"
+}

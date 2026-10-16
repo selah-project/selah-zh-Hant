@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "צפנתי",
+      "rationale": "『藏』（צפן）字面是掩藏、儲存，如藏寶——話被隱藏存於心中"
+    },
+    {
+      "kind": "you",
+      "subject": "to 雅威",
+      "rationale": "『得罪你』指向雅威的直接稱呼"
+    }
+  ],
+  "translation": "我將你的話珍藏在我心裡，為要不犯罪得罪你。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/9-12.1792144826205.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "在我心裡"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "我珍藏"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "你的話"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為要"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "犯罪"
+    },
+    {
+      "surface": "לך",
+      "gloss": "得罪你"
+    }
+  ],
+  "timestamp": "2026-10-16T10:00:26.205933262Z",
+  "model": "glm-5.3"
+}

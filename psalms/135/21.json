@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "分詞「居住」的主語由上文雅威補出，中文需代名詞"
+    },
+    {
+      "kind": "invitation",
+      "subject": "你們要讚美雅",
+      "rationale": "命令式 plural 呼召眾民讚美，是全詩的收束呼召"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יה",
+      "rationale": "יה 是 יהוה 的短形，首尾呼應：詩以雅威起，以雅止"
+    }
+  ],
+  "translation": "願雅威從錫安蒙福，他居住在耶路撒冷。你們要讚美雅！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "10072aa7bab679e1cb7defa042c8456358e8ab948dd74b8e78f7f79bbbec6d4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/135\/21-21.1792144932495.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "蒙福"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "從錫安"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "居住"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "你們要讚美"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    }
+  ],
+  "timestamp": "2026-10-16T10:02:12.496321090Z",
+  "model": "glm-5.3"
+}

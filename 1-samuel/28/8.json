@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 28:8",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויתחפש",
+      "rationale": "字根與「尋求」（בקשש）相連，反身式即「使自己被藏起來」——改裝、掩飾身分；譯「改裝」或「喬裝」"
+    },
+    {
+      "kind": "mystery",
+      "subject": "קסומי נא לי באוב",
+      "rationale": "掃羅隱姓埋名、夜間密訪，整場招魂是隱藏之事的行動"
+    },
+    {
+      "kind": "elision",
+      "subject": "קסומי נא 的命令式語尾",
+      "rationale": "希伯來文的陰性單數命令式（對婦人說話）在中文中無形態可對應，靠「求你」標示請求語氣"
+    }
+  ],
+  "translation": "掃羅改裝，穿上別的衣服，他和兩個人一起去了；他們夜間來到那婦人那裡。掃羅說：「求你用交鬼的法術為我占卜，將我向你說名的那人 ⟨את⟩ 招上來。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "93e13a5bc7758e50f368d55c5fe0ecf8fa3d9ee9af084a736af4b4234a53a784",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/28\/5-8.1792131562402.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתחפש",
+      "gloss": "改裝"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "穿上"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "衣服"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別的"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "去了"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "兩個"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "人"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "一起"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "來到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "那婦人"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜間"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "קסומי",
+      "gloss": "占卜"
+    },
+    {
+      "surface": "נא",
+      "gloss": "求你"
+    },
+    {
+      "surface": "לי",
+      "gloss": "為我"
+    },
+    {
+      "surface": "באוב",
+      "gloss": "用交鬼的法術"
+    },
+    {
+      "surface": "והעלי",
+      "gloss": "招上來"
+    },
+    {
+      "surface": "לי",
+      "gloss": "為我"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我向你說名的那人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那人"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說名"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "向你"
+    }
+  ],
+  "timestamp": "2026-10-16T06:19:22.404257998Z",
+  "model": "glm-5.3"
+}

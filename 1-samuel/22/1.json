@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 22:1",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "了",
+      "rationale": "希伯來文敘事wayyiqtol無時態標記，中文完成貌「了」為語法所需"
+    },
+    {
+      "kind": "idiom",
+      "subject": "下到他那裏",
+      "rationale": "וירדו אליו直譯「下到他那裏」——洞穴地勢低，中文保留動作方向"
+    }
+  ],
+  "translation": "大衛從那裏離開，逃到了亞杜蘭洞。他的弟兄和他父親的全家聽見了，就下到他那裏去。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9e6949e1d187902aa7707ff1db513f0301ecab4843dfe83992db6838e23bb091",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/22\/1-4.1792131414022.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "離開"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "משם",
+      "gloss": "從那裏"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "逃到了"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "洞"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "亞杜蘭"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "聽見了"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "他的弟兄"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和全"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "他父親的"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "就下到"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "他那裏"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "去"
+    }
+  ],
+  "timestamp": "2026-10-16T06:16:54.023391067Z",
+  "model": "glm-5.3"
+}

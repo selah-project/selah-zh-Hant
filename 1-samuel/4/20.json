@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 4:20",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "對垂死的婦人",
+      "rationale": "婦女們直接對她說話：「不要怕，因為你生了一個兒子」"
+    },
+    {
+      "kind": "addition",
+      "subject": "（婦女們）",
+      "rationale": "הנצבות 為陰性分詞「站著的」，中文需補出「婦女」一詞"
+    }
+  ],
+  "translation": "她將死的時候，站在她旁邊的婦女對她說：「不要怕，因為你生了一個兒子。」她卻不回答，也不放在心上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cdaeef6444d554d717d57f1b0cefbecddf3e7571ef190debbf3fb7bb12d3f45a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/4\/17-20.1792130871318.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכעת",
+      "gloss": "正當……的時候"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "她將死"
+    },
+    {
+      "surface": "ותדברנה",
+      "gloss": "（婦女們）對她說"
+    },
+    {
+      "surface": "הנצבות",
+      "gloss": "站著的（婦女）"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "在她旁邊"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "怕"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "你生了"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "回答"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "放"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "在心上"
+    }
+  ],
+  "timestamp": "2026-10-16T06:07:51.319969618Z",
+  "model": "glm-5.3"
+}

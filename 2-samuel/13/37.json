@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 13:37",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "哀悼的主語（大衛）由上下文補出，希伯來文未寫明"
+    },
+    {
+      "kind": "elision",
+      "subject": "כל הימים",
+      "rationale": "「所有的日子」直譯為「天天」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אבשלום\/תלמי",
+      "rationale": "人名沿用和合本通行寫法：押沙龍、達買、亞米忽、基述"
+    }
+  ],
+  "translation": "押沙龍逃走，投奔亞米忽的兒子基述王達買那裡去了；〈他〉為⟨את⟩兒子哀悼，天天如此。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7dd3ae543bb73036c7238b50354f8a8565df4db1fe51614c2d09091155da0dfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/13\/37-39.1792131893417.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "押沙龍"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "逃走"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "去了"
+    },
+    {
+      "surface": "אל",
+      "gloss": "投奔"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "達買"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "עמיחור",
+      "gloss": "亞米忽"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "基述"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "哀悼"
+    },
+    {
+      "surface": "על",
+      "gloss": "為"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "日子"
+    }
+  ],
+  "timestamp": "2026-10-16T06:24:53.418096952Z",
+  "model": "glm-5.3"
+}

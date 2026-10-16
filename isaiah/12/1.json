@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨他⟩",
+      "rationale": "希伯來文動詞已含人稱，中文需補出主語"
+    },
+    {
+      "kind": "substitution",
+      "subject": "怒氣",
+      "rationale": "אף 本義是「鼻孔」，引申為怒氣；原文以鼻息喻怒"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אנפת\/ותנחמני",
+      "rationale": "「發怒」（呼吸沉重）與「安慰」（歎息舒解）同為呼吸意象，中文失落"
+    }
+  ],
+  "translation": "到那日，你必說：「我要稱謝雅威，因為⟨他⟩曾向我發怒；他的怒氣已轉回，他就安慰了我。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7b11a1770a91e83a3b027b120f03b4a3702eec15948219e84aca02524f2b22ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/12\/1-4.1792134745277.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "你必說"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在……日子"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "那"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "我要稱謝你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "你曾發怒"
+    },
+    {
+      "surface": "בי",
+      "gloss": "向我"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "已轉回"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "你的怒氣"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "你就安慰了我"
+    }
+  ],
+  "timestamp": "2026-10-16T07:12:25.277680369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 9:23",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "魯阿",
+      "rationale": "רוח 按紀律音譯為魯阿，括註「靈」；絕不用「聖靈」等後來詞彙"
+    },
+    {
+      "kind": "substitution",
+      "subject": "眾首領",
+      "rationale": "בעלי שכם 字面是「示劍的主人們」，CUV 作「示劍人」，諸譯本分歧於 men／leaders／masters"
+    }
+  ],
+  "translation": "以羅欣差遣一個惡的魯阿（靈），進入亞比米勒與示劍眾首領之間；示劍的眾首領就以詭詐待亞比米勒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "23a513e612200edbc7fe4eb2e100dfcfbf5d85c6737975f0eb7661a783edda85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/9\/21-24.1792130285399.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差遣"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "魯阿"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "惡的"
+    },
+    {
+      "surface": "בין",
+      "gloss": "進入…之間"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "亞比米勒"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "與…之間"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "眾首領"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "示劍"
+    },
+    {
+      "surface": "ויבגדו",
+      "gloss": "以詭詐待"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "眾首領"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "示劍"
+    },
+    {
+      "surface": "באבימלך",
+      "gloss": "亞比米勒"
+    }
+  ],
+  "timestamp": "2026-10-16T05:58:05.400417602Z",
+  "model": "glm-5.3"
+}

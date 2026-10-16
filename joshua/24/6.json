@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 24:6",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "紅海",
+      "rationale": "ים סוף 直譯「蘆葦海」，非「紅海」"
+    },
+    {
+      "kind": "addition",
+      "subject": "直到",
+      "rationale": "希伯來文僅並列「蘆葦海」，中文需介詞表明追趕的範圍"
+    }
+  ],
+  "translation": "我把 ⟨את⟩ 你們的祖先從埃及帶出來，你們來到海邊，埃及人追趕你們的祖先，用戰車和馬兵，直到蘆葦海。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cffd34a95ac2e4f8908f22c7ec63b5b4240f72d2697b5198d9be01b35a11d94e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/24\/5-8.1792130038779.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואוציא",
+      "gloss": "我把…帶出來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你們的祖先"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "你們的祖先"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "從埃及"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "你們來到"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "海邊"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "追趕"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及人"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "追趕"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "你們的祖先"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "用戰車"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "和馬兵"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "蘆葦"
+    }
+  ],
+  "timestamp": "2026-10-16T05:53:58.780888669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "התשפט…התשפוט",
+      "rationale": "「你要審判嗎」重複兩次，希伯來文僅拼法微異，修辭性的重複強調反問"
+    },
+    {
+      "kind": "you",
+      "subject": "對以西結",
+      "rationale": "連續反問直接指向「人子」"
+    }
+  ],
+  "translation": "人子啊，你要審判 ⟨את⟩ 他們嗎？你要審判嗎？要使他們知道他們祖先的那些可憎之事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e03b63b3b514bd616ce8ab2dad0ef937c1cda17b4c91606493cfeec9dedf05ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/20\/1-4.1792138444550.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "你要審判嗎"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "他們（以色列的長老）"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "你要審判嗎"
+    },
+    {
+      "surface": "בן",
+      "gloss": "……之子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "可憎之事"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "可憎之事"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "他們的祖先"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "要使他們知道"
+    }
+  ],
+  "timestamp": "2026-10-16T08:14:04.551094751Z",
+  "model": "glm-5.3"
+}

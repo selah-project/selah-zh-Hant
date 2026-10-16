@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 24:2",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גבלות ישיגו",
+      "rationale": "字面「他們達到（觸及）地界」：多數譯本讀作「挪移地界」（欺壓之舉），YLT 照字面「他們抵達邊界」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "有人",
+      "rationale": "希伯來文無主語；中文補出隱含的惡人作主語。"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨它們⟩",
+      "rationale": "補出受詞，指被搶的羊群。"
+    }
+  ],
+  "translation": "有人挪移地界，搶走羊群，並且放牧⟨它們⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b89365a7508d833473dbff6c61f88fcf79aed3c280ae79e7fded76d84c496105",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/24\/1-4.1792146206102.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבלות",
+      "gloss": "地界"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "挪移"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "搶走"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "並且放牧"
+    }
+  ],
+  "timestamp": "2026-10-16T10:23:26.103526318Z",
+  "model": "glm-5.3"
+}

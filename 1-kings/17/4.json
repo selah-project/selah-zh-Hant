@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "והיה",
+      "rationale": "開頭的「事情必是這樣」在中文省略為自然語序。"
+    },
+    {
+      "kind": "crux",
+      "subject": "הערבים",
+      "rationale": "「烏鴉」另有古讀法作「阿拉伯人」或「俄巴底亞的商人」，主流仍譯烏鴉。"
+    }
+  ],
+  "translation": "你要喝那溪裡的水；我已吩咐 ⟨את⟩ 烏鴉在那裡供養你。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bdbf93178e807a081979c543dea798b3abe00eb771bbc55599859ae788ef2d11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/17\/1-4.1792133139222.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "（事情必是這樣）"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "從那溪"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "你要喝"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "烏鴉"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "烏鴉"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "我已吩咐"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "供養你"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裡"
+    }
+  ],
+  "timestamp": "2026-10-16T06:45:39.223237546Z",
+  "model": "glm-5.3"
+}

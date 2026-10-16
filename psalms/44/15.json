@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משל",
+      "rationale": "字面是「箴言、比喻」，此處取其消極義「笑談、話柄」，即眾人引用的負面例子。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מנוד ראש",
+      "rationale": "「搖頭」是譏誚的手勢（參詩 22:8），表示輕蔑。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מנוד",
+      "rationale": "מנוד（搖、甩）作名詞僅見於此處。"
+    }
+  ],
+  "translation": "你使我們在列國中作笑談，在眾民中成為搖頭的對象。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ae5db8211991fba40a7be49d8a8fef6e18c73abf8fefdfb9a9b7cf74c6b387de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/44\/13-16.1792143729073.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "你使我們作"
+    },
+    {
+      "surface": "משל",
+      "gloss": "笑談"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "在列國中"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "搖頭的"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "בל",
+      "gloss": "在……中"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "眾民"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:09.074204Z",
+  "model": "glm-5.3"
+}

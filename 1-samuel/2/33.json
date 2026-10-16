@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-samuel 2:33",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אנשים",
+      "rationale": "「死在成年之時」（作為成人而死）對比「死在人的刀下」（BSB 將 אנשים 視為工具性的「被人所殺」）；KJV「正當壯年之花」與 JPS「死作成年人」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפשך 是氣息／生命之力，不是分離的「靈魂」。"
+    },
+    {
+      "kind": "you",
+      "subject": "to 以利",
+      "rationale": "全節直接對以利說話，是審判宣告的第二人稱。"
+    }
+  ],
+  "translation": "而你家中的人，我不從我的祭壇剪除他，是要耗盡 ⟨את⟩ 你的眼，並使 ⟨את⟩ 你的性命愁煩；你家中所有增多的後裔必死在成年之時。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bd6537b0a6538b6c6c0d7d0fe903ec07bad21e437752913b2685e52b74bbff55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/2\/33-36.1792130763648.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "而你家中的人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אכרית",
+      "gloss": "剪除"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "從"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "我的祭壇"
+    },
+    {
+      "surface": "לכלות",
+      "gloss": "是要耗盡"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的眼"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "你的眼"
+    },
+    {
+      "surface": "ולאדיב",
+      "gloss": "並使愁煩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的性命"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "你的性命"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "מרבית",
+      "gloss": "增多的後裔"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "你家中"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "必死"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "成年之時"
+    }
+  ],
+  "timestamp": "2026-10-16T06:06:03.649704030Z",
+  "model": "glm-5.3"
+}

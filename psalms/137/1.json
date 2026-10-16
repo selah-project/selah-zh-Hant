@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "的時候",
+      "rationale": "中文時間子句需要「當……的時候」，希伯來文不定式附屬形無此詞"
+    },
+    {
+      "kind": "substitution",
+      "subject": "巴比",
+      "rationale": "בבל 傳統譯作「巴比倫」，此處按音譯原則作地名「巴比」"
+    }
+  ],
+  "translation": "在巴比的河邊，我們坐在那裡，是的，我們哭泣，當我們記起 ⟨את⟩ 錫安的時候。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4c65906e1db54a229031e86eb14c64855ad561b837bad5ce4adc111a08134a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/137\/1-4.1792145033837.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "河"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比"
+    },
+    {
+      "surface": "שם",
+      "gloss": "那裡"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "我們坐"
+    },
+    {
+      "surface": "גם",
+      "gloss": "是的"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "我們哭泣"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "當我們記起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "錫安"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    }
+  ],
+  "timestamp": "2026-10-16T10:03:53.839785482Z",
+  "model": "glm-5.3"
+}

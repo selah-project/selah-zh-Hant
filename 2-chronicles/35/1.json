@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 35:1",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "日",
+      "rationale": "希伯來文只說「十四」，未提「日」字"
+    },
+    {
+      "kind": "substitution",
+      "subject": "逾越節的羊羔",
+      "rationale": "הפסח 是「逾越節（祭物）」，中文需補「羊羔」以成句"
+    }
+  ],
+  "translation": "約西亞在耶路撒冷向雅威守逾越節，他們在正月十四日宰殺了逾越節的羊羔。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bb25ef954e2b96d6be747077baa295ff35ec49aeaeb0a2315717e1aafca376a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/35\/1-4.1792149793176.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "守"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "約西亞"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "在耶路撒冷"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "逾越節"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "他們宰殺了"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "逾越節的羊羔"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "在十四"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "（日）"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "月"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "正（第一）"
+    }
+  ],
+  "timestamp": "2026-10-16T11:23:13.176782174Z",
+  "model": "glm-5.3"
+}

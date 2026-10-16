@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "用角牴退",
+      "rationale": "נגח 本義是牛用角牴撞，照字面形像譯出"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צרינו\/קמינו",
+      "rationale": "兩行對仗：敵人／起來攻擊者，牴退／踐踏，希伯來詩平行體"
+    }
+  ],
+  "translation": "靠著你，我們用角牴退我們的敵人；靠著你的名，我們踐踏起來攻擊我們的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e52cd2837ffbe59a8196daa5239e07cb97b990c377c88d197418130afd947f55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/44\/5-8.1792143715850.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "靠著你"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "我們的敵人"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "用角牴退"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "靠著你的名"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "踐踏"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "起來攻擊我們的人"
+    }
+  ],
+  "timestamp": "2026-10-16T09:41:55.851401528Z",
+  "model": "glm-5.3"
+}

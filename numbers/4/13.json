@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ודשנו",
+      "rationale": "字根是「使之肥潤／膏抹」，此處為祭壇術語，指除灰使壇潔淨；各譯本皆作「除灰」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "〈的灰〉",
+      "rationale": "「灰」字希伯來文未出現，由動詞含義補出。"
+    }
+  ],
+  "translation": "他們要除淨 ⟨את⟩ 祭壇〈的灰〉，並在其上鋪開一件紫色的布。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b255bd005c0ae83bcb625c5a6ea05617e31a4c4fcbefe9b6164356253f918332",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/4\/13-16.1792127542189.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "除淨"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祭壇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "鋪開"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "在其上"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "布"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "紫色的"
+    }
+  ],
+  "timestamp": "2026-10-16T05:12:22.190492793Z",
+  "model": "glm-5.3"
+}

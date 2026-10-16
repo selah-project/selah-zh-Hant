@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 4:9",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשך",
+      "rationale": "נפש 是氣息／生命之力，譯作「性命」而非「靈魂」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השמר…ושמר",
+      "rationale": "同詞根 שמר 連用兩次（謹慎……保守），重疊強調"
+    },
+    {
+      "kind": "addition",
+      "subject": "它們",
+      "rationale": "והודעתם 的受詞由前文承接，中文需補出"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "摩西直接向以色列全會眾的單數「你」說話"
+    },
+    {
+      "kind": "invitation",
+      "subject": "以色列",
+      "rationale": "命令句召喚聽者謹守、傳於子孫"
+    }
+  ],
+  "translation": "只要謹慎，竭力保守你的性命，免得你忘記 ⟨את⟩ 你親眼所見的那些事，又免得這些事在你一生所有的日子裡離開你的心；你要把它們教訓你的兒子和你的孫子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e7594eb7a7ab4aa5745c8cb6a7a44ab2b85fb01332cbc5f8576cbb2f3167bab6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/4\/9-12.1792128592142.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "只要"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "謹慎"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "保守"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "你的性命"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "竭力"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "你忘記"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那些事"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "那些事"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "所見"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "你的眼"
+    },
+    {
+      "surface": "ופן",
+      "gloss": "又免得"
+    },
+    {
+      "surface": "יסורו",
+      "gloss": "離開"
+    },
+    {
+      "surface": "מלבבך",
+      "gloss": "你的心"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日子"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "你的一生"
+    },
+    {
+      "surface": "והודעתם",
+      "gloss": "你要使……知道"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "你的兒子"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "和……的兒子"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "你的孫子"
+    }
+  ],
+  "timestamp": "2026-10-16T05:29:52.143513227Z",
+  "model": "glm-5.3"
+}

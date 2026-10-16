@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 2:33",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "至於",
+      "rationale": "中文句首需過渡詞，希伯來文僅有連接詞 ו"
+    },
+    {
+      "kind": "substitution",
+      "subject": "被數點",
+      "rationale": "פקד 兼有「眷顧／臨到／數點」之義，此處取軍事數點義"
+    }
+  ],
+  "translation": "至於利未人，他們沒有被數點在以色列人之中，正如雅威所吩咐 ⟨את⟩ 摩西的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ef6d5233f45fc54302a04b268faf068c4ed3ff5d388de2ff8f3fca5bd8dae41e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/2\/33-34.1792127470140.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "至於利未人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "התפקדו",
+      "gloss": "被數點"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "在……之中"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "正如"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "所吩咐"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩西"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    }
+  ],
+  "timestamp": "2026-10-16T05:11:10.140700907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 14:9",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": " restructuring",
+      "rationale": "「一切的馬、法老的車」語序調整為中文自然語序"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פִּי הַחִירֹת",
+      "rationale": "地名原意為「希錄之口」，照和合本音譯作「比哈希錄」"
+    }
+  ],
+  "translation": "埃及人追趕他們，法老的馬車、馬兵和軍隊——一切的馬——都在海邊安營之處追上了他們，就是在比哈希錄前面、巴力洗分對面。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7b45adcfc34bdc687b76658912b17a85d3d74057f855d063fd72dcf6f678d832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/14\/9-12.1792125977628.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "追趕"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及人"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "他們後面"
+    },
+    {
+      "surface": "וישיגו",
+      "gloss": "追上了"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "他們（安營的以色列人）"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "安營"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……旁"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切的"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "馬"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "車"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "和他的馬兵"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "和他的軍隊"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "פי",
+      "gloss": "口"
+    },
+    {
+      "surface": "החירת",
+      "gloss": "比哈希錄"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在……前面"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "巴力"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "洗分"
+    }
+  ],
+  "timestamp": "2026-10-16T04:46:17.629551454Z",
+  "model": "glm-5.3"
+}

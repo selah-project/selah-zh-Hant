@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נושה",
+      "rationale": "和合本作「債主」，JPS作「creditor」（債主），KJV作「extortioner」（勒索者）；取「放債的」貼近借貸本義"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יגיעו",
+      "rationale": "「勞碌的成果」——原文是「他的勞碌」，以勞碌轉喻其出產財物"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "gloss": "關係詞無獨立譯詞，融入「一切所有的」"
+    }
+  ],
+  "translation": "願放債的設網羅捕捉他一切所有的，願外人劫掠他勞碌的成果。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a7b31318b19a7e72c9e48e15b46f2594305048534117578a78777a5ac842426f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/109\/11-12.1792149952066.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "設網羅捕捉"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "放債的"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "願……劫掠"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "外人"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "他勞碌的成果"
+    }
+  ],
+  "timestamp": "2026-10-16T11:25:52.067091456Z",
+  "model": "glm-5.3"
+}

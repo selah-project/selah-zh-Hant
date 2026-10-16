@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "赦免",
+      "rationale": "נָשָׂא本義「舉起、擔當」——罪被舉起帶走；譯「赦免」取其效，失其象"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "音樂記號，依慣例音譯為「細拉」置於括號"
+    }
+  ],
+  "translation": "你赦免了你百姓的罪孽，遮蓋了他們一切的過犯。（細拉）",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1e6098456f56aa772431d8326426dd6f9857ea0170fbf1535b9d07ec09f0e33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/85\/1-4.1792144371521.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "你赦免了"
+    },
+    {
+      "surface": "עון",
+      "gloss": "罪孽"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "遮蓋了"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "他們的過犯"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "（細拉）"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:51.522566450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 26:8",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "攻城樓",
+      "rationale": "דיק（daiq）僅見於以西結書，指圍城用的攻城塔樓；「築起」按中文語境調整自「放置（נתן）」"
+    },
+    {
+      "kind": "idiom",
+      "subject": "שפך",
+      "rationale": "字面為「傾倒」，用於倒土築壘，故譯「堆起土壘」"
+    },
+    {
+      "kind": "crux",
+      "subject": "צנה",
+      "rationale": "צנה字根為「鉤」，指大盾；和合本作「盾牌」，亦有譯作「籠牆」（spear-shield wall）之說"
+    }
+  ],
+  "translation": "你田野間的女兒們必被刀劍所殺；他必在你四周築起攻城樓，在你對面堆起土壘，向你豎起盾牌。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "decde65f863aef97e7afd822c39a72d79ef2d104ba3c21ab89d44f138743fad3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/26\/6-8.1792142609465.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנותיך",
+      "gloss": "你的女兒們"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "在田野間"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "被刀劍"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "必被殺"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "他必築起"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "在你（對面）"
+    },
+    {
+      "surface": "דיק",
+      "gloss": "攻城樓"
+    },
+    {
+      "surface": "ושפך",
+      "gloss": "堆起"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "在你（對面）"
+    },
+    {
+      "surface": "סללה",
+      "gloss": "土壘"
+    },
+    {
+      "surface": "והקים",
+      "gloss": "豎起"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "盾牌"
+    }
+  ],
+  "timestamp": "2026-10-16T09:23:29.466670108Z",
+  "model": "glm-5.3"
+}

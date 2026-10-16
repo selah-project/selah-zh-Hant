@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 21:9",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפני בני ישראל",
+      "rationale": "字面「以色列眾子的臉面之前」，譯作「在以色列人面前」"
+    },
+    {
+      "kind": "elision",
+      "subject": "מן",
+      "rationale": "比較級「比…更甚」在希伯來文以介詞 מן 表達，中文以「更甚」承擔"
+    }
+  ],
+  "translation": "但他們不聽從；瑪拿西誘使他們行惡，比雅威在以色列人面前所除滅的列國更甚。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6cbcaf80d8244eda35f07c546019a278e3585002b36c5a5f6982f42647cf12ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/21\/9-12.1792134229507.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "但…不"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "聽從"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "誘使他們"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "瑪拿西"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "行"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "惡"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "惡"
+    },
+    {
+      "surface": "מן",
+      "gloss": "比"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "除滅"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "在…面前"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T07:03:49.507890942Z",
+  "model": "glm-5.3"
+}

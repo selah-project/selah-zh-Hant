@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "有人",
+      "rationale": "ויאמר 無主語，中文需補出說話者"
+    },
+    {
+      "kind": "crux",
+      "subject": "拔示巴之名",
+      "rationale": "בת שבע 或作「示巴之女／七之女」；此處依人名處理為拔示巴"
+    }
+  ],
+  "translation": "大衛派人去查問那女子是誰。有人說：「這不是拔示巴——以利亞米的女兒、赫人烏利亞的妻子嗎？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "87b97f4831e00aaaad12d0be3e3eef3296d096f207bc0e9cbd34062174437279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/11\/1-4.1792131983722.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "派人去"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "查問"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "那女子"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "有人說"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "豈不是"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "בת",
+      "gloss": "的女兒"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "拔示巴"
+    },
+    {
+      "surface": "בת",
+      "gloss": "的女兒"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "以利亞米"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "的妻子"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "烏利亞"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "赫人"
+    }
+  ],
+  "timestamp": "2026-10-16T06:26:23.724280415Z",
+  "model": "glm-5.3"
+}

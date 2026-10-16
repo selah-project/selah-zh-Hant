@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "吼叫",
+      "rationale": "שאגתי通常指獅子吼，在此指因內心痛苦而發出的深沉呼喊，各譯本或作『呻吟』或作『吼叫』"
+    },
+    {
+      "kind": "addition",
+      "subject": "而",
+      "rationale": "中文因果連接詞，希伯來文以介詞מן（因）直接連接"
+    }
+  ],
+  "translation": "我發昏，被壓碎，直到極點；我因心中的呻吟而吼叫。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0c9ba66623936e037b65b452ee7069c760922e6092b3a233072f9b81bc112027",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/38\/9-12.1792143715494.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "我發昏"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "被壓碎"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極點"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "我吼叫"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "因…的呻吟"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    }
+  ],
+  "timestamp": "2026-10-16T09:41:55.495256179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "genesis 24:49",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "אדני 的受詞記號 את，中文語法無對應，以 ⟨את⟩ 保留"
+    },
+    {
+      "kind": "idiom",
+      "subject": "向右或向左",
+      "rationale": "希伯來慣用語，意指轉往別處另尋出路"
+    }
+  ],
+  "translation": "現在，你們若願向我主人行慈愛和誠實，就告訴我；若不願意，也告訴我，使我可以或向右、或向左轉去。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1d380dedcc995e7aea50fe12f34a66d91c76729c7ac94e81826ab1842862d690",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/24\/49-52.1792142394526.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "現在"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "ישכם",
+      "gloss": "你們願"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "行"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "慈愛"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "和誠實"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我主人"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "我主人"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "告訴"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "若不"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "告訴"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "ואפנה",
+      "gloss": "使我可以轉去"
+    },
+    {
+      "surface": "על",
+      "gloss": "向"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "右"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "על",
+      "gloss": "向"
+    },
+    {
+      "surface": "שמאל",
+      "gloss": "左"
+    }
+  ],
+  "timestamp": "2026-10-16T09:19:54.526983515Z",
+  "model": "glm-5.3"
+}

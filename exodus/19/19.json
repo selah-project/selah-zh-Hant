@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 19:19",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הולך וחזק",
+      "rationale": "直譯「行走且增強」，即聲音持續增強；中文以「越來越強」表達"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "敘事引導詞融入語境，未單獨譯出"
+    }
+  ],
+  "translation": "號角的聲音越來越強、極其宏大；摩西說話，以羅欣（神）用聲音回答他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "aae6e2106044cc9c31726f5899703e598132946ac6e1b36e76bb06390bd662c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/19\/17-20.1792126038978.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "事情發生"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲音"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "號角"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "持續而去（越來越）"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "並且增強"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極其"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "說話"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "以羅欣（神）"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "回答他"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "用聲音"
+    }
+  ],
+  "timestamp": "2026-10-16T04:47:18.979096646Z",
+  "model": "glm-5.3"
+}

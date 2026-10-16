@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 78:55",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בחבל נחלה",
+      "rationale": "字面「在產業之繩中」，即用量地的繩量分產業；中文作「按繩量分產業」"
+    },
+    {
+      "kind": "addition",
+      "subject": "給他們",
+      "rationale": "中文需補出承受產業的間接受詞"
+    }
+  ],
+  "translation": "他從他們面前趕出列國，按繩量分產業給他們，使以色列的眾支派住在他們的帳棚裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "235876a10c4c3a9ff0cc8b9400f0d479064f1e0007418d04a57222ffebbf93aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/78\/53-56.1792144322317.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "他趕出"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "從他們面前"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "ויפילם",
+      "gloss": "使他們落在"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "按繩（量地之繩）"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "產業"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "他使……居住"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "在他們的帳棚裡"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "的眾支派"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:02.318987096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שלח את יד",
+      "rationale": "字面「伸出手」，即下手取掠物；直譯會誤導，故以「伸手拿取」存其形。"
+    },
+    {
+      "kind": "elision",
+      "subject": "十子的受詞",
+      "rationale": "十子作受詞前置，原文未加 את 標記（異於 9:12 的 ואת עשרת），僅此處存之。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "十",
+      "rationale": "明確計數：哈曼十子被殺。"
+    }
+  ],
+  "translation": "哈米大他的兒子哈曼——那壓迫猶大人的仇敵——的十個兒子，他們殺了；至於掠物，他們沒有伸手 ⟨את⟩ 拿取。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5caa1af612d20e88fca42557e7ff78938d0d743e3d7f7c3eda2fde417bc56bd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/esther\/9\/9-12.1792147287677.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "十"
+    },
+    {
+      "surface": "בני",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "המן",
+      "gloss": "哈曼"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "哈米大他"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "壓迫……的仇敵"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "猶大人"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "他們殺了"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "至於掠物"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "伸手拿取"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的手"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "他們的手"
+    }
+  ],
+  "timestamp": "2026-10-16T10:41:27.678517540Z",
+  "model": "glm-5.3"
+}

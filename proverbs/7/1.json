@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "介詞את（近旁義）與代詞後綴合為一詞，譯作「在你那裡」，⟨את⟩記號以家族形式保留"
+    },
+    {
+      "kind": "invitation",
+      "subject": "我兒啊",
+      "rationale": "父親向兒子的直接訓誨召喚，所羅門式開場"
+    }
+  ],
+  "translation": "我兒啊，要遵守我的話語，將我的誡命存留在你那裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "332e84a698045c086648b6c62a97d1f9b3beacb6edb28ba51631e9e116a55d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/7\/1-4.1792145323773.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "我兒啊"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "要遵守"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "我的話語"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "和我的誡命"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "要存留"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ 你那裡",
+      "marks": "你那裡"
+    }
+  ],
+  "timestamp": "2026-10-16T10:08:43.773601079Z",
+  "model": "glm-5.3"
+}

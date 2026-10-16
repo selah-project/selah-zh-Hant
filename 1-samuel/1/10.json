@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "心裡",
+      "rationale": "נֶפֶשׁ 是氣息、生命之力，非「靈魂」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ובכה תבכה",
+      "rationale": "同根動詞疊用（不定式＋完成式）表「痛哭不止」，中文以疊詞呼應"
+    }
+  ],
+  "translation": "她心裡愁苦，就向雅威祈禱，哭泣痛哭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3ce2494292e34820f4e727421f29ea59850c5f61fd5106972c371238012bbdcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/1\/9-12.1792130703331.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "她"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "愁苦"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "心裡"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "就祈禱"
+    },
+    {
+      "surface": "על",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "哭泣"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "痛哭"
+    }
+  ],
+  "timestamp": "2026-10-16T06:05:03.331812578Z",
+  "model": "glm-5.3"
+}

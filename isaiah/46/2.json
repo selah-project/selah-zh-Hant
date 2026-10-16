@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 46:2",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשם",
+      "rationale": "נפש 是氣息生命，此處指偶像的「性命」，非不朽靈魂"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרסו כרעו",
+      "rationale": "倒序重複上一節的兩個屈身動詞，強化崩倒的節奏"
+    },
+    {
+      "kind": "crux",
+      "subject": "משא",
+      "rationale": "「重擔」或指所馱的偶像，或指貢物——KJV 作「他們自己成了重擔」"
+    }
+  ],
+  "translation": "他們一齊彎腰屈膝，卻不能救自己所馱的重擔；他們的性命已經進入被擄之中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "929378757d3c63c681e5ccdedcaeaa2a743f6eac32b856611b017741e34ba79c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/46\/1-4.1792135559995.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרסו",
+      "gloss": "彎腰"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "屈膝"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "一齊"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "能"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "救"
+    },
+    {
+      "surface": "משא",
+      "gloss": "重擔"
+    },
+    {
+      "surface": "ונפשם",
+      "gloss": "他們的性命"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "進入被擄之中"
+    },
+    {
+      "surface": "הלכה",
+      "gloss": "已經去了"
+    }
+  ],
+  "timestamp": "2026-10-16T07:25:59.996496422Z",
+  "model": "glm-5.3"
+}

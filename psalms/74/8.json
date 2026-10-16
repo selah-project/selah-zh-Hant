@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נינם",
+      "rationale": "ינה（欺壓、暴行）第一人稱複數：『我們要壓碎他們』；亦有人改讀子音作『他們的後裔』（נינם），譯『滅盡他們的後裔』。"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨他們⟩",
+      "rationale": "動詞的受詞在原文中未寫出，中文需補。"
+    },
+    {
+      "kind": "crux",
+      "subject": "מועדי אל",
+      "rationale": "字面『伊勒的指定聚會處』——或指聖所，或指各地敬拜之所；KJV譯『會堂』帶後期色彩，不取。"
+    }
+  ],
+  "translation": "他們心裡說：我們要一同欺壓⟨他們⟩——他們燒燬了地上伊勒一切的聚會之處。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "80bd7f36a4f5ce70abdc7226c821e3eb60c88f4993f03b174898b98e3e4d544b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/74\/5-8.1792144224892.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "他們說"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "心裡"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "我們要欺壓"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "一同"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "他們燒燬"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "聚會之處"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地上"
+    }
+  ],
+  "timestamp": "2026-10-16T09:50:24.893162589Z",
+  "model": "glm-5.3"
+}

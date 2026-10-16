@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 22:18",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "「除非、只是」的限制用法，譯作「只……而已」以保留其排他結構"
+    },
+    {
+      "kind": "you",
+      "subject": "對約沙法",
+      "rationale": "以色列王直接向約沙法抱怨"
+    }
+  ],
+  "translation": "以色列王對約沙法說：「我豈沒有告訴過你，他對我說預言，不說吉語，只說凶言嗎？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "477899560a713bf453efa19dd0f3dfc0666ed18185d909e401f6f01f6fcf3272",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/22\/17-20.1792133461684.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "約沙法"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "豈沒有"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我告訴過"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "你"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "說預言"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "吉語"
+    },
+    {
+      "surface": "כי",
+      "gloss": "只"
+    },
+    {
+      "surface": "אם",
+      "gloss": "……而已"
+    },
+    {
+      "surface": "רע",
+      "gloss": "凶言"
+    }
+  ],
+  "timestamp": "2026-10-16T06:51:01.685992364Z",
+  "model": "glm-5.3"
+}

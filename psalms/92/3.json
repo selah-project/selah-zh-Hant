@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "傳揚",
+      "rationale": "希伯來文להגיד僅出現一次，第二個「傳揚」為中文平行句所需的重複"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "早晨／眾夜間",
+      "rationale": "בקר單數對בלילות複數（夜之夜），晝夜對比的平行結構"
+    }
+  ],
+  "translation": "為要在早晨傳揚你的慈愛，在眾夜間傳揚你的信實。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "75aa2654dc0b02aebda872bbc4bf764367c9e56852a0f3d23ae13035f9c8688f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/92\/1-4.1792144512614.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "為要傳揚"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "在早晨"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "你的慈愛"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "和你的信實"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "在眾夜間"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:12.615523033Z",
+  "model": "glm-5.3"
+}

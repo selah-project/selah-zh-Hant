@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文名詞短語無繫動詞，中文需補「是」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "香料",
+      "rationale": "קטרת直譯為「燻香／煙祭」，此處指焚燒的香"
+    }
+  ],
+  "translation": "他又造了 ⟨את⟩ 膏抹的油，是聖的；又造了 ⟨את⟩ 純淨的香料——調香師的手藝。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c9b29592e59a5fa8f12d2ce8938d8de31ab05f60907ffca4bc52177d82a999d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/37\/29-29.1792126521901.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "造了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "膏抹的油"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "膏抹的"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "純淨的香料"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "香料"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "香料的"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "純淨的"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "手藝"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "調香師"
+    }
+  ],
+  "timestamp": "2026-10-16T04:55:21.902652762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 23:18",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "廟妓",
+      "rationale": "קדשה 字根是「聖」，指獻身於廟宇的娼妓；KJV 譯 whore 失去「聖」的一面。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדשה\/קדש",
+      "rationale": "同一字根 קדש 的陰陽兩形並列（女／男廟妓），中文以「廟妓／男廟妓」保留對稱。"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "律法直接以否定命令向以色列頒布。"
+    }
+  ],
+  "translation": "以色列的女兒中不可有廟妓，以色列的兒子中也不可有男廟妓。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8ac3bfe57f0b09c99368d3a7c4161c724ac812c888c238453895bacf5030b7ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/23\/17-20.1792129101111.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "有"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "廟妓"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "的女兒中"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不可"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "有"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "男廟妓"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "的兒子中"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T05:38:21.112384776Z",
+  "model": "glm-5.3"
+}

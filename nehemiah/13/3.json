@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ערב",
+      "rationale": "「混雜的群眾」：或譯「外族混合的人」，與出 12:38 同詞"
+    },
+    {
+      "kind": "substitution",
+      "subject": "妥拉",
+      "rationale": "תורה 譯「妥拉」（訓誨），不用「律法」"
+    }
+  ],
+  "translation": "他們聽了 ⟨את⟩ 這妥拉之後，就從以色列中把一切混居的閒雜人分別出來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "82e74346f050f7983a14ff82b45861843a0229ec55164d5445f98464f7dcdfab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nehemiah\/13\/1-4.1792148276065.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "事情發生在"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "他們聽了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這妥拉"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "這妥拉"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "就……分別出來"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "混居的閒雜人"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "從以色列中"
+    }
+  ],
+  "timestamp": "2026-10-16T10:57:56.066050292Z",
+  "model": "glm-5.3"
+}

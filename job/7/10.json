@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עוד…עוד",
+      "rationale": "「再」字重複，與希伯來文עוד的疊用相應"
+    },
+    {
+      "kind": "crux",
+      "subject": "他的地方也不再認得他",
+      "rationale": "希伯來文以「地方」為主語的擬人法；有譯本改為「人不再被他的地方認得」或「他的地方不再看他」"
+    }
+  ],
+  "translation": "他不再回到他的家，他的地方也不再認得他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "47739897109f69893f391a71de4f6bad46473a337a7876d61244a8041a03378c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/7\/9-12.1792145863433.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "回到"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "他的家"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不再"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "認得他"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "他的地方"
+    }
+  ],
+  "timestamp": "2026-10-16T10:17:43.433796786Z",
+  "model": "glm-5.3"
+}

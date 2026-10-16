@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 7:1",
+  "book": "song-of-songs",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שובי שובי",
+      "rationale": "四連「回來」疊句，希伯來文的反覆呼喚在中文仍保留四次的重複節奏"
+    },
+    {
+      "kind": "hapax",
+      "subject": "השולמית",
+      "rationale": "書拉密女僅見於此節（兩次），帶定冠詞的暱稱"
+    },
+    {
+      "kind": "crux",
+      "subject": "המחנים",
+      "rationale": "雙數形：或譯「瑪哈念」地名（創32:2-3 雅各遇雙營之地），或按字面「雙營之舞」；取字面以存雙數"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the Shulammite",
+      "rationale": "連聲呼喚「回來」邀請被看，是全卷最直接的召喚句"
+    }
+  ],
+  "translation": "回來，回來，書拉密女！回來，回來，讓我們觀看⟨你⟩。你們要在書拉密女身上看什麼呢？如雙營之舞。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "64ce6cd2d6a1f5e11738c4c9da89684b1d7739574dcc86367b122a1426b72231",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/7\/1-4.1792146624471.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "回來"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "回來"
+    },
+    {
+      "surface": "השולמית",
+      "gloss": "書拉密女"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "回來"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "回來"
+    },
+    {
+      "surface": "ונחזה",
+      "gloss": "讓我們觀看"
+    },
+    {
+      "surface": "בך",
+      "gloss": "⟨你⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "什麼"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "你們要看"
+    },
+    {
+      "surface": "בשולמית",
+      "gloss": "在書拉密女身上"
+    },
+    {
+      "surface": "כמחלת",
+      "gloss": "如…之舞"
+    },
+    {
+      "surface": "המחנים",
+      "gloss": "雙營"
+    }
+  ],
+  "timestamp": "2026-10-16T10:30:24.472208866Z",
+  "model": "glm-5.3"
+}

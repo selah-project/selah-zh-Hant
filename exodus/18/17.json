@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חתן",
+      "rationale": "原文僅「岳父」一詞，未標明屬誰，中文加「摩西的」以明確所指"
+    },
+    {
+      "kind": "you",
+      "subject": "葉忒羅對摩西",
+      "rationale": "岳父直接向摩西說話"
+    }
+  ],
+  "translation": "摩西的岳父對他說：「你正在做的事不好。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "904584ff265917df7da43c1dd71bb2889f05b0fdfe3ce740ed80cf750d7055db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/18\/17-20.1792126082663.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "岳父"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "這事"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    }
+  ],
+  "timestamp": "2026-10-16T04:48:02.664441391Z",
+  "model": "glm-5.3"
+}

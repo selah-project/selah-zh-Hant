@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "身心消融",
+      "rationale": "נמס 字面是「熔化、液化」，指恐懼中消融耗盡"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רשע\/רשעים",
+      "rationale": "首尾呼應：惡人（單數）開頭，惡人（複數）結尾，全詩以惡人的滅亡收束"
+    }
+  ],
+  "translation": "惡人看見就惱怒，咬牙切齒，身心消融；惡人的心願必滅亡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9566651accaed6a76ce47cb37f1b9ea158627822966125073ed6baa3591cd1b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/112\/9-10.1792144696249.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "就惱怒"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "他的牙"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "切齒"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "身心消融"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "心願"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "惡人的"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "必滅亡"
+    }
+  ],
+  "timestamp": "2026-10-16T09:58:16.250033464Z",
+  "model": "glm-5.3"
+}

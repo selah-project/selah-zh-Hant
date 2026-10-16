@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "genesis 24:55",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ימים או עשור",
+      "rationale": "「幾天或十天」：和合本／KJV作「幾天，至少十天」；另有古譯作「一年或十天」，因七十士譯本加「一年」"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אתנו",
+      "rationalale": "此處 אִתָּנוּ（H854 介詞「與我們同」）非受詞記號 H853，譯「與我們同住」",
+      "rationale": "同前"
+    }
+  ],
+  "translation": "她哥哥和她母親說：「讓這少女與我們同住幾天，或十天，然後她可以去。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "93a2d376173996cdfff995156f6d3268ff8f659097f3fb8a59b3bbe223042e22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/24\/53-56.1792125050045.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "她的哥哥"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "和她的母親"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "讓……住"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "這少女"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "與我們同"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "幾天"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "十天"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "然後"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "她可以去"
+    }
+  ],
+  "timestamp": "2026-10-16T04:30:50.046097959Z",
+  "model": "glm-5.3"
+}

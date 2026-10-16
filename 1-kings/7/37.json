@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 7:37",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "冒號與分句",
+      "rationale": "希伯來文以名詞短語並列，中文加冒號與「為」以成句"
+    },
+    {
+      "kind": "measurement",
+      "subject": "一澆鑄一尺寸一形制",
+      "rationale": "重複的量度語，強調十座盆座規格劃一"
+    }
+  ],
+  "translation": "他這樣造了 ⟨את⟩ 十座盆座：一次澆鑄、一個尺寸、一個形制，為它們全體。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1b42e5afc864992891f3f61858859ee32bf635e63f20f1b62bdf4ad0497e95bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/7\/37-40.1792132703534.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כזאת",
+      "gloss": "這樣"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "十座盆座"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "盆座"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "澆鑄"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一個"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "尺寸"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一個"
+    },
+    {
+      "surface": "קצב",
+      "gloss": "形制"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一個"
+    },
+    {
+      "surface": "לכלהנה",
+      "gloss": "為它們全體"
+    }
+  ],
+  "timestamp": "2026-10-16T06:38:23.535234190Z",
+  "model": "glm-5.3"
+}

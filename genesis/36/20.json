@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文需要"
+    },
+    {
+      "kind": "substitution",
+      "subject": "何利人",
+      "rationale": "החרי 或與古代胡利人（Hurrians）有關，傳統譯「何利人」"
+    },
+    {
+      "kind": "measurement",
+      "subject": "名單",
+      "rationale": "西珥子孫名單，屬計數性敘事"
+    }
+  ],
+  "translation": "這些是當地居民何利人西珥的子孫：羅坍、朔巴、祭便、亞拿。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "12e65595675d50c34a48f547fca8e3c9a84b16a0fa217c7570bfedcba2db3b47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/36\/17-20.1792125307854.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "這些是"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "西珥"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "何利人"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "當地"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "羅坍"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "朔巴"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "祭便"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "亞拿"
+    }
+  ],
+  "timestamp": "2026-10-16T04:35:07.855508170Z",
+  "model": "glm-5.3"
+}

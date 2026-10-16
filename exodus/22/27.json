@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלהים",
+      "rationale": "複數形以羅欣：KJV作「諸神（審判官）」，JPS作「G-d」，本譯依 D1 定案音譯為以羅欣並括註「神」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "領袖",
+      "rationale": "נשיא字面是「被高舉者」，可指君王、族長、審判官；「領袖」保留其高位的字面而不指定職分"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קלל \/ ארר",
+      "rationale": "兩個「咒詛」動詞並列：קלל字根是「輕」（使之輕賤），ארר是嚴厲的咒詛；中文以「咒罵／咒詛」勉強區分"
+    }
+  ],
+  "translation": "不可咒罵以羅欣（神），也不可咒詛你百姓中的領袖。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c2af7ba27c532a768ccf1cc6ff3da38ff52fc8ca557f4944e4e16b00a82d4d52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/22\/25-28.1792126125643.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣（神）"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "咒罵"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "領袖"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "你百姓中的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "咒詛"
+    }
+  ],
+  "timestamp": "2026-10-16T04:48:45.644557332Z",
+  "model": "glm-5.3"
+}

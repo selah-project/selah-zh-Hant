@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 31:23",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "追上了",
+      "rationale": "וידבק字面是「緊貼、黏住」，追逐語境下即追及；畫面是貼上獵物"
+    },
+    {
+      "kind": "measurement",
+      "subject": "七日的路",
+      "rationale": "路程與日數的計量，界定追趕的長度"
+    }
+  ],
+  "translation": "他帶著⟨את⟩他的兄弟們同去，追趕他，走了七日的路，在基列的山地追上了他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2563c0468bcb8f61be021f965948fba2d004a6d214c6cab9a4baae5471a5edf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/31\/21-24.1792125228439.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "帶了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的兄弟們"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "他的兄弟們"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "同去"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "追趕"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "他"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "וידבק",
+      "gloss": "追上了"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "他"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "在……山地"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "基列"
+    }
+  ],
+  "timestamp": "2026-10-16T04:33:48.440228629Z",
+  "model": "glm-5.3"
+}

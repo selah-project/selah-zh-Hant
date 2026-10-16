@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "受詞記號 את 以 ⟨את⟩ 家族呈現；本節譯文以語序自然帶出"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חטאת",
+      "rationale": "חטאת 同時是罪與贖罪祭，一詞兩義，中文取「贖罪祭」"
+    }
+  ],
+  "translation": "亞倫要把拈鬮歸雅威的那隻公山羊帶前來，把牠獻為贖罪祭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c91ac5d3957eedc634377f4308617d4d9741b65a14bd61e9560cd0b3c2bf8f70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/16\/9-12.1792127039094.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "帶前來"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "公山羊"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "公山羊"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "歸於"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "牠"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "鬮"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "把牠獻為"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "贖罪祭"
+    }
+  ],
+  "timestamp": "2026-10-16T05:03:59.095439633Z",
+  "model": "glm-5.3"
+}

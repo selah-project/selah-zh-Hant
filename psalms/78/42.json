@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他們",
+      "rationale": "「救贖他們」的受詞「他們」由上文補出，希伯來文僅有動詞 פדם。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ידו",
+      "rationale": "「他的手」直譯保留；意為他的大能作為，BSB 譯 power。"
+    }
+  ],
+  "translation": "他們不記得 ⟨את⟩ 他的手，不記得他救贖他們脫離仇敵的日子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "45ad4b0f1067a6e84594ff8f6dfda82491f7d84cb55c36c28b83e59b6dc67207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/78\/41-44.1792144264806.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "記得"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的手"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "他的手"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日子"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨那⟩"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "救贖"
+    },
+    {
+      "surface": "מני",
+      "gloss": "脫離"
+    },
+    {
+      "surface": "צר",
+      "gloss": "仇敵"
+    }
+  ],
+  "timestamp": "2026-10-16T09:51:04.806711096Z",
+  "model": "glm-5.3"
+}

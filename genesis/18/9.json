@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨她⟩",
+      "rationale": "希伯來文只說「看哪，在帳棚裡」，未指明主語；中文需補出"
+    },
+    {
+      "kind": "you",
+      "subject": "to Abraham",
+      "rationale": "訪客直接向亞伯拉罕發問，問及撒拉的下落"
+    }
+  ],
+  "translation": "他們對他說：「撒拉你的妻子在哪裡？」他說：「看哪，⟨她⟩在帳棚裡。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e820b53fd274361f4d5b7cf316391f465c90ceff0fdcb837f058ce9bb1a386c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/18\/9-12.1792124841966.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "他們說"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "איה",
+      "gloss": "在哪裡"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "撒拉"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "你的妻子"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "在帳棚裡"
+    }
+  ],
+  "timestamp": "2026-10-16T04:27:21.967233203Z",
+  "model": "glm-5.3"
+}

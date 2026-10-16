@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 12:7",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "就是",
+      "rationale": "希伯來文無繫詞，中文需「就是」連接，已入〈〉於譯文中標明之處未標，此處按慣例以自然語序呈現"
+    },
+    {
+      "kind": "you",
+      "subject": "to David",
+      "rationale": "「你就是那人」是全書最直接的指控，拿單直指大衛"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האיש",
+      "rationale": "呼應第5節大衛自己說的「那人」——大衛的判語落回自己身上，中譯保留同一詞「那人」"
+    }
+  ],
+  "translation": "拿單對大衛說：「你就是那人！雅威以色列的以羅欣如此說：『我膏你作以色列的王，又救你脫離掃羅的手；",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bc8809d0aad713b5ee991d7ce3bdb701c9623abd502ef919ca22610f7858d513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/12\/5-8.1792131961696.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "拿單"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "就是那人"
+    },
+    {
+      "surface": "כה",
+      "gloss": "如此"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列的"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "膏你"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "作王"
+    },
+    {
+      "surface": "על",
+      "gloss": "治理"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "又我"
+    },
+    {
+      "surface": "הצלתיך",
+      "gloss": "救你脫離"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "的手"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    }
+  ],
+  "timestamp": "2026-10-16T06:26:01.698488413Z",
+  "model": "glm-5.3"
+}

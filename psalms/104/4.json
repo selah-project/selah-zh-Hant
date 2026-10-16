@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "使者的本質",
+      "rationale": "希伯來文的語序可讀作『他使風為他的使者』（如 LXX 及來 1:7）或『他使他的使者為風』；此處依和合本讀法"
+    },
+    {
+      "kind": "hapax",
+      "subject": "לֹהֵט",
+      "rationale": "燃燒、舔焰之詞，於塔納赫僅此一見（申 4:24 為同源動詞）"
+    }
+  ],
+  "translation": "他使他的使者為風，使他的僕役為燃燒的火焰。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/104\/1-4.1792144591454.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "他使……為"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "他的使者"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "風"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "他的僕役"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "להט",
+      "gloss": "燃燒的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:31.455403338Z",
+  "model": "glm-5.3"
+}

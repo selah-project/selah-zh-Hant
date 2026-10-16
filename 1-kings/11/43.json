@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 11:43",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "與列祖同睡",
+      "rationale": "וישכב עם אבתיו 直譯「與他列祖同躺下」，即去世的委婉語"
+    },
+    {
+      "kind": "addition",
+      "subject": "裡",
+      "rationale": "「城裡」的方位詞為中文語法所需，希伯來僅作「城的城中」之介詞結構"
+    },
+    {
+      "kind": "idiom",
+      "subject": "תחתיו",
+      "rationale": "直譯「在他之下」，王位繼承的慣用語，譯作「接續他」"
+    }
+  ],
+  "translation": "所羅門與他列祖同睡，葬在他父親大衛的城裡；他兒子羅波安接續他作王。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cbc5686352073280db1da9c26e022bc6c1af21427e447e8dcb73cda7b4cdadbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/11\/41-43.1792132940650.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "……同睡"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "עם",
+      "gloss": "與"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "他列祖"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "葬在"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "他父親"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "作王"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "羅波安"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "他兒子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "接續他"
+    }
+  ],
+  "timestamp": "2026-10-16T06:42:20.651775217Z",
+  "model": "glm-5.3"
+}

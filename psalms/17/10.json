@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חלבמו",
+      "rationale": "直譯「他們的脂油封閉了他們」——脂油堵塞心腸的隱喻；欽定本保留字面，JPS\/BSB逕作「頑硬的心」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "肥脂",
+      "rationale": "חלב指脂油（上好之物），引申為富足使人心麻木；直譯保留畫面"
+    }
+  ],
+  "translation": "他們被自己的肥脂封閉了；他們的口以驕傲說話。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1051d1864eb3c2253e73aeb6880d5cfcb51971bf845197d87d89482d38a35f2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/17\/9-12.1792143316889.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "他們的肥脂"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "封閉了"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "他們的口"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "說話"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "以驕傲"
+    }
+  ],
+  "timestamp": "2026-10-16T09:35:16.890968829Z",
+  "model": "glm-5.3"
+}

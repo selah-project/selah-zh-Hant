@@ -1,0 +1,165 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 26:16",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "死亡之子",
+      "rationale": "בני מות 直譯「死亡之子」；KJV／JPS 譯「該死」，字面形狀保留"
+    },
+    {
+      "kind": "idiom",
+      "subject": "雅威活著",
+      "rationale": "起誓套語 חי יהוה，直譯保留其誓言之力"
+    },
+    {
+      "kind": "you",
+      "subject": "to Abner and the troops",
+      "rationale": "大衛的直接斥責與命令，對象是亞比尼珥與眾軍兵"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "第二個 אשר 引伸因果，中文以「因為」承接"
+    }
+  ],
+  "translation": "你所做的這事不好。雅威活著，你們是死亡之子，因為你們沒有看守你們的主、雅威的受膏者。現在看看王的槍在哪裡，還有⟨את⟩那水瓶、那在他頭旁的。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b0992ff3bee5fa1455f6dc2c2358ca3cf52d4cd8d48bd0d869f16ab4720425c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/26\/13-16.1792131576594.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "這事"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "做"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活著"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……之子"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死亡"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "שמרתם",
+      "gloss": "看守"
+    },
+    {
+      "surface": "על",
+      "gloss": "看守"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "你們的主"
+    },
+    {
+      "surface": "על",
+      "gloss": "看守"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "受膏者"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "現在"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "看看"
+    },
+    {
+      "surface": "אי",
+      "gloss": "在哪裡"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "槍"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "那水瓶"
+    },
+    {
+      "surface": "צפחת",
+      "gloss": "水瓶"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "在他頭旁"
+    }
+  ],
+  "timestamp": "2026-10-16T06:19:36.596101769Z",
+  "model": "glm-5.3"
+}

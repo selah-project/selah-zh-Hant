@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 1:6",
+  "book": "haggai",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שכר／משתכר",
+      "rationale": "同一詞根兼有「雇工掙錢」與「醉飲」二義，與前句「喝卻不得暢飲（לשכרה）」形成雙關，中文無法保留"
+    },
+    {
+      "kind": "crux",
+      "subject": "לשכרה",
+      "rationale": "或譯「喝醉」或譯「暢飲解渴」；KJV 取「不得滿足」，YLT 取「不得醉」，此處譯「不得暢飲」"
+    }
+  ],
+  "translation": "你們撒種多，帶回來的卻少；吃，卻不得飽足；喝，卻不得暢飲；穿，卻不得暖和；掙工錢的，掙來的工錢裝進破洞的袋子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5d94111d7b989a2bfd712e3f7c89cd5e8d250cefb499c91c176fd17c45b6bf32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/haggai\/1\/5-8.1792142863710.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרעתם",
+      "gloss": "你們撒種"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "多"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "卻帶回來"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "少"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "吃"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "卻沒有"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "以致飽足"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "喝"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "卻沒有"
+    },
+    {
+      "surface": "לשכרה",
+      "gloss": "以致暢飲"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "穿"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "卻沒有"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "暖和"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "והמשתכר",
+      "gloss": "那掙工錢的"
+    },
+    {
+      "surface": "משתכר",
+      "gloss": "掙工錢"
+    },
+    {
+      "surface": "אל",
+      "gloss": "進入"
+    },
+    {
+      "surface": "צרור",
+      "gloss": "袋子"
+    },
+    {
+      "surface": "נקוב",
+      "gloss": "破洞的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:27:43.711630789Z",
+  "model": "glm-5.3"
+}

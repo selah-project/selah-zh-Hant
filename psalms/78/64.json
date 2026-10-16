@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "下",
+      "rationale": "中文需要「刀下」以合語法；希伯來文只作「在刀中」"
+    }
+  ],
+  "translation": "他的祭司倒在刀下，他的寡婦不能哀哭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "15fd05ec2736a76694749f7b80338f5e715f099d9d3d88ee36640ec380cf5b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/78\/61-64.1792144312922.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "他的祭司"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "倒在刀下"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "倒"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "他的寡婦"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不能"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "哀哭"
+    }
+  ],
+  "timestamp": "2026-10-16T09:51:52.923832801Z",
+  "model": "glm-5.3"
+}

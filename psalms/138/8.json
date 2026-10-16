@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 138,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יגמר בעדי",
+      "rationale": "「為我成全」——耶和華必完成關乎我的事；也有譯作「必不放棄我」（與末句同根）之讀法。"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨這事⟩",
+      "rationale": "יגמר בעדי 的受詞未言明，中文需補出賓語。"
+    },
+    {
+      "kind": "you",
+      "subject": "雅威",
+      "rationale": "詩人直接向雅威呼求。"
+    },
+    {
+      "kind": "invitation",
+      "subject": "祈求",
+      "rationale": "「求你不要放棄」是向雅威發出的懇求（אל 祈願否定）。"
+    }
+  ],
+  "translation": "雅威必為我成全⟨這事⟩；雅威啊，你的慈愛存到永遠；你手所造的工，求你不要放棄。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "71a3b8402139509f35b4e7412c794be5629794ccc083e5de2ccc160bfe66c26e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/138\/8-8.1792149932904.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "必成全"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "為我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "你的慈愛"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "存到永遠"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "所造的工"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "你手"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "放棄"
+    }
+  ],
+  "timestamp": "2026-10-16T11:25:32.905359174Z",
+  "model": "glm-5.3"
+}

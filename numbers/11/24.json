@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 11:24",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "七十人",
+      "rationale": "點算長老人數，對應11:16雅威所吩咐的七十位"
+    },
+    {
+      "kind": "substitution",
+      "subject": "會幕",
+      "rationale": "האהל 字面是「帳棚」，此處指會幕；依文本脈絡取「會幕」"
+    }
+  ],
+  "translation": "摩西出去，把雅威的話告訴百姓，又從民間的長老中聚集了七十個人，使他們站在會幕四圍。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9d5267a531f32f3e2aa8176723160c46e69f7b62e9a81990cfbd9c60a0a88e62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/11\/21-24.1792127754643.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "告訴"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的話"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威的"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "七十"
+    },
+    {
+      "surface": "איש",
+      "gloss": "個人"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "從……的長老中"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民的"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "使他們站"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "他們"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "會幕"
+    }
+  ],
+  "timestamp": "2026-10-16T05:15:54.645139603Z",
+  "model": "glm-5.3"
+}

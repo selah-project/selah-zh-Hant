@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 23:28",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "人",
+      "rationale": "中文語法需要補出「的人」，希伯來文僅用關係詞 אשר"
+    },
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפשך 是「你的性命／生命氣息」，非不朽的靈魂"
+    },
+    {
+      "kind": "you",
+      "subject": "對耶路撒冷（阿荷利巴）",
+      "rationale": "本章寓言中直接對悖逆之城發言"
+    }
+  ],
+  "translation": "因為阿多奈雅威如此說：看哪，我必將你交在你所恨惡的人手中，交在你的性命曾厭棄他們的人手中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5b07c61ef82a1e11b42ff40c162c7220764ca327f1b1c08ec3352c0f867bf8d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/23\/25-28.1792138558490.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כה",
+      "gloss": "如此"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "看哪，我"
+    },
+    {
+      "surface": "נתנך",
+      "gloss": "必將你交在"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "在……手中"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "你所恨惡的"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "在……手中"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "נקעה",
+      "gloss": "曾厭棄"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "你的性命"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "離棄他們"
+    }
+  ],
+  "timestamp": "2026-10-16T08:15:58.491449618Z",
+  "model": "glm-5.3"
+}

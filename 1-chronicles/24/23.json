@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 24:23",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "第二、第三、第四",
+      "rationale": "按序數排列的名册體裁，希伯來文本未明言「第一」（參22:25兄弟米迦之句）。"
+    },
+    {
+      "kind": "crux",
+      "subject": "ובני",
+      "rationale": "傳統讀作「希伯倫的眾子」（KJV），但希伯來文僅作 uvenai（「眾子」）；JPS 依字母重讀為人名 Benai（比尼）。"
+    }
+  ],
+  "translation": "耶利雅的子孫如下：亞瑪利雅是第二，雅哈悉是第三，耶加蔑是第四。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "11aa543bc72f9310d07ea976fdcb052131a3d261afd8646238d7412c2d4edcab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/24\/21-24.1792148938481.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "的子孫"
+    },
+    {
+      "surface": "יריהו",
+      "gloss": "耶利雅"
+    },
+    {
+      "surface": "אמריהו",
+      "gloss": "亞瑪利雅"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二"
+    },
+    {
+      "surface": "יחזיאל",
+      "gloss": "雅哈悉"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三"
+    },
+    {
+      "surface": "יקמעם",
+      "gloss": "耶加蔑"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "第四"
+    }
+  ],
+  "timestamp": "2026-10-16T11:08:58.481735478Z",
+  "model": "glm-5.3"
+}

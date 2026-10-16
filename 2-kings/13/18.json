@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 13:18",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "三次",
+      "rationale": "擊打次數即預言定量：三次對應下節亞蘭被擊三次"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויעמד 停住",
+      "rationale": "字面『他就站住』，KJV 譯 stayed；取『停手不擊』之義"
+    }
+  ],
+  "translation": "他又說：「拿箭來。」他就拿了。他對以色列王說：「向地擊打！」他就擊打了三次，隨即停住了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7b971ddd2d815b805b4e861976855288ac1bb7d4307c42daf7688b8b65960f6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/13\/17-20.1792133999072.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他又說"
+    },
+    {
+      "surface": "קח",
+      "gloss": "拿"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "箭"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "他就拿了"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "對王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הך",
+      "gloss": "擊打"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "向地"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "他就擊打"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "次"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "停住"
+    }
+  ],
+  "timestamp": "2026-10-16T06:59:59.073119425Z",
+  "model": "glm-5.3"
+}

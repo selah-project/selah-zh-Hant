@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחרף צר",
+      "rationale": "原文無受詞：仇敵辱罵「誰／什麼」懸置——欽定本作不及物，他本補出「你」，此處保留懸置並以第二句補足"
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "本節直接向以羅欣呼求"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צר／אויב",
+      "rationale": "同義平行：「仇敵」與「敵人」對應「辱罵」與「褻瀆」，兩對近義詞交錯"
+    }
+  ],
+  "translation": "要到幾時，以羅欣啊？仇敵要辱罵到幾時？敵人要褻瀆你的名到永遠嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d0b0e81afd83bea474f49218cf95856acef3d10f706cd01b96a3c959eafea057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/74\/9-12.1792144228150.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "幾時"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣啊"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "辱罵"
+    },
+    {
+      "surface": "צר",
+      "gloss": "仇敵"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "褻瀆"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "敵人"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "到永遠"
+    }
+  ],
+  "timestamp": "2026-10-16T09:50:28.151296754Z",
+  "model": "glm-5.3"
+}

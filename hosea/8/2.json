@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "語氣",
+      "rationale": "JPS 讀作疑問「他們豈會向我哀求？」；直陳與譏諷問句兩讀並存，取直陳。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "認識",
+      "rationale": "ידע 是立約的親密之知，非僅頭腦知曉；以色列空喊「認識」而行為悖逆。"
+    }
+  ],
+  "translation": "他們向我哀求：「我們的以羅欣（神）啊，我們以色列已經認識了你。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4b059a94e3554558d9294e9f4541e2f7ac28608b6b1ef8ee7652a9305aee229c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/8\/1-4.1792139570056.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "向我"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "哀求"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣啊"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "認識了你"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T08:32:50.057215344Z",
+  "model": "glm-5.3"
+}

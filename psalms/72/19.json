@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "阿們，阿們",
+      "rationale": "אָמֵן וְאָמֵן 重複，是詩卷結束的疊句；重複保留。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כבודו……כבודו",
+      "rationale": "「他的榮耀」在本節重複兩次，首尾呼應。"
+    }
+  ],
+  "translation": "願他榮耀的名受稱頌，直到永遠；願他的榮耀充滿 ⟨את⟩ 全地。阿們，阿們！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "adf2ee31e20a88469d053f4a16346341db4ab07592323afc55691e694da7f527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/72\/17-20.1792144181488.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "願……受稱頌"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "他的榮耀"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "直到永遠"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "願……充滿"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "他的榮耀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全地"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "阿們"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "阿們"
+    }
+  ],
+  "timestamp": "2026-10-16T09:49:41.488952337Z",
+  "model": "glm-5.3"
+}

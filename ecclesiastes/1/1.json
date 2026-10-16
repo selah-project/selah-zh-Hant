@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "嘉黑勒特",
+      "rationale": "קֹהֶלֶת 是『召集者／會眾之師』的筆名，女性分詞形；音譯保留其為名的身份，不譯作『傳道者』"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "中文需要判斷詞，希伯來文無"
+    }
+  ],
+  "translation": "在耶路撒冷作王、大衛的兒子嘉黑勒特的話語。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "afe5a10b8e4d5804652009388f716bf5e3c9dd731419a59f6bb831e8b5edcc8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/1\/1-4.1792146968665.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "話語"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "嘉黑勒特"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "作王"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "在耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-10-16T10:36:08.666187818Z",
+  "model": "glm-5.3"
+}

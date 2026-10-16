@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בית נתיבות",
+      "rationale": "字面「路径之家」，即眾路交會之處"
+    },
+    {
+      "kind": "substitution",
+      "subject": "眾路径",
+      "gloss-note": null,
+      "rationale": "נתיבות為「路径」複數，本應作「路徑」，正體字按臺灣慣用形「径」應作「徑」——修正為：路徑"
+    },
+    {
+      "kind": "invitation",
+      "subject": "全節",
+      "rationale": "智慧站在人人經過的路口，公開向過路人呼喚"
+    }
+  ],
+  "translation": "她在高處的頂端、道路之上、眾路径的交會處站立；",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2ebf4a203f97e6c6dd408f833f771f5c873d60ebe2e728c12d425ba970159efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/8\/1-4.1792145290302.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "在……的頂端"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "高處"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "在……之上"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道路"
+    },
+    {
+      "surface": "בית",
+      "gloss": "……之處"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "眾路径"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "站立"
+    }
+  ],
+  "timestamp": "2026-10-16T10:08:10.302795361Z",
+  "model": "glm-5.3"
+}

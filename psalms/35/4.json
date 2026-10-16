@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "「追索我的נפש」即索命；譯「追索我性命」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "四個羞辱動詞",
+      "rationale": "יבשו\/יכלמו\/יחפרו加上退後，堆疊式的咒詛節奏，中文化為兩組平行。"
+    }
+  ],
+  "translation": "願那追索我性命的人蒙羞受辱，願那圖謀害我的退後羞愧。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9e54e0c61676270b7f5d6b5458d264a714ab9888762ce540cc682511ab34a194",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/35\/1-4.1792143619454.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "願他們蒙羞"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "受辱"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "追索……的人"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "願他們退後"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "向後"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "羞愧"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "圖謀……的人"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "害我"
+    }
+  ],
+  "timestamp": "2026-10-16T09:40:19.455834487Z",
+  "model": "glm-5.3"
+}

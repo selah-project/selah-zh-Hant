@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עמל\/עמל",
+      "rationale": "『勞碌』的名詞與動詞同根連用（我勞碌的勞碌），中文保留同一詞形"
+    },
+    {
+      "kind": "alternative",
+      "subject": "我必將它留下",
+      "rationale": "שאניחנו 可讀為已然『我竟要留下它』；取將然式，與 context 一致"
+    }
+  ],
+  "translation": "我恨惡 ⟨את⟩ 我一切的勞碌，就是我在日光之下所勞碌的，因為我必將它留給在我以後的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c1c669dab5203901d782a63b4894168e24168b4354b61b7ce2442b2bb17daf6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/2\/17-20.1792146986175.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "我恨惡"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我一切的勞碌"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "我的勞碌"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "我"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "所勞碌的"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "在……之下"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日光"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "我必將它留下"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "給……的人"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "那將要有的"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "在我以後"
+    }
+  ],
+  "timestamp": "2026-10-16T10:36:26.176483617Z",
+  "model": "glm-5.3"
+}

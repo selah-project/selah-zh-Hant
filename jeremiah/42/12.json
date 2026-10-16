@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "〈他〉",
+      "rationale": "希伯來文未標明 ורחם 與 והשיב 的主語；KJV 讀作「他（巴比倫王）必憐憫」，譯文補出主語並以括號標示。"
+    },
+    {
+      "kind": "crux",
+      "subject": "ורחם אתכם",
+      "rationale": "主語是雅威自己（我必憐憫你們）還是巴比倫王（他必憐憫你們）——譯者分歧所在。"
+    }
+  ],
+  "translation": "我必賜憐憫給你們，使〈他〉憐憫 ⟨את⟩ 你們，並使你們歸回 ⟨את⟩ 你們的地土。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "66c4f1e94a01e0eee81ea336f12009d61544a49eaa48593b186d42788903ade6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/42\/9-12.1792137475752.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "我必賜"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "給你們"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "憐憫"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "並憐憫"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "你們"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "並使…歸回"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "你們"
+    },
+    {
+      "surface": "אל",
+      "gloss": "歸回"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "你們的地土"
+    }
+  ],
+  "timestamp": "2026-10-16T07:57:55.754542733Z",
+  "model": "glm-5.3"
+}

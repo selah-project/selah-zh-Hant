@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 19:5",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "母獅",
+      "rationale": "希伯來文動詞為陰性單數，中文需補主語指明是母獅"
+    },
+    {
+      "kind": "substitution",
+      "subject": "指望",
+      "rationale": "תקותה字面是「繩索」，引申為期望；中文取引申義"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "本章是獅子哀歌，寓言以色列王室，母獅暗指以色列"
+    }
+  ],
+  "translation": "母獅見自己等候落空，指望滅沒了，就從她的小獅之中取了一隻，把牠養成少壯獅子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1da2ff61c81e6a171a547f8fd2a4dced5eda83ff3b8fc3d9ad5113e43e8450b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/19\/5-8.1792138351376.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "見"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨自己⟩"
+    },
+    {
+      "surface": "נוחלה",
+      "gloss": "等候落空"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "滅沒了"
+    },
+    {
+      "surface": "תקותה",
+      "gloss": "指望"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "就取了"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一隻"
+    },
+    {
+      "surface": "מגריה",
+      "gloss": "從她的小獅之中"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "少壯獅子"
+    },
+    {
+      "surface": "שמתהו",
+      "gloss": "把牠養成"
+    }
+  ],
+  "timestamp": "2026-10-16T08:12:31.376872012Z",
+  "model": "glm-5.3"
+}

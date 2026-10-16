@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "דר ודר",
+      "rationale": "「一代和一代」重疊式，譯作「代代相傳」以存其重複節奏。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "על כן",
+      "rationable": "因果公式語，直譯「在其上如此」，譯作「因此」。",
+      "rationale": "因果公式語，直譯「在其上如此」，譯作「因此」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעלם ועד",
+      "rationale": "兩個「永遠」詞並列（隱藏之久＋定點之久），譯作「直到永遠，永無止境」以存其雙重疊加。"
+    },
+    {
+      "kind": "you",
+      "subject": "王",
+      "rationale": "全詩對王的直接稱呼延續至此：「你的名」「稱謝你」。"
+    },
+    {
+      "kind": "invitation",
+      "subject": "稱謝",
+      "rationale": "詩的收尾召喚眾民加入對王的讚美，直指讀者所在的每一代。"
+    }
+  ],
+  "translation": "我必使人記念你的名，在每一代，代代相傳；因此，眾民必稱謝你，直到永遠，永無止境。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e4583dcb573e45621006a1ebcc6f61dcb9c4febaf70590d3f7a37fe238abfa71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/45\/17-18.1792143787804.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "我必使人記念"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "在每一"
+    },
+    {
+      "surface": "דר",
+      "gloss": "代"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "和代"
+    },
+    {
+      "surface": "על",
+      "gloss": "因此"
+    },
+    {
+      "surface": "כן",
+      "gloss": "故此"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "眾民"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "必稱謝你"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "直到永遠"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "永無止境"
+    }
+  ],
+  "timestamp": "2026-10-16T09:43:07.805678344Z",
+  "model": "glm-5.3"
+}

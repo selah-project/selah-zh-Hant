@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כבד",
+      "rationale": "同一詞根貫穿上節（歸「榮耀」כבוד）與本節（心「沉重」）：不肯把重量歸給雅威，心就自己沉重——中文難以保留。"
+    },
+    {
+      "kind": "crux",
+      "subject": "התעלל",
+      "rationale": "此動詞可作「戲弄／嘲弄」（KJV『wrought wonderfully』）或「嚴厲對付」；非利士人視出埃及為雅威對埃及的羞辱性擊打。"
+    },
+    {
+      "kind": "addition",
+      "subject": "他們",
+      "rationale": "וישלחום 的受詞（以色列人）由代詞詞尾承載，中文補「他們」。"
+    }
+  ],
+  "translation": "你們為何使⟨את⟩你們的心沉重，如同埃及人和法老使⟨את⟩他們的心沉重一樣？雅威向他們極力對付的時候，他們豈不是打發⟨他們⟩走，他們就去了嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "eae2bdd19ec772dc1ec49484de4c269d53b22b6ef5e5e6cd30dd0435cb4116c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/6\/5-8.1792130927093.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "你們為何"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "使…沉重"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你們的心"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "你們的心"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "如同"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "使沉重"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及人"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "和法老"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的心"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "他們的心"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "豈不是"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "當…的時候"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "極力對付"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "對他們"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "他們就打發…走"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "他們就去了"
+    }
+  ],
+  "timestamp": "2026-10-16T06:08:47.094671551Z",
+  "model": "glm-5.3"
+}

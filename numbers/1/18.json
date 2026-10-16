@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 1:18",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויתילדו",
+      "rationale": "字面為「登記出生／家譜」（hitpael 反身形），譯作「登記家譜」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לגלגלתם",
+      "rationale": "גלגלת 字面是「頭骨」，數點人數時作「按頭」計"
+    },
+    {
+      "kind": "addition",
+      "subject": "男丁",
+      "rationale": "中文需補出被數點者的性別所指，希伯來文由上下文承擔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "本節為人口數點的正式登記程序：按家族、父家、名字數目、二十歲以上"
+    }
+  ],
+  "translation": "他們在第二個月初一日召集了 ⟨את⟩ 全會眾，會眾就按著各人的家族、父家登記家譜，按名字的數目，從二十歲以上的男丁，逐一按頭數點。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5838d805e1730833b235a238c4f25a536657472b152ade4d3e2413dec3bff45d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/1\/17-20.1792127414921.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "全會眾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "הקהילו",
+      "gloss": "召集"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "在初一日"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "月初"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二個"
+    },
+    {
+      "surface": "ויתילדו",
+      "gloss": "登記家譜"
+    },
+    {
+      "surface": "על",
+      "gloss": "按著"
+    },
+    {
+      "surface": "משפחתם",
+      "gloss": "各人的家族"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "父家"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "他們的父"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "按數目"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名字"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "從……歲的男丁"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "以上"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "按頭數點"
+    }
+  ],
+  "timestamp": "2026-10-16T05:10:14.921834408Z",
+  "model": "glm-5.3"
+}

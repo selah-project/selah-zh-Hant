@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 25:8",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הקבה",
+      "rationale": "קֻבָּה（拱頂小室）在全塔納赫僅出現於本節。"
+    },
+    {
+      "kind": "crux",
+      "subject": "內室",
+      "rationale": "קֻבָּha 或指帳棚內的拱頂隔間；古譯本有作「妓室」（Wycliffe）者，今多取「內室／臥室」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קבתה",
+      "rationale": "קֹבָתָהּ 與「內室」同源，指腹部空腔；本句刺的是女人的腹部，非二人皆腹部。"
+    }
+  ],
+  "translation": "他跟隨那以色列人進到內室，把兩人都刺透了——⟨את⟩那以色列男人和⟨את⟩那女人，刺入她的腹部——瘟疫就從以色列人身上止住了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fb5b53e647d1ffe17add2b18d7dc76efbdfd0ea2f3321f7dbe2190a96a96d3db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/25\/5-8.1792128169928.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "進到"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "跟隨"
+    },
+    {
+      "surface": "איש",
+      "gloss": "那人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אל",
+      "gloss": "進入"
+    },
+    {
+      "surface": "הקבה",
+      "gloss": "內室"
+    },
+    {
+      "surface": "וידקר",
+      "gloss": "刺透"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "兩人"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "兩人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那以色列男人"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "那女人"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "那女人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "刺入"
+    },
+    {
+      "surface": "קבתה",
+      "gloss": "她的腹部"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "就止住了"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "瘟疫"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "從……身上"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T05:22:49.930259590Z",
+  "model": "glm-5.3"
+}

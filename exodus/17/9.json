@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 17:9",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "人來／手裡拿著",
+      "rationale": "中文語法需要補出賓語與持杖的動詞，希伯來文僅作名詞短語「以羅欣的杖在我手中」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "亞瑪力人",
+      "rationale": "עמלק 原文為專名「亞瑪力」，中文加「人」以合語感"
+    },
+    {
+      "kind": "you",
+      "subject": "to 約書亞",
+      "rationale": "摩西直接吩咐約書亞，命令式複句"
+    }
+  ],
+  "translation": "摩西對約書亞說：「你為我們選出人來，明天出去與亞瑪力人爭戰；我要站在山頂上，手裡拿著以羅欣的杖。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2eb452592a36d362c8de659b16418de2646d7a3f6f7dfc59484f8e9f07e870eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/17\/9-12.1792126056518.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "選出"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "為我們"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "人來"
+    },
+    {
+      "surface": "וצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "爭戰"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "與亞瑪力人"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "明天"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "要站在"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頂"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "山"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "杖"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣的"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "手裡"
+    }
+  ],
+  "timestamp": "2026-10-16T04:47:36.518882866Z",
+  "model": "glm-5.3"
+}

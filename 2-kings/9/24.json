@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 9:24",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מלא ידו בקשת",
+      "rationale": "字面「使他的手滿了弓」——拉滿弓的希伯來語畫面"
+    },
+    {
+      "kind": "hapax",
+      "subject": "החצי",
+      "rationale": "此拼法（帶冠詞的 חֵץ 變體）在塔納赫中僅見於此"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לבו",
+      "rationale": "לב 是「心」也指內臟中心；箭自背間入、胸前出，中文以「心窩」存其解剖位置"
+    }
+  ],
+  "translation": "耶戶拉滿了他的手上的弓，射 ⟨את⟩ 約蘭，箭從他心窩穿出，他就在車上屈膝倒下。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6e08c13c6eea06220d2fe36fab3f459c0df57f34336b0060fa3f07b1fd67b1ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/9\/21-24.1792133728559.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "耶戶"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "拉滿"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "他的手"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "弓"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "射中"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約蘭"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "約蘭"
+    },
+    {
+      "surface": "בין",
+      "gloss": "在……之間"
+    },
+    {
+      "surface": "זרעיו",
+      "gloss": "他的兩臂"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "穿出"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "箭"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "從他的心窩"
+    },
+    {
+      "surface": "ויכרע",
+      "gloss": "屈膝倒下"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "在他的車上"
+    }
+  ],
+  "timestamp": "2026-10-16T06:55:28.561160643Z",
+  "model": "glm-5.3"
+}

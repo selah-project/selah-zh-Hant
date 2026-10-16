@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 31:29",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "從好到壞",
+      "rationale": "מטוב עד רע 字面「從好到壞」（YLt），多數譯本作「無論好壞」；本譯保留字面"
+    },
+    {
+      "kind": "substitution",
+      "subject": "能力",
+      "rationale": "לאל ידי 字面「神的手」／「對神（起誓）我的手」，和合本類譯作「我手中原有能力」，此處按慣用譯法"
+    },
+    {
+      "kind": "you",
+      "subject": "對雅各（經由拉班轉述）",
+      "rationale": "以羅欣的話直接命令拉班：你要小心"
+    }
+  ],
+  "translation": "我手中固然有能力加害於你們，但你們父親的以羅欣昨夜對我說：『你要小心，不可與雅各說話，從好到壞。』",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "45dc9318c1baa20899fb0a3e612adc7f88e10d0ccbb27ffba8ecec4be1f073fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/31\/29-32.1792125264219.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "固然有"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "能力"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我手中"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "加害"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "於你們"
+    },
+    {
+      "surface": "רע",
+      "gloss": "害"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "但……的以羅欣"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "你們父親"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "昨夜"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "『"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "你要小心"
+    },
+    {
+      "surface": "לך",
+      "gloss": "自己"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "不可……說話"
+    },
+    {
+      "surface": "עם",
+      "gloss": "與"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "從好"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "רע",
+      "gloss": "壞"
+    }
+  ],
+  "timestamp": "2026-10-16T04:34:24.220593264Z",
+  "model": "glm-5.3"
+}

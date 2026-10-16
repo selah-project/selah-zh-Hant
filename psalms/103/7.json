@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "作為",
+      "rationale": "עלילותיו 字面為「祂的作為／事蹟」，與「道路」（דרכיו）相對：道路給摩西，事蹟給眾民。"
+    }
+  ],
+  "translation": "祂使摩西知道祂的道路，使以色列的子孫知道祂的作為。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "76921e225b98ec9ed64292986f687e5ad0aa90daadad06d654cd0993598f9e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/103\/5-8.1792144559576.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "使……知道"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "祂的道路"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "給摩西"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "給……的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "祂的作為"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:59.577479479Z",
+  "model": "glm-5.3"
+}

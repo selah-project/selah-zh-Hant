@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 31:25",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，「力量與威榮是她的衣著」中文需要「是」"
+    },
+    {
+      "kind": "crux",
+      "subject": "向末後的日子笑",
+      "rationale": "ליום אחרון 或譯「在末後的日子」（和合本「想到日後都必喜笑」）vs「向將來的日子笑」（無懼未來）"
+    },
+    {
+      "kind": "elision",
+      "subject": "לְ",
+      "rationale": "介詞ל（向／在）併入「向……的日子」的詞序"
+    }
+  ],
+  "translation": "力量與威榮是她的衣著，她向末後的日子欢笑。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "367a2eb04767da084c3b8bc8175d675cf721c72f9e8345f9af424efdb8f9efd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/31\/25-28.1792145743526.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עז",
+      "gloss": "力量"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "與威榮"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "是她的衣著"
+    },
+    {
+      "surface": "ותשחק",
+      "gloss": "她欢笑"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "向……的日子"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "末後的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:15:43.527357157Z",
+  "model": "glm-5.3"
+}

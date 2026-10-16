@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "〈他〉",
+      "rationale": "יפלם 是使役形「使他們墜落」，主語未寫明；中文補「他」（指雅威）。"
+    },
+    {
+      "kind": "crux",
+      "subject": "במהמרות",
+      "rationale": "罕見詞，或作「深坑」（b\/4113），古卷有作「水坑」；與「傾覆」字根相關。"
+    }
+  ],
+  "translation": "願炭火落在他們身上，願〈他〉使他們墜入火中、墜入深坑，使他們不再起來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "db49c15584be05e5ebb283b31fde4f7517fe03da85e02036b4390c4f2a7ec45b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/140\/9-12.1792145066511.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "願……搖落"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "在他們身上"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "炭火"
+    },
+    {
+      "surface": "באש",
+      "gloss": "入火中"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "使他們墜落"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "入深坑"
+    },
+    {
+      "surface": "בל",
+      "gloss": "不再"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "起來"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:26.512049447Z",
+  "model": "glm-5.3"
+}

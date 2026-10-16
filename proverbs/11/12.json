@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חסר לב",
+      "rationale": "「缺乏心」：KJV\/ASV 將其重排為「缺乏智慧者藐視鄰舍」，JPS\/直譯路線保留語序「藐視鄰舍的缺乏心」；本譯採直譯語序。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לב／תבונות",
+      "rationale": "下半節的「明辨」（תבונות）回應上半節所缺乏的「心」（לב），對比在直譯中保留。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "חסר לב",
+      "rationale": "另一讀法視 חסר לב 為獨立感嘆——「愚昧無知啊！」——斥責藐視者。"
+    }
+  ],
+  "translation": "藐視鄰舍的，是心裡缺乏的人；惟有明辨事理的人緘默不言。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c2591d1095082e1534fecb189e0e25a977b1039b021e57a4fd1a969701d5f782",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/11\/12-12.1792149932371.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "藐視"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "鄰舍"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "缺乏"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "惟有人"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "明辨事理"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "緘默不言"
+    }
+  ],
+  "timestamp": "2026-10-16T11:25:32.371431252Z",
+  "model": "glm-5.3"
+}

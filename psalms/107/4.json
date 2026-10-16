@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דרך",
+      "rationale": "可作「在荒蕪之地的路上」（附屬於前一短語）或「無路可走」；和合本「行路」偏向前者，BSB「無路」偏向後者"
+    },
+    {
+      "kind": "elision",
+      "subject": "דרך",
+      "rationale": "「路」字在譯文中併入漂流意象，未單獨成句"
+    }
+  ],
+  "translation": "他們在曠野、在荒蕪之地漂流，尋不著可居住的城。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d9140e39ef3ab1a1c18ad99e6f9c6a87ba0ea4d72d4b275cb29a212149e09013",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/107\/1-4.1792144686797.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "漂流"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "在曠野"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "在荒蕪之地"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "可居住的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "尋著"
+    }
+  ],
+  "timestamp": "2026-10-16T09:58:06.798698143Z",
+  "model": "glm-5.3"
+}

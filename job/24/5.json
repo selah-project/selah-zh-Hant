@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 24:5",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他們如同",
+      "rationale": "中文需要明示比喻的主詞，希伯來文僅以「看哪」並列"
+    },
+    {
+      "kind": "crux",
+      "subject": "משחרי לטרף",
+      "rationale": "'清早尋找獵物'（KJV、直譯）與 '殷勤尋找食物'（JPS、ASV，改動母音）之別"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ערבה לו",
+      "rationale": "YLT 讀作 '為自己拾取'（動詞 ערב），多數譯本讀作名詞 '曠野（供給食物）'，此處從後者"
+    }
+  ],
+  "translation": "看哪，他們如同曠野中的野驢，出去作自己的工，清早起來尋找獵物；荒野供給⟨牠⟩食物，也供給孩子們食物。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e232cb5867ac4971a63b1b82420de3884f08160a1037c217156c8ec1608ad597",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/24\/5-8.1792146218240.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "野驢"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "在曠野"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "出去"
+    },
+    {
+      "surface": "בפעלם",
+      "gloss": "作自己的工"
+    },
+    {
+      "surface": "משחרי",
+      "gloss": "清早起來尋找"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "獵物"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "荒野"
+    },
+    {
+      "surface": "לו",
+      "gloss": "供給牠"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "食物"
+    },
+    {
+      "surface": "לנערים",
+      "gloss": "也供給孩子們"
+    }
+  ],
+  "timestamp": "2026-10-16T10:23:38.241078762Z",
+  "model": "glm-5.3"
+}

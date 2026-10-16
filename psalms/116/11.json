@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בחפזי",
+      "rationale": "「慌亂／急促」（KJV haste）與「驚惶」（Geneva fear）之別；字根意為突然倉皇"
+    },
+    {
+      "kind": "substitution",
+      "subject": "都是說謊的",
+      "rationale": "כזב為分詞「說謊者」，中文以判斷句呈現"
+    }
+  ],
+  "translation": "我在慌亂中說：所有的人都是說謊的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9f58a11b1cc15e365db798881c68fda07224e8dec0b6059f3be84b87af347ac0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/116\/9-12.1792144791713.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我說"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "在慌亂中"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "都是說謊的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:59:51.714315108Z",
+  "model": "glm-5.3"
+}

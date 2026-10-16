@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "האבות",
+      "rationale": "字面「水瓶般的嗚噥者」——從腹中發聲的亡魂巫師；「交鬼的」是傳統譯法，畫面失落。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הידענים",
+      "rationale": "字面「知曉者」，即通靈的巫師；譯「行巫術的」。"
+    },
+    {
+      "kind": "secret",
+      "subject": "necromancers",
+      "rationale": "本節為下文隱多珥招魂之事鋪路：掃羅自己除掉的人，正是他將要求問的人。"
+    }
+  ],
+  "translation": "那時撒母耳已經死了，以色列眾人為他哀悼，把他葬在拉瑪，就是他本城。掃羅曾從境內除掉交鬼的和行巫術的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "01b4ed8b808cd60963a2e881c7445ab5371f86cc1f2f6a8af384f184e9c2c419",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/28\/1-4.1792131536847.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死了"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "為他哀悼"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "把他葬"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "在拉瑪"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "在他的城"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "除掉"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "交鬼的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "行巫術的"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "行巫術的"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "從境內"
+    }
+  ],
+  "timestamp": "2026-10-16T06:18:56.848777020Z",
+  "model": "glm-5.3"
+}

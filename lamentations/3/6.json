@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "坐居",
+      "rationale": "הושיבני 字面是「使我坐下、使我省察」，譯作「使我住」是慣常的理解"
+    }
+  ],
+  "translation": "在幽暗之處他使我坐居，如同古時已死的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f108a9a6b76c3eec05168b7f33cbdfd9855c89b6c8b6bf536d5181bb7514c819",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/lamentations\/3\/5-8.1792146789242.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "在幽暗之處"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "他使我坐居"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "如同已死的人"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "古時"
+    }
+  ],
+  "timestamp": "2026-10-16T10:33:09.242949382Z",
+  "model": "glm-5.3"
+}

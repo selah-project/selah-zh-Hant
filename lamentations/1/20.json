@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 1:20",
+  "book": "lamentations",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מרו מריתי",
+      "rationale": "同一動詞 מרה 疊用，字面「苦啊，我犯了苦（悖逆）」；中文以「極其悖逆」失其苦味雙關"
+    },
+    {
+      "kind": "you",
+      "subject": "雅威",
+      "rationale": "直接向雅威呼求：「雅威啊，求你看」"
+    },
+    {
+      "kind": "invitation",
+      "subject": "求你看",
+      "rationale": "命令式呼求雅威觀看她的急難"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חמרמרו",
+      "rationale": "加強形動詞，僅見於此（哀1:20），義為「沸騰翻滾」"
+    }
+  ],
+  "translation": "雅威啊，求你看，因為我在急難之中；我的肺腑翻騰，我的心在我裡面翻轉，因我極其悖逆；在外刀劍使人喪子，在家中如死亡一般。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b6d838e68d376c7966ba354f7d79a3fc7ae665900c485c2290e6d0aed777290c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/lamentations\/1\/17-20.1792146782526.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "求你看"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威啊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "צר",
+      "gloss": "急難"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我在…之中"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "我的肺腑"
+    },
+    {
+      "surface": "חמרמרו",
+      "gloss": "翻騰"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "翻轉"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "在我裡面"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "極其"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "悖逆"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "在外"
+    },
+    {
+      "surface": "שכלה",
+      "gloss": "使人喪子"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "在家中"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "如死亡一般"
+    }
+  ],
+  "timestamp": "2026-10-16T10:33:02.528307107Z",
+  "model": "glm-5.3"
+}

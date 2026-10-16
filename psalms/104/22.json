@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨自己的⟩",
+      "rationale": "מעונתם的後綴「牠們的」在中文以括號補足"
+    },
+    {
+      "kind": "substitution",
+      "subject": "退去",
+      "rationale": "אסף本義「收取、聚集」，此處指獅子收聚退隱"
+    }
+  ],
+  "translation": "日頭一出，牠們就退去，臥在⟨自己的⟩洞穴中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9e7b141356948e4cd92bb06f6f5e2f705ad6ad6ab93b8c20b8b5a2a07d0ec7ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/104\/21-24.1792144559032.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "一出"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "牠們就退去"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "臥在"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "⟨自己的⟩洞穴中"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "（伏臥）"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:59.033629525Z",
+  "model": "glm-5.3"
+}

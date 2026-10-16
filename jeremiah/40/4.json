@@ -1,0 +1,203 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 40:4",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "對耶利米",
+      "rationale": "全節為護衛長對耶利米個人說話，命令式「去吧」「止住吧」。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אשים את עיני עליך",
+      "rationale": "字面「將我的眼放在你身上」，意即看顧；本譯保留字面形狀。"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "לבוא אתי 中的 אתי 是介詞「與我同」（H854），非受詞記號；按規定 gloss 帶 ⟨את⟩。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טוב／רע",
+      "rationale": "「好」與「不好」在兩個平行條件句中對稱重複，中文保留同一對詞。"
+    }
+  ],
+  "translation": "如今看哪，我今日從你手上的鏈子中鬆開了你。你眼中若看為好，要與⟨את⟩我同去巴比倫——就去吧，我必將⟨את⟩我的眼放在你身上；你眼中若看為不好，不要與⟨את⟩我同去巴比倫——就止住吧。看哪，全地都在你面前；哪裏好、哪裏正直、你眼中看為可去之處，你就往那裏去吧。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2993e0ab51f61cb0dc3a3f88bfd67816dab5bfc361ebb50e5595bb73f801e975",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/40\/1-4.1792137385768.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "如今"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "פתחתיך",
+      "gloss": "我鬆開了你"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "האזקים",
+      "gloss": "鏈子"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那些"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你手上"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "在你眼中"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "去"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "與⟨את⟩",
+      "marks": "我（與我同去）"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "בא",
+      "gloss": "去吧"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "我必放"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的眼"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的眼"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "在你身上"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "רע",
+      "gloss": "不好"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "在你眼中"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "去"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "與⟨את⟩",
+      "marks": "我（與我同去）"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "止住吧"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "在你面前"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "那好"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "和向"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "那正直"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "在你眼中"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "可去"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "往那裏"
+    },
+    {
+      "surface": "לך",
+      "gloss": "去吧"
+    }
+  ],
+  "timestamp": "2026-10-16T07:56:25.769631269Z",
+  "model": "glm-5.3"
+}

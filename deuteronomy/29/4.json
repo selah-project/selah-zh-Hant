@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "四十年",
+      "rationale": "曠野年數被明確計數"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בלו／בלתה",
+      "rationale": "同一動詞בלה「磨損」重複兩次（衣服、鞋子），中文以「穿破、穿壞」稍作變化"
+    },
+    {
+      "kind": "alternative",
+      "subject": "數人稱混用",
+      "rationale": "希伯來文在你們（複數）與你的腳（單數）之間切換，中文照原樣保留"
+    }
+  ],
+  "translation": "我領 ⟨את⟩ 你們在曠野四十年；你們的衣服沒有在你們身上穿破，你的鞋也沒有在你腳上穿壞。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5234afd9c2a388a948bad7267e80da4ae8c3539e81794b134202fd7ab9ddf88f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/29\/1-4.1792129230640.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "我領……行走"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ 你們",
+      "marks": "你們"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "在曠野"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "穿破"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "你們的衣服"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "在你們身上"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "和你的鞋"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "穿壞"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "在……之上"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "你的腳"
+    }
+  ],
+  "timestamp": "2026-10-16T05:40:30.642122538Z",
+  "model": "glm-5.3"
+}

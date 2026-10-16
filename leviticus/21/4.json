@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעל",
+      "rationale": "著名難題：「作丈夫的」（與第2-3節的婚姻親屬呼應，如 BSB）對比「作首領的」（如 KJV\/JPS，把 בעל 讀作「主人／首領」）"
+    },
+    {
+      "kind": "alternative",
+      "subject": "作首領的",
+      "rationale": "第二讀法：בעל 意為「主人、首領」，全句即「他身為百姓中的首領，不可為自己褻瀆」"
+    }
+  ],
+  "translation": "身為丈夫的，不可在他百姓中使自己沾染不潔，以致褻瀆自己。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a6508db9da17225b0f10434f35683c180c6502314d0992536520fa4b7174f560",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/21\/1-4.1792127177029.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "使自己沾染不潔"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "丈夫"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "在他百姓中"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "以致褻瀆自己"
+    }
+  ],
+  "timestamp": "2026-10-16T05:06:17.030296586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "示劍",
+      "rationale": "אשר טמא 的主語（示劍）由上下文補出，希伯來文未明寫。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "玷污",
+      "rationale": "טמא 是禮儀與道德上的不潔，非僅人身侵犯。"
+    }
+  ],
+  "translation": "雅各的眾子用詭詐回答 ⟨את⟩ 示劍和 ⟨את⟩ 他父親哈抹，他們說話，因為他玷污了 ⟨את⟩ 他們的妹子底拿。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "48ee8be64a6bfe91abe09221571ee01a9d29ea9e599cb0366df7dcfc714f1334",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/34\/13-16.1792125334067.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "回答"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的眾子"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "示劍"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "示劍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "哈抹"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "哈抹"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "他的父親"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "用詭詐"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "他們說話"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "因為"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "玷污了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "底拿"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "底拿"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "他們的妹子"
+    }
+  ],
+  "timestamp": "2026-10-16T04:35:34.067985930Z",
+  "model": "glm-5.3"
+}

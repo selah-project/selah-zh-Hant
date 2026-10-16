@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "出入",
+      "rationale": "צאתך是「你的出去」，日常一切的行動往來"
+    }
+  ],
+  "translation": "雅威必保守你的出入，你的進來，從今時直到永遠。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f95f567b911d2f62c715c4d81895daa8baa9c04b89ec0e0baea6fcc293a459b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/121\/5-8.1792144913157.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "必保守"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "你的出入"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "你的進來"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "從今時"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-10-16T10:01:53.160760937Z",
+  "model": "glm-5.3"
+}

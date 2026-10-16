@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 7:16",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא על",
+      "rationale": "'不歸向至高者'（עַל 解作『至高者』即神，KJV）與『不向上歸回』（JPS『不歸向上』）之爭。"
+    },
+    {
+      "kind": "crux",
+      "subject": "מזעם",
+      "gloss": "因…狂怒",
+      "rationale": "'他們舌頭的狂怒'（他們的褻瀆激怒神）或『我對他們舌頭的震怒』——屬誰的怒，譯本分歧。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "鬆弛詭詐的弓",
+      "rationale": "רְמִיָּה 字面是『懈怠／欺詐』；指瞄不準、不可靠的弓，喻叛離之心。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישובו／לא על",
+      "gloss": "",
+      "rationale": "שׁוּב（歸回）是何西阿書的鑰字，此處『歸回卻不歸向』構成尖銳反諷。"
+    }
+  ],
+  "translation": "他們歸回，卻不歸向⟨至高者⟩；他們如同鬆弛詭詐的弓。他們的首領必倒在刀下，因他們舌頭的狂怒——這是他們在埃及地所受的譏笑。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "36b6bf3e3c9a41ee248e1d0a4f99006557fc60b97cd978e05736890a9ee094ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/7\/13-16.1792139483252.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "他們歸回"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "על",
+      "gloss": "歸向"
+    },
+    {
+      "surface": "היו",
+      "gloss": "他們如同"
+    },
+    {
+      "surface": "כקשת",
+      "gloss": "弓"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "鬆弛詭詐"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "必倒"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "在刀下"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "他們的首領"
+    },
+    {
+      "surface": "מזעם",
+      "gloss": "因…狂怒"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "他們舌頭的"
+    },
+    {
+      "surface": "זו",
+      "gloss": "這"
+    },
+    {
+      "surface": "לעגם",
+      "gloss": "他們所受的譏笑"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    }
+  ],
+  "timestamp": "2026-10-16T08:31:23.253667520Z",
+  "model": "glm-5.3"
+}

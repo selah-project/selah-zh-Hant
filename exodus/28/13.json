@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 28:13",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משבצת",
+      "rationale": "歷代譯本作「鉤子／扣結／鑲座」：Wycliffe 與 KJV 作鉤，JPS、ASV 作鑲座；按詞義「網狀寶石座」，取鑲座。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "鑲座",
+      "rationale": "祭司服飾的工藝規格指示。"
+    },
+    {
+      "kind": "you",
+      "subject": "摩西",
+      "rationale": "命令式直接對摩西說話，指示亞倫聖衣的製作。"
+    }
+  ],
+  "translation": "你要用金子製作鑲座。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8af7dc851610b916a89b57dd3ef42c14ba9c1516a86a119b5e95285705d9b81f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/28\/13-16.1792126303332.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "你要製作"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "鑲座"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金子"
+    }
+  ],
+  "timestamp": "2026-10-16T04:51:43.332704022Z",
+  "model": "glm-5.3"
+}

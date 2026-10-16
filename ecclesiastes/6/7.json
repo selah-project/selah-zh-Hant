@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "胃口",
+      "rationale": "נפש是氣息、生命、食慾之力；此處指食慾，不是分離的「靈魂」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "口／胃口",
+      "rationale": "פה與נפש相近的音，口吃而自我不能滿，雙關在中文裡以「口／胃口」局部保留"
+    }
+  ],
+  "translation": "人一切的勞碌都是為了他的口，然而胃口仍不得滿足。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e25dd4707c12d39be825e519c7342db0a22f56572462426e3cdb4b54ed67138c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/6\/5-8.1792147054158.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "一切的"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "勞碌"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "為了他的口"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "然而也"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "胃口"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "得滿足"
+    }
+  ],
+  "timestamp": "2026-10-16T10:37:34.159271555Z",
+  "model": "glm-5.3"
+}

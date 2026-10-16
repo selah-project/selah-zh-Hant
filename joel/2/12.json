@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joel 2:12",
+  "book": "joel",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "向以色列",
+      "rationale": "雅威親口的命令式呼籲：「你們要歸回」，緊接可畏的日子宣告之後。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נאם יהוה",
+      "rationale": "按紀律譯「雅威說」而非傳統的「這是耶和華說的」。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "וגם עתה",
+      "rationale": "字面「而也現在」＝「然而現在還來得及」；審判宣告之後的反轉。"
+    }
+  ],
+  "translation": "然而現在——雅威說——你們要歸回，歸向我，以你們全心，以禁食、以哭泣、以哀號。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "eeeb14485d6d9c10b1dd5a1d016b40b8cd5b1d92a1118722b4577f0d45b13424",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joel\/2\/9-12.1792139660053.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "然而"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "現在"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "……說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "你們要歸回"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "歸向我"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "以全"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "你們的心"
+    },
+    {
+      "surface": "ובצום",
+      "gloss": "以禁食"
+    },
+    {
+      "surface": "ובבכי",
+      "gloss": "以哭泣"
+    },
+    {
+      "surface": "ובמספד",
+      "gloss": "以哀號"
+    }
+  ],
+  "timestamp": "2026-10-16T08:34:20.054635925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "擊敗",
+      "rationale": "נכה 字面為「擊打」，此處指擊敗殺死。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשתרת",
+      "rationale": "亞斯他錄既是地名也是異邦女神名，雙關。"
+    }
+  ],
+  "translation": "這是在他擊敗了⟨את⟩亞摩利王西宏——他住在希實本——以及⟨את⟩巴珊王噩——他住在亞斯他錄的以得來——之後。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a8c2bae1956fabfe82fb80128922c19d592e677d1ef73d14a1a50877c7fea901",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/1\/1-4.1792128514587.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "在……之後"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "他擊敗了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞摩利王西宏"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "西宏"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "亞摩利"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "他"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "住在"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "在希實本"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "巴珊王噩"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "噩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "巴珊"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "他"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "住在"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "在亞斯他錄"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "在以得來"
+    }
+  ],
+  "timestamp": "2026-10-16T05:28:34.588657452Z",
+  "model": "glm-5.3"
+}

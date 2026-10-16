@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 4:3",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "它",
+      "rationale": "ויבא 主詞未明言，中文需補「它」（指約櫃）"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列的長老",
+      "rationale": "長老的商議發言，彼此對說的問句與提議"
+    },
+    {
+      "kind": "substitution",
+      "subject": "脫離仇敵的手",
+      "rationale": "מכף 字面是「從手掌」，כף 指掌心，喻敵人的掌控"
+    }
+  ],
+  "translation": "百姓回到營中，以色列的長老說：「雅威今日為何在非利士人面前擊敗我們？我們從示羅把⟨את⟩雅威約的櫃抬到我們這裡來吧，讓它進入我們中間，拯救我們脫離仇敵的手。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b1811a1e6475bbe0c29eb0b3b344ba97a30b90b15e387ca7e8a2292698d266ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/4\/1-4.1792130850496.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "營中"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "說"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "長老"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "למה",
+      "gloss": "為何"
+    },
+    {
+      "surface": "נגפנו",
+      "gloss": "擊敗我們"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在……面前"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "נקחה",
+      "gloss": "我們抬來吧"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "到我們這裡"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "從示羅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威約的櫃"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "櫃"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "進入"
+    },
+    {
+      "surface": "בקרבנו",
+      "gloss": "我們中間"
+    },
+    {
+      "surface": "וישענו",
+      "gloss": "拯救我們"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "脫離……的手"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "我們的仇敵"
+    }
+  ],
+  "timestamp": "2026-10-16T06:07:30.497436577Z",
+  "model": "glm-5.3"
+}

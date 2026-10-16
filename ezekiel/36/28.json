@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 36:28",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "那",
+      "rationale": "中文關係句需指示詞，希伯來文的關係詞אשר非冠詞"
+    },
+    {
+      "kind": "crux",
+      "subject": "我也要作你們的以羅欣",
+      "rationale": "ואנכי אהיה 的強勢語序——「至於我，我必作」——並且 אהיה 呼應出埃及記3:14的「我是」；譯文以「我也要作」保留其強調"
+    }
+  ],
+  "translation": "你們必住在我賜給你們列祖的那地上；你們要作我的子民，我也要作你們的以羅欣（神）。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "22db0b8bccbc122b1d89bc6e901f67801c334f3439afc9c5dbe9e05d56ee79a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/36\/25-28.1792138953089.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבתם",
+      "gloss": "你們必住在"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在那地上"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那…的"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我賜給"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "你們列祖"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "你們要作"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我的"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "子民"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "我也要作"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "…作"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "你們的"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "以羅欣（神）"
+    }
+  ],
+  "timestamp": "2026-10-16T08:22:33.090979475Z",
+  "model": "glm-5.3"
+}

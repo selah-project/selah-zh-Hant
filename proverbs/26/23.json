@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כסף סיגים",
+      "rationale": "有抄本作「如銀釉」（כסף צרופות），BSB 取「釉」；馬所拉文本「銀渣」——漂亮的表層蓋住劣質的坯"
+    },
+    {
+      "kind": "addition",
+      "subject": "加上",
+      "rationale": "原文後半句是名詞短語並列（火燒的嘴唇＋邪惡的心），中文加動詞「加上」以成句"
+    }
+  ],
+  "translation": "銀渣鍍在瓦器上——如火燒的嘴唇加上邪惡的心。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8edf0b5fc6bdf771a940ca5dc3b8345ef3b7ca2293e1821674b1f63a9620c58a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/26\/21-24.1792145637172.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "渣"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "鍍"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "瓦器"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "嘴唇"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "如火燒的"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "加上心"
+    },
+    {
+      "surface": "רע",
+      "gloss": "邪惡的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:13:57.173519955Z",
+  "model": "glm-5.3"
+}

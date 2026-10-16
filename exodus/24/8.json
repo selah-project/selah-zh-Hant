@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 24:8",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "立約",
+      "rationale": "כרת字面是「切」，希伯來「切約」即立約；中文無此慣用語，譯作「立」"
+    },
+    {
+      "kind": "addition",
+      "subject": "這是",
+      "rationale": "希伯來文無繫詞，中文需「這是」連接「看哪」與「立約的血」"
+    }
+  ],
+  "translation": "摩西取了 ⟨את⟩ 血，灑在百姓身上，說：「看哪，這是立約的血，是雅威按這一切話與你們所立的。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "22a3052ee3f3567c28faa99eb03be029a34293926c7209b9edd06eb62f17fc57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/24\/5-8.1792126171701.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "取了"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "血"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "灑"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "約的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所立的"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "立（原文：切）"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "與你們"
+    },
+    {
+      "surface": "על",
+      "gloss": "按"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "話"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    }
+  ],
+  "timestamp": "2026-10-16T04:49:31.703358355Z",
+  "model": "glm-5.3"
+}

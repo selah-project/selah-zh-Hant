@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 16:3",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "向西\/向海",
+      "rationale": "ימה 字面為「向海」，地中海在西，故作方位「西」；形狀仍含「海」。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "終點",
+      "rationale": "תוצאת 為邊界「出口／終點」的測量用語。"
+    }
+  ],
+  "translation": "又向西下到雅弗列人〈的〉邊界，直到下伯和崙的邊界，直〈到〉基色，其〈終點〉通到海〈邊〉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5f31944a0008ab8d63a520be34c96a0693c2688f800e1743a12e8627e0675167",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/16\/1-4.1792129813354.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "又下到"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "向西"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "邊界"
+    },
+    {
+      "surface": "היפלטי",
+      "gloss": "雅弗列人"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "邊界"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "和崙"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "下"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "又直到"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "基色"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "其……是"
+    },
+    {
+      "surface": "תצאתו",
+      "gloss": "終點"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "向海（西）"
+    }
+  ],
+  "timestamp": "2026-10-16T05:50:13.354923301Z",
+  "model": "glm-5.3"
+}

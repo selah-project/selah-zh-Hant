@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "敬拜者",
+      "rationale": "四個連續命令式：進入、進入、稱謝、頌讚"
+    },
+    {
+      "kind": "elision",
+      "subject": "באו（第二次）",
+      "rationale": "第二句的動詞由第一個「進入」承擔，中文不再重複"
+    }
+  ],
+  "translation": "要帶著感恩進入他的門，帶著讚美進入他的院宇；要稱謝他，要頌讚他的名。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "35d5e1f7dad9795984e0e28cdd4f74ce6799c74303717d8415c0327079276727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/100\/1-4.1792144607535.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "進入"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "他的門"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "帶著感恩"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "他的院宇"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "帶著讚美"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "稱謝"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "頌讚"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "他的名"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:47.536707111Z",
+  "model": "glm-5.3"
+}

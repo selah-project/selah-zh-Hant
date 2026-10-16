@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מחבריך",
+      "rationale": "מן 可讀作「從你的同伴〈而來的油〉」或比較式「勝過你的同伴」（KJV 等）；本譯取比較式。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלהים／אלהיך",
+      "rationale": "「以羅欣——你的以羅欣」重疊，呼應 45:7 的呼格爭議：受膏者是王，膏他的也是以羅欣。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "喜樂的油",
+      "rationale": "שמן ששון 直譯「歡欣喜樂之油」，膏立與慶典的意象，中文以偏正結構保留。"
+    }
+  ],
+  "translation": "你愛公義，恨惡邪惡；因此，以羅欣——你的以羅欣——用喜樂的油膏你，勝過你的同伴。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/45\/5-8.1792143868984.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "你愛"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "恨惡"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "邪惡"
+    },
+    {
+      "surface": "על",
+      "gloss": "因此"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨緣故⟩"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "膏你"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "喜樂"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "勝過你的同伴"
+    }
+  ],
+  "timestamp": "2026-10-16T09:44:28.985978551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 12:25",
+  "book": "nehemiah",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "באספי",
+      "rationale": "歷代譯本分歧：門檻（KJV）、府庫（ASV\/JPS）、聚集處（YLT）；本譯取「聚集處」。"
+    },
+    {
+      "kind": "elision",
+      "subject": "שוערים שמרים",
+      "rationale": "「守門者看守」重疊結構，中文以名單加說明句式處理。"
+    }
+  ],
+  "translation": "瑪他尼、巴谷比雅、俄巴底亞、米書蘭、押們、亞谷，這些是守門者，按班次看守 ⟨את⟩ 各門的聚集處。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "95edadf341d635cf84e62e871b2cf745a0eb457d77633ee0237e6d4e01d8889c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nehemiah\/12\/25-28.1792148241858.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "瑪他尼"
+    },
+    {
+      "surface": "ובקבקיה",
+      "gloss": "巴谷比雅"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "俄巴底亞"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "米書蘭"
+    },
+    {
+      "surface": "טלמון",
+      "gloss": "押們"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "亞谷"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "看守"
+    },
+    {
+      "surface": "שוערים",
+      "gloss": "守門者"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "按班次"
+    },
+    {
+      "surface": "באספי",
+      "gloss": "聚集處"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "各門"
+    }
+  ],
+  "timestamp": "2026-10-16T10:57:21.859029619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 51:30",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "枯竭",
+      "rationale": "נשתה字面是「乾涸」，力量如水乾枯"
+    },
+    {
+      "kind": "idiom",
+      "subject": "變得像女人一樣",
+      "rationale": "希伯來習語，指戰士喪膽失去勇氣，非指性別"
+    },
+    {
+      "kind": "addition",
+      "subject": "被火",
+      "rationale": "「被焚燒」原文無「火」字，下節才有באש；中文語法補出"
+    }
+  ],
+  "translation": "巴比倫的勇士停止爭戰，他們坐在堡壘裡；他們的力量枯竭，變得像女人一樣。她的住所被火焚燒，她的門閂被折斷。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9e0667be2e372106fceaa9511c9b2d67c41ceb4e6d858c853189623e6083a484",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/51\/29-32.1792137755789.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "停止"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "爭戰"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "坐"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "在堡壘裡"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "枯竭"
+    },
+    {
+      "surface": "גבורתם",
+      "gloss": "他們的力量"
+    },
+    {
+      "surface": "היו",
+      "gloss": "變得"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "像女人一樣"
+    },
+    {
+      "surface": "הציתו",
+      "gloss": "被焚燒"
+    },
+    {
+      "surface": "משכנתיה",
+      "gloss": "她的住所"
+    },
+    {
+      "surface": "נשברו",
+      "gloss": "被折斷"
+    },
+    {
+      "surface": "בריחיה",
+      "gloss": "她的門閂"
+    }
+  ],
+  "timestamp": "2026-10-16T08:02:35.789751118Z",
+  "model": "glm-5.3"
+}

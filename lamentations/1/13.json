@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 1:13",
+  "book": "lamentations",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "患病",
+      "rationale": "דוה 專指月經的不潔與軟弱（利 20:18），「患病」取其弱態而失其具體意象"
+    },
+    {
+      "kind": "addition",
+      "subject": "火",
+      "rationale": "「火就制服了它」的「火」為使句子通順而補出，希伯來文動詞 וירדנה 的主語隱含"
+    },
+    {
+      "kind": "crux",
+      "subject": "它制服了它",
+      "rationale": "וירדנה 受詞為陰性單數，各譯本或作「火」（陰性）制服骨頭，或作「他使我屈服」"
+    }
+  ],
+  "translation": "他從高處降火入我的骨頭，火就制服了它；他為我的腳張開網羅，使我轉身退後；他使我終日荒涼患病。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2a9503cc05034d0f9c2404080a9adf1b4e12f4c546ee3ad2033a04e5bb4de7ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/lamentations\/1\/13-16.1792146801957.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממרום",
+      "gloss": "從高處"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "降下"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "בעצמתי",
+      "gloss": "入我的骨頭"
+    },
+    {
+      "surface": "וירדנה",
+      "gloss": "它就制服了"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "張開"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "網羅"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "為我的腳"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "使我轉回"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "向後"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "他使我"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "荒涼"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "患病"
+    }
+  ],
+  "timestamp": "2026-10-16T10:33:21.958003586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "年輕人",
+      "rationale": "הילדים 字面是「孩童、少年」，此處指與羅波安同輩、一同長大的人"
+    },
+    {
+      "kind": "addition",
+      "subject": "卻、轉而",
+      "rationale": "中文敘事需轉折詞表達對比，希伯來文僅用連接詞 ו"
+    }
+  ],
+  "translation": "他卻離棄了 ⟨את⟩ 長老們所給他的主意，轉而與那些和他一同長大、侍立在他面前的年輕人商議。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bec773b208767d994b14450efce18e9a908effb92f59607874bc9bb4fa523a44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/10\/5-8.1792149293655.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "他離棄了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "長老們的主意"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "……的主意"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "長老們"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那些"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "給他的"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "他與……商議"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "年輕人"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "年輕人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那些"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "長大"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ 與他"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "侍立的"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "在他面前"
+    }
+  ],
+  "timestamp": "2026-10-16T11:14:53.656196546Z",
+  "model": "glm-5.3"
+}

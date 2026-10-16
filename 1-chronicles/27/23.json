@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 27:23",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נשא",
+      "rationale": "字面為「舉起、收取」，此處指登記人數"
+    },
+    {
+      "kind": "measurement",
+      "subject": "人口統計",
+      "rationale": "數人、年齡下限二十歲、如星的數量——全節皆是計數"
+    },
+    {
+      "kind": "addition",
+      "subject": "都沒有計算",
+      "rationale": "希伯來文僅說「從二十歲以下」，中文補出統計範圍之意"
+    }
+  ],
+  "translation": "大衛沒有統計他們的數目，從二十歲以下的都沒有計算，因為雅威說過，要使以色列增多，如同天上的星。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d44c3f86e2255064eabe4b207ef8a3bce6b027e08e559ae62aae922be2758b12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/27\/21-24.1792149035717.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "統計"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "他們的數目"
+    },
+    {
+      "surface": "למבן",
+      "gloss": "從……歲"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "ולמטה",
+      "gloss": "以下"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說過"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "要使……增多"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "如同……的星"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天上的"
+    }
+  ],
+  "timestamp": "2026-10-16T11:10:35.718627151Z",
+  "model": "glm-5.3"
+}

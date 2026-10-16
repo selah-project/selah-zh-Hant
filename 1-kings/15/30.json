@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חטא／החטיא",
+      "rationale": "『犯罪』與『使人犯罪』同根動詞的疊用，中文以『所犯、又使……陷入』保留其重複"
+    },
+    {
+      "kind": "substitution",
+      "subject": "氣息",
+      "rationale": "כעס 本義是怒氣／激怒，和合本譯『惹動』，此處直譯為惹怒"
+    }
+  ],
+  "translation": "這是因耶羅波安所犯、又使以色列陷入的罪，並因他以惹動怒氣惹了以色列的以羅欣雅威。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "af75ddac257919acf2995c6294cf714d52f54733920620d819af96331caa0b64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/15\/29-32.1792133150903.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "因"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "罪"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "耶羅波安"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "犯（罪）"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "又"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "使……陷入罪"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "以他的惹怒"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "惹怒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的以羅欣雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "……的以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T06:45:50.904102444Z",
+  "model": "glm-5.3"
+}

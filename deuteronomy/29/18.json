@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 29:18",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "התברך",
+      "rationale": "字面是「祝福自己」，即自我安慰地自祝平安；譯「自誇」以存其反諷"
+    },
+    {
+      "kind": "crux",
+      "subject": "濕潤的被連同乾渴的一同掃除",
+      "rationale": "ספות הרוה את הצמאה：和合本作「使滋潤的與乾渴的一同滅亡」；KJV誤作「醉酒加上渴」；意為無辜者與有罪者一同被除滅"
+    },
+    {
+      "kind": "elision",
+      "subject": "第二個את",
+      "rationale": "此את為介詞「與、連同」（非受詞記號），中文以「連同」譯出"
+    }
+  ],
+  "translation": "當他聽見 ⟨את⟩ 這咒詛的話語時，他心裡自誇說：「我必有平安，雖然我憑心裡的頑梗而行」——以致濕潤的要連同 ⟨את⟩ 乾渴的一同被掃除。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9aca2e4fe966082c9a08f4d4d4a4948f7ab076ca1310842f6f8d5ef18b5d7e9f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/29\/17-20.1792129270770.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "當…時"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "他聽見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這咒詛的話語"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "話語"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "咒詛的"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "והתברך",
+      "gloss": "自誇"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "在他心裡"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "必有"
+    },
+    {
+      "surface": "לי",
+      "gloss": "給我"
+    },
+    {
+      "surface": "כי",
+      "gloss": "雖然"
+    },
+    {
+      "surface": "בשררות",
+      "gloss": "憑…的頑梗"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "而行"
+    },
+    {
+      "surface": "למען",
+      "gloss": "以致"
+    },
+    {
+      "surface": "ספות",
+      "gloss": "被掃除"
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "濕潤的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "連同乾渴的"
+    },
+    {
+      "surface": "הצמאה",
+      "gloss": "乾渴的"
+    }
+  ],
+  "timestamp": "2026-10-16T05:41:10.771663904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 7:33",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חשק／חשר",
+      "rationale": "輻條（חשק）與輪轂（חשר）在塔納赫中幾乎僅見於此處的輪子描述，詞義靠上下文推定"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ידותם",
+      "rationale": "字面為「它們的手」，指輪的軸架；各英譯本取『軸』（axletrees）之義"
+    }
+  ],
+  "translation": "輪子的做法如同戰車之輪的做法：它們的軸架、輪輞、輻條和輪轂，全都是鑄成的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "340cb0d766be05c5ab741643c4c89ae5d27070f46f62e296166667903e3186b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/7\/33-36.1792132647447.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומעשה",
+      "gloss": "做法"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "輪子"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "如同……的做法"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "輪"
+    },
+    {
+      "surface": "המרכבה",
+      "gloss": "戰車"
+    },
+    {
+      "surface": "ידותם",
+      "gloss": "它們的軸架"
+    },
+    {
+      "surface": "וגביהם",
+      "gloss": "和它們的輪輞"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "和它們的輻條"
+    },
+    {
+      "surface": "וחשריהם",
+      "gloss": "和它們的輪轂"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "鑄成的"
+    }
+  ],
+  "timestamp": "2026-10-16T06:37:27.448593346Z",
+  "model": "glm-5.3"
+}

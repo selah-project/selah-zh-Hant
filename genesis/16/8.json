@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 16:8",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "希伯來文「從……的面」是慣用語，意為「從……面前逃走」，非字面的臉。"
+    },
+    {
+      "kind": "you",
+      "subject": "使者對夏甲說",
+      "rationale": "使者直接稱名並以兩個問題詢問夏甲。"
+    },
+    {
+      "kind": "crux",
+      "subject": "夏甲只答一問",
+      "rationale": "使者問兩件事（從哪來、往哪去），夏甲只回答來處——她的去向懸而未答，為第9節的吩咐留地步。"
+    }
+  ],
+  "translation": "他說：「撒萊的使女夏甲啊，你從哪裏來？要往哪裏去？」她說：「我從我主母撒萊面前逃走。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "73132e5a38ec914800d77d7a654fe5de9d64668276b8ddd1bb6e8ab52e956b87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/16\/5-8.1792124884485.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "夏甲"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "使女"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "撒萊"
+    },
+    {
+      "surface": "אי",
+      "gloss": "哪裏"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "從這"
+    },
+    {
+      "surface": "באת",
+      "gloss": "你來"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "往哪裏"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "你去"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "她說"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "從……面前"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "撒萊"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "我的主母"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "ברחת",
+      "gloss": "逃走"
+    }
+  ],
+  "timestamp": "2026-10-16T04:28:04.486620384Z",
+  "model": "glm-5.3"
+}

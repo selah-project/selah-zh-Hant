@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 102:21",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "眾",
+      "rationale": "בני 為複數，中文以「眾」標明"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בני תמותה",
+      "rationale": "「死亡之子」是希伯來閃語成語，意為被判死之人；中文保留字面結構"
+    }
+  ],
+  "translation": "為要聽見被囚之人的哀號，為要釋放死亡之⟨眾⟩子，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1a911999b1db84bce8f509248ec33996601627511da2e7176016adf9601d03eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/102\/21-24.1792144560076.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "為要聽見"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "哀號"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "被囚之人"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "為要釋放"
+    },
+    {
+      "surface": "בני",
+      "gloss": "之⟨眾⟩子"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "死亡"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:00.076953725Z",
+  "model": "glm-5.3"
+}

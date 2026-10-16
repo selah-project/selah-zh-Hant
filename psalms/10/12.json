@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "求告",
+      "rationale": "詩人向雅威發出三重呼求（起來、高舉手、不忘記），直接翻轉第11節惡人的斷言。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שכח",
+      "rationale": "第11節惡人說「伊勒已忘記」，此節詩人求「不要忘記」——同一動詞正反對峙。"
+    }
+  ],
+  "translation": "雅威啊，求你起來！伊勒啊，求你高舉你的手，不要忘記貧寒人！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "69f62e88b52dde268b8a777f9383ad20cf58fde3d420c1357272749c9bc674a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/10\/9-12.1792143338473.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "求你起來"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "求你高舉"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "忘記"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "貧寒人"
+    }
+  ],
+  "timestamp": "2026-10-16T09:35:38.474899707Z",
+  "model": "glm-5.3"
+}

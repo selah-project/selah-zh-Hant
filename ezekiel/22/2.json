@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "התשפט התשפט",
+      "rationale": "動詞重複加強語氣：『你要審判嗎？你要審判嗎？』，中文保留重複。"
+    },
+    {
+      "kind": "you",
+      "subject": "人子",
+      "rationale": "對以西結的直接稱呼。"
+    },
+    {
+      "kind": "invitation",
+      "subject": "你要審判嗎",
+      "rationale": "以問句召喚先知行動。"
+    }
+  ],
+  "translation": "你，人子啊，你要審判嗎？你要審判 ⟨את⟩ 這流人血的城嗎？你要使她知道她一切可憎的事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "caaeceabb955c9fd16874b382a560f69e7f318886fa409e44eb99f4d03df040c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/22\/1-4.1792138458030.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "你要審判嗎"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "你要審判嗎"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "流人血的城"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "流人血的"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "你要使她知道"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "她一切可憎的事"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "可憎的事"
+    }
+  ],
+  "timestamp": "2026-10-16T08:14:18.030915349Z",
+  "model": "glm-5.3"
+}

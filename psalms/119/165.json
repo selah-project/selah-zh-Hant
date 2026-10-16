@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "平安",
+      "rationale": "שלום 是完整、安康之意，非僅平靜"
+    },
+    {
+      "kind": "alternative",
+      "subject": "絆腳之處",
+      "rationale": "KJV 譯「冒犯」（nothing shall offend them），原文是絆跌的障礙物"
+    }
+  ],
+  "translation": "愛你妥拉的人有大平安，他們沒有絆腳之處。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c402f04e34d7358455eb2e7a20b694f363265af7a05473592faf51ea6042ce07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/165-168.1792144897719.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "愛……的人"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "你的妥拉"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "למו",
+      "gloss": "他們"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "絆腳之處"
+    }
+  ],
+  "timestamp": "2026-10-16T10:01:37.719944563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צמים",
+      "rationale": "此詞可作「口渴者」（如 BSB）或「網羅、陷坑」（如 KJV\/ASV 的 snare），兩讀並存"
+    },
+    {
+      "kind": "crux",
+      "subject": "ושאף",
+      "rationale": "可讀作「喘息吞飲」（口渴者）或「吞吃」（搶奪者），牽動上半節主語"
+    }
+  ],
+  "translation": "他的收成，飢餓的人吃了，連荊棘籬內的也被取去；口渴的人吞盡他們的財富。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cd89e6dfbe519c368bfbd48065e8c136443ef44df7eef1d231aaca536fde33cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/5\/5-8.1792145804994.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "他的（關係詞，指前述之人）"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "收成"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "飢餓的人"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "吃了"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "連……之內"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "荊棘籬"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "被取去"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "吞盡（急切吸入）"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "口渴的人"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "他們的財富"
+    }
+  ],
+  "timestamp": "2026-10-16T10:16:44.995552507Z",
+  "model": "glm-5.3"
+}

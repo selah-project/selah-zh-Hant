@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文需「是」連接同位語"
+    },
+    {
+      "kind": "addition",
+      "subject": "兒女",
+      "rationale": "ילדה 未指明物件，中文補「兒女」以成句"
+    }
+  ],
+  "translation": "撒萊是亞伯蘭的妻子，沒有給他生兒女；她有一個使女，是埃及人，名叫夏甲。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "813a5638abccfd29b184ac90cd4ab92f1c74d575e87b148b519fddf9b8970ee2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/16\/1-4.1792124870008.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "撒萊"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "妻子"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "亞伯蘭"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "生"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給他"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "她有"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "使女"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "埃及人"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "她的名"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "夏甲"
+    }
+  ],
+  "timestamp": "2026-10-16T04:27:50.008707043Z",
+  "model": "glm-5.3"
+}

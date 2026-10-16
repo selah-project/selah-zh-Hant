@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מיץ…מיץ…מיץ",
+      "rationale": "「擠壓」一詞三疊，與 אף／אפים（鼻子／怒氣，同一詞元的複數形兼指怒氣）構成三重平行的雙關，中文無法完全保留其諧音。"
+    },
+    {
+      "kind": "crux",
+      "subject": "מיץ אף",
+      "rationale": "「擠壓鼻子」或譯「扭鼻子」（和合本），亦有古譯本作「激怒人」；此處取字面身體意象。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "怒氣",
+      "rationale": "אפים 字面是「鼻孔」（雙數形），聖經常以鼻孔的喘息轉指怒氣。"
+    }
+  ],
+  "translation": "因為擠壓奶必帶出奶酪，擠壓鼻子必帶出血，擠壓怒氣必帶出爭鬥。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6d89eb614c47a3fa7d9ffde71e9bdbba190543e4c9075d866d25fd3f0e1f0ce7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/30\/33-33.1792145659723.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "擠壓"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "奶"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "必帶出"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "奶酪"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "擠壓"
+    },
+    {
+      "surface": "אף",
+      "gloss": "鼻子"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "必帶出"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "擠壓"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "怒氣"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "必帶出"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "爭鬥"
+    }
+  ],
+  "timestamp": "2026-10-16T10:14:19.724293987Z",
+  "model": "glm-5.3"
+}

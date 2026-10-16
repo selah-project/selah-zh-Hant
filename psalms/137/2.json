@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "柳樹",
+      "rationale": "ערבים 或指「楊樹」（poplar，如創 21:33 的 Eshel）；「柳樹」是傳統譯法。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "三複數詞尾 -ינו",
+      "rationale": "בתוכה־תלינו־כנרותינו 連續的「我們」字尾，密集的第一人稱複數，中文無法複現。"
+    }
+  ],
+  "translation": "在其中的柳樹上，我們掛起了我們的琴。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ce36d50039fdf1fc6c27c88277065f64b17c04f36f23e10cbebd30cc5ed73f39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/137\/2-3.1792149963191.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "柳樹"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "在其中的"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "我們掛起了"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "我們的琴"
+    }
+  ],
+  "timestamp": "2026-10-16T11:26:03.192238097Z",
+  "model": "glm-5.3"
+}

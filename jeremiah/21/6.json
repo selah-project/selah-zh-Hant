@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גדול",
+      "rationale": "גדול 連續出現於第5節（大憤恨）與第6節（大瘟疫），同一形容詞將雅威的怒與其擊打相連。"
+    }
+  ],
+  "translation": "我必擊打這城的居民，⟨את⟩ 人和 ⟨את⟩ 牲畜；他們必因大瘟疫死亡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5b3f0ecb90ef1b954a288709759eeeb7054788ef07c5c50828f60b5ff86e1588",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/21\/5-8.1792136718426.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "我必擊打"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這城的居民"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "這城"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "人"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "牲畜"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "因瘟疫"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大的"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "必死亡"
+    }
+  ],
+  "timestamp": "2026-10-16T07:45:18.427624647Z",
+  "model": "glm-5.3"
+}

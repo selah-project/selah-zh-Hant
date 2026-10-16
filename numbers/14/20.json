@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 14:20",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "冒號引號",
+      "rationale": "中文直接引語需標點，希伯來文無引號"
+    }
+  ],
+  "translation": "雅威說：「我已經照你的話赦免了。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2cce4de3c1b32089776949657e78a9c37a62a7ae462fef08a74f322c9262cfee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/14\/17-20.1792127776720.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "סלחתי",
+      "gloss": "我已經赦免了"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "照你的話"
+    }
+  ],
+  "timestamp": "2026-10-16T05:16:16.721855871Z",
+  "model": "glm-5.3"
+}

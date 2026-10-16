@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 9:16",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "גם כי「即使」已含假設語氣，單獨的כי不再另譯。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בלי יעשון",
+      "rationale": "字面「不再結果子」，דלי יעשון的בלי作否定副詞，譯為「不能不能再」之否定。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שרשם יבש",
+      "rationale": "根乾枯回應第13節「栽種在佳美之處」的園藝意象，形成上下文的意象鏈。"
+    }
+  ],
+  "translation": "以法蓮被擊打，他們的根已經乾枯，必不能再結果子；即使他們生養，我也必殺他們腹中最珍愛的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f6243b485cf7bec4dc7695fe6fadca4abcc53382ac49bec8bccc0ae4a6405495",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/9\/13-16.1792139501092.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "被擊打"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "שרשם",
+      "gloss": "他們的根"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "已經乾枯"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "果子"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "不能再"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "結"
+    },
+    {
+      "surface": "גם",
+      "gloss": "即使"
+    },
+    {
+      "surface": "כי",
+      "gloss": "……（假設連詞，融入句中）"
+    },
+    {
+      "surface": "ילדון",
+      "gloss": "他們生養"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "我也必殺"
+    },
+    {
+      "surface": "מחמדי",
+      "gloss": "最珍愛的"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "他們腹中的"
+    }
+  ],
+  "timestamp": "2026-10-16T08:31:41.094005835Z",
+  "model": "glm-5.3"
+}

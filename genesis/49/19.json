@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 49:19",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גד\/גדוד\/יגוד",
+      "rationale": "迦得（Gad）、軍隊（gedud）、侵襲（yegudennu）三詞同根疊音，中文無法保留。"
+    },
+    {
+      "kind": "crux",
+      "subject": "עקב",
+      "rationale": "「腳跟／後隊」雙關：或指攻擊敵人後隊（和合本「追逼他們的腳跟」），或指「至終」得勝。"
+    }
+  ],
+  "translation": "迦得必被軍隊侵襲，他卻要侵襲他們的後隊。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "394052f12e7256459a5792e01727123053fc11bc1f1ed9e9fb100af42b2b85db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/49\/17-20.1792125663732.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גד",
+      "gloss": "迦得"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "軍隊"
+    },
+    {
+      "surface": "יגודנו",
+      "gloss": "必侵襲他"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "他卻"
+    },
+    {
+      "surface": "יגד",
+      "gloss": "要侵襲"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "後隊"
+    }
+  ],
+  "timestamp": "2026-10-16T04:41:03.733817941Z",
+  "model": "glm-5.3"
+}

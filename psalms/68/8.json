@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "細拉",
+      "rationale": "סלה 為音樂記號（休止／抬升），音譯為「細拉」，不譯義。"
+    },
+    {
+      "kind": "you",
+      "subject": "向以羅欣",
+      "rationale": "本節直接向以羅欣呼喚，回顧出埃及的曠野行進。"
+    }
+  ],
+  "translation": "以羅欣啊，你出去在 你百姓 面前的時候，你踏行穿越曠野之時——細拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d0d34de8574f5ca09af12f3c917fe14629431bc70132e977351d89f717c99169",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/68\/5-8.1792144062821.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣啊"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "你出去的時候"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在……面前"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你百姓"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "你踏行之時"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "穿越曠野"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-10-16T09:47:42.822947805Z",
+  "model": "glm-5.3"
+}

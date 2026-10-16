@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，בער 作名詞謂語需加「是」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהב…אהב",
+      "rationale": "「喜愛」重複兩次，平行結構"
+    }
+  ],
+  "translation": "喜愛管教的，喜愛知識；恨惡責備的，是愚頑人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0638d996d48731068fb7026737d18735acaf4c13abd6173197b0aa539974cd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/12\/1-4.1792145379853.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "喜愛"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "管教"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "喜愛"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "恨惡"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "責備"
+    },
+    {
+      "surface": "בער",
+      "gloss": "是愚頑人"
+    }
+  ],
+  "timestamp": "2026-10-16T10:09:39.853582025Z",
+  "model": "glm-5.3"
+}

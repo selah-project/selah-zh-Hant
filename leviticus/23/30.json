@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 23:30",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "人",
+      "rationale": "נפש 此處指人，非抽象的靈魂"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "延續上節對以色列的禁令與後果"
+    }
+  ],
+  "translation": "凡在這日本身做任何工的人，我必把那人⟨את⟩從她民的中間除滅。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0403cf303b488289d4083fa673329129a9d87f79d444d64c93e4d1d875bd3543",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/23\/29-32.1792127311563.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "כל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "工"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "在…本身"
+    },
+    {
+      "surface": "היום",
+      "gloss": "這日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "我必除滅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那人"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "那人"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "那"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "從…中間"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "她的民"
+    }
+  ],
+  "timestamp": "2026-10-16T05:08:31.564410723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלהים",
+      "rationale": "此處為複數受格：是對審判者『你們是以羅欣（眾神明）』，還是指他們代表以羅欣執掌審判；保持詞形以羅欣，不加註解"
+    },
+    {
+      "kind": "you",
+      "subject": "受審判的神明／審判者",
+      "rationale": "直接對受審判者發言"
+    }
+  ],
+  "translation": "我曾說：你們是以羅欣，你們全是至高者的兒子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6f972571f395cfa69c2527edd4cb4ba091101b8c270fb4620dab6a5222be85bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/82\/5-8.1792144341346.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "曾說"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "和兒子"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "至高者"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "你們全"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:21.347515482Z",
+  "model": "glm-5.3"
+}

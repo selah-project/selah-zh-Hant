@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אכנך",
+      "rationale": "כנה 意為「加添名號／以名相稱」，非僅「題名」"
+    },
+    {
+      "kind": "you",
+      "subject": "對居魯士",
+      "rationale": "延續對居魯士的話：他蒙召卻不認識雅威"
+    }
+  ],
+  "translation": "「為了我僕人雅各、我所揀選的以色列的緣故，我按你的名呼召你，賜你名號，你卻不認識我。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bfb5e328863bc5c10f3423b869dfd9974b044f381c91465cf9d2c0c5b2c5afb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/45\/1-4.1792135621125.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "為了……的緣故"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "我的僕人"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "和以色列"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "我所揀選的"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "我已呼召"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "按你的名"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "賜你名號"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "你認識我"
+    }
+  ],
+  "timestamp": "2026-10-16T07:27:01.127263812Z",
+  "model": "glm-5.3"
+}

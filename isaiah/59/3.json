@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "被玷污",
+      "rationale": "第二句希伯來省略動詞（從首句延續），中文補出"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "身體部位系列",
+      "rationale": "手—手指—嘴唇—舌頭逐級遞進，由行為到言語，結構對仗"
+    }
+  ],
+  "translation": "因為你們的手掌被血玷污，你們的手指被罪孽玷污；你們的嘴唇說謊言，你們的舌頭喃喃低語不義。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/59\/1-4.1792135847190.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "你們的手掌"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "被玷污"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "被血"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "你們的手指"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "被罪孽"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "你們的嘴唇"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "說了"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "謊言"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "你們的舌頭"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "不義"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "喃喃低語"
+    }
+  ],
+  "timestamp": "2026-10-16T07:30:47.191399667Z",
+  "model": "glm-5.3"
+}

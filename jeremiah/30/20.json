@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 30:20",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פקד",
+      "rationale": "「臨到、察訪」可好可壞；此處敵意語境譯「懲罰」。"
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "gloss": "介詞 על 直譯「臨到……身上」，中文併入「懲罰所有……的人」。"
+    }
+  ],
+  "translation": "他的眾子必如古時一樣，他的會眾必在我面前堅立，我必懲罰所有欺壓他的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3d2ae9f14028d2e1180d43dfb09265024cba731a725993cbc408b2e4d5811735",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/30\/17-20.1792136913480.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "必如……一樣"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "他的眾子"
+    },
+    {
+      "surface": "כקדם",
+      "gloss": "如古時"
+    },
+    {
+      "surface": "ועדתו",
+      "gloss": "他的會眾"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在我面前"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "必堅立"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "我必懲罰"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨對⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "לחציו",
+      "gloss": "欺壓他的人"
+    }
+  ],
+  "timestamp": "2026-10-16T07:48:33.481700220Z",
+  "model": "glm-5.3"
+}

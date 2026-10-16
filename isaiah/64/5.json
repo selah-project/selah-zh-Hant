@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 64:5",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עדים",
+      "rationale": "字面指經期之污穢（עד 的複數），譯作「污穢的」；KJV「filthy rags」將隱喻展開。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלנו",
+      "rationale": "「我們全都」在本節出現兩次，形成重複的認罪節奏。"
+    },
+    {
+      "kind": "crux",
+      "subject": "verse division",
+      "rationale": "猶太計數（JPS）64:5 前半屬於前一節（KJV 64:5 的「Thou meetest him…」）；此處照希伯來文本的節界翻譯。"
+    }
+  ],
+  "translation": "我們全都成了不潔淨的人，我們一切的義行如同污穢的衣裳；我們全都如葉子枯乾，我們的罪孽如風把我們颳去。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1c6f02b30f0d3eb0ec598fb5fa82f66cc4d035d7f4c504c36ab9be999cc6a01c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/64\/5-8.1792135872618.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונהי",
+      "gloss": "我們成了"
+    },
+    {
+      "surface": "כטמא",
+      "gloss": "如不潔淨的人"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "我們全都"
+    },
+    {
+      "surface": "וכבגד",
+      "gloss": "如同衣裳"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "污穢的（經期的）"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切的"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "我們的義行"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "枯乾"
+    },
+    {
+      "surface": "כעלה",
+      "gloss": "如葉子"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "我們全都"
+    },
+    {
+      "surface": "ועוננו",
+      "gloss": "我們的罪孽"
+    },
+    {
+      "surface": "כרוח",
+      "gloss": "如風"
+    },
+    {
+      "surface": "ישאנו",
+      "gloss": "把我們颳去"
+    }
+  ],
+  "timestamp": "2026-10-16T07:31:12.619079029Z",
+  "model": "glm-5.3"
+}

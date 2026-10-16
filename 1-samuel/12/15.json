@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "雅威的手",
+      "rationale": "יד יהוה 直譯「雅威的手」，指其能力的介入；譯文保留字面。"
+    },
+    {
+      "kind": "elision",
+      "subject": "כאשר היתה באבתיכם",
+      "rationale": "KJV\/ASV「正如從前臨到你們祖先」出於對觀經文(參LXX)；馬所拉文本無此句。"
+    }
+  ],
+  "translation": "但你們若不聽從雅威的聲音，違背⟨את⟩雅威的口，雅威的手必臨到你們和你們的祖先身上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b9b57bec0d3214cc0a1bc968d8a9af358b67897e21f8313d1d1cd11c742df334",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/12\/13-16.1792131000818.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "但若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "你們聽從"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "聲音"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "違背"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的口"
+    },
+    {
+      "surface": "פי",
+      "gloss": "口"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "必臨"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "在你們身上"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "和你們的祖先身上"
+    }
+  ],
+  "timestamp": "2026-10-16T06:10:00.819501750Z",
+  "model": "glm-5.3"
+}

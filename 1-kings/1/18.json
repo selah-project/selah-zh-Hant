@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "「還」",
+      "rationale": "中文語境需要時間副詞，表明大衛至今仍不知道"
+    },
+    {
+      "kind": "you",
+      "subject": "拔示巴對大衛王",
+      "rationale": "直接稱呼「我主、王啊」"
+    }
+  ],
+  "translation": "現在，看哪，亞多尼雅已經作王了；而我主、王啊，你還不知道。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ba45c827b9501b407f2bc60d1fee5f6ce8a99c334c439c7e60c175509c0ee0d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/1\/17-20.1792132451950.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "現在"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "亞多尼雅"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "已經作王"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "而現在"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "我主"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "你知道"
+    }
+  ],
+  "timestamp": "2026-10-16T06:34:11.950941216Z",
+  "model": "glm-5.3"
+}

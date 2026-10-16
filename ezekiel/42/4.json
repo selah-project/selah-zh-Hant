@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 42:4",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "有",
+      "rationale": "希伯來文無存在動詞，中文需「有」以成句"
+    },
+    {
+      "kind": "crux",
+      "subject": "一肘之路",
+      "rationale": "׃דרך אמה אחת 諸本爭議：或為通道內側一肘寬的沿邊小徑，或整條路寬一肘"
+    },
+    {
+      "kind": "measurement",
+      "subject": "十肘、一肘",
+      "rationale": "通道與路徑之丈量"
+    }
+  ],
+  "translation": "在屋子前面有一條通道，寬十肘，通向內部；又有一肘寬的路；它們的門口朝北。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "61363905da4a61e663605f2fda365cca3ac4473e4659fc84f2ab6b774a9c71d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/42\/1-4.1792139133429.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "在……面前"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "屋子"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "通道"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "寬"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "內部"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "一肘"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一"
+    },
+    {
+      "surface": "ופתחיהם",
+      "gloss": "它們的門口"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "朝北"
+    }
+  ],
+  "timestamp": "2026-10-16T08:25:33.430752727Z",
+  "model": "glm-5.3"
+}

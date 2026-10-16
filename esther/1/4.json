@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "八十和一百天",
+      "rationale": "筵席長度確切記數：一百八十天，希伯來數詞由小到大。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפניו／עשר כבוד",
+      "rationale": "「許多日子」加確切日數是希伯來記數慣用語，中文按序重現。"
+    }
+  ],
+  "translation": "那時他展示 ⟨את⟩ 他王國榮耀的財富，和 ⟨את⟩ 他偉大華美的尊貴，許多日子——八十和一百天。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8d74a11ea25af1db6bcf72b20acef22d1170627026705392d9fbad140ced0df0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/esther\/1\/1-4.1792147214357.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "那時他展示"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他王國榮耀的財富"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "財富"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮耀"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "他的王國"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "他偉大華美的尊貴"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "尊貴"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "華美"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "他的偉大"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日子"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "許多"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "八十"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "和一百"
+    },
+    {
+      "surface": "יום",
+      "gloss": "天"
+    }
+  ],
+  "timestamp": "2026-10-16T10:40:14.358498101Z",
+  "model": "glm-5.3"
+}

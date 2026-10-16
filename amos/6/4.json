@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 6:4",
+  "book": "amos",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כרים",
+      "rationale": "כרים是「公羊」（肥壯的成年羊），欽定本譯「羊羔」失去其肥美精選之意。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מרבק",
+      "rationale": "「牛欄」一詞僅見於此處（及瑪拉基書4:2之同根），是圈養肥犢之處，顯示奢華的精飼。"
+    }
+  ],
+  "translation": "那些躺臥在象牙床上、在自己榻上伸展四肢的，那些吃羊群中的公羊、牛欄之中牛犢的——",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2f1e7dd81ee922eded610b0788c5c1779fbddd0c256c6bce444b7413fd3da228",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/amos\/6\/1-4.1792139813289.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השכבים",
+      "gloss": "躺臥的"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "床"
+    },
+    {
+      "surface": "שן",
+      "gloss": "象牙"
+    },
+    {
+      "surface": "וסרחים",
+      "gloss": "伸展四肢的"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "ערשותם",
+      "gloss": "他們的榻"
+    },
+    {
+      "surface": "ואכלים",
+      "gloss": "吃的"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "公羊"
+    },
+    {
+      "surface": "מצאן",
+      "gloss": "羊群中的"
+    },
+    {
+      "surface": "ועגלים",
+      "gloss": "牛犢"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "之中的"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "牛欄"
+    }
+  ],
+  "timestamp": "2026-10-16T08:36:53.291045505Z",
+  "model": "glm-5.3"
+}

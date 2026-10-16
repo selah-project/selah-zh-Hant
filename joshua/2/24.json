@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 2:24",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "此處כי或作「確實」（強調引語），或作「因為」（說明理由）；兩者皆通。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "融化",
+      "rationale": "נמגו字面是「融化、消融」，形容勇氣盡失；譯「膽怯」會失去畫面。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מפנינו",
+      "rationale": "字面「因我們的面」，即「在我們面前」；中文以「因我們」承接。"
+    }
+  ],
+  "translation": "他們對約書亞說：「雅威確實已將 ⟨את⟩ 全地交在我們手中，這地的居民確實都因我們而融化了。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "853317505c11afd20493085fbf131364fbea2a8286d178ec408cb19910c2e51a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/2\/21-24.1792129455548.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "他們說"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "כי",
+      "gloss": "確實"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "已將……交在"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "在我們手中"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全地"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "確實也"
+    },
+    {
+      "surface": "נמגו",
+      "gloss": "融化了"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "這地的"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "因我們"
+    }
+  ],
+  "timestamp": "2026-10-16T05:44:15.549763630Z",
+  "model": "glm-5.3"
+}

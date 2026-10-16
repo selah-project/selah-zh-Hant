@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "床榻上歌唱",
+      "rationale": "在床上歡唱描繪夜間安然無懼的喜樂，非臥病之態"
+    },
+    {
+      "kind": "addition",
+      "subject": "願",
+      "rationale": "希伯來文未完成式表祈願，中文以「願」標出"
+    }
+  ],
+  "translation": "願敬虔者在榮耀中歡躍，願他們在他們的床榻上歡聲歌唱。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "138774c5926d3ebe1c2386901e2fdc7601bfdce21de5403bc196f06529cc508b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/149\/5-8.1792145159536.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "歡躍"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "敬虔者"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "在榮耀中"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "歡聲歌唱"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "他們的床榻上"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:59.537460260Z",
+  "model": "glm-5.3"
+}

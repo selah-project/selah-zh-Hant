@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨開始⟩",
+      "rationale": "希伯來文以兩個「從」平行表達起始，中文補「開始」以達意"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרחם\/מבטן",
+      "rationale": "「母腹／肚腹」同義平行，與第10節同一對子音呼應"
+    }
+  ],
+  "translation": "在你身上我被拋擲，從母腹 ⟨開始⟩；從我母親的肚腹中，你是我的伊勒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "47a0de3be98c730c1580e429d33f1946bf0c6d0015ef3530c8c85d945dbaba10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/22\/9-12.1792143454949.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "在你身上"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "我被拋擲"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "從母腹"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "從肚腹"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "我母親的"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我的伊勒"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你是"
+    }
+  ],
+  "timestamp": "2026-10-16T09:37:34.950381362Z",
+  "model": "glm-5.3"
+}

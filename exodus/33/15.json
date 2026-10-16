@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פנים",
+      "rationale": "與上節同詞：字面「你的面」，指雅威的臨在"
+    },
+    {
+      "kind": "crux",
+      "subject": "תעלנו",
+      "rationale": "KJV\/ASV 作 with me（單數），希伯來文 נו 是「我們」——摩西為全民代求"
+    }
+  ],
+  "translation": "摩西對他說：「你的面若不前往，就不要把我們從這裡帶上去。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a50943af0ba1e4122df30205c0af43598c53a6af008cc33aa6af33a2c3f02d26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/33\/13-16.1792126511555.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "…說"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "אין",
+      "gloss": "不"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面（同在）"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "前往"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "把我們帶上去"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "從這裡"
+    }
+  ],
+  "timestamp": "2026-10-16T04:55:11.556661128Z",
+  "model": "glm-5.3"
+}

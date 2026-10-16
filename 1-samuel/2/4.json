@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "已折斷",
+      "rationale": "חתים 字面是「被砸碎、驚惶」；指弓被折斷或勇士崩潰，譯本多作 broken"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "顛倒對句",
+      "rationale": "勇士↔跌倒之人、折斷↔束上力量的倒轉，是哈拿頌歌的核心修辭"
+    }
+  ],
+  "translation": "勇士的弓已折斷，跌倒的人反以力量束腰。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "de876f4b77ed6ae946f0fbcb09ebde86173e2e0da637a189c61241495c1bd821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/2\/1-4.1792130743125.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "弓"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "勇士的"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "已折斷"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "跌倒的人"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "束腰"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "以力量"
+    }
+  ],
+  "timestamp": "2026-10-16T06:05:43.126425049Z",
+  "model": "glm-5.3"
+}

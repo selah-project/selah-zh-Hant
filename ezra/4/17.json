@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezra 4:17",
+  "book": "ezra",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "歸你們",
+      "rationale": "亞蘭文問安語「平安」單獨出現，中文需補出歸與之對象"
+    },
+    {
+      "kind": "substitution",
+      "subject": "如此云云",
+      "rationale": "וכעת 是書信套語（and at such a time），按慣例譯為固定格式語"
+    }
+  ],
+  "translation": "王發出覆信給掌管諭令的利宏、書記伸帥，並他們其餘住在撒馬利亞的同伴，以及大河那一帶其餘的人：「願平安⟨歸你們⟩，如此云云。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9ff77f7f146e8ed6e47554aa6333caa5c1fc691c34f4368044c610fecbbabfc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/4\/17-20.1792147807595.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתגמא",
+      "gloss": "覆信"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "發出"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "王"
+    },
+    {
+      "surface": "על",
+      "gloss": "給"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "利宏"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "掌管者"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "諭令"
+    },
+    {
+      "surface": "ושמשי",
+      "gloss": "和伸帥"
+    },
+    {
+      "surface": "ספרא",
+      "gloss": "書記"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "並其餘的"
+    },
+    {
+      "surface": "כנותהון",
+      "gloss": "同伴"
+    },
+    {
+      "surface": "די",
+      "gloss": "那些"
+    },
+    {
+      "surface": "יתבין",
+      "gloss": "住在"
+    },
+    {
+      "surface": "בשמרין",
+      "gloss": "在撒馬利亞"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "以及其餘的"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "那一帶"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "大河"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "平安"
+    },
+    {
+      "surface": "וכעת",
+      "gloss": "如此云云"
+    }
+  ],
+  "timestamp": "2026-10-16T10:50:07.596050543Z",
+  "model": "glm-5.3"
+}

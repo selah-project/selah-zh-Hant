@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "希伯來起誓套語『雅威活著』，中文保留直譯"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי אם",
+      "rationale": "『除非』（惟獨雅威出手）與『就是／的確雅威必擊打』兩讀，欽定本取後者"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ונספה",
+      "rationale": "字面『被掃除收聚』，譯作『被除滅』"
+    }
+  ],
+  "translation": "大衛又說：「雅威活著：除非雅威擊打他，或是他的日子來到而死，或是下到戰場而被除滅，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2f6a56f3a536360a070684ed38632b70195ba5a206c3af16e9bf0e676f4d4294",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/26\/9-12.1792131554100.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活著"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "——"
+    },
+    {
+      "surface": "אם",
+      "gloss": "除非"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "擊打他"
+    },
+    {
+      "surface": "או",
+      "gloss": "或是"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "他的日子"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "而死"
+    },
+    {
+      "surface": "או",
+      "gloss": "或是"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "下到戰場"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "下"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "被除滅"
+    }
+  ],
+  "timestamp": "2026-10-16T06:19:14.101042601Z",
+  "model": "glm-5.3"
+}

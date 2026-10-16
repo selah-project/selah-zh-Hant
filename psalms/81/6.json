@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "在他出去",
+      "rationale": "בצאתו 的主語可以是約瑟（出埃及）或雅威（出去攻擊埃及地，如 JPS「當祂出去面對埃及地」）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "言語",
+      "rationale": "שפת 字面是「嘴唇」，引申為語言；此處保留「嘴唇」的直譯以存其形"
+    }
+  ],
+  "translation": "祂立它作約瑟的見證，在他出去經過埃及地的時候；一種嘴唇我不認識——我聽見。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "94fdca8ca6aaef334c21bd796ac9eda16b9621d837b051e5b878dfb43c889a29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/81\/5-8.1792144379985.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "見證"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "在約瑟"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "祂立"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "在他出去的時候"
+    },
+    {
+      "surface": "על",
+      "gloss": "經過"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "嘴唇"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我認識"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "我聽見"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:59.986393578Z",
+  "model": "glm-5.3"
+}

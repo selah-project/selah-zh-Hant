@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 45:17",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אבתיך\/בניך",
+      "rationale": "列祖與眾子相對，代替結構：父被子接續，原文以名詞對比呈現世代交替。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "בכל הארץ",
+      "rationale": "全地——疆域的度量式表述，首領的分封遍及整個大地。"
+    }
+  ],
+  "translation": "你的眾子必代替你的列祖；你立他們作首領，在全地之上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e4583dcb573e45621006a1ebcc6f61dcb9c4febaf70590d3f7a37fe238abfa71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/45\/17-18.1792143787804.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "代替"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "你的列祖"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "必成為"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "你的眾子"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "你立他們"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "作首領"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "在全部"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "之地"
+    }
+  ],
+  "timestamp": "2026-10-16T09:43:07.805452879Z",
+  "model": "glm-5.3"
+}

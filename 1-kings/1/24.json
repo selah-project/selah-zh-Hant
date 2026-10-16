@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 1:24",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "嗎",
+      "rationale": "希伯來文無問號句尾助詞，中文疑問句需補「嗎」"
+    },
+    {
+      "kind": "you",
+      "subject": "對大衛王",
+      "rationale": "拿單直接稱呼並質問大衛王「你曾說過嗎」"
+    }
+  ],
+  "translation": "拿單說：「我主我王，你曾說過『亞多尼雅必在我以後作王，坐在我的寶座上』嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "583057bc609fef89f7b89732cc37245e5dd36646d606aae621f430f736c386f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/1\/21-24.1792132468987.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "拿單"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "我主"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "我王"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "曾說"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "亞多尼雅"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "作王"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "在我以後"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "坐在"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "我的寶座"
+    }
+  ],
+  "timestamp": "2026-10-16T06:34:28.988849289Z",
+  "model": "glm-5.3"
+}

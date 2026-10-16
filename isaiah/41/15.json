@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 41:15",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פיפיות",
+      "rationale": "「齒」僅出現於此（複數形），描寫打穀碌碡的齒刃。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תדוש…ותדק",
+      "rationale": "打穀與碾碎兩個同域動詞連用，未完成的宣告語氣，中文以「要」保留。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "山嶺與岡陵",
+      "rationale": "比喻壓制以色列的強權；譯文保留字面形象，不化為「列強」。"
+    }
+  ],
+  "translation": "看哪，我使你成為打穀的碌碡，新的、銳利的、帶著許多齒的；你要打碎山嶺，把它們碾得粉碎，使岡陵如同糠秕。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1ebdc0419e297c2b4d710416ff0969004b819ae250f2d5a19c3b620c0c139e8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/41\/13-16.1792135452518.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "שמתיך",
+      "gloss": "我使你"
+    },
+    {
+      "surface": "למורג",
+      "gloss": "成為打穀的碌碡"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "銳利的"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "新的"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "帶著"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "許多齒"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "你要打穀"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山嶺"
+    },
+    {
+      "surface": "ותדק",
+      "gloss": "又碾得粉碎"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "又岡陵"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "如同糠秕"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "你要使"
+    }
+  ],
+  "timestamp": "2026-10-16T07:24:12.519255503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 1:9",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨王⟩",
+      "rationale": "希伯來文敘事主語未寫出，中文需要補明是王（亞哈謝）差遣"
+    },
+    {
+      "kind": "you",
+      "subject": "以利亞",
+      "rationale": "首領直接稱呼以利亞「以羅欣的人哪」"
+    },
+    {
+      "kind": "invitation",
+      "subject": "下來吧",
+      "rationale": "王命以命令式動詞向以利亞發出"
+    }
+  ],
+  "translation": "⟨王⟩差遣一個五十人的首領和他的五十人到他那裡去；那首領上到他那裡，看哪，他正坐在山頂上，就對他說：「以羅欣的人哪，王說了：下來吧。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "964ab0b5d50b9bb361b60c11daa5245a361ec7c20c67916f8372b688c4739fed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/1\/9-12.1792133488648.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差遣"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "到他那裡"
+    },
+    {
+      "surface": "שר",
+      "gloss": "首領"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十人"
+    },
+    {
+      "surface": "וחמשיו",
+      "gloss": "和他的五十人"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "上去"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "到他那裡"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頂"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "山"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "說了"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "下來吧"
+    }
+  ],
+  "timestamp": "2026-10-16T06:51:28.649074323Z",
+  "model": "glm-5.3"
+}

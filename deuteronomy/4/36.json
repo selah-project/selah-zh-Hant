@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 4:36",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "第二人稱單數直接向以色列說話"
+    },
+    {
+      "kind": "substitution",
+      "subject": "管教",
+      "rationale": "ליסר兼有管教與教導之義，此處取管教"
+    }
+  ],
+  "translation": "他從天上使你聽見他的聲音，為要管教你；又在地上使你看見他的大火，你就從火中聽見了他的話。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cfdeedfa4b2e5dc6cdec02ecb1a8524350bf5a06077d20111b4287955c9943dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/4\/33-36.1792128626058.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天上"
+    },
+    {
+      "surface": "השמיעך",
+      "gloss": "使你聽見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的聲音"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "他的聲音"
+    },
+    {
+      "surface": "ליסרך",
+      "gloss": "為要管教你"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "又在"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "הראך",
+      "gloss": "使你看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的火"
+    },
+    {
+      "surface": "אשו",
+      "gloss": "他的火"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "大火"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "和他的話"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "你聽見了"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "從……中"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    }
+  ],
+  "timestamp": "2026-10-16T05:30:26.059873821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישאלו",
+      "rationale": "「索取／請求」被譯作「借用」或「搶奪」；本譯取「索取」，保留動詞本身的請求語義"
+    },
+    {
+      "kind": "you",
+      "subject": "to Moses",
+      "rationale": "命令句直接對摩西說話"
+    }
+  ],
+  "translation": "請你在百姓耳中說話，讓他們每個男人向鄰舍⟨את⟩索取，每個女人向她的女鄰舍⟨את⟩索取銀器金器。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "992ae16e868950da5e61db28df72bbdc673e2ff27319cc17383115c2c7c36fc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/11\/1-4.1792125897305.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "說話"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "在……耳中"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "讓他們索取"
+    },
+    {
+      "surface": "איש",
+      "gloss": "每個男人"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "向鄰舍"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "他的鄰舍"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "每個女人"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "向她的女鄰舍"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "她的女鄰舍"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "和……器"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    }
+  ],
+  "timestamp": "2026-10-16T04:44:57.306284680Z",
+  "model": "glm-5.3"
+}

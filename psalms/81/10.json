@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זר \/ נכר",
+      "rationale": "兩個「陌生／外族」近義詞平行出現，中文無法重現其音異義近的效果"
+    },
+    {
+      "kind": "substitution",
+      "subject": "外族的神明",
+      "rationale": "אל זר／אל נכר字面為「陌生的神／異己的神」，此處指別族的神明，非聖名位置，故用類名"
+    }
+  ],
+  "translation": "在你中間不可有外族的神明，你也不可向外族的神明下拜。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0d5013afb3c56e3e804712f67a3c7150e9baa1b68a5db1d173e15345afe54ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/81\/9-12.1792144327791.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "有"
+    },
+    {
+      "surface": "בך",
+      "gloss": "在你中間"
+    },
+    {
+      "surface": "אל",
+      "gloss": "神明"
+    },
+    {
+      "surface": "זר",
+      "gloss": "外族的"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不可"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "下拜"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "向神明"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "外族的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:07.792392363Z",
+  "model": "glm-5.3"
+}

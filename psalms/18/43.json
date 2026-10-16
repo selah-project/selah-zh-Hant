@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 18:43",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "磨碎",
+      "rationale": "שׁחק 本義為磨、碾碎，KJV「beat them small」同取此義"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כעפר／כטיט",
+      "rationale": "兩個「如」字句平行：灰塵對泥土、風對街道，平行結構"
+    }
+  ],
+  "translation": "我把他們磨碎，如風面前的灰塵；如街道上的泥土，我把他們傾倒出去。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0a460fcaeb27057d7c4ab7987ab5e8a73976405710b9d6ddf737cd7530d95a60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/18\/41-44.1792143407694.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשחקם",
+      "gloss": "我把他們磨碎"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "如灰塵"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……面前"
+    },
+    {
+      "surface": "פני",
+      "gloss": "……的面"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "如泥土"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "街道上的"
+    },
+    {
+      "surface": "אריקם",
+      "gloss": "我把他們傾倒出去"
+    }
+  ],
+  "timestamp": "2026-10-16T09:36:47.695964560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 13:13",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "她",
+      "rationale": "希伯來文動詞תשמר的陰性形式隱含主語，中文需補出"
+    },
+    {
+      "kind": "addition",
+      "subject": "〈那〉",
+      "rationale": "希伯來文的冠詞，中文以〈那〉標示"
+    },
+    {
+      "kind": "you",
+      "subject": "to Manoah",
+      "rationale": "使者直接回答瑪挪亞的問題"
+    }
+  ],
+  "translation": "雅威的使者對瑪挪亞說：「我對〈那〉婦人說過的一切話，她都要謹守。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "964bde9e6ed31603fd2f7ba0a91557700d8d8edbb5573a0bb75fda4177fbe5b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/13\/13-16.1792130416381.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "使者"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "瑪挪亞"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我說過的"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "婦人"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "她要謹守"
+    }
+  ],
+  "timestamp": "2026-10-16T06:00:16.381921886Z",
+  "model": "glm-5.3"
+}

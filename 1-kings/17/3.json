@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 17:3",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "「你自己」",
+      "rationale": "希伯來文的反身語尾 לך，中文以「你自己」括註表達；此處併入語序未另加括。"
+    },
+    {
+      "kind": "you",
+      "subject": "對以利亞",
+      "rationale": "一連串命令語氣，直接吩咐以利亞。"
+    },
+    {
+      "kind": "secret",
+      "subject": "藏",
+      "rationale": "「נסתרת」（隱藏）是本節的動作核心：以利亞被吩咐隱匿。"
+    }
+  ],
+  "translation": "「你離開這裡，往東去，藏在約但河對面的基立溪中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bdbf93178e807a081979c543dea798b3abe00eb771bbc55599859ae788ef2d11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/17\/1-4.1792133139222.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "你離開這裡去"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "從這裡"
+    },
+    {
+      "surface": "ופנית",
+      "gloss": "轉向"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你自己"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "往東"
+    },
+    {
+      "surface": "ונסתרת",
+      "gloss": "藏"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "在溪中"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "基立"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……對面"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約但河"
+    }
+  ],
+  "timestamp": "2026-10-16T06:45:39.223045607Z",
+  "model": "glm-5.3"
+}

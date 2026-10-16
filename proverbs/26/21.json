@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 26:21",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרחר\/ריב",
+      "rationale": "חרחר（燃燒）與ריב（爭端）的頭韻模擬火焰吞吃的聲音，中文難以再現"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מדונים",
+      "rationale": "「爭吵之人」的屬格構造照字面是「爭競之人」，譯作形容詞以合中文語感"
+    }
+  ],
+  "translation": "炭加於燒紅的炭火，柴加於火；好爭吵的人也如此，加於燃燒的爭端。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8edf0b5fc6bdf771a940ca5dc3b8345ef3b7ca2293e1821674b1f63a9620c58a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/26\/21-24.1792145637172.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פחם",
+      "gloss": "炭"
+    },
+    {
+      "surface": "לגחלים",
+      "gloss": "加於燒紅的炭火"
+    },
+    {
+      "surface": "ועצים",
+      "gloss": "柴"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "加於火"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "好爭吵的人也如此"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "爭吵"
+    },
+    {
+      "surface": "לחרחר",
+      "gloss": "燃燒的"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "爭端"
+    }
+  ],
+  "timestamp": "2026-10-16T10:13:57.173175756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "祝福／咒詛",
+      "rationale": "口中祝福與內心咒詛的對仗並列，希伯來詩的正面—反面平行，中文以「卻」字點出反差"
+    },
+    {
+      "kind": "crux",
+      "subject": "סלה",
+      "rationale": "細拉為音樂標記，意義不明；音譯保留，不強作解釋"
+    },
+    {
+      "kind": "measurement",
+      "subject": "詩節編號",
+      "rationale": "希伯來文本此節為第5節，英文傳統（KJV等）編為第4節，因詩篇62題詞的編節差異"
+    }
+  ],
+  "translation": "他們只圖謀要把他從尊位推下；他們喜愛謊言，口中祝福，心裡卻咒詛。細拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9d537e38c3eadc5d9a4de41c5fbc35229e0dddf0d45f491a5a72fa908c571301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/62\/5-8.1792144029489.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "只"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "他的尊位"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "圖謀"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "推下"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "喜愛"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "謊言"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "口中"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "祝福"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "心裡卻"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "咒詛"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉。"
+    }
+  ],
+  "timestamp": "2026-10-16T09:47:09.490187032Z",
+  "model": "glm-5.3"
+}

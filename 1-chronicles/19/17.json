@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 19:17",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "有人",
+      "rationale": "ויגד 是被動式「被告訴」，中文以無主語的「有人告訴」表達"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויערך…ויערך",
+      "rationale": "「擺陣」一詞連用兩次（ערך…ערך），敘事的對仗節奏"
+    }
+  ],
+  "translation": "有人告訴大衛，他就聚集了 ⟨את⟩ 全以色列，渡過約旦河，來到他們那裡，向他們擺列戰陣；大衛擺陣迎戰亞蘭，他們就與他交戰。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "215df0ed34ffb0c61946c85c24b2599a68e190a49932a77dd2f4d93429f04f31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/19\/17-19.1792148857683.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "有人告訴"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "聚集了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全以色列"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "渡過"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦河"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "他們那裡"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "擺列戰陣"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "對他們"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "擺陣"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "迎戰"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戰陣"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "交戰"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "與他"
+    }
+  ],
+  "timestamp": "2026-10-16T11:07:37.684436927Z",
+  "model": "glm-5.3"
+}

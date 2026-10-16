@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 4:30",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפשך 是「你的氣息／性命」，不是「靈魂」"
+    },
+    {
+      "kind": "idiom",
+      "subject": "我指著…起誓",
+      "rationale": "「雅威活著和你的性命活著」是希伯來起誓慣用語，中文以起誓句式呈現"
+    },
+    {
+      "kind": "crux",
+      "subject": "אם אעזבך",
+      "rationale": "誓詞以「若」引出的條件句表絕對否認（我絕不離開你），各譯本或直譯條件句、或譯為否定誓言"
+    }
+  ],
+  "translation": "孩子的母親說：「我指著永活的雅威和你的性命起誓，我必不離開你。」於是他起來，跟著她去了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9e0985edefff9edffb4a7e8361c2fdbfead6d1a1306d7c74515005a1fca730e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/4\/29-32.1792133621134.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "她說"
+    },
+    {
+      "surface": "אם",
+      "gloss": "母親"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "孩子的"
+    },
+    {
+      "surface": "חי",
+      "gloss": "永活"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "存活"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "你的性命"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "我離開你"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "他起來"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "去了"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "跟著她"
+    }
+  ],
+  "timestamp": "2026-10-16T06:53:41.135493899Z",
+  "model": "glm-5.3"
+}

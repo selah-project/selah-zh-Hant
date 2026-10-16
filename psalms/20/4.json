@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "悅納",
+      "rationale": "ידשנה 出自 דשן「使之肥潤／膏抹」：KJV「accept（悅納）」、Geneva「化為灰燼」、JPS「悅納其脂油」——「當作脂油般悅納」最貼字面"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ידשנה",
+      "rationale": "此動詞形態在塔納赫中獨一無二，解讀分歧由此而起"
+    },
+    {
+      "kind": "elision",
+      "subject": "細拉",
+      "rationale": "סלה 音樂記號，音譯為「細拉」，不加解釋"
+    }
+  ],
+  "translation": "願他記念你的一切素祭，悅納你的燔祭。細拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5153850697641f8e48b56e9f75a49ab15fc1715ffec9bae78abfebf663d00e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/20\/1-4.1792143441673.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "願他記念"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "你的素祭"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "和你的燔祭"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "悅納"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-10-16T09:37:21.674083367Z",
+  "model": "glm-5.3"
+}

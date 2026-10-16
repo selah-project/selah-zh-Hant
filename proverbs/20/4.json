@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישאל",
+      "rationale": "שאל 可作『求問』或『乞討』；KJV『行乞』、BSB『指望尋找』；取『求討』兼容二義"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ואין",
+      "rationale": "字面『而無』，中文補足為『卻一無所有』"
+    }
+  ],
+  "translation": "懶惰人因寒冬不耕田；收割時他求討，卻一無所有。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0f9c7c64221fc5c6bfd97993f683221b708f6b467088b670700d2ab997dbd0cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/20\/1-4.1792145565881.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "因寒冬"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "懶惰人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "耕田"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "求討"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "收割時"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "卻一無所有"
+    }
+  ],
+  "timestamp": "2026-10-16T10:12:45.882382492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 51:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "聖魯阿",
+      "rationale": "רוח קדשך 譯作「聖魯阿（靈）」；拒用「聖靈」一詞"
+    },
+    {
+      "kind": "you",
+      "subject": "to 雅威",
+      "rationale": "詩人直接向雅威祈求，兩個否定的懇求（אל……אל）"
+    }
+  ],
+  "translation": "不要把我從你面前拋出去，也不要從我取去你的聖魯阿（靈）。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0b316f709416da554966f354afab6cf7b0bd3778a8f6cc8a5b61ccad330c358d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/51\/13-16.1792143820664.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "把我拋出去"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "從你面前"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "而你的魯阿"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "你的聖"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "取去"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "從我"
+    }
+  ],
+  "timestamp": "2026-10-16T09:43:40.664506074Z",
+  "model": "glm-5.3"
+}

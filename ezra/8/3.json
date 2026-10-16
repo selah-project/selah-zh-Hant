@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 8:3",
+  "book": "ezra",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "男丁一百五十",
+      "rationale": "按家譜點算人數，本章的登記體例"
+    },
+    {
+      "kind": "crux",
+      "subject": "מבני שכניה",
+      "rationale": "示迦尼之後未列人名，直接接巴錄的子孫；或以為有脫文"
+    }
+  ],
+  "translation": "屬示迦尼的子孫，屬巴錄的子孫，有撒迦利亞；與他一同登記家譜的男丁一百五十人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "15e4c72dc9a7d2bc1404039cb40a0e8e5bf9e684e8ff3b69b7942190ce344a0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/8\/1-4.1792147874510.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "屬……的子孫"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "示迦尼"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "屬……的子孫"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "巴錄"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "撒迦利亞"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "與他"
+    },
+    {
+      "surface": "התיחש",
+      "gloss": "登記家譜"
+    },
+    {
+      "surface": "לזכרים",
+      "gloss": "男丁"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "一百"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "五十"
+    }
+  ],
+  "timestamp": "2026-10-16T10:51:14.511174450Z",
+  "model": "glm-5.3"
+}

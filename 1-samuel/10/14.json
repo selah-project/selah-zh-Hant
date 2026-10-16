@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 10:14",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "叔叔",
+      "rationale": "דוד 字面是「叔伯」，詞元數據誤連到「大衛」；此處是掃羅的叔叔"
+    },
+    {
+      "kind": "addition",
+      "subject": "那裡",
+      "rationale": "中文方位詞補足「來到撒母耳（那裡）」的自然說法，希伯來文無此字"
+    },
+    {
+      "kind": "you",
+      "subject": "to 掃羅和他的僕人",
+      "rationale": "叔叔直接質問二人：「你們往哪裡去了？」"
+    }
+  ],
+  "translation": "掃羅的叔叔對他和他僕人說：「你們往哪裡去了？」他說：「去尋找 ⟨את⟩ 那些母驢；我們見牠們不在，就來到撒母耳那裡。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "30eadc316bcb92e42884cbdd0e1e5a4b65f6e9d96542a71e6ad196854f356a50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/10\/13-16.1792131031987.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "叔叔"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "和對"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "他僕人"
+    },
+    {
+      "surface": "אן",
+      "gloss": "往哪裡"
+    },
+    {
+      "surface": "הלכתם",
+      "gloss": "你們去了"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "去尋找"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那些母驢"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "那些母驢"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "我們見"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…了"
+    },
+    {
+      "surface": "אין",
+      "gloss": "不在"
+    },
+    {
+      "surface": "ונבוא",
+      "gloss": "就來到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳那裡"
+    }
+  ],
+  "timestamp": "2026-10-16T06:10:31.987826740Z",
+  "model": "glm-5.3"
+}

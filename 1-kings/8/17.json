@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 8:17",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "〈發生了〉",
+      "rationale": "ויהי 是敘事引導詞，中文以「有心」承接其語境含義並以括註標明所加"
+    },
+    {
+      "kind": "substitution",
+      "subject": "殿宇",
+      "rationale": "בית 直譯「房屋／家」，殿宇指聖殿語境的選詞"
+    }
+  ],
+  "translation": "我父大衛有心要為雅威——以色列的以羅欣——的名建造殿宇。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c4ec29d73ee5995087e2fa4c1d7b21e9f4e6f79fbee626743c59d6164a87456c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/8\/17-20.1792132796669.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "〈發生了〉"
+    },
+    {
+      "surface": "עם",
+      "gloss": "在"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "心"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我父"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "要建造"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿宇"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "為……的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T06:39:56.670488928Z",
+  "model": "glm-5.3"
+}

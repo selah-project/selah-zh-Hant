@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 15:26",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מאסת\/וימאסך",
+      "rationale": "「你厭棄……雅威也厭棄你」——同一動詞的對稱回響，中文保留重複以存其勢"
+    },
+    {
+      "kind": "you",
+      "subject": "對掃羅",
+      "rationale": "撒母耳直接向掃羅宣告審判"
+    }
+  ],
+  "translation": "撒母耳對掃羅說：「我不與你回去，因為你厭棄了 ⟨את⟩ 雅威的話，雅威也厭棄你，不容你作以色列的王。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "73b0da0a52185a0dbc56080644a165955a2842b281fbe3342d099fe0d263981e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/15\/25-28.1792131063793.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "回去"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "與你"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מאסתה",
+      "gloss": "你厭棄了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的話"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וימאסך",
+      "gloss": "厭棄你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "不容你作"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "על",
+      "gloss": "治理"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T06:11:03.794668968Z",
+  "model": "glm-5.3"
+}

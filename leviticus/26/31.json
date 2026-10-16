@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אריח בריח ניחח",
+      "rationale": "「聞你們安息之香」——悅納祭物的成語；ניחוח本義「安息」，和合作「馨香」"
+    },
+    {
+      "kind": "addition",
+      "subject": "再",
+      "rationale": "「不再」的「再」為中文否定句所需，希伯來文僅有לאא"
+    }
+  ],
+  "translation": "我要使 ⟨את⟩ 你們的城邑荒涼，我要使 ⟨את⟩ 你們的聖所荒廢，我也不再聞你們馨香之氣的香味。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "43007b8eb34bf413626886be0e0ccdee843167019b9fcb501a9e8b0bd46ccdc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/26\/29-32.1792127397581.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "我要使"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你們的城邑"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "你們的城邑"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "荒涼"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "我要使……荒廢"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你們的聖所"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "你們的聖所"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "聞"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "……之氣的香味"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "你們馨香"
+    }
+  ],
+  "timestamp": "2026-10-16T05:09:57.582426830Z",
+  "model": "glm-5.3"
+}

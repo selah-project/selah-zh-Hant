@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "מה",
+      "rationale": "מה 可作疑問「什麼」，或如和修本作關係代名詞「那已經有的」；本譯保留其疑問兼感嘆的語氣，視為修辭設問。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "היה\/יהיה",
+      "rationale": "動詞「是／成為」三度往返重複（曾是一將是），構成循環的迴文節奏。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "תחת השמש",
+      "rationale": "「日頭之下」是傳道書的固定片語，指人間世上，直譯保留其畫面。"
+    }
+  ],
+  "translation": "已有的事，就是將有的事；已做成的事，就是將做成的事；日頭之下絕無新事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "27f173a84f9a1ec94f8ebd53284a036761940cecce59e8b5ebee17c31b58bc0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/1\/9-12.1792146914476.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "什麼"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "已有的事"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "就是"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "將有的事"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "而什麼"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "已做成的事"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "就是"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "將做成的事"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "而絕無"
+    },
+    {
+      "surface": "כל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "新事"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "之下"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    }
+  ],
+  "timestamp": "2026-10-16T10:35:14.476774962Z",
+  "model": "glm-5.3"
+}

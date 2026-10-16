@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 21:26",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "希伯來文無主語代詞，承上節論懶惰人"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "התאוה תאוה",
+      "rationale": "動詞與同根名詞連用（貪求渴望），強調其無盡的慾望，中文以並列雙詞仿其重疊"
+    },
+    {
+      "kind": "addition",
+      "subject": "卻",
+      "rationale": "中文需要轉折詞表達希伯來文的對比結構"
+    }
+  ],
+  "translation": "他終日貪求渴望；義人卻施予，毫不吝惜。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cb9fd5f7f9569486c1cf0e36314540d37dffd959ab481a2f9ec6819b6a44527b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/21\/26-27.1792149939264.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "終"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "貪求"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "渴望"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "施予"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "吝惜"
+    }
+  ],
+  "timestamp": "2026-10-16T11:25:39.264616263Z",
+  "model": "glm-5.3"
+}

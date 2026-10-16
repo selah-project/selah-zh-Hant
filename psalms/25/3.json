@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יבשו……יבשו",
+      "rationale": "同一動詞重複對比：等候者不蒙羞、背信者蒙羞，中文無法保留同一詞形的迴響"
+    },
+    {
+      "kind": "substitution",
+      "subject": "等候",
+      "rationale": "קוה字面是「如線般纏繞、指望」，以等候／指望達意"
+    }
+  ],
+  "translation": "凡等候你的也必不致蒙羞；願那無故行詭詐的蒙羞。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "56d834fc48cd39fa425568609f45759f0e111a0509b1b30db4b1353c12ed8308",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/25\/1-4.1792143466876.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "等候你的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不致"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "蒙羞"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "願……蒙羞"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "行詭詐的"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "無故"
+    }
+  ],
+  "timestamp": "2026-10-16T09:37:46.878571044Z",
+  "model": "glm-5.3"
+}

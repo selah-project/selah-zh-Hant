@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 5:10",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אבות…בנים \/ בנים…אבותם",
+      "rationale": "父吃子、子吃父的交叉倒轉（chiasm），中文保留其鏡像結構。"
+    },
+    {
+      "kind": "addition",
+      "subject": "陣",
+      "rationale": "『每一陣風』量詞為中文所需，希伯來文無量詞。"
+    }
+  ],
+  "translation": "因此，父親必在你中間吃兒子，兒子必吃他們的父親；我必在你身上施行判罰，把你的全餘民分散到每一陣風。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b2103074850ce3e2153964d7b9a979b1d4b5bd54863a55f02c32830b80b97062",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/5\/9-12.1792137935928.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "因此"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "父親"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "必吃"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "在你中間"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "而兒子"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "必吃"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "他們的父親"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "我必施行"
+    },
+    {
+      "surface": "בך",
+      "gloss": "在你身上"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "判罰"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "我必分散"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的全餘民"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "שאריתך",
+      "gloss": "你的餘民"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "到每一"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    }
+  ],
+  "timestamp": "2026-10-16T08:05:35.929181718Z",
+  "model": "glm-5.3"
+}

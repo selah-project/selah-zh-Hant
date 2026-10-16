@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 88:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "豈能被知道（第二次）",
+      "rationale": "中文重複動詞以成句；希伯來文只出現一次"
+    },
+    {
+      "kind": "secret",
+      "subject": "黑暗・遺忘之地",
+      "rationale": "指向死亡幽暗中被隱藏、無人記念的境況"
+    }
+  ],
+  "translation": "在黑暗中，你的奇事豈能被知道？在被遺忘之地，你的公義豈能被知道？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3c3eff354bf1ac25a5a0e5308c92c07f1b584ab82d017c95d8e0f745392d71a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/88\/13-16.1792144452699.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היודע",
+      "gloss": "豈能被知道"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "在黑暗中"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "你的奇事"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "和你的公義"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在…之地"
+    },
+    {
+      "surface": "נשיה",
+      "gloss": "遺忘"
+    }
+  ],
+  "timestamp": "2026-10-16T09:54:12.700170559Z",
+  "model": "glm-5.3"
+}

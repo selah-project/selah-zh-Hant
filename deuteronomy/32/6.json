@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 32:6",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קנך",
+      "rationale": "קנה 可作『買贖』（KJV『bought』）、『得著』（JPS『gotten』）或『創造』（參創14:19）；此處取『造』以與下句 עשך 平行。"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "本節直接稱呼愚昧的民，質問式的『你們』『你的父』。"
+    },
+    {
+      "kind": "addition",
+      "subject": "了",
+      "rationale": "中文時態助詞『了』為希伯來文所無，標以⟨⟩。"
+    }
+  ],
+  "translation": "你們要這樣報答雅威嗎？愚昧而不智慧的民哪！他豈不是你的父、造⟨了⟩你的嗎？他造了你，又建立⟨了⟩你。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "01e6404bb23e7f38f11084473686e15dfc1ce45994dce4abc0e18121c9a1abce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/32\/5-8.1792129325251.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הֲ",
+      "gloss": "豈"
+    },
+    {
+      "surface": "לַיְהוָה֙",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תִּגְמְלוּ",
+      "gloss": "報答"
+    },
+    {
+      "surface": "זֹ֔את",
+      "gloss": "這樣"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "民"
+    },
+    {
+      "surface": "נָבָ֖ל",
+      "gloss": "愚昧"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "而不"
+    },
+    {
+      "surface": "חָכָ֑ם",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "הֲלֹא",
+      "gloss": "豈不"
+    },
+    {
+      "surface": "הוּא֙",
+      "gloss": "他"
+    },
+    {
+      "surface": "אָבִ֣יךָ",
+      "gloss": "你的父"
+    },
+    {
+      "surface": "קָּנֶ֔ךָ",
+      "gloss": "造了你"
+    },
+    {
+      "surface": "ה֥וּא",
+      "gloss": "他"
+    },
+    {
+      "surface": "עָשְׂךָ֖",
+      "gloss": "造了你"
+    },
+    {
+      "surface": "וַֽיְכֹנְנֶֽךָ",
+      "gloss": "又建立你"
+    }
+  ],
+  "timestamp": "2026-10-16T05:42:05.252831660Z",
+  "model": "glm-5.3"
+}

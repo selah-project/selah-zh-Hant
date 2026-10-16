@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 9:3",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דבר",
+      "rationale": "此處דבר是「瘟疫」（pestilence），與第4節的דבר（一件事物）同形異義；兩節並讀可見雙關。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כבד מאד",
+      "rationale": "「極重」的重複強調，希伯來文以疊加副詞加重，中文以「極重」「非常」對應。"
+    }
+  ],
+  "translation": "看哪，雅威的手必臨到你田間的牲畜——臨到馬、驢、駱駝、牛群和羊群——那是極重的瘟疫。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d9536b8f02f1201db2c51c8e5dd43a6ce8c11a3e40892dcd9981106108b1927a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/9\/1-4.1792125862267.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威的"
+    },
+    {
+      "surface": "הויה",
+      "gloss": "必臨到"
+    },
+    {
+      "surface": "במקנך",
+      "gloss": "你的牲畜"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "在田間的"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "馬"
+    },
+    {
+      "surface": "בחמרים",
+      "gloss": "驢"
+    },
+    {
+      "surface": "בגמלים",
+      "gloss": "駱駝"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "牛群"
+    },
+    {
+      "surface": "ובצאן",
+      "gloss": "和羊群"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "瘟疫"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "極重的"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常"
+    }
+  ],
+  "timestamp": "2026-10-16T04:44:22.268274443Z",
+  "model": "glm-5.3"
+}

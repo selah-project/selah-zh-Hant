@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "הבית",
+      "rationale": "「那房屋」可指王宮（多數譯本）或聖殿（代下9:3 平行經文的語境）；此處譯「宮殿」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "了",
+      "rationale": "中文完成貌助詞，希伯來文以敘述式動詞表達，無對應字。"
+    }
+  ],
+  "translation": "示巴女王看見了⟨את⟩所羅門的一切智慧，以及他所建造的宮殿。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "50364eeec703b16db8f65781edc4e874adaca30b68e74428bb634791d189bdea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/10\/1-4.1792132900899.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "她看見了"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "女王"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "示巴"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所羅門的一切智慧"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門的"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "和宮殿"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "他所……的"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "建造"
+    }
+  ],
+  "timestamp": "2026-10-16T06:41:40.900865767Z",
+  "model": "glm-5.3"
+}

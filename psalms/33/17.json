@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "牠",
+      "rationale": "中文需受詞主語，希伯來文以動詞詞尾隱含"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שקר\/לתשועה",
+      "rationale": "「虛妄」置於「拯救」之前形成尖銳對比，與上節「君王不能靠軍兵得救」呼應"
+    }
+  ],
+  "translation": "馬是虛妄的拯救，牠眾多的力量並不能救人逃脫。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/33\/17-20.1792143620795.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "虛妄"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "馬"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "拯救"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "並在……眾多"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "牠的力量"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "使人逃脫"
+    }
+  ],
+  "timestamp": "2026-10-16T09:40:20.796294609Z",
+  "model": "glm-5.3"
+}

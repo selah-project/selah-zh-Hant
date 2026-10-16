@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואני תפלה",
+      "rationale": "字面「而我——祈禱」：無動詞的格言式省略；譯本作「我專心祈禱」（KJV）、「我全是祈禱」（JPS）、或「我是祈禱之人」（BSB）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ישטנוני",
+      "rationale": "動詞שטן即「撒但」的字根——控告、敵對；不是抽象名詞而是動作"
+    }
+  ],
+  "translation": "他們以控告回報我的愛，至於我——我是祈禱。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4e93a87331292423e31d0b6e0900e868c52634e2c0ed0f8b730ebf095603344d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/109\/1-4.1792144773395.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "以……回報／代替"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "我的愛"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "他們控告我"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "至於我"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "祈禱"
+    }
+  ],
+  "timestamp": "2026-10-16T09:59:33.396263830Z",
+  "model": "glm-5.3"
+}

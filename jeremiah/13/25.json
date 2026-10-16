@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מדיך",
+      "rationale": "「你的量度」：מד可指量器、身量或衣袍，譯本或作「量給你的分」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "籤",
+      "rationale": "גורל本義為小石子（抽籤用的卵石），轉指抽中的分"
+    }
+  ],
+  "translation": "這是你的籤，你量得的分，從⟨את⟩我而來，是雅威的言：因為你忘記了⟨את⟩我，倚靠虛謊。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ca8c1ed7db494c8d88084d6e18d5d07ac5ad522494543ce890fd9f6c7a65372c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/13\/25-27.1792136516368.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "你的籤"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "分"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "你的量度"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "從⟨את⟩我"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "言"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "你忘記了"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩我",
+      "marks": "我（你忘記的對象）"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "你倚靠"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "虛謊"
+    }
+  ],
+  "timestamp": "2026-10-16T07:41:56.368868170Z",
+  "model": "glm-5.3"
+}

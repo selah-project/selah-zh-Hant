@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אורה",
+      "rationale": "此「光明」的陰性形式僅見於此節。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "四重排比",
+      "rationale": "光明—喜樂—歡欣—尊榮四詞連排，中文以四個「有」保留節奏。"
+    }
+  ],
+  "translation": "猶太人有光明、有喜樂、有歡欣、有尊榮。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "66396aabd55949de2545aa5105ae795d243905e6557ae01f3765fd2ad5451ba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/esther\/8\/13-16.1792147281646.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "猶太人"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "有"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "光明"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "喜樂"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "歡欣"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "尊榮"
+    }
+  ],
+  "timestamp": "2026-10-16T10:41:21.647501190Z",
+  "model": "glm-5.3"
+}

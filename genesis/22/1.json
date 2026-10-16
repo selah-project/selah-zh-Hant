@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נסה",
+      "rationale": "「試驗」與「試探」（KJV tempt）之爭；本處是試驗，不是引誘犯罪。"
+    },
+    {
+      "kind": "you",
+      "subject": "亞伯拉罕",
+      "rationale": "以羅欣直接呼叫亞伯拉罕，亞伯拉罕以「我在這裡」回應。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנני",
+      "rationale": "「看哪，我」——一個字承擔整句應答，中文以「我在這裡」呈現。"
+    }
+  ],
+  "translation": "後來，這些事以後，以羅欣試驗了 ⟨את⟩ 亞伯拉罕，對他說：「亞伯拉罕。」他說：「我在這裡。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e2e1f3329f59fb0e0161134ce949bc8d5289e6a0948a3bbdb9bf792bacab6c63",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/22\/1-4.1792125006048.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "後來"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "…以後"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "這些事"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "試驗"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞伯拉罕"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "我在這裡"
+    }
+  ],
+  "timestamp": "2026-10-16T04:30:06.049222516Z",
+  "model": "glm-5.3"
+}

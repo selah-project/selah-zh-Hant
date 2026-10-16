@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "都要守",
+      "rationale": "עשׂו 直譯「做」，指遵行逾越節之禮"
+    }
+  ],
+  "translation": "以色列全會眾都要守⟨אתו⟩它。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bb8032791660e10bf0f99cce5005c4375d5ae7bec534cb1bc6fd28bbfb17bde0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/12\/45-48.1792125922126.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "都要守"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "它（逾越節之禮）"
+    }
+  ],
+  "timestamp": "2026-10-16T04:45:22.127141578Z",
+  "model": "glm-5.3"
+}

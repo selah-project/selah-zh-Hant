@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 是呼吸的生命體，近於「氣息／生命」，非希臘式的靈魂"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אביון／אביונים",
+      "rationale": "同一詞在兩行中重複，首尾呼應的貧乏者主題"
+    }
+  ],
+  "translation": "他必憐恤貧寒人和窮乏人，窮乏人的性命他必拯救。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "af32cd9fb2b8939ad65613025edd74cfd05d123041b1a254e9037257e399f37e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/72\/13-16.1792144151310.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "憐恤"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "דל",
+      "gloss": "貧寒人"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "和窮乏人"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "而…的性命"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "窮乏人"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "他必拯救"
+    }
+  ],
+  "timestamp": "2026-10-16T09:49:11.311168520Z",
+  "model": "glm-5.3"
+}

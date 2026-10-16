@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "無故",
+      "rationale": "שקר 字面是「謊言／虛假」，此處作副詞「虛假地、無故地」"
+    }
+  ],
+  "translation": "我的仇敵存活而且強盛，無故恨我的人增多了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2abcd069df0fabfec58f6a32452f4b0ac8e78f0cafe15f365b91de2dc3f20c16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/38\/17-20.1792143754012.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "我的仇敵"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "存活"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "強盛"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "增多了"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "恨我的人"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "無故"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:34.013473677Z",
+  "model": "glm-5.3"
+}

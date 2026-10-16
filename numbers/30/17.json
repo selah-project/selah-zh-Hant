@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 30:17",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文省略繫詞，中文需要「這些是」的「是」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "之間",
+      "rationale": "בין 直譯為「在……之間」，中文以「A與B之間」表達同一結構"
+    }
+  ],
+  "translation": "這些是雅威吩咐 ⟨את⟩ 摩西的律例：丈夫與妻子之間，父親與女兒之間——她還在年幼、在父親家中的時候。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d2c28a1407bdd6acd22f38088b98fa74b0b3658f95b7c5080fcda49c93d06617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/30\/17-17.1792128268534.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "律例"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "吩咐"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩西"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "בין",
+      "gloss": "之間"
+    },
+    {
+      "surface": "איש",
+      "gloss": "丈夫"
+    },
+    {
+      "surface": "לאשתו",
+      "gloss": "與他的妻子"
+    },
+    {
+      "surface": "בין",
+      "gloss": "之間"
+    },
+    {
+      "surface": "אב",
+      "gloss": "父親"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "與他的女兒"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "在她年幼時"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "她的父親"
+    }
+  ],
+  "timestamp": "2026-10-16T05:24:28.535450055Z",
+  "model": "glm-5.3"
+}

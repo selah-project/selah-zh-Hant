@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "赫",
+      "rationale": "חת 是人名（赫之祖），非「赫人」複數族名；此處按人名譯出"
+    },
+    {
+      "kind": "measurement",
+      "subject": "族譜",
+      "rationale": "迦南後代的名單，並標明長子身分（首生）"
+    }
+  ],
+  "translation": "迦南生了 ⟨את⟩ 西頓——他的長子——和 ⟨את⟩ 赫。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "75e77547bbff0e24042c6599703ac4c211014f2daa7cfcd03d16908797e2754a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/10\/13-16.1792124706394.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "迦南"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "西頓"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "西頓"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "他的長子"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "赫"
+    },
+    {
+      "surface": "חת",
+      "gloss": "赫"
+    }
+  ],
+  "timestamp": "2026-10-16T04:25:06.396308391Z",
+  "model": "glm-5.3"
+}

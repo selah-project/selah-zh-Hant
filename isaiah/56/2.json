@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 56:2",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אנוש \/ בן אדם",
+      "rationale": "兩個「人」字並列（必死之人／亞當之子），中文難以完全再現"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אשרי",
+      "rationale": "「福樂」為複數構詞的感嘆式「何等有福」，非單一狀態詞"
+    }
+  ],
+  "translation": "那行事如此的必得福樂，持守此事的人子有福了——謹守安息日而不褻瀆它，謹守自己的手不作任何惡事的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4a23418dc5036747c8e984fd2eb5ba15533d7eb3ca8d10b29b9430e138f7cd43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/56\/1-4.1792135770492.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "必得福樂"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "人"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "行事"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "如此"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "……的子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "持守"
+    },
+    {
+      "surface": "בה",
+      "gloss": "此事"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "謹守"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "安息日"
+    },
+    {
+      "surface": "מחללו",
+      "gloss": "而不褻瀆它"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "謹守"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "自己的手"
+    },
+    {
+      "surface": "מעשות",
+      "gloss": "不作"
+    },
+    {
+      "surface": "כל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "רע",
+      "gloss": "惡事"
+    }
+  ],
+  "timestamp": "2026-10-16T07:29:30.493015884Z",
+  "model": "glm-5.3"
+}

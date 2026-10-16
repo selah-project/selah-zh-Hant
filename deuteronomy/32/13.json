@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 32:13",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חלמיש",
+      "rationale": "חלמיש（燧石、堅石）在塔納赫中僅出現數次，此處與צור並列作同位語"
+    },
+    {
+      "kind": "substitution",
+      "subject": "沙代",
+      "rationale": "此處שדי（שדה 的複數構詞形，田間）與聖名沙代同音異詞，譯作「田間」而非「沙代」"
+    }
+  ],
+  "translation": "雅威使他騎在地的高處，使他吃田間的出產，又使他從磐石中吸吮蜂蜜，從堅石的孔隙中吸出油來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "984ffc9bc2d68474341d88b613dbae9148e9cafd8928321bacbf4f5550c88c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/32\/13-16.1792129322798.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירכבהו",
+      "gloss": "使他騎"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "高處"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "使他吃"
+    },
+    {
+      "surface": "תנובת",
+      "gloss": "出產"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "田間"
+    },
+    {
+      "surface": "וינקהו",
+      "gloss": "使他吸吮"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "蜂蜜"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "從磐石"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "和油"
+    },
+    {
+      "surface": "מחלמיש",
+      "gloss": "從堅石"
+    },
+    {
+      "surface": "צור",
+      "gloss": "巖石"
+    }
+  ],
+  "timestamp": "2026-10-16T05:42:02.799072264Z",
+  "model": "glm-5.3"
+}

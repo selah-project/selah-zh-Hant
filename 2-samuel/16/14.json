@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וינפש",
+      "rationale": "動詞源於נפש（氣息／生命），字面為「喘口氣、透過呼吸恢復」，中文譯「喘息恢復」以存其呼吸意象"
+    },
+    {
+      "kind": "addition",
+      "subject": "了",
+      "rationale": "中文時態助詞，希伯來文的完成式以動詞形態表達"
+    }
+  ],
+  "translation": "王和所有跟隨他的百姓都來到那裏，疲乏了，就在那裏得以喘息恢復。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2cf21a1dc7d58e1874bd745e3be4a13a311665ef4984752676e76b78e3635516",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/16\/13-16.1792132060299.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和所有"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "跟隨"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩他"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "疲乏了"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "得以喘息恢復"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裏"
+    }
+  ],
+  "timestamp": "2026-10-16T06:27:40.300803632Z",
+  "model": "glm-5.3"
+}

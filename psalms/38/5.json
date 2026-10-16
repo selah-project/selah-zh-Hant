@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 38:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כבד\/יכבדו",
+      "rationale": "「沉重的擔子……過重」同源雙關（כבד 名詞與動詞），中文以「沉重／過重」保留呼應。"
+    },
+    {
+      "kind": "addition",
+      "subject": "承受",
+      "rationale": "ממני 直譯「過於我」，中文補「承受」以成句。"
+    }
+  ],
+  "translation": "因為我的罪孽越過了我的頭；如同沉重的擔子，過重於我承受。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6e0e4481c66985f76af9c5f6a00308d3b84c548b2b59255c12da3f9d044e2080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/38\/5-8.1792143707835.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "我的罪孽"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "越過了"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "我的頭"
+    },
+    {
+      "surface": "כמשא",
+      "gloss": "如同重擔"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "沉重的"
+    },
+    {
+      "surface": "יכבדו",
+      "gloss": "過重"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "於我承受"
+    }
+  ],
+  "timestamp": "2026-10-16T09:41:47.835669544Z",
+  "model": "glm-5.3"
+}

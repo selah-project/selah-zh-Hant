@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他們",
+      "rationale": "希伯來文未明言主語（承接上文的恐怖），中文需補出。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סבב／נקף",
+      "rationale": "兩個「環繞」動詞疊用，洪水圍困的意象重複加壓。"
+    }
+  ],
+  "translation": "他們如水終日環繞我，一齊圍困我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "eda71151d2410ae7e9ab6e9c08f5e534f649778bee36cadc75d74ff1f725fda3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/88\/17-19.1792144438246.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "環繞我"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "如水"
+    },
+    {
+      "surface": "כל",
+      "gloss": "終"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "圍困"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "〈對著我〉"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "一齊"
+    }
+  ],
+  "timestamp": "2026-10-16T09:53:58.246954541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,153 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 19:7",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא חי",
+      "rationale": "לוֹא 在此寫作 לא，是條件詞「若是」（KJV\/ASV 'if Absalom had lived'），非否定詞"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי×7",
+      "rationale": "本節七個 כי 串成約押連珠斥責的節奏，中文只能部分保留"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ישר בעיניך",
+      "rationale": "字面「在你眼中為正直」，即譯「看為好」"
+    }
+  ],
+  "translation": "愛 ⟨את⟩ 恨你的人，恨 ⟨את⟩ 愛你的人；因為你今天表明了：對你來說，首領和僕人都算不得什麼。因為我知道，今天若是押沙龍活著、我們全都死了，那在你眼中才看為好。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2833f676bee4b3aabb94c57ca4ca3288575400bc6b5d040637883b9028a34be3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/19\/5-8.1792132322896.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאהבה",
+      "gloss": "愛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恨你的人"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "恨你的人"
+    },
+    {
+      "surface": "ולשנא",
+      "gloss": "恨"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "愛你的人"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "愛你的人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "你表明了"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今天"
+    },
+    {
+      "surface": "כי",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "לך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "首領"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "和僕人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我知道"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今天"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "（若）"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "押沙龍"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活著"
+    },
+    {
+      "surface": "וכלנו",
+      "gloss": "我們全都"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今天"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "死了"
+    },
+    {
+      "surface": "כי",
+      "gloss": "那麼"
+    },
+    {
+      "surface": "אז",
+      "gloss": "那時"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "看為正"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "在你眼中"
+    }
+  ],
+  "timestamp": "2026-10-16T06:32:02.898417291Z",
+  "model": "glm-5.3"
+}

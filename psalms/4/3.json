@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "人子們",
+      "rationale": "בני איש「人之子們」，直接斥責的對象：高貴之人或世人"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "虛空／謊言",
+      "rationale": "ריק（空虛）與 כזב（虛謊）音近義近，對仗修辭"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "音樂記號，不譯義，標作（細拉）"
+    }
+  ],
+  "translation": "人子們哪，你們將我的榮耀變為羞辱，要到幾時呢？你們喜愛虛空，尋求謊言。（細拉）",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8c174a185ab4aa0e751ac7befed73883264b6c3469270b59a657583123ea5fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/4\/1-4.1792143266717.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "……之子們"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "מה",
+      "gloss": "幾時呢"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "我的榮耀"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "變為羞辱"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "你們喜愛"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "虛空"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "尋求"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "謊言"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "（細拉）"
+    }
+  ],
+  "timestamp": "2026-10-16T09:34:26.718474194Z",
+  "model": "glm-5.3"
+}

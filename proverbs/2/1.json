@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "介詞「與你同在」以 ⟨את⟩ 記號加「你身上」呈現"
+    },
+    {
+      "kind": "invitation",
+      "subject": "我兒",
+      "rationale": "父親向兒子的直接勸誡開場，召喚聽者進入"
+    }
+  ],
+  "translation": "我兒，你若領受我的言語，把我的誡命存留在你身上——",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6aba919b2ae6305385c391d93c0fef0b8588fd88c7bd5358683e953ff4cbeb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/2\/1-4.1792145167876.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "我兒"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "領受"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "我的言語"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "我的誡命"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "存留"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "你身上"
+    }
+  ],
+  "timestamp": "2026-10-16T10:06:07.877290854Z",
+  "model": "glm-5.3"
+}

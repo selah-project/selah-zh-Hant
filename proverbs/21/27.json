@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 21:27",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，名詞句直接並列"
+    },
+    {
+      "kind": "crux",
+      "subject": "בזמה",
+      "rationale": "傳統譯『邪惡的心思』（和合本），JPS 譯『惡行所得之物』；זמה 本義為邪惡的圖謀，此處取惡念"
+    },
+    {
+      "kind": "elision",
+      "subject": "אף כי",
+      "rationale": "兩個小詞合譯為『何況』，表遞進修辭（a fortiori）"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨它⟩",
+      "rationale": "יביאנו 的詞尾代詞——指祭物——以括號代詞標出"
+    }
+  ],
+  "translation": "惡人的祭物是可憎的，何況他帶著惡念獻上⟨它⟩呢！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cb9fd5f7f9569486c1cf0e36314540d37dffd959ab481a2f9ec6819b6a44527b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/21\/26-27.1792149939264.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "祭物"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "可憎的"
+    },
+    {
+      "surface": "אף",
+      "gloss": "何況"
+    },
+    {
+      "surface": "כי",
+      "gloss": "更"
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "惡念"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "帶來⟨它⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T11:25:39.264775439Z",
+  "model": "glm-5.3"
+}

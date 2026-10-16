@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 5:9",
+  "book": "micah",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "numbering",
+      "rationale": "希伯來經文與英譯（KJV等）章節編號錯位：本節希伯來文論馬匹戰車，英譯本將此內容置於第10節。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נאם יהוה",
+      "rationale": "直譯「雅威的神諭」，此處依中文慣例作「雅威說」。"
+    }
+  ],
+  "translation": "到那日，雅威說：我必從你中間剪除你的馬匹，毀滅你的戰車。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "061f9eb75352d907fb4f3b7870342027448b4e79d5f0d882d110e2b5204329a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/micah\/5\/9-12.1792139930793.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "必臨到"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "到那日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "那"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "我必剪除"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "你的馬匹"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "從你中間"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "毀滅"
+    },
+    {
+      "surface": "מרכבתיך",
+      "gloss": "你的戰車"
+    }
+  ],
+  "timestamp": "2026-10-16T08:38:50.794297496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ruth 3:1",
+  "book": "ruth",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלא",
+      "rationale": "הלא 引導的反問，直譯「不是嗎」，中文以「豈不」表達"
+    },
+    {
+      "kind": "addition",
+      "subject": "嗎",
+      "rationale": "中文問句需要句尾語氣詞，希伯來文無此字"
+    },
+    {
+      "kind": "you",
+      "subject": "to Ruth",
+      "rationale": "拿俄米直接稱呼路得「我女兒啊」"
+    }
+  ],
+  "translation": "她婆婆拿俄米對她說：「我女兒啊，我豈不當為你尋一個安身之處，使你得好處嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dbb9a084c7daf989b62d592c2865d0508d20dc6c9940d8b4588d0f3c0e417192",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ruth\/3\/1-4.1792146765438.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "לה",
+      "gloss": "對她"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "拿俄米"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "她的婆婆"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "我女兒啊"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "豈不"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "我當尋求"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為你"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "安身之處"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "使"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "得好處"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    }
+  ],
+  "timestamp": "2026-10-16T10:32:45.438859197Z",
+  "model": "glm-5.3"
+}

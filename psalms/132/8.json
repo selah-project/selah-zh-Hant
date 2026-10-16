@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "雅威",
+      "rationale": "直接向雅威發出的呼求（與民 10:35 相呼應）"
+    },
+    {
+      "kind": "addition",
+      "subject": "求",
+      "rationale": "命令式語氣在中文以「求你」呈現其呼求功能"
+    }
+  ],
+  "translation": "雅威啊，求你起來，到你安息之處，你和你大能的約櫃。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bb87b8b264bc7567d707878fb2682a94a531c35bd177531ffc0507c582e30ce3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/132\/5-8.1792144979075.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "求你起來"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "到你安息之處"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "和約櫃"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "你大能的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:02:59.078145823Z",
+  "model": "glm-5.3"
+}

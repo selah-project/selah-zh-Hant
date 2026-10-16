@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אִתָּנוּ",
+      "rationale": "此處是介詞「與我們同在」（H5978），非受詞記號 H853；譯文按語義譯出並保留 ⟨את⟩ 記號。"
+    },
+    {
+      "kind": "you",
+      "subject": "誇口者",
+      "rationale": "引述惡人的狂言：否認任何主（אדון）凌駕他們之上。"
+    }
+  ],
+  "translation": "那些人曾說：「我們要以我們的舌頭得勝，我們的嘴唇與我們同在（⟨את⟩）；誰是管轄我們的阿多奈呢？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2e8bfb0f9c2067f461a0cddcb065e7801b95f1df499e42d5b5c06c36de471b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/12\/5-8.1792143376564.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "那些人"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "曾說"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "以我們的舌頭"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "得勝"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "我們的嘴唇"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩與我們同在",
+      "marks": "與我們同在（嘴唇在我們手中）"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "管轄我們"
+    }
+  ],
+  "timestamp": "2026-10-16T09:36:16.565578709Z",
+  "model": "glm-5.3"
+}

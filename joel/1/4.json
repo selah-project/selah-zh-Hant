@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "四種蝗蟲名",
+      "rationale": "גזם／ארבה／ילק／חסיל 或指四種蝗蟲、或指蝗蟲四個生長階段、或為同類修辭變化；各譯本分歧極大"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יתר……אכל",
+      "rationale": "「剩下的……吃了」三重鏈式遞降結構，中文以重複句式保留"
+    }
+  ],
+  "translation": "剪蟲剩下的，蝗蟲吃了；蝗蟲剩下的，螻蛄吃了；螻蛄剩下的，毀蝗吃了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "45ec4144656b393b5be42ca51f70630482d559c7d6c577947af9d11450d8110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joel\/1\/1-4.1792139584851.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "剩下的"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "剪蟲"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "吃了"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "蝗蟲"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "剩下的"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "蝗蟲"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "吃了"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "螻蛄"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "剩下的"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "螻蛄"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "吃了"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "毀蝗"
+    }
+  ],
+  "timestamp": "2026-10-16T08:33:04.852689244Z",
+  "model": "glm-5.3"
+}

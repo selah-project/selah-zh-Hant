@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "甦醒",
+      "rationale": "חיתני 是使役「使我活」，和合本「甦醒」偏快活義；此處取「使我活過來」"
+    }
+  ],
+  "translation": "這是我在患難中的安慰，因為你的話使我甦醒過來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c9e2dba27090389238312a75e443044ea162f959c37a5db86bb09682301414db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/49-52.1792144843242.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "是我的安慰"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "在我的患難中"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "你的話"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "使我活過來"
+    }
+  ],
+  "timestamp": "2026-10-16T10:00:43.243031755Z",
+  "model": "glm-5.3"
+}

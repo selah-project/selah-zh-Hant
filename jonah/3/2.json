@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "imperatives",
+      "rationale": "連續命令式：起來、去、宣告——對約拿的召喚"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jonah",
+      "rationale": "雅威直接向約拿說話"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרא\/הקריאה",
+      "rationale": "同一詞根的動詞與名詞並用（宣告那宣告），中文以兩個「宣告」重現"
+    }
+  ],
+  "translation": "起來，往尼尼微大城去，向其中的居民宣告 ⟨את⟩ 我所吩咐你的宣告，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1598c608c54b2c3303f31bc4961b6b3ff43b1815d2272faab2a9adeb44f79505",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jonah\/3\/1-4.1792139938651.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "起來"
+    },
+    {
+      "surface": "לך",
+      "gloss": "往……去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "往"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "尼尼微"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "大城"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "大城"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "宣告"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "向其中"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "宣告"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "宣告"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所……的"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "吩咐（說）"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "向你"
+    }
+  ],
+  "timestamp": "2026-10-16T08:38:58.652236767Z",
+  "model": "glm-5.3"
+}

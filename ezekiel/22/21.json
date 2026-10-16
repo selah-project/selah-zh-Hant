@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 22:21",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "aleph-tav 受詞記號，中文語法無對應，以 ⟨את⟩ 標記保留"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כנס\/נתך",
+      "rationale": "收集與熔化的冶金意象延續第20節，中文保留其熔爐圖像"
+    }
+  ],
+  "translation": "我必收集你們，必在我怒氣的火中吹在你們身上，你們就必在其中間熔化。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7ef7112bc9e6d73491a69c1b4d6b9534167ac3322b82fcc68e13c01fd681c640",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/22\/21-24.1792138483758.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכנסתי",
+      "gloss": "我必收集"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "你們"
+    },
+    {
+      "surface": "ונפחתי",
+      "gloss": "我必吹"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "在你們身上"
+    },
+    {
+      "surface": "באש",
+      "gloss": "在火中"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "我怒氣的"
+    },
+    {
+      "surface": "ונתכתם",
+      "gloss": "你們就必熔化"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "在其中間"
+    }
+  ],
+  "timestamp": "2026-10-16T08:14:43.759047102Z",
+  "model": "glm-5.3"
+}

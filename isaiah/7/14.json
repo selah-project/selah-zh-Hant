@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 7:14",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "העלמה",
+      "rationale": "「少女」對「處女」：希伯來文 עלמה 指年輕女子，七十士譯本作 parthenos（處女），後被引入新約用法；此處按塔納赫語境譯「少女」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "以馬內利",
+      "rationale": "名字按和合本通行寫法音譯，並括註其字面意義「伊勒與我們同在」"
+    },
+    {
+      "kind": "addition",
+      "subject": "她",
+      "rationale": "וקראת 是陰性單數動詞，中文需補出主語「她」"
+    }
+  ],
+  "translation": "因此，阿多奈自己必給你們一個兆頭：看哪，那少女懷孕，要生一個兒子，她必給他起名叫以馬內利（伊勒與我們同在）。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a6146c4e58a799711a253935b5c8021d72e44f34325de6d7f3a7ceed119778e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/7\/13-16.1792134605227.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "因此"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "必給"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "自己"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "給你們"
+    },
+    {
+      "surface": "אות",
+      "gloss": "一個兆頭"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "那少女"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "懷孕"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "要生"
+    },
+    {
+      "surface": "בן",
+      "gloss": "一個兒子"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "她必給……起名"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "他的名"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "與我們同在"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    }
+  ],
+  "timestamp": "2026-10-16T07:10:05.228028Z",
+  "model": "glm-5.3"
+}

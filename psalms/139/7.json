@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "全節",
+      "rationale": "詩人向自己（也向讀者）發出的兩個問句， rhetorical 問題引人進入下文的答案"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אנה……ואנה",
+      "rationale": "「哪裡」重複兩次，平行問句的疊句結構"
+    }
+  ],
+  "translation": "我往哪裡去，離開你的魯阿（靈）？我往哪裡逃，離開你的面？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/139\/5-8.1792145041249.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "往哪裡"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "我去"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "離開你的魯阿"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "而往哪裡"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "離開你的面"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "我逃"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:01.251946003Z",
+  "model": "glm-5.3"
+}

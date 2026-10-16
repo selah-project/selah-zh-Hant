@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "安然",
+      "rationale": "「安然」為譯本添入；希伯來文只說「直到我過去」，中文補出語境含義並以〈〉標記以外之字省略——此處按經文直譯「經過」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "自己的",
+      "rationale": "במכמריו 的後綴「他們的」指惡人自己；「自己的」為中文所需的重複。"
+    }
+  ],
+  "translation": "願惡人一同落在他們自己的網裡，我卻要安然經過。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ed57e002cc009c647fee44da040c825b80f78ee00c9d0768dcb79644b3ceb2f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/141\/9-10.1792145017402.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "願……落下"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "在他們的網裡"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "一同"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "經過"
+    }
+  ],
+  "timestamp": "2026-10-16T10:03:37.402851541Z",
+  "model": "glm-5.3"
+}

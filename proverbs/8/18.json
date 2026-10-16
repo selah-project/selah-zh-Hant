@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתי",
+      "rationale": "此處אתי是介詞「與我同在」（H854），非受詞記號H853；譯文保留⟨את⟩記號但按「同在」理解。"
+    },
+    {
+      "kind": "crux",
+      "subject": "持久的",
+      "rationale": "עתק字面為「古老、久遠」，故「古久的財寶」；有譯本作「珍藏的」或「勝過」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨也在⟩",
+      "rationale": "希伯來文末句無動詞，中文補足承前省略的「在」。"
+    }
+  ],
+  "translation": "財富和尊榮都 ⟨את⟩ 與我同在，持久的財寶和公義 ⟨也在⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "882fee0bfdff1b73ff7a7b46be74156dd1dcebbf151d0a5e9626c15e50eed09b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/8\/17-20.1792145304398.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "財富"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "和尊榮"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩與我同在",
+      "marks": "財富和尊榮"
+    },
+    {
+      "surface": "הון",
+      "gloss": "財寶"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "持久的"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "和公義"
+    }
+  ],
+  "timestamp": "2026-10-16T10:08:24.399153578Z",
+  "model": "glm-5.3"
+}

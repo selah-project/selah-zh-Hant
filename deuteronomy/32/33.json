@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חמת",
+      "rationale": "字面為『怒火／熱』，此處轉喻毒液的灼熱；譯作毒液"
+    },
+    {
+      "kind": "crux",
+      "subject": "תנינים",
+      "rational": "可指海怪或蛇；各家或作 dragons 或 serpents"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חמת…ראש",
+      "rationale": "兩個毒字首尾呼應，中文難以保留"
+    }
+  ],
+  "translation": "他們的酒是蛇的毒液，是眼鏡蛇兇殘的毒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5cd132a49a5f455e0cd9e36b7c39cf6119d576ae15d496afa4af00ba5eb55fec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/32\/33-36.1792129330884.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "毒液"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "蛇"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "他們的酒"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "和毒"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "眼鏡蛇"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "兇殘的"
+    }
+  ],
+  "timestamp": "2026-10-16T05:42:10.885347512Z",
+  "model": "glm-5.3"
+}

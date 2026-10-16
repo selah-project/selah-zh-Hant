@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אטנפם",
+      "rationale": "טנף（弄髒）在《塔納赫》中僅見於此處與 5:5 祈使式"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "平行結構",
+      "rationale": "兩組「我已……怎能再……」完全平行，遲疑的節奏"
+    }
+  ],
+  "translation": "我已脫下 ⟨את⟩ 我的內袍，怎能再穿上呢？我已洗了 ⟨את⟩ 我的腳，怎能再弄髒 ⟨它們⟩ 呢？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6245c91614d8e63421535f4c25092c415dc0cf2afcafa6f04b1ac40c30b1de99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/5\/1-4.1792146645566.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "我已脫下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的內袍"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "我的內袍"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "怎能"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "再穿上呢"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "我已洗了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的腳"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "我的腳"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "怎能"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "再弄髒呢"
+    }
+  ],
+  "timestamp": "2026-10-16T10:30:45.567925951Z",
+  "model": "glm-5.3"
+}

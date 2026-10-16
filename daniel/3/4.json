@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 3:4",
+  "book": "daniel",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בחיל",
+      "rationale": "字面是「以力量」，即「大聲、全力」呼喊，取其慣用義。"
+    },
+    {
+      "kind": "you",
+      "subject": "各族人民",
+      "rationale": "呼喊直接向「各方、各族、各語言的人」發出——但以理書一再出現的三重全稱。"
+    },
+    {
+      "kind": "invitation",
+      "subject": "傳令官的呼喊",
+      "rationale": "以宣告召喚全帝國的人聆聽王的命令，具召集性質。"
+    },
+    {
+      "kind": "addition",
+      "subject": "〈哪〉〈被吩咐說〉",
+      "rationale": "中文需感嘆語氣詞與被動提示，希伯來文（亞蘭文）無此字。"
+    }
+  ],
+  "translation": "傳令官大聲呼喊：「各方的人民、各族、各語言的人〈哪〉，你們〈被吩咐說〉：",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ff9274d6280cb6db04316605fafa7c7f2a17520240ff38fbd52a7dca19557e7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/daniel\/3\/1-4.1792147471085.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכרוזא",
+      "gloss": "傳令官"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "呼喊"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "大聲"
+    },
+    {
+      "surface": "לכון",
+      "gloss": "你們"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "被吩咐說"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "各方的人民"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "各族"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "各語言的人"
+    }
+  ],
+  "timestamp": "2026-10-16T10:44:31.086858446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 12:7",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "血之源",
+      "rationale": "ממקר 字面為「挖出之物、泉源」，指血的流出處"
+    },
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "動詞尾綴 ו 指祭司所獻的祭物，中文補出主語「他」（祭司）"
+    }
+  ],
+  "translation": "他要把它獻在雅威面前，為她贖罪，她就從她血之源得潔淨。這是產婦的妥拉，無論生男或生女。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e95d73a1237c51da644d011d9d152c4a7de7a87b368baafc4cee6254c36f4711",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/12\/6-8.1792142331958.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "他要把它獻上"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "贖罪"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "為她"
+    },
+    {
+      "surface": "וטהרה",
+      "gloss": "她就得潔淨"
+    },
+    {
+      "surface": "ממקר",
+      "gloss": "從…之源"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "她的血"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "…的妥拉"
+    },
+    {
+      "surface": "הילדת",
+      "gloss": "產婦"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "為男"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "לנקבה",
+      "gloss": "為女"
+    }
+  ],
+  "timestamp": "2026-10-16T09:18:51.960091427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 43:8",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתי",
+      "rationale": "此處 את 為介詞「與…同」，屬⟨את⟩家族，譯作「與…同去」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם…גם…גם",
+      "rationale": "三重「也／連」排比——我們、你、孩子們——中文以破折號列舉保留節奏。"
+    },
+    {
+      "kind": "invitation",
+      "subject": "猶大對以色列",
+      "rationale": "猶大以請求式祈使句「請打發」勸說父親，是全段敘事的轉折籲求。"
+    }
+  ],
+  "translation": "猶大對他父親以色列說：「請打發那少年人與⟨את⟩我同去，我們可以起身前往，好叫我們存活，不至死亡——我們、你、以及我們的孩子們都得以存活。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "692cfbd8a7d3d3b511c3aa0d14fa5db0379457ef893882cf05cdf9044a89595d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/43\/5-8.1792125551430.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "他父親"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "請打發"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "那少年人"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩我同去",
+      "marks": "那少年人與我同去"
+    },
+    {
+      "surface": "ונקומה",
+      "gloss": "我們可以起身"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "前往"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "好叫我們存活"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不至"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "死亡"
+    },
+    {
+      "surface": "גם",
+      "gloss": "我們"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "我們"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "טפנו",
+      "gloss": "我們的孩子們"
+    }
+  ],
+  "timestamp": "2026-10-16T04:39:11.432389846Z",
+  "model": "glm-5.3"
+}

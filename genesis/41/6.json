@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 41:6",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "東風",
+      "rationale": "קדים字面是「東」；沙漠熱風來自東方，故作「東風」"
+    },
+    {
+      "kind": "measurement",
+      "subject": "七支麥穗",
+      "rationale": "第二組七的計數，貧瘠與豐肥相對"
+    }
+  ],
+  "translation": "看哪，又有七支麥穗，細瘦而被東風吹焦的，在它們之後長起來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d83c4c6ba26f75f4c4c1b3243af6caad4f0cfbdd2617b5a391c6d09ccdd7fe48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/41\/5-8.1792125442703.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "支麥穗"
+    },
+    {
+      "surface": "דקות",
+      "gloss": "細瘦"
+    },
+    {
+      "surface": "ושדופת",
+      "gloss": "而被吹焦"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "東風"
+    },
+    {
+      "surface": "צמחות",
+      "gloss": "長起來"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "在它們之後"
+    }
+  ],
+  "timestamp": "2026-10-16T04:37:22.704162635Z",
+  "model": "glm-5.3"
+}

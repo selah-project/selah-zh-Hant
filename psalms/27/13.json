@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לולא",
+      "rationale": "「若不是」（反事實條件，JPS）與「我必早已昏厥」（KJV\/ASV 補出隱含結論）兩讀。"
+    },
+    {
+      "kind": "addition",
+      "subject": "必得",
+      "rationale": "לראאות的不定式依附，中文補出能願詞。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חיים",
+      "rationale": "「活人之地」是閃語慣用語，指今生之人間。"
+    }
+  ],
+  "translation": "若不是我相信必得看見雅威的美善在活人之地——",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7279dd61c31884fd87504f0892046dbd010a32df671d465ed354dd2a9719f65c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/27\/13-14.1792143496657.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "若不是"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "我相信"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "看見"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "⟨必得⟩美善"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威的"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在……之地"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "活人"
+    }
+  ],
+  "timestamp": "2026-10-16T09:38:16.657822336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תשיך\/נשך\/ישך",
+      "rationale": "本節五次出於字根 נשך「咬」（如蛇咬）：動詞「取利」與名詞「利息」同字根，利息如咬噬；中文無法保留此雙關。"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחיך（你的弟兄）",
+      "rationale": "指以色列同胞；下一節（23:21，英文23:21）才論及外人可取利——不帶前知，本節只譯「你的弟兄」。"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "第二人稱單數律法命令。"
+    }
+  ],
+  "translation": "你不可向你的弟兄取利——銀錢的利息、食物的利息、任何可生利之物的利息。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8ac3bfe57f0b09c99368d3a7c4161c724ac812c888c238453895bacf5030b7ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/23\/17-20.1792129101111.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "取利"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "向你的弟兄"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "利息"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀錢的"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "利息"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食物的"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "利息"
+    },
+    {
+      "surface": "כל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "之物"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "生利的"
+    }
+  ],
+  "timestamp": "2026-10-16T05:38:21.112702999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 34:12",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חריה",
+      "rationale": "חור意為「白皙／高貴」，譯「貴族」；另有古譯本讀作「她的城邑」（מחוריה）"
+    },
+    {
+      "kind": "crux",
+      "subject": "יקראו",
+      "rationale": "「他們召貴族來王國卻無人在」（KJV）與「無貴族可召立王國」（JPS）兩讀並存；中文取其含混"
+    }
+  ],
+  "translation": "她的貴族可被召來立國，卻無人在那裡，她的眾首領都歸於無有。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "31e1321b6205f10e684ddf76cf386a26c834645a4bb0a7dfd78470d0518dfcfc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/34\/9-12.1792135257942.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חריה",
+      "gloss": "她的貴族"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "卻無"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裡"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "立國"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "可被召來"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "她的眾"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "首領"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "都成為"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "歸於無有"
+    }
+  ],
+  "timestamp": "2026-10-16T07:20:57.943209663Z",
+  "model": "glm-5.3"
+}

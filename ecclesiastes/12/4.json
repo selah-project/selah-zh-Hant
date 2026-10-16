@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דלתים",
+      "rationale": "雙數形式「兩扇門」，中文無雙數，譯「門」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "身體隱喻",
+      "rationale": "門＝耳朵，磨聲低微＝咀嚼無力，鳥聲驚醒＝睡眠淺，唱歌的女子＝嗓音衰微；與 12:3 同一隱喻鏈"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויקום לקול הצפור",
+      "rationale": "「聽鳥聲而起」或指失眠的老人清晨即醒，或指老年人對微弱聲音也警醒"
+    }
+  ],
+  "translation": "街上的門都關閉，磨的聲音低微，人一聽見鳥的聲音就起來，唱歌的女子都被壓低了——",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2238545a3ef1695f438d24eebaac952d1714a0c551225e507539f7b9da94679b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/12\/1-4.1792147079620.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "都關閉"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "門（雙數）"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "在街上"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "低微"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲音"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "磨（的聲音）"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "起來"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "一聽見……的聲音"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "鳥"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "被壓低"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "……的女子"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "唱歌"
+    }
+  ],
+  "timestamp": "2026-10-16T10:37:59.621843920Z",
+  "model": "glm-5.3"
+}

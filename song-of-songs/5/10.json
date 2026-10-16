@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "旗幟般被高舉",
+      "rationale": "דגול 字面是「被立旗、旗幟高舉」，傳統譯本作「萬人中的至尊者」失去旗幟的意象"
+    },
+    {
+      "kind": "crux",
+      "subject": "צח",
+      "rationale": "דָּגוּל 之外，「明亮」（צַח）傳統譯作「白」，字面是「燦爛、發光」"
+    }
+  ],
+  "translation": "我的良人明亮而紅潤，在萬人中如旗幟般被高舉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "683dc488b1be97ca2072cb6d26549d713d2e61ac8ac4bfa757045f65556c416f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/5\/9-12.1792146578596.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "我的良人"
+    },
+    {
+      "surface": "צח",
+      "gloss": "明亮"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "而紅潤"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "如旗幟般被高舉"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "在萬人中"
+    }
+  ],
+  "timestamp": "2026-10-16T10:29:38.597123230Z",
+  "model": "glm-5.3"
+}

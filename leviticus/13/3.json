@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 13:3",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "את 的帶後綴形式，中文語法無法直譯，以⟨אתו⟩記號保留並指向「他」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "不潔淨",
+      "rationalale": "טמא是禮儀上的不潔淨宣告，不是醫療診斷或道德判斷。",
+      "rationale": "טמא是禮儀上的不潔淨宣告，不是醫療診斷或道德判斷。"
+    }
+  ],
+  "translation": "祭司要察看皮膚上肉上的災病，災病中的毛髮若變白了，災病的樣貌又深過他的肉皮，這就是痲瘋的災病；祭司察看他，就要定他為不潔淨。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d6f8d4b0bce279f8b64953c5dcea75810fde501d35b9c37de9757e9003c2c7da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/13\/1-4.1792126994918.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "要察看"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "災病"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "災病"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "在皮膚上"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "肉上"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "毛髮"
+    },
+    {
+      "surface": "בנגע",
+      "gloss": "災病中的"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "變"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "白了"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "樣貌"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "災病的"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "深"
+    },
+    {
+      "surface": "מעור",
+      "gloss": "過皮膚"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "他的肉"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "災病"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "痲瘋"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "這就是"
+    },
+    {
+      "surface": "וראהו",
+      "gloss": "察看他"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "定為不潔淨"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "他"
+    }
+  ],
+  "timestamp": "2026-10-16T05:03:14.919845464Z",
+  "model": "glm-5.3"
+}

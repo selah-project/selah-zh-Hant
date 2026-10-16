@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זקים",
+      "rationale": "字根義為「火燄、火箭」，此處指金屬鎖鏈；取「鎖鏈」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כבד\/כבל",
+      "rationale": "「顯貴」（נכבדים，字根「重」）與「鐵鐐」（כבלים）音近並置，重量意象相扣，中文難以傳達"
+    }
+  ],
+  "translation": "要用鎖鏈捆綁他們的君王，用鐵鐐捆綁他們的顯貴。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "138774c5926d3ebe1c2386901e2fdc7601bfdce21de5403bc196f06529cc508b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/149\/5-8.1792145159536.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "要捆綁"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "他們的君王"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "用鎖鏈"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "和他們的顯貴"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "用鐵鐐"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "鐵"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:59.538042163Z",
+  "model": "glm-5.3"
+}

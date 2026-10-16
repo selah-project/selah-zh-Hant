@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 26:37",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זהב וצפית אתם",
+      "rationale": "希伯來文語序為「包裹它們——金子」，中文調整為「用金子包裹」並前置工具語"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "「它們的鉤子是金的」——希伯來文無繫詞，名詞句直陳"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "受詞記號 אתם（את 的複數形）按記號家族以 ⟨את׾⟩ 式保留為 ⟨את׾⟩\/⟨אתם⟩ 標記"
+    }
+  ],
+  "translation": "你要為帳幕的門簾做五根皂莢木柱子，用金子包裹 ⟨אתם⟩，它們的鉤子是金的；你要為它們鑄造五個銅座。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6fd89f2242ad5ed448d7d7851e5776c762e569c2bcb336fbac1c32c3742ab346",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/26\/37-37.1792126212548.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "你要做"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "為門簾"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "柱子"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "皂莢木"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "你要包裹"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "它們（五根柱子）"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金子"
+    },
+    {
+      "surface": "והיהם וויהם",
+      "gloss": "它們的鉤子"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "你要鑄造"
+    },
+    {
+      "surface": "להם",
+      "gloss": "為它們"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "座"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    }
+  ],
+  "timestamp": "2026-10-16T04:50:12.548908981Z",
+  "model": "glm-5.3"
+}

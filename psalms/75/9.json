@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 75:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חמר",
+      "rationale": "「發酵起沫」（YLt\/JPS）與「發紅」（KJV）兩讀；本譯兼取沫與紅的雙重畫面。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שמריה",
+      "rationale": "字面是酒的沉澱渣滓，被擠出喝盡，非僅「杯中餘滴」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "他從這杯倒出",
+      "rationale": "מזה 的受詞未明言，中文補「這杯」以通語意。"
+    }
+  ],
+  "translation": "因為雅威手中有一杯，酒起沫發紅，滿了調和的香料；他從這杯倒出⟨את⟩，一切的渣滓，地上所有的惡人都必擠出來喝盡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a1edde4bd6e9c9dbe7b7eee7b020ec4548b3c434cf39f1336034e8163dad2f79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/75\/9-11.1792144203866.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "一杯"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手中"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "起沫發紅"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "滿了"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "調和的香料"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "倒出"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "從這杯"
+    },
+    {
+      "surface": "אך",
+      "gloss": "必"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "一切的渣滓"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "擠出來"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "喝盡"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地上"
+    }
+  ],
+  "timestamp": "2026-10-16T09:50:03.867336588Z",
+  "model": "glm-5.3"
+}

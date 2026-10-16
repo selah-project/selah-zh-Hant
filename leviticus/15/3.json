@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "רר",
+      "rationale": "רוּר（流涎、流出液體）在《塔納赫》中僅出現於此處。"
+    },
+    {
+      "kind": "crux",
+      "subject": "החתים",
+      "rationale": "字面「被封住」：諸譯本作「受阻不流」（和合本）或「排泄受阻」（新譯方向），此處取「被阻閉」保留封住之象。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זובו…מזובו…טמאתו…טמאתו",
+      "rationale": "本節「漏症」與「不潔淨」各重複兩次，首尾呼應（טמאתו…טמאתו הוא），中文保留重複。"
+    }
+  ],
+  "translation": "他在漏症中的不潔淨是這樣：他的肉身流漏出⟨את⟩他的漏症，或他的肉身因他的漏症被阻閉，這是他的不潔淨。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f7d8388bac6284fb4da5c44f4b5e5a5d5c612bb1133e19fbf128272f46f0c857",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/15\/1-4.1792127005270.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "而這"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "是"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "他的不潔淨"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "在他的漏症中"
+    },
+    {
+      "surface": "רר",
+      "gloss": "流漏"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "他的肉身"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的漏症"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "他的漏症"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "被阻閉"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "他的肉身"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "因他的漏症"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "他的不潔淨"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "這是"
+    }
+  ],
+  "timestamp": "2026-10-16T05:03:25.272741708Z",
+  "model": "glm-5.3"
+}

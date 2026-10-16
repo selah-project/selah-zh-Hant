@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 4:1",
+  "book": "lamentations",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "יועם",
+      "rationale": "動詞 עומם 僅此一處以被動出現，本義『遮蔽、聚攏』，引伸為『變暗』"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הכתם",
+      "rationale": "כתם 指開採出的純金礦，僅此處與約伯記出現，中文以『純金』存其義"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איכה",
+      "rationale": "『何其』（原文 איכה）即本卷書名，每章以它開頭，成為全書的哀嘆記號"
+    }
+  ],
+  "translation": "黃金何其黯淡！極好的純金何竟變色！聖所的石塊傾倒在每一街頭的起頭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bb2c366e0bcc61432dc5cf537b3dacf7df9e6917daf70646c16bb65a11ad8ef5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/lamentations\/4\/1-4.1792146863154.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "何其"
+    },
+    {
+      "surface": "יועם",
+      "gloss": "黯淡了"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "黃金"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "變了"
+    },
+    {
+      "surface": "הכתם",
+      "gloss": "純金"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "極好的"
+    },
+    {
+      "surface": "תשתפכנה",
+      "gloss": "傾倒了"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "石塊"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖所的"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "在起頭"
+    },
+    {
+      "surface": "כל",
+      "gloss": "每一"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "街頭"
+    }
+  ],
+  "timestamp": "2026-10-16T10:34:23.155066379Z",
+  "model": "glm-5.3"
+}

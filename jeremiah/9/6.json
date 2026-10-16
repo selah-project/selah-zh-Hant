@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 9:6",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨除此之外⟩",
+      "rationale": "希伯來文只說「因為我怎能行」，中文補出反問語氣所需"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בת עמי",
+      "rationale": "「我百姓的女兒」指耶路撒冷／猶大全民，喻指全體"
+    }
+  ],
+  "translation": "因此萬軍之雅威如此說：看哪，我要熬煉他們、試驗他們；因為面對我百姓的女兒⟨除此之外⟩我還能怎樣行呢？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4a1a6d30105dd61b0f388757c8291d357a5c24ca6b5c65bd8e5b52edd95e89ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/9\/5-8.1792136359398.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "因此"
+    },
+    {
+      "surface": "כה",
+      "gloss": "如此"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "萬軍"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "看哪我"
+    },
+    {
+      "surface": "צורפם",
+      "gloss": "我要熬煉他們"
+    },
+    {
+      "surface": "ובחנתים",
+      "gloss": "又試驗他們"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "איך",
+      "gloss": "怎樣"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "我能行"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "面對"
+    },
+    {
+      "surface": "בת",
+      "gloss": "女兒"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我百姓"
+    }
+  ],
+  "timestamp": "2026-10-16T07:39:19.399549522Z",
+  "model": "glm-5.3"
+}

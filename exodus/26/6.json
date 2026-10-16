@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 26:6",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אשה אל אחתה",
+      "rationale": "直譯「一幅連於她的姊妹」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אחד",
+      "rationale": "直譯「一」，中文補「整體」以達意"
+    },
+    {
+      "kind": "measurement",
+      "subject": "五十個金鉤",
+      "rationale": "本節計數五十金鉤"
+    }
+  ],
+  "translation": "你要做五十個金鉤，用鉤子將 ⟨את⟩ 幔子一幅連於一幅，帳幕就成為一個整體。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "505dcc2faede235c10f79b09d8c21112796956b5b7033dce6f475a74007984f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/26\/5-8.1792126247767.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "你要做"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "個鉤子"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "你要連接"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "幔子"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "幔子"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "一幅"
+    },
+    {
+      "surface": "אל",
+      "gloss": "連於"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "另一幅"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "用鉤子"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "就成為"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "帳幕"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一個整體"
+    }
+  ],
+  "timestamp": "2026-10-16T04:50:47.767932651Z",
+  "model": "glm-5.3"
+}

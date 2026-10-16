@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ואכל לא תאכלהו",
+      "rationale": "希伯來不定式絕對型加完成式表示強化否定：「吃——你們必不可吃」；中文以「萬不可」傳達"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טרפה",
+      "rationale": "與創 13 節「被野獸撕裂」同詞根，字面是被抓食的獵物"
+    }
+  ],
+  "translation": "自死之物的脂肪和被撕裂之物的脂肪，可作任何用途；但吃的話，你們萬不可吃它。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6997f06ebb6ef0ec98bec4151f42879a9c7b1c0a22eae5e2b34766e261f3d47a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/7\/21-24.1792126712371.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "……的脂肪"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "自死之物"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "……的脂肪"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "被撕裂之物"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "可作"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "用途"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "吃"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "你們吃它"
+    }
+  ],
+  "timestamp": "2026-10-16T04:58:32.372522782Z",
+  "model": "glm-5.3"
+}

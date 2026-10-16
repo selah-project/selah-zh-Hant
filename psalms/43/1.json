@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חסיד",
+      "rationale": "חסיד 此處指敬虔、忠信之人，與חסד（慈愛）同根；譯「敬虔」而非「聖徒」"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ריב ריב",
+      "rationale": "希伯來文以同根動詞加名詞的「辯護我的爭訟」強化訴訟意象，中文以「辯護……爭訟」兩詞分擔"
+    },
+    {
+      "kind": "you",
+      "subject": "to 以羅欣",
+      "rationale": "全篇直接向以羅欣呼求的祈禱"
+    }
+  ],
+  "translation": "以羅欣啊，求你為我施行審判，向那不敬虔的邦國為我辯護我的爭訟；求你救我脫離詭詐和不義的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "41ab8dd1895d64a93406ebbb3da9594cefb1eb7969d8a9bb66103e591d4fbece",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/43\/1-4.1792143754858.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "求你為我施行審判"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣啊"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "求你辯護"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "我的爭訟"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "向那邦國"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "敬虔的"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "脫離……的人"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "詭詐"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "和不義"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "求你救我"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:34.859121790Z",
+  "model": "glm-5.3"
+}

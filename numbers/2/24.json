@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 2:24",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "隊",
+      "rationale": "「他們要第三隊起行」——原文只說「他們要第三起行」，中文加「隊」以成句"
+    },
+    {
+      "kind": "measurement",
+      "subject": "數點人數",
+      "rationale": "本節為以法蓮營總數：十萬零八千一百，並指明行軍次序為第三"
+    }
+  ],
+  "translation": "以法蓮營被數點的共有十萬零八千一百，按他們的軍隊；他們要第三隊起行。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3f48c49184e2cb27940c6b84cd70606be13abf31a4b4b90629eb0f7566227eb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/2\/21-24.1792127465605.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "共有"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "被數點的"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "十萬（一百千）"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ושמנת",
+      "gloss": "八"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "一百"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "按他們的軍隊"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "第三"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "起行"
+    }
+  ],
+  "timestamp": "2026-10-16T05:11:05.606497136Z",
+  "model": "glm-5.3"
+}

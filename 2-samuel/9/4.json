@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 9:4",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לא דבר",
+      "rationale": "地名羅底巴意為「沒有牧草」，雙關被藏之人身處荒涼無草之地，中文音譯後雙關失去。"
+    },
+    {
+      "kind": "elision",
+      "subject": "דבר",
+      "gloss": "",
+      "rationale": "בלו 與 דבר 連讀為一地名，只譯一次「羅底巴」。"
+    }
+  ],
+  "translation": "王對他說：「他在哪裡？」洗巴對王說：「看哪，他在羅底巴，亞米利的兒子瑪吉家中。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0c217938e14325f5325a284796e91a7b0780ca7e6b13ad5c2d823e880afc207a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/9\/1-4.1792131855983.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "在哪裡"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "洗巴"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家中"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "瑪吉"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "亞米利"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "羅底巴（非……之處）"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "（牧草）"
+    }
+  ],
+  "timestamp": "2026-10-16T06:24:15.985117345Z",
+  "model": "glm-5.3"
+}

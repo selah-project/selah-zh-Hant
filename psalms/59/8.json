@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "刀劍",
+      "rationale": "חרבות 直譯「刀劍」，喻其言語如兵刃；中文保留原喻象"
+    },
+    {
+      "kind": "crux",
+      "subject": "誰聽見呢",
+      "rationale": "疑問的主語不明：『有誰（能阻止我們）聽見？』或敵人譏誚『有誰會聽見（申冤）？』——『他們說』為中文補足"
+    }
+  ],
+  "translation": "看哪，他們口中湧出刀劍，唇上有利刃；因為他們說：「有誰聽見呢？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f347719d37e4f95602fba4adaaf996d74f44c6efe14066355257547031ebde19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/59\/5-8.1792143957166.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "湧出"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "口中"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "在……唇上"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聽見"
+    }
+  ],
+  "timestamp": "2026-10-16T09:45:57.167235887Z",
+  "model": "glm-5.3"
+}

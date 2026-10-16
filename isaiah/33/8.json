@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עבר ארח",
+      "rationale": "字面「行路的人」譯為分詞「行路人」，נשמו שבת的因果鏈由語序呈現"
+    },
+    {
+      "kind": "crux",
+      "subject": "ערים",
+      "rationale": "「城邑」（KJV\/JPS）或「見證人」（依烏加列文＇dr『見證』，BSV\/Targum一系）——條約廢棄語境支持『見證人』"
+    }
+  ],
+  "translation": "道路荒涼，行路人止息；他廢除了約，藐視了城邑，他不把人放在眼裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fb5901210a8f6706374bde8db17df9462fe2c2a8e5312b29cdb43041556eb3fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/33\/5-8.1792135100255.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשמו",
+      "gloss": "荒涼"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "道路"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "止息"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "行"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "路"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "廢除了"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "藐視了"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "城邑"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "放在眼裡"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-10-16T07:18:20.256480324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 14:14",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "面積",
+      "rationale": "以一對牛半日犁溝的田畝量度戰場範圍，並數算約二十人。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "acre",
+      "rationale": "צמד שדה 字面是「一對（牛）的田」，是面積單位，譯作「一對牛犁地之田畝」。"
+    }
+  ],
+  "translation": "約拿單和拿他兵器的人所擊打的第一陣殺戮，約有二十人，在一對牛犁地之半的田畝之內。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fdd7f3da7ae8704e726b1e8687d7a389d1fda6ebba4b27b65e1097729ef85e10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/14\/13-16.1792131080934.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "發生了"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "殺戮"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "第一陣"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "擊打"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "和拿"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "他兵器的人"
+    },
+    {
+      "surface": "כעשרים",
+      "gloss": "約有二十"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "כבחצי",
+      "gloss": "在……之半"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "犁溝"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "一對牛"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "田"
+    }
+  ],
+  "timestamp": "2026-10-16T06:11:20.935722316Z",
+  "model": "glm-5.3"
+}

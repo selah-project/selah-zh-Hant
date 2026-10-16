@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הצלצל",
+      "rationale": "צלצל 僅於此處指蝗蟲類昆蟲；字根擬聲「嗡嗡之聲」，和合本作「蝗蟲」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יירש",
+      "rationale": "יירש 本義「奪取為業、驅逐佔有」，譯作「侵吞」以合中文"
+    }
+  ],
+  "translation": "蝗蟲必侵吞你所有的樹和你土地的果子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2956d3abc210f37e2d164b4fab7e31b71026f51a3d68b732e6893eb3bf862514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/28\/41-44.1792129159505.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "你的樹"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "和果子"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "你土地的"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "必侵吞"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "蝗蟲"
+    }
+  ],
+  "timestamp": "2026-10-16T05:39:19.506589149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 20:17",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "希伯來文的祈願否定詞 אל 以「必不」吸收進動詞，無獨立詞形可對應"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נהרי\/נחלי",
+      "rationale": "江河與河道兩個近義詞並列堆疊，中文難以保留其音近呼應"
+    }
+  ],
+  "translation": "他必不看見溪流、江河，蜜與乳酪的河道。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ef7b4c9907781c4ab63d798a9d8684c5fee8e078794e313c084374e5e96d3587",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/20\/17-20.1792146177054.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "必不"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "בפלגות",
+      "gloss": "溪流"
+    },
+    {
+      "surface": "נהרי",
+      "gloss": "江河"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "河道"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "蜜"
+    },
+    {
+      "surface": "וחמאה",
+      "gloss": "和乳酪"
+    }
+  ],
+  "timestamp": "2026-10-16T10:22:57.054695633Z",
+  "model": "glm-5.3"
+}

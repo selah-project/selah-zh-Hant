@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 23:21",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨他⟩",
+      "rationale": "希伯來文第一子句無主語——英譯傳統分歧：KJV 以神為主語，JPS 譯為『無人』"
+    },
+    {
+      "kind": "crux",
+      "subject": "און",
+      "rationale": "און 可指『虛無／邪惡／偶像』——Wycliff 取『偶像』，KJV 取『邪惡』"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותרועת מלך",
+      "rationale": "『君王的歡呼』——JPS 讀作為那位君王（即雅威）的歡呼，KJV 讀作一位君王的歡呼"
+    }
+  ],
+  "translation": "⟨他⟩未曾注視雅各中的邪惡，也未曾看見以色列中的勞苦；雅威他的以羅欣與他同在，君王的歡呼在他中間。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e3c246902db6be9805b22e32c164b0e32af72a110a4304c4733a8142bb0ec0b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/23\/21-24.1792128115365.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "未曾"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "注視"
+    },
+    {
+      "surface": "און",
+      "gloss": "邪惡"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "雅各中"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也未曾"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "勞苦"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "以色列中"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "他的以羅欣"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "與他同在"
+    },
+    {
+      "surface": "ותרועת",
+      "gloss": "和……的歡呼"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "君王"
+    },
+    {
+      "surface": "בו",
+      "gloss": "在他中間"
+    }
+  ],
+  "timestamp": "2026-10-16T05:21:55.366152337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש是氣息、生命，非不朽的「靈魂」"
+    },
+    {
+      "kind": "hapax-adjacent",
+      "subject": "לספותה",
+      "rationale": "字面為「刮除、掃盡」，英譯或作 destroy／sweep away，畫面是掃淨除滅"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/ויחפרו\/ויכלמו",
+      "rationale": "三個近義「羞愧」動詞堆疊，中文以蒙羞、抱愧、受辱三詞對應"
+    }
+  ],
+  "translation": "願那尋索我性命、要吞滅它的人，一同蒙羞抱愧；願那喜悅我遭害的人退後受辱。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "90e1d07c3789c542296e930d0b41d682eedc356d76093ade40831584ea87da5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/40\/13-16.1792143754457.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "願…蒙羞"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "抱愧"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "一同"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "尋索"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我性命的"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "要吞滅它"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "退"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "後"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "受辱"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "喜悅"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "我遭害"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:34.458313811Z",
+  "model": "glm-5.3"
+}

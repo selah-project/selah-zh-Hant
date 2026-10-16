@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "愚昧人",
+      "rationale": "כסיל 字面是「肥胖的」，引申為愚蠢"
+    },
+    {
+      "kind": "addition",
+      "subject": "照樣",
+      "rationale": "כן 承接前面的明喻，中文置於句中以成句"
+    }
+  ],
+  "translation": "如夏日之雪、如收割時之雨，榮耀照樣不適合愚昧人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "25748eaa683f591b3e49c4a86db0095e5af6db1a0caab14ef15b47fb8e2160f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/26\/1-4.1792145646830.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "如雪"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "在夏日"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "如雨"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "在收割時"
+    },
+    {
+      "surface": "כן",
+      "gloss": "照樣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "適合"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "給愚昧人"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮耀"
+    }
+  ],
+  "timestamp": "2026-10-16T10:14:06.830518576Z",
+  "model": "glm-5.3"
+}

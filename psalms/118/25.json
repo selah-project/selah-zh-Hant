@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אנא…נא",
+      "rationale": "哀求語氣詞成對出現，與「拯救」組成「和散那」（הושיעה נא）的來源"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הושיעה／הצליחה",
+      "rationale": "兩個平行祈使式動詞構成對偶，句式完全對稱"
+    }
+  ],
+  "translation": "雅威啊，求你現在拯救；雅威啊，求你現在使人亨通。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "423fcb5bb7c63838a43f11f8960499c7c60d08c01731e006547b6ef3b81f10a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/118\/25-28.1792144800494.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "啊，求你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "拯救"
+    },
+    {
+      "surface": "נא",
+      "gloss": "現在"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "啊，求你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "使人亨通"
+    },
+    {
+      "surface": "נא",
+      "gloss": "現在"
+    }
+  ],
+  "timestamp": "2026-10-16T10:00:00.494843862Z",
+  "model": "glm-5.3"
+}

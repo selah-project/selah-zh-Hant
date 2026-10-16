@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "吞滅",
+      "rationale": "אכלה「吃」為擬人化譯作吞滅，火作其主語"
+    },
+    {
+      "kind": "addition",
+      "subject": "它的",
+      "rationale": "中文所需的代詞連結，希伯來文無此獨立代詞"
+    }
+  ],
+  "translation": "我要差遣火在猶大，它必吞滅耶路撒冷的宮殿。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a15ccd03cab3fae641d0b89ebd4d4a6311f0cfea967c2e25e80e564d8e8882d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/amos\/2\/5-8.1792139707725.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "我要差遣"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "在猶大"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "它必吞滅"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "宮殿"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-10-16T08:35:07.725738094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 48:1",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "猶大的水",
+      "rationale": "וּמִמֵּי יְהוּדָה：KJV『猶大的水』對照LXX僅『從猶大』；一般解作猶大源出的泉水（血統），非地理河流。"
+    },
+    {
+      "kind": "addition",
+      "subject": "你們",
+      "rationale": "分詞（稱為、起誓的）隱含的第二人稱複數主語，中文需補出。"
+    },
+    {
+      "kind": "invitation",
+      "subject": "以色列家",
+      "rationale": "שמעו命令式開頭，直接召喚聽者。"
+    },
+    {
+      "kind": "you",
+      "subject": "雅各家／以色列",
+      "rationale": "全節直接向雅各家說話。"
+    }
+  ],
+  "translation": "雅各家啊，你們要聽這事：你們稱為以色列的名，並從猶大的水而出；你們憑雅威的名起誓，卻不憑真理、也不憑公義提起以色列的以羅欣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cda11b13bf2b36aefddd31eb661cddcb70e94a82672595102bb5f19d6e0e5692",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/48\/1-4.1792135632988.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "你們要聽"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這事"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "הנקראים",
+      "gloss": "稱為"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "以…的名"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וממי",
+      "gloss": "並從…的水"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "出來"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "起誓的"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "憑…的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "並…的以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "יזכירו",
+      "gloss": "提起"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "在真理中"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "在公義中"
+    }
+  ],
+  "timestamp": "2026-10-16T07:27:12.989369333Z",
+  "model": "glm-5.3"
+}

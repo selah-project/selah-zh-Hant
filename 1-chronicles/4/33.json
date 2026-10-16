@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 4:33",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他們〈名下〉",
+      "rationale": "להם 的歸屬義在中文需補「名下」才能自然表達登記在他們之下"
+    },
+    {
+      "kind": "substitution",
+      "subject": "村莊",
+      "rationale": "חצר 本義是圍起來的院子，引申為有圍牆的小村落，此處取村莊義"
+    },
+    {
+      "kind": "measurement",
+      "subject": "家譜登記",
+      "rationale": "本節以居住地與家譜登記作清點，屬譜系計數語境"
+    }
+  ],
+  "translation": "以及他們四圍所有圍繞這些城邑、直到巴力的村莊。這是他們的居住之地，他們也按家譜登記在他們〈名下〉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "701382f13ba3fd654e152d7b2e66e979eb176407587e13cf211b54bd81237362",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/4\/33-36.1792148379952.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "以及所有"
+    },
+    {
+      "surface": "חצריהם",
+      "gloss": "他們的村莊"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "這些城邑"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "巴力"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "מושבתם",
+      "gloss": "他們的居住之地"
+    },
+    {
+      "surface": "והתיחשם",
+      "gloss": "他們也按家譜登記"
+    },
+    {
+      "surface": "להם",
+      "gloss": "他們"
+    }
+  ],
+  "timestamp": "2026-10-16T10:59:39.953016635Z",
+  "model": "glm-5.3"
+}

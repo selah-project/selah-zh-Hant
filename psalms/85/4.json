@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "怒氣",
+      "rationale": "אַף本義「鼻／鼻孔」——怒氣自鼻中噴出，希伯來以 body 為象；中文「怒氣」失其畫面"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שׁוּב",
+      "rationale": "與第2節「扭轉」同根——雅威轉離怒氣，正如祂扭轉被擄，前後呼應"
+    }
+  ],
+  "translation": "你收回了你一切的烈怒，轉離了你怒氣的焚燒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1e6098456f56aa772431d8326426dd6f9857ea0170fbf1535b9d07ec09f0e33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/85\/1-4.1792144371521.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "你收回了"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "你的烈怒"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "轉離了"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "焚燒"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "你的怒氣"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:51.522700068Z",
+  "model": "glm-5.3"
+}

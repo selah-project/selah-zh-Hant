@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 2:15",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "總是",
+      "rationale": "中文需加副詞表達 Hebrew 未完成態的持續含義"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויצר",
+      "rationale": "字面為「變窄」，即陷於困境；譯作「困苦」保留其壓迫意象"
+    }
+  ],
+  "translation": "他們無論往何處出去，雅威的手總是攻擊他們，使他們遭災，正如雅威所曾說的，又正如雅威向他們所起誓的；他們便極其困苦。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d19ad894a891f693bbeb2f86b23687540cfd7b9db321a21a1e53e8db1bd2bf27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/2\/13-16.1792130014529.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "無論在一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……之處"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "他們出去"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "總是在"
+    },
+    {
+      "surface": "בם",
+      "gloss": "攻擊他們"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "使他們遭災"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "正如"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "所曾說的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "又正如"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "所起誓的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "להם",
+      "gloss": "向他們"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "他們便困苦"
+    },
+    {
+      "surface": "להם",
+      "gloss": "〈他們〉"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極其"
+    }
+  ],
+  "timestamp": "2026-10-16T05:53:34.530409883Z",
+  "model": "glm-5.3"
+}

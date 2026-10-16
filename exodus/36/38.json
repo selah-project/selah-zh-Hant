@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 36:38",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ראשיהם",
+      "rationale": "字面是「它們的頭」，指柱頂"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נחשת",
+      "rationale": "銅，非傳統譯法「黃銅」（brass，銅鋅合金）"
+    },
+    {
+      "kind": "measurement",
+      "subject": "五根柱子、五個座",
+      "rationale": "會幕入口結構的數量記述"
+    }
+  ],
+  "translation": "又做了 ⟨את⟩ 它的五根柱子和 ⟨את⟩ 它們的鉤子，把柱頂和連接的橫杆包上金子；它們的五個座是銅的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1d7fd72e490e32d0493b188ad90749b97c33401068e943b50e3d875446b28766",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/36\/37-38.1792126528320.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "它的五根柱子"
+    },
+    {
+      "surface": "עמודיו",
+      "gloss": "它的柱子"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "它們的鉤子"
+    },
+    {
+      "surface": "וויהם",
+      "gloss": "它們的鉤子"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "包上"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "它們的柱頂"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "它們的橫杆"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金子"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "它們的座"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    }
+  ],
+  "timestamp": "2026-10-16T04:55:28.321270961Z",
+  "model": "glm-5.3"
+}

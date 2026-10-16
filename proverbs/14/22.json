@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 14:22",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨臨到他們⟩",
+      "rationale": "希伯來文無動詞，慈愛和誠實直接歸予行善者；中文補出動詞"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרשי…חרשי",
+      "rationale": "同一動詞重複（原文源自「刻劃、犁田」），善惡兩行對稱"
+    },
+    {
+      "kind": "crux",
+      "subject": "מי 得慈愛誠實",
+      "rationale": "חסד ואמת 可解為行善者所行的，或他們所得的賞賜；和合本取後者"
+    }
+  ],
+  "translation": "圖謀惡事的，豈不迷失嗎？圖謀善事的，有慈愛和誠實⟨臨到他們⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "37211ad3dd097ba621ba633be31649a272c3267e02c56b5124f98ff52f12a207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/14\/21-24.1792145351004.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "豈不"
+    },
+    {
+      "surface": "יתעו",
+      "gloss": "迷失嗎"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "圖謀"
+    },
+    {
+      "surface": "רע",
+      "gloss": "惡事"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "慈愛"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "誠實"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "圖謀"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "善事"
+    }
+  ],
+  "timestamp": "2026-10-16T10:09:11.005647815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 3:1",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文補「是」以成句"
+    },
+    {
+      "kind": "crux",
+      "subject": "以色列",
+      "rationale": "את ישראל 可作「試驗以色列」或如七十士譯本「以色列中一切不知戰事的人」；此處照馬索拉直譯"
+    }
+  ],
+  "translation": "這些是雅威所留下試驗以色列的各國，就是一切不曾知道迦南一切戰事的人，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "703fa72d56fced0a7e5894b48d12a10ccefe886f7463c06f819020dd38594353",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/3\/1-4.1792130095318.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "這些是"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "各國"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "留下"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "試驗"
+    },
+    {
+      "surface": "בם",
+      "gloss": "藉著他們"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "知道"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切戰事"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "戰事"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    }
+  ],
+  "timestamp": "2026-10-16T05:54:55.318738770Z",
+  "model": "glm-5.3"
+}

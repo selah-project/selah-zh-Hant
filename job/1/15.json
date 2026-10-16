@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "字面「按刀的口」，即刀刃；譯作「刀口」保留原圖像"
+    },
+    {
+      "kind": "crux",
+      "subject": "שבא",
+      "rationale": "可指示巴族人、示巴地或部族名；此處取「示巴人」為突襲者"
+    }
+  ],
+  "translation": "示巴人來襲，把他們擄去，又用刀口擊殺了 ⟨את⟩ 僕人；只有我一人逃脫，前來告訴你。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5792733491401a8b892c2b081b16eaf63c696502a0b7be2de2220a56401cd112",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/1\/13-16.1792145808798.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "來襲"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "示巴"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "把他們擄去"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "僕人"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "僕人"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "擊殺了"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "口"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "我逃脫了"
+    },
+    {
+      "surface": "רק",
+      "gloss": "只有"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "獨自一人"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "前來告訴"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    }
+  ],
+  "timestamp": "2026-10-16T10:16:48.799514731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "都在於",
+      "rationale": "首字על懸空引出全句，中文補繫詞式的「在於」以成句"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צור",
+      "rationale": "「磐石」承上節「我的磐石」，詞根複現把第6至8節串成一首尾呼應的宣告"
+    }
+  ],
+  "translation": "我的救恩和我的榮耀都在於以羅欣（神），我力量的磐石、我的避難所，在以羅欣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9d537e38c3eadc5d9a4de41c5fbc35229e0dddf0d45f491a5a72fa908c571301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/62\/5-8.1792144029489.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "在於"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣（神）"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "我的救恩"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "我的榮耀"
+    },
+    {
+      "surface": "צור",
+      "gloss": "磐石"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "我力量的"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "我的避難所"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "在以羅欣"
+    }
+  ],
+  "timestamp": "2026-10-16T09:47:09.490669396Z",
+  "model": "glm-5.3"
+}

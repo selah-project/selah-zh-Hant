@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "你要",
+      "rationale": "希伯來文疑問句無主語代詞，中文需補出"
+    },
+    {
+      "kind": "you",
+      "subject": "雅威",
+      "rationale": "直接向雅威呼喊的祈禱"
+    },
+    {
+      "kind": "alternative",
+      "subject": "到幾時",
+      "rationale": "עד מה 直譯「到什麼時候」，譯作慣用語「到幾時」"
+    }
+  ],
+  "translation": "雅威啊，⟨你要⟩惱怒到幾時呢？到永遠嗎？你的嫉恨要如火焚燒嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "15a0883b600fa9aa4aceb3a70cbf18f2add7ec6a9f697d6a881499ad8fa30ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/79\/5-8.1792144372339.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "מה",
+      "gloss": "幾時"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "惱怒"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "焚燒"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "如"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "你的嫉恨"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:52.340466440Z",
+  "model": "glm-5.3"
+}

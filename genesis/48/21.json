@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Joseph",
+      "rationale": "以色列直接對約瑟說話，宣告遺言。"
+    },
+    {
+      "kind": "addition",
+      "subject": "必",
+      "rationale": "והיה 是強調的「必成\/將是」，中文以「必」承接其確定語氣。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "以羅欣",
+      "rationale": "אלהים 為複數形指獨一之神，依紀律音譯為以羅欣，不作「上帝／神」。"
+    }
+  ],
+  "translation": "以色列對約瑟說：「看哪，我正要死了；以羅欣必與你們同在，必領你們⟨אתכם⟩回到你們列祖之地。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2f7f14e19c5d99270e7996802eeeba59c91f96179d4c6f09c42c597fd6b43bc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/48\/21-22.1792125642729.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "מת",
+      "gloss": "正要死了"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "必"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "與你們同在"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "必領……回"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "你們"
+    },
+    {
+      "surface": "אל",
+      "gloss": "回到"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "你們列祖的"
+    }
+  ],
+  "timestamp": "2026-10-16T04:40:42.729520230Z",
+  "model": "glm-5.3"
+}

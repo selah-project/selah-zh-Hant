@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שולמי",
+      "rationale": "「與我和平的人」（KJV、日內瓦）對比 JPS「那以惡待我的」——同一個子句兩讀。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שולמי",
+      "rationale": "שׁלם 本義是「完全、平安」，此處為分詞「處於和平之人」，非泛指「朋友」。"
+    },
+    {
+      "kind": "crux",
+      "subject": "ריקם",
+      "rationale": "可修飾「搶奪」（搶到一空／無故搶奪），KJV 作「無故」。"
+    }
+  ],
+  "translation": "我若向與我和平的人行了惡，無故搶奪了那與我為敵的人——",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fa6cabe524eb8ce65b1b736d8fc7760c35142e0a7ec8224f42d2e20b9181d70b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/7\/5-8.1792143271021.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "行了……報"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "與我和平的人"
+    },
+    {
+      "surface": "רע",
+      "gloss": "惡"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "搶奪了"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "與我為敵的人"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "無故"
+    }
+  ],
+  "timestamp": "2026-10-16T09:34:31.022131110Z",
+  "model": "glm-5.3"
+}

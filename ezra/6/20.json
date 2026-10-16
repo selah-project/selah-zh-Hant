@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 6:20",
+  "book": "ezra",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "羊羔",
+      "rationale": "הפסח此處指被宰的祭牲，中文補『羊羔』以成句；上一節同一詞只譯『逾越節』"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "טהורים是形容詞作謂語，中文需繫動詞『是…的』"
+    },
+    {
+      "kind": "crux",
+      "subject": "誰宰了羊羔",
+      "rationale": "希伯來文主語仍是祭司和利未人；BSB 讓利未人單獨宰（依代下35），歷代志式的解讀，此處照文本直譯"
+    }
+  ],
+  "translation": "因為祭司和利未人已經潔淨了，如同一人，他們全是潔淨的；他們就為一切被擄之人的子孫、他們的弟兄祭司、以及他們自己，宰了逾越節的羊羔。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "390652fcd415b9f860c70f66242fd8778ea921a533c1b5cbc1d44cd70b6baf2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/6\/17-20.1792147827981.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הטהרו",
+      "gloss": "已經潔淨了"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "和利未人"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "如同一人"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "他們全都"
+    },
+    {
+      "surface": "טהורים",
+      "gloss": "是潔淨的"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "他們就宰了"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "逾越節的羊羔"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "為一切"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的子孫"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "被擄之人"
+    },
+    {
+      "surface": "ולאחיהם",
+      "gloss": "又為他們的弟兄"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "以及他們自己"
+    }
+  ],
+  "timestamp": "2026-10-16T10:50:27.982844075Z",
+  "model": "glm-5.3"
+}

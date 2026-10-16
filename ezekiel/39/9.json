@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 39:9",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "為燃料",
+      "rationale": "中文補出「用武器生火」的語境，希伯來文只列火與軍械並列"
+    },
+    {
+      "kind": "measurement",
+      "subject": "七年",
+      "rationale": "焚燒軍械的年數被明確計為七年"
+    }
+  ],
+  "translation": "以色列眾城的居民必出去，焚燒並點火，以軍械為燃料——小盾和大盾、弓和箭、手杖和槍；他們必用火焚燒它們，共七年之久。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a20fed10eef06847e563bf34198401139798c7dc96a259654d5e6f8a4fca7730",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/39\/9-12.1792139022110.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "必出去"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "眾城"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ובערו",
+      "gloss": "焚燒"
+    },
+    {
+      "surface": "והשיקו",
+      "gloss": "點火"
+    },
+    {
+      "surface": "בנשק",
+      "gloss": "以軍械"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "小盾"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "大盾"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "弓"
+    },
+    {
+      "surface": "ובחצים",
+      "gloss": "箭"
+    },
+    {
+      "surface": "ובמקל",
+      "gloss": "手杖"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "וברמח",
+      "gloss": "槍"
+    },
+    {
+      "surface": "ובערו",
+      "gloss": "焚燒"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "它們"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    }
+  ],
+  "timestamp": "2026-10-16T08:23:42.110928088Z",
+  "model": "glm-5.3"
+}

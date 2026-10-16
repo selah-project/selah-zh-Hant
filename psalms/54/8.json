@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 54:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "〈你〉",
+      "rationale": "希伯來文無主語，中文補出"
+    },
+    {
+      "kind": "elision",
+      "subject": "טוב",
+      "rationale": "「善」的主語可指名或指雅威，譯文補「你」以通順"
+    }
+  ],
+  "translation": "我要以甘心祭獻給你；雅威啊，我要稱謝你的名，因為〈你〉本為善。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c9916c3c9d03ce48d8b67c3e61a67a4962c82a16f37458eb3315ee12d2574cf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/54\/5-8.1792143896050.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנדבה",
+      "gloss": "以甘心祭"
+    },
+    {
+      "surface": "אזבחה",
+      "gloss": "我要獻祭"
+    },
+    {
+      "surface": "לך",
+      "gloss": "給你"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "我要稱謝"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "本為善"
+    }
+  ],
+  "timestamp": "2026-10-16T09:44:56.051010598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 6:2",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "占卜的",
+      "rationale": "קוסמים 指占卜者、行法術的人；非利士人求問自己宗教的術士，不是雅威的先知。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "請讓我們知道",
+      "rationale": "הודיעונו 是複數命令式「你們要使我們知道」，譯作請求語氣以合中文。"
+    }
+  ],
+  "translation": "非利士人召了祭司和占卜的來，說：「我們要向雅威的櫃怎樣行？請讓我們知道該用什麼把它送回原處去。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "53cb481dcbf63fcb3767efb73f11797f92619438c26a078ee4494b40951fe386",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/6\/1-4.1792130900572.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "召了"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ולקסמים",
+      "gloss": "和占卜的"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "מה",
+      "gloss": "什麼"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "我們要…行"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "向…的櫃"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הודענו",
+      "gloss": "請讓我們知道"
+    },
+    {
+      "surface": "במה",
+      "gloss": "用什麼"
+    },
+    {
+      "surface": "נשלחנו",
+      "gloss": "把它送回"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "原處"
+    }
+  ],
+  "timestamp": "2026-10-16T06:08:20.573023465Z",
+  "model": "glm-5.3"
+}

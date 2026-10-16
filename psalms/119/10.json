@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to 雅威",
+      "rationale": "詩人直接向雅威說話"
+    },
+    {
+      "kind": "substitution",
+      "subject": "尋求",
+      "rationale": "דרש原意是『踏循、追尋』，非單純心理上的尋找"
+    }
+  ],
+  "translation": "我全心尋求你；不要使我偏離你的誡命。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/9-12.1792144826205.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "全"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "心"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "我尋求你"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "使我偏離"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "你的誡命"
+    }
+  ],
+  "timestamp": "2026-10-16T10:00:26.205788467Z",
+  "model": "glm-5.3"
+}

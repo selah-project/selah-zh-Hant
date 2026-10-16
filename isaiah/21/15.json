@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרבות／חרב",
+      "rationale": "同一詞根的複數與單數並列（「刀劍」與「刀」），三重「逃避……面前」的排比結構。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "字面「因……的面」，即「從……面前逃離」；中文以「逃避」吸收。"
+    }
+  ],
+  "translation": "因為他們逃避刀劍——揮出的刀、拉滿的弓，以及戰爭的重壓。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7034096a3a50d196a17900691383f539e0c4b375babff40a04c993096788bec4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/21\/13-16.1792134852935.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "逃避"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "他們逃奔"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "逃避"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "揮出的"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "以及逃避"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "弓"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "拉滿的"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "以及逃避"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "重壓"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戰爭的"
+    }
+  ],
+  "timestamp": "2026-10-16T07:14:12.936547493Z",
+  "model": "glm-5.3"
+}

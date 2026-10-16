@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קראו להם",
+      "rationale": "誰在呼召：原文無主語——和合本作「先知越發招呼他們」，美國標準本作「眾先知」；也可能仍是雅威自己（接續上節「我呼召」）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כן",
+      "rationale": "原文語助詞「如此／就這樣」，與前一節的כי呼應，譯文以「卻」帶出反諷：越召越走遠"
+    }
+  ],
+  "translation": "他們呼召他們，他們卻從他們面前走開；他們向眾巴力獻祭，向雕刻的像燒香。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c81d79e57dac57173e550a82528b1d1ea86adb547d7436ec63417f9789559a87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/11\/1-4.1792139541948.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "他們呼召"
+    },
+    {
+      "surface": "להם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "כן",
+      "gloss": "如此"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "他們行走"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "從他們面前"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "向眾巴力"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "他們獻祭"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "向雕刻的像"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "他們燒香"
+    }
+  ],
+  "timestamp": "2026-10-16T08:32:21.949057468Z",
+  "model": "glm-5.3"
+}

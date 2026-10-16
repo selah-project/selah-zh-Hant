@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "求你",
+      "rationale": "祈使句語氣，中文加上敬語"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידעוך\/קראו",
+      "rationale": "「認識你」與「呼求你的名」平行對仗"
+    }
+  ],
+  "translation": "求你把你的烈怒傾倒在那不認識你的列國身上，傾倒在那不呼求你名的眾國權身上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "15a0883b600fa9aa4aceb3a70cbf18f2add7ec6a9f697d6a881499ad8fa30ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/79\/5-8.1792144372339.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "傾倒"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "你的烈怒"
+    },
+    {
+      "surface": "אל",
+      "gloss": "在……身上"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "認識你"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "和在……身上"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "眾國權"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "呼求"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:52.340655867Z",
+  "model": "glm-5.3"
+}

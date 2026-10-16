@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文名單無動詞，中文補「是」並加括號"
+    },
+    {
+      "kind": "crux",
+      "subject": "阿撒悉",
+      "rationale": "此處 דויד 排第七，而撒母耳記上16:10-11大衛是第八子；歷代志的計數為第七"
+    }
+  ],
+  "translation": "阿撒悉是第六，大衛是第七。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2673d87b0643082370fcb0303a3351e8e5caaff3791c7bbd9790288d244c2318",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/2\/13-16.1792148303863.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "阿撒悉"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "第六"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "第七"
+    }
+  ],
+  "timestamp": "2026-10-16T10:58:23.864587687Z",
+  "model": "glm-5.3"
+}

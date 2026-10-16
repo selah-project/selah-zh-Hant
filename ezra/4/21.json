@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 4:21",
+  "book": "ezra",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "旨意",
+      "rationale": "טעם 字面是「味道」，引申為「判斷、諭令」"
+    },
+    {
+      "kind": "addition",
+      "subject": "另外",
+      "rationale": "「直到另外的諭旨」之意，中文加「另外」以通順"
+    },
+    {
+      "kind": "you",
+      "subject": "to the官員",
+      "rationale": "王直接命令河西省的官員（拉 4:17）"
+    }
+  ],
+  "translation": "如今你們要下旨意，使這些人停工，這城不可再建造，直到我另外下諭旨。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ca046bd20883f9f08a14a02e1631db62ac592dcc0489c9ca31f3ea7e47e36d82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/4\/21-24.1792147821437.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כען",
+      "gloss": "如今"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "你們要下"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "旨意"
+    },
+    {
+      "surface": "לבטלא",
+      "gloss": "使……停工"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "人"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "這些"
+    },
+    {
+      "surface": "וקריתא",
+      "gloss": "這城"
+    },
+    {
+      "surface": "דך",
+      "gloss": "這"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תתבנא",
+      "gloss": "再建造"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "מני",
+      "gloss": "從我"
+    },
+    {
+      "surface": "טעמא",
+      "gloss": "諭旨"
+    },
+    {
+      "surface": "יתשם",
+      "gloss": "下"
+    }
+  ],
+  "timestamp": "2026-10-16T10:50:21.438001095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רגזו",
+      "rationale": "『戰兢』（敬畏發抖）與『發怒』（七十士譯本 ἀργίζεσθε、弗4:26 引作 be angry）之爭；本譯取『戰兢』。"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "音譯為『細拉』，本義為音樂暫停記號。"
+    },
+    {
+      "kind": "invitation",
+      "subject": "本節",
+      "rationale": "多個命令式（複數）直接呼籲聽者。"
+    }
+  ],
+  "translation": "你們要戰兢，卻不可犯罪；在你們的床上，要在你們心裡述說，並且靜默。細拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a3bd87c48661f56309d6a35bebae66b06a6ceb9024570ce214dcf6a4d178f119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/4\/5-8.1792143246097.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "要戰兢"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "卻不可"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "犯罪"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "要述說"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "在你們心裡"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "你們的床上"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "並且靜默"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-10-16T09:34:06.098309373Z",
+  "model": "glm-5.3"
+}

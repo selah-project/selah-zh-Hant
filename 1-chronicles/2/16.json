@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 2:16",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文名單無動詞，中文補「是」並加括號"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשהאל",
+      "rationale": "人名亞撒黑由兩個切分點寫成 ועשה אל 兩個詞元，中文合為一個名字"
+    },
+    {
+      "kind": "measurement",
+      "subject": "共三人",
+      "rationale": "名單結尾的計數——「三」"
+    }
+  ],
+  "translation": "他們的姐妹是洗魯雅和亞比該；洗魯雅的兒子是亞比篩、約押和亞撒黑，共三人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2673d87b0643082370fcb0303a3351e8e5caaff3791c7bbd9790288d244c2318",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/2\/13-16.1792148303863.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחיתיהם",
+      "gloss": "他們的姐妹"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "洗魯雅"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "亞比該"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "的兒子"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "洗魯雅"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "亞比篩"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "亞撒（黑）"
+    },
+    {
+      "surface": "אל",
+      "gloss": "（亞撒）黑"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "共三人"
+    }
+  ],
+  "timestamp": "2026-10-16T10:58:23.864712993Z",
+  "model": "glm-5.3"
+}

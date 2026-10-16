@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "同在",
+      "rationale": "此處 את 是「與……同在」的介詞（非受詞記號），希伯來文一字兼兩用"
+    },
+    {
+      "kind": "addition",
+      "subject": "就",
+      "rationale": "ויהי 三次重複引導敘事，中文以連接詞承接"
+    }
+  ],
+  "translation": "雅威與約瑟同在，⟨את⟩ 約瑟就成了一個通達的人；他住在他主人埃及人的家裡，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "17e25ea9f80445fb68623ec36d87ab2dc3e7437fdba07a19abc3006360b6fcf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/39\/1-4.1792125430914.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "事情是"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "與約瑟同在"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "他就成了"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一個人"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "通達／亨通"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "他在"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "在……的家裡"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "他的主人"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "那埃及人"
+    }
+  ],
+  "timestamp": "2026-10-16T04:37:10.915558266Z",
+  "model": "glm-5.3"
+}

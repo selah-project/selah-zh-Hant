@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 10:22",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "連光也",
+      "rationale": "ותפע字面是「發光」，在此反諷：亮光出現卻仍是昏暗"
+    },
+    {
+      "kind": "crux",
+      "subject": "沒有秩序",
+      "rationale": "סדרים僅此處出現於《塔納赫》（hapax），諸譯本作 order；意為陰間無任何秩序條理"
+    },
+    {
+      "kind": "hapax",
+      "subject": "סדרים",
+      "rationale": "סדר全書僅此一次出現"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כמו אפל",
+      "rationale": "「如同冥暗」於節中重複出現，框住死蔭與無序，首尾呼應"
+    }
+  ],
+  "translation": "那地幽暗，如同冥暗，是死蔭之地，沒有秩序，連光也如冥暗。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3cb5fd647e8707cdffffeeba5b8d227593115b29d19a62ad932f8a27c7609f60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/10\/21-22.1792145936887.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "那地"
+    },
+    {
+      "surface": "עיפתה",
+      "gloss": "幽暗"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "如同"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "冥暗"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "死蔭"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "סדרים",
+      "gloss": "秩序"
+    },
+    {
+      "surface": "ותפע",
+      "gloss": "連光也"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "如"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "冥暗"
+    }
+  ],
+  "timestamp": "2026-10-16T10:18:56.888680279Z",
+  "model": "glm-5.3"
+}

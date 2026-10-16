@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他們",
+      "rationale": "כתובים 為分詞「被寫下」，中文補出主語"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויהודה הגלו",
+      "rationale": "和修／JPS 斷句為「而猶大被擄」；KJV 等把被擄者理解為全以色列（他們被擄）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "背信",
+      "rationale": "מעל 本義為不忠、背信（對雅威的不忠），非一般「過犯」"
+    }
+  ],
+  "translation": "全以色列都以家譜登記，看哪，他們都寫在以色列諸王記上；猶大人因他們的背信被擄到巴比倫。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2df7aaf7c48fc87de764cdb4d2a3aa6747580e35f083c11a658e0dbd29fcb53b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/9\/1-4.1792148658110.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "以家譜登記"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "看哪，他們"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "都寫在"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "書"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "而猶大"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "被擄"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "到巴比倫"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "因他們的背信"
+    }
+  ],
+  "timestamp": "2026-10-16T11:04:18.111146590Z",
+  "model": "glm-5.3"
+}

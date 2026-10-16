@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 2:24",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "雅威",
+      "rationale": "第二個אֲשֶׁר分句的受指者，中文需補出"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "「雅威活著」是起誓套語，指著永活者起誓"
+    },
+    {
+      "kind": "crux",
+      "subject": "בית",
+      "rationale": "「家室」可指宮殿或王朝（撒下 7 的應許），此處應指王朝"
+    }
+  ],
+  "translation": "如今，指著那使我堅立、使我坐在我父親大衛寶座上的活著的雅威，又指著那照他所說的為我建立家室的⟨雅威⟩起誓：亞多尼雅今天必被處死。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "21c4be3396919679eb8e541edaec6629efa0836db3cdc91ff5bc27dbfd2aea04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/2\/21-24.1792132533663.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "如今"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活著的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "הכינני",
+      "gloss": "使我堅立"
+    },
+    {
+      "surface": "ויושיביני",
+      "gloss": "使我坐"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "寶座"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我父親"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "又指著那"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "建立"
+    },
+    {
+      "surface": "לי",
+      "gloss": "為我"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家室"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "他所說的"
+    },
+    {
+      "surface": "כי",
+      "gloss": "——確實"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今天"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "必被處死"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "亞多尼雅"
+    }
+  ],
+  "timestamp": "2026-10-16T06:35:33.665651052Z",
+  "model": "glm-5.3"
+}

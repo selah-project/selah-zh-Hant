@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 10:18",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 是氣息、生命之力，非不朽的「靈魂」"
+    },
+    {
+      "kind": "crux",
+      "subject": "כמסס נסס",
+      "rationale": "傳統作「如旗手昏倒」（KJV，讀 נסס 如 נס 旗）；JPS 作「如患病者消瘦」——兩讀並存"
+    },
+    {
+      "kind": "metaphor",
+      "subject": "森林與果園",
+      "rationale": "繼續 v17 的比喻：亞述的軍勢榮華如森林，被雅威的火全然燒盡"
+    }
+  ],
+  "translation": "他森林的榮耀和他的果園，從性命直到血肉，都必耗盡；這必如患病之人的消瘦。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4bc9b5de38965dfef11b1e500e368265414ef18bcf16d2956eea5a830091ebce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/10\/17-20.1792134757552.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "榮耀"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "他森林的"
+    },
+    {
+      "surface": "וכרמלו",
+      "gloss": "和他的果園"
+    },
+    {
+      "surface": "מנפש",
+      "gloss": "從性命"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "血肉"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "都必耗盡"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "這必如"
+    },
+    {
+      "surface": "כמסס",
+      "gloss": "消瘦"
+    },
+    {
+      "surface": "נסס",
+      "gloss": "患病之人"
+    }
+  ],
+  "timestamp": "2026-10-16T07:12:37.553684678Z",
+  "model": "glm-5.3"
+}

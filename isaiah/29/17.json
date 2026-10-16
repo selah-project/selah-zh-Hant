@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 29:17",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כרמל",
+      "rationale": "「果園／花園」與專有名詞「迦密山」之爭；多數譯本取類名「果園」"
+    },
+    {
+      "kind": "addition",
+      "subject": "嗎",
+      "rationale": "中文疑問句需要疑問語氣詞，希伯來文以 הלוא 表反問"
+    }
+  ],
+  "translation": "再過片時、極短的時候，黎巴嫩豈不變為果園，果園豈不算為森林嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "040888d57d601ac67184603210ccfac979d0af3707afae0561ea52fa8887bffd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/29\/17-20.1792135112470.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "豈不"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "片時"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "極短的時候"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "變為"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "黎巴嫩"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "果園"
+    },
+    {
+      "surface": "והכרמל",
+      "gloss": "果園"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "森林"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "算為"
+    }
+  ],
+  "timestamp": "2026-10-16T07:18:32.471028670Z",
+  "model": "glm-5.3"
+}

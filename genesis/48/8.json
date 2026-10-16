@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文名詞問句 מי אלה 中文需補繫詞「是」"
+    },
+    {
+      "kind": "you",
+      "subject": "對約瑟",
+      "rationale": "以色列直接向約瑟發問：「這些是誰？」"
+    }
+  ],
+  "translation": "以色列看見 ⟨את⟩ 約瑟的兒子們，就說：「這些是誰？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9e71674377fff5797f7fe843ca9f47a33b9bbb8787d6f59b14acb95a728cd027",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/48\/5-8.1792125624772.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約瑟的兒子們"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的兒子們"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "就說"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    }
+  ],
+  "timestamp": "2026-10-16T04:40:24.773728236Z",
+  "model": "glm-5.3"
+}

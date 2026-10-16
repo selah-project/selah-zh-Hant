@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את רוח יהוה",
+      "rationale": "此處 את 或作『與』（力量與雅威的靈並列）或作受詞記號（滿有力量，即雅威的靈）；取後者"
+    },
+    {
+      "kind": "you",
+      "subject": "彌迦對比假先知",
+      "rationale": "第一人稱宣告，與 3:5–7 的假先知成對照"
+    }
+  ],
+  "translation": "至於我，我卻滿有力量，滿有雅威的魯阿（靈），滿有公平和能力，可以向雅各宣告 ⟨את⟩ 他的背叛，向以色列宣告他的罪。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2680b664c7e946c26f44baf00f8b880f5be4781886087ef0e7fff611f0a6c890",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/micah\/3\/5-8.1792139986628.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "至於我，我卻"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "滿有"
+    },
+    {
+      "surface": "כח",
+      "gloss": "力量"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的魯阿（靈）"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "魯阿（靈）"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "和公平"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "和能力"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "去宣告"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "向雅各"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "他的背叛"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "和向以色列"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "他的罪"
+    }
+  ],
+  "timestamp": "2026-10-16T08:39:46.629575939Z",
+  "model": "glm-5.3"
+}

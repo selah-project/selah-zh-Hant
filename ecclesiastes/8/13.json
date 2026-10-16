@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "如影",
+      "rationale": "כצל 可作「如影延長」（影隨日延長）或「如影般短暫」；譯本多取後者。"
+    },
+    {
+      "kind": "elision",
+      "subject": "מלפני",
+      "rationale": "「面」的直譯以「……的面」保留，中文語序將其置於以羅欣之前。"
+    },
+    {
+      "kind": "mystery",
+      "subject": "כצל",
+      "rationale": "影的比喻：短暫易逝，是傳道書反覆的虛空母題。"
+    }
+  ],
+  "translation": "惡人必沒有美好，他的日子也必不延長如影，因為他不敬畏以羅欣的面。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b34b3f6b96028f72fdfca2a4921ca172a67a104a88da4a1c11921abdf2c6750d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/8\/13-16.1792147088195.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "美好"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "必有"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "給惡人"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "延長"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日子"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "如影"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "因為"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "他不"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "……的面"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-10-16T10:38:08.196543839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עם…עם…עמו",
+      "rationale": "介詞「與」(עִם)與名詞「百姓」(עַם)同音重複，構成音韻呼應，中文無法保留。"
+    },
+    {
+      "kind": "addition",
+      "subject": "使他們",
+      "rationale": "希伯來文不定式附屬形承接上節受詞，中文補出代詞作主語。"
+    }
+  ],
+  "translation": "使他們與尊貴者同坐，與他百姓的尊貴者同坐。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2b37a34e1942c0fd3e14865a9ed00756ed9f79945c35022842b60db7913e8f69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/113\/8-8.1792149938334.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "使……同坐"
+    },
+    {
+      "surface": "עם",
+      "gloss": "與"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "尊貴者"
+    },
+    {
+      "surface": "עם",
+      "gloss": "與"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "尊貴者"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "他的百姓"
+    }
+  ],
+  "timestamp": "2026-10-16T11:25:38.334639874Z",
+  "model": "glm-5.3"
+}

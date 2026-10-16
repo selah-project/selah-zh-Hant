@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש是氣息、生命之力，非不朽的靈魂"
+    },
+    {
+      "kind": "crux",
+      "subject": "שחת רשתם",
+      "rationale": "「坑、他們的網」二詞並置：或譯「坑中的網」（KJV），或如JPS分作陷阱與網羅兩物"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חנם",
+      "rationale": "「無故」一詞於本節重複兩次，是詩節的骨架"
+    }
+  ],
+  "translation": "因為他們無故為我暗設陷阱，就是他們的網羅；無故為我的性命挖坑。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2cd652a6c2ab2b5db7d020ccc77f4d525584910dabecdda16ec45f856edc0d4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/35\/5-8.1792143666450.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "無故"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "暗設"
+    },
+    {
+      "surface": "לי",
+      "gloss": "為我"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "陷阱"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "他們的網羅"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "無故"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "挖坑"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "為我的性命"
+    }
+  ],
+  "timestamp": "2026-10-16T09:41:06.451588446Z",
+  "model": "glm-5.3"
+}

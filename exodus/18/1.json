@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "的就是……的那事",
+      "rationale": "中文需補出關係子句的先行語，希伯來文的 כי 直接連接"
+    },
+    {
+      "kind": "substitution",
+      "subject": "岳父",
+      "rationale": "חתן 是動詞分詞「結親」，作稱謂指姻親關係，中文以「岳父」定其位"
+    }
+  ],
+  "translation": "米甸的祭司、摩西的岳父葉忒羅，聽見了以羅欣為摩西和以色列——他的百姓——所行的一切事，就是雅威將以色列從埃及領出來〈的那事〉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6b2b63caea2c4cca536ce84d213522d4927cb924df5877fce5d6622f95b2e860",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/18\/1-4.1792126091237.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "聽見了"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "葉忒羅"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "米甸的"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "岳父"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切事"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所……的"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "為摩西"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "和為以色列"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "他的百姓"
+    },
+    {
+      "surface": "כי",
+      "gloss": "就是"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "領出來"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "從埃及"
+    }
+  ],
+  "timestamp": "2026-10-16T04:48:11.238445132Z",
+  "model": "glm-5.3"
+}

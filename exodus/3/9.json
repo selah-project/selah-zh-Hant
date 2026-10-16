@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לחץ\/לחצים",
+      "rationale": "名詞「壓迫」與動詞「壓迫」同根重複，中文以同字保留。"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "受詞記號 אתם（וװאת 家族）以「他們」直接譯出，未加 ⟨את⟩ 括記。"
+    },
+    {
+      "kind": "you",
+      "subject": "to Moses",
+      "rationale": "雅威對摩西說話，延續 Burning-bush 的直接對話。"
+    }
+  ],
+  "translation": "如今，看哪，以色列人的哀聲達到我這裡，我也看見了埃及人所加給他們的 ⟨את⟩ 壓迫。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e4912d4abe58af61acda9fc87730e73ba1cb9a99192637d9db537351e5c05d0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/3\/9-12.1792125772273.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "如今"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "哀聲"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "באה",
+      "gloss": "達到"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "到我這裡"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "我也"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "看見了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "壓迫"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "壓迫"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及人"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "壓迫"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ 他們"
+    }
+  ],
+  "timestamp": "2026-10-16T04:42:52.274794692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "重量比較",
+      "rationale": "以石與沙的重量量度愚人的怒氣，雙倍更重。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כֹבֶד／כָבֵד",
+      "rationale": "名詞「重」與形容詞「重」同根重現，首尾呼應。"
+    }
+  ],
+  "translation": "石頭重，沙土是擔子，愚昧人的怒氣比這兩樣更重。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "81d2d0e6cfc7d804ac9d71aa808e9a0d52bf8ea375903dde1d43d040883d40a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/27\/1-4.1792145657317.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "重"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "又是擔子"
+    },
+    {
+      "surface": "החול",
+      "gloss": "那沙土"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "而怒氣"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "愚昧人的"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "更重"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "比這兩樣"
+    }
+  ],
+  "timestamp": "2026-10-16T10:14:17.317826694Z",
+  "model": "glm-5.3"
+}

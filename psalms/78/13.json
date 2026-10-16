@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בקע",
+      "rationale": "劈開一詞在 13 節（劈海）與 15 節（劈磐石）重複出現，是本詩的結構線索"
+    },
+    {
+      "kind": "substitution",
+      "subject": "堆",
+      "rationale": "נד 指堆起如土墩的浪，和合本「堆」保留其具體形象"
+    }
+  ],
+  "translation": "他劈開了海，使他們過去；他使水站立如堆。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "72c6c5410ab05fc6c4f97fac561837ad9097507f1b394ff4793951fcaa5d00eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/78\/13-16.1792144245965.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "他劈開了"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "使他們過去"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "他使……站立"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "如"
+    },
+    {
+      "surface": "נד",
+      "gloss": "堆"
+    }
+  ],
+  "timestamp": "2026-10-16T09:50:45.965701559Z",
+  "model": "glm-5.3"
+}

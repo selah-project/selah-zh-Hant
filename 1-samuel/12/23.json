@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 12:23",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלילה לי",
+      "rationale": "希伯來慣用語「斷不敢／絕不容許」，字面為「對我是褻瀆」。"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列百姓",
+      "rationale": "撒母耳向百姓的話，標記代禦者身分。"
+    }
+  ],
+  "translation": "至於我，我絕不敢得罪雅威，以致停止為你們祈求；我必以那善道正直的路指教你們 ⟨אתכם⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "355249c35f14cc1f503c6276f85b62bcaa89a7b3c182666f2cf9082e0d11c036",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/12\/21-24.1792130971131.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "斷不敢"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "מחטא",
+      "gloss": "得罪"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מחדל",
+      "gloss": "停止"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "祈求"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "為你們"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "我必指教"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "你們"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "以……的路"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "善"
+    },
+    {
+      "surface": "והישרה",
+      "gloss": "正直"
+    }
+  ],
+  "timestamp": "2026-10-16T06:09:31.132101041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 2:9",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חסידו",
+      "rationale": "חסיד是「敬虔、忠信之人」，此處譯「慈愛之人」，與חסד（慈愛）同根"
+    },
+    {
+      "kind": "crux",
+      "subject": "ידמו",
+      "rationale": "דמם可作「沉默」或「滅沒」；諸譯本分歧：KJV『沉默』、BSB『滅亡』"
+    }
+  ],
+  "translation": "他保守他慈愛之人的腳步，惡人必在黑暗中沉默滅沒，因為人不能靠力量得勝。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c7772cce911e9becb4225e1edb4745d07b5bb38d314a26c6d8c2ff0ec9f551a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/2\/9-12.1792130682137.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "腳步"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "他慈愛之人"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "他保守"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "在黑暗中"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "沉默滅沒"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "靠力量"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "得勝"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-10-16T06:04:42.137679326Z",
+  "model": "glm-5.3"
+}

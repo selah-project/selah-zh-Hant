@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "果子",
+      "rationale": "עץ 字面是「樹」，中文補「果子」以合語境"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אכל תאכל",
+      "rationale": "不定式絕對加未完成式同根疊用，表「必定吃／自由地吃」，中文以「隨意吃」盡之"
+    },
+    {
+      "kind": "you",
+      "subject": "那人",
+      "rationale": "雅威以羅欣直接吩咐亞當，命令式言語行為"
+    }
+  ],
+  "translation": "雅威以羅欣吩咐那人說：「園中各樣樹上的果子，你可以隨意吃；",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "14f0223bd1b8e83407ebe79d114a0b4fa0171a216471f3943887d0585327e69a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/2\/13-16.1792124530144.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "吩咐"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "על",
+      "gloss": "向"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "那人"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "各樣"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "樹"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "園中"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "吃"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "隨意吃"
+    }
+  ],
+  "timestamp": "2026-10-16T04:22:10.145947563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 96:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 96,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אלהי\/אלילים",
+      "rationale": "אֱלֹהֵי（神明）與 אֱלִילִים（虛無之物、偶像）僅一音之差，音近成對比，中文無法保留"
+    },
+    {
+      "kind": "substitution",
+      "subject": "眾神明",
+      "rationale": "אלהי在此為異教諸神語境，依紀律用「神明／眾神」，不用「以羅欣」"
+    },
+    {
+      "kind": "addition",
+      "subject": "惟",
+      "gloss": "中文需一轉折詞表達希伯來文的對比結構"
+    }
+  ],
+  "translation": "因為萬民的眾神明都是虛無之物，惟雅威造了諸天。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "97181f96890c63ce205790d229cab2560e78902b76da491cd5581843bf8646c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/96\/5-8.1792144508748.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כל",
+      "gloss": "萬"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "眾神明"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "民的"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "虛無之物"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "惟雅威"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造了"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:08.749447097Z",
+  "model": "glm-5.3"
+}

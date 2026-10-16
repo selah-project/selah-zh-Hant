@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בנה בניתי",
+      "rationale": "不定式絕對形加動詞的強調結構，中譯以「建造啊，我確實建造了」再現其重複強調"
+    },
+    {
+      "kind": "hapax",
+      "subject": "זבל",
+      "rationale": "זְבוּל「尊貴居所」在塔納赫中僅此一處（及平行經文賽 63:15 的同根名詞），音譯為澤布珥並括註"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עולמים",
+      "rationale": "複數「諸永恆」，可譯「永永遠遠」；此處取「永遠」"
+    }
+  ],
+  "translation": "建造啊，我確實為你建造了一座居所（澤布珥），一個根基，供你永遠居住。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "10ba86f01d7f4300c2161cb60d124891de103b54c4b9961008b499c1f1e86033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/8\/13-16.1792132860425.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "建造啊"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "我確實建造了"
+    },
+    {
+      "surface": "בית",
+      "gloss": "一座殿宇"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "居所（澤布珥）"
+    },
+    {
+      "surface": "לך",
+      "gloss": "給你"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "根基"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "供你居住"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-10-16T06:41:00.426460123Z",
+  "model": "glm-5.3"
+}

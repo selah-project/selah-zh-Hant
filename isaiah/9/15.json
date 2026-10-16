@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מאשרי／ומאשריו",
+      "rationale": "同根 אשר 兩次：JPS作「引領者／被引領者」，KJV作「得福的／使之得福的」；本譯隨 JPS"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאשרי…מאשריו",
+      "rationale": "同一詞根的重複形成對比：領人的與被領的同陷毀滅"
+    }
+  ],
+  "translation": "這民中的引領者使他們走迷，被他們引領的都被吞滅。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "42ca7d0bca494e704e552907524bdd4fd1cd418ef68f4569c31a7e8e373fbe14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/9\/13-16.1792134792724.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "於是"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "引領者"
+    },
+    {
+      "surface": "העם",
+      "gloss": "這民"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "使他們走迷"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "與被他們引領的"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "被吞滅"
+    }
+  ],
+  "timestamp": "2026-10-16T07:13:12.724955931Z",
+  "model": "glm-5.3"
+}

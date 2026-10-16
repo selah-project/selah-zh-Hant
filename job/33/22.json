@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 33:22",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשו",
+      "rationale": "נפש 直譯近「咽喉／生命之氣」，譯「生命」而非「靈魂」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וחיתו",
+      "rationale": "「他的活力／生氣」，譯「氣息」以別於前一詞。"
+    },
+    {
+      "kind": "crux",
+      "subject": "לממתים",
+      "rationale": "「致死之者」複數：或指死亡使者，或指掘墓人（日內瓦譯本），或指疾病。"
+    }
+  ],
+  "translation": "他的生命臨近深坑，他的氣息臨近那使人致死之者。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "abc095bbe9210e51ed306588fabdb9c2fd32e19459828a6d2168a0553c9dd308",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/33\/21-24.1792146349544.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקרב",
+      "gloss": "臨近"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "深坑"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "他的生命"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "他的氣息"
+    },
+    {
+      "surface": "לממתים",
+      "gloss": "那使人致死之者"
+    }
+  ],
+  "timestamp": "2026-10-16T10:25:49.545643489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 22:35",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונחת",
+      "rationale": "字面「壓下」——KJV「銅弓被折斷」、JPS「彎得動銅弓」，動作主客各異"
+    },
+    {
+      "kind": "substitution",
+      "subject": "銅",
+      "rationale": "נחושה是銅，非鋼（KJV『steel』為時代誤植）"
+    }
+  ],
+  "translation": "他教導我的手爭戰，我的臂膀壓彎了銅弓。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "013663028b1bfc4424564e97a8027c9f5a3467f858a19734a0e3aefd70617ba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/22\/33-36.1792132362189.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "他教導"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "爭戰"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "壓下"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "弓"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "銅"
+    },
+    {
+      "surface": "זרעתי",
+      "gloss": "我的臂膀"
+    }
+  ],
+  "timestamp": "2026-10-16T06:32:42.190420087Z",
+  "model": "glm-5.3"
+}

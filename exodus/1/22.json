@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "你們",
+      "rationale": " Hebrew 動詞形式（複數祈使）隱含主語，中文補出"
+    },
+    {
+      "kind": "you",
+      "subject": "對法老的眾民",
+      "rationale": "全節為法老對埃及眾民的直接命令"
+    }
+  ],
+  "translation": "法老吩咐他的眾民說：「凡出生的男孩，你們要把他丟進河裡；凡女孩，你們要让她存活。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b258e81d015566a98919645efbce63515e3d2b133255fb7d249abb3ba91bf831",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/1\/21-22.1792125637362.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "吩咐"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "對所有"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "他的眾民"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "男孩"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "出生的"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "河"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "你們要把他丟進"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "女孩"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "你們要让她存活"
+    }
+  ],
+  "timestamp": "2026-10-16T04:40:37.363443023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ידבר",
+      "rationale": "字面「他說話／帶領」，諸本或譯「制伏」「使屈服」；此處作使萬民降服"
+    },
+    {
+      "kind": "alternative",
+      "subject": "他帶領萬民",
+      "rationale": "YLT「He leadeth peoples」，取 דבר 罕見的「引導」義"
+    }
+  ],
+  "translation": "他使萬民服在我們以下，又使列邦服在我們腳下。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4e35d3bd082dfc77ec5d1f114acc86320c6840fd651e2d44f6628c221c9b47a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/47\/1-4.1792143839679.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "他使…服"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "萬民"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "在我們以下"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "又使列邦"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "在…以下"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "我們腳下"
+    }
+  ],
+  "timestamp": "2026-10-16T09:43:59.680207737Z",
+  "model": "glm-5.3"
+}

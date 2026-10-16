@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 49:24",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "〈出〉",
+      "rationale": "מִשָּׁם רֹעֶה 字面「從那裡牧者」；中文需一動詞方能成句。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "磐石",
+      "rationale": "אֶבֶן 字面「石頭」，和合作「磐石」；是既定的喻稱。"
+    },
+    {
+      "kind": "crux",
+      "subject": "מִשָּׁם רֹעֶה אֶבֶן יִשְׂרָאֵל",
+      "rationale": "「從那裡（出）牧者、以色列的磐石」：KJV 括號為對雅威的指認；或如 YLT 讀「以色列之子」的牧人。"
+    }
+  ],
+  "translation": "他的弓仍堅立不移，他兩手的膀臂因雅各大能者的手而矯健有力；從那裡〈出〉牧者，以色列的磐石。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "93b0d21c5b4cb20d6cfd0ba103f7a3d38581c723a1d9718ddd685f799721e13c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/49\/21-24.1792125663183.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשב",
+      "gloss": "仍堅立"
+    },
+    {
+      "surface": "באיתן",
+      "gloss": "堅立不移"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "他的弓"
+    },
+    {
+      "surface": "ויפזו",
+      "gloss": "矯健有力"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "膀臂"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "他的手"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "因……的手"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "大能者"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "משם",
+      "gloss": "從那裡"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "牧者"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "磐石"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T04:41:03.184948159Z",
+  "model": "glm-5.3"
+}

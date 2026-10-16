@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "באחד שעריך",
+      "rationale": "「你的眾城門之一」是逐字的分配記法，不是類別的泛稱。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "城門",
+      "rationale": "שעריך 字面是「你的諸門」，指城邑；譯作「城門」以存其實指。"
+    }
+  ],
+  "translation": "你不可在你眾城門之一內宰殺 ⟨את⟩ 逾越節的祭牲——那些城門是雅威你的以羅欣賜給你的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "372e101a9a74e67a9df470aec489afe0032cb493c2df1a0aea2b351cb9dc7d65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/16\/5-8.1792128856201.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "你能夠"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "宰殺"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "逾越節的祭牲"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "逾越節的祭牲"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "在……之一"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "你的眾城門"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那些"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "賜給"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    }
+  ],
+  "timestamp": "2026-10-16T05:34:16.202549369Z",
+  "model": "glm-5.3"
+}

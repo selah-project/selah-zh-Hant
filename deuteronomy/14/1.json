@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 14:1",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "兒女",
+      "rationale": "בנים 是「兒子們」，此處對全會眾（男女）說，取「兒女」"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בין עיניכם",
+      "rationale": "「在你們兩眼之間」實指前額，喪禮割禮習俗的希伯來慣用語"
+    },
+    {
+      "kind": "you",
+      "subject": "to 以色列",
+      "rationale": "直接向以色列全會眾說話"
+    }
+  ],
+  "translation": "你們是雅威你們以羅欣的兒女；不可為死人割損自己，也不可在你們兩眼之間剃光頭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "04ef3a08525212de66191003461017c55080fb274ec431eedec4f533c64587e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/14\/1-4.1792128783416.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "兒女"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "你們是"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威的"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "你們的以羅欣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תתגדדו",
+      "gloss": "割損自己"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不可"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "剃"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "光頭"
+    },
+    {
+      "surface": "בין",
+      "gloss": "之間"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "你們兩眼"
+    },
+    {
+      "surface": "למת",
+      "gloss": "為死人"
+    }
+  ],
+  "timestamp": "2026-10-16T05:33:03.417483966Z",
+  "model": "glm-5.3"
+}

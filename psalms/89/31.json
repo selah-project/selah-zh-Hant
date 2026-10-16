@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ובמשפטי",
+      "rationale": "介詞ב（在…之中）與否定動詞連讀，中文以「不遵行」吸收"
+    },
+    {
+      "kind": "crux",
+      "subject": "妥拉",
+      "rationale": "תורה譯「妥拉／訓誨」而非「律法」，避免後來的律法對立框架"
+    }
+  ],
+  "translation": "倘若他的子孫離棄我的妥拉，不遵行我的典章，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e9e1a2e0c333784325d655fe3bf086de94bcd239aa8dcd63e21aee150fdfff89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/89\/29-32.1792144446207.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "倘若"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "離棄"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "他的子孫"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "我的妥拉"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "不遵行我的典章"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "行"
+    }
+  ],
+  "timestamp": "2026-10-16T09:54:06.208776786Z",
+  "model": "glm-5.3"
+}

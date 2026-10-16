@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 25:18",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞；比喻並列，中文需「是」字連接"
+    },
+    {
+      "kind": "crux",
+      "subject": "מפיץ",
+      "rationale": "僅此一見的詞：錘子／大槌（破碎之物），各譯本或作「錘」或作「鏢」"
+    }
+  ],
+  "translation": "錘子、刀劍和磨利的箭——那向鄰舍作證的人，是虛假的見證。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fe440564fc10a898150559450bf13af24c6ff93bf6143fb08ef05e032fc14eef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/25\/17-20.1792145634055.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפיץ",
+      "gloss": "錘子"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "和刀劍"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "和箭"
+    },
+    {
+      "surface": "שנון",
+      "gloss": "磨利的"
+    },
+    {
+      "surface": "איש",
+      "gloss": "那人"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "作證"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "向他的鄰舍"
+    },
+    {
+      "surface": "עד",
+      "gloss": "見證"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "虛假的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:13:54.056518674Z",
+  "model": "glm-5.3"
+}

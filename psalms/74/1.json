@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨我們⟩",
+      "rationale": "希伯來文 זנחת 無受詞，中文需補出對象"
+    },
+    {
+      "kind": "substitution",
+      "subject": "怒氣",
+      "rationale": "אף 本義是「鼻／鼻孔」，怒氣冒煙是希伯來以身體意象言怒"
+    },
+    {
+      "kind": "idiom",
+      "subject": "冒煙",
+      "rationale": "יעשן 怒氣如煙冒起，喻怒火悶燒，直譯保留其畫面"
+    },
+    {
+      "kind": "invitation",
+      "subject": "以羅欣啊",
+      "rationale": "會幕體哀歌開篇直接向神呼求發問"
+    }
+  ],
+  "translation": "訓誨詩，屬亞薩的。以羅欣啊，為何你永遠撇棄⟨我們⟩？你的怒氣向你草場的羊群冒煙。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "064e49d03dbdcc4cffb63d4566098b25fe5a5867a68e7e0fa3d7ad05241f9919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/74\/1-4.1792144298031.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "訓誨詩"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "屬亞薩的"
+    },
+    {
+      "surface": "למה",
+      "gloss": "為何"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "你撇棄了"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "冒煙"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "你的怒氣"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "向羊群"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "你草場的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:51:38.032538865Z",
+  "model": "glm-5.3"
+}

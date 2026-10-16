@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "轉念",
+      "rationale": "סבותי 字面是『我轉向／迴旋』，指心思的轉變；『轉念』存其動態"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העמל שעמלתי",
+      "rationale": "『勞碌所勞碌的』同根重疊，中文以『勞碌』一詞到底保留"
+    }
+  ],
+  "translation": "於是我轉念，任憑 ⟨את⟩ 我的心因我在日光之下所勞碌的一切勞碌而絕望。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c1c669dab5203901d782a63b4894168e24168b4354b61b7ce2442b2bb17daf6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/2\/17-20.1792146986175.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "於是我轉念"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "任憑……絕望"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的心"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "על",
+      "gloss": "因"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "勞碌"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "所勞碌的"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "在……之下"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日光"
+    }
+  ],
+  "timestamp": "2026-10-16T10:36:26.176814834Z",
+  "model": "glm-5.3"
+}

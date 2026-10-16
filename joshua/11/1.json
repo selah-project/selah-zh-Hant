@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 11:1",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "這些事",
+      "rationale": "כשמע的受詞未在原文明言，中文需補出所指（參書10章戰事的結果）"
+    },
+    {
+      "kind": "substitution",
+      "subject": "打發人",
+      "rationale": "וישלח只說「打發」，中文補「人」以成句"
+    },
+    {
+      "kind": "crux",
+      "subject": "示米倫",
+      "rationale": "שמרון與後來的撒瑪利亞同名異地，此處是迦南城邑，非北國首都"
+    }
+  ],
+  "translation": "夏瑣王耶賓聽見這些事，就打發人去見瑪頓王約巴、示米倫王和亞革西弗王，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2bb57afbbfa1abd2ac78c0906fb572c214e6e9d1231cf9a306e5b478523f860c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/11\/1-4.1792129753862.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "當…的時候"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "耶賓"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "夏瑣"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "就打發人去見"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去見"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "約巴"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "瑪頓"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "和…去見"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "示米倫"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "和…去見"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "亞革西弗"
+    }
+  ],
+  "timestamp": "2026-10-16T05:49:13.863427109Z",
+  "model": "glm-5.3"
+}

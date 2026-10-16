@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "它",
+      "rationale": "受詞「妥拉」在中文動詞結構中需補出代詞"
+    },
+    {
+      "kind": "crux",
+      "subject": "למען צדקו",
+      "rationale": "「為了他的公義」——傳統讀作雅威的公義；另有譯本讀作僕人的公義，代詞所指有爭議"
+    }
+  ],
+  "translation": "雅威喜悅為了他的公義，使妥拉宏大，並使它尊貴。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e65b8dd7afb4d1a26416ee62cd4fe54059084c041ae9035f1d21ca5f8c235eab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/42\/21-24.1792142636867.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "喜悅"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為了"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "他的公義"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "使……宏大"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "妥拉"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "並使它尊貴"
+    }
+  ],
+  "timestamp": "2026-10-16T09:23:56.868567680Z",
+  "model": "glm-5.3"
+}

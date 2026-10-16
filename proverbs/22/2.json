@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文判斷句需要『是』"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשיר\/עשה",
+      "rationale": "『富戶』（עשיר）與『製造』（עשה）字音相近，強調造他們的那一位超越貧富之分"
+    }
+  ],
+  "translation": "富戶和窮人相遇；製造他們所有人的是雅威。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "da30ecec23518da05e20c566ab391ef5a453dbaa5d01661c9410f34e9853b227",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/22\/1-4.1792145571667.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "富戶"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "和窮人"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "相遇"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "製造"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "他們所有人"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-10-16T10:12:51.667843434Z",
+  "model": "glm-5.3"
+}

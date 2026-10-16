@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "果樹的「樹」",
+      "rationale": "原文語序為「果樹」，希伯來文עץ פרי是 construct 連語，中文合併為一詞"
+    }
+  ],
+  "translation": "眾山和一切小岡，果樹和一切香柏樹，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "da315beae6179eb95ca14d90070a725f84edac6cfe9096be2945a0e263a995e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/148\/9-12.1792145112448.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "眾山"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和一切"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "小岡"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "樹"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "果"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和一切"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "香柏樹"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:12.448674578Z",
+  "model": "glm-5.3"
+}

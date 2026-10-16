@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 19:2",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "神明",
+      "rationale": "אלהים 在耶洗別起誓的口中指異教神明，依紀律譯「神明」而非以羅欣。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "願神明這樣待我，也這樣加添",
+      "rationale": "希伯來起誓套語，以自我咒詛代替「若不」條件句。"
+    },
+    {
+      "kind": "you",
+      "subject": "到以利亞",
+      "rationale": "耶洗別藉使者直接向以利亞發出死亡恐嚇。"
+    }
+  ],
+  "translation": "耶洗別差遣一個使者到以利亞那裡，說：「願神明這樣待我，也這樣加添，因為明天約在這時候，我必使 ⟨את⟩ 你的性命像他們中一人的性命一樣。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ff60ce540c7eec4ff51cfc1258ed4c277a45583ce185b8a96852ffcc5426aac5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/19\/1-4.1792133372097.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשלח",
+      "gloss": "差遣了"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "耶洗別"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "使者"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "以利亞"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "כה",
+      "gloss": "這樣"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "願……待"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "神明"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "也這樣"
+    },
+    {
+      "surface": "יוספון",
+      "gloss": "加添"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "約在這時候"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "明天"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "我必使"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的性命"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "你的性命"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "像……的性命"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一人"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "他們中"
+    }
+  ],
+  "timestamp": "2026-10-16T06:49:32.098403455Z",
+  "model": "glm-5.3"
+}

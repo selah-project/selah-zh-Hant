@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "כי",
+      "rationale": "希伯來文 『因為／就是』在此作引導『知道』內容的標記，中文以語序消化。"
+    },
+    {
+      "kind": "you",
+      "subject": "對耶路撒冷居民",
+      "rationale": "延續上節的直接斥責。"
+    }
+  ],
+  "translation": "你們必倒在刀下；在以色列的邊界，我必審判 ⟨את⟩ 你們，你們就知道我是雅威。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dca516053340c76d833f5c105edfd8f7e88e362be0e11a1e029b1cd3b2c02949",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/11\/9-12.1792138042881.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "在刀下"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "你們必倒"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "邊界"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "我必審判"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "你們"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "你們就知道"
+    },
+    {
+      "surface": "כי",
+      "gloss": "……的事實（引導詞）"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-10-16T08:07:22.881868089Z",
+  "model": "glm-5.3"
+}

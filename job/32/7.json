@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 32:7",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אמרתי",
+      "gloss-note": "",
+      "rationale": "希伯來只作「我說」，中譯補「心裡」表明是內心思量"
+    },
+    {
+      "kind": "addition",
+      "subject": "當",
+      "rationale": "中文需要助動詞表達期望語氣，希伯來無此字"
+    }
+  ],
+  "translation": "我心裡說：年日當說話，豐富的年歲當指教智慧。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1d1705853fb0f863e2d13261d331502655f8bcb5af8089895cb8c245216a5636",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/32\/5-8.1792146368600.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "我心裡說"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "年日"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "說話"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "豐富"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年歲"
+    },
+    {
+      "surface": "ידיעו",
+      "gloss": "指教"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    }
+  ],
+  "timestamp": "2026-10-16T10:26:08.601399614Z",
+  "model": "glm-5.3"
+}

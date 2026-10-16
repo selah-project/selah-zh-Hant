@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "habakkuk 1:17",
+  "book": "habakkuk",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他的",
+      "rationale": "中文需要代詞領屬，希伯來文以詞尾形式包含於חרמו內"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרמו",
+      "rationale": "חרם可指「網」或「滅絕當滅之物」；此處承接1:15-16的捕魚意象，譯作網"
+    }
+  ],
+  "translation": "難道因此他要倒空⟨את⟩他的網，並且不停地屠殺列國、毫不憐恤嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "85c0cc4701939b54ed317c84fdd9b4e0f43421ee1c3c43857673b0be646f7196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/habakkuk\/1\/17-17.1792142669675.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "難道"
+    },
+    {
+      "surface": "כן",
+      "gloss": "因此"
+    },
+    {
+      "surface": "יריק",
+      "gloss": "倒空"
+    },
+    {
+      "surface": "חרמו",
+      "gloss": "他的網"
+    },
+    {
+      "surface": "ותמיד",
+      "gloss": "不停地"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "屠殺"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "憐恤"
+    }
+  ],
+  "timestamp": "2026-10-16T09:24:29.676640223Z",
+  "model": "glm-5.3"
+}

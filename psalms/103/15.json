@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ציץ\/יציץ",
+      "rationale": "「花」與「綻放（轉瞬凋零）」同根，כציץ……כן יציץ 音義相扣，中文難以保留"
+    },
+    {
+      "kind": "substitution",
+      "subject": "世人",
+      "rationale": "אנוש特指「必死的人」，有別於אדם，中文以「世人」承接"
+    }
+  ],
+  "translation": "世人如草，他的日子如田野的花，轉眼凋謝。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8fb404682e6fcceec1c0c687951955156f6b0ffe4ebcd9cec163f0f254815c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/103\/13-16.1792144569271.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "世人"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "如草"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "他的日子"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "如……花"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田野的"
+    },
+    {
+      "surface": "כן",
+      "gloss": "就這樣"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "凋謝綻放"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:09.272113497Z",
+  "model": "glm-5.3"
+}

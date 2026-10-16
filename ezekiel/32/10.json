@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 32:10",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישערו\/שער",
+      "rationale": "動詞 שׂער 與名詞 שׂער（恐懼）同根疊用，中文以「恐懼……極其恐懼」保留重複"
+    },
+    {
+      "kind": "crux",
+      "subject": "בעופפי",
+      "rationale": "字面「當我的劍飛掠時」，諸譯本作「揮舞／閃亮」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש 是氣息、生命之力，此處譯「性命」"
+    }
+  ],
+  "translation": "我必使許多民族因你驚惶，他們的君王因你極其恐懼，當我在他們面前揮舞我的刀劍的時候；他們必時時刻刻戰兢，各人為自己的性命，在你傾覆的日子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c93a703826d9a888d574f424d09fcc5dd9752ea63d234e644d78ae2dd997246a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/32\/9-12.1792138801124.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשמותי",
+      "gloss": "我必使……驚惶"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "因你"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "民族"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "許多"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "他們的君王"
+    },
+    {
+      "surface": "ישערו",
+      "gloss": "恐懼"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "因你"
+    },
+    {
+      "surface": "שער",
+      "gloss": "極其恐懼"
+    },
+    {
+      "surface": "בעופפי",
+      "gloss": "當我揮舞"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "我的刀劍"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……之上"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "他們的面"
+    },
+    {
+      "surface": "וחרדו",
+      "gloss": "他們必戰兢"
+    },
+    {
+      "surface": "לרגעים",
+      "gloss": "時時刻刻"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "לנפשו",
+      "gloss": "為自己的性命"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在……的日子"
+    },
+    {
+      "surface": "מפלתך",
+      "gloss": "你的傾覆"
+    }
+  ],
+  "timestamp": "2026-10-16T08:20:01.126046641Z",
+  "model": "glm-5.3"
+}

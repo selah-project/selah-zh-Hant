@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "字面為「按刀的口」，即刀刃；多數譯本作「刀的刃」"
+    },
+    {
+      "kind": "you",
+      "subject": "戰況總結",
+      "rationale": "敘事總結句，無直接稱呼"
+    }
+  ],
+  "translation": "約書亞削弱了 ⟨את⟩ 亞瑪力和 ⟨את⟩ 他的百姓，按著刀的口。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1954886aa6b4636e41f652343acf47fdb9f1cf61858f53f02a5207633bfe44c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/17\/13-16.1792126027081.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "削弱了"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞瑪力"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "亞瑪力"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "他的百姓"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "他的百姓"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "按著……的口"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀"
+    }
+  ],
+  "timestamp": "2026-10-16T04:47:07.081796122Z",
+  "model": "glm-5.3"
+}

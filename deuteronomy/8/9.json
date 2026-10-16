@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 8:9",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "במסכנת",
+      "rationale": "「貧乏」一詞僅見於此處（申 8:9），以否定短語表達『不致缺乏』之意。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארץ…ארץ",
+      "rationale": "『地』字在節內重複兩次，首尾呼應，強調這地的豐富。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "土地的豐富",
+      "rationale": "此節列舉地的資源——鐵與銅——是一種清點式的描述。"
+    }
+  ],
+  "translation": "一塊地，你在那裡吃餅必不致貧乏，你在那裡一無所缺；一塊地，它的石頭是鐵，從它的山嶺你可以鑿出銅來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "81c8c2dfd8856795cd331c2af1ca27e223e19b83ede43042cf8d33aaf20f5a66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/8\/9-12.1792128681116.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "一塊地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "在那裡"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "במסכנת",
+      "gloss": "貧乏"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "你吃"
+    },
+    {
+      "surface": "בה",
+      "gloss": "在其中"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "你缺乏"
+    },
+    {
+      "surface": "כל",
+      "gloss": "任何東西"
+    },
+    {
+      "surface": "בה",
+      "gloss": "在其中"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "一塊地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "它的"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "鐵"
+    },
+    {
+      "surface": "ומהרריה",
+      "gloss": "從它的山嶺"
+    },
+    {
+      "surface": "תחצב",
+      "gloss": "你鑿出"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    }
+  ],
+  "timestamp": "2026-10-16T05:31:21.117482150Z",
+  "model": "glm-5.3"
+}

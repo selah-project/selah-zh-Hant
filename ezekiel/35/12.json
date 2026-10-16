@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 35:12",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "「我是雅威」前的連接詞在中文中省略"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לאכלה",
+      "rationale": "本義「食物／獵物」，中文補「吞吃」以使「給我們作食物」的嘲弄語完整"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שממה",
+      "rationale": "第9節 שממות 與此節 שממה 同詞根呼應——以東的嘲罵反成自身的結局，中文以同詞「荒涼」保留"
+    }
+  ],
+  "translation": "你也必知道我是雅威。我聽見了 ⟨את⟩ 你一切的辱罵，就是你針對以色列眾山所說的，說：『荒涼了，它們已給我們作食物吞吃。』",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "71cdc1ffe536b38f41edaf6652145c6e0b02c46730fd3c42b7201aa980227277",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/35\/9-12.1792138943870.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "你也必知道"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "我聽見了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你一切的辱罵"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切的"
+    },
+    {
+      "surface": "נאצותיך",
+      "gloss": "你的辱罵"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "你所說的"
+    },
+    {
+      "surface": "על",
+      "gloss": "針對"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "眾山"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "荒涼了"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "給我們"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "已給"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "作食物吞吃"
+    }
+  ],
+  "timestamp": "2026-10-16T08:22:23.871446510Z",
+  "model": "glm-5.3"
+}

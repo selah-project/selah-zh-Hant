@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 1:51",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "有人",
+      "rationale": "希伯來被動式「有人告訴所羅門」，中文需主語"
+    },
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "否定誓言中的אם：英譯多作「若他不用刀殺死」（誓詞內含否定），中文以「必不」譯出"
+    },
+    {
+      "kind": "secret",
+      "subject": "抓住祭壇的角",
+      "rationale": "抓住祭壇角以求庇護，是求助免死的舉動"
+    }
+  ],
+  "translation": "有人告訴所羅門說：「看哪，亞多尼雅懼怕所羅門王，看哪，他抓住祭壇的角，說：『願所羅門王今日向我起誓，必不用刀殺死 ⟨את⟩ 他的僕人。』」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fe0f6e8b22efe7528923b5ba13af46455edf6be4fc7d7c3abc22c6da205efe2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/1\/49-52.1792132478822.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "有人告訴"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "亞多尼雅"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "懼怕"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所羅門王"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "抓住"
+    },
+    {
+      "surface": "בקרנות",
+      "gloss": "……的角"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "起誓"
+    },
+    {
+      "surface": "לי",
+      "gloss": "向我"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "אם",
+      "gloss": "必不"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "殺死"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的僕人"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "他的僕人"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "用刀"
+    }
+  ],
+  "timestamp": "2026-10-16T06:34:38.823063789Z",
+  "model": "glm-5.3"
+}

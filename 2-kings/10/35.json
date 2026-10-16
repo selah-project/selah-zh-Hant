@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "與他列祖同睡",
+      "rationale": "ותישכב עם אבתיו 直譯「與他列祖同睡」，即死亡的委婉語"
+    },
+    {
+      "kind": "substitution",
+      "subject": "人們",
+      "rationale": "ויקברו 動詞複數「他們葬了」，中文以無主語「人們葬了」處理"
+    }
+  ],
+  "translation": "耶戶與他列祖同睡，人們把他葬在撒瑪利亞；他兒子約哈斯接續他作王。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d4a65046d5d9bfe5b61eec1ad7afd62f5d3b914658d7ae33c6cf18e9d026e998",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/10\/33-36.1792133828235.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "與……同睡"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "耶戶"
+    },
+    {
+      "surface": "עם",
+      "gloss": "與"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "他列祖"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "他們葬了"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "他"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "在撒瑪利亞"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "作王"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "約哈斯"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "他兒子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "接續他"
+    }
+  ],
+  "timestamp": "2026-10-16T06:57:08.237021125Z",
+  "model": "glm-5.3"
+}

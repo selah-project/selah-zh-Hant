@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 26:25",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "願你",
+      "rationale": "希伯來文為分詞式宣告「你是蒙福的」，中文以祝願語氣呈現"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשה תעשה \/ יכל תוכל",
+      "rationale": "不定式絕對加未完成的疊強結構「行必行、能必能」，中文以「又……又……」與「必」字對應"
+    },
+    {
+      "kind": "you",
+      "subject": "to David",
+      "rationale": "掃羅直接稱呼大衛「我兒大衛」，最後的祝福話語"
+    }
+  ],
+  "translation": "掃羅對大衛說：「我兒大衛，願你蒙福；你必又行事，又得成全。」於是大衛走了他的路，掃羅也回他的地方去了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "155e0c5822280e42c6b218995d338b3167236c805af7438c9ed4bbe456cb05a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/26\/25-25.1792131448953.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "蒙福"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我兒"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "גם",
+      "gloss": "又"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行事"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "必行"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "又"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "得成全"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "必成"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "於是走了"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "他的路"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "掃羅也"
+    },
+    {
+      "surface": "שב",
+      "gloss": "回"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "他的地方"
+    }
+  ],
+  "timestamp": "2026-10-16T06:17:28.954002114Z",
+  "model": "glm-5.3"
+}

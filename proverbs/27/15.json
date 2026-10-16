@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 27:15",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סגריר",
+      "rationale": "傾盆大雨之詞僅見於此（《塔納赫》唯一出處）。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נשתוה",
+      "rationale": "字面為「被看作同等」，譯作「也是如此」以成自然中文。"
+    }
+  ],
+  "translation": "大雨之日滴漏不住，好爭吵的女子也是如此。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4529e6ea2fd96df2dc4e91b60327ade49c1d130e16032ad6dc9ff19310329d16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/27\/13-16.1792145670164.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דלף",
+      "gloss": "滴漏"
+    },
+    {
+      "surface": "טורד",
+      "gloss": "不住的"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在……之日"
+    },
+    {
+      "surface": "סגריר",
+      "gloss": "大雨"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "而女子"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "好爭吵的"
+    },
+    {
+      "surface": "נשתוה",
+      "gloss": "也是如此"
+    }
+  ],
+  "timestamp": "2026-10-16T10:14:30.166838049Z",
+  "model": "glm-5.3"
+}

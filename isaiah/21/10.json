@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מדששתי ובן גרני",
+      "rationale": "「我的被打穀之物、我禾場之子」是打穀場比喻，指被踹打的百姓；保留字面圖像，不譯作「我受苦的百姓」"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "向百姓的直接呼告（「啊」），並宣告「已告訴你們」"
+    }
+  ],
+  "translation": "我的被打穀之物、我禾場之子啊：我從⟨את⟩萬軍之雅威、以色列的以羅欣所聽見的，都已告訴你們了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "57878eca1b3aa738706909bb55e4ff59290939101f10add5d90986cf7df15de3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/21\/9-12.1792134860987.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "我的被打穀之物"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "和…之子"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "我禾場"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "我聽見的"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "從⟨את⟩",
+      "marks": "萬軍之雅威、以色列的以羅欣"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "萬軍之"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "我已告訴"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "你們"
+    }
+  ],
+  "timestamp": "2026-10-16T07:14:20.987984542Z",
+  "model": "glm-5.3"
+}

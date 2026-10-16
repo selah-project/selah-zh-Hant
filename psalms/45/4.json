@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "願人看見",
+      "rationale": "הודך והדרך 為獨立名詞短語，無動詞；和合本作「在你的威嚴和榮美中前行」，此處補最小限度的動詞"
+    },
+    {
+      "kind": "crux",
+      "subject": "הודך והדרך",
+      "rationale": "威嚴與華美或是呼格的同位語（「威嚴華美者啊」），或是刀的修飾語（「你的威嚴華美就是你的刀」），各家分歧"
+    },
+    {
+      "kind": "you",
+      "subject": "to the king",
+      "rationale": "命令語氣直接向王（大能者）發話"
+    }
+  ],
+  "translation": "大能者啊，把你的刀佩在腰間，⟨願人看見⟩你的威嚴和你的華美。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2f0ced1bac9db241d0082f3c5f0d669dda6b700031a2644694911d4ac6ca1979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/45\/1-4.1792143874820.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "佩上"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "你的刀"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "腰間"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "大能者啊"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "你的威嚴"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "和你的華美"
+    }
+  ],
+  "timestamp": "2026-10-16T09:44:34.821441829Z",
+  "model": "glm-5.3"
+}

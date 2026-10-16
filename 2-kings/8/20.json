@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "手",
+      "rationale": "「脫離猶大之手」即脫離其權柄管轄"
+    },
+    {
+      "kind": "hapax",
+      "subject": "וימלכו",
+      "rationale": "此處使役式「立王治理」與一般「作王」有別，凸顯以東自立君王"
+    }
+  ],
+  "translation": "在他的日子，以東背叛，脫離猶大之手；他們立了王治理自己。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "423f077560e5a6e1592bb1ba9f7c0e8cd12cfc075ee8f7ecf9a5d7657958ff7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/8\/17-20.1792133771598.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "在他的日子"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "背叛"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "以東"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "脫離……之下"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "他們立了王"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "治理他們"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-10-16T06:56:11.599242236Z",
+  "model": "glm-5.3"
+}

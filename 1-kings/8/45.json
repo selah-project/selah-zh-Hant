@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "從",
+      "rationale": "希伯來文僅有「天上」，中文需介詞標明垂聽之處"
+    },
+    {
+      "kind": "substitution",
+      "subject": "施行他們的公義",
+      "rationale": "משפטם 直譯「他們的判決／案情」，諸英譯作「為他們伸冤」"
+    }
+  ],
+  "translation": "你要從天上垂聽 ⟨את⟩ 他們的禱告和 ⟨את⟩ 他們的懇求，並為他們施行他們的公義。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d6160e1ef828706a10b06127e43a290a55bfe81c2f2ce9f5db7bb2c0ca8b0b11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/8\/45-48.1792132862218.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "你要垂聽"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "從天上"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的禱告"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "他們的禱告"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "他們的懇求"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "他們的懇求"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "並你要施行"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "他們的公義"
+    }
+  ],
+  "timestamp": "2026-10-16T06:41:02.219077410Z",
+  "model": "glm-5.3"
+}

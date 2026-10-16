@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 10:5",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "沙代",
+      "rationale": "שדי音譯為沙代，不譯作「全能者」；與伊勒連用即伊勒·沙代"
+    },
+    {
+      "kind": "addition",
+      "subject": "時的聲音",
+      "rationale": "כקול…בדברו直譯「如同……說話的聲音」，中文補足語序"
+    }
+  ],
+  "translation": "基路伯翅膀的響聲傳到外院，如同伊勒·沙代說話時的聲音。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e2236e5a7fa0344afe3005c2ebac59864fc0aab1cb4d22de9f7ffaa2c1e2e3f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/10\/5-8.1792142587694.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקול",
+      "gloss": "響聲"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "翅膀"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "基路伯"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "被聽見"
+    },
+    {
+      "surface": "עד",
+      "gloss": "傳到"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "院"
+    },
+    {
+      "surface": "החיצנה",
+      "gloss": "外"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "如同……的聲音"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伊勒"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "沙代"
+    },
+    {
+      "surface": "בדברו",
+      "gloss": "在祂說話時"
+    }
+  ],
+  "timestamp": "2026-10-16T09:23:07.695011119Z",
+  "model": "glm-5.3"
+}

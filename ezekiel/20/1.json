@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 20:1",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "的",
+      "rationale": "中文關係結構需要「的」連接「以色列的長老」，希伯來文為構造組合詞"
+    },
+    {
+      "kind": "measurement",
+      "subject": "日期",
+      "rationale": "本節以年、月、日精確定時，是流亡編年的時間標記"
+    }
+  ],
+  "translation": "第七年、五月初十日，以色列的幾個長老進來，要尋求 ⟨את⟩ 雅威，他們就坐在我面前。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e03b63b3b514bd616ce8ab2dad0ef937c1cda17b4c91606493cfeec9dedf05ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/20\/1-4.1792138444550.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生在"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "在……年"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "第七"
+    },
+    {
+      "surface": "בחמשי",
+      "gloss": "在第五（月）"
+    },
+    {
+      "surface": "בעשור",
+      "gloss": "在初十"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "月份"
+    },
+    {
+      "surface": "באו",
+      "gloss": "進來"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "幾個人"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "從……的長老"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "要尋求"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "他們就坐"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在……面前"
+    }
+  ],
+  "timestamp": "2026-10-16T08:14:04.550591085Z",
+  "model": "glm-5.3"
+}

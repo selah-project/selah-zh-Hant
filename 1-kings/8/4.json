@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "這些",
+      "rationale": "אתם 是接續前文的受詞記號（「他們」指櫃與器具），中文以「這些」複指"
+    }
+  ],
+  "translation": "他們接上 ⟨את⟩ 雅威的櫃、⟨ואת⟩ 會幕和 ⟨ואת⟩ 帳幕裡一切聖所的器具；祭司和利未人把這些都接了上來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d4f6c78c3efa6e5588a26194cd13d66b9349a06709dd0a0ab109b05517d5f108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/8\/1-4.1792132795246.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "他們接上來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的櫃"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "櫃"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "會幕"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會（指定之處）"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "聖所的一切器具"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器具"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖所的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那…的"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "在帳幕裡"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "他們接上來"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "這些（櫃、帳幕與器具）"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "利未人"
+    }
+  ],
+  "timestamp": "2026-10-16T06:39:55.247718014Z",
+  "model": "glm-5.3"
+}

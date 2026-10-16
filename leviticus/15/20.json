@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 15:20",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "躺／坐",
+      "rationale": "希伯來文以 תשכב（躺）與 תשב（坐）兩個平行動詞構成對仗，中文保留此對稱"
+    },
+    {
+      "kind": "addition",
+      "subject": "一切（物件）",
+      "rationale": "中文需補出被躺臥、被坐之物，希伯來文以關係詞結構隱含"
+    }
+  ],
+  "translation": "她在污穢期間所躺的一切都不潔淨，她所坐的一切也都不潔淨。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2bfc9757041a9d4fe0df49a49fc65c742d9febf7a228fcd12d552c5d302d803c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/15\/18-20.1792142336805.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "她躺"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "在其上"
+    },
+    {
+      "surface": "בנדתה",
+      "gloss": "在污穢期間"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "必不潔淨"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "她坐"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "在其上"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "必不潔淨"
+    }
+  ],
+  "timestamp": "2026-10-16T09:18:56.807639816Z",
+  "model": "glm-5.3"
+}

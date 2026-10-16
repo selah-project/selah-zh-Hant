@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נאר",
+      "rationale": "נאר（厭棄）在塔納赫中極罕見，僅見於詩篇此處"
+    },
+    {
+      "kind": "crux",
+      "subject": "חללת לארץ",
+      "rationale": "直譯「玷污到地」，或「拋在地上玷污」；נזר可指冠冕或分別為聖之物"
+    }
+  ],
+  "translation": "你厭棄了你僕人的約，把他的冠冕玷污在地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e75d1dbc97a178cd633585fc2377983fd052a1d55d33dc8c99dc1d944e2419b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/89\/37-40.1792144403087.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "厭棄了"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你僕人的"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "玷污了"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "在地"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "他的冠冕"
+    }
+  ],
+  "timestamp": "2026-10-16T09:53:23.088501274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 2:10",
+  "book": "joel",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רגזה…רעשו…קדרו…אספו",
+      "rationale": "四個動詞連續轟擊，雙音節節奏一致；中文以雙音節動詞「震動、顫撼、變暗、收起」摹其拍子。"
+    },
+    {
+      "kind": "addition",
+      "subject": "牠",
+      "rationale": "לפניו 的代詞「他的\/牠的」指前文的蝗群大軍，中文需明示先行詞。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קדרו",
+      "rationale": "字面為「發黑如灰燼」，兼有穿麻衣居喪之義；此處取「變暗」存其色，喪義存於下文。"
+    }
+  ],
+  "translation": "在牠面前，地震動，天顫撼，日頭月亮變暗，星星收起⟨它們的⟩光輝。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "eeeb14485d6d9c10b1dd5a1d016b40b8cd5b1d92a1118722b4577f0d45b13424",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joel\/2\/9-12.1792139660053.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "在牠面前"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "震動"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "רעשו",
+      "gloss": "顫撼"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "和月亮"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "變暗"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "和星星"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "收起"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "光輝"
+    }
+  ],
+  "timestamp": "2026-10-16T08:34:20.054302541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פצו",
+      "rationale": "原文「撕開（口）」，指猛獸張口；中文譯「張開口」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "如同",
+      "rationale": "中文比況句所需的連接詞，希伯來文以並置表達。"
+    }
+  ],
+  "translation": "他們向我張開口，如同撕扯、吼叫的獅子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "91233f5f52ffdf9ce5a2a3268ee7b28cec21719b3776c1eb5cb7f68dec3f8a7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/22\/13-16.1792143418301.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "張開"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "向我"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "口"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "獅子"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "撕扯"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "吼叫"
+    }
+  ],
+  "timestamp": "2026-10-16T09:36:58.302662689Z",
+  "model": "glm-5.3"
+}

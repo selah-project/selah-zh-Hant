@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צפור",
+      "rationale": "泛指小鳥（如跳躍之鳥），KJV 譯作「麻雀」是加上了具體鳥種。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בודד",
+      "rationale": "動詞分詞「孤獨」置於名詞之前，中文字序無法完全保留其懸置的強調。"
+    }
+  ],
+  "translation": "我不眠守夜，成了孤孤單單如同房頂上的鳥。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1637c8fa76edae5b28ccf4206cff48971a4625b2172e769b74d0e33631a48276",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/102\/5-8.1792144563794.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "我不眠守夜"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "而我成了"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "如鳥"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "孤孤單單"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "גג",
+      "gloss": "房頂"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:03.795570800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 22:12",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סכות",
+      "rationale": "「帳幕」還是「他以……為幕」；各譯本處理分歧"
+    },
+    {
+      "kind": "substitution",
+      "subject": "密雲",
+      "rationale": "עבי字面是「厚重之物的集合」，指濃密雲層"
+    }
+  ],
+  "translation": "他以黑暗為四圍的帳幕，以水雲的聚集、密雲為幕。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2d2055575024d8bb9d1a1a58cb2d83932b3cef48726996509ea76b647183b822",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/22\/9-12.1792132168739.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "他安置"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "黑暗"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "他的四圍"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "帳幕"
+    },
+    {
+      "surface": "חשרת",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "密雲"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "天空的雲"
+    }
+  ],
+  "timestamp": "2026-10-16T06:29:28.740784528Z",
+  "model": "glm-5.3"
+}

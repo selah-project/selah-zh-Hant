@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 36:2",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "我主",
+      "rationale": "אדני 在此指摩西（人），非聖名位置，故譯「我主」而非「阿多奈」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "蒙雅威吩咐",
+      "rationale": "צוה ביהוה 是被動式，中文以「蒙……吩咐」表達"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "第一個את標記אדני（我主），中文以⟨את⟩記號保留"
+    }
+  ],
+  "translation": "說：「雅威曾吩咐我主，要把⟨את⟩那地賜給以色列子孫為產業，按拈鬮分配；我主又蒙雅威吩咐，要把我們兄弟西羅非哈的產業賜給⟨את⟩他的女兒們。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b293b9973e761eae7a3dbfc8dae5089ef1c5948eb521200b8f5abaf6c6fe0cfc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/36\/1-4.1792128467529.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "說"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我主"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "我主"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "曾吩咐"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "要把……賜給"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "那地"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "為產業"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "按拈鬮"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "給……子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "我主"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "蒙……吩咐"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "被雅威"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "要把……賜給"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "西羅非哈的產業"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "產業"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "西羅非哈"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "我們兄弟"
+    },
+    {
+      "surface": "לבנתיו",
+      "gloss": "他的女兒們"
+    }
+  ],
+  "timestamp": "2026-10-16T05:27:47.530109380Z",
+  "model": "glm-5.3"
+}

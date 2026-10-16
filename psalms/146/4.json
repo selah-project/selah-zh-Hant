@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "氣息",
+      "rationale": "此處 רוחו 是人的氣息，非雅威的魯阿，故譯「氣息」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "塵土",
+      "rationale": "אדמה 與「亞當」同源——人歸回所出的土"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדמתו",
+      "rationale": "אדם／אדמה（人／土）同根呼應創 2:7，中文以「人歸回塵土」保留"
+    }
+  ],
+  "translation": "他的氣息一出去，他就歸回他的塵土；在那日子，他的思想都滅亡了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cd9c1e02f2015f113f5c19e5cd83121533a352060ea047a6cf44a0c908ab641f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/146\/1-4.1792145110409.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "一出去"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "他的氣息"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "他就歸回"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "他的塵土"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在那日子"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "那"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "都滅亡了"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "他的思想"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:10.410583759Z",
+  "model": "glm-5.3"
+}

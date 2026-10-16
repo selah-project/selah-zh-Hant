@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "joshua 15:63",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "להורישם",
+      "rationale": "字面為「佔有／取得產業」，即趕出原居民而據有其地，譯「趕出去」"
+    },
+    {
+      "kind": "addition",
+      "subject": "同",
+      "rationale": "第二個 את（與）在此作「與…同住」的伴隨用法，非受詞記號，譯作「與」而非 ⟨את⟩ 標記"
+    },
+    {
+      "kind": "crux",
+      "subject": "第二個את",
+      "rationale": "此 את（H854 伴隨格）與受詞記號同形：或譯「耶布斯人住在耶路撒冷，與猶大子孫一起」，各家譯法分歧"
+    }
+  ],
+  "translation": "至於 ⟨את⟩ 耶布斯人、耶路撒冷的居民，猶大的子孫不能把他們趕出去；耶布斯人便與猶大的子孫同住在耶路撒冷，直到今日。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "758e000313dcff17b8e1d61f3700ad85e5f55f436062c5627afef041dcb19126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/15\/61-63.1792129784314.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "耶布斯人"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "耶布斯人"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "能"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子孫"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "להורישם",
+      "gloss": "把他們趕出去"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "便…同住"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "耶布斯人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ 與"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子孫"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "在耶路撒冷"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    }
+  ],
+  "timestamp": "2026-10-16T05:49:44.315688298Z",
+  "model": "glm-5.3"
+}

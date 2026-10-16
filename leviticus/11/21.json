@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 11:21",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לא",
+      "rationale": "『腿在腳以上』一語中的 לא（לו『給牠』的異寫）無獨立譯詞，融入『有腿』的描述"
+    },
+    {
+      "kind": "crux",
+      "subject": "כרעים",
+      "rationale": "僅以雙數形式出現（蝗蟲的跳腿）；諸譯本作『腿』『關節腿』『後腿』各異"
+    },
+    {
+      "kind": "addition",
+      "subject": "你們可以吃（句末）",
+      "rationale": "希伯來文句末無重複動詞，中文補出以完成語意"
+    }
+  ],
+  "translation": "惟有這個你們可以吃：凡有翅膀的爬行之物、用四足行走的，就是那些有腿、在腳以上、可用來在地上蹦跳的，你們可以吃。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dbaa5a7d1e6cfa0eb8add6fb206f26cf39f0017d06b8f56c44cf09e0043976a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/11\/21-24.1792126817397.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "惟有"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這個"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "你們可以吃"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "爬行之物"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "有翅膀的"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "行走的"
+    },
+    {
+      "surface": "על",
+      "gloss": "用"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是那些"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "כרעים",
+      "gloss": "腿（膝至踝的雙腿）"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "在……以上"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "牠的腳"
+    },
+    {
+      "surface": "לנתר",
+      "gloss": "用來蹦跳"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "用牠們"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    }
+  ],
+  "timestamp": "2026-10-16T05:00:17.398449449Z",
+  "model": "glm-5.3"
+}

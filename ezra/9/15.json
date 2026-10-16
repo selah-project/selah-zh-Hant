@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 9:15",
+  "book": "ezra",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to 雅威",
+      "rationale": "以斯拉的祈禱直接向雅威呼籲"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לפניך ×2",
+      "rationale": "「在你面前」於同節重複兩次，前為陈明罪愆，後為無人站立，語勢對比"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אין לעמוד",
+      "rationale": "直譯「沒有站立（的可能）」，中文補出主語「無人」"
+    }
+  ],
+  "translation": "雅威，以色列的以羅欣啊，你是公義的，因為我們得以存留餘民，正如今日一樣。看哪，我們在你面前帶著我們的罪愆，因為無人能在你面前因這事站立得住。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a889e84c06f88f367b634d32b9846642d8d206b7cdc118be7e529970ed922b61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/9\/13-15.1792147911655.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "……的以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "公義的"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נשארנו",
+      "gloss": "我們得以存留"
+    },
+    {
+      "surface": "פליטה",
+      "gloss": "餘民"
+    },
+    {
+      "surface": "כהיום",
+      "gloss": "正如今日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "一樣"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "看哪，我們"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "在你面前"
+    },
+    {
+      "surface": "באשמתינו",
+      "gloss": "帶著我們的罪愆"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無人能"
+    },
+    {
+      "surface": "לעמוד",
+      "gloss": "站立"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "在你面前"
+    },
+    {
+      "surface": "על",
+      "gloss": "因"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這事"
+    }
+  ],
+  "timestamp": "2026-10-16T10:51:51.657016399Z",
+  "model": "glm-5.3"
+}

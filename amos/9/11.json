@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "帳棚",
+      "rationale": "סוכה 是簡陋的棚、牧人的帳棚，非宏偉的帳幕；譯「帳棚」保留其脆弱的形像。"
+    },
+    {
+      "kind": "crux",
+      "subject": "פרציהן",
+      "rationale": "「她們的／它們的破口」——陰性複數代詞所指曖昧：帳棚的牆、還是支派？各譯本從簡作「其中的」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אקים…אקים",
+      "rationale": "「立起」一詞在同一節重複兩次，立起帳棚、立起廢墟——中文保留重複。"
+    }
+  ],
+  "translation": "在那日，我必立起 ⟨את⟩ 大衛倒塌的帳棚，堵住 ⟨את⟩ 其中的破口，把它的廢墟重新立起，將它建造，如古時之日。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f8267812af290365fb9bdbdf6006b6398bce3cd4105759b310e0b4fd1d4ca2e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/amos\/9\/9-12.1792139808812.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "在…日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "那"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "我必立起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛的帳棚"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "倒塌的"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "我必堵住"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "其中的破口"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "其破口"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "它的廢墟"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "我必立起"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "我必建造它"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "如…之日"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "古時"
+    }
+  ],
+  "timestamp": "2026-10-16T08:36:48.814636174Z",
+  "model": "glm-5.3"
+}

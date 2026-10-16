@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他母親",
+      "rationale": "ילדה 是陰性單數動詞，中文需補出主語「他母親」"
+    },
+    {
+      "kind": "crux",
+      "subject": "עצבו",
+      "rationale": "「使他憂愁／得罪他」：KJV『displeased』，YLT『grieved』；字根兼有『攔阻、刺痛』之義"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מימיו",
+      "rationale": "字面「在他的眾日子裡」，譯為「從來」以合中文語感"
+    }
+  ],
+  "translation": "他父親從來沒有使他憂愁，說：「你為甚麼這樣行呢？」他也是個容貌極俊美的人；他母親在押沙龍之後生了他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "125f51d37982b445ba9b65e316efa7f3b9cace9beb9bf84d25d2aa20ad1723a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/1\/5-8.1792132450743.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "而沒有"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "使他憂愁"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "他父親"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "從他的日子以來（從來）"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "為甚麼"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "這樣"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "你行了"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "而也"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "俊美"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "容貌"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "他（ילדה 的受詞）"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "她生了"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "在……之後"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "押沙龍"
+    }
+  ],
+  "timestamp": "2026-10-16T06:34:10.744776957Z",
+  "model": "glm-5.3"
+}

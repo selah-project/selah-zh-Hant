@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "所曾說的",
+      "rationale": "希伯來文דבר為完成式動詞，中文以「所曾說的」關係子句表達"
+    },
+    {
+      "kind": "substitution",
+      "subject": "剛硬",
+      "rationale": "ויחזק直譯「變得剛強」，和合本傳統作「剛硬」"
+    }
+  ],
+  "translation": "法老的心剛硬，不聽他們，正如雅威所曾說的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a41985a78c59855819ad5368afb7a91ea5edbfcb519264cce958c7079d4336f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/7\/13-16.1792125782047.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "剛硬"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "⟨向⟩他們"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "正如"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "所曾說的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-10-16T04:43:02.048300709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "要死亡",
+      "rationale": "希伯來文 ומת 可作宣告或命令；中文加「要」表明法律判定的語氣"
+    },
+    {
+      "kind": "crux",
+      "subject": "抓住",
+      "rationale": "והחזיק 字面是「抓住、強制」；KJV 作 force（強暴），JPS 作 take hold（抓住）——田野語境暗示無人救助，但動詞本身只說「抓住」"
+    }
+  ],
+  "translation": "若那男人在田野間遇見 ⟨את⟩ 那已許配人的少女，那男人抓住她、與她同寢，那與她同寢的男人要獨自死亡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c1b6f9b2321331519fe279391b52e44fd54fdd066ec989456c8a576cd8c3e617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/22\/25-28.1792129060673.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "在田野間"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "遇見"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "那男人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那已許配人的少女"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "那少女"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "已許配人的"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "抓住"
+    },
+    {
+      "surface": "בה",
+      "gloss": "她"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "那男人"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "與她同寢"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "與她"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "要死亡"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "那男人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "同寢"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "與她"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "獨自"
+    }
+  ],
+  "timestamp": "2026-10-16T05:37:40.674311096Z",
+  "model": "glm-5.3"
+}

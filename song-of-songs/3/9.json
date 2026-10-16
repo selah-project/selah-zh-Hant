@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אפריון",
+      "rationale": "本詞全塔納赫僅見於此段（3:9及下文），意為「華轎／肩輿」，各譯本或作轎、或作車、或作宮殿"
+    },
+    {
+      "kind": "crux",
+      "subject": "華轎",
+      "rationale": "אפריון：譯作「華轎」（JPS、ASV）抑或「戰車」（KJV）抑或「宮殿」（日內瓦譯本），取徑各異"
+    }
+  ],
+  "translation": "所羅門王為自己造了一乘華轎，用黎巴嫩的木頭造的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "71e21560894ad074036b41b027eeb0e5db4d25da6f0b12fef7a17e933d8ca081",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/3\/9-11.1792146586327.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "華轎"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造了"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為自己"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "用……的木頭"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "黎巴嫩"
+    }
+  ],
+  "timestamp": "2026-10-16T10:29:46.327872969Z",
+  "model": "glm-5.3"
+}

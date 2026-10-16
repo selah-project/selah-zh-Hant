@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "它們",
+      "rationale": "希伯來文動詞的複數後綴（־ון）指涉上文的水，中文需補出代名詞"
+    },
+    {
+      "kind": "alternative",
+      "subject": "不得轉回",
+      "rationale": "ישובון 字面為「轉回」，即洪水不復返回遮蓋大地"
+    }
+  ],
+  "translation": "祢設立疆界，它們不得越過，不得轉回遮蓋全地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "80d3b1a0234660459e982c38d9a0f6f7a7384580134b29da2afea89f572060ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/104\/9-12.1792144582790.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "疆界"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "祢設立"
+    },
+    {
+      "surface": "בל",
+      "gloss": "不得"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "越過"
+    },
+    {
+      "surface": "בל",
+      "gloss": "不得"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "轉回"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "遮蓋"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "全地"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:22.791283462Z",
+  "model": "glm-5.3"
+}

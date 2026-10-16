@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 25:2",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ותבא העיר במצור",
+      "rationale": "直譯「城進入圍攻」，希伯來以城為主語的擬人說法，中文作被動「被困」"
+    },
+    {
+      "kind": "measurement",
+      "subject": "十一年",
+      "rationale": "圍城持續時間以在位年數標定"
+    }
+  ],
+  "translation": "城被困在圍攻之中，直到西底家王十一年。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "793c1b79d6a46f73a9d80ef205e48a6527eba2c2b3bdf4185fe617aa96db5e88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/25\/1-4.1792134456812.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "進入了"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "在圍攻之中"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "十"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "一（合為十一）"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "西底家"
+    }
+  ],
+  "timestamp": "2026-10-16T07:07:36.813283386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "語氣詞「啊／請」，諸譯本或作 now 或省略；此處以「願」承其懇願語氣"
+    },
+    {
+      "kind": "you",
+      "subject": "在你裡面",
+      "rationale": "詩人直接向耶路撒冷（陰性代詞בָּךְ）說話"
+    }
+  ],
+  "translation": "為了我弟兄和同伴的緣故，我要說：願平安在你裡面。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "14184fee368cd1ac8bb7e05239d149d4f3e46268a5915a20954dda9a634b60d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/122\/5-8.1792144906593.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "為了……的緣故"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "我弟兄"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "和同伴"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "我要說"
+    },
+    {
+      "surface": "נא",
+      "gloss": "願"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "בך",
+      "gloss": "在你裡面"
+    }
+  ],
+  "timestamp": "2026-10-16T10:01:46.595521163Z",
+  "model": "glm-5.3"
+}

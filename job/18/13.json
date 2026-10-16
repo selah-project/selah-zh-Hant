@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 18:13",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יאכל…יאכל",
+      "rationale": "「吞吃」二字重複，強化毀滅的連環意象"
+    },
+    {
+      "kind": "crux",
+      "subject": "בדי",
+      "rationale": "בד 可作「肢體」或「支條」；和合本取「肢體」，另有譯作「皮膚的斑塊」"
+    },
+    {
+      "kind": "hapax",
+      "subject": "בכור מות",
+      "rationale": "「死亡的長子」是約伯記獨有的擬人化死亡形象"
+    }
+  ],
+  "translation": "他皮膚的肢體必被吞吃，死亡的長子必吞吃他的肢體。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4c21c97e0e3f769364baf790ca4100270aa0cfc9e9ec601ab23cda20209ccfcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/18\/13-16.1792146099423.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאכל",
+      "gloss": "必被吞吃"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "肢體"
+    },
+    {
+      "surface": "עורו",
+      "gloss": "他皮膚的"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "必吞吃"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "他的肢體"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "長子"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死亡"
+    }
+  ],
+  "timestamp": "2026-10-16T10:21:39.423481654Z",
+  "model": "glm-5.3"
+}

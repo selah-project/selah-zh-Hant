@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 2:20",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Asahel",
+      "rationale": "亞比尼珥直接向亞撒黑發問"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האתה זה",
+      "rationale": "疑問詞ה加上代詞אתה與指示詞זה的疊用，『是你這位嗎』，中文壓縮為一問句"
+    }
+  ],
+  "translation": "亞比尼珥回頭觀看，說：「你是亞撒黑嗎？」他說：「是我。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c28a566c5fdf074f533b833d279cb854bd01334aa90bec5f11eda3d67e606303",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/2\/17-20.1792131696256.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "轉身觀看"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "亞比尼珥"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "向後"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "זה",
+      "gloss": "是這位"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "亞撒黑"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "是我"
+    }
+  ],
+  "timestamp": "2026-10-16T06:21:36.257578035Z",
+  "model": "glm-5.3"
+}

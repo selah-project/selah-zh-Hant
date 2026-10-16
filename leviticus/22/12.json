@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תהיה לאיש זר",
+      "rationale": "直譯『成為外人的（妻子）』，中文以『嫁給』表達"
+    },
+    {
+      "kind": "addition",
+      "subject": "她",
+      "rationale": "強調代詞 הוא 中文需譯出『她』以明確主語"
+    }
+  ],
+  "translation": "祭司的女兒若嫁給外人，她就不可吃聖物的舉祭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9292fe2abb8122b02062b56f454d838cb41233e934176c3cceee65cfffb4ea3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/22\/9-12.1792127150267.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "女兒"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司的"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "嫁給"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "給……人"
+    },
+    {
+      "surface": "זר",
+      "gloss": "外人"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "她"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "舉祭"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "聖物的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "吃"
+    }
+  ],
+  "timestamp": "2026-10-16T05:05:50.269199205Z",
+  "model": "glm-5.3"
+}

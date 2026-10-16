@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "贖罪",
+      "rationale": "כפר字面是「遮蓋、塗抹」，非單純「付代價」"
+    },
+    {
+      "kind": "crux",
+      "subject": "他",
+      "rationale": "יכפר的主語未寫明——指亞倫及其後繼的祭司，還是雅威自己，譯者素有分歧；英王欽定本補「祭司」"
+    }
+  ],
+  "translation": "因為在這一日，他要為你們贖罪，潔淨 ⟨את⟩ 你們，使你們脫離一切的罪，在雅威面前得潔淨。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "12e00a8d15d084c617f4e7bdaac6e3d7f70e67ca3461688c69cf413ea2c7f886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/16\/29-32.1792127077814.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在……日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "他要贖罪"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "為你們"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "要潔淨"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ 你們"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "脫離一切"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "你們的罪"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在……面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "你們要得潔淨"
+    }
+  ],
+  "timestamp": "2026-10-16T05:04:37.815137231Z",
+  "model": "glm-5.3"
+}

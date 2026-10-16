@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 2:7",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他的",
+      "rationale": "「姊姊」帶後綴，指摩西的姊姊，中文補「他的」以明所指"
+    },
+    {
+      "kind": "idiom",
+      "subject": "האלך",
+      "rationale": "原文為不定疑問式「我去？」，是請求許可；中文以「我去……好嗎？」呈現"
+    },
+    {
+      "kind": "you",
+      "subject": "法老的女兒",
+      "rationale": "姊姊直接向法老的女兒說話，以求保全嬰孩"
+    }
+  ],
+  "translation": "孩子的姊姊對法老的女兒說：「我去，為你召一個希伯來婦人中的乳母來，让她為你乳養 ⟨את⟩ 這孩子，好嗎？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8eee566e5f8f23e3b1a4dcb351a140b6581aa29c78e4363d985e073f2e6763e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/2\/5-8.1792125663114.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "他的姊姊"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בת",
+      "gloss": "女兒"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "我去嗎"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "召來"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為你"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "婦人"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "乳母"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "希伯來婦人"
+    },
+    {
+      "surface": "ותינק",
+      "gloss": "乳養"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為你"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這孩子"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "這孩子"
+    }
+  ],
+  "timestamp": "2026-10-16T04:41:03.116059925Z",
+  "model": "glm-5.3"
+}

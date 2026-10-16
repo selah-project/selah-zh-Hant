@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צחק\/יצחק",
+      "rationale": "第6節的「笑」與「以撒」同名，是本段的命名雙關"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文補「是」以成句"
+    }
+  ],
+  "translation": "亞伯拉罕是一百歲之子，⟨את⟩他的兒子以撒生給他的時候。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fcb4755e35b3a5f80e01c27ca0340d12c0ee9d92909efbdad38133cd7ba76b5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/21\/5-8.1792124914568.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…之子"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "一百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "生…的時候"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給他"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的兒子以撒"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "他的兒子"
+    }
+  ],
+  "timestamp": "2026-10-16T04:28:34.568442902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קדש קדשים",
+      "rationale": "希伯來文以疊語表最高級「聖中之聖」，中文以重疊結構保留"
+    }
+  ],
+  "translation": "祭司中凡男的都可以吃 ⟨את⟩ 它；這是聖中之聖。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "791b5af4d2f12504b2eb949be4f1d56b7b9ba2f27ddfe0bc5ce4fde48dd86f54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/6\/21-23.1792126708045.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "男的"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "在祭司中"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "可以吃"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "它（祭物）"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "聖中之聖"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "它是"
+    }
+  ],
+  "timestamp": "2026-10-16T04:58:28.046587222Z",
+  "model": "glm-5.3"
+}

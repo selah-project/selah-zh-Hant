@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שאו את ראש",
+      "rationale": "字面「舉起頭」，即數點人口；中文譯『數點…總數』，並以⟨את⟩標記。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "census command",
+      "rationale": "數點、按名登記、按人頭計數——全章的核算命令。"
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperative",
+      "rationale": "命令式「你們要數點」直接向摩西亞倫發出。"
+    }
+  ],
+  "translation": "「你們要按以色列全會眾的家族、按他們父家的人口，數點 ⟨את⟩ 他們所有男丁的總數，一一按名登記，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6644281be4303ce7a73fdb58cbdaf9eb2f36d97306ae9dd0814bfe6bad26ccf0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/1\/1-4.1792127422654.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "你們要舉起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的頭（總數）"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "按他們的家族"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "按家"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "他們的父"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "按數目"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名字"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "男丁"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "按他們的人頭"
+    }
+  ],
+  "timestamp": "2026-10-16T05:10:22.655781551Z",
+  "model": "glm-5.3"
+}

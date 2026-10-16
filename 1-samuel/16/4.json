@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "嗎",
+      "rationale": "中文疑問句需要語氣詞，希伯來文以語序與語境表疑問。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלם בואך",
+      "rationale": "「平安是你的來到嗎」——閃語見面問安慣用語，直譯保留其結構。"
+    }
+  ],
+  "translation": "撒母耳就照雅威所說的話行了，來到伯利恆。城裡的長老戰戰兢兢地迎接他，說：「你是平安來的嗎？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6cff96d454d016e01c77892dd5e25096fa8ea6673eb0cbbf5617ef551412177e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/16\/1-4.1792131151048.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "行了"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威所說的話"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所……的"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯（首字）"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "利恆"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "戰戰兢兢"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "長老"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城裡的"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "迎接他"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "平安"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "你的來到"
+    }
+  ],
+  "timestamp": "2026-10-16T06:12:31.050271510Z",
+  "model": "glm-5.3"
+}

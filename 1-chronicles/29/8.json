@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 29:8",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "寶石",
+      "rationale": "希伯來文只作 אבנים「石頭」，和合本傳統加「寶」字；此處從上下文指寶石"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על יד",
+      "rationale": "「在某人的手上」即『由某人經手／在某人管理之下』"
+    }
+  ],
+  "translation": "凡在⟨את⟩他那裡找著寶石的，都交給了雅威殿的庫房，由革順人耶希伊勒經手。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "968b2f9747132728733d87a698d8d064194abaf82eb81635d3d438f471a47da9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/29\/5-8.1792149059902.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנמצא",
+      "gloss": "凡……找著的"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "在他那裡（的寶石）"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "寶石"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "都交給了"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "庫房"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威的"
+    },
+    {
+      "surface": "על",
+      "gloss": "由……經手"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "耶希伊勒"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "革順人"
+    }
+  ],
+  "timestamp": "2026-10-16T11:10:59.903840264Z",
+  "model": "glm-5.3"
+}

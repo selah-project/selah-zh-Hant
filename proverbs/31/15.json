@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 31:15",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "食物",
+      "rationale": "טרף本義為獵物、撕下的食物；譯作食物"
+    },
+    {
+      "kind": "crux",
+      "subject": "當得的份",
+      "rationale": "חק可指「定例的份」或「當作的工」；ASV作『她們的工作』"
+    }
+  ],
+  "translation": "天還是夜的時候她就起來，把食物分給她的家，把當得的份給她的婢女。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "39ab5cfb14606642045d34a4b3460459affd0a645505f8d1f57b1653e50e8e68",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/31\/13-16.1792145717691.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "她就起來"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "還是……的時候"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "她把……給"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "食物"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "給她的家"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "當得的份"
+    },
+    {
+      "surface": "לנערתיה",
+      "gloss": "給她的婢女"
+    }
+  ],
+  "timestamp": "2026-10-16T10:15:17.692419872Z",
+  "model": "glm-5.3"
+}

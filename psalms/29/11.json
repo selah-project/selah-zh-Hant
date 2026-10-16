@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "賜下",
+      "rationale": "בשלום字面是「以平安／在平安中」，中文加動詞「賜下」以成句。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עז…שלום",
+      "rationale": "全詩以雷暴的力量始（聲音、火焰、地震），以力量歸於百姓、平安作結——力度轉為福祉。"
+    }
+  ],
+  "translation": "雅威必賜力量給祂的百姓，雅威必賜福給 ⟨את⟩ 祂的百姓，賜下平安。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "72de4c19d358056f472487a268c5baea71f324be6f164b6e97c70f23a6a4f309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/29\/9-11.1792143498822.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עז",
+      "gloss": "力量"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "給祂的百姓"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "必賜"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "必賜福"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祂的百姓"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "祂的百姓"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "賜下平安"
+    }
+  ],
+  "timestamp": "2026-10-16T09:38:18.824453806Z",
+  "model": "glm-5.3"
+}

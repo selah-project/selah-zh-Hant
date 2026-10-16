@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 13:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "仇敵",
+      "rationale": "איבי 字面是「恨我者」，中文名詞失去「恨」的字面。"
+    },
+    {
+      "kind": "crux",
+      "subject": "我勝了他",
+      "rationale": "יכלתיו：或作「我能奈何他」（能勝過）與「我已將他了結」之爭。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גיל",
+      "rationale": "本節仇敵的גילו（歡樂）與下節我心也要גיגל（歡樂）同一動詞，形成對答。"
+    },
+    {
+      "kind": "you",
+      "subject": "詩人向雅威",
+      "rationale": "本節是詩人向雅威陳明懇求的理由，屬間接引語。"
+    }
+  ],
+  "translation": "恐怕我的仇敵說：「我勝了他」；恐怕我的敵人因我動搖而快樂。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8d6992d9832e346d4b460c428112d5d21a27533da19243a0a01d923babea4ace",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/13\/5-6.1792143304958.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "恐怕"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "我的仇敵"
+    },
+    {
+      "surface": "יכלתיו",
+      "gloss": "我勝了他"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "我的敵人"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "快樂"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "我動搖"
+    }
+  ],
+  "timestamp": "2026-10-16T09:35:04.959412103Z",
+  "model": "glm-5.3"
+}

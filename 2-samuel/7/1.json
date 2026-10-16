@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 7:1",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויהי כי",
+      "rationale": "希伯來敘事套語「發生了…當…」，中譯調整語序以合中文敘事習慣"
+    },
+    {
+      "kind": "substitution",
+      "subject": "安息",
+      "rationale": "הניח（נוח「使安息」）在此指戰事平息、四境太平，非安息日用語"
+    }
+  ],
+  "translation": "王住在自己宮中的時候，這事發生了：雅威已使他在四圍得享安息，脫離他一切的仇敵。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "31ccea80d0379e85173d7e2cb2180ba9f273e35533fd66c1cca8a7693c8cbbf7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/7\/1-4.1792131808643.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生了"
+    },
+    {
+      "surface": "כי",
+      "gloss": "當…的時候"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "住"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "在自己宮中"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "使…得享安息"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "脫離一切"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "他的仇敵"
+    }
+  ],
+  "timestamp": "2026-10-16T06:23:28.644211060Z",
+  "model": "glm-5.3"
+}

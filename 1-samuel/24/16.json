@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "救我",
+      "rationale": "וישפטני字面為『為我施行審判／為我伸冤』，非單純『拯救』"
+    },
+    {
+      "kind": "you",
+      "subject": "to Saul",
+      "rationale": "大衛向掃羅申訴，願雅威在二人之間裁斷"
+    }
+  ],
+  "translation": "願雅威作審判者，在我與你之間施行審判；願他觀看，願他辯護 ⟨את⟩ 我的訟案，救我脫離你的手。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e4dcc5c4ac3be39a5aae070f65a31cf6004fc5746311398fed654aa00e979630",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/24\/13-16.1792131340712.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "願…作"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "審判者"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "施行審判"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "在我"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "與你之間"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "願他觀看"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "願他辯護"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的訟案"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "我的訟案"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "救我"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "脫離你的手"
+    }
+  ],
+  "timestamp": "2026-10-16T06:15:40.713326882Z",
+  "model": "glm-5.3"
+}

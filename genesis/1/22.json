@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פרו ורבו",
+      "rationale": "「滋生繁多」音近重疊（parū ú-rəvū），中文難以保留。"
+    },
+    {
+      "kind": "addition",
+      "subject": "牠們",
+      "rationale": "中文需補受詞代名詞指前一節所造的生物。"
+    }
+  ],
+  "translation": "以羅欣賜福給牠們，說：「要滋生繁多，充滿 ⟨את⟩ 海中的水；飛鳥也要在地上增多。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "27cee0be9fa308979bc21a1a5fee43f06903801d28a065447bb7f92d0bc241ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/1\/21-24.1792124515673.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "賜福給"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "牠們"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "要滋生"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "繁多"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "充滿"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "海中的水"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "海中的"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "飛鳥也要"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "增多"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在地上"
+    }
+  ],
+  "timestamp": "2026-10-16T04:21:55.674241983Z",
+  "model": "glm-5.3"
+}

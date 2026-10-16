@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ערב",
+      "rationale": "或譯「蒼蠅群」「甲蟲」；KJV『divers sorts of flies』、YLT『beetle』——本字指成群的小飛蟲"
+    },
+    {
+      "kind": "substitution",
+      "subject": "遍滿",
+      "rationale": "בכל 直譯「在……全部之中」，中文以動詞表達其遍在"
+    }
+  ],
+  "translation": "他一說，成群的飛蟲就來了，蚊蚋遍滿他們全境。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ebeee56c79bdc292f7177aea7e918b8a32a499182648018bfe86a2e90acc640c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/105\/29-32.1792144634568.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "他一說"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "就來了"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "成群的飛蟲"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "蚊蚋"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "遍滿……全"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "他們的境界"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:14.569870679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 22:14",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文補上。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "祂看不見",
+      "rationale": "直證為「祂看不見」（看不見世人）；語境是引述不敬虔者的話。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ערפל／עבים",
+      "rationale": "13節「幽暗」與14節「密雲」相承，加深天高雲蔽、神不鑒察的譏諷意象。"
+    }
+  ],
+  "translation": "密雲是祂的遮蔽處，祂看不見；祂在天的環圈上往來行走。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "86dccf118c83c41272bcbf1b5343d5562fad80354b6f591c88a0104a6f7866d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/22\/13-16.1792146169072.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עבים",
+      "gloss": "密雲"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "遮蔽處"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對祂"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "וחוג",
+      "gloss": "環圈"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "往來行走"
+    }
+  ],
+  "timestamp": "2026-10-16T10:22:49.072882532Z",
+  "model": "glm-5.3"
+}

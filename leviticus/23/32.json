@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבת שבתון",
+      "rationale": "安息日的疊語——名詞疊加表至高程度，中文以「安息日、完全的安息」保留疊意"
+    },
+    {
+      "kind": "substitution",
+      "subject": "生命",
+      "rationale": "נפש 是呼吸的生命；「刻苦生命」即禁食自苦，非苦待靈魂"
+    },
+    {
+      "kind": "measurement",
+      "subject": "從晚上到晚上",
+      "rationale": "界定安息日的時間界限：第九日晚起算，至次日晚上"
+    }
+  ],
+  "translation": "這是給你們的安息日、完全的安息；你們要刻苦 ⟨את⟩ 你們的生命。在那月的第九日晚上，從晚上到晚上，你們要守你們的安息日。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0403cf303b488289d4083fa673329129a9d87f79d444d64c93e4d1d875bd3543",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/23\/29-32.1792127311563.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "安息日"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "完全的安息"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "它是"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "給你們"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "你們要刻苦"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你們的生命"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "你們的生命"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "在第九日"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "⟨屬⟩那月"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "在晚上"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "從晚上"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "晚上"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "你們要守"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "你們的安息日"
+    }
+  ],
+  "timestamp": "2026-10-16T05:08:31.564741800Z",
+  "model": "glm-5.3"
+}

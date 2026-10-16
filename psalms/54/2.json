@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 54:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עמנו",
+      "rationale": "עם 本義『與我們同在』，此處指藏身於我們中間"
+    },
+    {
+      "kind": "you",
+      "subject": "對掃羅",
+      "rationale": "西弗人向掃羅直接陳述"
+    }
+  ],
+  "translation": "西弗人來到，對掃羅說：「大衛豈不是藏在我們這裡嗎？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "221244fa5816e7db6ed61e4d63409e2faad2b6c6e86cf7c783b5b3d23d3319f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/54\/1-4.1792143891809.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "הזיפים",
+      "gloss": "西弗人"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "說"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "對掃羅"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "豈不是"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "藏"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "在我們這裡"
+    }
+  ],
+  "timestamp": "2026-10-16T09:44:51.810345774Z",
+  "model": "glm-5.3"
+}

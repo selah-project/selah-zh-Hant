@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "〈也都死了〉",
+      "rationale": "希伯來文靠 וכל…וכל 的並列承接動詞，中文補出重複動詞"
+    }
+  ],
+  "translation": "後來約瑟死了，他的眾弟兄和那一代的人也都死了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "406f8d910e217f78ee0f790cebd8359187c427da38e49e31dbe924665a71ba69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/1\/5-8.1792125645790.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "死了"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和所有的"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "他的弟兄"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和所有的"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "那世代"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "那一個"
+    }
+  ],
+  "timestamp": "2026-10-16T04:40:45.791005328Z",
+  "model": "glm-5.3"
+}

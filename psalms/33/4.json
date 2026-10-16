@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文補「是」"
+    }
+  ],
+  "translation": "因為雅威的話是正直的，他一切所作的都在信實之中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f9ffe45fb34d931b0cbbb06d4112e266f1b27b006bca2088bcc7503e8e40fae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/33\/1-4.1792143651324.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "正直的"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "他所作的"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "在信實之中"
+    }
+  ],
+  "timestamp": "2026-10-16T09:40:51.325445352Z",
+  "model": "glm-5.3"
+}

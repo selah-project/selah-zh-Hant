@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "數點塵土、四分之一",
+      "rationale": "以不可數的塵土與營區四分之一的人口誇言其多。"
+    },
+    {
+      "kind": "crux",
+      "subject": "רבע",
+      "rationale": "「四分之一」（指以色列營的一方，jps 作 stock）vs 「塵土的第四部分」；本處取四分之一。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 是氣息／生命體，非不朽的靈魂。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "如他",
+      "rationale": "כמהו 單數「如他」，亦可指「如他們」（正直人複數）。"
+    }
+  ],
+  "translation": "誰能數點雅各的塵土，數算以色列的⟨את⟩四分之一呢？願我的性命死正直人的死，願我的結局如他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4d821b17d7ed8203e5c315bec57a0ddb536cbfea9a7357d220f4778193576097",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/23\/9-12.1792128104680.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "數點"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "塵土"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "數算"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的四分之一"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "四分之一"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "תמת",
+      "gloss": "願……死"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "מות",
+      "gloss": "……的死"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "正直人"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "願……成為"
+    },
+    {
+      "surface": "אחריתי",
+      "gloss": "我的結局"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "如他"
+    }
+  ],
+  "timestamp": "2026-10-16T05:21:44.680923876Z",
+  "model": "glm-5.3"
+}

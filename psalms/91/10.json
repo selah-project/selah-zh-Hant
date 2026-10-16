@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "災禍",
+      "rationale": "רעה是「惡、壞事」；此處譯「災禍」以合語境，非道德之惡的哲學概念。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "不…不…",
+      "rationale": "兩個לא平行否定，希伯來詩體對句，中文以「必不…也不…」保留。"
+    }
+  ],
+  "translation": "災禍必不臨到你，患害也不臨近你的帳棚；",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a5a4894d74fc193c3ca0dfa439a04dd5948d5f5feea6dee3f80b1e544db1e7a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/91\/9-12.1792144491382.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "必臨到"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "到你"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "災禍"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "患害"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "臨近"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "你的帳棚"
+    }
+  ],
+  "timestamp": "2026-10-16T09:54:51.383892762Z",
+  "model": "glm-5.3"
+}

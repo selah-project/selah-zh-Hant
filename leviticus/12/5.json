@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 12:5",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "六十六日",
+      "rationale": "生女後的不潔與潔淨期共八十日，與生男的四十日相對，經文以日數界定。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבעים",
+      "rationale": "שבועים字面為「兩個七（日）」，即兩週；中譯保留「兩個七日」以存其形。"
+    }
+  ],
+  "translation": "她若生女嬰，就不潔淨兩個七日，像她月經的污穢一樣；她要在潔淨之血上停留六十六日。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b8775c1365dc84cc92fe4139ee5b4f98f27063e187f6d004c969d426c37f9a24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/12\/5-8.1792126924883.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "她若"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "女嬰"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "生"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "就不潔淨"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "兩個七日"
+    },
+    {
+      "surface": "כנדתה",
+      "gloss": "像她月經的污穢"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "和六十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "又六"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "她要停留"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……之上"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "之血"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "潔淨"
+    }
+  ],
+  "timestamp": "2026-10-16T05:02:04.884316910Z",
+  "model": "glm-5.3"
+}

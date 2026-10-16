@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 11:5",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "堡壘",
+      "rationale": "מצדת 字面是「網／保障」，諸譯本作 castle／stronghold／fortress"
+    },
+    {
+      "kind": "addition",
+      "subject": "就是",
+      "rationale": "היא 作同位語標記，中文以「就是」補足"
+    }
+  ],
+  "translation": "耶布斯的居民對大衛說：「你決不能進到這裡。」大衛卻攻取了⟨את⟩錫安的堡壘，就是大衛之城。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bf42fe82564cd90bb7094ae0b6525e82e59150da7fd1cb154340ca67bd9ca598",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/11\/5-8.1792148686106.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "說"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "耶布斯"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "對大衛"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "你進"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "到這裡"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "攻取了"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "錫安的堡壘"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "堡壘"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "היא",
+      "gloss": "就是"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    }
+  ],
+  "timestamp": "2026-10-16T11:04:46.107136423Z",
+  "model": "glm-5.3"
+}

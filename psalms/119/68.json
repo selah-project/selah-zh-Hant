@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "本為",
+      "rationale": "中文需要判斷繫詞，希伯來文無"
+    },
+    {
+      "kind": "invitation",
+      "subject": "求你將你的律例教導我",
+      "rationale": "祈求句，向雅威直接的懇求"
+    }
+  ],
+  "translation": "你本為善，所行的也善；求你將你的律例教導我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "295c5fedf81a2f6ab28bc09a73b62f9eaa5dd778958f4d309f4eeb595176a8f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/65-68.1792144811012.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "善"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "所行的也善"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "求你教導我"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "你的律例"
+    }
+  ],
+  "timestamp": "2026-10-16T10:00:11.013508828Z",
+  "model": "glm-5.3"
+}

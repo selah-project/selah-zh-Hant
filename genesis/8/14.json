@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "二月二十七日",
+      "rationale": "接續第13節的日期紀年，地面完全乾透之日"
+    },
+    {
+      "kind": "substitution",
+      "subject": "全乾了",
+      "rationale": "יבשה 是另一個「乾」動詞，與上節的 חרבו 區分：地面徹底乾透"
+    }
+  ],
+  "translation": "到了二月二十七日，地就全乾了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b79a2f56b8e34b21aaf32726ea0eeac88ca6e87ba6d2515eb4bc1e2a970f8288",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/8\/13-16.1792124628031.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "到了…月"
+    },
+    {
+      "surface": "השני",
+      "gloss": "二"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "二十七"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "七"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "月"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "全乾了"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-10-16T04:23:48.032587712Z",
+  "model": "glm-5.3"
+}

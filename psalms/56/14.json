@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 56:14",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 直譯是氣息、喉嚨、生命之力，譯『靈魂』會帶入後來的身體靈魂二元觀。"
+    },
+    {
+      "kind": "crux",
+      "subject": "הלא",
+      "rationale": "『豈不是……嗎』的修辭問句（KJV、JPS）與直述『你救了我的腳』（Geneva、BSB）兩讀。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "在生命之光中",
+      "rationale": "也可讀作『在活人的光中』（如和合本），指今生活人之地，與示阿勒相對。"
+    }
+  ],
+  "translation": "因為你救了我的性命脫離死亡，我的腳豈不是脫離了跌倒，使我得以行在以羅欣面前、在生命之光中嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8ce15f1bd49ea8a6c5a21311a0669f0a6c2ccf07f0cb165dd82d2a66b4fc59d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/56\/13-14.1792143890961.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "你救了"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "脫離死亡"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "豈不是"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "我的腳"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "脫離了跌倒"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "得以行"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在……面前"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "באור",
+      "gloss": "在……之光"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "生命"
+    }
+  ],
+  "timestamp": "2026-10-16T09:44:50.962305520Z",
+  "model": "glm-5.3"
+}

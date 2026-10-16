@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "兒子",
+      "rationale": "希伯來文只說「他也生了」，中文需補出賓語「兒子」"
+    },
+    {
+      "kind": "crux",
+      "subject": "הגדול",
+      "rationale": "「大的」可指閃是雅弗的哥哥，也可指雅弗是大的；本譯隨多數譯本取閃為年長者"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אבי",
+      "rationale": "字面為「……的父」，此處指祖先，譯「祖先」以示不是直接生身之父"
+    }
+  ],
+  "translation": "至於閃，他也生了兒子；他是希伯所有子孫的祖先，是雅弗的哥哥。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3bcde7ca0011e76068b2a819072a235330d5ff736ae844dfaac3485ac08a3b69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/10\/21-24.1792124703075.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "至於閃"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生了"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "祖先"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "希伯"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "哥哥"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "雅弗"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "年長的"
+    }
+  ],
+  "timestamp": "2026-10-16T04:25:03.075970489Z",
+  "model": "glm-5.3"
+}

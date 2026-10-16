@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他們",
+      "rationale": "希伯來文 לשלח 未指明受詞，中文加「他們」指以色列人"
+    },
+    {
+      "kind": "substitution",
+      "subject": "擊打",
+      "rationale": "נגף 字面為「以角牴撞、撞擊」，此處譯作擊打"
+    }
+  ],
+  "translation": "你若不肯容他們去，看哪，我必以青蛙擊打你全境。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "847c5810df541a81d97261880f398d395ae14ced2fff856c538f5e4132ee9b14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/7\/25-28.1792125898419.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "你若"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "不肯"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "容……去"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "擊打"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的全境"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "你的境"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "以青蛙"
+    }
+  ],
+  "timestamp": "2026-10-16T04:44:58.420900785Z",
+  "model": "glm-5.3"
+}

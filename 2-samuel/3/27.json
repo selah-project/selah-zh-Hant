@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 3:27",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "החומש",
+      "rationale": "字面『第五（肋）』，實指腹部／下腹：KJV「第五肋」、JPS「鼠蹊」、ASV「身體」"
+    },
+    {
+      "kind": "crux",
+      "subject": "עשהאל",
+      "rational": "עשה＋אל 兩個token組成專名亞撒黑，各token皆有 gloss"
+    },
+    {
+      "kind": "addition",
+      "subject": "〈這是〉",
+      "rationale": "中文需繫詞連接因果，希伯來文無"
+    }
+  ],
+  "translation": "押尼珥回到希伯崙，約押把他引到城門中間，要與他私下說話，就在那裡擊打他的腹部，他就死了——〈這是〉因他兄弟亞撒黑的血。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5f79440de16903dc2230ce547381bfd1d19ec3c4958f5ce70272fd5c52758832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/3\/25-28.1792131695217.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "回到"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "押尼珥"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "希伯崙"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "把他引到一邊"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "中間"
+    },
+    {
+      "surface": "השער",
+      "gloss": "城門"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "要說話"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩他",
+      "marks": "押尼珥"
+    },
+    {
+      "surface": "בשלי",
+      "gloss": "私下"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "擊打他"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裡"
+    },
+    {
+      "surface": "החמש",
+      "gloss": "腹部"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "他就死了"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "因……的血"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "亞撒黑"
+    },
+    {
+      "surface": "אל",
+      "gloss": "亞撒黑（名之一部）"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "他的兄弟"
+    }
+  ],
+  "timestamp": "2026-10-16T06:21:35.218910576Z",
+  "model": "glm-5.3"
+}

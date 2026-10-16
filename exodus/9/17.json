@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 9:17",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מסתולל",
+      "rationale": "希伯來文動詞字根 סלל（堆高、高舉）的反身形式：「自高」；武加大譯本讀作「阻撓」——兩讀並存。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "抵擋",
+      "rationale": "מסתולל בעמי 字面是「向我的百姓堆高自己」，中文以「自高自大，抵擋」保留其姿態。"
+    },
+    {
+      "kind": "you",
+      "subject": "to 法老",
+      "rationale": "雅威直接向法老說話。"
+    }
+  ],
+  "translation": "你仍舊自高自大，抵擋我的百姓，不肯放他們走。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fa10d8b2c4d577dcada5a42380744f250c4b7dba3d345b71496d6615b1339f1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/9\/17-20.1792125850637.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עודך",
+      "gloss": "你仍舊"
+    },
+    {
+      "surface": "מסתולל",
+      "gloss": "自高自大，抵擋"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "我的百姓"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "不肯"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "放他們走"
+    }
+  ],
+  "timestamp": "2026-10-16T04:44:10.638474691Z",
+  "model": "glm-5.3"
+}

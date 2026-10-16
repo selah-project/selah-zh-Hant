@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 11:11",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "היא",
+      "rationale": "原文僅作『她／它』，指耶路撒冷城；中文補出『這城』以明所指。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "鍋與肉",
+      "rationale": "百姓俗語以『鍋』喻城、『肉』喻城中之人（11:3）；雅威反用其語宣告審判不在城內而在邊界。"
+    }
+  ],
+  "translation": "這城必不作你們的鍋，你們也不在其內作肉；在以色列的邊界，我必審判 ⟨את⟩ 你們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dca516053340c76d833f5c105edfd8f7e88e362be0e11a1e029b1cd3b2c02949",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/11\/9-12.1792138042881.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היא",
+      "gloss": "這城"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "必作"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "作你們的"
+    },
+    {
+      "surface": "לסיר",
+      "gloss": "鍋"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "也不……作"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "在其內"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "邊界"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "我必審判"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "你們"
+    }
+  ],
+  "timestamp": "2026-10-16T08:07:22.882069527Z",
+  "model": "glm-5.3"
+}

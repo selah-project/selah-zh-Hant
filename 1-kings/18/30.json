@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "你們到我這裡來",
+      "rationale": "以利亞向眾民發出命令式的邀請，呼召他們近前觀看"
+    },
+    {
+      "kind": "you",
+      "subject": "眾民",
+      "rationale": "直接對以色列眾民說話"
+    },
+    {
+      "kind": "substitution",
+      "subject": "修整",
+      "rationale": "וירפא 本義是「醫治、縫補」，用於祭壇是隱喻：壇如傷者得醫治"
+    }
+  ],
+  "translation": "以利亞對眾民說：「你們到我這裡來。」眾民就都到他那裡去。他修整了 ⟨את⟩ 雅威的壇，就是那已被拆毀的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c0b03cddd8893bba021619887d6c3e8cbfc9c10cca53549386b23d05113ae0ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/18\/29-32.1792133288318.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "以利亞"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "對所有"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "你們近前來"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "到我這裡"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "他們就近前來"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "到他那裡"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "他修整了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的壇"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "壇"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "那已被拆毀的"
+    }
+  ],
+  "timestamp": "2026-10-16T06:48:08.319737363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 36:14",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ישא",
+      "rationale": "字根 נשא 意為「引離、迷惑」；諸譯本作「欺騙／誘惑」，直譯為「使你們走入歧途」"
+    },
+    {
+      "kind": "you",
+      "subject": "對耶路撒冷的百姓",
+      "rationale": "亞述王借拉伯沙基之口向猶大人喊話"
+    }
+  ],
+  "translation": "王如此說：『不要讓希西家欺哄你們，因為他不能拯救 ⟨אתכם⟩ 你們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a5c0a0767553c57025230e79412b86ab375c25c98a768553ed9cf08d15ccd5c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/36\/13-16.1792135324697.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "如此"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "欺哄"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "希西家"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "能"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "拯救"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "你們"
+    }
+  ],
+  "timestamp": "2026-10-16T07:22:04.698640992Z",
+  "model": "glm-5.3"
+}

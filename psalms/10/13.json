@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 10:13",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "追查",
+      "rationale": "דרש 可作「追討」或「鑒察／查問」，各譯本分歧：和合本『追討』，KJV『require it』"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תדרש／תדרוש (v15)",
+      "rationale": "同一動詞 דרש 在13節（惡人心裡的否認）與15節（詩人的祈求）重複，形成反諷結構"
+    }
+  ],
+  "translation": "惡人為何藐視以羅欣？他心裡說：「祢必不追查。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "549ce693d1e1b1e50f58625af352304a3c696adc998471ab71676bd3970e9b23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/10\/13-16.1792143357235.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "為何"
+    },
+    {
+      "surface": "מה",
+      "gloss": "為何"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "藐視"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "心裡"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "追查"
+    }
+  ],
+  "timestamp": "2026-10-16T09:35:57.236363323Z",
+  "model": "glm-5.3"
+}

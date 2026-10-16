@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 8:14",
+  "book": "song-of-songs",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "小鹿",
+      "rationale": "עפר 字面為「塵土色的」，指幼鹿毛色，中文以「小鹿」譯其義"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברח…בשמים",
+      "rationale": "「逃離」（ברח）與「香料」（בשם）音近，首尾呼應的聲音效果在中文中失落"
+    },
+    {
+      "kind": "invitation",
+      "subject": "全節",
+      "rationale": "全書最後的呼喚——命令式「快逃吧」，以未完成的追逐作結"
+    }
+  ],
+  "translation": "我的良人啊，快逃吧！願你像羚羊，或像小鹿，在香草山上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e2fc1b5d59c398cafe0c0b459ab94cb44a8980fb594972db09c9f87d1d9bb620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/8\/13-14.1792146681808.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברח",
+      "gloss": "快逃吧"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "我的良人"
+    },
+    {
+      "surface": "ודמה",
+      "gloss": "願你像"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你自己"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "羚羊"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "小鹿"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "雄鹿的"
+    },
+    {
+      "surface": "על",
+      "gloss": "在…上"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "山上"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "香草"
+    }
+  ],
+  "timestamp": "2026-10-16T10:31:21.809062781Z",
+  "model": "glm-5.3"
+}

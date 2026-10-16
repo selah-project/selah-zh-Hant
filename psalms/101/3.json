@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עשה סטים",
+      "rationale": "或作「那些轉離之人所行的事」（分詞），或如本譯「行背逆之事」；KJV『那些轉離者的作為』與 JPS『彎曲之事』各異"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בליעל",
+      "rationale": "字面為「無益、無價值」，作名詞常音譯「彼列」；此處作形容詞譯「邪惡的」"
+    }
+  ],
+  "translation": "邪惡的事，我不擺在我眼前；行背逆之事的，我恨惡，它必不黏附於我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b37b7a31c7fe5bf7e64765e12cc69d9d01b60ee2f2abe042d573610044072146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/101\/1-4.1792144600325.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "我擺"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "在……面前"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的眼"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "事"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "邪惡的"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "背逆之事"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "我恨惡"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "它必黏附"
+    },
+    {
+      "surface": "בי",
+      "gloss": "於我"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:40.326803287Z",
+  "model": "glm-5.3"
+}

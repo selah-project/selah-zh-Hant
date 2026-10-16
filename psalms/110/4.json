@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מלכי צדק",
+      "rationale": "「麥基洗德」既是人名，字面又是「我公義之王」，雙關在中文中消失"
+    },
+    {
+      "kind": "crux",
+      "subject": "על דברתי",
+      "rationale": "「照其等次」（多半譯本）或「為我的緣故」；דברת意為「緣由、樣式」，語意含糊"
+    },
+    {
+      "kind": "mystery",
+      "subject": "oath",
+      "rationale": "雅威以起誓立永遠的祭司，所指何人、何等次，經文本身未解明"
+    }
+  ],
+  "translation": "雅威已起誓，決不改變心意：「你是照著麥基洗德的等次、永遠作祭司。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a9fc14d6108c4830e16e28557f49cfef27112e6db4f52b942264cdbdb7d92645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/110\/1-4.1792144745955.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "已起誓"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "決不"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "改變心意"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "作祭司"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "על",
+      "gloss": "照著"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "等次"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "麥基"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "洗德"
+    }
+  ],
+  "timestamp": "2026-10-16T09:59:05.956338588Z",
+  "model": "glm-5.3"
+}

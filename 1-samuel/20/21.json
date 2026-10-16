@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 20:21",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם אמר אמר",
+      "rationale": "動詞重複表示強調『明明地說』，直譯『若說我說』"
+    },
+    {
+      "kind": "substitution",
+      "subject": "והנה",
+      "rationale": "此處 והנה 指方向（這邊和那邊），與前一個 הנה（看哪）同形異義"
+    }
+  ],
+  "translation": "看哪，我要打發 ⟨את⟩ 那少年人，說：你去，找回 ⟨את⟩ 那些箭。我若對那少年人明明說：看哪，箭在你這邊，把箭拿來，你就來，因為你有平安，沒有事——雅威永活！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "44d0a9cf46c5b979c5dcc320239300c1e95cbd01ab1508d507f756f48339033c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/20\/21-24.1792131194647.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "我要打發"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那少年人"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "那少年人"
+    },
+    {
+      "surface": "לך",
+      "gloss": "去"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "找回"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那些箭"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "那些箭"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "明明地說"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "對那少年人"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "箭"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "在你這邊"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "這邊和"
+    },
+    {
+      "surface": "קחנו",
+      "gloss": "拿來"
+    },
+    {
+      "surface": "ובאה",
+      "gloss": "你就來"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你有"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "事"
+    },
+    {
+      "surface": "חי",
+      "gloss": "永活"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-10-16T06:13:14.647881339Z",
+  "model": "glm-5.3"
+}

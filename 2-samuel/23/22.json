@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 23:22",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "中文需要判斷詞連接『這些事』與人名。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "三勇士",
+      "rationale": "名單計數框架：三勇士、三十勇士的序列。"
+    }
+  ],
+  "translation": "這些事是耶何耶大的兒子比拿雅所做的，他在三勇士中得了名聲。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4221e281ecb62debe506b35d6e2f30235947221f30f6474d240e10bcd137e941",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/23\/21-24.1792132393718.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "比拿雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "耶何耶大"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "他有"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名聲"
+    },
+    {
+      "surface": "בשלשה",
+      "gloss": "在三…之中"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "勇士"
+    }
+  ],
+  "timestamp": "2026-10-16T06:33:13.719271938Z",
+  "model": "glm-5.3"
+}

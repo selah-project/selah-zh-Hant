@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "數點房屋",
+      "rationale": "清點耶路撒冷的房屋，典型的計數行為"
+    },
+    {
+      "kind": "substitution",
+      "subject": "加固",
+      "rationale": "לבצר 字根為「摘葡萄／設防」，此處取其設防之義"
+    }
+  ],
+  "translation": "你們又數點了 ⟨את⟩ 耶路撒冷的房屋，並拆毀房屋，用來加固城牆。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a8df3a0bd92b14c5d595ea3309762a66406f5ac26837093517551adb04537708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/22\/9-12.1792134891289.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "耶路撒冷的房屋"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "房屋"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "你們數點了"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "並拆毀"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "房屋"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "用來加固"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "城牆"
+    }
+  ],
+  "timestamp": "2026-10-16T07:14:51.290256047Z",
+  "model": "glm-5.3"
+}

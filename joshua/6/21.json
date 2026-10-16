@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 6:21",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "直譯「刀的口」，中文按慣用譯「刀口／刀刃」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרם",
+      "rationale": "「滅淨」是獻給雅威的毀滅之禁，不是單純屠殺。"
+    }
+  ],
+  "translation": "他們將城中所有的，無論男女，從少年到老人，連牛、羊和驢，都用刀口滅淨了 ⟨את⟩ 城中所有的一切。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f7d14af993dc0f6a19849b931cfad13dacc24151420a611cd71d7421dec7c6c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/6\/21-24.1792129587395.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחרימו",
+      "gloss": "滅淨"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "城中所有的一切"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "城中"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "從男人"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女人"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "從少年"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "老人"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "連"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "羊"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "和驢"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "口"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀"
+    }
+  ],
+  "timestamp": "2026-10-16T05:46:27.395982082Z",
+  "model": "glm-5.3"
+}

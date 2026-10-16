@@ -1,0 +1,158 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 11:2",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "連昨日連前日",
+      "rationale": "גם תמול גם שלשום 字面為「昨天也、前天也」，即「從前、很久以來」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "君",
+      "rationale": "נגיד 字面為「站在前頭者」——首領、君長，非世襲「王」（מלך）"
+    },
+    {
+      "kind": "you",
+      "subject": "對大衛",
+      "rationale": "本節全為以色列長老對大衛的直接陳說，並引述雅威之言"
+    }
+  ],
+  "translation": "先前，連昨日連前日，連掃羅作王的時候，率以色列出入的也是你；雅威你的以羅欣曾對你說：『你必牧養我的民以色列，你必作我民以色列的君。』",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "891e7cef11bab3288c754dbaee33bac5ca70ca163ddc5070b64244859a11946b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/11\/1-4.1792148724780.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "連"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "昨日"
+    },
+    {
+      "surface": "גם",
+      "gloss": "連"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "前日"
+    },
+    {
+      "surface": "גם",
+      "gloss": "連"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "在……的時候"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "作王"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "領出的"
+    },
+    {
+      "surface": "והמביא",
+      "gloss": "領入的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "曾說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "לך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "תרעה",
+      "gloss": "必牧養"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的民"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的民"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "而你"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "必作"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "君"
+    },
+    {
+      "surface": "על",
+      "gloss": "治理"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的民"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T11:05:24.781636302Z",
+  "model": "glm-5.3"
+}

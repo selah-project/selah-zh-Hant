@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 19:5",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他們",
+      "rationale": "היו 與 נכלמים 之間中文需要代詞主語，希伯來文分詞結構無此詞"
+    },
+    {
+      "kind": "you",
+      "subject": "對大衛的臣僕",
+      "rationale": "王的命令直接稱「你們」，受話者是受辱的使者"
+    }
+  ],
+  "translation": "有人去把這些人的事告訴大衛，他就派人去迎接他們，因為那些人極其羞愧。王說：「你們住在耶利哥，等你們的鬍鬚長起來再回來。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f4cb67fd85b37ba5e111b527b31a655a4c2e9ba872c8605606bd8491895fcedc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/19\/5-8.1792148900112.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "去了"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "告訴"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "על",
+      "gloss": "關於"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "那些人"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "他就派人"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "去迎接他們"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "היו",
+      "gloss": "〈他們〉是"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "那些人"
+    },
+    {
+      "surface": "נכלמים",
+      "gloss": "羞愧"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極其"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "你們要住"
+    },
+    {
+      "surface": "בירחו",
+      "gloss": "在耶利哥"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的時候"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "長起來"
+    },
+    {
+      "surface": "זקנכם",
+      "gloss": "你們的鬍鬚"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "然後你們回來"
+    }
+  ],
+  "timestamp": "2026-10-16T11:08:20.112676694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 59:5",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בקעו\/תבקע",
+      "rationale": "同詞根『裂開』用於孵蛋與破殼，中文分作『孵化』與『迸出』，雙關流失"
+    },
+    {
+      "kind": "crux",
+      "subject": "קורי",
+      "rationale": "僅複數形出現，字面是『坑』喻作蛛網：蛛網必成衣物（59:6）"
+    },
+    {
+      "kind": "alternative",
+      "subject": "והזורה",
+      "rationale": "或譯『被壓碎的蛋殼破口生出毒蛇』，視未指明的主詞為蛋"
+    }
+  ],
+  "translation": "他們孵化毒蛇的蛋，編織蜘蛛的網；吃牠們之蛋的必死，被踩破的必迸出毒蛇。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6e6cadf105f81a8450ef9f254f281feaf64de37bc378f7a5da325cd77893e7af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/59\/5-8.1792135902476.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביצי",
+      "gloss": "蛋"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "毒蛇的"
+    },
+    {
+      "surface": "בקעו",
+      "gloss": "孵化"
+    },
+    {
+      "surface": "וקורי",
+      "gloss": "和網"
+    },
+    {
+      "surface": "עכביש",
+      "gloss": "蜘蛛的"
+    },
+    {
+      "surface": "יארגו",
+      "gloss": "編織"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "吃"
+    },
+    {
+      "surface": "מביציהם",
+      "gloss": "牠們之蛋的"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "必死"
+    },
+    {
+      "surface": "והזורה",
+      "gloss": "和被踩破的"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "必迸出"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "毒蛇"
+    }
+  ],
+  "timestamp": "2026-10-16T07:31:42.477689025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "每座",
+      "rationale": "希伯來文作單數「在壇上」；「每座壇」由上文七座壇的情境補出（KJV、JPS 同此）。"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויעל",
+      "rationale": "字面為「使上升／獻上」；YLT 譯「在一座壇上」（單數一次），多數譯本作「每座壇上各一」。"
+    }
+  ],
+  "translation": "巴勒就照巴蘭所說的行了，在每座壇上獻一頭公牛和一隻公綿羊。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "06df11e3cf8896993132f02f86dd848063c454e7f7502231933981c2abe02daf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/23\/29-30.1792128067382.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "就行"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "巴勒"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照……所說的"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "巴蘭"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "並獻上"
+    },
+    {
+      "surface": "פר",
+      "gloss": "一頭公牛"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "一隻公綿羊"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "在壇上"
+    }
+  ],
+  "timestamp": "2026-10-16T05:21:07.383517600Z",
+  "model": "glm-5.3"
+}

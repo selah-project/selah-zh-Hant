@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 9:29",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "關係詞「所」融進中文句法，不能逐字對應。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כח\/גדל 與 זרוע\/נטויה",
+      "rationale": "兩組配對——大能力、伸出來的膀臂——是申命記慣用的並列，中文保留其平行。"
+    }
+  ],
+  "translation": "他們是你的子民，是你的產業，是你用大能力、用伸出來的膀臂所領出來的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9fc815aff8abc398a85b7a4e24f327d032415746971d41726816fdeec53645b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/9\/29-29.1792128660142.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的子民"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "你的產業"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "你領出來"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "用你的能力"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "大"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "用你的膀臂"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "伸出來的"
+    }
+  ],
+  "timestamp": "2026-10-16T05:31:00.142589203Z",
+  "model": "glm-5.3"
+}

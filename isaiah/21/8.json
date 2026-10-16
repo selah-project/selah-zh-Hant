@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 21:8",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויקרא אריה",
+      "rationale": "「如獅子呼喊」（比喻勇氣）vs「他呼喊：獅子啊！」（KJV，以獅子為標語口號）vs「他呼喊：阿多奈啊」（讀 אריה 為挪位之詞）"
+    },
+    {
+      "kind": "crux",
+      "subject": "אדני",
+      "rationale": "守望者向以賽亞稱「我主」還是向阿多奈禱告？本譯取後者，與守望之誓呼應"
+    },
+    {
+      "kind": "addition",
+      "subject": "「守望者」",
+      "rationale": "原文無主語，由上文第 6 節設立守望者的語境補出，加⟨⟩標示補字於譯文中從權"
+    }
+  ],
+  "translation": "守望者如獅子呼喊：「阿多奈啊，我白日不斷站在守望臺上，整夜站在我的崗位。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b7182f630223fbd1087c8365412220fe075068049971970cb37fb53b34df13a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/21\/5-8.1792134894278.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "他呼喊"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "如獅子"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "守望臺"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈啊"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "站在"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "不斷"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "白日"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "而在……上"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "我的崗位"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "站守"
+    },
+    {
+      "surface": "כל",
+      "gloss": "整"
+    },
+    {
+      "surface": "הלילות",
+      "gloss": "夜"
+    }
+  ],
+  "timestamp": "2026-10-16T07:14:54.279263789Z",
+  "model": "glm-5.3"
+}

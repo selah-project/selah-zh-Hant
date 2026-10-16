@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 24:17",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "吞吃的火",
+      "rationale": "אֹכֶלֶת 是「吃」的分詞作形容詞，直譯「吃人的火」；諸譯本作 devouring\/consuming"
+    },
+    {
+      "kind": "addition",
+      "subject": "如",
+      "rationale": "希伯來文無比較詞，中文需加「如」以表明是比擬而非實體"
+    }
+  ],
+  "translation": "雅威榮光的景象如吞吃的火，在山頂上，在以色列子民的眼前。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1a8d08e05752c4adec1953d80a772a10852a5739bb1184d2c9cc1f8f1ddd7903",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/24\/17-18.1792126211939.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומראה",
+      "gloss": "景象"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "如吞吃的火"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "吞吃的"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "在……頂上"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "山"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "在……眼前"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子民"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T04:50:11.939515687Z",
+  "model": "glm-5.3"
+}

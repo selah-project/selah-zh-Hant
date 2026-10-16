@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 13:12",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זכרניכם",
+      "rationale": "『你們的格言』（KJV『記憶』、ASV『名言』）——字面是『紀念之物』，此處指他們引以為傲的話。"
+    },
+    {
+      "kind": "crux",
+      "subject": "גב",
+      "rationale": "字面『隆起的背／拱頂』：『身體』（KJV）、『防禦』（ASV）、『高地』（YLT）三讀並存；此處取『高壘』存其隆起之形。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לגבי……גביכם",
+      "rationale": "同詞 גב 前後呼應（高壘……你們的高壘），與首句『灰／箴言』平行，中文保留其重複。"
+    }
+  ],
+  "translation": "你們的格言是灰的箴言，你們的高壘是泥土的高壘。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a03f396d8017cd9af76fc3885c64bd789e66619cf0b77c44e0b2edf7dd66d9e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/13\/9-12.1792145972504.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרניכם",
+      "gloss": "你們的格言"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "灰的箴言"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "灰"
+    },
+    {
+      "surface": "לגבי",
+      "gloss": "高壘"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "泥土"
+    },
+    {
+      "surface": "גביכם",
+      "gloss": "你們的高壘"
+    }
+  ],
+  "timestamp": "2026-10-16T10:19:32.505967404Z",
+  "model": "glm-5.3"
+}

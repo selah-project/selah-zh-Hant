@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "你",
+      "rationale": "希伯來文用第一人稱動詞詞尾即可，中文需補出受詞「我」與代詞「你」"
+    }
+  ],
+  "translation": "因雅威藉你的作為使我喜樂，我要因你手的工作歡呼歌唱。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7a01b7cac8a0993826577aef2028b6bac8e98634d302f26036a23c7ee9130e3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/92\/5-8.1792144535649.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "使我喜樂"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "藉你的作為"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "因……的工作"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "你手"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "歡呼歌唱"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:35.649795115Z",
+  "model": "glm-5.3"
+}

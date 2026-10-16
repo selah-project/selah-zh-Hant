@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 29:25",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "的人",
+      "rationale": "希伯來文僅有不定式式樣的「安慰哀慟者」，中文需補名詞結構"
+    },
+    {
+      "kind": "crux",
+      "subject": "ינחם 的主詞",
+      "rationale": "一般理解為約伯像安慰者，也有人讀作「他（雅威）安慰」"
+    }
+  ],
+  "translation": "我為他們選擇道路，坐在首位的地位，又像軍隊中的君王一樣安居，像安慰哀慟者的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "228e0541f8f1f0a02df662d41fa46af3a3ba36f0012bd0d2cbfbb7abc2f1b041",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/29\/25-25.1792146211124.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבחר",
+      "gloss": "我選擇"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "他們的道路"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "我就坐在"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "首位"
+    },
+    {
+      "surface": "ואשכון",
+      "gloss": "我安居"
+    },
+    {
+      "surface": "כמלך",
+      "gloss": "像君王"
+    },
+    {
+      "surface": "בגדוד",
+      "gloss": "在軍隊中"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "像"
+    },
+    {
+      "surface": "אבלים",
+      "gloss": "哀慟者"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "安慰"
+    }
+  ],
+  "timestamp": "2026-10-16T10:23:31.125258816Z",
+  "model": "glm-5.3"
+}

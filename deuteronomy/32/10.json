@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 32:10",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תהו／ישימון",
+      "rationale": "兩個曠野詞並列（空虛荒涼、荒蕪之地），與創 1:2 的 תהו 同字；中文以「荒涼的曠野」並置。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אישון עינו",
+      "rationale": "字面「眼中的小人」＝瞳人；英文 'apple of his eye' 是另一慣用語，此處保留希伯來畫面。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ילל",
+      "rationale": "ילל 是「嚎叫」，形容曠野野獸或風聲的呼嘯，非泛泛的荒涼。"
+    }
+  ],
+  "translation": "他在曠野之地遇見他，在荒涼吼叫的曠野；他環繞他，他使他明白，他守護他，如同眼中的瞳人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "84704971e5f4610be27062eddd43f82b1ba82dd58b84246afd1c5d91eb7770f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/32\/9-12.1792129304736.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימצאהו",
+      "gloss": "他遇見他"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在……之地"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "ובתהו",
+      "gloss": "在荒涼中"
+    },
+    {
+      "surface": "ילל",
+      "gloss": "吼叫"
+    },
+    {
+      "surface": "ישמן",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "יסבבנהו",
+      "gloss": "他環繞他"
+    },
+    {
+      "surface": "יבוננהו",
+      "gloss": "他使他明白"
+    },
+    {
+      "surface": "יצרנהו",
+      "gloss": "他守護他"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "如同……的瞳人"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "他的眼"
+    }
+  ],
+  "timestamp": "2026-10-16T05:41:44.737053210Z",
+  "model": "glm-5.3"
+}

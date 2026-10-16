@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "存在於我之外",
+      "rationale": "中文需補出動詞結構；希伯來文僅為「沒有以羅欣」"
+    },
+    {
+      "kind": "you",
+      "subject": "to Cyrus",
+      "rationale": "第二人稱「你」指古列（45:1），雖未在本節点名"
+    }
+  ],
+  "translation": "我是雅威，除我以外再無別神；沒有以羅欣⟨存在於我之外⟩。我束⟨了⟩你的腰，你卻不認識我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a2319d47bf10e5600081d6627eb87009091f23f577112c5d2b1cfb5b64ecdd40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/45\/5-8.1792135567189.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "再無"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "別的"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "除我以外"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "我束你的腰"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "卻不"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "認識我"
+    }
+  ],
+  "timestamp": "2026-10-16T07:26:07.189527138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 12:8",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "伯特利東邊的山地",
+      "rationale": "ההרה 帶方向詞尾「往山地去」，KJV\/JPS 補「mountain（山地）」，敘利亞譯本無「山」字"
+    },
+    {
+      "kind": "elision",
+      "subject": "מים",
+      "rationale": "字面是「從海（在西邊）」，因地中海在西，成了「西」的慣用語；譯「在西」，地理意象失落"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בשם יהוה",
+      "rationale": "「求告雅威的名」是固定的敬拜程式語，首見於此"
+    }
+  ],
+  "translation": "他從那裡遷到伯特利東邊的山地，支搭帳棚：伯特利在西，艾在東。他在那裡為雅威築了一座壇，並且求告雅威的名。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ccd62b972ee0a47e7a255490c1215609582bbbc4b970323e1d96fbedcf074ad8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/12\/5-8.1792124755087.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעתק",
+      "gloss": "他遷移"
+    },
+    {
+      "surface": "משם",
+      "gloss": "從那裡"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "向山地"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "東邊"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "伯特"
+    },
+    {
+      "surface": "אל",
+      "gloss": "艾（地名後半）"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "支搭"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "他的帳棚"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯特"
+    },
+    {
+      "surface": "אל",
+      "gloss": "艾（地名後半）"
+    },
+    {
+      "surface": "מים",
+      "gloss": "在西"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "而艾"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "在東"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "他築了"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裡"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "一座壇"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "為雅威"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "他求告"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "以……的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-10-16T04:25:55.088329787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זר",
+      "rationale": "字面是「陌生的、外來的」，此處修飾伊勒：不是我們的以羅欣的別神"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלהינו \/ לאל זר",
+      "rationale": "我們的以羅欣與陌生的伊勒相對，忠誠與背棄的對照"
+    }
+  ],
+  "translation": "如果我們忘了我們的以羅欣（神）的名，向我們的手掌向外張開、獻給陌生的伊勒——",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "39d775d0fa7ccc85d3c1cfcd00f8a2c173c10e5de7d71c8ebdd2b36c46e03845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/44\/21-24.1792143755868.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "如果"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "我們忘了"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "我們的以羅欣"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "而我們張開"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "我們的手掌"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "向伊勒"
+    },
+    {
+      "surface": "זר",
+      "gloss": "陌生的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:35.868743868Z",
+  "model": "glm-5.3"
+}

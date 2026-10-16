@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "灑",
+      "rationale": "זרק 可譯「灑」（細灑）或「彈／潑」（JPS 作 dash）；禮儀動作的力度是譯者分歧點"
+    },
+    {
+      "kind": "you",
+      "subject": "to Moses",
+      "rationale": "禮儀指示向摩西發出"
+    }
+  ],
+  "translation": "你要宰 ⟨את⟩ 那公綿羊，取 ⟨את⟩ 牠的血，灑在壇的周圍。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9add2af65bcddda5ee8f68e7d4941529b4651a20b0d414dc91cbbd2063f100f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/29\/13-16.1792126336233.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "你要宰"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那公綿羊"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "那公綿羊"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "取"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "牠的血"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "牠的血"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "灑"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "壇"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周圍"
+    }
+  ],
+  "timestamp": "2026-10-16T04:52:16.235593210Z",
+  "model": "glm-5.3"
+}

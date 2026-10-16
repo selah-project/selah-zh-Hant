@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 23:13",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "伊法的十分之二",
+      "rationale": "原文只說「十分之二」（עשרנים），未提伊法，此處按和合本體例補足量度單位"
+    },
+    {
+      "kind": "measurement",
+      "subject": "利23:13",
+      "rationale": "本節列出素祭與奠祭的份量：十分之二細麵、一欣的四分之一酒"
+    },
+    {
+      "kind": "crux",
+      "subject": "ליהוה",
+      "rationale": "雅威：和合本作「耶和華」，本席照名號表作「雅威」"
+    }
+  ],
+  "translation": "它的素祭是細麵二伊法的十分之二，用油調和，作火祭獻給雅威，為馨香的氣味；它的奠祭是酒，一欣的四分之一。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a10812fe3a8824e2cd1d0ca7d3f378c9568216d764b485542acd9b4dca1ad303",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/23\/13-16.1792127305154.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומנחתו",
+      "gloss": "它的素祭"
+    },
+    {
+      "surface": "שני",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "十分之二"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "細麵"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "調和"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "用油"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "火祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "獻給雅威"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "氣味"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "馨香"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "它的奠祭"
+    },
+    {
+      "surface": "יין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "רביעת",
+      "gloss": "四分之一"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "一欣"
+    }
+  ],
+  "timestamp": "2026-10-16T05:08:25.155289496Z",
+  "model": "glm-5.3"
+}

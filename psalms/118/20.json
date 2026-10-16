@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 118:20",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文需補"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדק\/צדיקים",
+      "rationale": "19節「義」（צדק）與20節「義人」（צדיקים）同根呼應，中文「義」字保留此連結"
+    }
+  ],
+  "translation": "這是歸雅威的門，義人要進入其中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "054739b81d58769ad3454f9c1db11c07dca8c746921a4c10b959f73f4a890008",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/118\/17-20.1792144808621.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "השער",
+      "gloss": "是門"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "歸雅威"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義人"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "要進入"
+    },
+    {
+      "surface": "בו",
+      "gloss": "其中"
+    }
+  ],
+  "timestamp": "2026-10-16T10:00:08.623043256Z",
+  "model": "glm-5.3"
+}

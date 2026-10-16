@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 8:49",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משפטם",
+      "rationale": "「施行他們的判決」直譯；英譯多作 maintain their cause（維護他們的案情）"
+    },
+    {
+      "kind": "addition",
+      "subject": "願你",
+      "rationale": "中文需要情態詞以表達祈願語氣，希伯來文為未完成式"
+    }
+  ],
+  "translation": "願你在天上——你居住的居所——垂聽⟨את⟩他們的祈禱和⟨את⟩他們的懇求，並施行他們的公義判決。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c317954c206d9fdfc9eedfab4adf3151c61469722d4752a1a835766769f89269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/8\/49-52.1792132791246.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "願你垂聽"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天上"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "居所"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "你居住的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的祈禱"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "他們的祈禱"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "他們的懇求"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "他們的懇求"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "並施行"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "他們的公義判決"
+    }
+  ],
+  "timestamp": "2026-10-16T06:39:51.246997485Z",
+  "model": "glm-5.3"
+}

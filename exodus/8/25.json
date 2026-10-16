@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 8:25",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הערב",
+      "rationale": "字面或作「成群的蒼蠅／蚊群」，詞形單數卻指成群之災；此處譯「蠅群」。"
+    },
+    {
+      "kind": "you",
+      "subject": "摩西對法老說話",
+      "rationale": "「從你那裡」為直接向法老的稱呼。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העתרתי／ויעתר",
+      "rationale": "同一詞根用於摩西「懇求」與雅威「垂聽」，26節重現，譯文以同詞「懇求」保持呼應。"
+    }
+  ],
+  "translation": "摩西說：「看哪，我必從你那裡出去，懇求雅威，使蠅群明天離開法老、離開他的臣僕、離開他的百姓；只是法老不可再欺哄，不讓⟨את⟩這民去獻祭給雅威。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2b41ae9ffbb0c193e8273adccdd43d57e6474eaff4c86ce90d9580d3a5876035",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/8\/25-28.1792125874634.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "從你那裡"
+    },
+    {
+      "surface": "והעתרתי",
+      "gloss": "我必懇求"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "離開"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "蠅群"
+    },
+    {
+      "surface": "מפרעה",
+      "gloss": "離開法老"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "他的臣僕"
+    },
+    {
+      "surface": "ומעמו",
+      "gloss": "他的百姓"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "明天"
+    },
+    {
+      "surface": "רק",
+      "gloss": "只是"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "再"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "התל",
+      "gloss": "欺哄"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "不"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "讓……去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "這民"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "獻祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "給雅威"
+    }
+  ],
+  "timestamp": "2026-10-16T04:44:34.635611032Z",
+  "model": "glm-5.3"
+}

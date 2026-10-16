@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לבשרי",
+      "rationale": "KJV 作「皮膚」（אל-בשרי 的異讀），希伯來文作「我的肉」；骨頭貼肉是消瘦至極的圖像。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דבקה 單數陰性動詞",
+      "rationale": "動詞以單數陰性形式出現，中文以「緊貼」直譯，形態差異無法帶出。"
+    }
+  ],
+  "translation": "因我嘆息的聲音，我的骨頭緊貼我的肉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1637c8fa76edae5b28ccf4206cff48971a4625b2172e769b74d0e33631a48276",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/102\/5-8.1792144563794.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "因……的聲音"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "我的嘆息"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "緊貼"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "我的骨頭"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "我的肉"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:03.795258861Z",
+  "model": "glm-5.3"
+}

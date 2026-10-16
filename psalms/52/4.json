@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "語序",
+      "rationale": "希伯來文將הוות（禍患）置首以示強調，中文改為主謂語序"
+    }
+  ],
+  "translation": "禍患是你舌頭所圖謀的，又如剃刀磨得鋒利，行詭詐。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f53f127600fa1f91334ca755f7b424bccba594c7ab4464e288652a14083aeb69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/52\/1-4.1792143923152.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "禍患"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "圖謀"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "你的舌頭"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "如剃刀"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "磨得鋒利"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "詭詐"
+    }
+  ],
+  "timestamp": "2026-10-16T09:45:23.153683723Z",
+  "model": "glm-5.3"
+}

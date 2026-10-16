@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "世人",
+      "rationale": "בן־אנוש 直譯「必死之人的兒子」，אנוש 强調必朽，取和合通行語"
+    },
+    {
+      "kind": "you",
+      "subject": "向雅威",
+      "rationale": "詩人直接向雅威發問的祈禱言語"
+    }
+  ],
+  "translation": "雅威啊，人算甚麼，你竟認識他！世人算甚麼，你竟顧念他！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/144\/1-4.1792145078857.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威啊"
+    },
+    {
+      "surface": "מה",
+      "gloss": "算甚麼"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "你竟認識他"
+    },
+    {
+      "surface": "בן",
+      "gloss": "……之子"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "世人"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "你竟顧念他"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:38.860418029Z",
+  "model": "glm-5.3"
+}

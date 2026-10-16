@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אֶל",
+      "rationale": "介詞『朝向』融入中文『在……上』的方位表達"
+    },
+    {
+      "kind": "substitution",
+      "subject": "嬰孩",
+      "rationale": "עֹלָל 指尚在哺乳的幼兒，比『孩子』更具體"
+    }
+  ],
+  "translation": "那抓住並摔碎你嬰孩在磐石上的，有福了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ddbf5be047b0c59f4f4211d7e0f17a42b95cc817b727d729817064730199a74c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/137\/9-9.1792145009808.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "有福了"
+    },
+    {
+      "surface": "שֶׁיֹּאחֵז",
+      "gloss": "那抓住"
+    },
+    {
+      "surface": "וְנִפֵּץ",
+      "gloss": "並摔碎"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "你嬰孩"
+    },
+    {
+      "surface": "עֹלָלַיִךְ",
+      "gloss": "你嬰孩"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "在"
+    },
+    {
+      "surface": "הַסָּלַע",
+      "gloss": "磐石上"
+    }
+  ],
+  "timestamp": "2026-10-16T10:03:29.809036442Z",
+  "model": "glm-5.3"
+}

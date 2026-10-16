@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "條例",
+      "rationale": "משפט本義為「判決、定規」，此處指既定的祭禮規定"
+    }
+  ],
+  "translation": "他獻上 ⟨את⟩ 燔祭，照條例辦理了牠。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7b13d6658cf2d0ad38f60c1b9dbc2c93acefc7320c87c214955c01dd35d33339",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/9\/13-16.1792126847460.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "獻上"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "燔祭"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "辦理了牠"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "照條例"
+    }
+  ],
+  "timestamp": "2026-10-16T05:00:47.461801744Z",
+  "model": "glm-5.3"
+}

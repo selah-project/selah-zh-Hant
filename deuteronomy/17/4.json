@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 17:4",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "有人",
+      "rationale": "והגד 是被動式「被告訴」，中文以無主語「有人告訴你」表達"
+    },
+    {
+      "kind": "you",
+      "subject": "對審判者／治理者",
+      "rationale": "全節以單數「你」命令，指向負責查究的以色列治理者"
+    }
+  ],
+  "translation": "有人告訴你，你也聽見了，就要仔細查究；看哪，果然真實、事情確鑿：這可憎的事在以色列中行出來了——",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e9b94d43cecdca996ba506d597951075fcd2c4829a758a2008a479aa130d0044",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/17\/1-4.1792129002851.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והגד",
+      "gloss": "有人告訴"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "你聽見了"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "你要查究"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "仔細"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真實"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "確鑿"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "事情"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "行出來了"
+    },
+    {
+      "surface": "התועבה",
+      "gloss": "可憎的事"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "在以色列中"
+    }
+  ],
+  "timestamp": "2026-10-16T05:36:42.853135666Z",
+  "model": "glm-5.3"
+}

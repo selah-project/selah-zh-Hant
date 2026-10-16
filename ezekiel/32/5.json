@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רמותך",
+      "rationale": "字根意為「你的高處／你的屍堆」，諸譯本作 height（高）、foulness（穢物）、remains（殘骸）各異；此處取「屍堆」義。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בשרך",
+      "rationale": "「你的肉」譯作「你的屍體」，指被宰殺之獸（法老）的肉身。"
+    }
+  ],
+  "translation": "我必將你的屍體放在眾山上，並以你的殘骸填滿眾山谷。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e5633830e5fc24685ae250da5e045fbf1822becc8f2c9ad347a3d517e7741ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/32\/5-8.1792138798209.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "我必將……放置"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的屍體"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "你的屍體"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "眾山"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "我必填滿"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "眾山谷"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "你的殘骸"
+    }
+  ],
+  "timestamp": "2026-10-16T08:19:58.209750677Z",
+  "model": "glm-5.3"
+}

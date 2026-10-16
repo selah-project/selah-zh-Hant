@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨一個⟩",
+      "rationale": "希伯來文無冠詞於此，中文量詞為語法所需而補。"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列對眾子",
+      "rationale": "父親直接質問兒子們的對話。"
+    }
+  ],
+  "translation": "以色列說：「你們為何這樣害我，告訴那人你們還有⟨一個⟩弟弟呢？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "692cfbd8a7d3d3b511c3aa0d14fa5db0379457ef893882cf05cdf9044a89595d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/43\/5-8.1792125551430.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "למה",
+      "gloss": "為何"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "你們害"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "告訴"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "那人"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "還"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "你們有"
+    },
+    {
+      "surface": "אח",
+      "gloss": "弟弟"
+    }
+  ],
+  "timestamp": "2026-10-16T04:39:11.431908669Z",
+  "model": "glm-5.3"
+}

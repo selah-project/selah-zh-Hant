@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "彈琴頌讚",
+      "rationale": "זמר 本義是彈奏樂器的弦，中譯以「彈琴頌讚」保留其畫面"
+    },
+    {
+      "kind": "alternative",
+      "subject": "在我還存在之時",
+      "rationale": "בעודי 直譯「在我仍在之時」，與「在我存活之日」平行，保留兩個不同詞的區別"
+    }
+  ],
+  "translation": "我要一生向雅威歌唱；我還存在的時候，要向我以羅欣彈琴頌讚。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0f8e6102456bb3bc270249a1ea47b7d8116ccc079f8644cca50f3ccedeb565d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/104\/33-35.1792144579122.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "我要歌唱"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "在我存活之日"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "我要彈琴頌讚"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "向我的以羅欣"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "在我還存在之時"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:19.122593843Z",
+  "model": "glm-5.3"
+}

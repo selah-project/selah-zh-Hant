@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "前兩分詞無主語，承上節以『他』補足。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "被囚的",
+      "rationale": "אֲסוּרִים 字面為『被捆綁的』，指被鎖鏈捆住的人。"
+    }
+  ],
+  "translation": "他為受欺壓的施行公正，賜食物給飢餓的；雅威釋放被囚的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "df2325d84195eeda451fcf47037af6d3c7fb2a77f3bf3cf53c2d0809185a5939",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/146\/5-8.1792145151127.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "施行"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公正"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "為受欺壓的"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "賜"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "食物"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "給飢餓的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "釋放"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "被囚的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:51.128652179Z",
+  "model": "glm-5.3"
+}

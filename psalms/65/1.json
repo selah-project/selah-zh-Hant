@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "致",
+      "rationale": "ל 前置詞以「致」標出歸屬對象，中文需要"
+    }
+  ],
+  "translation": "致伶長，大衛的詩，一首歌。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d3aff8c50347acb0f564b73a480599286c9e131652b5fb885b167de99e50ebde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/65\/1-4.1792144056719.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "致伶長"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "一首歌"
+    }
+  ],
+  "timestamp": "2026-10-16T09:47:36.720070638Z",
+  "model": "glm-5.3"
+}

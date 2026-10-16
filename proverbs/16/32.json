@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "不輕易發怒",
+      "rationale": "ארך אפים 直譯「長鼻息」，希伯來文以「鼻子\/怒氣長」表忍耐，成語化譯法"
+    },
+    {
+      "kind": "substitution",
+      "subject": "魯阿",
+      "rationale": "רוח 此處指人內裡的氣息／心靈，依紀律音譯為魯阿並括註"
+    },
+    {
+      "kind": "alternative",
+      "subject": "勝過",
+      "rationale": "希伯來文用比較詞 מן（比……更），中文以「勝過」表比較"
+    }
+  ],
+  "translation": "不輕易發怒的，勝過勇士；轄管自己魯阿（靈）的，勝過攻取城池的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b8d5488630d9718e13a4c86dab67c1fab2abc533b365a14780e881385f43e6c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/16\/29-32.1792145491528.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "更好"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "不輕易（遲久）"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "發怒（鼻息）"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "勝過勇士"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "轄管"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "自己的魯阿"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "勝過攻取"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城池"
+    }
+  ],
+  "timestamp": "2026-10-16T10:11:31.529989763Z",
+  "model": "glm-5.3"
+}

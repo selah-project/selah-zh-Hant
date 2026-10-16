@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "木架",
+      "rationale": "העץ 字面是「樹木」，此處指哈曼所立的木架"
+    },
+    {
+      "kind": "alternative",
+      "subject": "平息",
+      "rationale": "שככה 字面為「躺下、止息」，諸譯本作「平息／止息」"
+    }
+  ],
+  "translation": "於是人把 ⟨את⟩ 哈曼掛在他為末底改所預備的木架上，王的怒氣才平息了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "daa06d68644b642af66c1748e2054b59d3260f6174c588dae6be0fd615119595",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/esther\/7\/9-10.1792147120625.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "他們就把……掛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "哈曼"
+    },
+    {
+      "surface": "המן",
+      "gloss": "哈曼"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "木架"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "預備"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "為末底改"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "的怒氣"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "平息了"
+    }
+  ],
+  "timestamp": "2026-10-16T10:38:40.626702552Z",
+  "model": "glm-5.3"
+}

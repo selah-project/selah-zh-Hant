@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לחמה",
+      "rationale": "לחם本義是食物／糧食，不限於「餅」"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文用分詞נותן，中文加「他」作主語"
+    }
+  ],
+  "translation": "他賜食物給走獸，賜給呼叫的烏鴉之子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2e9f803065a108849f0e10ecd8bdcca073963c32aaa21cb0542e9d4cfd08cb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/147\/9-12.1792145129391.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "賜"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "給走獸"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "牠的食物"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "給…之子"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "烏鴉"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "呼叫的"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "他們呼叫"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:29.391612404Z",
+  "model": "glm-5.3"
+}

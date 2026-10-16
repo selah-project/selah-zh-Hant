@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 17:4",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Nathan, for David",
+      "rationale": "雅威直接吩咐拿單，轉述給大衛"
+    },
+    {
+      "kind": "substitution",
+      "subject": "殿",
+      "rationale": "הבית直譯「房屋」，在此語境指聖殿"
+    }
+  ],
+  "translation": "「你去，對我僕人大衛說：『雅威如此說：你不可為我建造居住的殿。』",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "287722a0e1f603d0e56eb133e2a293d7a8f64ec5518a9387296a0bf4bd2643b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/17\/1-4.1792148820992.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "去"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "你要說"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "我僕人"
+    },
+    {
+      "surface": "כה",
+      "gloss": "如此"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "建造"
+    },
+    {
+      "surface": "לי",
+      "gloss": "為我"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "居住"
+    }
+  ],
+  "timestamp": "2026-10-16T11:07:00.993371902Z",
+  "model": "glm-5.3"
+}

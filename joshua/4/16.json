@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "法櫃",
+      "rationale": "ארון העדות 直譯「見證之櫃」；採「法櫃」以合詞彙表對 ארון 的登記"
+    },
+    {
+      "kind": "you",
+      "subject": "對約書亞",
+      "rationale": "雅威直接吩咐約書亞"
+    }
+  ],
+  "translation": "「你要吩咐⟨את⟩抬法櫃的祭司們，使他們從約旦河裏上來。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "19fcd643dd2c99e5a14445762e0d9bbd97023cf95eb7c589e7cc815feef9f167",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/4\/13-16.1792129420828.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "吩咐"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "抬法櫃的祭司們"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司們"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "抬……的"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "櫃"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "法（見證）"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "使他們上來"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦河"
+    }
+  ],
+  "timestamp": "2026-10-16T05:43:40.829577118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 17:13",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "工程",
+      "rationale": "מלאאכה 可指事務或工程；KJV 譯 business，此處指建造工事"
+    },
+    {
+      "kind": "elision",
+      "subject": "לו",
+      "rationale": " Hebrew 的前置介詞片語「他有大量的工程」，中文以語序吸收「他有」"
+    }
+  ],
+  "translation": "他在猶大各城有大量的工程；在耶路撒冷有作戰的人，是大能的勇士。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "62b6a23f19c540cda94e43cdc22dc561ef7f8b4ac24c0a2e0c88586d810b125f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/17\/13-16.1792149343503.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלאכה",
+      "gloss": "工程"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "大量的"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "在……各城"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "……的人"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "作戰"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "大能的"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "在耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-10-16T11:15:43.503780239Z",
+  "model": "glm-5.3"
+}

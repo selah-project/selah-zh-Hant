@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nahum 2:14",
+  "book": "nahum",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "尼尼微（亞述）",
+      "rationale": "全節以第二人稱直接向尼尼微宣告審判"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אליך",
+      "rationale": "直譯「臨到你」；「我與你為敵」是此慣用語在審判宣告中的意思"
+    },
+    {
+      "kind": "crux",
+      "subject": "רכבה",
+      "rationale": "רִכְבָּהּ 是第三人稱陰性「她的戰車」——上下文卻是「你」；或指尼尼微（陰性），或如某些抄本作 רכבך（你的戰車）"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בעשן",
+      "rationale": "「在煙中焚燒」意即燒盡成煙，非在煙裡點火"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וכפיריך",
+      "rationale": "כְּפִירִיךָ 是「少壯獅子」，延續上節獅子意象指亞述的將領"
+    }
+  ],
+  "translation": "看哪，我與你為敵——萬軍之雅威的話。我必在煙中焚燒她的戰車，刀劍必吞吃你的少壯獅子；我必從地上剪除你的獵物，你使者的聲音必不再被聽見。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ebc9ad8cf52973dd9fcdd7e20ed2c24de8522fd64c09bd4f5cbbb6fc06d9c5bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nahum\/2\/13-14.1792142682953.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "看哪，我"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "與你為敵"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "……的話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "萬軍"
+    },
+    {
+      "surface": "והבערתי",
+      "gloss": "我必焚燒"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "在煙中"
+    },
+    {
+      "surface": "רכבה",
+      "gloss": "她的戰車"
+    },
+    {
+      "surface": "וכפיריך",
+      "gloss": "你的少壯獅子"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "必吞吃"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "我必剪除"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "從地上"
+    },
+    {
+      "surface": "טרפך",
+      "gloss": "你的獵物"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "被聽見"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲音"
+    },
+    {
+      "surface": "מלאככה",
+      "gloss": "你的使者"
+    }
+  ],
+  "timestamp": "2026-10-16T09:24:42.956571340Z",
+  "model": "glm-5.3"
+}

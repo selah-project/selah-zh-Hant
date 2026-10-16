@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "人必",
+      "rationale": "希伯來文 יקראו 是無指定主語的複數「他們必稱」，中文補「人」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "詭計之主",
+      "rationale": "בעל מזמות 字面即「詭計的主人」，KJV 作 mischievous person 失去「主」的形像。"
+    }
+  ],
+  "translation": "圖謀行惡的人，人必稱他為詭計之主。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8320fc7b200d794ac86d2bb4d59068a7f94c81280b8edc7b4f516a72ab04e693",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/24\/5-8.1792145609274.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "圖謀的人"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "行惡"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "之主"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "詭計"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "人必稱為"
+    }
+  ],
+  "timestamp": "2026-10-16T10:13:29.275822895Z",
+  "model": "glm-5.3"
+}

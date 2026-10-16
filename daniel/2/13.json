@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 2:13",
+  "book": "daniel",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "被動式",
+      "rationale": "מתקטלין 為亞蘭文被動分詞「正在被殺」，中文以「就被殺」呈現進行中被動之勢"
+    },
+    {
+      "kind": "you",
+      "subject": "但以理和他的同伴",
+      "rationale": "王的命令現在直接落在但以理身上，敘事轉向主角"
+    }
+  ],
+  "translation": "於是命令發出，智慧人就被殺；人又尋找但以理和他的同伴，要殺害他們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bb0e57a1789b1afeec6273b28319c8185370bc7682de9ac35bb131d7f8a7f8b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/daniel\/2\/13-16.1792147343083.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודתא",
+      "gloss": "於是命令"
+    },
+    {
+      "surface": "נפקת",
+      "gloss": "發出"
+    },
+    {
+      "surface": "וחכימיא",
+      "gloss": "智慧人"
+    },
+    {
+      "surface": "מתקטלין",
+      "gloss": "就被殺"
+    },
+    {
+      "surface": "ובעו",
+      "gloss": "又尋找"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "但以理"
+    },
+    {
+      "surface": "וחברוהי",
+      "gloss": "和他的同伴"
+    },
+    {
+      "surface": "להתקטלה",
+      "gloss": "要殺害他們"
+    }
+  ],
+  "timestamp": "2026-10-16T10:42:23.083843222Z",
+  "model": "glm-5.3"
+}

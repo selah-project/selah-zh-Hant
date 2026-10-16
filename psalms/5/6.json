@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הוללים",
+      "rationale": "KJV 譯『愚昧人』，JPS\/ASV 譯『狂誇之人』；הוללים 出於הלל，指喧嚷誇口者，此處取『狂傲人』。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "און",
+      "rationale": "אָוֶן 字面是『虛無、虛空』，引申奸惡；譯『奸惡』失落了『虛空』的底色。"
+    }
+  ],
+  "translation": "狂傲人不能站立在你眼前；你恨惡一切行奸惡之事的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c051fc4b02dfeab5281d256f13d2732f51be7285321fe6f50be3567b9473ab6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/5\/5-8.1792143227073.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "站立"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "狂傲人"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "在……眼前"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "你"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "恨惡"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "行……的人"
+    },
+    {
+      "surface": "און",
+      "gloss": "奸惡之事"
+    }
+  ],
+  "timestamp": "2026-10-16T09:33:47.074386440Z",
+  "model": "glm-5.3"
+}

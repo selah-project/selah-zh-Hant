@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "受詞記號⟨את⟩指向拉班，中文語法無對應位置，譯文中以標記保留"
+    }
+  ],
+  "translation": "他對他們說：「你們認識拿鶴的兒子拉班嗎？」他們說：「我們認識。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5385cacbc941ff9b72cf2129105792d5893af0c1a8a7907c6078128dccefaa06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/29\/5-8.1792125122764.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "להם",
+      "gloss": "對他們"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "你們認識"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "拉班"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "拉班"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "拿鶴"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "他們說"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "我們認識"
+    }
+  ],
+  "timestamp": "2026-10-16T04:32:02.764820022Z",
+  "model": "glm-5.3"
+}

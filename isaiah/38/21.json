@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 38:21",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "瘡",
+      "rationale": "שחין 是發炎、潰瘍之瘡；此處指希西家患處"
+    },
+    {
+      "kind": "alternative",
+      "subject": "讓他們取",
+      "rationale": "ישאו 是第三人稱複數祈使，和合本譯「當取」；主語未指明，可能是僕人"
+    }
+  ],
+  "translation": "以賽亞說：「讓他們取一塊無花果餅，塗在瘡上，他就必存活。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bc3102f1275d4a0b48de2620f238a604fa52aa7e1b5ad243b5b0041ee0aff638",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/38\/21-22.1792135237392.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "以賽亞"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "讓他們取"
+    },
+    {
+      "surface": "דבלת",
+      "gloss": "一塊……餅"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "無花果"
+    },
+    {
+      "surface": "וימרחו",
+      "gloss": "塗"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "瘡"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "他就必存活"
+    }
+  ],
+  "timestamp": "2026-10-16T07:20:37.392716116Z",
+  "model": "glm-5.3"
+}

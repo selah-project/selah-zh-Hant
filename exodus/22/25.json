@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חבל תחבל",
+      "rationale": "不定獨立詞加未完成式的強調結構：「你若真的拿作抵押」，中文以「若拿……作抵押」淡化"
+    },
+    {
+      "kind": "crux",
+      "subject": "לו",
+      "rationale": "希伯來文以附加字尾「它」指外衣，並以獨立代名詞 לו「給他」收尾，中譯「把它歸還給他」保留兩者"
+    },
+    {
+      "kind": "you",
+      "subject": "借貸者／債主",
+      "rationale": "全節以第二人稱單數命令語氣對以色列中的放貸者說話"
+    }
+  ],
+  "translation": "你若拿鄰舍的外衣作抵押，日頭落下以先，你要把它歸還給他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c2af7ba27c532a768ccf1cc6ff3da38ff52fc8ca557f4944e4e16b00a82d4d52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/22\/25-28.1792126125643.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "拿……作抵押"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "你拿作抵押"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "外衣"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "鄰舍的"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "בא",
+      "gloss": "落下"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "你要把它歸還"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給他"
+    }
+  ],
+  "timestamp": "2026-10-16T04:48:45.644115410Z",
+  "model": "glm-5.3"
+}

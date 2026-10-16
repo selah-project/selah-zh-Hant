@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 14:21",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是……的人",
+      "rationale ": "中文需補出分詞結構的表語，希伯來文僅有分詞"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשריו",
+      "rationale": "「他的福樂」單數帶後綴，與慣用複數 אשרי 不同，強調這人自己的福"
+    }
+  ],
+  "translation": "藐視鄰舍的，是犯罪的人；恩待窮苦人的，這人有福。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "37211ad3dd097ba621ba633be31649a272c3267e02c56b5124f98ff52f12a207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/14\/21-24.1792145351004.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "藐視"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "鄰舍"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "是犯罪的人"
+    },
+    {
+      "surface": "ומחונן",
+      "gloss": "恩待"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "窮苦人"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "這人有福"
+    }
+  ],
+  "timestamp": "2026-10-16T10:09:11.005454755Z",
+  "model": "glm-5.3"
+}

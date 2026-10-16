@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 1:3",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מוסר השכל",
+      "rationale": "可讀作「明辨的管教」（ construct 連語）或「管教與明辨」（二詞並列）；和合本作「智慧得著訓誨」，譯法分歧。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "正直",
+      "rationale": "מישרים 是「平直、平坦之路」的複數形，譯作抽象名詞「正直」失去道路意象。"
+    }
+  ],
+  "translation": "領受明辨的管教，就是公義、公平和正直；",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2cca88d6c846f7141918ca5763a5e9df5eccf4f1fb0f0a227eb2c343c45abd14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/1\/1-4.1792145157687.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לקחת",
+      "gloss": "領受"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "管教"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "明辨"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "和公平"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "和正直"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:57.688640941Z",
+  "model": "glm-5.3"
+}

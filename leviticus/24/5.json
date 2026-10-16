@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "十二個餅・兩個十分之二",
+      "rationale": "本節滿是計數：十二個餅，每餅兩個十分之一（伊法）"
+    },
+    {
+      "kind": "addition",
+      "subject": "伊法",
+      "rationale": "希伯來文只說「兩個十分之二」，量器「伊法」由上下文補出"
+    }
+  ],
+  "translation": "你要取細麵，烤成十二個餅⟨את⟩；每個餅用兩個伊法的十分之二。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b34df01f0594b3db31a245b19bb29037ed4169651d801e1f49447b5ebf8e6e19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/24\/5-8.1792127263061.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "你要取"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "細麵"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "烤成"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "十二個餅"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "兩個"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "餅"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "十分之二"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "是"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "每個餅"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "一個"
+    }
+  ],
+  "timestamp": "2026-10-16T05:07:43.062545022Z",
+  "model": "glm-5.3"
+}

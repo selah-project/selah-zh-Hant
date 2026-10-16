@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "神明",
+      "rationale": "אלהימו此處指異教諸神，依紀律用「神明」而非「以羅欣」"
+    },
+    {
+      "kind": "addition",
+      "subject": "〈在其中〉",
+      "rationale": "介詞בו中文以括註補出"
+    }
+  ],
+  "translation": "他必說：他們的神明在哪裡？他們所投靠的磐石呢？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1587efc7bb06a7ec286b79766b3718ac91eb5701e7edb39f3647766155d4c912",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/32\/37-40.1792129286004.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "他必說"
+    },
+    {
+      "surface": "אי",
+      "gloss": "在哪裡"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "他們的神明"
+    },
+    {
+      "surface": "צור",
+      "gloss": "磐石"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "他們所投靠的"
+    },
+    {
+      "surface": "בו",
+      "gloss": "〈在其中〉"
+    }
+  ],
+  "timestamp": "2026-10-16T05:41:26.005021604Z",
+  "model": "glm-5.3"
+}

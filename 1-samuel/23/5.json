@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 23:5",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "就",
+      "rationale": "中文敘事連貫所需的連接詞，希伯來文以敘述式動詞前綴表達"
+    }
+  ],
+  "translation": "大衛和跟隨他的人就往凱伊拉去，與非利士人爭戰，擄走 ⟨את⟩ 他們的牲畜，大大擊殺他們；大衛拯救了 ⟨את⟩ 凱伊拉的居民。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f765b91ec771635750517e5b559e3ada8496408aab9c43e04f844148f249c2e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/23\/5-8.1792131329811.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "往…去"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ואנשו",
+      "gloss": "和跟隨他的人"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "凱伊拉"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "爭戰"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "與非利士人"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "擄走"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的牲畜"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "他們的牲畜"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "擊殺"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "擊殺"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "大大"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "拯救了"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "凱伊拉的居民"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "凱伊拉"
+    }
+  ],
+  "timestamp": "2026-10-16T06:15:29.812002258Z",
+  "model": "glm-5.3"
+}

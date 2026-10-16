@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 18:15",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "亞哈",
+      "rationale": "『向他』的受詞由上下文補出（亞哈），原文只作『向他顯現』"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חי־יהוה",
+      "rationale": "起誓套語『雅威活著』，是此段針對巴力『生死』爭議的誓言核心"
+    }
+  ],
+  "translation": "以利亞說：「萬軍之雅威——我站立在祂面前的那位——活著，我今日必向亞哈顯現。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "14bc60d05de03195ed682f16b6e3c613dace6618370cf1164f0661cc7c642b35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/18\/13-16.1792133253273.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "以利亞"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活著"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "萬軍"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那位"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "我站立"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "在祂面前"
+    },
+    {
+      "surface": "כי",
+      "gloss": "必"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "我顯現"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "向他"
+    }
+  ],
+  "timestamp": "2026-10-16T06:47:33.274882044Z",
+  "model": "glm-5.3"
+}

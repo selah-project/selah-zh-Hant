@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חכי",
+      "rationale": "חך 字面是上膛／口腔，中文以『上膛』存其身體感，非泛指『口』"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהגה",
+      "rationale": "הגה 兼有低聲吟誦與默想之義，聲音與心思同一動作，中文難以兩存"
+    }
+  ],
+  "translation": "因我的上膛默想真實，我的嘴唇憎惡邪惡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "36ae12da5af4eda7756e58ab2915263cb2f32db96f4eabd271b33e76a79c6854",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/8\/5-8.1792145283792.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真實"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "默想"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "我的上膛"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "憎惡"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "我的嘴唇"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "邪惡"
+    }
+  ],
+  "timestamp": "2026-10-16T10:08:03.792957239Z",
+  "model": "glm-5.3"
+}

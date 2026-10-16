@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 8:7",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כנפים",
+      "rationale": "כנפים是複數（翅膀），KJV加「兩」作dual；原文無「二」字，此處保留複數不加數"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויסכו",
+      "rationale": "字面是「編織成屏、覆罩」，譯作「遮蓋」"
+    }
+  ],
+  "translation": "因為基路伯展開翅膀在櫃的位置之上，基路伯從上方遮蓋⟨את⟩櫃和它的杠。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5debe3e4ed32217bf843fe82ab49ce537f7e98583486509e81228d12e603efb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/8\/5-8.1792132842810.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "基路伯"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "展開"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "翅膀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "在……之上"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "位置"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "櫃的"
+    },
+    {
+      "surface": "ויסכו",
+      "gloss": "就遮蓋"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "基路伯"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……之上"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "櫃"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "和在……之上"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "它的杠"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "從上方"
+    }
+  ],
+  "timestamp": "2026-10-16T06:40:42.811571350Z",
+  "model": "glm-5.3"
+}

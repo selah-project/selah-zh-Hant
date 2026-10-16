@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 22:20",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "那裡去了",
+      "rationale": "中文動詞需要補足方向補語；希伯來文只說「逃到大衛之後」"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אחרי דוד",
+      "rationale": "直譯「在大衛之後」，可譯「追隨大衛」；此處取逃到大衛那裡之義"
+    }
+  ],
+  "translation": "亞希米勒的兒子、亞希突的兒子中有一個逃脫了，他名叫亞比亞他；他逃到大衛那裡去了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a88e22ee49b01bfaf3b67b69832ef9ac8093a231cd1f13f2a15cfb8bbe669778",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/22\/17-20.1792131409902.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "逃脫了"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一個"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "屬亞希米勒的"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "亞希突"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "他的名字"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "亞比亞他"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "逃跑了"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "跟隨"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    }
+  ],
+  "timestamp": "2026-10-16T06:16:49.904909552Z",
+  "model": "glm-5.3"
+}

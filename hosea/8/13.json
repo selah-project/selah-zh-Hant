@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 8:13",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הבהבי",
+      "rationale": "罕見詞，或作「我的祭物禮物」（所有格），或作「他們所喜愛的祭」；KJV「我祭物的祭」與 JPS「以火獻給我的祭」各執一端。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "追討",
+      "rationale": "פקד 可為眷顧亦可為懲罰訪察；此處取懲罰義。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הבהב",
+      "rationale": "此詞全塔納赫僅見於何西阿書此處。"
+    }
+  ],
+  "translation": "他們獻祭牲的肉為祭物，自己吃⟨了⟩；雅威不悅納他們。如今他必記念他們的罪孽，追討他們的罪惡；他們必返回埃及。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d532d7ad060efe1ecd558a908edcfab5e23df5d0d59e92a736c475e2f71b1fab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/8\/13-14.1792139463352.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "祭物"
+    },
+    {
+      "surface": "הבהבי",
+      "gloss": "所獻的禮物"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "他們宰殺獻祭"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "自己吃了"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "רצם",
+      "gloss": "悅納他們"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "如今"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "他必記念"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "他們的罪孽"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "追討"
+    },
+    {
+      "surface": "חטאותם",
+      "gloss": "他們的罪惡"
+    },
+    {
+      "surface": "המה",
+      "gloss": "他們"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "必返回"
+    }
+  ],
+  "timestamp": "2026-10-16T08:31:03.353393548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 10:15",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רשעתי\/צדקתי",
+      "rationale": "「行惡／行義」兩動詞對仗，左右兩難的交叉結構。"
+    },
+    {
+      "kind": "crux",
+      "subject": "וראה עניי",
+      "rationale": "主語是誰？「（雅威啊）你看我的苦難」（祈求）或「我眼看我的苦難」（自述）；譯文取後者。"
+    }
+  ],
+  "translation": "我若行惡，禍哉歸我；我若行義，也不敢抬⟨起⟩我的頭。我飽受羞辱，又得眼看我的苦難。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a0de202703275a85fe4037e236b54e7d84b81d6a985ed72b551acf657feda211",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/10\/13-16.1792145953179.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "我行惡"
+    },
+    {
+      "surface": "אללי",
+      "gloss": "禍哉"
+    },
+    {
+      "surface": "לי",
+      "gloss": "歸我"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "我行義"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "敢抬"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "我的頭"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "飽受"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "羞辱"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "又得眼看"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "我的苦難"
+    }
+  ],
+  "timestamp": "2026-10-16T10:19:13.179887225Z",
+  "model": "glm-5.3"
+}

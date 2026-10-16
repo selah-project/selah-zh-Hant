@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "我要喚醒黎明",
+      "rationale": "עירה שחר 直譯「喚醒黎明」，亦可作副詞「清晨早起」（和合本旁註）"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עורה\/אעירה",
+      "rationale": "同一動詞根 עור 兩次出現——對樂器說「醒起」、詩人自己「喚醒」，呼應結構"
+    }
+  ],
+  "translation": "琴瑟啊，醒起吧；我要喚醒黎明。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "42ad265799632db511bca983ab277661ef5a1b1280eb3e5b9c3c3bd7be8ed171",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/108\/1-4.1792144702536.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "醒起吧"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "琴"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "瑟"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "我要喚醒"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "黎明"
+    }
+  ],
+  "timestamp": "2026-10-16T09:58:22.537366344Z",
+  "model": "glm-5.3"
+}

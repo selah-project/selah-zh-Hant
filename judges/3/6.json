@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אלהיהם",
+      "rationale": "指异教诸神，按纪律用「神明」，不用「以罗欣」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לקח\/נתן",
+      "rationale": "娶与给的对称结构——以色列又娶又给，通婚的两面"
+    }
+  ],
+  "translation": "他们娶他们的女儿为妻，又把自己的女儿嫁给他们的儿子，并且事奉他们的神明。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b54f8dccaf49c31fc6c03db547f6a9d4864903c8f20f25b334148812779cbeac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/3\/5-8.1792130087667.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "他们就娶了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他们的女儿"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "他们的女儿"
+    },
+    {
+      "surface": "להם",
+      "gloss": "为⟨自己⟩"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "为妻"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "他们的女儿"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "〈自己的〉女儿"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "又…给了"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "给他们的儿子"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "并且事奉了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他们的神明"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "他们的神明"
+    }
+  ],
+  "timestamp": "2026-10-16T05:54:47.668278595Z",
+  "model": "glm-5.3"
+}

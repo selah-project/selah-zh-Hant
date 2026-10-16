@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 27:1",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "不能看見",
+      "rationale": "מראת 的不定式結構以否定補語譯出，原文以「眼睛昏花、不能看見」兩句並列"
+    },
+    {
+      "kind": "you",
+      "subject": "以撒對以掃",
+      "rationale": "父親對長子的直接呼喚與應答"
+    }
+  ],
+  "translation": "以撒年老，眼睛昏花，不能看見，他就叫了 ⟨את⟩ 以掃──他兒子中為大的──對他說：「我兒啊。」以掃對他說：「我在這裡。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "82fed4a047f332614c066d7b5855631bf5a5b08e1159aedbfb6f9c17ff7cfb54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/27\/1-4.1792125092782.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生了"
+    },
+    {
+      "surface": "כי",
+      "gloss": "當"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "年老"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "ותכהין",
+      "gloss": "昏花了"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "他的眼睛"
+    },
+    {
+      "surface": "מראת",
+      "gloss": "看見"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "他就叫了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以掃"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "他的兒子"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "為大的"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我兒啊"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "我在這裡"
+    }
+  ],
+  "timestamp": "2026-10-16T04:31:32.783582871Z",
+  "model": "glm-5.3"
+}

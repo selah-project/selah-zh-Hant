@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "那一位",
+      "rationale": "中文需名詞化的代詞指稱雅威，希伯來文僅為名詞並列"
+    },
+    {
+      "kind": "crux",
+      "subject": "עמי",
+      "rationale": "「萬民」與「我的子民」二讀：可指服在大衛之下的以色列民，或指被制伏的外邦各民"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הרודד",
+      "rationale": "רדד 此形於全塔納赫僅此一見，意為踐踏、制伏"
+    }
+  ],
+  "translation": "祂是我的慈愛、我的保障、我的高臺、拯救我的⟨那一位⟩；祂是我的盾牌，我投靠於祂；祂使萬民服在我以下。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/144\/1-4.1792145078857.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "我的慈愛"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "我的保障"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "我的高臺"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "拯救我的"
+    },
+    {
+      "surface": "לי",
+      "gloss": "是我的"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "我的盾牌"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "於祂"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "我投靠"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "祂使……服"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "萬民"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "在我以下"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:38.859798129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 19:17",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מלוה",
+      "rationale": "字根是「借貸」——經文將濟貧比作借給雅威本人，中文以「借給」保留此喻"
+    },
+    {
+      "kind": "you",
+      "subject": "to the reader",
+      "rationale": "箴言式泛指，勸誡讀者"
+    }
+  ],
+  "translation": "恩待窮乏人的，就是借給雅威；他的善行，雅威必償還給他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bad42d7a68c4700fffe7c247ac07c1e0cb354901859946ed401a490fc0e3ff7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/19\/17-20.1792145511129.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלוה",
+      "gloss": "借給"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "恩待"
+    },
+    {
+      "surface": "דל",
+      "gloss": "窮乏人"
+    },
+    {
+      "surface": "וגמלו",
+      "gloss": "他的善行"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "必償還"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給他"
+    }
+  ],
+  "timestamp": "2026-10-16T10:11:51.130472915Z",
+  "model": "glm-5.3"
+}

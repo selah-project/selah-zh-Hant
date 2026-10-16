@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "焚烧",
+      "rationale": "חרון אף 字面是「鼻的焚燒」，怒氣從鼻息而來的圖像"
+    },
+    {
+      "kind": "invitation",
+      "subject": "祈求",
+      "rationale": "詩人向雅威發出的祈使式呼求"
+    }
+  ],
+  "translation": "求你將你的烈怒傾倒在他們身上，願你鼻中的焚燒追上他們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fe724e736e71c79b85457f0e579e62b74e39481f1b0c1b3c034f1a763c946f46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/69\/25-28.1792144131206.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "傾倒"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "在他們身上"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "你的烈怒"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "和…的焚燒"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "你的鼻（怒氣）"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "追上他們"
+    }
+  ],
+  "timestamp": "2026-10-16T09:48:51.207494799Z",
+  "model": "glm-5.3"
+}

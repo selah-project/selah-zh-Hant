@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויחלם…חלום",
+      "rationale": "動詞「做夢」與名詞「夢」同根連用，中文以「做了一個夢」保留其重疊。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויוספו עוד",
+      "rationale": "「再加添、仍舊」疊用強化恨意的加增；約瑟（יוסף）之名與「加添」動詞同根。"
+    },
+    {
+      "kind": "you",
+      "subject": "to his brethren",
+      "rationale": "約瑟對哥哥們說話，敘事框架內的直接對象。"
+    }
+  ],
+  "translation": "約瑟做了一個夢，告訴了他的哥哥們，他們就更加恨他 ⟨אתו⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6ce4a2d3f793e8edd06bfa58d1bb4192f037db3147dc885cb10634c7f0be9121",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/37\/5-8.1792125356173.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "做了…夢"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "一個夢"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "告訴了"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "他的哥哥們"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "就更加"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "更加"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "恨"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "他"
+    }
+  ],
+  "timestamp": "2026-10-16T04:35:56.174481192Z",
+  "model": "glm-5.3"
+}

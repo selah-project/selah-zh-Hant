@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "使者",
+      "rationale": "מלאך可作「使者」或「天使」，此處指毀滅瘟疫的天使；取「使者」保留原詞形。"
+    },
+    {
+      "kind": "addition",
+      "subject": "使者就",
+      "rationale": "希伯來文主語轉換未明寫，中文補出第二個「使者」。"
+    }
+  ],
+  "translation": "雅威吩咐使者，使者就把他的刀收回鞘中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "928737a46f07a8631d033b9545ebf962c6950f27276e7969288724f1fba6fb13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/21\/25-28.1792148842021.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "吩咐"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "使者"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "收回"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "他的刀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "鞘中"
+    }
+  ],
+  "timestamp": "2026-10-16T11:07:22.022420087Z",
+  "model": "glm-5.3"
+}

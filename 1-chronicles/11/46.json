@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 11:46",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文名單無動詞，中文需要判斷詞「是」"
+    },
+    {
+      "kind": "hapax",
+      "subject": "המחוים",
+      "rationale": "瑪哈威人：族名僅見於此處，地名不詳"
+    }
+  ],
+  "translation": "以利業是瑪哈威人，耶立拜和約沙比雅是以拿阿米的兒子，伊特瑪是摩押人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8cee44a677e6c38c6be43ff1bef7da4b74087e988bae6690cc8beec7157967dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/11\/45-47.1792148691369.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "以利業"
+    },
+    {
+      "surface": "המחוים",
+      "gloss": "瑪哈威人"
+    },
+    {
+      "surface": "ויריבי",
+      "gloss": "耶立拜"
+    },
+    {
+      "surface": "ויושויה",
+      "gloss": "約沙比雅"
+    },
+    {
+      "surface": "בני",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "אלנעם",
+      "gloss": "以拿阿米"
+    },
+    {
+      "surface": "ויתמה",
+      "gloss": "伊特瑪"
+    },
+    {
+      "surface": "המואבי",
+      "gloss": "摩押人"
+    }
+  ],
+  "timestamp": "2026-10-16T11:04:51.369803386Z",
+  "model": "glm-5.3"
+}

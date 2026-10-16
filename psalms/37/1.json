@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the reader",
+      "rationale": "本詩以連續否定命令式直接勸誡讀者。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "心懷不平",
+      "rationale": "חרה 本義是「發熱、燃燒」，指怒火中燒，非僅情緒不平。"
+    }
+  ],
+  "translation": "大衛的詩。不要因作惡的人心懷不平，不要因行不義的人生出嫉妒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2fb92fe0b5b9a22c03a7f2fe40733beeaa14e477302e81f9dfacd73e3f5316ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/37\/1-4.1792143662211.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的詩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "心懷不平"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "因作惡的人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "生出嫉妒"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "因行"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "不義的人"
+    }
+  ],
+  "timestamp": "2026-10-16T09:41:02.211936381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "שהכה是關係詞ש＋未完成式，延續上句的分詞結構，中文補主語「他」"
+    }
+  ],
+  "translation": "他擊殺了埃及的長子，從人直到牲畜。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2c8d0cf40b55764252320e6ad325a99cc1e16cb19ce165ced00faf90961ee08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/135\/5-8.1792144996294.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "他擊殺了…的那位"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "長子"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "從人"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "牲畜"
+    }
+  ],
+  "timestamp": "2026-10-16T10:03:16.296952011Z",
+  "model": "glm-5.3"
+}

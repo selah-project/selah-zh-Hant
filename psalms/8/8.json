@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "צנה",
+      "rationale": "羊群（צֹנֵא）一詞在塔納赫中僅見於此處"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שדי",
+      "rationale": "田野（שָׂדֶה）與前一節沙代（שַׁדַּי）音近，此處元音不同，僅指田野"
+    }
+  ],
+  "translation": "就是一切的羊群牛群，連田野的走獸，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "268bfcd211b5d4c36c7f6e12facb2d85493245ab393c1b5c4a8577bb5f61ff54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/8\/5-8.1792143211828.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "和牛群"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "這一切"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "連……也"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "走獸"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "田野"
+    }
+  ],
+  "timestamp": "2026-10-16T09:33:31.829197119Z",
+  "model": "glm-5.3"
+}

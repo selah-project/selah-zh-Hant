@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 2:5",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "祝福",
+      "rationale": "יברכך 字面是「祝福」，卻是詛咒的婉曲語；諸譯本或作「咒詛」（和合本）或直譯「祝福」（YLT）。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אם לא",
+      "rationale": "「若不」是起誓加強語，譯為「他必……」。"
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "命令詞後的懇求語氣詞，併入「求你伸」。"
+    }
+  ],
+  "translation": "然而，求你伸手，觸碰他的骨頭和他的肉體；他必當著你的面祝福你。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dcc2ad8e5586abc31c88729202a96bda0340f7952bb1329573ea994d70a22086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/2\/5-8.1792145795800.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "然而"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "求你伸"
+    },
+    {
+      "surface": "נא",
+      "gloss": "求"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "觸碰"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "他的骨頭"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "和向"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "他的肉體"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若不"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨不⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "當著"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "他必祝福你"
+    }
+  ],
+  "timestamp": "2026-10-16T10:16:35.800503831Z",
+  "model": "glm-5.3"
+}

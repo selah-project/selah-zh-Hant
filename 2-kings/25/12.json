@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מדלת",
+      "rationale": "字面「下垂之物、鬆散的髮絲」，轉指貧窮卑微者；譯作「最貧窮的人」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "他們",
+      "rationale": "中文需受詞，希伯來文以受詞前移隱含。"
+    }
+  ],
+  "translation": "至於地上最貧窮的人，護衛長留下他們作修葡萄園的和耕種田地的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "650b1b5144749519842384e6b9d6ed3cc418075f9bdd6a7cf264c2824ea6e756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/25\/9-12.1792134373366.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "至於最貧窮的人"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上的"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "留下"
+    },
+    {
+      "surface": "רב",
+      "gloss": "長"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "護衛"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "作修葡萄園的"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "和耕種田地的"
+    }
+  ],
+  "timestamp": "2026-10-16T07:06:13.367476125Z",
+  "model": "glm-5.3"
+}

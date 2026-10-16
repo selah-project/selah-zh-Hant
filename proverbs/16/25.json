@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לפני איש",
+      "rationale": "字面是「在人面前」，意即在人自己看來正直；多數英譯作 seemeth right"
+    },
+    {
+      "kind": "alternative",
+      "subject": "看為",
+      "rationale": "希伯來文只說「直」，未含「看似」動詞；跟隨通行讀法補出「看為」以表對比"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרך／דרכי",
+      "rationale": "路與死亡之路首尾呼應，與箴 14:12 完全相同的一節"
+    }
+  ],
+  "translation": "有一條路，在人眼前看為正直，它的結局卻是死亡之路。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0cf071747af59804ffa791b5ff4fdb3e309376c98002a761a828368a35808735",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/16\/25-28.1792145457266.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "有"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "一條路"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "正直"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在……眼前"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "它的結局卻是"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "之路"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死亡"
+    }
+  ],
+  "timestamp": "2026-10-16T10:10:57.266795249Z",
+  "model": "glm-5.3"
+}

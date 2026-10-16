@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 21:34",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨那牲畜⟩",
+      "rationale": "希伯來文 בעליו「它的主人」先行，中文需先指明所指之物。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "והמת",
+      "rationale": "原文「那死的」為單數，指掉進坑裡的那隻牲畜；中文補「牲畜」以明確。"
+    }
+  ],
+  "translation": "坑的主人要賠償，把銀錢歸還給⟨那牲畜⟩的主人，死的⟨牲畜⟩歸他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a13dccdae5a4d0edd2f35319f0c825280d35d180de65cd68496d5983fcd67602",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/21\/33-36.1792126147310.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעל",
+      "gloss": "主人"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "坑的"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "要賠償"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀錢"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "歸還"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "給它的主人"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "死的"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "歸"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    }
+  ],
+  "timestamp": "2026-10-16T04:49:07.311283577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "在他的",
+      "rationale": "希伯來文用方位詞尾代詞「右邊／左邊」，中文需加「在他的」以成句。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כסיל\/שמאל",
+      "rationale": "「愚昧人」與「左（暗側）」在閃語中另有諧音鏈（כסיל亦為星座名），難以傳達。"
+    }
+  ],
+  "translation": "智慧人的心在他的右邊，愚昧人的心在他的左邊。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ea9d772119811af4e802c9749728f9de1c8363a5cb710a531ef5092d0f979d10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/10\/1-4.1792147060367.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "智慧人的"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "在他的右邊"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "而……的心"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "愚昧人的"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "在他的左邊"
+    }
+  ],
+  "timestamp": "2026-10-16T10:37:40.368360895Z",
+  "model": "glm-5.3"
+}

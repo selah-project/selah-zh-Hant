@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "被",
+      "rationale": "希伯來文分詞דרושים被動式，中文需『被』字標明"
+    },
+    {
+      "kind": "mystery",
+      "subject": "דרושים",
+      "rationale": "呼召探究雅威的作為——追尋隱而未顯之事"
+    }
+  ],
+  "translation": "雅威的作為偉大，被一切喜愛它們的人尋求探究。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "214c851a847b085d4938cf9420e56880088b55bcd38b91a349e9806e26cac0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/111\/1-4.1792144724709.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "偉大"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "的作為"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "被尋求探究"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "被一切"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "喜愛它們的人"
+    }
+  ],
+  "timestamp": "2026-10-16T09:58:44.710625809Z",
+  "model": "glm-5.3"
+}

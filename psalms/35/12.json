@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישלמוני／שכול",
+      "rationale": "「報答」（שלם，平安之根）與「喪子」並列：以完全之字報以奪子之痛"
+    },
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 是生命之力，非分離的靈魂"
+    }
+  ],
+  "translation": "他們以惡報善，使我的性命遭喪子之痛。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "088f89f98256a3dcaf5591a239c92a161ee60ee0a7f64da7ce0697f7d344267d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/35\/9-12.1792143627417.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "他們報答我"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "惡"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "代替"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "善"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "喪子之痛"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "我的性命"
+    }
+  ],
+  "timestamp": "2026-10-16T09:40:27.418702583Z",
+  "model": "glm-5.3"
+}

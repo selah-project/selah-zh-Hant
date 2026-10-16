@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דמשק…מוסר מעיר",
+      "rationale": "「大馬士革被除去、不再為城」原文近乎諧音連鎖（dammesq mussar mēʿir），中文無法保留"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מעי מפלה",
+      "rationale": "兩個近義詞並置「廢堆、頹毀」，或譯作「一堆頹塌的廢墟」合為一詞"
+    },
+    {
+      "kind": "measurement",
+      "subject": "משא",
+      "rationale": "「默示」原文為「重擔」，是先知諭的標題格式"
+    }
+  ],
+  "translation": "論大馬士革的默示：看哪，大馬士革被廢去，不再為⟨城⟩，淪為廢堆、頹毀之處。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "33aebae5b3414892baed01785e786de29ff4cfa4e594b2de95438ce9123fbf95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/17\/1-4.1792134933344.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "默示"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "大馬士革"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "大馬士革"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "被廢去"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "不再為城"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "淪為"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "廢堆"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "頹毀之處"
+    }
+  ],
+  "timestamp": "2026-10-16T07:15:33.344855700Z",
+  "model": "glm-5.3"
+}

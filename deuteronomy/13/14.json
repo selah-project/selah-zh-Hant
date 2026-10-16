@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 13:14",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "無賴之徒",
+      "rationale": "בני בליעל 直譯「無益之子」，指卑鄙無價值之人；此處指人非指魔名"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בליעל",
+      "rationale": "בלי（沒有）＋יעל（益處）：「無益」，中译失其字面拼合"
+    }
+  ],
+  "translation": "有些無賴之徒從你中間出來，引誘了⟨את⟩他們城裡的居民，說：「我們去事奉別的以羅欣吧，就是你們所不認識的」；",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "16c60cc1dfe89d277b407e9512ffe46793da95fb1fb3079ddc3bcffb44d72756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/13\/13-16.1792128804661.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצאו",
+      "gloss": "出來"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "有些人"
+    },
+    {
+      "surface": "בני",
+      "gloss": "之子"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "無賴"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "從你中間"
+    },
+    {
+      "surface": "וידיחו",
+      "gloss": "引誘了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們城裡的居民"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "他們的城"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "我們去吧"
+    },
+    {
+      "surface": "ונעבדה",
+      "gloss": "事奉"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "你們所認識的"
+    }
+  ],
+  "timestamp": "2026-10-16T05:33:24.662421285Z",
+  "model": "glm-5.3"
+}

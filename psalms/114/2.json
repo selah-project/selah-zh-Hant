@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 114,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "成為（第二處）",
+      "rationale": "希伯來文第二子句省略動詞，中文補出以成對句"
+    },
+    {
+      "kind": "crux",
+      "subject": "ממשלותיו",
+      "rationale": "複數「他的治權／國度」：一個詞，譯作單數「國度」或複數「他的統治」各有傳統"
+    }
+  ],
+  "translation": "猶大成為他的聖所，以色列成為他的國度。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9e8c1e1190f1f892769b99bb0256d222b1c2238d7b3acb74f40eaab74e7382fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/114\/1-4.1792144758560.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "成為"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "他的聖所"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "他的國度"
+    }
+  ],
+  "timestamp": "2026-10-16T09:59:18.561122028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לעפרה\/עפר",
+      "rationale": "地名「利亞弗拉」意即「塵土之家」，與「塵土」同根雙關：在塵土之家滾於塵土。"
+    },
+    {
+      "kind": "crux",
+      "subject": "התפלשתי",
+      "rationale": "動詞形式可讀作反身（「打滾自己」）或使役（「滾動你自己」）；部分譯本作「我打滾」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בכו\/תבכו",
+      "rationale": "「哭泣啊／不要哭泣」詞根重複，與「不要宣告」並列為三重禁令。"
+    }
+  ],
+  "translation": "在迦特不要宣告，不要哭泣；在伯利亞弗拉，要打滾於塵土之中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9ce02155f0e33ba268fedde2089f8bf098254b91ec642424832b75a8400d1fb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/micah\/1\/9-12.1792139938602.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "在迦特"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "宣告"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "哭泣"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "哭泣"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "在伯"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "利亞弗拉"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "塵土"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "打滾"
+    }
+  ],
+  "timestamp": "2026-10-16T08:38:58.603178478Z",
+  "model": "glm-5.3"
+}

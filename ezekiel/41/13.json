@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 41:13",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "一百肘",
+      "rationale": "聖殿尺寸清單：殿、隔離區、建築與牆皆長一百肘。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "隔離區",
+      "rationale": "הגזרה 字面為「被切割之物」，指分別出來的空地。"
+    }
+  ],
+  "translation": "他量了 ⟨את⟩ 那殿，長一百肘；那隔離區並那建築，連同它的牆，長一百肘。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e20a09c63aa45f132c38cd9c079756d4d65c4cf64208f626f96d1a0750ba6def",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/41\/13-16.1792139129079.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומדד",
+      "gloss": "他量了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那殿"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "那殿"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "長"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "一百"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "והגזרה",
+      "gloss": "並那隔離區"
+    },
+    {
+      "surface": "והבניה",
+      "gloss": "並那建築"
+    },
+    {
+      "surface": "וקירותיה",
+      "gloss": "連同它的牆"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "長"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "一百"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    }
+  ],
+  "timestamp": "2026-10-16T08:25:29.080454153Z",
+  "model": "glm-5.3"
+}

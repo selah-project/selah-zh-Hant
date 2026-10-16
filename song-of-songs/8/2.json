@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תְּלַמְּדֵנִי",
+      "rationale": "主詞不明：「你必教導我」（KJV、JPS）或「她（我母親）必教導我」（YLT）；本譯取後者"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עֲסִיס",
+      "rationale": "新榨的葡萄汁，此詞在塔納赫中僅數次出現"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רִמּוֹנִי",
+      "gloss": "",
+      "rationale": "「我的石榴」字面為單數所有格，譯作集合義「我石榴的汁」"
+    }
+  ],
+  "translation": "我必引導你，領你進我母親的家；她必教導我。我必使你喝香料的酒，和我石榴的甜汁。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/8\/1-4.1792146644662.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אַנְהָגֲךָ",
+      "gloss": "我必引導你"
+    },
+    {
+      "surface": "אֲבִיאֲךָ",
+      "gloss": "領你進"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "進入"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אִמִּי",
+      "gloss": "我母親的"
+    },
+    {
+      "surface": "תְּלַמְּדֵנִי",
+      "gloss": "她教導我"
+    },
+    {
+      "surface": "אַשְׁקְךָ",
+      "gloss": "我使你喝"
+    },
+    {
+      "surface": "מִיַּיִן",
+      "gloss": "酒的"
+    },
+    {
+      "surface": "הָרֶקַח",
+      "gloss": "香料"
+    },
+    {
+      "surface": "מֵעֲסִיס",
+      "gloss": "甜汁"
+    },
+    {
+      "surface": "רִמּוֹנִי",
+      "gloss": "我石榴的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:30:44.663467827Z",
+  "model": "glm-5.3"
+}

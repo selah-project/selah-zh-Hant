@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "一個〈人〉",
+      "rationale": "נפש 直譯是「有氣息的生命體」，此處指人，非「靈魂」。"
+    },
+    {
+      "kind": "crux",
+      "subject": "起誓的聲音",
+      "rationale": "קול אלה 或譯「叫人發誓的聲音」（聽見官方傳喚作證），或譯「聽見咒詛的誓言」。"
+    },
+    {
+      "kind": "elision",
+      "subject": "אלה",
+      "rationale": "受咒詛之意（誓中附帶的咒詛）在「起誓」一詞中淡出。"
+    }
+  ],
+  "translation": "若有一個〈人〉犯了罪，聽見了起誓的聲音，他是見證人——或曾看見，或曾知道——若不說出來，他就要擔當他的罪孽。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "73b542981217c30cb37207bdfa4217c6be4f5330c0d1e24b87987c8142263341",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/5\/1-4.1792126793350.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "一個〈人〉"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "犯了罪"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "聽見了"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲音"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "起誓（咒詛的誓言）"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "עד",
+      "gloss": "見證人"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "曾看見"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "曾知道"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "說出來"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "就要擔當"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "他的罪孽"
+    }
+  ],
+  "timestamp": "2026-10-16T04:59:53.351012971Z",
+  "model": "glm-5.3"
+}

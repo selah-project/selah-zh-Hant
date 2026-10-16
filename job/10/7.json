@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 10:7",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על דעתך",
+      "rationale": "或作「在你看來」（如 KJV）或「雖然你知道」（如 ASV、JPS）；直譯為「按著你的知識」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "拯救者",
+      "rationale": "מציל 是分詞「那拯救者」，中文以名詞化的「拯救者」保留其形"
+    }
+  ],
+  "translation": "其實你知道我並非邪惡，也沒有人能從你手中救出。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6b666e50d6e5b6572b005bbb1a968f6147846d232114fd153962d4a1ac8d498a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/10\/5-8.1792145965108.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "其實按著"
+    },
+    {
+      "surface": "דעתך",
+      "gloss": "你的知道"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "我邪惡"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "也沒有"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "從你的手"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "拯救者"
+    }
+  ],
+  "timestamp": "2026-10-16T10:19:25.109480853Z",
+  "model": "glm-5.3"
+}

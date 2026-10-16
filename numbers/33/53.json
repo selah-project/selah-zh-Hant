@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 33:53",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ישבי",
+      "rationale": "希伯來文動詞 והורשתט 隱含的受詞「居民」在原文中未寫出，各譯本自行補上"
+    },
+    {
+      "kind": "addition",
+      "subject": "你們",
+      "rationale": "中文代詞標明 וישבתם 的第二人稱複數詞尾"
+    }
+  ],
+  "translation": "你們要趕出〈那〉地的居民並住在其中，因為我已將 ⟨את⟩ 那地賜給你們為業，使你們取得它 ⟨אתה⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "271d51b1c5efc2127a38b76c7f0b3edbb651f21fa81fb0fa4bab7239afca6321",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/33\/53-56.1792128436915.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והורשתם",
+      "gloss": "你們要趕出（取得）"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "那地"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "你們要住在其中"
+    },
+    {
+      "surface": "בה",
+      "gloss": "在其中"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "給你們"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我已賜"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "那地"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "為業（去取得）"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "它（那地）"
+    }
+  ],
+  "timestamp": "2026-10-16T05:27:16.916223270Z",
+  "model": "glm-5.3"
+}

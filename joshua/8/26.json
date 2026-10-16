@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 8:26",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בכידון",
+      "rationale": "僅在此處作武器用（短矛／標槍）；各家譯本作 spear、javelin、lance，此處依詞形作「短矛」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "完全滅盡",
+      "rationale": "חרם 是「滅絕歸獻」的禁毀概念，非單純殺戮。"
+    },
+    {
+      "kind": "addition",
+      "subject": "艾城",
+      "rationale": "העי 帶冠詞，中文補出「城」以成自然讀法。"
+    }
+  ],
+  "translation": "約書亞沒有收回他伸向短矛的那隻手，直到他把艾城所有的居民完全滅盡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5249b61af1a2dee5146e9a4ed46e2fe4343ff27956035c7e8545288fb65ab7e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/8\/26-28.1792142460049.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "收回"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "他的手"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨那⟩"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "伸出"
+    },
+    {
+      "surface": "בכידון",
+      "gloss": "向短矛"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨那⟩"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "完全滅盡"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "艾城所有的居民"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "העי",
+      "gloss": "艾城"
+    }
+  ],
+  "timestamp": "2026-10-16T09:21:00.050559435Z",
+  "model": "glm-5.3"
+}

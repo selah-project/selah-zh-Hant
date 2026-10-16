@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 39:4",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בבר",
+      "rationale": "בר 或作「穀物」（KJV「with corn」）或「開闊田野」（ASV「open field」）"
+    },
+    {
+      "kind": "elision",
+      "subject": "למו",
+      "rationale": "語助詞「對牠們」，併入「回到母獸那裡」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "強壯起來",
+      "rationale": "חלם 字面「綁得結實」，引申為長得肥壯結實"
+    }
+  ],
+  "translation": "牠們的孩子強壯起來，在穀物中長大；牠們出去，不再回到母獸那裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a321f3634137e22c94c33122f0a5ecf85a123750f89956644234070a1d94b66a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/39\/1-4.1792146507439.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחלמו",
+      "gloss": "強壯起來"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "牠們的孩子"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "長大"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "在穀物中"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "出去"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不再"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "回到"
+    },
+    {
+      "surface": "למו",
+      "gloss": "到母獸那裡"
+    }
+  ],
+  "timestamp": "2026-10-16T10:28:27.440194133Z",
+  "model": "glm-5.3"
+}

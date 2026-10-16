@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 27:8",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נודדת／נודד",
+      "rationale": "同字根「流離」在鳥與人兩句中重複，比喻的兩半用同一動詞緊扣"
+    },
+    {
+      "kind": "addition",
+      "subject": "自己的",
+      "rationale": "ממקומו的代詞詞尾「他的地方」以「自己的地方」譯出"
+    }
+  ],
+  "translation": "如雀鳥離巢流離，人也照樣離開自己的地方流離。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ecf70c51ac4394523a4be221211784d1789f6bf649666812e138ca37d67919a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/27\/5-8.1792145656345.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "如雀鳥"
+    },
+    {
+      "surface": "נודדת",
+      "gloss": "流離"
+    },
+    {
+      "surface": "מן",
+      "gloss": "離"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "巢"
+    },
+    {
+      "surface": "כן",
+      "gloss": "照樣"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "נודד",
+      "gloss": "流離"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "離開自己的地方"
+    }
+  ],
+  "timestamp": "2026-10-16T10:14:16.346535369Z",
+  "model": "glm-5.3"
+}

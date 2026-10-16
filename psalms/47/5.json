@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "גאון",
+      "rationale": "字面是「高傲、昂揚」，諸譯本作「榮美、威嚴」，此處取「榮耀」"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "音樂記號，音譯「細拉」"
+    }
+  ],
+  "translation": "他為我們揀選 ⟨את⟩ 我們的產業，⟨את⟩ 他所愛的雅各之榮耀。細拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d85656acc6dcb427d1a999a114b159e188cebb46a2153fd77c0ea58dbb988aed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/47\/5-8.1792143842060.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "揀選"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "為我們"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我們的產業"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "我們的產業"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅各之榮耀"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "榮耀"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "愛"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-10-16T09:44:02.060734866Z",
+  "model": "glm-5.3"
+}

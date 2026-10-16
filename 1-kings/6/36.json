@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "中文需主語，指所羅門，希伯來文以動詞詞尾隱含。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "三層…一層",
+      "rationale": "內院牆體以層數與材料記述，屬殿的量度記述。"
+    }
+  ],
+  "translation": "他又建造了⟨את⟩內院：三層琢成的石頭，和一層修切的香柏木梁。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b25c9ed274b22d760f116411b721134b066bfbefbe0b0a52ebc6cb48fd133eb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/6\/33-36.1792132645223.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "他又建造了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "內院"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "院"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "內"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三層"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "層列"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "琢成的石頭"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "和一層"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "修切的"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "香柏木"
+    }
+  ],
+  "timestamp": "2026-10-16T06:37:25.225478561Z",
+  "model": "glm-5.3"
+}

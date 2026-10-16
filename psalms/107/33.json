@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "希伯來文動詞無主語；從上文可知指雅威，中文補出主語"
+    }
+  ],
+  "translation": "他使江河變為曠野，使水泉變為乾渴之地，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d0c73c4f1f9925a3e7cca95fcea039311e58fb63474b7041fe49065e361f4a26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/107\/33-36.1792144666317.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "他使……變為"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "江河"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "為曠野"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "使水泉"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "為乾渴之地"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:46.317694111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 41:16",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "下磨石",
+      "rationale": "כפלח תחתית 字面為「下面的一片（磨石）」，即磨盤的下石，中文以「下磨石」達意"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יצוק\/ויצוק",
+      "rationale": "同一動詞「澆鑄」在本節與上節三次出現，鑄造意象貫穿鱗片與心臟"
+    }
+  ],
+  "translation": "他的心澆鑄如石頭，又如下磨石般堅硬。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c30f1dea12210883d408ee492ac8a002a524d8612a35025de15d1a8ec7781d95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/41\/13-16.1792146534403.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבו",
+      "gloss": "他的心"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "澆鑄"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "如"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "ויצוק",
+      "gloss": "又澆鑄"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "如磨石片"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "下面的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:28:54.404348794Z",
+  "model": "glm-5.3"
+}

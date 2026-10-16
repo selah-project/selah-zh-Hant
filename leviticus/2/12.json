@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "至於",
+      "rationale": "本節承接上節的例外條款，中文加「至於」表轉折，希伯來文無此詞。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "安息的香氣",
+      "rationale": "נִיחֹחַ 本義「舒息」，與第9節同一詞，統一譯法。"
+    }
+  ],
+  "translation": "至於初熟之物的供物，你們可以把 ⟨את⟩ 它們獻給雅威，只是它們不可上到祭壇，作安息的香氣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "144bcf371a4a9b6f0310814f2135b7f2aa7b5a2eec824b06de461ab233121cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/2\/9-12.1792126628651.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "供物"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "初熟之物"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "你們獻上"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "它們"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "給雅威"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "只是不可到"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "上去"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "作香氣"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "安息的"
+    }
+  ],
+  "timestamp": "2026-10-16T04:57:08.652973419Z",
+  "model": "glm-5.3"
+}

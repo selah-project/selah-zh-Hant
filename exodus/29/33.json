@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מלא את ידם",
+      "rationale": "「充滿手」是授聖職的慣用語，直譯保留畫面，不化作「按立」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "外人",
+      "rationale": "זר 指外人、未受聖職者，非必「陌生人」"
+    }
+  ],
+  "translation": "他們要吃⟨את⟩那些用以贖罪之物，為要充滿⟨את⟩他們的手，好使他們分別為聖⟨את⟩；外人不可吃，因為這些是聖物。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7ee97fc3ff2fede9f3c2a254554e5bc1718f405486bdb5e6264fc284fc2df85c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/29\/33-36.1792126359909.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "他們要吃"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "那些用以贖罪之物"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "贖罪"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "用它们"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "為要充滿"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的手"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "他們的手"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "好使……分別為聖"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "他們"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "外人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "吃"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖物"
+    },
+    {
+      "surface": "הם",
+      "gloss": "這些是"
+    }
+  ],
+  "timestamp": "2026-10-16T04:52:39.910308413Z",
+  "model": "glm-5.3"
+}

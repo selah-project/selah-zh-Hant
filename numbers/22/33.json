@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 22:33",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רגלים",
+      "rationale": "「腳」用作次數的委婉語，譯作「次」，原文以身體部位計次"
+    },
+    {
+      "kind": "crux",
+      "subject": "רגלים",
+      "rationale": "本段以「腳」雙關：既指驢的腳，也指「三次」（22:28, 32 同詞），中文難以並存"
+    },
+    {
+      "kind": "addition",
+      "subject": "早已",
+      "rationale": "希伯來文未完成時態表反事实，中文加時間詞以顯假設語氣"
+    }
+  ],
+  "translation": "母驢看見我，就從我面前轉開這三次；若非牠從我面前轉開，我如今早已把⟨אתכה⟩你也殺了，而把⟨אותה⟩牠留活了。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "15965948fcfaa2efa1f43ee695c0edecc771c1ebe5ef4019b6f991216b771c12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/22\/33-36.1792128097062.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותראני",
+      "gloss": "看見我"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "母驢"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "就轉開"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "從我面前"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "次"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "若非"
+    },
+    {
+      "surface": "נטתה",
+      "gloss": "轉開"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "從我面前"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨那麼⟩"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "如今"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "אתכה",
+      "gloss": "⟨את⟩",
+      "marks": "你"
+    },
+    {
+      "surface": "הרגתי",
+      "gloss": "早已殺了"
+    },
+    {
+      "surface": "ואותה",
+      "gloss": "⟨את⟩",
+      "marks": "牠"
+    },
+    {
+      "surface": "החייתי",
+      "gloss": "留活了"
+    }
+  ],
+  "timestamp": "2026-10-16T05:21:37.062908828Z",
+  "model": "glm-5.3"
+}

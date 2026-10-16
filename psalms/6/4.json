@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 本義為喉嚨、氣息、生命之力，非不朽的「靈魂」"
+    },
+    {
+      "kind": "elision",
+      "subject": "ואת יהוה",
+      "rationale": "此 ואת 為「而你」（代詞），非受詞記號 ⟨את⟩；中文以「而你」存之"
+    },
+    {
+      "kind": "idiom",
+      "subject": "עד מתי",
+      "rationale": "「直到幾時」為希伯來慣用語，中文補「你要等到」以成句"
+    },
+    {
+      "kind": "you",
+      "subject": "雅威",
+      "rationale": "詩人直接向雅威發問"
+    }
+  ],
+  "translation": "我的性命也極其驚惶。雅威啊，⟨你要等到⟩幾時呢？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1b690070f9342e1d7bdab9fc03f80095099b7ceeb465f28f2f125e8e4beb77e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/6\/1-4.1792143229553.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "我的性命也"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極其"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "而你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "幾時"
+    }
+  ],
+  "timestamp": "2026-10-16T09:33:49.555129885Z",
+  "model": "glm-5.3"
+}

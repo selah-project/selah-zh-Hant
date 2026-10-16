@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 17:19",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לב",
+      "gloss": "心",
+      "rationale": "לב 是希伯來文的中心器官，涵蓋意志、思想、內裡，比中文「心」更廣。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הגדולה／הגדלות",
+      "rationale": "同一詞根「大」的兩個形態在同一節內重複，修辭上互相呼應。"
+    },
+    {
+      "kind": "you",
+      "subject": "to YHWH",
+      "rationale": "大衛直接向雅威的禱告續篇。"
+    }
+  ],
+  "translation": "雅威啊，為你僕人的緣故，又照你的心，你行了 ⟨את⟩ 這一切的大事，要使人知道 ⟨את⟩ 一切偉大的作為。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4995ccb8f4d0895b108c95f5ffe7fb04df01a265ec69a65f4bbe661eca6a2c6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/17\/17-20.1792148875874.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "為…的緣故"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你僕人"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "又照你的心"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "你行了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這一切的大事"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切的"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "大事"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "להדיע",
+      "gloss": "要使人知道"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切偉大的作為"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切的"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "偉大的作為"
+    }
+  ],
+  "timestamp": "2026-10-16T11:07:55.875284598Z",
+  "model": "glm-5.3"
+}

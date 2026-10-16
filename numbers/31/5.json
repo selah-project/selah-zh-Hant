@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 31:5",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "共",
+      "rationale": "「一萬二千人」為總數，中文加「共」以明其為合計"
+    },
+    {
+      "kind": "measurement",
+      "subject": "一萬二千",
+      "rationale": "本節為點算兵員數目：每支派一千，十二支派共一萬二千"
+    }
+  ],
+  "translation": "於是以色列的千支中，每支派交出一千人，共一萬二千人，都是裝備出征的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fb41bd6be292e6fa64d8bf030d7b3e4512f2729431bb1e2288a54d3f1fe39442",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/31\/5-8.1792128351724.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימסרו",
+      "gloss": "交出"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "從……的千支"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "一千人"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "每支派"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "裝備出征的"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "軍隊"
+    }
+  ],
+  "timestamp": "2026-10-16T05:25:51.725023522Z",
+  "model": "glm-5.3"
+}

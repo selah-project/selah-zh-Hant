@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 6:13",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "語氣",
+      "rationale": "希伯來文的兩個疑問句可讀為反問（『我豈無幫助嗎』，如 KJV）或承認（『我裡面確實沒有幫助』，如 JPS、和修）；本譯保留反問語氣。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תושיה",
+      "rationale": "תושיה 是『有效的智慧、成功的能力』，非泛指智慧（חכמה）；譯作『才智』以存其實幹之義。"
+    }
+  ],
+  "translation": "我的幫助豈不在於我裡面嗎？才智豈不已被驅逐、離開了我嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7665eb970d936697d2efdc8f58bccb52f03f1e3817489fc99181d93b2a7e3284",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/6\/13-16.1792145910520.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האם",
+      "gloss": "豈"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "我的幫助"
+    },
+    {
+      "surface": "בי",
+      "gloss": "在我裡面"
+    },
+    {
+      "surface": "ותשיה",
+      "gloss": "而才智"
+    },
+    {
+      "surface": "נדחה",
+      "gloss": "被驅逐"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "離開我"
+    }
+  ],
+  "timestamp": "2026-10-16T10:18:30.521130805Z",
+  "model": "glm-5.3"
+}

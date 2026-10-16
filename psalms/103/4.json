@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "坑穴",
+      "rationale": "שחת 是毀滅之坑／陷坑，非抽象的「毀滅」"
+    },
+    {
+      "kind": "crux",
+      "subject": "為你加冠",
+      "rationale": "עטר 可作「加冠」或「環繞」，此處取加冠意象"
+    }
+  ],
+  "translation": "他救贖你的性命脫離坑穴，以慈愛和憐憫為你加冠。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/103\/1-4.1792144580919.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגואאל",
+      "gloss": "他救贖"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "脫離坑穴"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "你的性命"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "為你加冠"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "慈愛"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "和憐憫"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:20.920369591Z",
+  "model": "glm-5.3"
+}

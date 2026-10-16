@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 7:5",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שקף",
+      "rationale": "此窗格之詞在塔納赫中僅見於此處（及7:4之同根），意為透光透氣的窗格。"
+    },
+    {
+      "kind": "crux",
+      "subject": "שקף",
+      "rationale": "諸譯本或作「梁」（KJV）、或作「方框」（BSB）；本譯取「格窗」，保留其透光之原義。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחזה אל מחזה",
+      "rationale": "「窗對窗」重複結構與7:4「光對光」呼應，中文保留其對偶。"
+    }
+  ],
+  "translation": "所有的門口和門框都是四方形帶格窗的，窗與窗相對，共三層。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "80774aa0fc9c3e3325445f167fc38a2066a4e349aecdf7eb791a0d16eb22e95e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/7\/5-8.1792132671058.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "הפתחים",
+      "gloss": "門口"
+    },
+    {
+      "surface": "והמזוזות",
+      "gloss": "和門框"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "四方形"
+    },
+    {
+      "surface": "שקף",
+      "gloss": "格窗"
+    },
+    {
+      "surface": "ומול",
+      "gloss": "與……相對"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "窗"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對著"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "窗"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "層（次）"
+    }
+  ],
+  "timestamp": "2026-10-16T06:37:51.059434051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתנו",
+      "rationale": "אִתָּנוּ 是介詞「與我們同在」（H854），不是受詞記號 H853，故不加 ⟨את⟩ 標記"
+    },
+    {
+      "kind": "mystery",
+      "subject": "עד מה",
+      "rationale": "「到幾時」——被擄之民無人知曉的期限，經文刻意懸而未答"
+    },
+    {
+      "kind": "elision",
+      "subject": "的人",
+      "rationale": "中文需要名詞框架承接「知道」，希伯來只有分詞 ידע"
+    }
+  ],
+  "translation": "我們的記號，我們看不見了；不再有先知，我們中間也沒有知道到幾時的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d0b0e81afd83bea474f49218cf95856acef3d10f706cd01b96a3c959eafea057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/74\/9-12.1792144228150.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "我們的記號"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "我們看見了"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "先知"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也沒有"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ 與我們"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知道的"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "מה",
+      "gloss": "幾時"
+    }
+  ],
+  "timestamp": "2026-10-16T09:50:28.151017993Z",
+  "model": "glm-5.3"
+}

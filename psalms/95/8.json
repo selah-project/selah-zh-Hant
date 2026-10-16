@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מריבה\/מסה",
+      "rationale": "兩地名即「爭鬧」與「試探」（出17:7），雙關地名警告，音譯保留名字、雙關義失落"
+    },
+    {
+      "kind": "you",
+      "subject": "向會眾",
+      "rationale": "否定命令式直接呼籲聽者不可硬心"
+    }
+  ],
+  "translation": "你們不可硬著你們的心，像在米利巴，像曠野中瑪撒的日子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7e4e8c696a23aa8bfda026475d7bda369010b4169091b2759a77fb307b10f30f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/95\/5-8.1792144539829.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "硬著"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "你們的心"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "像在米利巴"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "像……的日子"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "瑪撒"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "在曠野"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:39.830990678Z",
+  "model": "glm-5.3"
+}

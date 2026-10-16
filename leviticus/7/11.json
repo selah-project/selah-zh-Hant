@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תורת",
+      "rationale": "此處תורה指「條例／訓誨」，屬同一詞元的禮儀用法，與「律法」的籠統譯法有別"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文補「是」以成句"
+    }
+  ],
+  "translation": "這是平安祭的妥拉〈條例〉，就是他要獻給雅威的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1c888b16fb5f9b15e3400a15ea227cb6b25dfdb10ea37e1574d880a7a417d87d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/7\/9-12.1792126715067.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "這是"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "妥拉〈條例〉"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "祭物"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "平安祭的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "他要獻"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "給雅威"
+    }
+  ],
+  "timestamp": "2026-10-16T04:58:35.068876766Z",
+  "model": "glm-5.3"
+}

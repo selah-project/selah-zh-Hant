@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 19:6",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 是氣息、生命整體，非不朽的「靈魂」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפש×5",
+      "rationale": "五次「性命」排比遞進，中文保留同詞重複"
+    },
+    {
+      "kind": "you",
+      "subject": "to the king",
+      "rationale": "約押對大衛王的直斥"
+    }
+  ],
+  "translation": "於是約押進到王⟨的⟩屋裡，說：「你今天羞辱了 ⟨את⟩ 你眾僕人的臉——他們今天救了 ⟨את⟩ 你的性命，以及 ⟨את⟩ 你兒子們和女兒們的性命、你妻子們的性命和你妃嬪們的性命。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2833f676bee4b3aabb94c57ca4ca3288575400bc6b5d040637883b9028a34be3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/19\/5-8.1792132322896.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "於是進到"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "屋裡"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "הבשת",
+      "gloss": "你羞辱了"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今天"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你眾僕人的臉"
+    },
+    {
+      "surface": "פני",
+      "gloss": "臉"
+    },
+    {
+      "surface": "כל",
+      "gloss": "眾"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "你的僕人"
+    },
+    {
+      "surface": "הממלטים",
+      "gloss": "救了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的性命"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "你的性命"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今天"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "以及⟨את⟩",
+      "marks": "你兒子們和女兒們的性命"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "你的兒子們"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "和你的女兒們"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "和性命"
+    },
+    {
+      "surface": "נשיך",
+      "gloss": "你的妻子們"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "和性命"
+    },
+    {
+      "surface": "פלגשיך",
+      "gloss": "你的妃嬪們"
+    }
+  ],
+  "timestamp": "2026-10-16T06:32:02.898097044Z",
+  "model": "glm-5.3"
+}

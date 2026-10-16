@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש原義是氣息、生命體，此處指大衛的生命，非不朽的靈魂"
+    },
+    {
+      "kind": "idiom",
+      "subject": "雅威永活",
+      "rationale": "起誓套語「חי יהוה」（雅威活著），以神的活著擔保誓言"
+    }
+  ],
+  "translation": "王就起誓說：「雅威永活，他曾救贖了 ⟨את⟩ 我的性命脫離一切患難。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b585ae4433d9ea7473aa7b783bf37342077aca4b20b52b5dd5cf55826aa497a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/1\/29-32.1792132502099.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "起誓"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "חי",
+      "gloss": "永活"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "他"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "救贖"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的性命"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "脫離一切"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "患難"
+    }
+  ],
+  "timestamp": "2026-10-16T06:35:02.100628676Z",
+  "model": "glm-5.3"
+}

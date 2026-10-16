@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וירא",
+      "rationale": "「他看見」或依古讀音「他懼怕」；武加大等取懼怕義，字面是看見。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אל נפשו",
+      "rationale": "直譯「向他的性命而去」，逃命之希伯來成語。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "僕人",
+      "rationale": "נערו 直譯「他的少年人／年輕隨從」。"
+    }
+  ],
+  "translation": "他看見了，就起來，為自己的性命而去，來到屬猶大的別是巴，把 ⟨את⟩ 他的僕人留在了那裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ff60ce540c7eec4ff51cfc1258ed4c277a45583ce185b8a96852ffcc5426aac5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/19\/1-4.1792133372097.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "看見了"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "就起來"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "而去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "為"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "自己的性命"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "באר",
+      "gloss": "別"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "是巴"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "屬"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "把……留下了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的僕人"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "他的僕人"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那裡"
+    }
+  ],
+  "timestamp": "2026-10-16T06:49:32.098616209Z",
+  "model": "glm-5.3"
+}

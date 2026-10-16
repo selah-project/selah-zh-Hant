@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫詞，中文補出判斷詞"
+    }
+  ],
+  "translation": "我是雅威，你們的聖者，以色列的創造者，你們的王。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a025a3c1177220ce017b475ab165d8d4b78e00be61537f3e97ad32d620f83671",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/43\/13-16.1792135424467.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "是雅威"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "你們的聖者"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "創造者"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列的"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "你們的王"
+    }
+  ],
+  "timestamp": "2026-10-16T07:23:44.468836372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "高及",
+      "rationale": "希伯來文僅作『你的慈愛在諸天』，中文補動詞以成句"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "雲霄\/שחקים",
+      "rationale": "שחק本義為『磨碎的細粉、薄霧』，引申為天空，中文取『雲霄』存其畫面"
+    }
+  ],
+  "translation": "雅威啊，你的慈愛⟨高及⟩諸天，你的信實⟨達到⟩雲霄。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3974f2fe32fd51618047ae2396e57696fcce2851acb852e3956037b9ac203b8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/36\/5-8.1792143634950.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "你的慈愛"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "你的信實"
+    },
+    {
+      "surface": "עד",
+      "gloss": "達到"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "雲霄"
+    }
+  ],
+  "timestamp": "2026-10-16T09:40:34.950972362Z",
+  "model": "glm-5.3"
+}

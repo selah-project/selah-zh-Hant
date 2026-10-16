@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 2:28",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "「了我」「了」",
+      "rationale": "中文完成貌助詞「了」為動詞體貌所需，希伯來文動詞形式本身無此對應。"
+    },
+    {
+      "kind": "elision",
+      "subject": "לעלות 字面「上去」",
+      "rationale": "獻祭動詞字面是「上到祭壇」，中文以「獻祭」呈現，上升意象流失。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "להקטיר קטרת",
+      "rationale": "動詞與名詞同根（燒香—香），中文以「燒香—香」保留同根重疊。"
+    }
+  ],
+  "translation": "我從以色列眾支派中揀選了他 ⟨אתו⟩ 歸我作祭司，在我的祭壇上獻祭，燒香，在我面前佩戴以弗得；我又將以色列人一切的火祭賜給了你父家 ⟨את⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4715785d3e8b4e896664cbf2250500a2dc7aff8f309b11bc1824431f7d31d106",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/2\/25-28.1792130811540.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובחר",
+      "gloss": "揀選了"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "他（以色列眾支派中被揀選的那位）"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "從…一切"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "眾支派"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לי",
+      "gloss": "歸我"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "作祭司"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "獻祭"
+    },
+    {
+      "surface": "על",
+      "gloss": "在…上"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "我的祭壇"
+    },
+    {
+      "surface": "להקטיר",
+      "gloss": "燒香"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "香"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "佩戴"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "以弗得"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在…面前"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "我又賜給了"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "…的家"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你的父"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列人一切的火祭"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשי",
+      "gloss": "火祭"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T06:06:51.542116368Z",
+  "model": "glm-5.3"
+}

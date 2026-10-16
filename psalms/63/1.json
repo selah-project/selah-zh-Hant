@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "在他……的時候",
+      "rationale": "中文需補出時間結構詞以承接בהיותו"
+    },
+    {
+      "kind": "measurement",
+      "subject": "詩篇標題",
+      "rationale": "本節全為標題，記作曲背景"
+    }
+  ],
+  "translation": "大衛的詩篇，在他身在猶大曠野的時候。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/63\/1-4.1792144070622.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "詩篇"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "在他……的時候"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "在曠野"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    }
+  ],
+  "timestamp": "2026-10-16T09:47:50.623635608Z",
+  "model": "glm-5.3"
+}

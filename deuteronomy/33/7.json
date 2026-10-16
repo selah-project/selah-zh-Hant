@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 33:7",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to 雅威",
+      "rationale": "本節是向雅威發出的祈求（求祢垂聽……），是對神說話，不是對猶大"
+    },
+    {
+      "kind": "crux",
+      "subject": "ידיו רב לו",
+      "rationale": "字面「他的手為他豐盛／寬綽」：KJV「願他的手夠他用」；YLT「他的手為他爭戰」（讀ריב）；中文取爭戰之意的根據是同根讀法"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מצריו",
+      "rationale": "字面「他的狹窄處」，指困境中的敵人；譯為「敵人」"
+    }
+  ],
+  "translation": "這是給猶大的話：他說：雅威啊，求祢垂聽猶大的聲音，把他帶到他的民那裡；願他的手為他爭戰，願祢作他抵擋敵人的幫助。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6e9d28d9e2b9df79ba496eda83cb10d21e792facdb001352efc1f5328b2411c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/33\/5-8.1792129342303.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "這是"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "給猶大的"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "求祢垂聽"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲音"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "到"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "他的民那裡"
+    },
+    {
+      "surface": "תביאנו",
+      "gloss": "把祢帶他"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "他的手"
+    },
+    {
+      "surface": "רב",
+      "gloss": "爭戰"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為他"
+    },
+    {
+      "surface": "ועזר",
+      "gloss": "幫助"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "抵擋敵人"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "願祢作"
+    }
+  ],
+  "timestamp": "2026-10-16T05:42:22.304721044Z",
+  "model": "glm-5.3"
+}

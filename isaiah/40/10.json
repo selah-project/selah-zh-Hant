@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "必",
+      "rationale": "中文時態助詞，希伯來文未標明未來式"
+    },
+    {
+      "kind": "crux",
+      "subject": "בחזק",
+      "rationale": "「以大能來到」（和合本）與「如同勇士來到」（ASV／JPS，視 בחזק 為隱喻名詞）之別"
+    }
+  ],
+  "translation": "看哪，阿多奈雅威必以大能來到，他的膀臂為他掌權；看哪，他的報酬與⟨אתו⟩同在，他的作為在他面前。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2b45e05ca91f290114752edbe6c4ea89335c575badc0098a7398ad28ad321a5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/40\/9-12.1792135419299.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "以大能"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "且他的膀臂"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "掌權"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為他"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "他的報酬"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "他的報酬"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "且他的作為"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "在他面前"
+    }
+  ],
+  "timestamp": "2026-10-16T07:23:39.299835640Z",
+  "model": "glm-5.3"
+}

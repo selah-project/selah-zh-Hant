@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "吞吃我的肉",
+      "rationale": "希伯來文以野獸吞噬為喻形容仇敵攻擊，中文保留直譯圖像"
+    },
+    {
+      "kind": "addition",
+      "subject": "攻擊我",
+      "rationale": "לי 僅為介詞短語「對我」，補動詞使其成句"
+    }
+  ],
+  "translation": "惡人臨近我、要吞吃 ⟨את⟩ 我的肉的時候——我的仇敵、我的敵人攻擊我——他們就絆跌仆倒了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9cfc6d4e5dc90945a0a5571075fff462d5c1b6f14d31fe82df068b28f2d63e5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/27\/1-4.1792143569876.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "臨近"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "我"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "要吞吃"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的肉"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "我的肉"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "我的仇敵"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "我的敵人"
+    },
+    {
+      "surface": "לי",
+      "gloss": "攻擊我"
+    },
+    {
+      "surface": "המה",
+      "gloss": "他們"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "就絆跌"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "僕倒了"
+    }
+  ],
+  "timestamp": "2026-10-16T09:39:29.877539683Z",
+  "model": "glm-5.3"
+}

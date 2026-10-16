@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "口",
+      "rationale": "פיה 字面「它的口」，指伊法的開口處"
+    },
+    {
+      "kind": "elision",
+      "subject": "אבן",
+      "rationale": "「石」在此指鉛製蓋片，非真石；譯為「片」以保形狀"
+    }
+  ],
+  "translation": "他說：「這是惡。」他就把她扔到伊法中間，又把那鉛片扔在她的口上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f30b90cea97e6cd839f3d93217996b6213405041827c6678df8d97a3d87852f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/zechariah\/5\/5-8.1792142984683.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "他說"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這是"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "惡"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "他就扔"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "她"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "中間"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "伊法"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "又扔"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那鉛片"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "片"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "鉛"
+    },
+    {
+      "surface": "אל",
+      "gloss": "在"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "它的口上"
+    }
+  ],
+  "timestamp": "2026-10-16T09:29:44.684412142Z",
+  "model": "glm-5.3"
+}

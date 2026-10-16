@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל תשחת",
+      "rationale": "流行歌曲的開頭字「不要毀壞」，作曲調名用；譯出其字面義並以引號標示"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨調⟩",
+      "rationale": "原文無「調」字，中文需要以表明這是曲調名"
+    }
+  ],
+  "translation": "給伶長，按「不要毀壞」⟨調⟩，亞薩的詩，一首歌。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b03b27197604dfb3d511b421df87fa378d82451e20f94e732280864af02e7751",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/75\/1-4.1792144243842.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "給伶長"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "毀壞"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "亞薩"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    }
+  ],
+  "timestamp": "2026-10-16T09:50:43.842439321Z",
+  "model": "glm-5.3"
+}

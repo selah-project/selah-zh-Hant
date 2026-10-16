@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 3:19",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "טף",
+      "rationale": "字面是「家庭幼小者」，集體稱孩兒、家眷，非單指「小孩」"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי parenthetical",
+      "rationale": "插語「我知道你們牲畜眾多」打斷主句，中文以破折號保留其結構"
+    }
+  ],
+  "translation": "惟有你們的妻子、你們的孩兒和你們的牲畜——我知道你們牲畜眾多——可以住在我所賜給你們的各城裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "78946dd3edb6ddbd0df0bf7ca1280f0f974279ff42daa50818f010bfaa51207b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/3\/17-20.1792128550610.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "惟有"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "你們的妻子"
+    },
+    {
+      "surface": "וטפכם",
+      "gloss": "和你們的孩兒"
+    },
+    {
+      "surface": "ומקנכם",
+      "gloss": "和你們的牲畜"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我知道"
+    },
+    {
+      "surface": "כי",
+      "gloss": "──"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "רב",
+      "gloss": "眾多"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "可以住在"
+    },
+    {
+      "surface": "בעריכם",
+      "gloss": "在你們的各城裡"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我賜"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "給你們"
+    }
+  ],
+  "timestamp": "2026-10-16T05:29:10.611751586Z",
+  "model": "glm-5.3"
+}

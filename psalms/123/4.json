@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 123,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "生命",
+      "rationale": "נפש是氣息、生命之力，非不朽的「靈魂」"
+    },
+    {
+      "kind": "hapax",
+      "subject": "לגאיונים",
+      "rationale": "גֵּאִים變體字形僅此處以此拼寫出現，意為狂傲者"
+    },
+    {
+      "kind": "addition",
+      "subject": "飽受",
+      "rationale": "希伯來文以רבת…שבעה לה的飽足意象表達，中文重複動詞以成句"
+    }
+  ],
+  "translation": "我們的生命〈飽受〉安逸者的譏誚太多，〈飽受〉狂傲人的輕蔑。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dc17681d7942feadc3e890e9ffe72e07bb398e28650735db0cccbc12a1873510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/123\/1-4.1792144938665.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "太多"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "飽受"
+    },
+    {
+      "surface": "לה",
+      "gloss": "過度地"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "我們的生命"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "安逸者的譏誚"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "安逸者"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "輕蔑"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "狂傲人的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:02:18.667654518Z",
+  "model": "glm-5.3"
+}

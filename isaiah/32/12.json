@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 32:12",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שדים／שדי",
+      "rationale": "「乳房」(שדים) 與「田地」(שדי) 同音相接，哀哭之聲本身的雙關，中文無法保留"
+    },
+    {
+      "kind": "substitution",
+      "subject": "捶胸哀悼",
+      "rationale": "ספד 字面是撕髮捶胸的東方式哀悼，中文以「捶胸哀悼」承其形"
+    },
+    {
+      "kind": "addition",
+      "subject": "他們必",
+      "rationale": "原文動詞無主語，中文需補出哀悼者"
+    }
+  ],
+  "translation": "〈他們必為〉乳房捶胸哀悼，為可羨慕的田地，為結果子的葡萄樹。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7c511c6a17fc7bd099fb8f980d19dbf99caba575bc91838a22dfe6706c83e9d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/32\/9-12.1792135090624.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "為"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "乳房"
+    },
+    {
+      "surface": "ספדים",
+      "gloss": "捶胸哀悼"
+    },
+    {
+      "surface": "על",
+      "gloss": "為"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "田地"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "可羨慕的"
+    },
+    {
+      "surface": "על",
+      "gloss": "為"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "葡萄樹"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "結果子的"
+    }
+  ],
+  "timestamp": "2026-10-16T07:18:10.625308749Z",
+  "model": "glm-5.3"
+}

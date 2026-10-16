@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 41:2",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "我",
+      "rationale": "לפני（在我面前）原文未寫人稱代名詞，中文補「我」指說話的雅威"
+    },
+    {
+      "kind": "you",
+      "subject": "對約伯",
+      "rationale": "雅威在旋風中對約伯說話， rhetorical 問句指向聽者"
+    }
+  ],
+  "translation": "沒有兇猛的人敢惹動他；這樣，誰能在我面前站立呢？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b60dfa97f656be58387d36eb96f2153ed47230698aeebacdaf78eba1c4fc1df1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/41\/1-4.1792146544803.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "兇猛的人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "敢"
+    },
+    {
+      "surface": "יעורנו",
+      "gloss": "惹動他"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "（強調）"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在…面前"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "站立"
+    }
+  ],
+  "timestamp": "2026-10-16T10:29:04.803647104Z",
+  "model": "glm-5.3"
+}

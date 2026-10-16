@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "數算流離、記在冊上",
+      "rationale": "本節以計數與登錄為意象——流浪被逐一數算，眼淚被記錄在冊。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נאד",
+      "rationale": "「皮袋」（盛液的皮革袋）一詞在塔納赫中僅此一見，或為南地讀音拼法。"
+    },
+    {
+      "kind": "crux",
+      "subject": "הלא",
+      "rationale": "「豈不」可作反問（都在你冊上）或期望句（願它們在你冊上）；諸譯本多取反問。"
+    }
+  ],
+  "translation": "我的流離，你都數算；你⟨把⟩我的眼淚裝在你的皮袋裡。這豈不都在你的冊上嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5ff76c2cb034a988f47868058ac67641d6da77698813e0a4ab6e6d8602138b8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/56\/9-12.1792143907006.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "我的流離"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "你都數算"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "裝"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "我的眼淚"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "在你的皮袋裡"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "豈不"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "在你的冊上"
+    }
+  ],
+  "timestamp": "2026-10-16T09:45:07.007039515Z",
+  "model": "glm-5.3"
+}

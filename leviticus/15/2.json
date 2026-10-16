@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 15:2",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אישׁ אישׁ",
+      "rationale": "字面「男人、男人」，重複以指「任何男人、每一個男人」，中文以「男人中的男人」保留重複。"
+    },
+    {
+      "kind": "invitation",
+      "subject": "דברו…ואמרתם",
+      "rationale": "命令語氣，對摩西、亞倫（進而對以色列全會眾）的吩咐。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "漏症",
+      "rationale": "זוב 字面是「流溢、自由流出（如水）」，指身體的排出物，中譯以「漏症」為固定詞形。"
+    },
+    {
+      "kind": "addition",
+      "subject": "因著",
+      "rationale": "זובו（他的漏症）以獨立所有格強調原因，中文需加「因著」連接。"
+    }
+  ],
+  "translation": "「你們要對以色列人說話，對他們說：男人中的男人，他的肉身若有漏症，因著他的漏症，他是不潔淨的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f7d8388bac6284fb4da5c44f4b5e5a5d5c612bb1133e19fbf128272f46f0c857",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/15\/1-4.1792127005270.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "你們要說話"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "你們要說"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "對他們"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男人"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "有"
+    },
+    {
+      "surface": "זב",
+      "gloss": "漏症"
+    },
+    {
+      "surface": "מבשרו",
+      "gloss": "從他的肉身"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "他的漏症"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "不潔淨"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    }
+  ],
+  "timestamp": "2026-10-16T05:03:25.272260323Z",
+  "model": "glm-5.3"
+}

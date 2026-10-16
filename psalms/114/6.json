@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 114,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "羊羔",
+      "rationale": "בני צאן 字面是「羊群之子」，譯作羊羔以合中文"
+    },
+    {
+      "kind": "you",
+      "subject": "對群山與岡陵",
+      "rationale": "延續上節，直接向山嶽發問的擬人修辭"
+    }
+  ],
+  "translation": "群山哪，你們跳躍如公羊；岡陵哪，如羊羔？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "94de7dada0975aece852f59cb693a0c1413570e1594ab4acc430d500999295e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/114\/5-8.1792144755827.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "群山哪"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "跳躍"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "如公羊"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "岡陵哪"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "如……之子"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊羔"
+    }
+  ],
+  "timestamp": "2026-10-16T09:59:15.828084729Z",
+  "model": "glm-5.3"
+}

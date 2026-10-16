@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "這",
+      "rationale": "中文語法需要把 מכל（一切）與 האלה（這些）合併為「這一切」以成句"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "直接命令以色列人守律例典章"
+    }
+  ],
+  "translation": "你們要謹守我的律例和我的典章，不可行這一切可憎的事，無論是本地人，還是在你們中間寄居的寄居者。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1f30885627880efecc6d26da538839fe4b0cc6b9f7cd9d281301bdb0fea4a8d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/18\/25-28.1792127030077.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "你們要謹守"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的律例"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "我的律例"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "我的典章"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "我的典章"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "行"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "這一切"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "可憎的事"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "本地人"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "還是寄居的"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "寄居者"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "在你們中間"
+    }
+  ],
+  "timestamp": "2026-10-16T05:03:50.077912148Z",
+  "model": "glm-5.3"
+}

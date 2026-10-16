@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יוצאת",
+      "rationale": "「出去的事」：或指被擄流亡，或指疫情外出（出埃及記的用語），或指城破逃亡；此處取「外患」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "外患",
+      "rationale": "יוֹצֵאת 字面為「出去（的女子／事）」，中文以抽象詞代替其分詞形態"
+    },
+    {
+      "kind": "crux",
+      "subject": "מסובלים",
+      "rationale": "或作「負重」（馱物），或如七十士譯本讀作「健壯」"
+    }
+  ],
+  "translation": "我們的牛馱載豐重；沒有破口，沒有外患，我們的廣場上也沒有哀聲。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "03ec3eb36db4f12f8b8d9b5531d39acebaed495ef25298a17ffb668739be92ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/144\/13-15.1792145057921.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "我們的牛"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "馱載豐重"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "破口"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "外患"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "哀聲"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "在我們的廣場上"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:17.922353562Z",
+  "model": "glm-5.3"
+}

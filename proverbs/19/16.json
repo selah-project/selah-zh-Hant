@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמר…שמר",
+      "rationale": "同字重複（守誡命＝守性命），中文保留「謹守／保守」的呼應"
+    },
+    {
+      "kind": "crux",
+      "subject": "דרכיו",
+      "rationale": "「他的道路」指誰：行為者自己的路（輕看己路）或雅威的路（KJV 大寫 His ways）；本譯取前者"
+    }
+  ],
+  "translation": "謹守誡命的，保守 ⟨את⟩ 自己的性命；輕看自己道路的，必死亡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4db57d3e7984a0cd60fd6edf2d7f04c1d323a7bd066f653ba32aac9a5bab8464",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/19\/13-16.1792145516496.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "謹守"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "誡命的"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "保守"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "自己的性命"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "輕看"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "自己道路的"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "必死亡"
+    }
+  ],
+  "timestamp": "2026-10-16T10:11:56.497091583Z",
+  "model": "glm-5.3"
+}

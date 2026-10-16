@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפרצו",
+      "rationale": "פרץ 可作「繁衍增多」（如創30:30）或「破裂」；多數譯本取「不得增多」。"
+    },
+    {
+      "kind": "crux",
+      "subject": "לשמר",
+      "rationale": "不定詞獨立用法：或作「離棄雅威而去遵守（別的）」，或如傳統「不再謹守雅威」。"
+    }
+  ],
+  "translation": "他們吃了卻不得飽足；行了淫亂卻不得繁增；因為他們離棄了 ⟨את⟩ 雅威，不去謹守。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "61fd4fa7e45da5a249ce1a742f6a4b5f09e252b4f90ba37b927373d011f5b48a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/4\/9-12.1792139340577.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "他們吃了"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "卻不"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "得飽足"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "行了淫亂"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "卻不"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "得繁增"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "他們離棄了"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "不去謹守"
+    }
+  ],
+  "timestamp": "2026-10-16T08:29:00.578339248Z",
+  "model": "glm-5.3"
+}

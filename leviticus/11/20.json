@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שרץ העוף",
+      "rationale": "「飛行的爬行之物」指有翅昆蟲；KJV作「一切爬行的飛鳥」，JPS作「有翅的群飛之物」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ארבע",
+      "rationale": "直譯「四」；中文加「足」以成自然表達，不加括註因其為על ארבע成語的一部分。"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "לכם「對你們」直接指向以色列會眾的飲食條例。"
+    }
+  ],
+  "translation": "凡用四足行走的飛行爬物，對你們都是可憎的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4adbb0eca54bd254fe6c40c14044bbb8dcc24df06e1ba126b8139e8383848e82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/11\/17-20.1792126868298.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "爬物"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "飛行的"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "行走的"
+    },
+    {
+      "surface": "על",
+      "gloss": "用"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四足"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "可憎的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "都"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "對你們"
+    }
+  ],
+  "timestamp": "2026-10-16T05:01:08.299961884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "摩西、亞倫、撒母耳",
+      "rationale": "三名代求者的名單列舉"
+    },
+    {
+      "kind": "crux",
+      "subject": "קראים 時態",
+      "rationale": "分詞「他們（不斷）呼求」（ylt）與過去式「他們曾呼求」（KJV\/JPS）之別；取持續義之分詞"
+    }
+  ],
+  "translation": "摩西和亞倫在他眾祭司之中，撒母耳在呼求他名的人之中；他們呼求雅威，他就應允他們。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9c29dcd4b95be0f2df3d95f849a38c88835405d3fc8b3bf7d39bf94943a5617a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/99\/5-8.1792144560269.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "和亞倫"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "在他眾祭司之中"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "和撒母耳"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "在呼求的人之中"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "他名"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "他們呼求"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "他就"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "應允他們"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:00.269785756Z",
+  "model": "glm-5.3"
+}

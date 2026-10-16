@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 39:18",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "牲畜清單",
+      "rationale": "ראשית 清單是喻指被殺的軍隊（如BSB），還是宴席菜單（如KJV），譯者意見分歧；此處保留喻指式連接「他們如」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כרים",
+      "rationale": "כר 字面指肥壯的公羊，譯作「羊羔」依通行理解"
+    }
+  ],
+  "translation": "你們必吃勇士的肉，喝地上首領的血——他們如公綿羊、羊羔、公山羊、公牛，都是巴珊的肥畜。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "06e1c580b4b101f6444ec7845d786cd8c6aeb973e70453ebd39bafc88145ba0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/39\/17-20.1792139060075.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "勇士的"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "你們必吃"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "血"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "首領的"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "你們必喝"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "公綿羊"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "羊羔"
+    },
+    {
+      "surface": "ועתודים",
+      "gloss": "公山羊"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "公牛"
+    },
+    {
+      "surface": "מריאי",
+      "gloss": "肥畜"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "巴珊的"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "他們都是"
+    }
+  ],
+  "timestamp": "2026-10-16T08:24:20.076230117Z",
+  "model": "glm-5.3"
+}

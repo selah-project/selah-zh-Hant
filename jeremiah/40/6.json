@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 40:6",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "那裡",
+      "rationale": "中文需補方位詞以通順，希伯來文無"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "介詞性的את（與他同住），以⟨אתו⟩記號保留"
+    }
+  ],
+  "translation": "於是耶利米來到米斯巴的基大利——亞希甘的兒子——那裡，住在那地剩餘的民中，與⟨אתו⟩他同住。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9b197ef13e551377e7d069c568ccc5c7ba8ccb0e4fcd08c87ed84463df0a8a09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/40\/6-8.1792142593342.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "於是…來到"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "耶利米"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "גדליה",
+      "gloss": "基大利"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "亞希甘"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "米斯巴"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "住"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "他"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "在…中"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "剩餘的"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在那地"
+    }
+  ],
+  "timestamp": "2026-10-16T09:23:13.343295987Z",
+  "model": "glm-5.3"
+}

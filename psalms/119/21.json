@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 119:21",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ארורים",
+      "rationale": "「受咒詛的」可修飾狂傲人（作定語），或作獨立宣告「他們是可咒詛的」；譯法各異。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "斥責",
+      "rationale": "גער是神的斥責、威嚇之語，帶權柄的責備，非尋常責罵。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זדים\/השגים",
+      "rationale": "狂傲與迷失並列：驕傲即偏離誡命的根源，希伯來語的因果緊密相連。"
+    }
+  ],
+  "translation": "你斥責了那些受咒詛的狂傲人，他們偏離了你的誡命。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "11871cdc9e699b814fcbc08edbcce91960f48c1032e665dfded39717e628f884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/21-24.1792144857793.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "你斥責了"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "狂傲人"
+    },
+    {
+      "surface": "ארורים",
+      "gloss": "受咒詛的"
+    },
+    {
+      "surface": "השגים",
+      "gloss": "偏離了"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "你的誡命"
+    }
+  ],
+  "timestamp": "2026-10-16T10:00:57.794493024Z",
+  "model": "glm-5.3"
+}

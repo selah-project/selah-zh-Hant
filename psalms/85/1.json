@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "標題",
+      "rationale": "供詞的標題，非經文本體；ל 前置詞以「〈之歌〉〈所作〉」標出所補之關係"
+    }
+  ],
+  "translation": "指揮者〈之歌〉，可拉子孫〈所作〉，一篇詩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1e6098456f56aa772431d8326426dd6f9857ea0170fbf1535b9d07ec09f0e33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/85\/1-4.1792144371521.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "指揮者〈之歌〉"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "〈所作〉子孫"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "可拉"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "一篇詩"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:51.522198772Z",
+  "model": "glm-5.3"
+}

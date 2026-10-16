@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 24:11",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "使駱駝跪下",
+      "rationale": "ויברך 字面是「使跪下」（同「祝福」一詞根），指卸下駱駝負載使其臥跪"
+    },
+    {
+      "kind": "substitution",
+      "subject": "打水的女子們",
+      "rationale": "השאבת 是主動分詞複陰性，指「打水（的女子）」，動詞兼具「（女子們）出來打水」之意"
+    }
+  ],
+  "translation": "他使駱駝跪在城外水井旁，那時正是傍晚，是打水的女子們出來的時候。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1c8053b494fe727290be6532135371dbc20822e434579fcf839561c4599eb71e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/24\/9-12.1792124973758.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "使……跪下"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "駱駝"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "在……外"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "אל",
+      "gloss": "在……旁"
+    },
+    {
+      "surface": "באר",
+      "gloss": "水井"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "在……的時候"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "傍晚"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "在……的時候"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "出來"
+    },
+    {
+      "surface": "השאבת",
+      "gloss": "打水的女子們"
+    }
+  ],
+  "timestamp": "2026-10-16T04:29:33.760203314Z",
+  "model": "glm-5.3"
+}

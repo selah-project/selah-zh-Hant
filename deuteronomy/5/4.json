@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פנים בפנים",
+      "rationale": "直譯「面在面中」，即面對面；複數「面」是希伯來的雙數／複數形態，中文無法保留"
+    },
+    {
+      "kind": "you",
+      "subject": "你們",
+      "rationale": "直接向在場的以色列全会眾說話"
+    }
+  ],
+  "translation": "面對面，雅威在山上、從火中間與你們說話。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "24ccd86a492357d5404e135610d0360475aac33abb530a37833f9221eb3add5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/5\/1-4.1792128629239.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "面"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "對面"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "說話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "與你們"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "在山上"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "從…中間"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    }
+  ],
+  "timestamp": "2026-10-16T05:30:29.240305866Z",
+  "model": "glm-5.3"
+}

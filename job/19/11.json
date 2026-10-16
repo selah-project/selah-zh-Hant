@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 19:11",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "怒氣",
+      "rationale": "אף字義為「鼻孔、鼻息」，引申烈怒；譯文取引申義。"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨看待⟩",
+      "rationale": "חשב「計算、看為」一詞已含於「當作」，補「看待」使句子完整。"
+    }
+  ],
+  "translation": "他的怒氣向我燒起，他把我當作他的仇敵 ⟨看待⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "73763410bb0c133fdc2ba7067d798af746f239bb18033f58ce5030dfa3bc7c86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/19\/9-12.1792146087137.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "燒起"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "向我"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "他的怒氣"
+    },
+    {
+      "surface": "ויחשבני",
+      "gloss": "他把我當作"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他的"
+    },
+    {
+      "surface": "כצריו",
+      "gloss": "仇敵"
+    }
+  ],
+  "timestamp": "2026-10-16T10:21:27.137798538Z",
+  "model": "glm-5.3"
+}

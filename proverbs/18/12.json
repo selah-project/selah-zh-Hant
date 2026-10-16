@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 18:12",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "必有",
+      "rationale": "希伯來文下半句無動詞，中文補「必有」成句"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לפני…ולפני",
+      "rationale": "「之先…之先」的平行對句結構，中文以重複保留"
+    }
+  ],
+  "translation": "毀壞之先，人心高傲；榮耀之先，必有謙卑。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "eddb02db82d8ac86c48ed94bdfd03d31448b8a6062c564d01485dd56172109e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/18\/9-12.1792145433351.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "之先"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "毀壞"
+    },
+    {
+      "surface": "יגבה",
+      "gloss": "高傲"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "之先"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮耀"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "謙卑"
+    }
+  ],
+  "timestamp": "2026-10-16T10:10:33.352413420Z",
+  "model": "glm-5.3"
+}

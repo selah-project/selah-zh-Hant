@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 7:4",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אל תבטחו לכם",
+      "rationale": "字面「不要為你們自己信靠」，即不要倚靠你們自己"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "היכל יהוה ×3",
+      "rationale": "三重疊句——聖殿口號的咒誦式重複，是本段的修辭核心"
+    },
+    {
+      "kind": "substitution",
+      "subject": "המה",
+      "rationale": "句尾強調代詞「就是這些」，傳統譯作句首的「這是」以合中文語序"
+    }
+  ],
+  "translation": "你們不要倚靠自己，去聽那些虛謊的話，說：『這是雅威的殿，這是雅威的殿，這是雅威的殿。』",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c08a3ae0e5e7275241ba019f1ce5004e3b1c89172a6d7145828c29977594b657",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/7\/1-4.1792136248997.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "倚靠"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "自己"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去聽"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "……的話"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "虛謊"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "המה",
+      "gloss": "這是"
+    }
+  ],
+  "timestamp": "2026-10-16T07:37:28.998724470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עמי \/ רחמה",
+      "rationale": "此二詞逆轉 1:9 的「非我民」（לא עמי）與 1:6 的「不蒙憐憫」（לא רחמה）——音譯名號與括註並用，使讀者看見字義。"
+    },
+    {
+      "kind": "invitation",
+      "subject": "אמרו",
+      "rationale": "命令式複數「說吧」，對以色列兒女發言，呼召他們親口宣告復和之名。"
+    },
+    {
+      "kind": "you",
+      "subject": "לאחיכם…לאחותיכם",
+      "rationale": "直接向聽眾（以色列兒女）說話，稱其同胞為弟兄姊妹。"
+    }
+  ],
+  "translation": "要對你們的弟兄說：阿米⟨我的民⟩；對你們的姊妹說：魯哈瑪⟨蒙憐憫⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b31616355a5530e5d6890226146878deefb310dbd4734f3406351c48fe5a5591",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/2\/1-4.1792139441619.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "要對…說"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "你們的弟兄"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "阿米（我的民）"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "對你們的姊妹"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "魯哈瑪（蒙憐憫）"
+    }
+  ],
+  "timestamp": "2026-10-16T08:30:41.620959295Z",
+  "model": "glm-5.3"
+}

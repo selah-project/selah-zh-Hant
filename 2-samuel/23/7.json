@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 23:7",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שרוף ישרפו",
+      "rationale": "同根動詞重複（不定式＋動詞），表「徹底燒盡」的加強語氣。"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשבת",
+      "rationale": "בשבת 此處多解作「在其所在之地／原地」（שבת「安住」義），而非「安息日」。"
+    }
+  ],
+  "translation": "人若觸碰它們，必須以鐵器和槍杆裝備自己；它們要在原地被火焚燒淨盡。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b690968deb40faef342d74d4037030699f524e865a9c91e63673a58b67c483b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/23\/5-8.1792132408034.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "而人"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "觸碰"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "它們"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "必須裝備"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "以鐵器"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "和…的槍杆"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "槍"
+    },
+    {
+      "surface": "ובאש",
+      "gloss": "而被火"
+    },
+    {
+      "surface": "שרוף",
+      "gloss": "焚燒"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "它們被焚燒淨盡"
+    },
+    {
+      "surface": "בשבת",
+      "gloss": "在原地"
+    }
+  ],
+  "timestamp": "2026-10-16T06:33:28.035457273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 8:8",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "痊癒／活過來",
+      "rationale": "האחיה 是「我要活嗎」，和合本意譯「痊癒」；此處照字面「活過來」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "我",
+      "rationale": "האחיה 未言明主詞，中文疑問句需補「我」。"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאותו",
+      "rationale": "מ＋את＋後綴「從他」；את 屬受詞記號家族，中文以「藉⟨את⟩他」保留記號。"
+    }
+  ],
+  "translation": "王對哈薛說：「你手中帶著禮物去迎接以羅欣的人，藉 ⟨את⟩ 他求問 ⟨את⟩ 雅威說：『我能從這病活過來嗎？』」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "08b43bbeda870827012506da5fbb7f7451d60caac9b3c0868b93a8ff0e656275",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/8\/5-8.1792133866339.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "哈薛"
+    },
+    {
+      "surface": "קח",
+      "gloss": "帶著"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "在你手中"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "禮物"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "去"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "迎接"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣的"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "求問"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "藉⟨את⟩他"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "האחיה",
+      "gloss": "我能活過來嗎"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "從這病"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    }
+  ],
+  "timestamp": "2026-10-16T06:57:46.341414770Z",
+  "model": "glm-5.3"
+}

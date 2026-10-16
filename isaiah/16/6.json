@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 16:6",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גאון／גא／גאותו／וגאונו",
+      "rationale": "四個同根的גאה字連續堆疊，中文無法保留音韻重複"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא כן בדיו",
+      "rationale": "「他的謊言不如此」：或譯「他的謊言必不成立」（KJV、ASV）對照「他的作為不正」（YLT）"
+    }
+  ],
+  "translation": "我們聽見了摩押的驕傲——極其高傲——他的狂傲和他的威榮和他的暴怒；他的謊言卻不⟨會⟩如此。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "773418eaf2e3a11fc43ee0db002323ee4195b70addc3cab60da95df39bdf07b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/16\/6-8.1792142577091.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "我們聽見了"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "驕傲"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "גא",
+      "gloss": "高傲"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極其"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "他的狂傲"
+    },
+    {
+      "surface": "וגאונו",
+      "gloss": "和他的威榮"
+    },
+    {
+      "surface": "ועברתו",
+      "gloss": "和他的暴怒"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "כן",
+      "gloss": "如此"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "他的謊言"
+    }
+  ],
+  "timestamp": "2026-10-16T09:22:57.091836470Z",
+  "model": "glm-5.3"
+}

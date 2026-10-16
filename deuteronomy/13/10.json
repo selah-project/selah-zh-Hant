@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הרג תהרגנו",
+      "rationale": "不定詞絕對式強調結構「殺、必要殺」，中文以「總要把他治死」達其強調"
+    },
+    {
+      "kind": "addition",
+      "subject": "〈確實要〉",
+      "rationale": "כי 在此引出命令的強調語氣，中文需補語氣詞"
+    }
+  ],
+  "translation": "你總要把他治死，你的手要先下手治死他，然後全體百姓的手也下手。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "18bb400e2036e72450fa56b09ff687eb6ca95326e0b18c292b31a2aa27c65ec5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/13\/9-12.1792128780200.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〈確實要〉"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "殺"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "把他治死"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "要"
+    },
+    {
+      "surface": "בו",
+      "gloss": "在他身上"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "先"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "治死他"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "然後……的手"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全體"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "在後"
+    }
+  ],
+  "timestamp": "2026-10-16T05:33:00.201697374Z",
+  "model": "glm-5.3"
+}

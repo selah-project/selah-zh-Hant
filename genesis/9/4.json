@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "生命",
+      "rationale": "נפש 是「氣息／生命機能」，非不朽靈魂；此處指血中有生命"
+    },
+    {
+      "kind": "you",
+      "subject": "對挪亞和他的兒子們",
+      "rationale": "禁止令，第二人稱複數"
+    },
+    {
+      "kind": "crux",
+      "subject": "בנפשו דמו",
+      "rationale": "讀法有異：『肉連其生命，即其血』（同位語）或『在其生命——其血——之中』（血為生命的同位語）"
+    }
+  ],
+  "translation": "惟獨帶著生命的肉——就是帶著牠的血——你們不可吃。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "47fad036896cddc179b998e31d3fc70a28b26b35f101949440c727cbb289724d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/9\/1-4.1792124651864.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "惟獨"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "帶著牠的生命"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "牠的血"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "你們吃"
+    }
+  ],
+  "timestamp": "2026-10-16T04:24:11.865530220Z",
+  "model": "glm-5.3"
+}

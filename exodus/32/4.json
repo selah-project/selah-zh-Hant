@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלה אלהיך",
+      "rationale": "「這些是你的神明」（複數，與第 1 節複數請求一致）vs JPS「這是你的神」（單數）；原文為複數。"
+    },
+    {
+      "kind": "crux",
+      "subject": "בחרט",
+      "rationale": "חרט 或作「雕刻的器具」，或依撒瑪利亞五經讀 bᵉḥerî『以模具』；照馬所拉文本譯「雕刻的器具」。"
+    },
+    {
+      "kind": "you",
+      "subject": "to 以色列",
+      "rationale": "說話者直接稱呼以色列。"
+    }
+  ],
+  "translation": "他從他們手中接過來，用雕刻的器具造 ⟨אתו⟩ 它，把它造成一隻鑄的牛犢。他們就說：「以色列啊，這是領你從埃及地上來的你的神明。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6e1c9d727695a47d80fc1f12fdb81bf92e44cfa5c3f82884062361d2e97262fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/32\/1-4.1792126473762.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "接過來"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "從他們手中"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "造"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "它"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "用雕刻的器具"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "把它造成"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "牛犢"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "鑄的"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "他們就說"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的神明"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "領你……上來"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "從地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    }
+  ],
+  "timestamp": "2026-10-16T04:54:33.763625712Z",
+  "model": "glm-5.3"
+}

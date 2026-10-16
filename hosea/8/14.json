@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 8:14",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "主",
+      "rationale": "עשהו 字面為「造他的」，中文加「主」以成自然讀法。"
+    },
+    {
+      "kind": "crux",
+      "subject": "היכלות",
+      "rationale": "或作「宮殿」（自建奢侈）或「廟宇」（敬拜別神）；KJV 譯 temples，ASV\/JPS 譯 palaces。"
+    }
+  ],
+  "translation": "以色列忘記了 ⟨את⟩ 造他的主，猶大增建堅固的城邑；我必差遣火進入他的城，火必吞滅他的宮殿。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d532d7ad060efe1ecd558a908edcfab5e23df5d0d59e92a736c475e2f71b1fab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/8\/13-14.1792139463352.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכח",
+      "gloss": "忘記了"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "造他的主"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "造他的主"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "建造"
+    },
+    {
+      "surface": "היכלות",
+      "gloss": "宮殿"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "增多"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "城邑"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "堅固的"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "我必差遣"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "進入他的城"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "吞滅"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "他的宮殿"
+    }
+  ],
+  "timestamp": "2026-10-16T08:31:03.353687185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "對術士們",
+      "rationale": "王直接對迦勒底術士說話的引語"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלום חלמתי",
+      "rationale": "名詞與同根動詞並置（夢—我做了夢），中文以「做了一個夢」保留"
+    }
+  ],
+  "translation": "王對他們說：「我做了一個夢，我的心靈煩亂，要知道 ⟨את⟩ 那夢。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "34ce5c76c3c4e70cd3243e9b95f73c28e3690bc218fe7841e30f6cc98b2d6197",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/daniel\/2\/1-4.1792147320965.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "להם",
+      "gloss": "對他們"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "夢"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "我做了"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "煩亂"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "我的心靈"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "要知道"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那夢"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "那夢"
+    }
+  ],
+  "timestamp": "2026-10-16T10:42:00.966521615Z",
+  "model": "glm-5.3"
+}

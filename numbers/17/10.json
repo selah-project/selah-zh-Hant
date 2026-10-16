@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "你們",
+      "rationale": "הרמו 是複數命令式，中文以「你們」標明複數受話對象（摩西與亞倫）"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כרגע",
+      "rationale": "字面為「一眨眼」，極短時間的慣用語，譯作「眨眼之間」保留畫面"
+    },
+    {
+      "kind": "you",
+      "subject": "對摩西與亞倫",
+      "rationale": "雅威以複數命令式直接向他們說話"
+    }
+  ],
+  "translation": "「你們離開這會眾之中，我要在眨眼之間滅絕 ⟨אתם⟩ 他們。」他們就臉伏於地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6bf179f191d3f8fda8b20bba7b7258834713a37803e97016d284ed4c2740f5a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/17\/9-12.1792127928095.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "你們離開"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "之中"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "我要滅絕"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "眨眼之間"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "眨眼之間"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "他們就俯伏"
+    },
+    {
+      "surface": "על",
+      "gloss": "於"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "他們的臉"
+    }
+  ],
+  "timestamp": "2026-10-16T05:18:48.096331576Z",
+  "model": "glm-5.3"
+}

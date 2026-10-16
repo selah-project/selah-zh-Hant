@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他是",
+      "rationale": "צורי 是名詞短語「我的磐石」，中文需補繫詞「他是」"
+    },
+    {
+      "kind": "addition",
+      "subject": "〈這是要〉",
+      "rationale": "להגיד 的不定式目的語，中文補主語標記"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישר\/עלתה",
+      "rationale": "「正直」與「不義」對比，樹木筆直之象對彎曲不義之象"
+    }
+  ],
+  "translation": "〈這是要〉宣告：雅威是正直的，他是我的磐石，在他裡面沒有不義。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e412f0d7e0e31b96a367318f0332ee2c9e539cbdac9c9c401c93314e702759b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/92\/13-16.1792144495696.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "宣告"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〈這是要〉"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "正直的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "我的磐石"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "不義"
+    },
+    {
+      "surface": "בו",
+      "gloss": "在他裡面"
+    }
+  ],
+  "timestamp": "2026-10-16T09:54:55.697668338Z",
+  "model": "glm-5.3"
+}

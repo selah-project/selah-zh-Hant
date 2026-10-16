@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פרק",
+      "rationale": "פרק 本義是折斷、掙脫（頸上的軛），此處引申為拯救——『從頸上折斷』之象與第5節頸項呼應"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "頸項／折斷",
+      "rationale": "第5節『頸項』與本節 פרק『折斷（頸軛）』遙相呼應，中文難以保留"
+    }
+  ],
+  "translation": "僕人轄制我們，無人救我們脫離他們的手。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9e4897c6c587e63c6fc9ff098eb02feddcb2cb6503c7cd2489c8e2ddd86242a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/lamentations\/5\/5-8.1792146826357.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "僕人"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "轄制"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "我們"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "救……脫離"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無人"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "他們的手"
+    }
+  ],
+  "timestamp": "2026-10-16T10:33:46.358281904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 26:17",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "設臉在你們身上",
+      "rationale": "ונתתי פני בכם 直譯「我把我的臉放在你們身上」，即敵對之意"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "無人追趕",
+      "rationale": "利 26 逆轉申 28 的追趕／逃跑圖像；逃跑卻無人追趕是悖逆的記號"
+    }
+  ],
+  "translation": "我要向你們變臉，你們必在仇敵面前被擊敗；恨你們的必管轄你們，你們要逃跑，卻無人追趕⟨אתכם⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3a3e711e6513bf6e920b421d8374162b00af64263649142f7ff09d7e80d229fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/26\/17-20.1792127413560.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "我要…變"
+    },
+    {
+      "surface": "פני",
+      "gloss": "臉"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "向你們"
+    },
+    {
+      "surface": "ונגפתם",
+      "gloss": "你們必被擊敗"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在…面前"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "你們的仇敵"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "必管轄"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "שנאיכם",
+      "gloss": "恨你們的"
+    },
+    {
+      "surface": "ונסתם",
+      "gloss": "你們要逃跑"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "卻無"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "追趕的"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "你們"
+    }
+  ],
+  "timestamp": "2026-10-16T05:10:13.560995093Z",
+  "model": "glm-5.3"
+}

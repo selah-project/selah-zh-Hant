@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "慈愛",
+      "rationale": "לחסד 一律譯「慈愛」，本節不是盟約語境，而是宮廷恩寵，詞形不變"
+    },
+    {
+      "kind": "addition",
+      "subject": "得著",
+      "rationale": "動詞 נתן「賜」＋לְ 的結構「賜…進入恩寵」，中文需補「得著」以成句"
+    }
+  ],
+  "translation": "以羅欣使但以理在太監長面前得著慈愛與憐憫。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cca800926c12a3eedccf394fc6fd6cffd1e650b94aa0a6fa04045bc6e87ad545",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/daniel\/1\/9-12.1792147325760.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "賜予"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "但以理"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "但以理"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "慈愛"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "憐憫"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長官"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "太監們"
+    }
+  ],
+  "timestamp": "2026-10-16T10:42:05.760852129Z",
+  "model": "glm-5.3"
+}

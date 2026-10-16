@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 是呼吸的生命整體，非不朽的「靈魂」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שחה\/דבקה",
+      "rationale": "下沉與緊貼兩個身體動作平行，死亡意象的排比。"
+    }
+  ],
+  "translation": "因為我們的性命〈נפש，即生命之氣〉俯伏到塵土，我們的肚腹緊貼地面。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "17217f569acff8ee961a15015fd62000bc868b72aab02af2f64f532683fe88a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/44\/25-27.1792143681748.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "俯伏"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "到塵土"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "我們的性命"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "緊貼"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "地面"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "我們的肚腹"
+    }
+  ],
+  "timestamp": "2026-10-16T09:41:21.748903466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 28:17",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לו",
+      "rationale": "讀法分歧：『向他／為他自己』（KJV 作 to him，JPS 作 for Himself）與『向你』；上下文似指向掃羅。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בידי",
+      "rationale": "字面『在我的手中』＝『藉著我』，希伯來以手為代理的慣用語。"
+    },
+    {
+      "kind": "you",
+      "subject": "向掃羅",
+      "rationale": "撒母耳的靈直接對掃羅說話。"
+    }
+  ],
+  "translation": "雅威已照他藉我的手所說的向你施行了；雅威已從你手中撕裂 ⟨את⟩ 國權，又將它賜給你的鄰舍、賜給大衛。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d1ec9e4d85d0d9496eb6be239ed05657996d7383be4652f1e7ad16daf600521f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/28\/17-20.1792131568746.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "已……施行"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לו",
+      "gloss": "向你"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照……所……的"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "說"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "藉我的手"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "又撕裂"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "國權"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "國權"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "從你手中"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "又將它賜給"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "你的鄰舍"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛"
+    }
+  ],
+  "timestamp": "2026-10-16T06:19:28.746806421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 6:5",
+  "book": "song-of-songs",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הרהיבני",
+      "rationale": "「使我驚惶」（KJV overcome、JPS dash\/overwhelm）對比 YLT「使我驕傲」；詞根 רהב 意為猛力催逼。"
+    },
+    {
+      "kind": "crux",
+      "subject": "שגלשו",
+      "rationale": "「跳躍而下」（descend with bounding）與七十士譯本讀法影響各譯本：KJV「顯現」、ASV「沿坡躺臥」、JPS「流瀉而下」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גלשו\/גלעד",
+      "rationale": "גלש（גָּלְשׁוּ）與 גִּלְעָד 音近呼應，中文無法保留。"
+    }
+  ],
+  "translation": "求你使我遠離——轉開你的眼睛，別看向我，因為它們使我驚惶。你的頭髮如同一群母山羊，從基列跳躍而下。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "36292d4b89e0dfd1a4ec0aa458b5decbc7de40bf44a48e8138a18a5c9181c858",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/6\/5-8.1792146595379.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הסבי",
+      "gloss": "轉開"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "你的眼睛"
+    },
+    {
+      "surface": "מנגדי",
+      "gloss": "別看向我"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "因為它們"
+    },
+    {
+      "surface": "הרהיבני",
+      "gloss": "使我驚惶"
+    },
+    {
+      "surface": "שערך",
+      "gloss": "你的頭髮"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "如同一群"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "母山羊"
+    },
+    {
+      "surface": "שגלשו",
+      "gloss": "跳躍而下"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "基列"
+    }
+  ],
+  "timestamp": "2026-10-16T10:29:55.379973806Z",
+  "model": "glm-5.3"
+}

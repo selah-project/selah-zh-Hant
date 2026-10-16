@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 25:17",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צרות\/ממצוקותי",
+      "rationale": "「困苦」（צרה，窄）與「狹窄」（מצוקה）同根雙關：心被壓窄、求從窄處領出，中文難以保留"
+    },
+    {
+      "kind": "you",
+      "subject": "to 雅威",
+      "rationale": "詩人向雅威祈求"
+    }
+  ],
+  "translation": "我心裡的困苦加寬了；求你把我從我的狹窄中領出來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "73da87d3002efce831ce742fa6384e9c7cf8037e9def500e32122bd85a028beb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/25\/17-20.1792143552883.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צרות",
+      "gloss": "困苦"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "我心裡的"
+    },
+    {
+      "surface": "הרחיבו",
+      "gloss": "加寬了"
+    },
+    {
+      "surface": "ממצוקותי",
+      "gloss": "從我的狹窄中"
+    },
+    {
+      "surface": "הוציאני",
+      "gloss": "把我領出來"
+    }
+  ],
+  "timestamp": "2026-10-16T09:39:12.884050052Z",
+  "model": "glm-5.3"
+}

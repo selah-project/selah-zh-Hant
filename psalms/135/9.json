@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "〈埃及啊〉",
+      "rationale": "希伯來文地名作第二人稱呼格，中文以呼格括出"
+    },
+    {
+      "kind": "you",
+      "subject": "to Egypt",
+      "rationale": "本節直接稱呼埃及"
+    }
+  ],
+  "translation": "他在你當中〈埃及啊〉差遣了記號和奇事，臨到法老和他一切的僕人身上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6cca197ce9087e5bd4a9b5f425d10670a999cd0a54bb6d107f399bca57f677a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/135\/9-12.1792144951850.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "差遣了"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "記號"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "和奇事"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "在你當中"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "〈埃及啊〉"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "臨到法老"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "和他一切"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "僕人"
+    }
+  ],
+  "timestamp": "2026-10-16T10:02:31.851479380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 27:13",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "被收聚到本族",
+      "rationale": "נאסף אל עמיו是死亡的委婉語，字面是「被收聚到你民族那裡」"
+    },
+    {
+      "kind": "elision",
+      "subject": "一樣",
+      "rationale": "末尾的「一樣」是中文比較句所需，希伯來文僅以כאשר並列"
+    }
+  ],
+  "translation": "你看見了 ⟨את⟩ 它以後，你也必被收聚到你本族那裡，正如你哥哥亞倫被收聚一樣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bce42ac82121b26e6d49a1c5de78855d9b844375f9b75e99703654ea2261e66f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/27\/13-16.1792128244568.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראיתה",
+      "gloss": "你看見了"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "它（那地）"
+    },
+    {
+      "surface": "ונאספת",
+      "gloss": "你也必被收聚"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "你本族"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "正如"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "被收聚"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "你哥哥"
+    }
+  ],
+  "timestamp": "2026-10-16T05:24:04.568919160Z",
+  "model": "glm-5.3"
+}

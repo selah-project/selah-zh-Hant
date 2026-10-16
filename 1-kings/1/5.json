@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 1:5",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רצים",
+      "rationale": "分詞「奔跑的人」譯為定語「奔走的人」，希伯來的主動分詞形狀在中文以形容語保留"
+    },
+    {
+      "kind": "addition",
+      "subject": "人",
+      "rationale": "איש רצים 直譯「奔跑之人五十」，中文語序調整需補量詞「個」"
+    }
+  ],
+  "translation": "亞多尼雅——哈及的兒子——自我高抬，說：「我必作王。」他為自己預備了車輛和騎兵，以及五十個在他前面奔走的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "125f51d37982b445ba9b65e316efa7f3b9cace9beb9bf84d25d2aa20ad1723a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/1\/5-8.1792132450743.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואדניה",
+      "gloss": "亞多尼雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "哈及"
+    },
+    {
+      "surface": "מתנשא",
+      "gloss": "自我高抬"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אמלך",
+      "gloss": "必作王"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "他預備了"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為自己"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "車輛"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "和騎兵"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "以及五十"
+    },
+    {
+      "surface": "איש",
+      "gloss": "個……人"
+    },
+    {
+      "surface": "רצים",
+      "gloss": "奔走的"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "在他前面"
+    }
+  ],
+  "timestamp": "2026-10-16T06:34:10.744503088Z",
+  "model": "glm-5.3"
+}

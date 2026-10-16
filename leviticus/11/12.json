@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "都",
+      "rationale": "כל的概括語氣以「都」呈現，希伯來文由כל本身承擔"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列人",
+      "rationale": "本節總結第9–11節的分類規則，以「對你們」界定禮儀上的潔與不潔"
+    }
+  ],
+  "translation": "凡在水裡沒有鰭沒有鱗的，對你們都是可憎之物。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "babfaf4812f00d69ea3fb919034ae612c3dba15a23c38b8285a92fba21785235",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/11\/9-12.1792126823173.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "לו",
+      "gloss": "牠"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "鰭"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "和鱗"
+    },
+    {
+      "surface": "במים",
+      "gloss": "在水裡"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "可憎之物"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "牠是"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "對你們"
+    }
+  ],
+  "timestamp": "2026-10-16T05:00:23.174852454Z",
+  "model": "glm-5.3"
+}

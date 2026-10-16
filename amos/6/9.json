@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 6:9",
+  "book": "amos",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "也",
+      "rationale": "וְמֵתו֥ 的 ו 帶有「連他們也」的語氣，中文明示"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "本節延續對撒瑪利亞安逸之家的審判宣告，隱含對象是以色列"
+    }
+  ],
+  "translation": "必有這事發生：若十個人剩在一座房子裡，他們也必死。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "81e0df51ecff49b4005666ee3b67c7450b2891f1e1db1fc1212581482808fde7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/amos\/6\/9-12.1792139775659.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "必有這事發生"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "剩下"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十個"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "人"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "在一座房子裡"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一座"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "他們也必死"
+    }
+  ],
+  "timestamp": "2026-10-16T08:36:15.659795777Z",
+  "model": "glm-5.3"
+}

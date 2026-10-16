@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 13:6",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "得應驗",
+      "rationale": "לקים דבר 直譯「使話立起」，中文以「得應驗」達意並加括註代名詞"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויחלו",
+      "rationale": "諸譯本有「他們使人存盼望」（KJV 使役）與「他們自己指望」（JPS、YLТ）之分；本譯取後者，與第二人稱控訴語氣相合"
+    }
+  ],
+  "translation": "他們看見虛妄，占卜謊言，卻說「雅威說」；雅威並沒有差遣他們，他們還指望⟨那⟩話得應驗。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "72ed175dec5826e7a630a874e940e5a426fbd934e59fdf403e97e88b14f64b99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/13\/5-8.1792138081895.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חזו",
+      "gloss": "他們看見"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "虛妄"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "占卜"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "謊言"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "卻說"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "而雅威"
+    },
+    {
+      "surface": "לא",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "差遣他們"
+    },
+    {
+      "surface": "ויחלו",
+      "gloss": "他們還指望"
+    },
+    {
+      "surface": "לקים",
+      "gloss": "得應驗"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    }
+  ],
+  "timestamp": "2026-10-16T08:08:01.896442307Z",
+  "model": "glm-5.3"
+}

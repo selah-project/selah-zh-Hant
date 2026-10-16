@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 21:7",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "會",
+      "rationale": "希伯來文疑問句無將來助動詞，中文補「會」以表難以置信之問"
+    },
+    {
+      "kind": "crux",
+      "subject": "בנים",
+      "rationale": "בנים為複數「眾子」，歷代譯本多作單數「孩子」；字面是「撒拉乳養眾子」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מלל",
+      "rationale": "罕用動詞מלל（多見於詩體）代替常見的אמר，帶「低語、述說」意味"
+    }
+  ],
+  "translation": "她又說：「誰會對亞伯拉罕說：『撒拉乳養孩子呢？』因為我已在他的年老時為他生了一個兒子。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7b6dbde5ce35ce7b20375d626fa060e046139214e40652fe94fe678d94fef7e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/21\/6-8.1792142298117.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "她又說"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "說"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "對亞伯拉罕"
+    },
+    {
+      "surface": "היניקה",
+      "gloss": "乳養"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "孩子"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "撒拉"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "我已生了"
+    },
+    {
+      "surface": "בן",
+      "gloss": "一個兒子"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "在他的年老時"
+    }
+  ],
+  "timestamp": "2026-10-16T09:18:18.119507646Z",
+  "model": "glm-5.3"
+}

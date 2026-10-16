@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וחדלת מעזב לו",
+      "rationale": "歷代譯本分歧：或作「你不可撇下牠」（KJV 讀作反問），或如 YLT「你從撇下牠的事上止住」——即「你若想不管，務要放下念頭去幫他」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עזב תעזב",
+      "rationale": "不定詞絕對型加動詞的強調結構：「務要撇下／確實釋放」，中文以「務要」傳達其肯定語氣。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עזב תעזב עמו",
+      "rationale": "另一讀法為「你務要與他一同釋放牠」（鬆開重馱、抬驢起來），非「撇下」。"
+    }
+  ],
+  "translation": "若你看見恨你之人的驢在重馱之下臥倒，你若想不作而撇下牠，就務要與他一同抬放。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c0c585789626f2fee303a3e7af77154ea080d0f936fa8dcc57a77b1c213ca524",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/23\/5-8.1792126122896.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "你看見"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "驢"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "恨你之人的"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "臥倒"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "在……之下"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "重馱"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "你若想不作"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "而撇下"
+    },
+    {
+      "surface": "לו",
+      "gloss": "牠"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "務要……撇下"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "（同上）"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "與他一同"
+    }
+  ],
+  "timestamp": "2026-10-16T04:48:42.896708099Z",
+  "model": "glm-5.3"
+}

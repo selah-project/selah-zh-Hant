@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 106:38",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דם…דם",
+      "rationale": "「血」重複三次，首尾呼應：無辜的血、兒女的血、血污遍地——節奏感在中文中以破折號保存。"
+    },
+    {
+      "kind": "elision",
+      "subject": "בדמים",
+      "rationale": "複數「眾血／血腥之事」以「這血」總括。"
+    }
+  ],
+  "translation": "他們流無辜者的血——他們兒女（וּבְנוֹתֵיהֶם）的血，就是他們獻給迦南偶像的；地就因這血被玷污了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2584ab0b2b34fe58bc34147c97fae5781c2db4426109cfe3bae8bedbacef795b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/106\/37-40.1792144663012.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישפכו",
+      "gloss": "他們流"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "無辜者的"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "他們兒子"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "和他們女兒"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "他們獻祭給"
+    },
+    {
+      "surface": "לעצבי",
+      "gloss": "給……的偶像"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "就被玷污了"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "因這血"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:43.013741400Z",
+  "model": "glm-5.3"
+}

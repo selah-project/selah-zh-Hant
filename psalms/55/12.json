@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "毀滅",
+      "rational": "הוות 本義「慾求／崩塌致毀」，KJV 作 wickedness（邪惡），直譯取「毀滅」",
+      "subject_hack": null
+    },
+    {
+      "kind": "hapax",
+      "subject": "תך",
+      "rationale": "תֹּךְ（欺壓）在《塔納赫》中僅此一見"
+    },
+    {
+      "kind": "substitution",
+      "subject": "街市",
+      "rationale": "רחוב 本義「寬闊處」（城中的廣場空地），中文以「街市」近似"
+    }
+  ],
+  "translation": "毀滅在她中間，欺壓和詭詐不離開她的街市。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ac333cb8fe8857c295668f5ef1a8d7060fe07603a3495b294a1e96f891a7827b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/55\/9-12.1792143908767.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "毀滅"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "在她中間"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "而不"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "離開"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "她的街市"
+    },
+    {
+      "surface": "תך",
+      "gloss": "欺壓"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "和詭詐"
+    }
+  ],
+  "timestamp": "2026-10-16T09:45:08.768501371Z",
+  "model": "glm-5.3"
+}

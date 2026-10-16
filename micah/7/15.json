@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "micah 7:15",
+  "book": "micah",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אראנו",
+      "rationale": "אראנו 的詞尾「他」（單數）指誰：以色列（集體單數，如 KJV「 unto him」）或「你」（古譯本異讀）；敘事上承上句的「你的民」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כימי עולם \/ כימי צאתך",
+      "rationale": "上節「像古時之日」與本節「像你出埃及之日」平行並列，出埃及成為「古時」的定義。"
+    }
+  ],
+  "translation": "我要把奇事顯給他看，像你出埃及地之日一樣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dbf71ed114ed89d8703c8c8f16ab3be9148f4e048ffc1e16d0de6a3027bafe67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/micah\/7\/13-16.1792142739258.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כימי",
+      "gloss": "像……的日子"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "你出"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "……地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "我要把……顯給他看"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "奇事"
+    }
+  ],
+  "timestamp": "2026-10-16T09:25:39.259780984Z",
+  "model": "glm-5.3"
+}

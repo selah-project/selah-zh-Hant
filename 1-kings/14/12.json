@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "至於你",
+      "rationale": "ואת 此處是人稱代名詞（陰性單數，指向耶羅波安之妻），非 את 受詞記號，譯「至於你」"
+    },
+    {
+      "kind": "you",
+      "subject": "對耶羅波安的妻子",
+      "rationale": "命令與預言直接對她說"
+    }
+  ],
+  "translation": "至於你，起來，回你自己的家去吧；你的腳一進城，孩子就必死。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dbb17bd20bd454ab7a3d724cff54c7efa4af5f2a2f4fed7112991115887b66e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/14\/9-12.1792133079340.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "至於你"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "起來"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "去吧"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "回你的家"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "一…進入"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "你的腳"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "城"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "就必死"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "孩子"
+    }
+  ],
+  "timestamp": "2026-10-16T06:44:39.341972781Z",
+  "model": "glm-5.3"
+}

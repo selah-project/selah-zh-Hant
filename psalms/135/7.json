@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "雲霧",
+      "rationale": "נשאים本義「上騰之物／升起的霧氣」，譯「雲霧」取其畫面"
+    },
+    {
+      "kind": "crux",
+      "subject": "為雨水造閃電",
+      "rationale": "למטר可解「伴隨雨水」或「為降雨之用」，諸譯本分歧"
+    }
+  ],
+  "translation": "他使雲霧從地極升起，為雨水造閃電；他從自己的寶庫帶出風（魯阿）。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2c8d0cf40b55764252320e6ad325a99cc1e16cb19ce165ced00faf90961ee08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/135\/5-8.1792144996294.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "使…升起"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "雲霧"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "從…的極處"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "閃電"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "為雨水"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "帶出"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風（魯阿）"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "從自己的寶庫"
+    }
+  ],
+  "timestamp": "2026-10-16T10:03:16.296626311Z",
+  "model": "glm-5.3"
+}

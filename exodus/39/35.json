@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכפרת",
+      "rationale": "כפרת 與根 כפר（遮蓋／贖）相關：「施恩座」（和合本）、「櫃蓋」（JPS）、「贖罪蓋」諸說"
+    },
+    {
+      "kind": "substitution",
+      "subject": "法",
+      "rationale": "העדת 直譯「見證」，即約版的見證；和合本「法櫃」為固定詞形"
+    }
+  ],
+  "translation": "⟨את⟩ 法櫃和 ⟨את⟩ 它的槓、並 ⟨את⟩ 施恩座；",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0278095b3dfb63217d3cfd3074611131d349ca6a25e4ebb3151501e75b46320d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/39\/33-36.1792126654246.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "法櫃"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "櫃"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "法（見證）"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "它的槓"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "它的槓"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "施恩座"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "施恩座"
+    }
+  ],
+  "timestamp": "2026-10-16T04:57:34.247787848Z",
+  "model": "glm-5.3"
+}

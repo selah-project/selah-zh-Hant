@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 50:16",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויצוו אל",
+      "rationale": "希伯來文僅「他們吩咐」，未提使者；KJV 補「打發人」，中文以「吩咐人告訴」處理"
+    },
+    {
+      "kind": "addition",
+      "subject": "人",
+      "rationale": "中文需補出傳話的對象，希伯來文只寫「他們吩咐向約瑟說」"
+    }
+  ],
+  "translation": "他們就吩咐人告訴約瑟說：「你父親死前吩咐說：",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a4c65eac678efcb39f7886c6f54ffcdfbaf168576d9a4a9452d2fd66134bde91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/50\/13-16.1792125683443.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "他們吩咐"
+    },
+    {
+      "surface": "אל",
+      "gloss": "告訴"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你父親"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "吩咐"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在……之前"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "他死"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    }
+  ],
+  "timestamp": "2026-10-16T04:41:23.445056275Z",
+  "model": "glm-5.3"
+}

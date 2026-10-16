@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונתעודד",
+      "rationale": "罕見動詞形：或讀為 עוּד（重複、堅立）「挺立不動」，或另讀為 מתעודד（徘徊）；譯本多作「站立正直」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרעו\/נפלו 對 קמנו\/נתעודד",
+      "rationale": "四動詞兩兩對仗：他們下墜、我們升起——平行結構在中文中保留。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ונתעודד",
+      "rationale": "此 Hitpael 形於《塔納赫》僅見於此。"
+    }
+  ],
+  "translation": "他們屈膝仆倒，我們卻起來，挺身而立。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "818e6ed0e344f179ad700476c5a46fa027c8d31a3544aa3c03a89f5a27c8839e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/20\/9-10.1792143395915.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "他們"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "屈膝"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "仆倒"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "我們"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "起來"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "挺身而立"
+    }
+  ],
+  "timestamp": "2026-10-16T09:36:35.916292364Z",
+  "model": "glm-5.3"
+}

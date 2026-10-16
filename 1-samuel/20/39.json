@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "暗號",
+      "rationale": "經文明說只有二人知道，暗號之事向少年人隱藏。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הדבר",
+      "rationale": "דבר可作「話」或「事」，此處指二人的約定，譯作「這事」。"
+    }
+  ],
+  "translation": "那少年人一點事都不知道，只有約拿單和大衛知道 ⟨את⟩ 這事。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "807c0bad338d19899fca959482ee043cd0256365a608cb1be576551c4fc60236",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/20\/37-40.1792131307450.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "那少年人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知道"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "一點事"
+    },
+    {
+      "surface": "אך",
+      "gloss": "只有"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "知道"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這事"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "這事"
+    }
+  ],
+  "timestamp": "2026-10-16T06:15:07.451812612Z",
+  "model": "glm-5.3"
+}

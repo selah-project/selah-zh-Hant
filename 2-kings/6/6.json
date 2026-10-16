@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "浮上來",
+      "rationale": "ויצף 直譯為「使漂浮、溢流」，此處指使鐵浮起。"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ויקצב",
+      "rationale": "קצב 作「砍下」義在此為罕用詞形，僅少數經節出現。"
+    }
+  ],
+  "translation": "神人以羅欣的人問：「它落在哪裡？」他就把那地方指給他看。他砍了一根木頭，丟在那裡，鐵斧頭就浮上來了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "448e0ca9ff12856f3509e29114a52919d42231debc945d11a16bcf7b067c6657",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/6\/5-8.1792133582678.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "問"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "神以羅欣的"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "哪裡"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "落"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "把……指給他看"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那地方"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "那地方"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "砍了"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "一根木頭"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "丟在"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "在那裡"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "浮上來"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "鐵斧頭"
+    }
+  ],
+  "timestamp": "2026-10-16T06:53:02.679329058Z",
+  "model": "glm-5.3"
+}

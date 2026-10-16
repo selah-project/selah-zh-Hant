@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 14:33",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "它",
+      "rationale": "希伯來文動詞 תודע 的主語（智慧）隱含，中文需代詞"
+    },
+    {
+      "kind": "crux",
+      "subject": "在愚昧人中間被顯明",
+      "rationale": "כסילים 中的「智慧被認識」還是「愚昧顯露」？KJV 譯後者，JPS 譯前者"
+    }
+  ],
+  "translation": "智慧安息在通達人的心裡，在愚昧人中間⟨它⟩被顯明出來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6823f1b0db6ec278cbcb264693c993b9f0a7c680c19c729f3768d2279459081f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/14\/33-35.1792145343264.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלב",
+      "gloss": "在……的心裡"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "通達人"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "安息"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "ובקרב",
+      "gloss": "而在……中間"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "愚昧人"
+    },
+    {
+      "surface": "תודע",
+      "gloss": "被顯明"
+    }
+  ],
+  "timestamp": "2026-10-16T10:09:03.264648771Z",
+  "model": "glm-5.3"
+}

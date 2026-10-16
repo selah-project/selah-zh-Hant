@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש是『氣息／生命之力』，非不朽的『靈魂』"
+    },
+    {
+      "kind": "crux",
+      "subject": "聚集",
+      "rationale": "יגורו（גור）本義『寄居／轉向』，諸本或譯『聚集』（和合、KJV）或『埋伏逗留』（JPS『impudent』系讀עזים為『強橫』）"
+    },
+    {
+      "kind": "crux",
+      "subject": "強橫的人",
+      "rationale": "עזים字面『強烈者／猛烈者』：『勇士』（KJV）或『兇暴者』（BSB）之別"
+    }
+  ],
+  "translation": "因為，看哪，他們埋伏要害我的性命；強橫的人聚集攻擊我。不是因為我的過犯，也不是因為我的罪，雅威啊！",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "161e5b2a0a73b0a2567e038eb3a269d37ec94c55d3b8572bc845b05c96e95c64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/59\/1-4.1792143960561.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "他們埋伏"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "要害我的性命"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "攻擊我"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "強橫的人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不是"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "因為我的過犯"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不是"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "因為我的罪"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威啊"
+    }
+  ],
+  "timestamp": "2026-10-16T09:46:00.562570639Z",
+  "model": "glm-5.3"
+}

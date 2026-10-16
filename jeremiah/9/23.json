@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 9:23",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "「只要／惟獨」的強調結構：不是禁止誇口，而是轉向唯一可誇之事。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "慈愛",
+      "rationale": "חסד 一律譯「慈愛」，不換「恩典」或「憐憫」——一個希伯來詞，一個詞形。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יתהלל\/המתהלל",
+      "rationale": "同根詞連用「誇口的要誇口」，中文保留重複。"
+    },
+    {
+      "kind": "addition",
+      "subject": "人",
+      "rationale": "המתהלל 是分詞「那誇口的」，中文需補「人」作名詞中心語。"
+    }
+  ],
+  "translation": "誇口的卻要因這事誇口：聰明認識我，知道我是雅威，在地上施行慈愛、公平和公義；因我喜悅這些事。這是雅威說的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b3e2015ff7cacddbec6b2f7acd94d8e202b66beb95e684303266be1dbae96c58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/9\/21-24.1792136373057.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "卻"
+    },
+    {
+      "surface": "אם",
+      "gloss": "只要"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "因這事"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "誇口"
+    },
+    {
+      "surface": "המתהלל",
+      "gloss": "誇口的〈人〉"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "聰明"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "認識"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "我"
+    },
+    {
+      "surface": "כי",
+      "gloss": "知道"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "施行"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "慈愛"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公平"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "和公義"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在地上"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "這些事"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "我喜悅"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-10-16T07:39:33.059161058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "對王后",
+      "rationale": "延續上節，繼續對新娘說話"
+    },
+    {
+      "kind": "hapax",
+      "subject": "יפיך",
+      "rationale": "יֳפִי『美貌』在全部希伯來文聖經中僅出現三次"
+    },
+    {
+      "kind": "substitution",
+      "subject": "主",
+      "rationale": "אֲדֹנַיִךְ 指人（王），故依紀律譯『主』而非『阿多奈』"
+    }
+  ],
+  "translation": "王就渴慕你的美貌；因為他是你的主，當向他下拜。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/45\/9-12.1792143793308.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "他就渴慕"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "你的美貌"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "你的主"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "當下拜"
+    },
+    {
+      "surface": "לו",
+      "gloss": "向他"
+    }
+  ],
+  "timestamp": "2026-10-16T09:43:13.309927961Z",
+  "model": "glm-5.3"
+}

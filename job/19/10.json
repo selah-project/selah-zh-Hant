@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 19:10",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "指望",
+      "rationale": "תקוה字義為「繩索」，引申為期盼；譯文取引申義。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויסע",
+      "rationale": "字義為「拔營樁、起行」，如拔帳棚的橛子；KJV「移去」與ASV「拔起」之別，此處取「拔起」。"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואלך",
+      "rationale": "直譯「我就走了」，諸本或譯「我滅亡了」（Wycliffe）；此處保留字面。"
+    }
+  ],
+  "translation": "他四面拆毀我，我就去了；他像拔樹一樣把我的指望連根拔起。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "73763410bb0c133fdc2ba7067d798af746f239bb18033f58ce5030dfa3bc7c86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/19\/9-12.1792146087137.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתצני",
+      "gloss": "他拆毀我"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四面"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "我就去了"
+    },
+    {
+      "surface": "ויסע",
+      "gloss": "他拔起"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "像樹一樣"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "我的指望"
+    }
+  ],
+  "timestamp": "2026-10-16T10:21:27.137668064Z",
+  "model": "glm-5.3"
+}

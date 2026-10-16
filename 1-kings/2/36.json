@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 2:36",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אנה ואנה",
+      "rationale": "『往哪裡往哪裡』同詞重疊，即『任何地方』；中文以『往這裡往那裡』保留重複的形狀"
+    },
+    {
+      "kind": "you",
+      "subject": "對示每",
+      "rationale": "所羅門直接向示每下令，限制其居所的命令"
+    },
+    {
+      "kind": "addition",
+      "subject": "人",
+      "rationale": "וישלח 直譯『差遣』未言差遣誰，中文補『人』以成句"
+    }
+  ],
+  "translation": "王差派人把示每召了來，對他說：「你要在耶路撒冷為自己建造房屋，住在那裡，不可從那裡出來，往這裡往那裡。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "073b6f02b96554669512d96159e7aacfe0ac5d23c48b159336762cf540a1d10a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/2\/33-36.1792132510676.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差派人"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "召了來"
+    },
+    {
+      "surface": "לשמעי",
+      "gloss": "示每"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "對……說"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "你要建造"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為自己"
+    },
+    {
+      "surface": "בית",
+      "gloss": "房屋"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "在耶路撒冷"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "住在"
+    },
+    {
+      "surface": "שם",
+      "gloss": "那裡"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "出來"
+    },
+    {
+      "surface": "משם",
+      "gloss": "從那裡"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "往這裡"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "往那裡"
+    }
+  ],
+  "timestamp": "2026-10-16T06:35:10.678141129Z",
+  "model": "glm-5.3"
+}

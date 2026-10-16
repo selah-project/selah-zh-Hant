@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨那位⟩",
+      "rationale": "הוא 為強調代名詞，中文需補出名詞短語以成句"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אנכי אנכי",
+      "rationale": "「是我，是我」重複加強，出自雅威親口，中文保留重複"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "雅威向以色列說話，論及其罪被塗抹"
+    }
+  ],
+  "translation": "是我，是我⟨那位⟩，塗抹你的過犯，為了我自己的緣故；你的罪，我不記念。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fe49a81054e7a2701d57c200526619b14b534f5ddd80f4a03f24df34ec7d5459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/43\/25-28.1792135478667.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "是我"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "是我"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨那位⟩"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "塗抹"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "你的過犯"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "為了我自己的緣故"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "你的罪"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "記念"
+    }
+  ],
+  "timestamp": "2026-10-16T07:24:38.668442219Z",
+  "model": "glm-5.3"
+}

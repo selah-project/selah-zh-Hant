@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בא…ויבא",
+      "rationale": "「來到……也來到」重複同一動詞，因果緊扣；中文以「也」保留連結。"
+    },
+    {
+      "kind": "addition",
+      "subject": "與……同在",
+      "rationale": "此處את是「與」義（H854），中文以「與……同在」譯出，並按體例保留⟨את⟩記號。"
+    }
+  ],
+  "translation": "驕傲來到，羞辱也來到；智慧卻與⟨את⟩謙卑人同在。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "63d83c8e6d48e81c570f6aa8664cb0f6a93bb39b9ba2312fbfca03e5d2e79420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/11\/1-4.1792145409805.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "驕傲"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "也來到"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "羞辱"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "謙卑人"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "謙卑人"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    }
+  ],
+  "timestamp": "2026-10-16T10:10:09.806280332Z",
+  "model": "glm-5.3"
+}

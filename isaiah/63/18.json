@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 63:18",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עם קדשך",
+      "rationale": "「你的聖民」與「你聖的民」：JPS 讀作近乎被逐出，KJV 讀作短暫擁有；למצער 可指時間短或得的少。"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨那⟩地",
+      "rationale": "ירשו 的受詞（那地／聖所）在原文中未言明，中文動詞需補出。"
+    }
+  ],
+  "translation": "你的聖民得⟨那⟩地只有短暫時光；我們的仇敵踐踏了你的聖所。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5abccc8168b5837426df27545478b9006d2d108aa0078c06d47e1bb0ceb92666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/63\/17-19.1792135793096.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למצער",
+      "gloss": "只有短暫時光"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "得"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "你的聖"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "我們的仇敵"
+    },
+    {
+      "surface": "בוססו",
+      "gloss": "踐踏了"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "你的聖所"
+    }
+  ],
+  "timestamp": "2026-10-16T07:29:53.097773246Z",
+  "model": "glm-5.3"
+}

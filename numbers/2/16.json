@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 2:16",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "共…人",
+      "rationale": "中文需「共」與量詞「人」以成數量表達"
+    },
+    {
+      "kind": "addition",
+      "subject": "隊",
+      "rationale": "「第二」需量詞「隊」，希伯來文僅有副詞式的「第二」"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "呂便營總計：一百萬……實為十五萬一千四百五十，是三支派（呂便、西緬、迦得）之總和"
+    }
+  ],
+  "translation": "呂便營被數點的總數，按他們的軍隊共十五萬一千四百五十人；他們要作第二隊起行。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2b500ff97263ae027f2b9a5a001f7822a3a1ea33061a9f6788b5047fc31b239c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/2\/13-16.1792127491685.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "總數"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "被數點的"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "呂便"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "一百"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "一"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "按他們的軍隊"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "第二"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "起行"
+    }
+  ],
+  "timestamp": "2026-10-16T05:11:31.686774064Z",
+  "model": "glm-5.3"
+}

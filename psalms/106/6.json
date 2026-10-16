@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "行了彎曲",
+      "rationale": "עָוָה 字面為「使彎曲」，中文保留其形象而非抽象的「行了不義」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאנו\/העוינו\/הרשענו",
+      "rationale": "三個罪之動詞的遞進排列（犯了罪、行了彎曲、作了惡），構成認罪的三重結構。"
+    }
+  ],
+  "translation": "我們與我們的祖先一同犯了罪，我們行了彎曲，我們作了惡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "398990a8f996e117e518ccdae18272d9e1a45132d9234326b9c1a547ffd75863",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/106\/5-8.1792144661791.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "我們犯了罪"
+    },
+    {
+      "surface": "עם",
+      "gloss": "與……一同"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "我們的祖先"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "我們行了彎曲"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "我們作了惡"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:41.792131931Z",
+  "model": "glm-5.3"
+}

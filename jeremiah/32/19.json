@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 32:19",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他的（兩處）",
+      "rationale": "中文需主語代詞，希伯來文分詞短語承接上節稱號"
+    },
+    {
+      "kind": "substitution",
+      "subject": "世人",
+      "rationale": "בני אדם 直譯「亞當之子（人類之子）」，中文以「世人」對應"
+    },
+    {
+      "kind": "substitution",
+      "subject": "對待",
+      "rationale": "לתת 直譯「給」——給予各人按他所行的報應"
+    }
+  ],
+  "translation": "他的謀略偉大，作為宏大；他的眼睛睜開，注視世人的一切道路，為要照各人所行的路、照他行為的果子對待各人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "62035227cd29ba9cf80da04b290583c357d837f95353ea3ff8416bb869106c9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/32\/17-20.1792137090458.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדל",
+      "gloss": "偉大"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "謀略"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "宏大"
+    },
+    {
+      "surface": "העליליה",
+      "gloss": "作為"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "你的眼睛"
+    },
+    {
+      "surface": "פקחות",
+      "gloss": "睜開"
+    },
+    {
+      "surface": "על",
+      "gloss": "注視"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "道路"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…之子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "亞當（人）"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "為要對待"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "照他所行的路"
+    },
+    {
+      "surface": "וכפרי",
+      "gloss": "照…的果子"
+    },
+    {
+      "surface": "מעלליו",
+      "gloss": "他行為的"
+    }
+  ],
+  "timestamp": "2026-10-16T07:51:30.459719980Z",
+  "model": "glm-5.3"
+}

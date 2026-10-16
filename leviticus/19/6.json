@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זבחכם…ישרף",
+      "rationale": "第5節的「宰獻」與此處「焚燒」對應，時間從宰殺之日數到第三日，中文保留此計日結構"
+    },
+    {
+      "kind": "measurement",
+      "subject": "三日之限",
+      "rationale": "本節按日子計算祭肉可吃的期限"
+    }
+  ],
+  "translation": "宰獻的日子要吃，第二天也可以吃；到第三天剩下的，要用火焚燒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d5afeb929d4b000f574ca67650360a92ee191ae9b8594ea880768493d7a8ff5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/19\/5-8.1792127070233.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "在…的日子"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "你們的祭牲"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "要吃"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "和第二天"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "剩下的"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "יום",
+      "gloss": "…之日"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "焚燒"
+    }
+  ],
+  "timestamp": "2026-10-16T05:04:30.234031902Z",
+  "model": "glm-5.3"
+}

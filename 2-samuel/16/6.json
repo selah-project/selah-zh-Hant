@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "「那時」",
+      "rationale": "中文敘事需要時間連接詞，希伯來文為並列分句"
+    },
+    {
+      "kind": "substitution",
+      "subject": "拿石頭砍",
+      "rationale": "סקל 本義為以石頭擊打（投石），中文以複合動詞保持畫面"
+    }
+  ],
+  "translation": "他拿石頭砍大衛和 ⟨את⟩ 大衛王的一切臣僕；那時眾民和眾勇士都在王的右邊和左邊。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e8332458151d5a269c83129044611fd8d23856330c98a48e25b50557fd2ac38d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/16\/5-8.1792132074859.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "他拿石頭砍"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "用石頭"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "大衛王的一切臣僕"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "臣僕"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和眾"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "和眾"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "在他的右邊"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "在他的左邊"
+    }
+  ],
+  "timestamp": "2026-10-16T06:27:54.860404260Z",
+  "model": "glm-5.3"
+}

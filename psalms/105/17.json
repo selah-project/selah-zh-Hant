@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "被",
+      "rationale": "נמכר是被動分詞，中文需被動標記"
+    }
+  ],
+  "translation": "他差遣一人在他們以先，約瑟被賣為奴僕。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f8327d44b013834f214f5d4c59b87ad829552042b07997840c8b507bc8c87c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/105\/17-20.1792144636849.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "差遣"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "在他們以先"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一人"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "為奴僕"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "被賣"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:16.849833257Z",
+  "model": "glm-5.3"
+}

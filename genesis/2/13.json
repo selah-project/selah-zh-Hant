@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文補「是」並以括註標記"
+    },
+    {
+      "kind": "you",
+      "subject": "敘述",
+      "rationale": "地理清單式敘述，向讀者展示河流的位置"
+    }
+  ],
+  "translation": "第二條河的名字是基訓，它環繞 ⟨את⟩ 全古實地。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "14f0223bd1b8e83407ebe79d114a0b4fa0171a216471f3943887d0585327e69a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/2\/13-16.1792124530144.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "名字"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "河"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "基訓"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "它"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "環繞"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全古實地"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "古實"
+    }
+  ],
+  "timestamp": "2026-10-16T04:22:10.145446900Z",
+  "model": "glm-5.3"
+}

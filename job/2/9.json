@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 2:9",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברך",
+      "rationale": "字面是「稱頌」，卻是咒詛的委婉反語；和合本作「棄掉」，JPS 作「褻瀆」；本譯保留字面「稱頌」並以註明其反諷。"
+    },
+    {
+      "kind": "you",
+      "subject": "約伯的妻子對約伯說",
+      "rationale": "直接向特定對象發言。"
+    }
+  ],
+  "translation": "他的妻子對他說：「你還堅持你的純正嗎？稱頌以羅欣，然後去死吧。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5f8f1a10775fe3c80875475fb5fa109b4e8355bb7580934029c869c434ddd4e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/2\/9-12.1792145827035.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "於是…說"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對他"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "他的妻子"
+    },
+    {
+      "surface": "עדך",
+      "gloss": "還"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "堅持"
+    },
+    {
+      "surface": "בתמתך",
+      "gloss": "你的純正"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "稱頌（反諷為咒詛）"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "去死吧"
+    }
+  ],
+  "timestamp": "2026-10-16T10:17:07.036264991Z",
+  "model": "glm-5.3"
+}

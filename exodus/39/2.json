@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "中文需要動詞連接，希伯來文僅並列名詞"
+    }
+  ],
+  "translation": "他做了 ⟨את⟩ 以弗得：金子、藍色、紫色、朱紅色線，和撚的細麻。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b8924eb63c20d9764fda55356ca317894b0758e7cc28c3ab2316f192ee2636b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/39\/1-4.1792126602958.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "他做了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以弗得"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "以弗得"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金子"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "藍色"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "紫色"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "朱紅色蟲"
+    },
+    {
+      "surface": "שני",
+      "gloss": "朱紅色線"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "細麻"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "撚的"
+    }
+  ],
+  "timestamp": "2026-10-16T04:56:42.959672573Z",
+  "model": "glm-5.3"
+}

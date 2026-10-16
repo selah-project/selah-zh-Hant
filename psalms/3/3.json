@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשי",
+      "rationale": "נפש是氣息／生命，非「靈魂」；譯作「生命」"
+    },
+    {
+      "kind": "crux",
+      "subject": "לנפשי",
+      "rationale": "「對我的生命說」（LXX：對我的心說）與「論我的生命說」（作 אל 論）之爭"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "音樂記號，音譯「細拉」，意為停頓／懸置"
+    }
+  ],
+  "translation": "許多人對我的生命說：「他在以羅欣那裡沒有拯救。」細拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "84bcaba9278bcefbd3e0198ae8979837af0ff2812b8b05b856813628ec9378ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/3\/1-4.1792143226228.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "許多人"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "說"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "對我的生命"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "拯救"
+    },
+    {
+      "surface": "לו",
+      "gloss": "他"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "在以羅欣那裡"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-10-16T09:33:46.229419428Z",
+  "model": "glm-5.3"
+}

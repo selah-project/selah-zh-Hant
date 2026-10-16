@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 20:35",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "一個",
+      "gloss": "",
+      "rationale": "中文需要量詞「一個」，希伯來文無冠詞的 נער 即「某個小童僕」。"
+    },
+    {
+      "kind": "secret",
+      "subject": "約定的時候",
+      "rationale": "למועד 指二人先前祕密約定的信號時刻（20:5–23），整段田野之約是隱藏的通信。"
+    }
+  ],
+  "translation": "到了早晨，約拿單按與大衛約定的時候出到田野去，有一個小童僕與他同去。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "87c2e699b1021beda4cf7eccdea89774c3abb6e67fd29e6b552a6a6796381392",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/20\/33-36.1792131277417.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "到了"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "早晨"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "出到……去"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田野"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "按約定的時候"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "一個小童僕"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "小的"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "與他同去"
+    }
+  ],
+  "timestamp": "2026-10-16T06:14:37.418928518Z",
+  "model": "glm-5.3"
+}

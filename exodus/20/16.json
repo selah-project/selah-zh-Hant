@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ברעך",
+      "rationale": "字面是「在你的鄰舍裏（對他）作證」；介詞ב譯為「陷害／對抗」以合中文法庭語。"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨你⟩",
+      "rationale": "ברעך的詞尾「你的」由「鄰舍」承載，中文另補人稱以明確。"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "單數第二人稱禁令，直接對聽者說話。"
+    }
+  ],
+  "translation": "不可作偽證陷害⟨你⟩的鄰舍。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9289121080cd06bd9d21e88ba644c54479a16330ef9346c8b2c101fe3f174e5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/20\/13-16.1792126008205.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "作證"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "陷害你的鄰舍"
+    },
+    {
+      "surface": "עד",
+      "gloss": "證"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "偽"
+    }
+  ],
+  "timestamp": "2026-10-16T04:46:48.206121203Z",
+  "model": "glm-5.3"
+}

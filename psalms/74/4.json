@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אותתם אתות",
+      "rationale": "同一詞 אות 連用：「他們的記號作為記號」，諷刺異教徽記取代聖所的記號；中文以「旗號／記號」分譯，重複之力有損"
+    },
+    {
+      "kind": "idiom",
+      "subject": "吼叫",
+      "rationale": "שאג 獅吼之字，喻仇敵囂張佔領聖所"
+    }
+  ],
+  "translation": "你的仇敵在你聚會之所中吼叫，他們豎立自己的旗號為記號。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "064e49d03dbdcc4cffb63d4566098b25fe5a5867a68e7e0fa3d7ad05241f9919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/74\/1-4.1792144298031.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "吼叫"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "你的仇敵"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "在……之中"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "你聚會之所"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "他們豎立了"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "他們的旗號"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "為記號"
+    }
+  ],
+  "timestamp": "2026-10-16T09:51:38.033161206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨主人⟩",
+      "rationale": "יקם 的主語原文未明寫，中文需補出受罰者"
+    },
+    {
+      "kind": "crux",
+      "subject": "כספו",
+      "rationale": "「他是他的銀錢」直譯；意即僕人是主人的財產，故不按謀殺償命"
+    }
+  ],
+  "translation": "然而，他若再站起一天或兩天，⟨主人⟩就不必受罰，因為僕人是他的銀錢。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "efafd5c305e539ec4c85953c0f4109b9b2a07437a48b6016c86eebb7348c3067",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/21\/21-24.1792126130735.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "然而"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "יום",
+      "gloss": "一天"
+    },
+    {
+      "surface": "או",
+      "gloss": "或"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "兩天"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "站起"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "受罰"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "他的銀錢"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他是"
+    }
+  ],
+  "timestamp": "2026-10-16T04:48:50.735714749Z",
+  "model": "glm-5.3"
+}

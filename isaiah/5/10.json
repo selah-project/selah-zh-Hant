@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "罷特、賀梅爾、伊法",
+      "rationale": "本節為度量衡經文：十畝產一罷特，一賀梅爾種子產一伊法，產量僅及所撒的十分之一"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צמד",
+      "rationale": "字面是『一對（牛）』，引申為雙牛一日所耕之地，中譯作『畝』"
+    }
+  ],
+  "translation": "因為十畝葡萄園只釀出一罷特酒，一賀梅爾種子只結出一伊法穀。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b11006f1e6d9ab8e268edf6389367ebe4432f963b552b337684334a8d8032c78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/5\/9-12.1792134605104.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "十"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "畝（雙牛所耕之地）"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "葡萄園"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "只釀出"
+    },
+    {
+      "surface": "בת",
+      "gloss": "一罷特"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "種子"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "一賀梅爾"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "只結出"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "一伊法"
+    }
+  ],
+  "timestamp": "2026-10-16T07:10:05.105358797Z",
+  "model": "glm-5.3"
+}

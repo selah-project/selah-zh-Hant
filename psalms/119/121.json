@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "求你",
+      "rationale": "希伯來文沒有稱呼語；祈使語氣由 בל תניחני 承擔"
+    },
+    {
+      "kind": "you",
+      "subject": "to 雅威",
+      "rationale": "全節是向雅威發出的祈求"
+    }
+  ],
+  "translation": "我行過公平與公義，求你不要把我撇下給欺壓我的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8ab7dffb29c8572f4537a19b3024d19d043d50f4049b89f95dd83e4d3980aeb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/119\/121-124.1792144909289.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "我行過"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公平"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "與公義"
+    },
+    {
+      "surface": "בל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "把我撇下"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "給欺壓我的人"
+    }
+  ],
+  "timestamp": "2026-10-16T10:01:49.289768868Z",
+  "model": "glm-5.3"
+}

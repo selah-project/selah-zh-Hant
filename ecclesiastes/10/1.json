@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 10:1",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יקר",
+      "rationale": "直譯「一點愚昧比智慧尊榮更貴重」為反諷（愚昧竟勝過智慧）；多數譯本改為「壓過／勝過」以順平語氣。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבאיש\/יביע",
+      "rationale": "兩詞近音並列——發臭與冒泡，聲音上的排比在中文中流失。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוקח",
+      "rationale": "分詞「調香者」，作名詞定語用，譯作「調香」膏油。"
+    }
+  ],
+  "translation": "死蒼蠅使調香膏油發出臭氣、沸騰冒泡；一點愚昧，竟比智慧、比尊榮更貴重。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ea9d772119811af4e802c9749728f9de1c8363a5cb710a531ef5092d0f979d10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/10\/1-4.1792147060367.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבובי",
+      "gloss": "死蒼蠅"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "發出臭氣"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "沸騰冒泡"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "膏油"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "調香"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "貴重"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "比智慧"
+    },
+    {
+      "surface": "מכבוד",
+      "gloss": "比尊榮"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "愚昧"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "一點"
+    }
+  ],
+  "timestamp": "2026-10-16T10:37:40.368205764Z",
+  "model": "glm-5.3"
+}

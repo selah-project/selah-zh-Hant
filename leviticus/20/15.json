@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יתן שכבתו בבהמה",
+      "rationale": "直譯「把他的同寢放在牲畜身上」，נתן「給／放」是性行為的委婉動詞；譯「把他的同寢加於牲畜」保留原動詞"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות יומת",
+      "rationale": "不定詞絕對型的強調結構「死—必被處死」，中文一次表達"
+    }
+  ],
+  "translation": "若有男人把他的同寢加於牲畜，他必被處死；你們也要殺 ⟨את⟩ 那牲畜。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fe2e779e9253bccdc3924a71ac6631b21e796827476e04921208cd48d889ae7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/20\/13-16.1792127213788.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "若有男人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "凡…的"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "把…加於"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "他的同寢"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "於牲畜"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "必被處死"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "那牲畜"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "那牲畜"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "你們要殺"
+    }
+  ],
+  "timestamp": "2026-10-16T05:06:53.789362913Z",
+  "model": "glm-5.3"
+}

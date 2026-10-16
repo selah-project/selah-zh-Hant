@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 7:4",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומדד",
+      "gloss": "「度量夜晚」（KJV\/ASV）與「夜漫長」（JPS，從 מדד 得出）之別；此處取「黑夜被度量（而顯漫長）」"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ושבעתי נדדים",
+      "rationale": "「以輾轉反側為飽足」——反用「吃飽」的諷刺語"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נדדים",
+      "rationale": "名詞「輾轉（於床上）」僅見於此處（另見賽17:12 為另一義「逃亡」）"
+    }
+  ],
+  "translation": "我躺下的時候，就說：『我何時起來呢？』黑夜漫長，我被翻來覆去直到天明。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "41b6471a0cb73396cea584d43085c4b73243f686816d781d4463aee8ec29aad7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/7\/1-4.1792145903116.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "我躺下"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "就說"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "何時"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "我起來"
+    },
+    {
+      "surface": "ומדד",
+      "gloss": "度量（漫長）"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "黑夜"
+    },
+    {
+      "surface": "ושבעתי",
+      "gloss": "我被充滿"
+    },
+    {
+      "surface": "נדדים",
+      "gloss": "翻來覆去"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "直到"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "天明"
+    }
+  ],
+  "timestamp": "2026-10-16T10:18:23.117246568Z",
+  "model": "glm-5.3"
+}

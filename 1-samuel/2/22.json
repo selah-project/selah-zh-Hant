@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 2:22",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הצבאות",
+      "rationale": "「聚集服役的婦人」：צבאות 或指會幕服役的婦人團體（參出38:8）；譯法各異。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אוהל מועד",
+      "rationale": "直譯「會晤之幕」，固定譯作「會幕」。"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאד",
+      "rationale": "「極其」融入「年紀老邁」，希伯來文為獨立副詞。"
+    }
+  ],
+  "translation": "以利年紀老邁，聽見 ⟨את⟩ 他兒子們對以色列眾人所行的一切事，又聽見 ⟨ואת⟩ 他們與在會幕門口服役的婦人們同寢。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "db67b48edf7b2cadffeb84492376b0055ecaff90a0424ad8bde9f7cae53c8f04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/2\/21-24.1792130749169.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועלי",
+      "gloss": "以利"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "年紀老邁"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極其"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切事"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所……的"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "行"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "他兒子們"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "對……眾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "他們與婦人們同寢之事"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的事"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "同寢"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ 與"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "婦人們"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "服役的"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門口"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會幕"
+    }
+  ],
+  "timestamp": "2026-10-16T06:05:49.170164176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כעש חמודו",
+      "rationale": "「如蛀蟲（溶化）他所羨慕的」：蛀蟲是主詞還是比喻？KJV 作 like a moth，意即神使人的美物如被蛀蟲啃蝕般消融。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "虛空",
+      "rationale": "הבל 字面為「氣息、霧氣」（傳道書的 hevel），譯『虛空』取其短暫虛無之義。"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "音樂記號，音譯為『細拉』，意義未明。"
+    }
+  ],
+  "translation": "你以責備管教人，為著罪孽，使他所羨慕的如蛀蟲般溶化；人都只是虛空。細拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a75b9bb1f70f079b5191a2916c300a640baed448ae17c46a93d60859d7c7c9d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/39\/9-12.1792143695317.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "以責備"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "עון",
+      "gloss": "罪孽"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "你管教"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "使溶化"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "如蛀蟲般"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "他所羨慕的"
+    },
+    {
+      "surface": "אך",
+      "gloss": "只是"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "虛空"
+    },
+    {
+      "surface": "כל",
+      "gloss": "都"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-10-16T09:41:35.318594715Z",
+  "model": "glm-5.3"
+}

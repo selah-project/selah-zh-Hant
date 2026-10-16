@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ממכרת",
+      "rationale": "名詞「賣（的方式）」在中文改為介詞短語「照…的賣法」，詞形難以名詞對譯"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "「我的僕人」為雅威對以色列的直接宣稱，界定全段奴僕條例的根基"
+    }
+  ],
+  "translation": "因為他們是我的僕人，是我從埃及地領出來的⟨אתם⟩；他們不可照奴僕的賣法被賣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0cbf453f429bb9c268be295e009ff9c12a8f20e278a7b5816376636f9b04e5c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/25\/41-44.1792127330114.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "我的僕人"
+    },
+    {
+      "surface": "הם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "我領出"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "他們（從埃及地領出的對象）"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "從…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "被賣"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "照…的賣法"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "奴僕"
+    }
+  ],
+  "timestamp": "2026-10-16T05:08:50.115308572Z",
+  "model": "glm-5.3"
+}

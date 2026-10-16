@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שב",
+      "rationale": "שׁוּב 意為「轉回／恢復」：譯作『恢復』（ASV、JPS）或『轉離、收回』（KJV、Geneva），兩者意思相反"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקקום בקקים",
+      "rationale": "同根詞疊用：『掏空者已掏空』，同音重複的修辭"
+    },
+    {
+      "kind": "hapax",
+      "subject": "זמריהם",
+      "rationale": "זְמֹרָה（嫩枝／葡萄枝）複數帶代詞僅此處及類似少數經文出現，字面為『他們的修剪枝』"
+    }
+  ],
+  "translation": "因為雅威恢復了 ⟨את⟩ 雅各的榮耀，如同以色列的榮耀；因為劫掠者已將他們掏空，毀壞了他們的葡萄枝。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "38c2876ced16c4635f0d33d963cc787fde68183e71cc97c0959f233d7d05e586",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nahum\/2\/1-4.1792142700726.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שב",
+      "gloss": "恢復了"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅各的榮耀"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "榮耀"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "如同……的榮耀"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "劫掠者"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "已掏空"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "他們的葡萄枝"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "毀壞了"
+    }
+  ],
+  "timestamp": "2026-10-16T09:25:00.728388082Z",
+  "model": "glm-5.3"
+}

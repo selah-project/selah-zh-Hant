@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 9:5",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נקדים",
+      "rationale": "僅見於此：或作「碎屑」或作「發霉的餅乾」；各譯本分歧"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נקדים",
+      "rationale": "本詞在全塔納赫僅出現於此節"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ומטלאות",
+      "rationale": "「縫補過的」：字根意為「以碎塊覆蓋、使之斑駁」，和合本作「縫補」"
+    }
+  ],
+  "translation": "腳上的鞋是破舊的、又縫補過的，身上的衣服是破舊的，他們途中的一切餅都乾了、成了碎屑。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "13a945607580002e073b48087e4f52cea151529219177e00709f44a7a29a85c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/9\/5-8.1792129555958.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונעלות",
+      "gloss": "鞋"
+    },
+    {
+      "surface": "בלות",
+      "gloss": "破舊的"
+    },
+    {
+      "surface": "ומטלאות",
+      "gloss": "縫補過的"
+    },
+    {
+      "surface": "ברגליהם",
+      "gloss": "在他們腳上"
+    },
+    {
+      "surface": "ושלמות",
+      "gloss": "衣服"
+    },
+    {
+      "surface": "בלות",
+      "gloss": "破舊的"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "在他們身上"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "צידם",
+      "gloss": "他們途中的（食物）"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "乾了"
+    },
+    {
+      "surface": "היה",
+      "gloss": "成了"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "碎屑"
+    }
+  ],
+  "timestamp": "2026-10-16T05:45:55.958883648Z",
+  "model": "glm-5.3"
+}

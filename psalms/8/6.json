@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "比以羅欣微小一點",
+      "rationale": "מאלהים 字面是「比以羅欣」；KJV／JPS 譯「比天使」（隨七十士本），Geneva／ASV 譯「比神」；亦有古讀作「暫時微小」"
+    },
+    {
+      "kind": "alternative",
+      "subject": "使……缺少",
+      "rationale": "חסר 字面是「缺少、使之缺乏」，非「造」；「你使他缺少一點」保留原形"
+    }
+  ],
+  "translation": "你使他比以羅欣微小一點，並以榮耀尊貴為他加冕。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "268bfcd211b5d4c36c7f6e12facb2d85493245ab393c1b5c4a8577bb5f61ff54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/8\/5-8.1792143211828.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "你使他缺少"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "一點"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "比以羅欣"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "並榮耀"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "尊貴"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "為他加冕"
+    }
+  ],
+  "timestamp": "2026-10-16T09:33:31.828851999Z",
+  "model": "glm-5.3"
+}

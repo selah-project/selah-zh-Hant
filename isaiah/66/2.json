@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 66:2",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "靈",
+      "rationale": "רוח 是氣息／風；此處譯「靈」沿用既定的雙登記"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כל אלה ×2",
+      "rationale": "「這一切」重複兩次，強調萬有皆出於雅威的手"
+    }
+  ],
+  "translation": "這一切都是我的手造的，這一切都存在——雅威宣諭。但我所看顧的，是貧困的人、靈裡痛悔的人、因我的話而戰兢的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f51d46dee96b96baedea82610c960768eb897b89745f4b40f81be6d5c860d800",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/66\/1-4.1792136064420.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "這一切"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "造了"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "而它們存在"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "宣諭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "而向"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這人"
+    },
+    {
+      "surface": "אביט",
+      "gloss": "我看顧"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "עני",
+      "gloss": "貧困的人"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "痛悔的"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "靈"
+    },
+    {
+      "surface": "וחרד",
+      "gloss": "戰兢"
+    },
+    {
+      "surface": "על",
+      "gloss": "因"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "我的話"
+    }
+  ],
+  "timestamp": "2026-10-16T07:34:24.421404001Z",
+  "model": "glm-5.3"
+}

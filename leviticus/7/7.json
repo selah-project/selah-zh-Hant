@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 7:7",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "妥拉",
+      "rationale": "תורה 是「訓誨／指引」，非「律法」；此處指同一條規例。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאת／אשם",
+      "rationale": "贖罪祭與贖愆祭並列對照，句首比較結構如鏡相映。"
+    }
+  ],
+  "translation": "贖罪祭怎樣，贖愆祭也是怎樣：二者同一條妥拉；凡以它行贖罪的祭司，祭物要歸他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2b4aa962cd904d703efbad02bed50b033393ffab4cfac8db00142378dc6e70d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/7\/5-8.1792126705990.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחטאת",
+      "gloss": "贖罪祭怎樣"
+    },
+    {
+      "surface": "כאשם",
+      "gloss": "贖愆祭也是怎樣"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "妥拉"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "同一條"
+    },
+    {
+      "surface": "להם",
+      "gloss": "對二者"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "凡"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "行贖罪"
+    },
+    {
+      "surface": "בו",
+      "gloss": "以它"
+    },
+    {
+      "surface": "לו",
+      "gloss": "歸他"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "要"
+    }
+  ],
+  "timestamp": "2026-10-16T04:58:25.992931185Z",
+  "model": "glm-5.3"
+}

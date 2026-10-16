@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 18:14",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "矛",
+      "rationale": "שבט本是木棍、杖，此處指矛狀尖木，非金屬矛。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בלב……בלב",
+      "rationale": "同一個「לב」連用兩次：刺入押沙龍的לב（心），他懸在橡樹的לב（中心）——雙關在中文以「心臟／中間」失落。"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא כן אחילה",
+      "rationale": "「不，我不能這樣等候」與「我不會這樣耽擱」兩讀並存。"
+    }
+  ],
+  "translation": "約押說：「我不能這樣在你面前等待。」他手裡拿了三根矛，把它們刺入押沙龍的心臟；那時他還在橡樹中間，仍然活著。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "821b156a94c815aa36524c578d346c97aa143cb0a139a59ae304b6a256db2cb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/18\/13-16.1792132197050.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "כן",
+      "gloss": "這樣"
+    },
+    {
+      "surface": "אחילה",
+      "gloss": "我能等待"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "在你面前"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "拿了"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三根"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "矛"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "在他手中"
+    },
+    {
+      "surface": "ויתקעם",
+      "gloss": "把它們刺入"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "入"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "押沙龍"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "仍然"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活著"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "在……中間"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "橡樹"
+    }
+  ],
+  "timestamp": "2026-10-16T06:29:57.051795470Z",
+  "model": "glm-5.3"
+}

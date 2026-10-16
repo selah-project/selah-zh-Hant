@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "我行走／我引領",
+      "rationale": "אֲהַלֵּךְ的母音標記為Hiphil使役形「我使人行走」（KJV「我引導」），但也可讀為Qal「我行走」（JPS、ASV）。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרך／נתיבה",
+      "rationale": "「道路」與「路径」平行，תב為複數路徑，中文以近義詞對應。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "路径",
+      "rationale": "נתיבות字面為「被踏出的小徑」，正體應作「路徑」，此處修正為「路徑」。"
+    }
+  ],
+  "translation": "我在公義的道路上行走，行在公平的路径之中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "882fee0bfdff1b73ff7a7b46be74156dd1dcebbf151d0a5e9626c15e50eed09b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/8\/17-20.1792145304398.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "在…的道路上"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "公義"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "我行走"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "在…之中"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "路径"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公平"
+    }
+  ],
+  "timestamp": "2026-10-16T10:08:24.399584959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 28:2",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מסכות",
+      "rationale": "原意「澆鑄的金屬像」，譯「鑄造的偶像」"
+    },
+    {
+      "kind": "crux",
+      "subject": "לבעלים",
+      "rationale": "介詞ל可解「為眾巴力（而造）」或「屬於眾巴力（的像）」；本譯取前者"
+    }
+  ],
+  "translation": "他行以色列諸王的道路，又為眾巴力鑄造偶像。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d9e594cb3f5e8af00810fa4bc7664f313392e5d5b0ca9987195954ae866c9da6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/28\/1-4.1792149566410.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "他行"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "在…的道路"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "又"
+    },
+    {
+      "surface": "מסכות",
+      "gloss": "鑄造的偶像"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "為眾巴力"
+    }
+  ],
+  "timestamp": "2026-10-16T11:19:26.411702424Z",
+  "model": "glm-5.3"
+}

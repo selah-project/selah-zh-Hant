@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 8:11",
+  "book": "zechariah",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "〈待他們〉",
+      "rationale": "希伯來文僅「我不像先前的日子（那樣）」，中文需補出動詞"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נאם",
+      "rationale": "神諭公式詞，照紀律作「雅威的宣告」而非「這是耶和華說的」"
+    }
+  ],
+  "translation": "但如今，我對這民剩下的餘民，不再像先前的日子那樣〈待他們〉——萬軍之雅威的宣告。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "09f58508be1bae7eccca770e440f5225070ebfcf26684062604c8512987cde95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/zechariah\/8\/9-12.1792143001749.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "但如今"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "像……的日子"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "先前的"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "對……的餘民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "宣告"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "萬軍之"
+    }
+  ],
+  "timestamp": "2026-10-16T09:30:01.751239394Z",
+  "model": "glm-5.3"
+}

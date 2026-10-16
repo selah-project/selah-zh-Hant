@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וישב",
+      "rationale": "「退居」把「坐下／居住」讀作軍事撤離；直譯是「住在提撒」"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "敘事套語「事就這樣成了」併入「當時」"
+    }
+  ],
+  "translation": "巴沙聽見了，就停工不修築拉瑪，退居提撒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d1a641ef8e65ea0471c6e9c89ecf8404cd71cf19e9ca7a80dc338217715fead2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/15\/21-24.1792133178756.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "當時"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "巴沙"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "停工"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "不修築"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "拉瑪"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "拉瑪"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "退居"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "在提撒"
+    }
+  ],
+  "timestamp": "2026-10-16T06:46:18.757512005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 37:23",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "人",
+      "rationale": "גבר 指有力量之人、壯士，非泛稱的人"
+    },
+    {
+      "kind": "crux",
+      "subject": "他喜愛他的道路",
+      "rationale": "主語是雅威喜愛人的道路，還是人喜愛自己的道路——譯本分歧"
+    }
+  ],
+  "translation": "出自雅威，人〈壯士〉的腳步得立定，他也喜愛 ⟨את⟩ 他的道路。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a13246e97a02c7faa3e9a509ae8ffa9dbb697ccf6ae0b306fdec14b5ea9e05e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/37\/21-24.1792143638292.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "出自雅威"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "的腳步"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "人〈壯士〉"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "得立定"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "他的道路"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "他喜愛"
+    }
+  ],
+  "timestamp": "2026-10-16T09:40:38.293181429Z",
+  "model": "glm-5.3"
+}

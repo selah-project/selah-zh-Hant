@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 31:14",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "官長",
+      "rationale": "פקודי 字根為「數點、監管」，指被派管理軍隊的官員"
+    },
+    {
+      "kind": "addition",
+      "subject": "破折號",
+      "rationale": "中文以破折號呈現希伯來文同位語結構"
+    }
+  ],
+  "translation": "摩西向軍隊的官長——千夫長和百夫長，就是從戰爭的軍隊中回來的——發怒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "15f51d78ea636e85398cf47a923e7b018d7c88522bcb2fbb7d1d406fe3864ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/31\/13-16.1792128301078.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "發怒"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "על",
+      "gloss": "向"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "官長"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "軍隊的"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "首領"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "千夫長的"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "和首領"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "百夫長的"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "回來的"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "從軍隊"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "戰爭的"
+    }
+  ],
+  "timestamp": "2026-10-16T05:25:01.079594136Z",
+  "model": "glm-5.3"
+}

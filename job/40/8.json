@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 40:8",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "廢掉我的判斷",
+      "rationale": "משפט 可作「判決／公義」；諸譯本在「我的判斷」與「我的公義」之間取舍。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רשע／צדק",
+      "rationale": "定罪與稱義是同一法庭詞根的對立面，中文「定罪／顯為義」難以保留字面的鏡像。"
+    },
+    {
+      "kind": "you",
+      "subject": "約伯",
+      "rationale": "法庭式反問，直接質問約伯的動機。"
+    }
+  ],
+  "translation": "難道你真要廢掉我的判斷嗎？要定我有罪，為了使你自己顯為義嗎？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "eecdcb60c3a117f6cbe252a60a944108a61a88970171344893a5e9fe9a62be08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/40\/5-8.1792146498822.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האף",
+      "gloss": "難道你真"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "要廢掉"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "我的判斷"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "要定我有罪"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為了"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "使你自己顯為義"
+    }
+  ],
+  "timestamp": "2026-10-16T10:28:18.823242289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונגש",
+      "rationale": "或作「互相欺壓」（主動反身），或「受欺壓」（被動）；英譯各本分歧。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ירהבו",
+      "rationale": "רהב 意為狂妄、放肆；「狂妄」為最貼近的圖像，非僅「自大」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "狂妄（第二處）",
+      "rationale": "希伯來文動詞 ירהבו 只出現一次，中文重複以完成對句結構。"
+    }
+  ],
+  "translation": "百姓必受欺壓，各人被鄰舍欺壓；人被自己的同伴欺壓；少年人必向老年人狂妄，卑賤的人必向尊貴的人狂妄。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8caa9ba7f17fbdff8bfa49a025950000c275335c4dfa940f91596b8922267569",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/3\/5-8.1792134503372.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "必受欺壓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "被人"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "而人"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "被自己的同伴"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "必狂妄"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "少年人"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "向老年人"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "卑賤的人"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "向尊貴的人"
+    }
+  ],
+  "timestamp": "2026-10-16T07:08:23.373380937Z",
+  "model": "glm-5.3"
+}

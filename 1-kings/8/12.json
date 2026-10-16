@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "祂",
+      "rationale": "「祂要住」的代詞為中文語法所需，希伯來文不定式 לשכן 無主詞。"
+    },
+    {
+      "kind": "crux",
+      "subject": "ערפל",
+      "rationale": "「幽暗／濃雲／黑雲」諸譯：和合本「幽暗」，KJV「厚雲」，字面為天色低沉的昏暗。"
+    },
+    {
+      "kind": "mystery",
+      "subject": "בערפל",
+      "rationale": "雅威選擇住在幽暗之中——隱藏、不可近的臨在，經文刻意保留的奧祕。"
+    }
+  ],
+  "translation": "那時，所羅門說：「雅威曾說，祂要住在幽暗之中。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5a4410f162ccfad969b89850ef66aa415dd1b91d9b54a93cb4d14de09287504e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/8\/9-12.1792132832918.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "那時"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "曾說"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "要住"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "在幽暗之中"
+    }
+  ],
+  "timestamp": "2026-10-16T06:40:32.919168698Z",
+  "model": "glm-5.3"
+}

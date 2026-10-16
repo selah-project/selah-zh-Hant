@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "困苦人",
+      "rationale": "הערער字根意為「赤裸」，指一無所有的人"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תפלת...תפלתם",
+      "rationale": "「祈禱」一詞在同一節中重複兩次，前後呼應"
+    }
+  ],
+  "translation": "祂轉臉垂顧困苦人的祈禱，不輕看⟨את⟩他們的祈禱。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "38816c447df579f62a10ec9aa4bb74f1928f848fff819936d8a49ae76bdeed98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/102\/17-20.1792144597078.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "轉臉垂顧"
+    },
+    {
+      "surface": "אל",
+      "gloss": "朝向"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "祈禱"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "困苦人"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "輕看"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的祈禱"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "他們的祈禱"
+    }
+  ],
+  "timestamp": "2026-10-16T09:56:37.078910028Z",
+  "model": "glm-5.3"
+}

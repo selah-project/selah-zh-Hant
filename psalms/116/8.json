@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "救了",
+      "rationale": "第二、三句的動詞承第一句的חלצת，中文重複補出"
+    },
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 是氣息／生命之力，非「靈魂」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "三疊結構",
+      "rationale": "性命／眼睛／腳三重平行，各配一個「脫離」，排比修辭"
+    }
+  ],
+  "translation": "因為你救了我的性命脫離死亡，救了 ⟨את⟩ 我的眼睛脫離眼淚，救了 ⟨את⟩ 我的腳脫離跌倒。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bf679b867d8ce0507218fe155fd981818a59f80f102dcfea0512928489773723",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/116\/5-8.1792144745470.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "你救了"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "脫離死亡"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的眼睛"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的眼睛"
+    },
+    {
+      "surface": "מן",
+      "gloss": "脫離"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "眼淚"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的腳"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "我的腳"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "跌倒"
+    }
+  ],
+  "timestamp": "2026-10-16T09:59:05.471906582Z",
+  "model": "glm-5.3"
+}

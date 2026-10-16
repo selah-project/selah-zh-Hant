@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 6:16",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "twenty cubits",
+      "rationale": "後部隔間的尺寸：二十肘，採用肘為單位。"
+    },
+    {
+      "kind": "crux",
+      "subject": "מירכותי",
+      "rationale": "字面是「腰\/側腹」，指房屋的後部或盡處；KJV 作「兩側」，JPS 作「後部」。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דביר",
+      "rationale": "罕用詞，指內殿／神諭之所，僅用於聖殿最內室；譯作「內殿」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לקדש הקדשים",
+      "rationale": "「聖中之聖」的疊語結構，中文以「至聖的聖所」保留。"
+    }
+  ],
+  "translation": "他又用香柏木的肋板在房屋的後部建造了⟨את⟩二十肘，從地板直到牆；他又在裡面為它造了內殿，就是至聖的聖所。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2b8e43b1c7d8b0bc353c62dec6397dcb630c902d9c5afdfe274a3533cdc1f2bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/6\/13-16.1792132691269.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "他又建造了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "二十肘"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "מירכותי",
+      "gloss": "在房屋的後部"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "房屋的"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "用肋板"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "香柏木的"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "地板"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "牆"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "他又造了"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為它"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "在裡面"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "內殿"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "作聖所"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "至聖的"
+    }
+  ],
+  "timestamp": "2026-10-16T06:38:11.270807529Z",
+  "model": "glm-5.3"
+}

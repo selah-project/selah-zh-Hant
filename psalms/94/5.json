@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他們",
+      "rationale": "希伯來文動詞無主語，中文明示施壓迫者（上文作惡之人）"
+    },
+    {
+      "kind": "you",
+      "subject": "對雅威",
+      "rationale": "本節直接向雅威呼喊，屬申冤詩的呼告"
+    }
+  ],
+  "translation": "雅威啊，他們壓碎了⟨你的⟩子民，苦害了⟨你的⟩產業。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c13dc5e8a29ba9e5ffdec15748eca7753f18822d289bd2b9bfc61e2bc2d9d757",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/94\/5-8.1792144509226.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "⟨你的⟩子民"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威啊"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "他們壓碎了"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "⟨你的⟩產業"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "苦害了"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:09.227425775Z",
+  "model": "glm-5.3"
+}

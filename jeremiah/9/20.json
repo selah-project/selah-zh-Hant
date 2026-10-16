@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 9:20",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "死亡上到窗戶",
+      "rationale": "死亡擬人化如入侵者越窗而入——入侵不可擋的意象，直譯保留"
+    },
+    {
+      "kind": "substitution",
+      "subject": "孩童",
+      "rationale": "עולל 直譯為「吃奶的嬰孩」，此處指幼童"
+    }
+  ],
+  "translation": "因為死亡上到我們的窗戶，進入了我們的宮殿，要剪除街上的孩童、廣場上的年輕人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3fdec580f51d3c7dab461ce2991977c4f7bad13ab976bc9844df96d735cd160f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/9\/17-20.1792136398603.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上到"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死亡"
+    },
+    {
+      "surface": "בחלונינו",
+      "gloss": "我們的窗戶"
+    },
+    {
+      "surface": "בא",
+      "gloss": "進入了"
+    },
+    {
+      "surface": "בארמנותינו",
+      "gloss": "我們的宮殿"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "要剪除"
+    },
+    {
+      "surface": "עולל",
+      "gloss": "孩童"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "街上的"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "年輕人"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "廣場上的"
+    }
+  ],
+  "timestamp": "2026-10-16T07:39:58.604871686Z",
+  "model": "glm-5.3"
+}

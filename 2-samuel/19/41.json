@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "2-samuel 19:41",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "以色列半數的人民",
+      "rationale": "中文語序需要「以色列半數的人民」，希伯來文直譯為「也 half 人民 以色列」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבר",
+      "rationale": "「渡過」一詞在本節出現三次（王渡、基念渡、眾民渡王），重複強化渡河的動作"
+    }
+  ],
+  "translation": "王渡到吉甲，基念也與他一同渡過；猶大眾民和以色列半數的人民，也渡了 ⟨את⟩ 王過去。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8eeeebf7c52fdde794f3ee6d0727abcca165f7c151c28e8b59c96e9a371234e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/19\/41-44.1792132296719.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "渡到"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "吉甲"
+    },
+    {
+      "surface": "וכמהן",
+      "gloss": "基念"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "渡過"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "與他一同"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "眾"
+    },
+    {
+      "surface": "עם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "也渡了……過去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "也"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "半數的"
+    },
+    {
+      "surface": "עם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T06:31:36.720113767Z",
+  "model": "glm-5.3"
+}

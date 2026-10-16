@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 23:13",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "別神明的名字",
+      "rationale": "אלהים אחרים 在聖名位置之外，指異教諸神，故用「神明」而非「以羅欣」"
+    },
+    {
+      "kind": "crux",
+      "subject": "不可提說",
+      "rationale": "לא תזזכירו 可作「不可提說」或「不可藉之起誓」（參武加大譯本）"
+    }
+  ],
+  "translation": "凡我對你們說過的一切話，你們都要謹守；別神明的名字，你們不可提說，也不可讓它出自你的口。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5093b61dc4fb56e39415ed5f925caafeb762e52504545a564b8db1341b0558f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/23\/13-16.1792126147874.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我……說過"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "對你們"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "你們都要謹守"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "名字"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "神明的"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תזכירו",
+      "gloss": "你們……提說"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "被聽見"
+    },
+    {
+      "surface": "על",
+      "gloss": "出自"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "你的口"
+    }
+  ],
+  "timestamp": "2026-10-16T04:49:07.875019217Z",
+  "model": "glm-5.3"
+}

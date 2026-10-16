@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יצא מחלב עינמו",
+      "rationale": "直譯「他們的眼從肥脂中出來」：或指因肥胖凸出，或指從豐裕生出（邪惡，參七十士譯本）"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עברו",
+      "rationale": "主語或作「心中的想像越出界限」，即想像氾濫；本譯取「他們越過了心中的想像」"
+    }
+  ],
+  "translation": "他們的眼睛因肥脂而凸出；他們越過了心中的想像。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8143da0610d57f3fc6288973516239412e8d24cdde86d572ca5b226efd6b77d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/73\/5-8.1792144102872.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "凸出"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "因肥脂"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "他們的眼睛"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "越過"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "……的想像"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "心中的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:48:22.873182007Z",
+  "model": "glm-5.3"
+}

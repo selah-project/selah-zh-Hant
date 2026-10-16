@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨他們⟩",
+      "rationale": "中文及物動詞需受詞，希伯來文以 אתם 標記受詞"
+    }
+  ],
+  "translation": "你要從以色列人中間取出 ⟨את⟩ 利未人，潔淨 ⟨את⟩ ⟨אותם⟩ ⟨他們⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6cd6930c32ddcfa1ffbd0c6043e0213112408be014d5087a908da84b5bc3a5d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/8\/5-8.1792127681280.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "你要取出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "利未人"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "從……中間"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……之子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "你要潔淨"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "利未人"
+    }
+  ],
+  "timestamp": "2026-10-16T05:14:41.281707012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 29:24",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויחטאו",
+      "rationale": "此動詞可作「行贖罪禮／潔淨」（KJV「made reconciliation」，JPS「made a sin-offering」）或「使……擔罪」；禮儀脈絡支持獻為贖罪之義"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨獻上⟩",
+      "rationale": "希伯來文僅言「燔祭和贖罪祭是為全以色列的」，中文補動詞以成句"
+    }
+  ],
+  "translation": "祭司宰了牠們，用 ⟨את⟩ 牠們的血在祭壇上獻為贖罪祭，為全以色列贖罪；因為王吩咐，燔祭和贖罪祭是為全以色列⟨獻上⟩的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a0b8227fa1ff5d4fb45247c3dd6f253ce85f3c43615b20441bbe91f7e9d26687",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/29\/21-24.1792149581279.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישחטום",
+      "gloss": "宰了牠們"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ויחטאו",
+      "gloss": "獻為贖罪祭"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "牠們的血"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "牠們的血"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "祭壇上"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "為……贖罪"
+    },
+    {
+      "surface": "על",
+      "gloss": "為"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "為全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "吩咐"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "והחטאת",
+      "gloss": "和贖罪祭"
+    }
+  ],
+  "timestamp": "2026-10-16T11:19:41.280696241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "它們",
+      "rationale": "אתם 指前述的邊角與遺穗，中文需補出「它們」所指。"
+    },
+    {
+      "kind": "crux",
+      "subject": "פרט",
+      "rationale": "僅此處與賽65:8意義相近；指散落未收的葡萄，諸譯本或作「落下的果子」（ASV\/JPS）或作「每一顆葡萄」（KJV）。"
+    }
+  ],
+  "translation": "你的葡萄園不可摘盡，你葡萄園剩下的葡萄也不可拾取；要留給窮人和寄居者。我是雅威，你們的以羅欣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "040d901e7cfb789fef6d2f0069f1e70b1c123c92e4e9db9f1e3ea02e9fa0a875",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/19\/9-12.1792127023904.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "你的葡萄園"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "摘盡"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "剩下的葡萄"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "你的葡萄園"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "拾取"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "給窮人"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "和寄居者"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "要留"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "它們（邊角與遺穗）"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "你們的以羅欣"
+    }
+  ],
+  "timestamp": "2026-10-16T05:03:43.905610670Z",
+  "model": "glm-5.3"
+}

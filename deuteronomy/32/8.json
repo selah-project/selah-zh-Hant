@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 32:8",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בני ישראל",
+      "rationale": "馬所拉文本作『以色列子孫的數目』；4QDeut^j 與 LXX 作『神子（בני אלהים）的數目』，BSB 從之；此處依馬所拉。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "疆界與數目",
+      "rationale": "劃定疆界、按數目分配——宇宙性的丈量與計數。"
+    },
+    {
+      "kind": "alternative",
+      "subject": "בהנחל",
+      "gloss": "亦可讀作『使列國承受產業』（使役），非僅『賜給』。"
+    }
+  ],
+  "translation": "至高者將地業賜給列國、分散人類之子的時候，他按以色列子孫的數目定立了眾民的疆界。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "01e6404bb23e7f38f11084473686e15dfc1ce45994dce4abc0e18121c9a1abce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/32\/5-8.1792129325251.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בְּהַנְחֵ֤ל",
+      "gloss": "將地業賜給"
+    },
+    {
+      "surface": "עֶלְיוֹן֙",
+      "gloss": "至高者"
+    },
+    {
+      "surface": "גּוֹיִ֔ם",
+      "gloss": "列國"
+    },
+    {
+      "surface": "בְּהַפְרִיד֖וֹ",
+      "gloss": "分散的時候"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "之子"
+    },
+    {
+      "surface": "אָדָ֑ם",
+      "gloss": "人類"
+    },
+    {
+      "surface": "יַצֵּב֙",
+      "gloss": "定立"
+    },
+    {
+      "surface": "גְּבֻלֹ֣ת",
+      "gloss": "疆界"
+    },
+    {
+      "surface": "עַמִּ֔ים",
+      "gloss": "眾民"
+    },
+    {
+      "surface": "לְמִסְפַּ֖ר",
+      "gloss": "按……的數目"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T05:42:05.253254025Z",
+  "model": "glm-5.3"
+}

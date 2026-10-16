@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "必",
+      "rationale": " Hebrew 未標態；譯作「必倚靠」以對「我懼怕的日子」，存信靠之志"
+    },
+    {
+      "kind": "you",
+      "subject": "向你",
+      "rationale": "詩人直接向以羅欣說話的第二人稱轉向，上文皆第三人稱，此處忽然轉為對神直接傾訴"
+    }
+  ],
+  "translation": "我懼怕的日子，我必倚靠你。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a38d85356925c49aedc5bc6ca629f47794193efb8e83720aad23df69d223b3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/56\/1-4.1792143961981.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "日子"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "我懼怕"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "必倚靠"
+    }
+  ],
+  "timestamp": "2026-10-16T09:46:01.983059221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "如同",
+      "rationale": "希伯來文無比較詞，僅並置「在乾旱之地〔成了〕河」"
+    },
+    {
+      "kind": "alternative",
+      "subject": "河",
+      "rationale": "「在乾旱之地行走〔成為〕一條河」——動詞 הלכו 的主語可以是水或河，兩讀皆通"
+    }
+  ],
+  "translation": "他敞開了磐石，水就湧流出來；在乾旱之地行走如同一條河。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3bcf3e91c9d8187e15f2e68267f20a63cb29afad7a7819666188127303ab1450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/105\/41-44.1792144646872.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "敞開了"
+    },
+    {
+      "surface": "צור",
+      "gloss": "磐石"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "就湧流出來"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "行走"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "在乾旱之地"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "如同一條河"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:26.873165162Z",
+  "model": "glm-5.3"
+}

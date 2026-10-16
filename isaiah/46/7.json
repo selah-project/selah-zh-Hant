@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 46:7",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨他們⟩",
+      "rationale": "希伯來文動詞無獨立主語代詞，中文需補出"
+    },
+    {
+      "kind": "substitution",
+      "subject": "牠",
+      "rationale": "希伯來文對偶像用陽性代詞「他」，中文以「牠」標明是物件而非位格"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "46:4 vs 46:7",
+      "rationale": "上節雅威「我必抱你們、背你們」，本節偶像卻要人扛——背負者與被背者的諷刺倒轉"
+    }
+  ],
+  "translation": "⟨他們⟩把牠扛在肩上，抬著牠，安置在原處，牠就站立，離開原位也不能動；即使有人向牠呼求，牠也不回答，不能救他脫離患難。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f63118e8af6f796429a26da125c4abd1e3690d88d43cc14b87e4d806dbf18030",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/46\/5-8.1792135584658.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישאהו",
+      "gloss": "把牠扛"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "肩上"
+    },
+    {
+      "surface": "יסבלהו",
+      "gloss": "抬著牠"
+    },
+    {
+      "surface": "ויניחהו",
+      "gloss": "安置牠"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "在原處"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "牠就站立"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "離開原位"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "能動"
+    },
+    {
+      "surface": "אף",
+      "gloss": "即使"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "有人呼求"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "向牠"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "回答"
+    },
+    {
+      "surface": "מצרתו",
+      "gloss": "脫離他的患難"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不能"
+    },
+    {
+      "surface": "יושיענו",
+      "gloss": "救他"
+    }
+  ],
+  "timestamp": "2026-10-16T07:26:24.659339832Z",
+  "model": "glm-5.3"
+}

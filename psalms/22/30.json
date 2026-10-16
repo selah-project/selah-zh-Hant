@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש是氣息、生命之力，非不朽的「靈魂」；這裡指必死的生命"
+    },
+    {
+      "kind": "crux",
+      "subject": "而他的性命不能存活",
+      "rationale": "ונפשו לא חיה主語眾說紛紜：或指下拜者無一能自保性命（欽定本），或指那不能存活者也要下拜"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דשני",
+      "rationale": "字面「脂油滿溢者」——豐肥即富足，雙重形象在中文中僅存其義"
+    }
+  ],
+  "translation": "地上一切富足的人都必吃食並敬拜；凡下到塵土的都必在他面前屈膝，連那不能保全自己性命的⟨人也要下拜⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "03fa2f55e08f0629296c390b04d1ea48a7f608edc917030c11d7cf47eb6c461f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/22\/29-32.1792143437637.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "都必吃食"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "並敬拜"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "富足的人"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "在他面前"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "都必屈膝"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "下到"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "塵土的"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "自己的性命"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不能"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "保全…活"
+    }
+  ],
+  "timestamp": "2026-10-16T09:37:17.638199234Z",
+  "model": "glm-5.3"
+}

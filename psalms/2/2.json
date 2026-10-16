@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "臣宰",
+      "rationale": "רוזנים 意為『有分量者、尊貴人』，譯作官職通稱"
+    },
+    {
+      "kind": "elision",
+      "subject": "יחד",
+      "rationale": "『一同』之意已併入『一同商議』，中文不宜重複"
+    }
+  ],
+  "translation": "地上的君王站穩自己，臣宰一同商議，要抵擋雅威和他的受膏者，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "da8a75b40a107b51d77aecac28add6566eac14ccbded1c29b7ae567704b28035",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/2\/1-4.1792143204785.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "站穩自己"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "君王"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "臣宰"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "一同商議"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "一同"
+    },
+    {
+      "surface": "על",
+      "gloss": "抵擋"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "和抵擋"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "他的受膏者"
+    }
+  ],
+  "timestamp": "2026-10-16T09:33:24.786034450Z",
+  "model": "glm-5.3"
+}

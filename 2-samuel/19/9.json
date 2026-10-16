@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 19:9",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "有人",
+      "rationale": "הגידו 是複數動詞「他們告訴」，中文加「有人」作不具名主語"
+    },
+    {
+      "kind": "addition",
+      "subject": "已經",
+      "rationale": "נס 是完成時態，中文以「已經……去了」呈現"
+    },
+    {
+      "kind": "crux",
+      "subject": "經節劃分",
+      "rationale": "希伯來文本將「王起來坐在城門口」列於本節，而多數英譯（KJV、ASV、BSB）將其置於第8節；此處照希伯來文"
+    }
+  ],
+  "translation": "王起來，坐在城門口；有人向眾民報信說：「看哪，王坐在城門口。」眾民都來到王面前，而以色列人已經各自逃回自己的帳棚去了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "66c534f3ddee1849a6f3eaa4f7a6aec74df96257ccc411bae1f5cd173a3afdcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/19\/9-12.1792132239047.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "起來"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "在城門口"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "向眾"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "報信"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "在城門口"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "而以色列"
+    },
+    {
+      "surface": "נס",
+      "gloss": "逃"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "回自己的帳棚"
+    }
+  ],
+  "timestamp": "2026-10-16T06:30:39.048712164Z",
+  "model": "glm-5.3"
+}

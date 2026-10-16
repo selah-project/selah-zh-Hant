@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 5:9",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他的",
+      "rationale": "中文需標明馬車歸屬，希伯來文以詞尾代名詞表達"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לאלישע",
+      "rationale": "介詞ל直譯「給以利沙」，諸譯本多作屬格「以利沙的家」"
+    }
+  ],
+  "translation": "於是乃縵帶著⟨他的⟩馬和車來到，站在以利沙家的門口。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0846c5869772eccb54377734627142943180bc7bc08afe99ab0c9e48f712baff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/5\/9-12.1792133638034.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "乃縵"
+    },
+    {
+      "surface": "בסוסו",
+      "gloss": "帶著他的馬"
+    },
+    {
+      "surface": "וברכבו",
+      "gloss": "和車"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "站在"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門口"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家"
+    },
+    {
+      "surface": "לאלישע",
+      "gloss": "以利沙的"
+    }
+  ],
+  "timestamp": "2026-10-16T06:53:58.035382886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "以致",
+      "rationale": "原文以 והיה כי 連接，中文以「以致」表達後果語氣"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תלכון／תלכו",
+      "rationale": "同一動詞「去」重複兩次（你們去的時候……必不空手而去），中文保留重複"
+    }
+  ],
+  "translation": "我必使這百姓在埃及人眼前蒙恩，以致你們去的時候，必不至於空手而去。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "756e820c391c09522ada565f4c107fca40c31b7e511203abd2cfcbcb674970f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/3\/21-22.1792125719147.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "我必賜下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恩"
+    },
+    {
+      "surface": "חן",
+      "gloss": "恩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "這百姓"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "在……眼中"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及人"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "事情必是"
+    },
+    {
+      "surface": "כי",
+      "gloss": "當……的時候"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "你們去"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "你們去"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "空手"
+    }
+  ],
+  "timestamp": "2026-10-16T04:41:59.149029109Z",
+  "model": "glm-5.3"
+}

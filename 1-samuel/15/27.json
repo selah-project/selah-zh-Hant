@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 15:27",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "掃羅",
+      "rationale": "原文動詞無主語，中文需指明是掃羅抓住"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויקרע",
+      "rationale": "外袍撕裂預演下一節「雅威撕裂以色列國」——同一動詞貫穿兩節"
+    }
+  ],
+  "translation": "撒母耳轉身要走，掃羅就抓住他外袍的衣角，衣角就撕裂了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "73b0da0a52185a0dbc56080644a165955a2842b281fbe3342d099fe0d263981e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/15\/25-28.1792131063793.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "轉身"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "要走"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "抓住"
+    },
+    {
+      "surface": "בכנף",
+      "gloss": "衣角"
+    },
+    {
+      "surface": "מעילו",
+      "gloss": "他的外袍"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "撕裂了"
+    }
+  ],
+  "timestamp": "2026-10-16T06:11:03.794821304Z",
+  "model": "glm-5.3"
+}

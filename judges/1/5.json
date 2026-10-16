@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בבזק",
+      "rationale": "人名「亞多尼比色」與地名「伯夙」（比色城）同字根，中文以不同譯名區分。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "擊敗",
+      "rationale": "נכה 字面為「擊打」，此處指擊殺擊敗。"
+    }
+  ],
+  "translation": "他們在伯夙 ⟨את⟩ 亞多尼比色，就與他爭戰，擊敗了 ⟨את⟩ 迦南人和 ⟨את⟩ 比利洗人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ffe47007b9a925708348fd3e8d52e9a4269d343800f88cf0886fce1b62eced73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/1\/5-8.1792130036673.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "他們找到"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞多尼比色"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "亞多尼"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "比色"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "在伯夙"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "就爭戰"
+    },
+    {
+      "surface": "בו",
+      "gloss": "與他"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "擊敗了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "迦南人"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "迦南人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "比利洗人"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "比利洗人"
+    }
+  ],
+  "timestamp": "2026-10-16T05:53:56.674212124Z",
+  "model": "glm-5.3"
+}

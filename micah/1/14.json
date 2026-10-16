@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 1:14",
+  "book": "micah",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אכזיב\/לאכזב",
+      "rationale": "地名「亞革悉」與名詞「欺謊（אכזב）」同音雙關，中文只能以並置保留。"
+    },
+    {
+      "kind": "crux",
+      "subject": "שלוחים",
+      "rationale": "字面為「打發走之物／離別禮」：或指休書、或指送別的聘禮，譯本分歧（KJV『禮物』vs ASV『離別禮』）。"
+    },
+    {
+      "kind": "you",
+      "subject": "to 猶大／耶路撒冷",
+      "rationale": "延續上文的呼告，向猶大說話。"
+    }
+  ],
+  "translation": "因此，你必將離別的禮物送給摩利設‧迦特；亞革悉的眾家成了對以色列諸王的欺謊。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9e58cdf6ab36079e078ebc23e8684a54a179cff85e840de61b7a24d1496642c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/micah\/1\/13-16.1792139940199.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "因此"
+    },
+    {
+      "surface": "תתני",
+      "gloss": "你必給"
+    },
+    {
+      "surface": "שלוחים",
+      "gloss": "離別的禮物"
+    },
+    {
+      "surface": "על",
+      "gloss": "給"
+    },
+    {
+      "surface": "מורשת",
+      "gloss": "摩利設"
+    },
+    {
+      "surface": "גת",
+      "gloss": "迦特"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "眾家"
+    },
+    {
+      "surface": "אכזיב",
+      "gloss": "亞革悉"
+    },
+    {
+      "surface": "לאכזב",
+      "gloss": "成了欺謊"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "對諸王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T08:39:00.200529468Z",
+  "model": "glm-5.3"
+}

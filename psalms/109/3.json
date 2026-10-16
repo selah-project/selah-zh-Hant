@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דברי\/דברו",
+      "rationale": "「言語」（v3）承接「他們說話」（v2），嘴—言語—仇恨的遞進鏈"
+    }
+  ],
+  "translation": "他們用仇恨的言語四面圍繞我，無故攻打我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4e93a87331292423e31d0b6e0900e868c52634e2c0ed0f8b730ebf095603344d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/109\/1-4.1792144773395.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "而……的言語"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "仇恨"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "他們四面圍繞我"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "他們攻打我"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "無故"
+    }
+  ],
+  "timestamp": "2026-10-16T09:59:33.396131887Z",
+  "model": "glm-5.3"
+}

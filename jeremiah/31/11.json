@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "者",
+      "rationale": "希伯來文 חזק 為形容詞「強的」，中文加「者」名詞化"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פדה\/גאל",
+      "rationale": "兩個救贖動詞並列——付贖金釋放與近親贖回——中文以「救贖」「救拔」分別之"
+    }
+  ],
+  "translation": "因為雅威救贖了 ⟨את⟩ 雅各，救拔他脫離比他強者的手。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2caa4c5d43f9748098e6e07adc3ae3f21d6e0d581a9d3be67ae6a5bc39142254",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/31\/10-12.1792142564324.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "救贖了"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅各"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "救拔他"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "脫離……的手"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "比他強者"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "比他"
+    }
+  ],
+  "timestamp": "2026-10-16T09:22:44.325343234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 30:13",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דן דינך",
+      "rationale": "「斷定你的案件」（有中保代為申辯）與「無人判你痊癒」兩讀並存；譯者多取申辯義"
+    },
+    {
+      "kind": "elision",
+      "subject": "תעלה",
+      "rationale": "「水道／纏裹膏藥」一詞雙義，此處取纏裹義，水道之象在中文中失去"
+    },
+    {
+      "kind": "mystery",
+      "subject": "אין לך",
+      "rationale": "傷無法治的宣告，呼應下文 v15 的「無法醫治」，與 v17 的醫治應許相對"
+    }
+  ],
+  "translation": "無人斷定你的案件、纏裹你的傷處；醫治的藥物、纏裹之物，你一概沒有。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "99297e10cd8919fe9d434c72cf7f0c844a03727ca62dde7d34ca55c9554d468d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/30\/13-16.1792136969680.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "無人"
+    },
+    {
+      "surface": "דן",
+      "gloss": "斷定"
+    },
+    {
+      "surface": "דינך",
+      "gloss": "你的案件"
+    },
+    {
+      "surface": "למזור",
+      "gloss": "傷處"
+    },
+    {
+      "surface": "רפאות",
+      "gloss": "醫治的藥物"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "纏裹之物"
+    },
+    {
+      "surface": "אין",
+      "gloss": "沒有"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    }
+  ],
+  "timestamp": "2026-10-16T07:49:29.681350244Z",
+  "model": "glm-5.3"
+}

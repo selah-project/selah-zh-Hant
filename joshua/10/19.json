@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 10:19",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "攻擊他們的後隊",
+      "rationale": "זנב 字面是「尾巴」，作動詞指攻擊隊伍的末後；直譯「咬他們的尾巴」會誤導"
+    },
+    {
+      "kind": "addition",
+      "subject": "了",
+      "rationale": "נתנם 完成式，中文句末語氣詞補足"
+    },
+    {
+      "kind": "you",
+      "subject": "對以色列人",
+      "rationale": "約書亞對作戰的以色列人直接的命令式話語"
+    }
+  ],
+  "translation": "你們卻不要停留，要追趕你們的仇敵，攻擊他們的後隊；不要讓他們進入他們的城，因為雅威——你們的以羅欣——已經把他們交在你們手中了。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3ad32088330da79b6e7acf6dbf391c509a699a8de7c731ddd8a46b22dc209c47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/10\/17-20.1792129614563.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "停留"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "追趕"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "在…之後"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "你們的仇敵"
+    },
+    {
+      "surface": "וזנבתם",
+      "gloss": "攻擊他們的後隊"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "他們"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不要"
+    },
+    {
+      "surface": "תתנום",
+      "gloss": "讓他們"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "進入"
+    },
+    {
+      "surface": "אל",
+      "gloss": "進入"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "他們的城"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "把他們交給"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "你們的以羅欣"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "在你們手中"
+    }
+  ],
+  "timestamp": "2026-10-16T05:46:54.565087389Z",
+  "model": "glm-5.3"
+}

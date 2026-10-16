@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "屬",
+      "rationale": "希伯來文的 lamed 前置詞表示歸屬，中文加「屬」字表明"
+    }
+  ],
+  "translation": "交與伶長，屬雅威的僕人大衛。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "56927c43cecf8b25b70b732c1a04dced4b8ded1889b4e181f9041d2f23ee6fd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/36\/1-4.1792143681803.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "交與伶長"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "僕人"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛"
+    }
+  ],
+  "timestamp": "2026-10-16T09:41:21.803465436Z",
+  "model": "glm-5.3"
+}

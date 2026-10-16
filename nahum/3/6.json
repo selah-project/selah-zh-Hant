@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nahum 3:6",
+  "book": "nahum",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "被",
+      "rationale": "ונבלתיך 為使役主動「我使你卑賤」，中文以被動式表達更自然"
+    },
+    {
+      "kind": "crux",
+      "subject": "כראי",
+      "rationale": "「如一景象／觀看之物」（KJV gazingstock）vs JPS「如糞土」（讀作 רֹאִי 與 דֹמֶן 之辨）"
+    },
+    {
+      "kind": "you",
+      "subject": "to 尼尼微",
+      "rationale": "延續上節對尼尼微的直接宣告"
+    }
+  ],
+  "translation": "我必將可憎之物拋在你身上，使你被輕賤，又把你立為眾人觀看的景象。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6176f93705001e8f1b3bb52693a290632d059bea6e2fbfd0bf3dafa0b2f1cc35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nahum\/3\/5-8.1792142737128.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשלכתי",
+      "gloss": "我必拋在"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "在你身上"
+    },
+    {
+      "surface": "שקצים",
+      "gloss": "可憎之物"
+    },
+    {
+      "surface": "ונבלתיך",
+      "gloss": "使你被輕賤"
+    },
+    {
+      "surface": "ושמתיך",
+      "gloss": "把你立為"
+    },
+    {
+      "surface": "כראי",
+      "gloss": "觀看的景象"
+    }
+  ],
+  "timestamp": "2026-10-16T09:25:37.129972782Z",
+  "model": "glm-5.3"
+}

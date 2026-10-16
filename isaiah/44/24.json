@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 44:24",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מי אתי",
+      "rationale": "אתי 此處是 H854 介詞「與我同在」而非受詞記號 H853；KJV 視為「憑我自己鋪展大地」，YLT\/ASV 視為問句「誰與我同在呢？」——此處從問句。"
+    },
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "אנכי יהוה 無繫詞，中文以同位語「我雅威是」補足判斷句。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רקע",
+      "rationale": "רקע 本義「搥打展開」（如金屬鎚薄），是創世記 raqia 的動詞——鋪展大地如匠人搥薄金屬。"
+    }
+  ],
+  "translation": "救贖你、從母腹塑造你的雅威如此說：我雅威是造萬有的，獨自鋪張諸天，鋪展大地——誰與我同在呢？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9bbce83601a6c1ef4d4e2a5fad2000ed029a3995d92e0f95cc470a58d266240f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/44\/21-24.1792135550528.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "如此"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "גאלך",
+      "gloss": "救贖你的"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "和塑造你的"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "從母腹"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造"
+    },
+    {
+      "surface": "כל",
+      "gloss": "萬有"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "鋪張"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "獨自"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "鋪展"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩（與我同在）",
+      "marks": "與我同在"
+    }
+  ],
+  "timestamp": "2026-10-16T07:25:50.529383763Z",
+  "model": "glm-5.3"
+}

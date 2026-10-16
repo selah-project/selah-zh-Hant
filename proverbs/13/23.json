@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 13:23",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויש נספה בלא משפט",
+      "rationale": "第二半句語義晦暗：「有被無公平掃滅的」——指缺乏公義使收成被吞沒；各家譯本分歧極大"
+    },
+    {
+      "kind": "substitution",
+      "subject": "窮人",
+      "rationale": "ראשים 字面「貧乏者」，與「耕種的田地」為同位語"
+    }
+  ],
+  "translation": "窮人耕種的田地有多量的食物，但有不因公平而被掃滅的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c487371a4714a3d36105e8e3d1e86f6bf38271077a412ffcd73403cb9c993ff5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/13\/21-24.1792145365580.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "多量"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食物"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "耕種的田地"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "窮人"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "但有"
+    },
+    {
+      "surface": "נספה",
+      "gloss": "被掃滅"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "不因"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公平"
+    }
+  ],
+  "timestamp": "2026-10-16T10:09:25.581373251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "殺人",
+      "rationale": "רצח指蓄意殺人（謀殺），與一般的「殺」（הרג）有別；「不可殺人」與「不可謀殺」之爭。"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "十誡以單數第二人稱對每一以色列人說話。"
+    }
+  ],
+  "translation": "不可殺人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9289121080cd06bd9d21e88ba644c54479a16330ef9346c8b2c101fe3f174e5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/20\/13-16.1792126008205.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "殺人"
+    }
+  ],
+  "timestamp": "2026-10-16T04:46:48.205700793Z",
+  "model": "glm-5.3"
+}

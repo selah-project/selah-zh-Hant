@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 26:46",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "והתורת",
+      "rationale": "妥拉保留音譯（訓誨之義），不譯作單獨的「律法」，以免引入後來的對立框架。"
+    },
+    {
+      "kind": "addition",
+      "subject": "祂自己",
+      "rationale": "希伯來文בינו ובין只作「在祂與……之間」，中文補「祂自己」以示單數反身。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "本節",
+      "rationale": "本節是利未記26章的總結，列出律例、典章、妥拉三類並指明頒布的地點與中介，屬收束性列舉。"
+    }
+  ],
+  "translation": "這些就是律例、典章和妥拉，是雅威在西奈山上、藉摩西的手，在祂自己與以色列子孫之間所立的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "80c72a2b405ad72c60fa7b22a60c77ca4bfc5f1ba4012414a4af45de1b68cc98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/26\/45-46.1792127346977.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "律例"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "和典章"
+    },
+    {
+      "surface": "והתורת",
+      "gloss": "和妥拉"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "是"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "所立的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "在祂自己與"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "之間"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "在山上"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "西奈"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "藉……的手"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    }
+  ],
+  "timestamp": "2026-10-16T05:09:06.978325745Z",
+  "model": "glm-5.3"
+}

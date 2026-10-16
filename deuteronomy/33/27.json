@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 33:27",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "首句希伯來文無繫動詞，中文需要「是」。"
+    },
+    {
+      "kind": "crux",
+      "subject": "השמד",
+      "rationale": "不定式絕對式作命令／宣告：「滅絕！」——是雅威命令毀滅，還是描述敵人被滅的結果；傳統取命令式。"
+    }
+  ],
+  "translation": "居所是亙古的以羅欣，下面是永恆的膀臂；他從你面前趕出仇敵，說：滅絕吧。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "67f3d8fca57661e18ca252ddd0319b9708581d1a1571610ed31b1af14c4eb4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/33\/25-28.1792129324991.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "居所"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "亙古的"
+    },
+    {
+      "surface": "ומתחת",
+      "gloss": "下面"
+    },
+    {
+      "surface": "זרעת",
+      "gloss": "膀臂"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永恆的"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "趕出"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "從你面前"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "仇敵"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "השמד",
+      "gloss": "滅絕吧"
+    }
+  ],
+  "timestamp": "2026-10-16T05:42:04.992254503Z",
+  "model": "glm-5.3"
+}

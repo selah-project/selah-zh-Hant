@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 49:17",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בניך",
+      "rationale": "傳統讀作「你的兒女」，但與下文建造意象平行，多本（欽定本亦作 or marg.）讀作「你的建造者」（מַהֲרִיך 的異讀）"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מהרו\/מהרסיך\/מחרibיך",
+      "rationale": "三個 מ-ה-ר 字根詞的頭韻呼應：急忙—毀壞—荒廢，中文無法保留"
+    }
+  ],
+  "translation": "你的兒女急忙前來；你的毀壞者和你的荒廢者必從你那裡出去。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "731b60d89bade3a78ee1bbb6d6513c52d30c0293282c1249de9b12712026b0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/49\/17-20.1792135608728.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "急忙"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "你的兒女"
+    },
+    {
+      "surface": "מהרסיך",
+      "gloss": "你的毀壞者"
+    },
+    {
+      "surface": "ומחרביך",
+      "gloss": "和你的荒廢者"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "從你那裡"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "出去"
+    }
+  ],
+  "timestamp": "2026-10-16T07:26:48.729857145Z",
+  "model": "glm-5.3"
+}

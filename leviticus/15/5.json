@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 15:5",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "他",
+      "rationale": "במשכבו 的後綴代名詞指患漏症者，中文以「他」表明"
+    },
+    {
+      "kind": "substitution",
+      "subject": "不潔淨",
+      "rationale": "טמא 是禮儀上的不潔狀態，非道德上的污穢"
+    }
+  ],
+  "translation": "凡觸摸他床鋪的人，要洗自己的衣服，在水裡洗澡，並且不潔淨直到傍晚。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "78721a5269acdcf92bcd6355f88ecfd946ea7775fe5d0303ea6a9804bbcc0e75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/15\/5-8.1792127047987.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "凡……的人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "凡"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "觸摸"
+    },
+    {
+      "surface": "במשכבו",
+      "gloss": "他床鋪"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "要洗"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "自己的衣服"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "並且洗澡"
+    },
+    {
+      "surface": "במים",
+      "gloss": "在水裡"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "並且不潔淨"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "傍晚"
+    }
+  ],
+  "timestamp": "2026-10-16T05:04:07.988416041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 27:16",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "治理",
+      "rationale": "על字面是「在…之上」，即「在會眾之上」；「治理」是角色的引申"
+    },
+    {
+      "kind": "you",
+      "subject": "對雅威",
+      "rationale": "摩西直接向雅威發出的祈禱，請求設立繼任者"
+    },
+    {
+      "kind": "crux",
+      "subject": "一切血肉之人的眾魯阿的以羅欣",
+      "rationale": "「眾魯阿」為複數：雅威是賜下所有人生命氣息（רוח複數）的那一位；譯作單數「萬人之靈的神」會抹去複數形態"
+    }
+  ],
+  "translation": "「願雅威、一切血肉之人的眾魯阿（靈）的以羅欣（神），設立一個人治理這會眾，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "bce42ac82121b26e6d49a1c5de78855d9b844375f9b75e99703654ea2261e66f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/27\/13-16.1792128244568.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפקד",
+      "gloss": "願…設立"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…的以羅欣"
+    },
+    {
+      "surface": "הרוחת",
+      "gloss": "眾魯阿"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "血肉之人"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一個人"
+    },
+    {
+      "surface": "על",
+      "gloss": "治理"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "這會眾"
+    }
+  ],
+  "timestamp": "2026-10-16T05:24:04.569404668Z",
+  "model": "glm-5.3"
+}

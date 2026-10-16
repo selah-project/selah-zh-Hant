@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "2-samuel 22:48",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨那一位⟩",
+      "rationale": "中文需要名詞性補語以完成分詞句，希伯來文無此詞。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "施行報復",
+      "rationale": "נקמות複數「報復之事」，中文取「施行報復」以合語感。"
+    }
+  ],
+  "translation": "這位伊勒，就是為我施行報復、使萬民服在我以下的⟨那一位⟩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "70890e97f80619014a94292fc6223ac128d10a04bb9c3975c5f0de1dce5976cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/22\/45-48.1792132349853.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "這位伊勒"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "施行"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "報復"
+    },
+    {
+      "surface": "לי",
+      "gloss": "為我"
+    },
+    {
+      "surface": "ומוריד",
+      "gloss": "使…降下"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "萬民"
+    },
+    {
+      "surface": "תחתני",
+      "gloss": "在我以下"
+    }
+  ],
+  "timestamp": "2026-10-16T06:32:29.854599524Z",
+  "model": "glm-5.3"
+}

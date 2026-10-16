@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "中文頌讚句需要「是」作繫詞，希伯來文無。"
+    },
+    {
+      "kind": "you",
+      "subject": "to YHWH",
+      "rationale": "大衛向雅威的直接稱頌禱告，自此展開至第13節。"
+    }
+  ],
+  "translation": "大衛在全會眾眼前稱頌 ⟨את⟩ 雅威，說：「雅威——以色列的以羅欣、我們的父啊，你從永遠直到永遠是應當稱頌的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "88ea3f74b3c79d46ed22924f10adbbd73a9db1041ef805e5554c1111b19025d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/29\/9-12.1792149057230.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "於是稱頌"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "在……眼前"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "應當稱頌的"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "我們的父"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "從永遠"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-10-16T11:10:57.231011829Z",
+  "model": "glm-5.3"
+}

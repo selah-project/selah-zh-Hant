@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 30:33",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "陌生人",
+      "rationale": "זר 指外人、族外之人，非道德上的「陌生人」"
+    },
+    {
+      "kind": "idiom",
+      "subject": "被剪除",
+      "rationale": "ונכרת 直譯「被砍斷」，希伯來語指從族群中被除名滅絕"
+    }
+  ],
+  "translation": "凡調製與它相同的，或將其中一些倒在陌生人身上的，這人必從他民中被剪除。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8ed5eccd85c34d0c3e83bb797457f782b287bf4dc81b900a1c810b78c1d77b78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/30\/33-36.1792126347247.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "凡…的人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "（關係詞）"
+    },
+    {
+      "surface": "ירקח",
+      "gloss": "調製"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "與它相同的"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "或"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "倒"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "其中一些"
+    },
+    {
+      "surface": "על",
+      "gloss": "在…之上"
+    },
+    {
+      "surface": "זר",
+      "gloss": "陌生人"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "必被剪除"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "從他民中"
+    }
+  ],
+  "timestamp": "2026-10-16T04:52:27.247895326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "קדם פנים",
+      "rationale": "直譯「在……面前先行」，希伯來成語指進到某人面前，譯作「來到他面前」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "感謝",
+      "rationale": "תודה 本義為「伸手」（獻祭動作），引申為感恩的宣告"
+    }
+  ],
+  "translation": "我們要以感謝來到他面前，用詩歌向他大聲呼喊。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "10d86986e2ff93155526143b6e52afb9b7bf2e9ef6d05a572507347523f37b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/95\/1-4.1792144495114.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "我們要來到"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "他面前"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "以感謝"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "用詩歌"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "大聲呼喊"
+    },
+    {
+      "surface": "לו",
+      "gloss": "向他"
+    }
+  ],
+  "timestamp": "2026-10-16T09:54:55.114812419Z",
+  "model": "glm-5.3"
+}

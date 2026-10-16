@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "那裡",
+      "rationale": "אל משה 直譯「到摩西」，中文加「那裡」使方向明確"
+    },
+    {
+      "kind": "measurement",
+      "subject": "器具清單",
+      "rationale": "本節逐項列出會幕部件——鉤子、木板、橫閂、柱子、卯座——是清點式目錄"
+    }
+  ],
+  "translation": "他們把會幕帶到摩西那裡，⟨את⟩ 帳棚和 ⟨את⟩ 它一切的器具、它的鉤子、它的木板、它的橫閂、它的柱子和它的卯座。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0278095b3dfb63217d3cfd3074611131d349ca6a25e4ebb3151501e75b46320d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/39\/33-36.1792126654246.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "他們帶到"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "會幕"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "帳棚"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "它一切的器具"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "它的器具"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "它的鉤子"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "它的木板"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "它的橫閂"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "它的柱子"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "它的卯座"
+    }
+  ],
+  "timestamp": "2026-10-16T04:57:34.247437356Z",
+  "model": "glm-5.3"
+}

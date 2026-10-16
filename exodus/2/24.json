@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "所立的約",
+      "rationale": "希伯來文僅列三個名字，未重述「立約」；中文補出使句子完整"
+    },
+    {
+      "kind": "elision",
+      "subject": "就是與",
+      "rationale": "第三個 את 及人名前的 את 在中文以連接詞「與」吸收"
+    }
+  ],
+  "translation": "以羅欣聽見 ⟨את⟩ 他們的呻吟，以羅欣記起 ⟨את⟩ 他的約，就是與 ⟨את⟩ 亞伯拉罕、⟨את⟩ 以撒、⟨את⟩ 雅各所立的約。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "83a87c186a844b9a3823942c09b5ec4114d9aaed6f8622eea264855397fa0620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/2\/21-24.1792125713723.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的呻吟"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "他們的呻吟"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "記起"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的約"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "他的約"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞伯拉罕"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以撒"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "雅各"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    }
+  ],
+  "timestamp": "2026-10-16T04:41:53.726436310Z",
+  "model": "glm-5.3"
+}

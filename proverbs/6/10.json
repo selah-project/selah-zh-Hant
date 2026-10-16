@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מעט שלוש פעמים",
+      "rationale": "「片刻」三重重複，懶人自我安撫的節奏"
+    },
+    {
+      "kind": "substitution",
+      "subject": "打盹",
+      "rationale": "תנומות是輕淺的瞌睡，與שנות（睡眠）有別"
+    }
+  ],
+  "translation": "再睡片刻，再打盹片刻，再抱著手躺臥片刻——",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "532396e5db5b86b07b5ff7bba1564058f28ec2ef4836b75cf3c5851434f7d978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/6\/9-12.1792145187813.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "片刻"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "睡"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "片刻"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "打盹"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "片刻"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "抱著"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "手"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "躺臥"
+    }
+  ],
+  "timestamp": "2026-10-16T10:06:27.814446536Z",
+  "model": "glm-5.3"
+}

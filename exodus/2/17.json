@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "她們",
+      "rationale": "希伯來文動詞詞尾已含受詞，中文補出代名詞以明確所指"
+    }
+  ],
+  "translation": "牧人們來了，把他們趕走；摩西起來拯救她們，並飲了 ⟨את⟩ 她們的羊群。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6ef902e650cfb46a2d455753ba0f3c24bf9d15fe29c3295b9fa869d5e91ba189",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/2\/17-20.1792125682049.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "來了"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "牧人們"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "把他們趕走"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "起來"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "拯救她們"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "飲了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "她們的羊群"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "她們的羊群"
+    }
+  ],
+  "timestamp": "2026-10-16T04:41:22.050004022Z",
+  "model": "glm-5.3"
+}

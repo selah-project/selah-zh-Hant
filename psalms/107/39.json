@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מעצר",
+      "rationale": "可讀作與「災禍」構成 construct「災禍的壓制」（JPS）或三個並列名詞「壓制、災禍、憂愁」（KJV）；此處取並列讀法"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עֹצֶר",
+      "rationale": "字面為「關閉、拘限」，指被攔阻困住，譯作「壓制」取其果"
+    }
+  ],
+  "translation": "他們因壓制、災禍與憂愁而減少、卑屈低頭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0a76bb418e8ac9b7fcc85f1f000cf59f3a68eece92414ddbfee56ba39d3661e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/107\/37-40.1792144667657.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימעטו",
+      "gloss": "減少"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "卑屈低頭"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "壓制"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "災禍"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "憂愁"
+    }
+  ],
+  "timestamp": "2026-10-16T09:57:47.658932848Z",
+  "model": "glm-5.3"
+}

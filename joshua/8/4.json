@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 8:4",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתם（受詞記號）",
+      "rationale": "H853 之複數形 אֹתָם，中文以「他們」承接，記號以 ⟨את⟩ 保留"
+    },
+    {
+      "kind": "you",
+      "subject": "to 伏兵",
+      "rationale": "約書亞直接向三萬伏兵下令，一連串複數命令式"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ראו",
+      "rationale": "「看」喚起聽者的注意，是命令的開場"
+    }
+  ],
+  "translation": "他吩咐他們說：「看，你們要在城後埋伏，對著城；不可離城太遠，你們全體都要準備好。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8f22ff8e03a78d4be1455485096c1d50cd81157e2b640c5c0e1aec7450d05e74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/8\/1-4.1792129646522.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "他吩咐"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "他們"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "看"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "要埋伏"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "對著城"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "在……後面"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "離得太遠"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "太"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "你們要"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "全體"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "準備好"
+    }
+  ],
+  "timestamp": "2026-10-16T05:47:26.523682937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ועשתרות",
+      "rationale": "字面「增產」，字形與異邦女神亞斯她錄（עשתרות）相同，可能雙關，中文譯「新生的」存其義"
+    },
+    {
+      "kind": "addition",
+      "subject": "新羔",
+      "rationale": "עשתרות צאנך 指羊群所產的幼畜，中文補「新羔」以對應牛群的新犢"
+    }
+  ],
+  "translation": "你身所生的、你地土所出的、你牲畜所下的，你牛群的新犢和你羊群的新羔，都必蒙福。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "21703a1de4c5c76889f90533aabee9bce3b6a78509f504cbd8998e0c2c42a2d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/28\/1-4.1792129211415.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "都必蒙福"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "所生的果子"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "你的身"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "和…的果子"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "你的地土"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "和…的果子"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "你的牲畜"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "新生的"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "你的牛群"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "和新生的"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "你的羊群"
+    }
+  ],
+  "timestamp": "2026-10-16T05:40:11.416801946Z",
+  "model": "glm-5.3"
+}

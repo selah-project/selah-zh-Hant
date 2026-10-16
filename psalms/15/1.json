@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "啊",
+      "rationale": "中文呼格需加感嘆詞，希伯來文僅直呼聖名"
+    },
+    {
+      "kind": "invitation",
+      "subject": "誰能寄居",
+      "rationale": "以重複的提問向敬拜者發問，邀請聽者自省"
+    },
+    {
+      "kind": "you",
+      "subject": "雅威",
+      "rationale": "直接向雅威發問"
+    }
+  ],
+  "translation": "大衛的詩。雅威啊，誰能寄居在你的帳棚裡？誰能住在你的聖山上？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7bd07a927db12a3c9f3ba9985d72ca75203c33e4e56e90f4e39c2c8eb5ed67a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/15\/1-4.1792143334522.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "詩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "寄居"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "在你的帳棚裡"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "住"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "在山上"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "你的聖"
+    }
+  ],
+  "timestamp": "2026-10-16T09:35:34.522856028Z",
+  "model": "glm-5.3"
+}

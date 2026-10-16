@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 8:18",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "「我卻不聽」的「卻」",
+      "rationale": "ו is簡單連接詞，中文以「卻」表達原文的讓步轉折語氣（「雖然大聲呼求…我卻不聽」）"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חוס／חמל",
+      "rationale": "兩個近義動詞「顧惜／憐惜」並列的否定，形成希伯來文常見的平行強調，中文以兩個近義詞保留"
+    }
+  ],
+  "translation": "我也要在烈怒中行事；我的眼必不顧惜，我也不憐惜。他們在我耳中大聲呼求，我卻不聽 ⟨את⟩ 他們。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "77b8fa1e0b355580b60e4b4872b538b2f2dd331c7959ac955c28091a6d4da268",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/8\/17-18.1792138031312.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "我也"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "行事"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "在烈怒中"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "顧惜"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的眼"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也不"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "憐惜"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "他們呼求"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "在我耳中"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲音"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "而我…不"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "他們"
+    }
+  ],
+  "timestamp": "2026-10-16T08:07:11.313373447Z",
+  "model": "glm-5.3"
+}

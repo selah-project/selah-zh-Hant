@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文以「是」補足"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מכרתיהם",
+      "rationale": "מכרה（刀）在塔納赫中僅此一見"
+    },
+    {
+      "kind": "crux",
+      "subject": "מכרתיהם",
+      "rationale": "或作「他們的盟約」（יְחֻתֵיהֶם 母音互換的讀法，參 LXX），和合本與多數譯本取「刀劍」"
+    }
+  ],
+  "translation": "西緬和利未是弟兄；他們的刀劍是殘暴的器具。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5ac288b5347b8a206f7033ea468830eeb62bf743b1517f85389b1b9b1a74a250",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/49\/5-8.1792125689847.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעון",
+      "gloss": "西緬"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "和利未"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "是弟兄"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器具"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "殘暴的"
+    },
+    {
+      "surface": "מכרתיהם",
+      "gloss": "他們的刀劍"
+    }
+  ],
+  "timestamp": "2026-10-16T04:41:29.847492758Z",
+  "model": "glm-5.3"
+}

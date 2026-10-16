@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עקב word order",
+      "rationale": "希伯來文動詞『被選擇』以נבחר為受動分詞置於句首：『被選的名勝於多財』，中文語序須重排"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חן טוב",
+      "rationale": "『美好的恩』與上句『美好的名』呼應，恩寵與名聲平行對仗"
+    }
+  ],
+  "translation": "名聲勝於大量財富，蒙恩勝於銀子和金子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "da30ecec23518da05e20c566ab391ef5a453dbaa5d01661c9410f34e9853b227",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/22\/1-4.1792145571667.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "被選擇"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名聲"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "勝於財富"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大量的"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "勝於銀子"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "和金子"
+    },
+    {
+      "surface": "חן",
+      "gloss": "恩"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "美好"
+    }
+  ],
+  "timestamp": "2026-10-16T10:12:51.667614831Z",
+  "model": "glm-5.3"
+}

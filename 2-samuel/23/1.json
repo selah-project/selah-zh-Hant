@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 23:1",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הקם על",
+      "rationale": "「被高舉起來（在高處）」：有譯作『被立』（膏立的被動）或『被高舉』（地位崇高），取後者的空間畫面。"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨他就是⟩",
+      "rationale": "中文需補出受膏者與勇士同指一人的繫詞結構，希伯來文無此字。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "以色列歌聲甘美的人",
+      "rationale": "נעים זמרות 直譯『歌聲的甘美』，為頭銜式構詞組合；KJV『sweet psalmist』的『詩篇作者』是角色化意譯。"
+    }
+  ],
+  "translation": "以下是大衛末後的話：耶西的兒子大衛如此說，那被高舉起來的勇士如此說，⟨他就是⟩雅各之以羅欣（神）的受膏者，是以色列歌聲甘美的人：",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c277934e0e38c1ec7f1cb3759eae4009c23fb883d4aaffa2975176497c0d45c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/23\/1-4.1792132413968.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "以下是"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "的話"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "האחרנים",
+      "gloss": "末後的"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "如此說"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "耶西"
+    },
+    {
+      "surface": "ונאם",
+      "gloss": "如此說"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "被高舉起來"
+    },
+    {
+      "surface": "על",
+      "gloss": "在高處"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "受膏者"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣的"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "甘美的"
+    },
+    {
+      "surface": "זמרות",
+      "gloss": "歌聲"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T06:33:33.968871528Z",
+  "model": "glm-5.3"
+}

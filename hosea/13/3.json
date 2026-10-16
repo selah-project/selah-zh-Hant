@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 13:3",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מארבה",
+      "rationale": "或譯「煙囪」（KJV）或「窗欞」（JPS、BSB）；本詞字面為格狀窗，取「窗欞」。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "四重比喻",
+      "rationale": "雲、露、糠、煙四個消散意象連環排比，中文保留其並列節奏。"
+    }
+  ],
+  "translation": "因此他們必如清晨的雲、如早早就消逝的露、如被狂風吹離打穀場的糠秕、如從窗欞冒出的煙。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ca0f4fb742851dcb93bd5d93f75845bdc4db3cb12b255e8bf482080710e96783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/13\/1-4.1792139567772.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "因此"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "他們必如"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "如雲"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "清晨"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "如露"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "早早"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "消逝"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "如糠秕"
+    },
+    {
+      "surface": "יסער",
+      "gloss": "被狂風吹動"
+    },
+    {
+      "surface": "מגרן",
+      "gloss": "離打穀場"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "如煙"
+    },
+    {
+      "surface": "מארבה",
+      "gloss": "從窗欞"
+    }
+  ],
+  "timestamp": "2026-10-16T08:32:47.773542236Z",
+  "model": "glm-5.3"
+}

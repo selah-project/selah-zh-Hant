@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נגד יהוה משיחו",
+      "rationale": "語序兩讀：「雅威的受膏者在祂面前」或「在雅威面前的是祂的受膏者」；撒母耳的話是期待而非宣告。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "這 surely",
+      "rationale": "「surely」誤入中文；見修訂——אך 譯作「確實」。"
+    },
+    {
+      "kind": "you",
+      "subject": "撒母耳",
+      "rationale": "撒母耳心中對雅威說話，期待以利押就是受膏者。"
+    }
+  ],
+  "translation": "他們來到的時候，他看見 ⟨את⟩ 以利押，就說：「這 surely 是雅威的受膏者，⟨在祂面前⟩。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b46d09a3ea86f123186b54409d2df8b17b8e1d715d92b21b5c30dd82e2a3e667",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/16\/5-8.1792131099157.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生了"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "當他們來到"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "他看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以利押"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "以利押"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "他就說"
+    },
+    {
+      "surface": "אך",
+      "gloss": "確實"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "在…面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "祂的受膏者"
+    }
+  ],
+  "timestamp": "2026-10-16T06:11:39.158465398Z",
+  "model": "glm-5.3"
+}

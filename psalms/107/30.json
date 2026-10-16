@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מחוז",
+      "rationale": "僅出現於此的罕用詞：「港灣」（被海岸環抱之處）；譯法從「港」到「避風處」皆有"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מחוז",
+      "rationale": "מחוז 在整部塔納赫中僅見於本節"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חפצם",
+      "rationale": "「他們所喜悅的」——חפץ 是「渴望、喜悅」，非僅「想要」"
+    }
+  ],
+  "translation": "海浪平靜了，他們就歡喜；他就引導他們到他們所喜悅的港灣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "fe68777ea1fc18dc0f120a34ae18d03f0d489bd04bc41d6521360343dfd9854c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/107\/30-31.1792149929502.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "他們就歡喜"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "平靜了"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "他就引導"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "港灣"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "他們所喜悅的"
+    }
+  ],
+  "timestamp": "2026-10-16T11:25:29.502705104Z",
+  "model": "glm-5.3"
+}

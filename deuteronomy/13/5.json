@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תשמרו／תשמעו",
+      "rationale": "שמר（謹守）與שמע（聽從）音近並列，中文無法傳達"
+    },
+    {
+      "kind": "elision",
+      "subject": "אחרי",
+      "gloss": "『跟隨』原文為副詞『在後面』，已併入動詞"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "全節以複數第二人稱直接吩咐以色列眾人"
+    }
+  ],
+  "translation": "你們要跟隨雅威你們的以羅欣行走，敬畏⟨אתו⟩他，謹守⟨את⟩他的誡命，聽從他的聲音，事奉⟨אתו⟩他，並緊緊依附於他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "eb099aedd85daf184805e78897f807560452dc1f2489903a2fd8df715b9fcade",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/13\/5-8.1792128883725.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "跟隨"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "你們的以羅欣"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "行走"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "他（雅威）"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "他的誡命"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "他的誡命"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "謹守"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "聽從他的聲音"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "聽"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "他（雅威）"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "事奉"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "於他"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "緊緊依附"
+    }
+  ],
+  "timestamp": "2026-10-16T05:34:43.726447577Z",
+  "model": "glm-5.3"
+}

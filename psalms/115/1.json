@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לא לנו…לא לנו",
+      "rationale": "開頭雙重否定重複，希伯來文的呼求節奏，中文保留重複。"
+    },
+    {
+      "kind": "addition",
+      "subject": "是／要",
+      "rationale": "希伯來文無繫詞，中文補足判斷句所需。"
+    },
+    {
+      "kind": "you",
+      "subject": "雅威",
+      "rationale": "本節直接向雅威呼求（雅威啊）。"
+    }
+  ],
+  "translation": "不是歸於我們，雅威啊，不是歸於我們，而是要歸於你的名，你當賜下榮耀，因著你的慈愛，因著你的信實。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "80ac09966d24a74ffa4fcbea3480205d886b56e155f1cf2c46148ec88c69fb48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/115\/1-4.1792144754591.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不是"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "歸於我們"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不是"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "歸於我們"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因著"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "歸於你的名"
+    },
+    {
+      "surface": "תן",
+      "gloss": "你當賜下"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮耀"
+    },
+    {
+      "surface": "על",
+      "gloss": "因著"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "你的慈愛"
+    },
+    {
+      "surface": "על",
+      "gloss": "因著"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "你的信實"
+    }
+  ],
+  "timestamp": "2026-10-16T09:59:14.592407184Z",
+  "model": "glm-5.3"
+}

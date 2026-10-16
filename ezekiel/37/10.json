@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 37:10",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מאד מאד",
+      "rationale": "「極大極大」重複加強，譯文保留雙重"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חיל",
+      "rationale": "חיל 本義是力量／軍隊，譯「軍隊」以保留畫面"
+    }
+  ],
+  "translation": "我就照他所吩咐我的說了預言；魯阿就進入他們裡面，他們就活了，並且用他們的腳站起來，成了極大極大的一支軍隊。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "84121e6dd3155f9c599a7f538d87a10f69da80d0a74a9246ab8bf29f844f3e6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/37\/9-12.1792138960484.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנבאתי",
+      "gloss": "我就說了預言"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照……所"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "吩咐我的"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "就進入"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "他們裡面"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "魯阿"
+    },
+    {
+      "surface": "ויחיו",
+      "gloss": "他們就活了"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "他們就站起來"
+    },
+    {
+      "surface": "על",
+      "gloss": "用"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "他們的腳"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "軍隊（力量）"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "極大"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極"
+    }
+  ],
+  "timestamp": "2026-10-16T08:22:40.485505319Z",
+  "model": "glm-5.3"
+}

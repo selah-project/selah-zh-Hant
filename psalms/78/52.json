@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צאן／עדר",
+      "rationale": "兩個羊群同義詞並列成對句——「如羊群出走、如畜群被引導」，中文以「羊群／畜群」保留其對仗"
+    }
+  ],
+  "translation": "他卻使自己的百姓如羊群出走，在曠野引導他們如畜群。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e5c7cce20cd82460be456a416232e884abb74c42f60b5975ddb9b876424937ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/78\/49-52.1792144331143.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "他使……出走"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "如羊群"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "自己的百姓"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "並引導他們"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "如畜群"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "在曠野"
+    }
+  ],
+  "timestamp": "2026-10-16T09:52:11.144911814Z",
+  "model": "glm-5.3"
+}

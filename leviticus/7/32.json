@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שוק 腿\/肩",
+      "rationale": "KJV 譯「肩」，希伯來文實為「（下）腿」；此處採「腿」"
+    },
+    {
+      "kind": "substitution",
+      "subject": "舉祭",
+      "rationale": "תרומה 字面為「舉起之物、貢物」，禮償術語譯作舉祭"
+    }
+  ],
+  "translation": "你們要從你們平安祭的祭牲中，把 ⟨את⟩ 右腿給祭司，作舉祭。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c428945c0500d8fec1e932a13dfd8954068f89c14f7b9c113f222bc982b4f4e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/7\/29-32.1792126760382.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "右腿"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "腿"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "右"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "你們要給"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "作舉祭"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "給祭司"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "從……的祭牲"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "你們的平安祭"
+    }
+  ],
+  "timestamp": "2026-10-16T04:59:20.383460452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "海",
+      "rationale": "הים 直譯「海」，指所羅門聖殿的銅製巨盆；譯作「銅海」以保其形"
+    },
+    {
+      "kind": "crux",
+      "subject": "肩",
+      "rationale": "מכתף 字面是「肩」——東南角如屋之肩；KJV「東端的右邊」、ASV「房子的右邊」（加『房子』）各異"
+    },
+    {
+      "kind": "measurement",
+      "subject": "方位",
+      "rationale": "本節是聖殿器物方位的記載：右邊、朝東、對著南邊"
+    }
+  ],
+  "translation": "又將 ⟨את⟩ 銅海安在右邊〈肩〉，朝東，對著南邊。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "02451a15998f087e8a6f8c45b1ec6e51792171b5c4cb169bcddc8555fdd25be3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/4\/9-10.1792150002157.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "銅海"
+    },
+    {
+      "surface": "הים",
+      "gloss": "銅海"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "安放"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "肩"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "右邊"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "朝東"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "對著"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "南邊"
+    }
+  ],
+  "timestamp": "2026-10-16T11:26:42.158452547Z",
+  "model": "glm-5.3"
+}

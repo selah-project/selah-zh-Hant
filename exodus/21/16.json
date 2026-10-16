@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונמצא בידו",
+      "rationale": "'人被發現在他手中'——指被拐者仍在拐帶者手中，或指贓物／贖金在他手中，譯者有別"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות יומת",
+      "rationale": "不定式絕對的同根重疊，與 21:12、21:15 同構的死刑公式"
+    }
+  ],
+  "translation": "拐帶人的，無論他把人賣了或人被發現在他手中，必被處死。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "89af2630d59f9915551a559bf157141f40ff3b9b6406428248f965bc49e9498b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/21\/13-16.1792126143397.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "拐帶"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "把人賣了"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "被發現"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "在他手中"
+    },
+    {
+      "surface": "מות",
+      "gloss": "必被處死"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "處死"
+    }
+  ],
+  "timestamp": "2026-10-16T04:49:03.398877754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "願他們",
+      "rationale": "希伯來文動詞為祈願語氣，中文以「願」字標出"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירממוהו／יהללוהו",
+      "rationale": "兩個動詞詞尾同為 -והו（「他們……他」），形成頭尾呼應的平行結構"
+    }
+  ],
+  "translation": "願他們在百姓的會中高舉他，在長老的座位中讚美他。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "31e839e29e6c93563ea7fccdca50eef2ff02b36d22bec3a4e7b775e59876833d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/107\/32-32.1792149923818.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "願他們高舉他"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "在……的會中"
+    },
+    {
+      "surface": "עם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "在……的座位中"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "長老們"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "讚美他"
+    }
+  ],
+  "timestamp": "2026-10-16T11:25:23.819263979Z",
+  "model": "glm-5.3"
+}

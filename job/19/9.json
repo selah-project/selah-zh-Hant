@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 19:9",
+  "book": "job",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "כבודי",
+      "rationale": "כבוד字義為「重量」，引申尊榮光輝；譯「榮耀」取其引申義。"
+    },
+    {
+      "kind": "addition",
+      "subject": "我頭上的",
+      "rationale": "עטרת ראשי為連接詞組「我頭的冠冕」，中文以方位詞「上」使語法自然。"
+    }
+  ],
+  "translation": "他從我身上剝去我的榮耀，又摘去我頭上的冠冕。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "73763410bb0c133fdc2ba7067d798af746f239bb18033f58ce5030dfa3bc7c86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/19\/9-12.1792146087137.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבודי",
+      "gloss": "我的榮耀"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "從我身上"
+    },
+    {
+      "surface": "הפשיט",
+      "gloss": "剝去"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "又摘去"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "冠冕"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "我頭上的"
+    }
+  ],
+  "timestamp": "2026-10-16T10:21:27.137479338Z",
+  "model": "glm-5.3"
+}

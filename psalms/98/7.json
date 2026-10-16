@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "澎湃",
+      "rationale": "רעם本指雷轟、劇烈翻騰，中文以「澎湃」承接其聲響意象"
+    },
+    {
+      "kind": "invitation",
+      "subject": "受造萬物",
+      "rationale": "詩節召喚海與世界加入讚美，宇宙性呼籲"
+    }
+  ],
+  "translation": "願海和其中所充滿的澎湃，願世界和住在其上的都〈如此〉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d0c70d0449de28f277a4e22571880ac3cd848c2108023311254a4152dd585472",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/98\/5-8.1792144535049.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "澎湃"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "和其中所充滿的"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世界"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "和住在其中的"
+    },
+    {
+      "surface": "בה",
+      "gloss": "在其中"
+    }
+  ],
+  "timestamp": "2026-10-16T09:55:35.050388849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 16:27",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "有人",
+      "rationale": "希伯來文只作「百姓中有人出去」，中文以「有人」明示部分。"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "敘事公式「發生了」融入中文句首時間語，未單獨譯出。"
+    }
+  ],
+  "translation": "第七日，百姓中有人出去拾取，卻沒有找到。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "63e0ac22b9f58eefaf36e5d10dcb4e2de1e762c12f56a543fee0b4423ffa25b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/16\/25-28.1792126016249.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生了"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在……之日"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "出去"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "去拾取"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "卻不"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "找到"
+    }
+  ],
+  "timestamp": "2026-10-16T04:46:56.250532473Z",
+  "model": "glm-5.3"
+}

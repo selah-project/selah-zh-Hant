@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הסירים",
+      "rationale": "同一詞 סיר 可指「鍋」或「荊棘」；多数譯本取「荊棘」（燃燒時噼啪作響），但音「鍋下之鍋」之說亦存在"
+    },
+    {
+      "kind": "substitution",
+      "subject": "סירים",
+      "rationale": "原文無「爆裂」動詞；荊棘燃燒的劈啪聲由譯文補出畫面"
+    }
+  ],
+  "translation": "因為愚昧人的笑聲，就像鍋下荊棘爆裂的響聲——這也是虛空。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "3c76ffd76d5268fcc23e84eebccc32f72e9e2a3da275c9ae6a28e1493253cfcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/7\/5-8.1792147022731.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "就像……的響聲"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "荊棘"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "在……之下"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "鍋"
+    },
+    {
+      "surface": "כן",
+      "gloss": "就像"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "笑聲"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "愚昧人的"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "也"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "虛空"
+    }
+  ],
+  "timestamp": "2026-10-16T10:37:02.731766776Z",
+  "model": "glm-5.3"
+}

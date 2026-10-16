@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 13:5",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לבוא חמת",
+      "rationale": "「進入哈馬之處」（欽定本）vs 專有名詞「利伯・哈馬」（BSB，視為地名）"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הגבלי",
+      "rationale": "迦巴勒人（Gebalite）在全塔納赫僅此一處出現"
+    }
+  ],
+  "translation": "還有迦巴勒人的地，並黎巴嫩全地，向日出之處，從黑們山下的巴力・迦得，直到哈馬口。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8cf41a4b7fa8893aa5753a38c1f344a4a510821662200d22892bf47dcab6ab0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/13\/5-8.1792129731084.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "還有……的地"
+    },
+    {
+      "surface": "הגבלי",
+      "gloss": "迦巴勒人"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "並全"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "黎巴嫩"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "向日出之處"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日"
+    },
+    {
+      "surface": "מבעל",
+      "gloss": "從巴力"
+    },
+    {
+      "surface": "גד",
+      "gloss": "迦得"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "之下"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "黑們"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "進入之處"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "哈馬"
+    }
+  ],
+  "timestamp": "2026-10-16T05:48:51.084777009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "זרענים",
+      "rationale": "「所種之物」即蔬菜，僅見於但以理書一章"
+    },
+    {
+      "kind": "crux",
+      "subject": "המלצר",
+      "rationale": "巴比倫宮廷職銜：太監長所派的「管理人／監護人」，KJV 音譯 Melzar"
+    }
+  ],
+  "translation": "於是管理人撤去 ⟨את⟩ 他們的珍饈和他們當喝的酒，給他們蔬菜。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5067c7a39eaa2934fb4ef7273d34d8e92fb790d2e07d0b51cee22b89bdd7b5cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/daniel\/1\/13-16.1792147288482.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "於是"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "管理人"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "撤去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的珍饈"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "他們的珍饈"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "和酒"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "他們當喝的"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "給"
+    },
+    {
+      "surface": "להם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "蔬菜"
+    }
+  ],
+  "timestamp": "2026-10-16T10:41:28.483110831Z",
+  "model": "glm-5.3"
+}

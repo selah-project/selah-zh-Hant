@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 13:6",
+  "book": "hosea",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "草場",
+      "rationale": "כמרעיתם 字面「照他們的牧草」，JPS 讀作時間性「當他們得餵養時」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישבעו／שבעו",
+      "rationale": "同一詞根連續兩次——飽足即成為驕傲之因，重複為修辭核心"
+    }
+  ],
+  "translation": "他們得了草場，就得飽足；他們飽足了，他們的心就高傲，因此他們忘了我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ae7f081d7052a6879eed5ae8bfe162c9668e93b2fbcd9ee0961d773e7108a93d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/hosea\/13\/5-8.1792139539919.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמרעיתם",
+      "gloss": "照他們的草場"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "就得飽足"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "他們飽足了"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "就高傲"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "他們的心"
+    },
+    {
+      "surface": "על",
+      "gloss": "因"
+    },
+    {
+      "surface": "כן",
+      "gloss": "因此"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "他們忘了我"
+    }
+  ],
+  "timestamp": "2026-10-16T08:32:19.920391096Z",
+  "model": "glm-5.3"
+}

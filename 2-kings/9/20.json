@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 9:20",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מנהג／ינהג／שגעון",
+      "rationale": "「駕法—他駕—狂野」三詞同根押韻，-nhg 詞根連續迴響，中文無法保留音韻。"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשגעון",
+      "rationale": "字面「以瘋狂」（fiery\/furiously 為傳統意譯）；守望者從駕姿認出耶戶，字面是「像發瘋一樣駕車」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "駕車的",
+      "rationale": "המנהג 是「駕法／駕駛方式」，中文補「那駕車的樣子」以成句。"
+    }
+  ],
+  "translation": "守望者報告說：「他到了他們那裡，卻沒有回來；那駕車的樣子像耶戶的兒子寧示的駕法，因為他駕車狂野。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "99fbf6a9819858ca24b62de19b9885d8f5f8bb8f17e1ae8bd4f64b99d6ed3e2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/9\/17-20.1792133841600.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "報告"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "守望者"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "בא",
+      "gloss": "到了"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "他們那裡"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "卻不"
+    },
+    {
+      "surface": "שב",
+      "gloss": "回來"
+    },
+    {
+      "surface": "והמנהג",
+      "gloss": "那駕法"
+    },
+    {
+      "surface": "כמנהג",
+      "gloss": "像…的駕法"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "耶戶"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "寧示"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "狂野"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "他駕車"
+    }
+  ],
+  "timestamp": "2026-10-16T06:57:21.602304342Z",
+  "model": "glm-5.3"
+}

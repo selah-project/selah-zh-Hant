@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "孩子",
+      "rationale": "中文需主語標明「坐在她膝上」的是誰；希伯來由語境供給。"
+    },
+    {
+      "kind": "measurement",
+      "subject": "עד הצהרים",
+      "rationale": "以中午為死期的時間標記；הצהרים是「雙光」——雙日頭高照之時。"
+    }
+  ],
+  "translation": "他就把他抱起來，帶到他母親那裡；孩子坐在她膝上，直到中午，就死了。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ca253677765070efbb50609183ae5d92d520e264bdfd970bd6e912c26a057b25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/4\/17-20.1792133587982.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "把他抱起來"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "帶到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "他母親那裡"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "坐在"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "她的膝"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "中午"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "就死了"
+    }
+  ],
+  "timestamp": "2026-10-16T06:53:07.983593164Z",
+  "model": "glm-5.3"
+}

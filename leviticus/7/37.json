@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 7:37",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "中文需加判斷動詞，希伯來文無動詞"
+    },
+    {
+      "kind": "elision",
+      "subject": "素祭",
+      "rationale": "原文למנחה為「供物／穀祭」之義，取中文通行「素祭」"
+    },
+    {
+      "kind": "measurement",
+      "subject": "妥拉",
+      "rationale": "本節為利未記一至七章獻祭律法的總結清單"
+    }
+  ],
+  "translation": "這就是燔祭、素祭、贖罪祭、贖愆祭、承接聖職之祭和平安祭之宰祭的妥拉（律例）：",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "27c0e782f3e5810d8f2238974b0852f656416c3ad9b561b22bdb14ef52b1f99a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/7\/37-38.1792126703968.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "妥拉"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "素祭"
+    },
+    {
+      "surface": "ולחטאת",
+      "gloss": "贖罪祭"
+    },
+    {
+      "surface": "ולאשם",
+      "gloss": "贖愆祭"
+    },
+    {
+      "surface": "ולמלואים",
+      "gloss": "承接聖職之祭"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "宰祭"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "平安祭"
+    }
+  ],
+  "timestamp": "2026-10-16T04:58:23.969462192Z",
+  "model": "glm-5.3"
+}

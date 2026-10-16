@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישוב ונחם",
+      "rationale": "「或許以羅欣回轉、後悔」——כי 的疑問／期盼語氣諸本分歧：KJV「if God will turn」，YLT「He doth turn back」直陳；此處取不確定的期盼語氣"
+    },
+    {
+      "kind": "substitution",
+      "subject": "怒氣",
+      "rationale": "אף 本義是「鼻／鼻孔」，怒氣由鼻孔的焚燒而來；譯作「怒氣」失去身體意象"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישוב…ושב",
+      "rationale": "同一詞根 שוב 兩次出現（回轉／轉離），回轉的主題貫穿約拿書全卷"
+    }
+  ],
+  "translation": "誰知道呢？或許以羅欣回轉、後悔，轉離祂怒火的焚燒，我們就不致滅亡。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6031ce02ce939b657b0177961c6f38b3208d515c28720403195cb14caf36a199",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jonah\/3\/9-10.1792139915696.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "知道"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "回轉"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "後悔"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "轉離"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "焚燒"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "怒氣"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "滅亡"
+    }
+  ],
+  "timestamp": "2026-10-16T08:38:35.697200225Z",
+  "model": "glm-5.3"
+}

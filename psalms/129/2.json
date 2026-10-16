@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רבת צררוני מנעורי",
+      "rationale": "整句與 129:1 完全重複，是詩歌的疊句結構"
+    }
+  ],
+  "translation": "他們從我幼年以來屢次苦害我，卻不能勝過我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "58285c11522c46da220725c3eb2919fded4da33396d06c57f96d1c2ceab1b499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/129\/1-4.1792144976090.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "屢次"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "苦害我"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "從我幼年以來"
+    },
+    {
+      "surface": "גם",
+      "gloss": "卻"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "能"
+    },
+    {
+      "surface": "לי",
+      "gloss": "勝過我"
+    }
+  ],
+  "timestamp": "2026-10-16T10:02:56.092508392Z",
+  "model": "glm-5.3"
+}

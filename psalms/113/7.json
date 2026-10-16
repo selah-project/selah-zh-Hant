@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מקימי\/ירים",
+      "rationale": "「使起來」與「使升高」兩個動詞平行遞升，希伯來詩的層進結構"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דל\/אביון",
+      "rationale": "兩個貧窮同義詞平行：軟弱者與缺乏者"
+    }
+  ],
+  "translation": "他使貧窮人從塵土中起來，從糞堆中抬舉困乏人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a197913ae5c0cb215b5da965f9f654cfebc468b5cff53252e031d4e08b995900",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/113\/6-7.1792149949416.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "使……起來"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "從塵土"
+    },
+    {
+      "surface": "דל",
+      "gloss": "貧窮人"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "從糞堆"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "抬舉"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "困乏人"
+    }
+  ],
+  "timestamp": "2026-10-16T11:25:49.416704988Z",
+  "model": "glm-5.3"
+}

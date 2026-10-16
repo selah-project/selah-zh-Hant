@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותטעם \/ ותשלחם",
+      "rationale": "代名詞後綴「他們」指以色列（你栽植了他們）還是指列國（你栽植列國趕走他們）？KJV\/ASV\/JPS 取「栽植以色列」，直譯字面為兩可"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גוים\/לאמים",
+      "rationale": "「列國／眾民」平行對仗，中文保留兩詞"
+    }
+  ],
+  "translation": "你 ⟨את⟩ 用手趕出列國，卻栽植了他們；你擊打眾民，卻把他們趕散。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "a528b06f9b565e1b18c9832c4a1b1b25612bf448352341f89a8b410c74eaec38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/44\/1-4.1792143761856.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "用手"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "趕出"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "卻栽植了他們"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "你擊打"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "眾民"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "卻把他們趕散"
+    }
+  ],
+  "timestamp": "2026-10-16T09:42:41.858044513Z",
+  "model": "glm-5.3"
+}

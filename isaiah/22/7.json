@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 22:7",
+  "book": "isaiah",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שת שתו",
+      "rationale": "同一動詞重複兩次，疊加擺陣的動作感；中文無法保留。"
+    },
+    {
+      "kind": "addition",
+      "subject": "前",
+      "rationale": "「在城門」中文需方位詞，希伯來文僅有定冠詞。"
+    },
+    {
+      "kind": "you",
+      "subject": "耶路撒冷",
+      "rationale": "「你的谷」直接向錫安說話。"
+    }
+  ],
+  "translation": "你上選的谷滿了戰車，馬兵在城門前擺陣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5e60c3386a33758406e16863b733503e5a9ad1d21342715a4229d3989fe49853",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/22\/5-8.1792134893787.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨於是發生⟩"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "上選的"
+    },
+    {
+      "surface": "עמקיך",
+      "gloss": "你的谷"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "滿了"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "戰車"
+    },
+    {
+      "surface": "והפרשים",
+      "gloss": "馬兵"
+    },
+    {
+      "surface": "שת",
+      "gloss": "擺陣"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "擺陣"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "在城門前"
+    }
+  ],
+  "timestamp": "2026-10-16T07:14:53.788619Z",
+  "model": "glm-5.3"
+}

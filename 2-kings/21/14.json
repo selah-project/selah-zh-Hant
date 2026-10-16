@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 21:14",
+  "book": "2-kings",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לבז ולמשסה",
+      "rationale": "兩個近義詞「擄物」「掠物」並列，希伯來慣用的成對加強。"
+    },
+    {
+      "kind": "addition",
+      "subject": "他們",
+      "rationale": "中文需受詞代名詞指明「餘民」，希伯來以詞尾變化表達。"
+    }
+  ],
+  "translation": "我必撇棄 ⟨את⟩ 我產業的餘民，把他們交在仇敵手中；他們必成為一切仇敵的擄物和掠物。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "88c24e69ede526c5b4b07cb4783e65b1762db9d70c74801d1321c8d1c9766fbf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/21\/13-16.1792134279411.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונטשתי",
+      "gloss": "我必撇棄"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "餘民"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "餘民"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "我產業的"
+    },
+    {
+      "surface": "ונתתים",
+      "gloss": "把他們交在"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手中"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "他們的仇敵"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "他們必成為"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "擄物"
+    },
+    {
+      "surface": "ולמשסה",
+      "gloss": "和掠物"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "一切的"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "仇敵"
+    }
+  ],
+  "timestamp": "2026-10-16T07:04:39.412756797Z",
+  "model": "glm-5.3"
+}

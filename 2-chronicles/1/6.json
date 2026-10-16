@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 1:6",
+  "book": "2-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "〈次〉",
+      "rationale": "希伯來文只說「燔祭一千」，中文需補量詞"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויעל／עלות",
+      "rationale": "「上去」與「燔祭」（原意『那升上去的』）同根，獻燔祭即「使祭物升上」"
+    }
+  ],
+  "translation": "所羅門上到那裡，在雅威面前的銅壇上——就是在會幕那裡的——獻上燔祭一千〈次〉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "cf03eae87b8b4aed02b64bdd04f0cebe2d6230099efec1d4e327d7cbf9dc7d5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/1\/5-8.1792149076092.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "上去"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "שם",
+      "gloss": "那裡"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "壇"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在……前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "在帳幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "使……升上（獻上）"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "在其上"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "一千"
+    }
+  ],
+  "timestamp": "2026-10-16T11:11:16.093842948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שומר／ישמיד",
+      "rationale": "「保守」（שמר）與「滅絕」（שמד）近音對比，中文無法保留"
+    }
+  ],
+  "translation": "雅威保守 ⟨את⟩ 一切愛祂的人，卻必滅絕 ⟨ואת⟩ 一切惡人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f47c414869819a76e70b46732b17f901a1344239eccf6af168e501655b3c4f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/145\/17-20.1792145109305.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "保守"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切愛祂的人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "愛祂的人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "一切惡人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "必滅絕"
+    }
+  ],
+  "timestamp": "2026-10-16T10:05:09.306747649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "這一切",
+      "rationale": "原文受詞只作「我吩咐你的」，補「這一切」以成自然中文"
+    },
+    {
+      "kind": "you",
+      "subject": "摩西／以色列",
+      "rationale": "命令式直接吩咐"
+    },
+    {
+      "kind": "measurement",
+      "subject": "六國名單",
+      "rationale": "逐族列名的驅逐名單，可數算的結構"
+    }
+  ],
+  "translation": "你要謹守我今天所吩咐你的 ⟨את⟩ 這一切；看哪，我必從你面前趕出 ⟨את⟩ 亞摩利人、迦南人、赫人、比利洗人、希未人和耶布斯人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "37ad57f9f1d1a168bce3e42591faeea68cea6bf1d5a1d7183e18dff1b34ef113",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/34\/9-12.1792126480181.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "你要謹守"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你自己"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我今天所吩咐你的這一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "吩咐你的"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今天"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "看哪我"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "趕出"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "從你面前"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞摩利人"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "亞摩利人"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "迦南人"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "赫人"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "比利洗人"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "希未人"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "耶布斯人"
+    }
+  ],
+  "timestamp": "2026-10-16T04:54:40.183083328Z",
+  "model": "glm-5.3"
+}

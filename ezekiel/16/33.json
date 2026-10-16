@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezekiel 16:33",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "〈他們〉",
+      "rationale": "希伯來文動詞 יתנו 無主語，中文補出"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נדה／נדניך",
+      "rationale": "兩個近義的「娼妓賞錢」詞根相映，首尾對照，中文以「賞錢／饋贈」部分保留"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נדה",
+      "rationale": "נדה（妓女的賞錢）在塔納赫中僅此一處出現"
+    }
+  ],
+  "translation": "人給一切娼妓賞錢，你卻把你的饋贈給你一切所愛的，又賄賂 ⟨את⟩ ⟨אותם⟩，使他們從四圍來到你這裡，行在你的淫亂之中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "93c55c113b2694185bec167d8672df5588d65cc1e8cc3a884575ea5c2b20c6f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/16\/33-36.1792138305337.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "給一切"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "娼妓"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "〈他們〉給"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "賞錢"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "你卻"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "給了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的饋贈"
+    },
+    {
+      "surface": "נדניך",
+      "gloss": "你的饋贈"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "給一切"
+    },
+    {
+      "surface": "מאהביך",
+      "gloss": "你所愛的"
+    },
+    {
+      "surface": "ותשחדי",
+      "gloss": "又賄賂"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "他們"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "來"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "到你這裡"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "從四圍"
+    },
+    {
+      "surface": "בתזנותיך",
+      "gloss": "在你的淫亂之中"
+    }
+  ],
+  "timestamp": "2026-10-16T08:11:45.338217438Z",
+  "model": "glm-5.3"
+}

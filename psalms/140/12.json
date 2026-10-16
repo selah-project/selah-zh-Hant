@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "למדחפת",
+      "rationale": "מדחפות「推撞、傾覆」在全塔納赫僅此一處。"
+    },
+    {
+      "kind": "crux",
+      "subject": "איש חמס רע",
+      "rationale": "「強暴的人——禍患」：רע 可作「惡人」（JPS「強暴的惡人」）或作主語「禍患」（KJV「禍患必獵取強暴的人」）。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יצודנו",
+      "rationale": "צוד 是狩獵動詞：獵人以言語圍獵義人（140:6 網羅），如今禍患反獵取他們——獵者被獵。"
+    }
+  ],
+  "translation": "說讒言的人必不得在世上立定；強暴的人——禍患必獵取他，將他推入毀滅。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "db49c15584be05e5ebb283b31fde4f7517fe03da85e02036b4390c4f2a7ec45b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/140\/9-12.1792145066511.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "說讒言的"
+    },
+    {
+      "surface": "בל",
+      "gloss": "必不"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "立定"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在世上"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "強暴"
+    },
+    {
+      "surface": "רע",
+      "gloss": "禍患"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "獵取他"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "推入毀滅"
+    }
+  ],
+  "timestamp": "2026-10-16T10:04:26.512242576Z",
+  "model": "glm-5.3"
+}

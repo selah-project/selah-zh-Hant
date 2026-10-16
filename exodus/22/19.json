@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 22:19",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "神明",
+      "rationale": "此處 אלהים 是類名的複數『別神』，非聖名位置，故譯神明而非以羅欣"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחרם",
+      "rationale": "חרם 意為『完全滅絕歸於毀滅』：和合本『必被滅絕』，亦有譯作『被殺』"
+    }
+  ],
+  "translation": "獻祭給神明的，必被滅絕——惟獨向雅威除外。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "23048a5c6e6796c45a6bb970dbfea58617da0fd6bbe045ea1251ac4248b63350",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/22\/17-20.1792126149015.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "獻祭"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "給神明"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "必被滅絕"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "惟獨……除外"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "單單"
+    }
+  ],
+  "timestamp": "2026-10-16T04:49:09.016211389Z",
+  "model": "glm-5.3"
+}

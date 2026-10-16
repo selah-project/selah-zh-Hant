@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 34:7",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨這事⟩",
+      "rationale": "כשמעם 的受詞在原文中隱含，中文補出以成句"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נבלה",
+      "rationale": "字面為「愚妄／可恥之事」，各譯本作 folly\/villenie\/outrage，此處取「愚妄的事」"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ויחר להם",
+      "rationale": "字面「對他們燒起來」＝怒氣發作，中文以「心中發怒」達意"
+    }
+  ],
+  "translation": "雅各的兒子們從田野回來，聽見了⟨這事⟩。這些人憂傷，心中極其發怒，因為他在以色列中行了愚妄的事——與雅各的女兒同寢；這樣的事本不該做。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "acbba441ef351150b8f15d65c954d83b33d82e476362df2ccca2283dff75687f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/34\/5-8.1792125333459.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "的兒子們"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "באו",
+      "gloss": "回來"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田野"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "聽見了"
+    },
+    {
+      "surface": "ויתעצבו",
+      "gloss": "憂傷"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "這些人"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "心中發怒"
+    },
+    {
+      "surface": "להם",
+      "gloss": "他們"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極其"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "愚妄的事"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行了"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "在以色列中"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "與……同寢"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅各的女兒"
+    },
+    {
+      "surface": "בת",
+      "gloss": "女兒"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各的"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "這樣的事"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "該做"
+    }
+  ],
+  "timestamp": "2026-10-16T04:35:33.460479856Z",
+  "model": "glm-5.3"
+}

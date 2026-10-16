@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 51:14",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 本義是氣息／生命之力，『指著自己的נפש起誓』即以自己的生命作保。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "誓詞套語『若不……必然』，中譯作『我必』，直譯『若不使你滿了』會誤導。"
+    },
+    {
+      "kind": "crux",
+      "subject": "הידד",
+      "rationale": "הידד 是收割或攻城時的吶喊：『戰勝的吶喊』與『收割的歡呼』兩讀。"
+    }
+  ],
+  "translation": "萬軍之雅威指著自己的性命起誓：我必使你滿了人，如同蝗蟲爬滿一樣；他們必向你發出戰勝的吶喊。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5cfe3f1b31af103256d4384a82c92e775f5423ddeb7c4dca839070dd56a80293",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/51\/13-16.1792137785151.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "起誓"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "萬軍之"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "指著自己的性命"
+    },
+    {
+      "surface": "כי",
+      "gloss": "（起誓引語）"
+    },
+    {
+      "surface": "אם",
+      "gloss": "必然"
+    },
+    {
+      "surface": "מלאתיך",
+      "gloss": "我必使你滿了"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "כילק",
+      "gloss": "如同蝗蟲爬滿一樣"
+    },
+    {
+      "surface": "וענו",
+      "gloss": "他們必……吶喊"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "戰勝的吶喊"
+    }
+  ],
+  "timestamp": "2026-10-16T08:03:05.152214672Z",
+  "model": "glm-5.3"
+}

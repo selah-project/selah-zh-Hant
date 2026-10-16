@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "語言",
+      "rationale": "לשון 字面是「舌頭」，指語言；中文無「舌／語」雙關，直取語言義"
+    },
+    {
+      "kind": "measurement",
+      "subject": "家族／語言／地土／國族",
+      "rationale": "四重分類清點萬族，創世記十章的總結構"
+    }
+  ],
+  "translation": "這些都是閃的子孫，各隨他們的家族、他們的語言，住在他們的地土，成為他們的國族。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0741288a5e05ad3123a128136ca148adf359fbccb1704843267d84e29bd46f13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/10\/29-32.1792124709501.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "שם",
+      "gloss": "閃"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "各隨他們的家族"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "他們的語言"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "在他們的地土"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "他們的國族"
+    }
+  ],
+  "timestamp": "2026-10-16T04:25:09.502755030Z",
+  "model": "glm-5.3"
+}

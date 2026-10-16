@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 4:5",
+  "book": "ruth",
+  "lang": "zh-Hant",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קניתי 的主词",
+      "rationale": "希伯来文可读作「你买」（第二人称作陈述或问句，如JPS）或「我买」（波阿斯宣布自己的行动）；我按后者的连贯语境译出。"
+    },
+    {
+      "kind": "addition",
+      "subject": "它",
+      "rationale": "中文需要宾语「它」指那田地，希伯来文由语境承担。"
+    }
+  ],
+  "translation": "波阿斯說：「你從拿俄米手中買那田地的日子，也從⟨ומאת⟩路得——摩押女子、死者的妻子——買了它，我要立死者的名在他的產業上。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "425ef71b8a33cf4ed1d22e11ca9ece2c65f9e0aa4706095932963875a9945f18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ruth\/4\/5-8.1792146739094.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "波阿斯"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "在……的日子"
+    },
+    {
+      "surface": "קנותך",
+      "gloss": "你買"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "那田地"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "從……的手"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "拿俄米"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "⟨את⟩",
+      "marks": "路得"
+    },
+    {
+      "surface": "רות",
+      "gloss": "路得"
+    },
+    {
+      "surface": "המואביה",
+      "gloss": "摩押女子"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "妻子"
+    },
+    {
+      "surface": "המת",
+      "gloss": "死者"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "你買了"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "要立"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "המת",
+      "gloss": "死者"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……之上"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "他的產業"
+    }
+  ],
+  "timestamp": "2026-10-16T10:32:19.095576077Z",
+  "model": "glm-5.3"
+}

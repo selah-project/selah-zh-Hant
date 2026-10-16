@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 22:5",
+  "book": "ezekiel",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯来文无系词，中文呼语需要"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טמאת השם \/ רבת המהומה",
+      "rationale": "两组名词短语对仗——名声污秽、骚乱繁多——中文保留对仗"
+    }
+  ],
+  "translation": "那些靠近的、那些遠離你的，都必譏誚你；你这名声污秽、骚乱繁多。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e4349d419cca91a0f7b943244050b137c2fb91373f257b51c78bb5813b15e3e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/22\/5-8.1792138415642.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקרבות",
+      "gloss": "那些靠近的"
+    },
+    {
+      "surface": "והרחקות",
+      "gloss": "那些遠離的"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "離你"
+    },
+    {
+      "surface": "יתקלסו",
+      "gloss": "譏誚"
+    },
+    {
+      "surface": "בך",
+      "gloss": "你"
+    },
+    {
+      "surface": "טמאת",
+      "gloss": "污穢"
+    },
+    {
+      "surface": "השם",
+      "gloss": "名声"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "繁多"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "骚乱"
+    }
+  ],
+  "timestamp": "2026-10-16T08:13:35.643243110Z",
+  "model": "glm-5.3"
+}

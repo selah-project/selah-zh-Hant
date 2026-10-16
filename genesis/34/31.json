@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "人",
+      "rationale": "希伯來文無主語，中文反問句需補出"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הכזונה יעשה",
+      "rationale": "希伯來文語序將『如同妓女』前置，質問的鋒利在語序中"
+    }
+  ],
+  "translation": "他們說：「人豈可待 ⟨את⟩ 我們的妹妹如同妓女？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b2e697fb8ef16cabca571f7c0369e1e527c97fd1f747445ff4c3d0d023727a0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/34\/29-31.1792125323688.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "他們說"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "如同妓女豈可"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "待"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我們的妹妹"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "我們的妹妹"
+    }
+  ],
+  "timestamp": "2026-10-16T04:35:23.689598398Z",
+  "model": "glm-5.3"
+}

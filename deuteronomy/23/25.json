@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כנפשך",
+      "rationale": "直譯「照你的性命（胃口）」，指食慾，非靈魂"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לא תתן אל כליך",
+      "rationale": "直譯「不可給進你的器皿」，即不可裝入容器帶走"
+    }
+  ],
+  "translation": "你進入你鄰舍的葡萄園時，可以隨意吃葡萄，吃到滿足，卻不可放進你的器皿裡。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "46e2fc80679570dcdf66269e774d7577a2fdb49e2dfdec9b72811722e975a34d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/23\/25-26.1792129015555.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "當……時"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "你進入"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "葡萄園"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "你的鄰舍"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "你可以吃"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "葡萄"
+    },
+    {
+      "surface": "כנפשך",
+      "gloss": "隨你的意"
+    },
+    {
+      "surface": "שבעך",
+      "gloss": "吃到滿足"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "卻不可放進"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "你的器皿"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "放"
+    }
+  ],
+  "timestamp": "2026-10-16T05:36:55.556359865Z",
+  "model": "glm-5.3"
+}

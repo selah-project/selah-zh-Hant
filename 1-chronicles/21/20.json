@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "מתחבאים",
+      "rationale": "隱藏的是阿珥楠與四子全體（如和合本旁註）還是僅四子，語法兩可；本譯取四子"
+    },
+    {
+      "kind": "addition",
+      "subject": "那時",
+      "rationale": "末句『阿珥楠正在打麥子』為背景插敘，中文加『那時』使插敘自然"
+    }
+  ],
+  "translation": "阿珥楠轉身，看見 ⟨את⟩ 那使者，他與他在一起的四個兒子正藏著；那時阿珥楠正在打麥子。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1ed6be97b6feb03419ee1b558bd6c655f970a2b04ff143703b5b07b07114f785",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/21\/17-20.1792148915482.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "轉身"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "阿珥楠"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "那使者"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "那使者"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "四個"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "他的兒子"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "與他在一起"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "正藏著"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "阿珥楠"
+    },
+    {
+      "surface": "דש",
+      "gloss": "打"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "麥子"
+    }
+  ],
+  "timestamp": "2026-10-16T11:08:35.483617071Z",
+  "model": "glm-5.3"
+}

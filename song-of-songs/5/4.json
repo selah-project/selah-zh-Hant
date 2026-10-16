@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "五臟",
+      "rationale": "ומעי 字面是腸腹，希伯來以之為深情之座；英譯多作 heart"
+    },
+    {
+      "kind": "crux",
+      "subject": "החר",
+      "rationale": "字面「孔洞」：或門閂孔，或牆上穿孔，ylt 作「格眼」"
+    }
+  ],
+  "translation": "我的良人從門孔裡伸進他的手，我的五臟 ⟨因他⟩ 激動起來。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "6245c91614d8e63421535f4c25092c415dc0cf2afcafa6f04b1ac40c30b1de99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/5\/1-4.1792146645566.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "我的良人"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "伸進"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "他的手"
+    },
+    {
+      "surface": "מן",
+      "gloss": "從"
+    },
+    {
+      "surface": "החר",
+      "gloss": "門孔裡"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "我的五臟"
+    },
+    {
+      "surface": "המו",
+      "gloss": "激動起來"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨因他⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T10:30:45.568061874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מי ומי",
+      "rationale": "「誰和誰」的重複問法，希伯來文的強調式列舉"
+    },
+    {
+      "kind": "addition",
+      "subject": "有人",
+      "rationale": "原文被動式「摩西亞倫被帶回」，中文加「有人」以成句"
+    },
+    {
+      "kind": "you",
+      "subject": "to Moses and Aaron",
+      "rationale": "法老直接對摩西、亞倫說話"
+    }
+  ],
+  "translation": "有人把 ⟨את⟩ 摩西和 ⟨את⟩ 亞倫帶回法老那裡，法老對他們說：「去事奉 ⟨את⟩ 雅威你們的以羅欣吧。但要去的是哪些人、哪些人呢？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0aafd8b0a088a4caccfe9fd46fedbdcbe70f92ecb1744fef52422b51d821dba4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/10\/5-8.1792125876260.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "帶回"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩西"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "亞倫"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到…那裡"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "對他們"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "去"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "事奉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "你們的以羅欣"
+    },
+    {
+      "surface": "מי",
+      "gloss": "哪些人"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "哪些人"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "要去的人"
+    }
+  ],
+  "timestamp": "2026-10-16T04:44:36.263003828Z",
+  "model": "glm-5.3"
+}

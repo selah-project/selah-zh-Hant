@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תאכל ושבעת",
+      "rationale": "重複 8:10 的『吃了、吃飽了』——同一對動詞，一處引向稱頌，一處引向忘記，結構對照。"
+    },
+    {
+      "kind": "addition",
+      "subject": "在其中",
+      "rationale": "中文補出居住的處所，希伯來文僅作『並且居住』。"
+    }
+  ],
+  "translation": "免得你吃了，而且吃飽了，建造美好的房屋，並且居住在其中，",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "81c8c2dfd8856795cd331c2af1ca27e223e19b83ede43042cf8d33aaf20f5a66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/8\/9-12.1792128681116.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "你吃了"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "而且吃飽了"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "房屋"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "美好的"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "你建造"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "並且居住"
+    }
+  ],
+  "timestamp": "2026-10-16T05:31:21.118012988Z",
+  "model": "glm-5.3"
+}

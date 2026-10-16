@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 52:32",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו（與他同在）",
+      "rationale": "此處אתו可為介詞『與他』而非受詞記號，中文以〈同在〉補足"
+    },
+    {
+      "kind": "idiom",
+      "subject": "說好話",
+      "rationale": "וידבר אתו טבות直譯『對他說好的（話）』，意即以恩言相待"
+    }
+  ],
+  "translation": "又對⟨את⟩他說好話，使他的寶座高過與他〈同在〉在巴比倫⟨את⟩眾王的寶座。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f8cb9a5b4dd041780de374819e937fe7fe45f88ff2970885a3110905602fe8d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/52\/29-32.1792137840589.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "他說話"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "他"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "好話"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "他放置"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他的寶座"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "他的寶座"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "高過"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "對……的寶座"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "眾王"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那些"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "與他同在的眾王"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "在巴比倫"
+    }
+  ],
+  "timestamp": "2026-10-16T08:04:00.591203690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 15:22",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "的人",
+      "rationale": "הטמא והטהור字面為「不潔的與潔淨的」，指人"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨吃⟩",
+      "rationale": "中文比較句需補動詞，希伯來文僅作כצבי וכאיל"
+    }
+  ],
+  "translation": "你要在你的城門內吃牠；不潔淨的人與潔淨的人都可以一樣吃，像⟨吃⟩瞪羚和鹿一樣。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0ea7295fa22fc75518b5c887c1e9f1421aba56a51a88ad9c4d3587615c324aeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/15\/21-23.1792128773991.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשעריך",
+      "gloss": "在你的城門內"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "吃牠"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "不潔淨的人"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "與潔淨的人"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "一樣"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "像瞪羚"
+    },
+    {
+      "surface": "וכאיל",
+      "gloss": "和像鹿"
+    }
+  ],
+  "timestamp": "2026-10-16T05:32:53.991982839Z",
+  "model": "glm-5.3"
+}

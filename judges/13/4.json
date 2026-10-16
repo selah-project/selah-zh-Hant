@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 13:4",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "懇求語氣詞融入「你要謹慎」的勸誡語氣，未單獨譯出。"
+    },
+    {
+      "kind": "invitation",
+      "subject": "禁令",
+      "rationale": "對婦人的命令式勸誡，拿細耳人之約的開端。"
+    }
+  ],
+  "translation": "現在你要謹慎，不可喝清酒或濃酒，也不可吃任何不潔淨之物。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "7d426e7f1fd3991cdcac35c60285e776bf96e02eebae00c5c13a1199951556e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/13\/1-4.1792130497595.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "現在"
+    },
+    {
+      "surface": "השמרי",
+      "gloss": "你要謹慎"
+    },
+    {
+      "surface": "נא",
+      "gloss": "懇求之意的語氣詞"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תשתי",
+      "gloss": "喝"
+    },
+    {
+      "surface": "יין",
+      "gloss": "清酒"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "濃酒"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תאכלי",
+      "gloss": "吃"
+    },
+    {
+      "surface": "כל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "不潔淨之物"
+    }
+  ],
+  "timestamp": "2026-10-16T06:01:37.596172439Z",
+  "model": "glm-5.3"
+}

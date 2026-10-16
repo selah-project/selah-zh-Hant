@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כֵּן יִתֵּן לִידִידוֹ שֵׁנָא",
+      "rationale": "「他賜給他所親愛的睡眠」或「當他所親愛的睡覺時，他賜下」（שנא作狀語）；和合本取前者。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לֶחֶם הָעֲצָבִים",
+      "rationale": "直譯「勞苦之餅」，עצב兼有「痛苦、辛勞」之義；譯作「勞碌得來的餅」。"
+    },
+    {
+      "kind": "addition",
+      "subject": "歸",
+      "rationale": "希伯來文無動詞，שוא לכם直為「枉然（給）你們」；中文需一動詞方能成句。"
+    }
+  ],
+  "translation": "枉然⟨歸⟩你們——清晨早起，深夜安坐，吃勞碌得來的餅；照樣，他必賜給他所親愛的睡眠。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "de412493409e720eff8a200f3e3609ca19b3017ea76b09f2866818b55f730a05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/127\/1-4.1792144990080.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "枉然"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "清晨早起的"
+    },
+    {
+      "surface": "קום",
+      "gloss": "起來"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "遲延"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "安坐"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "吃……的"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "勞碌"
+    },
+    {
+      "surface": "כן",
+      "gloss": "照樣"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "賜"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "他所親愛的"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "睡眠"
+    }
+  ],
+  "timestamp": "2026-10-16T10:03:10.082297406Z",
+  "model": "glm-5.3"
+}

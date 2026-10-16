@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "קצרה נפשו",
+      "rationale": "字面「他的נפש（生命之氣）縮短了」，即忍無可忍；和合本「擔當不了」、KJV「grieved」各取一端。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש 是氣息／生命之力，非不朽的「靈魂」，故譯「生命之氣」。"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותקצר",
+      "rationale": "短促的是誰的נפש：多數譯本指雅威不忍，亦有解作以色列人自己苦極（參民21:4「因這路難行，心中甚是煩躁」）。"
+    }
+  ],
+  "translation": "以色列人就從他們中間除掉了外邦的神明，事奉雅威；他的生命之氣因以色列的勞苦而變得短促，再不能忍受。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "f95d2268d339b9a5c4c6657fa10ae58efca22ffdfb6860ae3ab264e8d37e671f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/10\/13-16.1792130265774.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "除掉了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "外邦的神明"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "神明"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "外邦的"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "從他們中間"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "事奉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "變得短促"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "他的生命之氣"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "因……的勞苦"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T05:57:45.775447142Z",
+  "model": "glm-5.3"
+}

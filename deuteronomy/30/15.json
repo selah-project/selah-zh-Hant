@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "也擺在你面前",
+      "rationale": "希伯來文第二組受詞沿用前面的動詞，中文補出。"
+    },
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "摩西直接向以色列會眾說話：看哪，我今日擺在你面前。"
+    }
+  ],
+  "translation": "看哪，我今日將 ⟨את⟩ 生命和 ⟨את⟩ 福擺在你面前，將 ⟨את⟩ 死亡和 ⟨את⟩ 禍〈也擺在你面前〉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4f8c66424d7daa99706b57f5f4fce9669c01f481e3cef42f56e03646932a96ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/30\/13-16.1792129246881.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我……擺了"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "在你面前"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "生命"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "生命"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "福"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "福（善）"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "死亡"
+    },
+    {
+      "surface": "המות",
+      "gloss": "死亡"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "禍"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "禍（惡）"
+    }
+  ],
+  "timestamp": "2026-10-16T05:40:46.882917050Z",
+  "model": "glm-5.3"
+}

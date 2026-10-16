@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פני מצרים",
+      "rationale": "字面「在埃及的面之前」＝埃及對面（或以東方），希伯來方位慣用語。"
+    },
+    {
+      "kind": "addition",
+      "subject": "亞瑪力人",
+      "rationale": "原文單數集合名「亞瑪力」，中文補「人」以成族名。"
+    }
+  ],
+  "translation": "掃羅擊打了 ⟨את⟩ 亞瑪力人，從哈腓拉直到你進書珥去、埃及對面的地方。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0a955b7d8dae29e8aef1339ddbc58eb33abd967e7699924eaa4a1d829a501b09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/15\/5-8.1792131113414.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "擊打了"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞瑪力人"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "亞瑪力"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "從哈腓拉"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "你進……去"
+    },
+    {
+      "surface": "שור",
+      "gloss": "書珥"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……對面"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    }
+  ],
+  "timestamp": "2026-10-16T06:11:53.415699806Z",
+  "model": "glm-5.3"
+}

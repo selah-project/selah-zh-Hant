@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חסיד\/תתחסד · תמים\/תתמם",
+      "rationale": "希伯來文以同根動詞回應同根形容詞（「慈愛者——你以慈愛待他」），中文以重複「顯明」字樣保留對仗"
+    },
+    {
+      "kind": "substitution",
+      "subject": "顯明",
+      "rationale": "希伯來文是以形容詞根直接作反身動詞（「你以慈愛自顯」），各譯本皆化為「顯出自己」式的說法"
+    }
+  ],
+  "translation": "對慈愛的人，你顯明慈愛；對完全的人，你顯明完全。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "995a92b3548f89ca7ca092c4f66710e005250b0f991a47a7bd689ce75a6deb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/18\/25-28.1792143425025.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "對"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "慈愛的人"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "你顯明慈愛"
+    },
+    {
+      "surface": "עם",
+      "gloss": "對"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "人"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "完全的"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "你顯明完全"
+    }
+  ],
+  "timestamp": "2026-10-16T09:37:05.026184526Z",
+  "model": "glm-5.3"
+}

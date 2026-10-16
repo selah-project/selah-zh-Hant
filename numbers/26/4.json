@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 26:4",
+  "book": "numbers",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובני ישראל",
+      "rationale": "「雅威吩咐摩西和以色列人」還是「…吩咐摩西，（就是）以色列人出埃及（之後）」——KJV併入吩咐，YLJ視為時間語"
+    },
+    {
+      "kind": "measurement",
+      "subject": "人口統計",
+      "rationale": "承接第2節的數點命令，家譜名單由此展開"
+    }
+  ],
+  "translation": "「從二十歲以上的計算，正如雅威所吩咐摩西的。以下是從埃及地出來的以色列人：",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9f791db1380c77a7650ba7abcb71779213d542ef6b50378c002d1ea6d780ff41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/26\/1-4.1792128162059.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "從…歲"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "及以上"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "正如"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "吩咐"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩西"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "和…的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "…出來的人"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "從…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    }
+  ],
+  "timestamp": "2026-10-16T05:22:42.060378636Z",
+  "model": "glm-5.3"
+}

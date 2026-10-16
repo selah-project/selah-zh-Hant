@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש 本義為呼吸之氣、生命氣息，非不朽的「靈魂」"
+    },
+    {
+      "kind": "addition",
+      "subject": "就是",
+      "rationale": "אשר 關係詞處以「就是」銜接，中文需補判斷語氣"
+    }
+  ],
+  "translation": "我的嘴唇必歡唱，因為我向你奏樂歌唱；還有我的性命，就是你所救贖的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "9eae377d08fa422a71de1313d2bb2fc5b61164dda0f551778d99eed8940867dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/71\/21-24.1792144141897.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "必歡唱"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "我的嘴唇"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "我奏樂歌唱"
+    },
+    {
+      "surface": "לך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "還有我的性命"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "你所救贖的"
+    }
+  ],
+  "timestamp": "2026-10-16T09:49:01.898090004Z",
+  "model": "glm-5.3"
+}

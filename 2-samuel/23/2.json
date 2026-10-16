@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "魯阿",
+      "rationale": "רוח 屬雅威，音譯『魯阿』並括註『靈』；原文是風／氣息之詞，非教義化的『聖靈』。"
+    }
+  ],
+  "translation": "雅威的魯阿（靈）藉著我說話，他的話語在我的舌頭上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "c277934e0e38c1ec7f1cb3759eae4009c23fb883d4aaffa2975176497c0d45c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/23\/1-4.1792132413968.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "魯阿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "說話"
+    },
+    {
+      "surface": "בי",
+      "gloss": "藉著我"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "他的話語"
+    },
+    {
+      "surface": "על",
+      "gloss": "在……上"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "我的舌頭"
+    }
+  ],
+  "timestamp": "2026-10-16T06:33:33.969093082Z",
+  "model": "glm-5.3"
+}

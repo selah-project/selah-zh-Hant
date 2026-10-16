@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "「人」",
+      "rationale": "וישלחו 直譯「他們打發」，中文需補「差人」以成句。"
+    }
+  ],
+  "translation": "他們就差人去見耶洗別，說：「拿伯被石頭打死了。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4b295cc58904c013fa74a7e7866dbe4e076558ea9194638bfd22c73a981b6adf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/21\/13-16.1792133296686.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "他們差人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去見"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "耶洗別"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "被石頭打死"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "拿伯"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "死了"
+    }
+  ],
+  "timestamp": "2026-10-16T06:48:16.687766994Z",
+  "model": "glm-5.3"
+}

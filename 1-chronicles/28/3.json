@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "血",
+      "rationale": "דמים 是複數「眾血」，中文無此複數形；字面是「許多血你流了」"
+    },
+    {
+      "kind": "you",
+      "subject": "你",
+      "rationale": "以羅欣藉拿單的話直接向大衛說話（此處由大衛複述）"
+    }
+  ],
+  "translation": "但以羅欣對我說：『你不可為我的名建造殿宇，因為你是爭戰之人，你流了血。』",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2641b75928ffc2bdc05b4500d3c481116b0a624bb6b3251540b5c65bdc8ced96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/28\/1-4.1792149112815.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "但以羅欣"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "你建造"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿宇"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "為我的名"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "איש",
+      "gloss": "之人"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "爭戰"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你是"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "和血"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "你流了"
+    }
+  ],
+  "timestamp": "2026-10-16T11:11:52.816622618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 3:22",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "他們（詞尾־ם）",
+      "rationale": "懼怕的賓語包含在動詞詞尾中，中文以〈他們〉補出並標記"
+    },
+    {
+      "kind": "you",
+      "subject": "to 以色列",
+      "rationale": "對以色列眾人的勸勉，第二人稱複數"
+    }
+  ],
+  "translation": "不要懼怕〈他們〉，因為雅威——你們的以羅欣，他是為你們爭戰的那一位。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b5ada990de1836bf3691b784021a2406ca4d67bd89c68ef9402fd127bfad40e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/3\/21-24.1792128505590.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תיראום",
+      "gloss": "要懼怕他們"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "你們的以羅欣"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "爭戰的那一位"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "為你們"
+    }
+  ],
+  "timestamp": "2026-10-16T05:28:25.591683246Z",
+  "model": "glm-5.3"
+}

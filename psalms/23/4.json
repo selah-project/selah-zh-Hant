@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "死蔭",
+      "rationale": "צלמות 傳統拆為 צל（影子）＋מות（死亡）；另一讀法視為「幽暗」一字（深暗）"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם כי……כי",
+      "rationale": "兩個 כי 前後呼應：「即使……因為」，中文無法保留此重複"
+    }
+  ],
+  "translation": "我雖然行過死蔭的幽谷，也不怕遭害，因為你與我同在；你的杖、你的竿，它們都安慰我。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/23\/1-4.1792143452528.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "雖然"
+    },
+    {
+      "surface": "כי",
+      "gloss": "即使"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "我行"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "過……幽谷"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "死蔭的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "怕"
+    },
+    {
+      "surface": "רע",
+      "gloss": "遭害"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "與我同在"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "你的杖"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "你的竿"
+    },
+    {
+      "surface": "המה",
+      "gloss": "它們"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "都安慰我"
+    }
+  ],
+  "timestamp": "2026-10-16T09:37:32.529519701Z",
+  "model": "glm-5.3"
+}

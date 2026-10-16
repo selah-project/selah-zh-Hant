@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "我的冊",
+      "rationale": "雅威所寫、可從中塗抹名字的生命冊，隱含的登錄之書。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "冊",
+      "rationale": "מספרי 字面是「我的書寫／文書」，譯作「冊」以合中文語感。"
+    },
+    {
+      "kind": "you",
+      "subject": "對摩西",
+      "rationale": "雅威直接回答摩西代求的話。"
+    }
+  ],
+  "translation": "雅威對摩西說：「凡犯罪得罪我的，我必從我的冊上抹去他。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5dd0d8af5437b86c6b201ab3e74e916ee98ad021afa9f31210a1f62723d2a299",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/32\/33-35.1792126427988.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "מי",
+      "gloss": "凡"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "犯罪"
+    },
+    {
+      "surface": "לי",
+      "gloss": "得罪我"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "我必抹去他"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "從我的冊上"
+    }
+  ],
+  "timestamp": "2026-10-16T04:53:47.988740532Z",
+  "model": "glm-5.3"
+}

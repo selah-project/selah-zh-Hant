@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 26:37",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "逃避",
+      "rationale": "כמפני חרב 直譯「如同刀劍的面」；中文需要動詞才能成句"
+    },
+    {
+      "kind": "substitution",
+      "subject": "站立之力",
+      "rationale": "תקומה 字面是「抗拒之力、抵擋的能力」，非泛指的「能力」"
+    }
+  ],
+  "translation": "他們必絆跌，各人撞在他的弟兄身上，如同在刀劍面前⟨逃避⟩，追趕的卻無一人；你們在你們的敵人面前必沒有站立之力。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "02c5a1f5edea30e44c437818746424d85aa9b875f67556dbcff420a8f388cda3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/26\/37-40.1792127411498.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "必絆跌"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "撞在他的弟兄身上"
+    },
+    {
+      "surface": "כמפני",
+      "gloss": "如同……面前"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "追趕的"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無一人"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "必沒有"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "有"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "你們"
+    },
+    {
+      "surface": "תקומה",
+      "gloss": "站立之力"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在……面前"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "你們的敵人"
+    }
+  ],
+  "timestamp": "2026-10-16T05:10:11.499347316Z",
+  "model": "glm-5.3"
+}

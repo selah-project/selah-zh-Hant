@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 1:33",
+  "book": "deuteronomy",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "那一位",
+      "rationale": "分詞短語需名詞主語，中文補出"
+    },
+    {
+      "kind": "elision",
+      "subject": "יומם",
+      "rationale": "副詞「日間」已含於句末時間詞，希伯來文原位保留於詞對中"
+    }
+  ],
+  "translation": "就是在路上走在你們前面、為你們探察安營之地的那一位——夜間在火中，為要讓你們看明你們所行的路；日間在雲中。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5dc452bdaab97c29b94c3dff9d95f836b91d055c9d319ac542689dc77794cd1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/1\/33-36.1792128479775.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההלך",
+      "gloss": "那行走的"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "在你們面前"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "在路上"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "探察"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "為你們"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "地方"
+    },
+    {
+      "surface": "לחנתכם",
+      "gloss": "安營"
+    },
+    {
+      "surface": "באש",
+      "gloss": "在火中"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜間"
+    },
+    {
+      "surface": "לראתכם",
+      "gloss": "讓你們看"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "在路上"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所……的路"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "你們行"
+    },
+    {
+      "surface": "בה",
+      "gloss": "在其中"
+    },
+    {
+      "surface": "ובענן",
+      "gloss": "在雲中"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "日間"
+    }
+  ],
+  "timestamp": "2026-10-16T05:27:59.776007822Z",
+  "model": "glm-5.3"
+}

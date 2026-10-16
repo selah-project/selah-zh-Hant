@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "提拔",
+      "rationale": "דליתני 字面是「你將我汲上來」（如從井中打水），譯作「提拔」保留其意象於中文"
+    }
+  ],
+  "translation": "雅威啊，我要頌揚你，因為你提拔了我，不曾叫我的仇敵向我誇勝。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0696ba0b76a5def4d06eb268cec6a3c566ecd808c78d5abc04c1c5729d13f2db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/30\/1-4.1792143537150.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "我要頌揚你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "你提拔了我"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "不曾"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "叫……誇勝"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "我的仇敵"
+    },
+    {
+      "surface": "לי",
+      "gloss": "向我"
+    }
+  ],
+  "timestamp": "2026-10-16T09:38:57.150995035Z",
+  "model": "glm-5.3"
+}

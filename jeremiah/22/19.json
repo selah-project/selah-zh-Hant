@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 22:19",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קבורת\/יקבר",
+      "rationale": "「埋葬」的名詞與動詞同根疊用：「以驢的埋葬他被埋葬」，中文難以保留此疊音"
+    },
+    {
+      "kind": "crux",
+      "subject": "מהלאה",
+      "rationale": "或譯「從遠處」或「拖到之外」；眾譯本作「拋出（城門）之外」"
+    }
+  ],
+  "translation": "他必被埋葬，像驢子的埋葬一樣，被拖行、被拋棄，遠離耶路撒冷的城門之外。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4ed2e3e7559938d7e8d7e50752539a2349d82c83caa3b686bbc82b5b2d15223e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/22\/18-20.1792142561477.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קבורת",
+      "gloss": "埋葬"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "驢子"
+    },
+    {
+      "surface": "יקבר",
+      "gloss": "他必被埋葬"
+    },
+    {
+      "surface": "סחוב",
+      "gloss": "被拖行"
+    },
+    {
+      "surface": "והשלך",
+      "gloss": "被拋棄"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "遠離"
+    },
+    {
+      "surface": "לשערי",
+      "gloss": "城門之外"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-10-16T09:22:41.478608688Z",
+  "model": "glm-5.3"
+}

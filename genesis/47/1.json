@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 47:1",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צאן",
+      "rationale": "צאן 是羊（綿羊或山羊）的集合名詞，譯作「羊群」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויבא\/באו",
+      "rationale": "「進去」與「來了」同字根 בוא，約瑟進去報告，家人來到——動詞呼應，中文未能顯出"
+    }
+  ],
+  "translation": "約瑟進去告訴法老，說：「我父親和我的弟兄們，以及他們的羊群、牛群，並一切屬於他們的，都從迦南地來了；看哪，他們正在歌珊地。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2c70be1b322ab509baa662efa70d8a8a9c2cf79c9d77561740443081db47691a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/47\/1-4.1792125623666.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "進去"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "告訴"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我父親"
+    },
+    {
+      "surface": "ואחי",
+      "gloss": "和我的弟兄們"
+    },
+    {
+      "surface": "וצאנם",
+      "gloss": "他們的羊群"
+    },
+    {
+      "surface": "ובקרם",
+      "gloss": "牛群"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "並一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "屬於"
+    },
+    {
+      "surface": "להם",
+      "gloss": "他們的"
+    },
+    {
+      "surface": "באו",
+      "gloss": "來了"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "從……地"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "看哪，他們"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在……地"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "歌珊"
+    }
+  ],
+  "timestamp": "2026-10-16T04:40:23.667006513Z",
+  "model": "glm-5.3"
+}

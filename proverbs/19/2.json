@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "性命",
+      "rationale": "נפש是氣息、生命活力的意思，不是靈魂"
+    },
+    {
+      "kind": "substitution",
+      "subject": "犯罪",
+      "rationale": "חטא本義是「錯過目標」，此處兼有失足之意"
+    }
+  ],
+  "translation": "再者，缺乏知識的性命也不好；腳步急促的，是犯罪的人。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8a24d07722e6482b14fd21664da9feea6d1a57470864bf4db479696f3fea60f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/19\/1-4.1792145503730.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "再者"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "缺乏"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "急促的"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "腳步"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "犯罪的人"
+    }
+  ],
+  "timestamp": "2026-10-16T10:11:43.731537082Z",
+  "model": "glm-5.3"
+}

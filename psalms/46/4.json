@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יחמרו",
+      "rationale": "字面「沸騰起沫」，譯「澎湃」保留水的意象"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהמו יחמרו",
+      "rationale": "兩個罕用動詞並置模聲，海嘯的聲響效果，中文難以完全傳達"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בגאותו",
+      "rationale": "גאות 可指「高傲」或「高漲洶湧」，此處為海水的洶湧"
+    }
+  ],
+  "translation": "它的水翻騰澎湃，山因它的洶湧而震動。細拉。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "e381cb8fb4f044d1d19f379d27980836baee6048f2d738c22d0e88aa35a92f92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/46\/1-4.1792143850819.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "翻騰"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "澎湃"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "它的水"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "震動"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "因它的洶湧"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-10-16T09:44:10.820557757Z",
+  "model": "glm-5.3"
+}

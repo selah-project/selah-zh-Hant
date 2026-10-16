@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "zh-Hant",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתכם",
+      "rationale": "此處 את 為介詞「與…同」，非受詞記號，但仍屬⟨את⟩家族，譯文以「與…同在」保留其近旁之義。"
+    },
+    {
+      "kind": "idiom",
+      "subject": "見我的面",
+      "rationale": "ראה פנים「見面」是希伯來成語，指被接見、得見其人。"
+    }
+  ],
+  "translation": "但若你不差他去，我們就不下去，因為那人曾對我們說：若不與⟨את⟩你們的弟弟同在，你們不得見我的面。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "692cfbd8a7d3d3b511c3aa0d14fa5db0379457ef893882cf05cdf9044a89595d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/43\/5-8.1792125551430.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "但若"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "你不"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "差他去"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "我們下去"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "那人"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "曾說"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "對我們"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "你們得見"
+    },
+    {
+      "surface": "פני",
+      "gloss": "我的面"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "若不"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "你們的弟弟"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩你們同在",
+      "marks": "你們的弟弟與你們同在"
+    }
+  ],
+  "timestamp": "2026-10-16T04:39:11.431684390Z",
+  "model": "glm-5.3"
+}

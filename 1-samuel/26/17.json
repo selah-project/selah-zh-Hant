@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是……嗎",
+      "rationale": "希伯來文以指示詞「這」構成疑問，中文需加判斷詞與語氣詞"
+    },
+    {
+      "kind": "you",
+      "subject": "掃羅對大衛",
+      "rationale": "掃羅以「我兒」直接稱呼大衛，大衛以「我主──王」回應"
+    }
+  ],
+  "translation": "掃羅認出了⟨את⟩大衛的聲音，就說：「這是你的聲音嗎，我兒大衛？」大衛說：「是我的聲音，我主──王。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "480f4f2861ac7761bb775a6e651b8aab82f40e8d3abe1a6cd16e6d5ba012ae23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/26\/17-20.1792131579701.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "認出了"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛的聲音"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲音"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "就說"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "你的聲音"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我兒"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "我的聲音"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "我主"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-10-16T06:19:39.702611001Z",
+  "model": "glm-5.3"
+}

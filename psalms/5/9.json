@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שוררי",
+      "rationale": "僅以主動分詞出現的敵意詞：KJV「我的仇敵」、JPS「埋伏窺伺我的人」；字面是「窺伺\/hostile觀看者」。"
+    },
+    {
+      "kind": "you",
+      "subject": "祈禱",
+      "rationale": "直接向雅威呼求的祈禱文。"
+    }
+  ],
+  "translation": "雅威啊，求你以你的公義引導我，因我的窺伺者之故；求你在我面前修直你的道路。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2ac9312f959b215aba426f7f5f1ae5c226a181a8bd26f24b424fd4ddd39310cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/5\/9-12.1792143231091.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "引導我"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "以你的公義"
+    },
+    {
+      "surface": "למען",
+      "gloss": "因……之故"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "我的窺伺者"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "求你修直"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "在我面前"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "你的道路"
+    }
+  ],
+  "timestamp": "2026-10-16T09:33:51.092640314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "違背",
+      "rationale": "ימרה本義為『苦、悖逆』；『違背你的口』即違抗你所出的命令。"
+    },
+    {
+      "kind": "addition",
+      "subject": "口中命令",
+      "rationale": "『你的口』直譯保留口的意象，中文補『命令』以達意。"
+    },
+    {
+      "kind": "you",
+      "subject": "to 約書亞",
+      "rationale": "會眾以『你只要剛強壯膽』對約書亞作結，回應書1:6-7、9中雅威的同樣吩咐。"
+    }
+  ],
+  "translation": "凡違背你口中命令、不聽從 ⟨את⟩ 你的話——不遵行你所吩咐他一切的人，必被治死；你只要剛強壯膽。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1424ec9bbd0116028b3a87ac960ed74f61349e11ba6a129914832263980a22c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/1\/17-18.1792129415579.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "違背"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你口中命令（פיך）"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "你的口"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "而不"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "聽從"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的話（דבריך）"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "你的話"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "你吩咐他"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "必被治死"
+    },
+    {
+      "surface": "רק",
+      "gloss": "只要"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "剛強"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "壯膽"
+    }
+  ],
+  "timestamp": "2026-10-16T05:43:35.580008276Z",
+  "model": "glm-5.3"
+}

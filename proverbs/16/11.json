@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 16:11",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "秤碼",
+      "rationale": "אבני כיס 字面是「袋中的石子」，即商人袋中的砝碼石"
+    },
+    {
+      "kind": "addition",
+      "subject": "公道的天平",
+      "rationale": "משפט 修飾天平與秤，中文以「公道」前置修飾"
+    }
+  ],
+  "translation": "公道的天平和秤屬於雅威，一切的秤碼都是他的作為。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "664f084f18761986a56461539626a6999bee459edca9fec0b4c559562beebcd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/16\/9-12.1792145433300.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "天平"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "和秤"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公道"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "屬於雅威"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "他的作為"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "石子（秤碼）"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "袋"
+    }
+  ],
+  "timestamp": "2026-10-16T10:10:33.301323747Z",
+  "model": "glm-5.3"
+}

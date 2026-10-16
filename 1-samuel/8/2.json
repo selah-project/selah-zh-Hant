@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "是",
+      "rationale": "希伯來文無繫動詞，中文需要"
+    },
+    {
+      "kind": "substitution",
+      "subject": "次子",
+      "rationale": "משנהו 字面為「他的第二位」，中文以「次子」為自然說法"
+    }
+  ],
+  "translation": "他長子的名字是約珥，次子的名字是亞比亞；他們在別是巴作士師。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d1ec159518378571bd01164a52afac388618af46ba725b2458b1ed4b7bc9b6dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/8\/1-4.1792130831053.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "〈事情是〉"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名字"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "他兒子"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "長子"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "約珥"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "而…的名字"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "次子"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "亞比亞"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "作士師"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "在別"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "是巴"
+    }
+  ],
+  "timestamp": "2026-10-16T06:07:11.054143549Z",
+  "model": "glm-5.3"
+}

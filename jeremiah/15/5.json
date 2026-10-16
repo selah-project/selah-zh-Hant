@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 15:5",
+  "book": "jeremiah",
+  "lang": "zh-Hant",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ינוד",
+      "rationale": "נוד 字面是點頭／搖動，哀悼習俗中為搖頭，直譯會誤導"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשאל לשלם",
+      "rationale": "שאל（問）與 שלום（平安）近音，問安的雙關，中文難以保留"
+    },
+    {
+      "kind": "invitation",
+      "subject": "耶路撒冷",
+      "rationale": "三連反問直接向耶路撒冷發問"
+    }
+  ],
+  "translation": "因為誰會憐憫你，耶路撒冷？誰會為你搖頭哀悼？誰會轉身向你問安，問你的平安？",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "2abfa913b0d6f3f994c61da856ad0961241865a11e09d06c3ed730285f1b5b4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/15\/5-8.1792136488053.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "יחמל",
+      "gloss": "憐憫"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "你"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "ינוד",
+      "gloss": "搖頭哀悼"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "轉身"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "問安"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "平安"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    }
+  ],
+  "timestamp": "2026-10-16T07:41:28.054488241Z",
+  "model": "glm-5.3"
+}

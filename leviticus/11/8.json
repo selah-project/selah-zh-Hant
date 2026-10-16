@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "以色列",
+      "rationale": "「你們」直接指向律法的受眾以色列人。"
+    }
+  ],
+  "translation": "牠們的肉你們不可吃，牠們的屍體你們不可摸；牠們對你們是不潔淨的。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "49b0ff479b4266b9e8da21a064e53f03e1ba4487e131af884edcfeb504156b15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/11\/5-8.1792126844027.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "牠們的肉"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "吃"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "牠們的屍體"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "摸"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "不潔淨"
+    },
+    {
+      "surface": "הם",
+      "gloss": "牠們"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "對你們"
+    }
+  ],
+  "timestamp": "2026-10-16T05:00:44.028553040Z",
+  "model": "glm-5.3"
+}

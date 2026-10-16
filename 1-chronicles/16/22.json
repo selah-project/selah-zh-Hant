@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 16:22",
+  "book": "1-chronicles",
+  "lang": "zh-Hant",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to 列國的君王",
+      "rationale": "不可（אל）的祈願否定直接向君王發話。"
+    },
+    {
+      "kind": "substitution",
+      "subject": "受膏者",
+      "rationale": "משיח 按 D2 一律譯「受膏者」，不譯「基督」「彌賽亞」。"
+    }
+  ],
+  "translation": "說：「不可觸碰我的受膏者，也不可加害我的先知。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "457c151114f005f2d00a5d9b2bd1dec0b569555b7ea1cd676cffe67b7ee81a29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/16\/21-24.1792148747237.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "你們觸碰"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "我的受膏者"
+    },
+    {
+      "surface": "ובנביאי",
+      "gloss": "我的先知"
+    },
+    {
+      "surface": "אל",
+      "gloss": "不可"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "你們加害"
+    }
+  ],
+  "timestamp": "2026-10-16T11:05:47.238142359Z",
+  "model": "glm-5.3"
+}

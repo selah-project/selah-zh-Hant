@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שתול",
+      "gloss": "字義為「被移植的」，強調被刻意栽種"
+    },
+    {
+      "kind": "addition",
+      "subject": "中文語序",
+      "rationale": "希伯來相對句אשר פריו יתן改寫為中文前置定語，語序重排"
+    }
+  ],
+  "translation": "他要像一棵樹，栽在水渠旁，按時候結果子，葉子也不枯乾；凡他所做的，盡都順利。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "0b7bde8d463856105adba8cd3bf11fb810073a8be120a6130bdb28fd37d54ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/1\/1-4.1792143247898.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "他要像"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "一棵樹"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "栽"
+    },
+    {
+      "surface": "על",
+      "gloss": "在"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "水渠"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "它的果子"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "結（給出）"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "在它的時候"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "且它的葉子"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "枯乾"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "且凡"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……所"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "做的"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "盡都順利"
+    }
+  ],
+  "timestamp": "2026-10-16T09:34:07.899945139Z",
+  "model": "glm-5.3"
+}

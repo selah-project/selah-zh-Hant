@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 17:19",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אֹהֵב……אֹהֵב",
+      "rationale": "「愛……愛」重複對仗，中文保留重複"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מַצָּה",
+      "rationale": "「爭競」一詞僅見於此處（與箴 10:12 同形爭議），是罕用詞"
+    }
+  ],
+  "translation": "愛爭競的，就是愛過犯；高抬自己門口的，尋求破壞。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "8db65f0a543b42cbc2ca31b833896623203c0200c30ba7d4ae3dda3fd37d4705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/17\/17-20.1792145492740.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "愛"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "過犯"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "愛"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "爭競"
+    },
+    {
+      "surface": "מגביה",
+      "gloss": "高抬"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "他的門口"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "尋求"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "破壞"
+    }
+  ],
+  "timestamp": "2026-10-16T10:11:32.741219781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "吞了",
+      "rationale": "בלע 是吞嚥、吞滅；一杖吞眾杖，是本段的核心意象。"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מטה重複",
+      "rationale": "『杖』字四現，與第 11 節『照樣』相扣：術士照樣行，亞倫的杖卻吞了他們的照樣。"
+    }
+  ],
+  "translation": "他們各人丟下自己的杖，杖就變成蛇；但亞倫的杖吞了他們的 ⟨את⟩ 杖。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "440d8810d66616f0523e7635f5744b5f74d16e8f06b98e963eec1dcf5616f8e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/7\/9-12.1792125760158.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "丟下"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "自己的杖"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "變成"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "蛇（複數）"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "吞了"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "杖"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他們的杖"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "他們的杖"
+    }
+  ],
+  "timestamp": "2026-10-16T04:42:40.160568117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "zh-Hant",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כלב מת",
+      "rationale": "「死狗」是希伯來文自貶習語，表極其卑微無用，中文保留直譯"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פנית אל",
+      "rationale": "字面「轉向」，譯作「眷顧」以合語境"
+    }
+  ],
+  "translation": "他又下拜，說：「僕人算什麼，你竟眷顧我這樣一條死狗一般的人呢？」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "b2430ab23e4e3277b632c5ee95cb5df372b7c291bc8e1dfc03d75dfd1a533fb0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/9\/5-8.1792131827866.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "下拜"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "說"
+    },
+    {
+      "surface": "מה",
+      "gloss": "算什麼"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你的僕人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "竟"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "眷顧"
+    },
+    {
+      "surface": "אל",
+      "gloss": " toward"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "死狗"
+    },
+    {
+      "surface": "המת",
+      "gloss": "死的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "這樣……一般"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "像我"
+    }
+  ],
+  "timestamp": "2026-10-16T06:23:47.867327390Z",
+  "model": "glm-5.3"
+}

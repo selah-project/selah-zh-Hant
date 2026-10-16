@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 11:26",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יקבהו",
+      "rationale": "字根 קבב『咒詛』而非 נקב『穿孔』；詞形數說不同"
+    },
+    {
+      "kind": "substitution",
+      "subject": "משביר",
+      "rationale": "原文是『糧食買賣者』（分糧者），非僅『出售者』"
+    }
+  ],
+  "translation": "囤積穀物的，百姓必咒詛他；但祝福必臨到賣糧者的頭上。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d27d585a90bc99d96c8d9dd6edc124656d194a7c8b74ddacd919acd2aaa7e207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/11\/25-28.1792145404124.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנע",
+      "gloss": "囤積"
+    },
+    {
+      "surface": "בר",
+      "gloss": "穀物"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "必咒詛他"
+    },
+    {
+      "surface": "לאום",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "וברכה",
+      "gloss": "但祝福"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "臨到……的頭上"
+    },
+    {
+      "surface": "משביר",
+      "gloss": "賣糧者"
+    }
+  ],
+  "timestamp": "2026-10-16T10:10:04.124950982Z",
+  "model": "glm-5.3"
+}

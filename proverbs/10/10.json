@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "zh-Hant",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עצבת",
+      "rationale": "此詞可解作「憂傷／痛苦」或「偶像」；各譯本多取「憂傷」，與上下文的惡意手勢相合"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ילבט",
+      "rationale": "לבט 僅出現於此處，意為「傾覆、被摔倒」，譯作「必被擊打」"
+    }
+  ],
+  "translation": "擠眼 的，必帶來憂傷；嘴唇愚妄的，必被擊打。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "ba335ee071929931783e165e93453b2124faa9b7dff9c211e5ad5ce48700e73b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/10\/9-12.1792145319497.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "擠（眼）"
+    },
+    {
+      "surface": "עין",
+      "gloss": "眼"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "必帶來"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "憂傷"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "而愚妄的"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "嘴唇"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "必被擊打"
+    }
+  ],
+  "timestamp": "2026-10-16T10:08:39.498461900Z",
+  "model": "glm-5.3"
+}

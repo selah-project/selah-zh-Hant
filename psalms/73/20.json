@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to 阿多奈",
+      "rationale": "詩人直接向阿多奈呼喊"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צלם",
+      "rationale": "此處指幻影、虛像，非實體形像；譯「影像」保留其虛幻性"
+    }
+  ],
+  "translation": "如同人從夢中醒來，阿多奈啊，你醒起之時，必藐視他們的影像。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "d31432a85700b1e047adc134f4595a8af7363556d66597757182c6ded057e1f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/73\/17-20.1792144151430.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "如同夢"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "人從……醒來"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "你醒起之時"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "他們的影像"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "必藐視"
+    }
+  ],
+  "timestamp": "2026-10-16T09:49:11.431278324Z",
+  "model": "glm-5.3"
+}

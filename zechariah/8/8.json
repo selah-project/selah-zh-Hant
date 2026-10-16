@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 8:8",
+  "book": "zechariah",
+  "lang": "zh-Hant",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "והיו…אהיה",
+      "rationale": "「他們要成為」與「我必成為」同根היה對稱，立約雙方互為歸屬，中文以「成為」重複保留。"
+    },
+    {
+      "kind": "elision",
+      "subject": "לי לעם",
+      "rationale": "希伯來文「歸我為民」的領屬結構，中文需加「作」字成句。"
+    }
+  ],
+  "translation": "我必領他們來，他們要住在耶路撒冷中間；他們要歸我作子民，我也要歸他們作以羅欣，憑真實和公義。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "4967755a8a5f6e8ba99036ed58ce58e694133e199acbb772b9db3e37b1150d02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/zechariah\/8\/5-8.1792142987117.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "我必領來"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "他們"
+    },
+    {
+      "surface": "ושכנו",
+      "gloss": "他們要住"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "在……中間"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "他們要成為"
+    },
+    {
+      "surface": "לי",
+      "gloss": "歸我"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "作子民"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "而我"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "我必成為"
+    },
+    {
+      "surface": "להם",
+      "gloss": "歸他們"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "作以羅欣"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "憑真實"
+    },
+    {
+      "surface": "ובצדקה",
+      "gloss": "和公義"
+    }
+  ],
+  "timestamp": "2026-10-16T09:29:47.118981603Z",
+  "model": "glm-5.3"
+}

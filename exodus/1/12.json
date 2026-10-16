@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כאשר…כן…וכן",
+      "rationale": "「越是……越發……也就越發」的對應結構，壓迫與增長成正比的修辭骨架"
+    }
+  ],
+  "translation": "然而他們越是苦害⟨את⟩他，他就越發增多、越發蔓延；埃及人就因以色列人的緣故而愁煩。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "1777181d08a5f2f08fe98eeffcc2c9858f50b97451757d10d76d1d9b4be10f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/1\/9-12.1792125658045.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "然而……越是"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "苦害"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "他"
+    },
+    {
+      "surface": "כן",
+      "gloss": "就越發"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "增多"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "也就越發"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "蔓延"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "愁煩"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "因……的緣故"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-10-16T04:40:58.046924696Z",
+  "model": "glm-5.3"
+}

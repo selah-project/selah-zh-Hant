@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "zh-Hant",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רגע",
+      "rationale": "Literally 'a blink of the eyes, an instant'; KJV 'suddenly' — 'in a moment' keeps the picture."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו…יבשו",
+      "rationale": "Inclusio: 'be ashamed' opens and closes the verse, bracketing the enemies' reversal."
+    },
+    {
+      "kind": "alternative",
+      "subject": "jussive vs. indicative",
+      "rationale": "Hebrew imperfects can be jussive ('let them be ashamed') or confident indicative ('they shall be ashamed') — KJV vs. YLT."
+    }
+  ],
+  "translation": "願我所有的仇敵蒙羞，大大驚惶；願他們退後，頃刻之間蒙羞。",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "dee5ab1a9dc3fc8250d6136160d50a78697b673dfd9d2308735ae6651f3a9507",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/6\/9-11.1792143192334.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "蒙羞"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "並且驚惶"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "大大"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "我的仇敵"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "退後"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "蒙羞"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "頃刻之間"
+    }
+  ],
+  "timestamp": "2026-10-16T09:33:12.335460795Z",
+  "model": "glm-5.3"
+}

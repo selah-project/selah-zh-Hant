@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 12:2",
+  "book": "1-kings",
+  "lang": "zh-Hant",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "這事",
+      "rationale": "כשמע 的賓語未言明，中文需補「這事」（參 KJV ”heard of it”）"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "敘事公式「發生了」由時間框架「當……的時候」吸收，不另譯出"
+    }
+  ],
+  "translation": "尼八的兒子耶羅波安聽見⟨這事⟩——那時他還在埃及，就是他從所羅門王面前逃往、並居住的埃及——",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "5e5d03b1531c119dd8d5f6136213bc6b58de308d064d2ab6f0932245c218c7bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/12\/1-4.1792133041200.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "當……的時候"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "耶羅波安"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "尼八"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "他"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "還在"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "逃往"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "從……面前"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "居住"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "耶羅波安"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "在埃及"
+    }
+  ],
+  "timestamp": "2026-10-16T06:44:01.200767887Z",
+  "model": "glm-5.3"
+}

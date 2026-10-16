@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "zh-Hant",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "怒氣",
+      "rationale": "אף 字面是「鼻孔」，怒氣從鼻孔噴出；中文以「怒氣」代之，圖像失落"
+    },
+    {
+      "kind": "crux",
+      "subject": "使你成為大國",
+      "rationale": "雅威提出另立摩西為大族以取代以色列；與創 12:2 對亞伯拉罕的應許平行，是著名的解經難點"
+    }
+  ],
+  "translation": "現在，你且由著我，讓我的怒氣向他們發作，我就滅絕他們；然後我要使你 ⟨אתך⟩ 成為大國。」",
+  "provenance": {
+    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
+    "user-sha256": "da143ef754c5367e7b6a4be8c91510b137732c971db2621591faa4aad3a173b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/32\/9-12.1792126472475.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "現在"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "你且由著"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "發作"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "我的怒氣"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "向他們"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "我就滅絕他們"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "我要使"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨אתך⟩",
+      "marks": "你"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "成為國"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大的"
+    }
+  ],
+  "timestamp": "2026-10-16T04:54:32.476089932Z",
+  "model": "glm-5.3"
+}
