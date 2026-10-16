@@ -22,11 +22,11 @@
       "rationale": "亞捫王藉使者直接向耶弗他提出領土要求。"
     }
   ],
-  "translation": "亞捫人的王對耶弗他的使者們說：「因為以色列上來出埃及的時候，奪了我的地，從亞嫩河到雅博河，直到約旦河；現在你要〈把这些地〉歸還，〈以便〉和睦。」",
+  "translation": "亞捫人的王對耶弗他的使者們說：「因為以色列上來出埃及的時候，奪了我的地，從亞嫩河到雅博河，直到約旦河；現在你要〈把這些地〉歸還，〈以便〉和睦。」",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "207e6d69b6cf370032646f726189dfb62e3175e9bb796a7b5b27b2733596d7be",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/11\/13-16.1792130440674.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/judges/11/13-16.1792130440674.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -129,5 +129,9 @@
     }
   ],
   "timestamp": "2026-10-16T06:00:40.675461303Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

@@ -17,11 +17,11 @@
       "rationale": "本节六次出现גאל词根（赎、赎业权），修辞密集，中文以「赎」字贯穿以保留重复。"
     }
   ],
-  "translation": "那救赎者說：「我不能為自己贖⟨את⟩我的產業免受損壞——恐怕我損壞⟨את⟩我的產業。你自己贖我的贖業權吧，因為我不能贖。」",
+  "translation": "那救贖者說：「我不能為自己贖⟨את⟩我的產業免受損壞——恐怕我損壞⟨את⟩我的產業。你自己贖我的贖業權吧，因為我不能贖。」",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "425ef71b8a33cf4ed1d22e11ca9ece2c65f9e0aa4706095932963875a9945f18",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ruth\/4\/5-8.1792146739094.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/ruth/4/5-8.1792146739094.json",
     "code": "f7b4ad31a-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "הגאל",
-      "gloss": "那救赎者"
+      "gloss": "那救贖者"
     },
     {
       "surface": "לא",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "לגאול",
-      "gloss": "赎"
+      "gloss": "贖"
     },
     {
       "surface": "לי",
-      "gloss": "为我自己"
+      "gloss": "為我自己"
     },
     {
       "surface": "פן",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אשחית",
-      "gloss": "我损坏"
+      "gloss": "我損壞"
     },
     {
       "surface": "את",
@@ -71,11 +71,11 @@
     },
     {
       "surface": "גאל",
-      "gloss": "赎吧"
+      "gloss": "贖吧"
     },
     {
       "surface": "לך",
-      "gloss": "为你自己"
+      "gloss": "為你自己"
     },
     {
       "surface": "אתה",
@@ -92,7 +92,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "因为"
+      "gloss": "因為"
     },
     {
       "surface": "לא",
@@ -104,9 +104,13 @@
     },
     {
       "surface": "לגאול",
-      "gloss": "赎"
+      "gloss": "贖"
     }
   ],
   "timestamp": "2026-10-16T10:32:19.095814675Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

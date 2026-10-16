@@ -23,11 +23,11 @@
       "rationale": "המתברך 是「為自己祝福」的反身強調形，中文補「为自己」以存其形。"
     }
   ],
-  "translation": "以至於在地上为自己祝福的，必憑阿們（真實）之以羅欣祝福；在地上起誓的，必憑阿們（真實）之以羅欣起誓；因為先前的患難已被忘記，也因它們已從我眼前隱藏。",
+  "translation": "以至於在地上為自己祝福的，必憑阿們（真實）之以羅欣祝福；在地上起誓的，必憑阿們（真實）之以羅欣起誓；因為先前的患難已被忘記，也因它們已從我眼前隱藏。",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "828310d5c80749125b1f7436b6e22b75e7083491fd67e71cef4c9def9115b608",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/65\/13-16.1792136016121.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/isaiah/65/13-16.1792136016121.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -40,7 +40,7 @@
     },
     {
       "surface": "המתברך",
-      "gloss": "那为自己祝福的"
+      "gloss": "那為自己祝福的"
     },
     {
       "surface": "בארץ",
@@ -108,5 +108,9 @@
     }
   ],
   "timestamp": "2026-10-16T07:33:36.122571674Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

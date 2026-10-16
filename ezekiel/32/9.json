@@ -18,11 +18,11 @@
       "rationale": "關係代詞由中文「所」結構吸收"
     }
   ],
-  "translation": "我必使許多民族的心愁煩，當我把你的毀滅帶到列國之中、带到你所不認識的地上的時候。",
+  "translation": "我必使許多民族的心愁煩，當我把你的毀滅帶到列國之中、帶到你所不認識的地上的時候。",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "c93a703826d9a888d574f424d09fcc5dd9752ea63d234e644d78ae2dd997246a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/32\/9-12.1792138801124.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/ezekiel/32/9-12.1792138801124.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -79,5 +79,9 @@
     }
   ],
   "timestamp": "2026-10-16T08:20:01.125799453Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

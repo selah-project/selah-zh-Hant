@@ -17,11 +17,11 @@
       "rationale": "列出以扫众子之名，属世系清点"
     }
   ],
-  "translation": "阿何利巴玛生了 ⟨את⟩ 耶乌施、⟨ואת⟩ 雅兰和 ⟨ואת⟩ 可拉。这些是以扫的儿子，是在迦南地为他生的。",
+  "translation": "阿何利巴瑪生了 ⟨את⟩ 耶烏施、⟨ואת⟩ 雅蘭和 ⟨ואת⟩ 可拉。這些是以掃的兒子，是在迦南地為他生的。",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "61f18a706eae2e776160c46f99e4e585e0011440e267dc81b376871a468d40be",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/36\/5-8.1792125304027.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/genesis/36/5-8.1792125304027.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,7 +30,7 @@
   "tokens": [
     {
       "surface": "ואהליבמה",
-      "gloss": "阿何利巴玛"
+      "gloss": "阿何利巴瑪"
     },
     {
       "surface": "ילדה",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "יעיש",
-      "gloss": "耶乌施"
+      "gloss": "耶烏施"
     },
     {
       "surface": "ואת",
@@ -52,7 +52,7 @@
     },
     {
       "surface": "יעלם",
-      "gloss": "雅兰"
+      "gloss": "雅蘭"
     },
     {
       "surface": "ואת",
@@ -65,15 +65,15 @@
     },
     {
       "surface": "אלה",
-      "gloss": "这些"
+      "gloss": "這些"
     },
     {
       "surface": "בני",
-      "gloss": "儿子"
+      "gloss": "兒子"
     },
     {
       "surface": "עשו",
-      "gloss": "以扫"
+      "gloss": "以掃"
     },
     {
       "surface": "אשר",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "为他"
+      "gloss": "為他"
     },
     {
       "surface": "בארץ",
@@ -97,5 +97,9 @@
     }
   ],
   "timestamp": "2026-10-16T04:35:04.028614240Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

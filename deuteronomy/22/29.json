@@ -27,11 +27,11 @@
       "rationale": "關係詞融入「因為他……」的句法，中文無對應字"
     }
   ],
-  "translation": "那與她同寢的男人要給少女的父親五十舍客勒銀子，她要作他的妻子，因為他玷辱了她；他終身都不可打发她走。",
+  "translation": "那與她同寢的男人要給少女的父親五十舍客勒銀子，她要作他的妻子，因為他玷辱了她；他終身都不可打發她走。",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "f4f013ef082782703f145225bea70fbe9fcaf7df4c4d123500544406c7779d79",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/22\/29-29.1792129013365.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/deuteronomy/22/29-29.1792129013365.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -88,7 +88,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "（关系词）"
+      "gloss": "（關係詞）"
     },
     {
       "surface": "ענה",
@@ -104,7 +104,7 @@
     },
     {
       "surface": "שלחה",
-      "gloss": "打发她走"
+      "gloss": "打發她走"
     },
     {
       "surface": "כל",
@@ -116,5 +116,9 @@
     }
   ],
   "timestamp": "2026-10-16T05:36:53.365957328Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

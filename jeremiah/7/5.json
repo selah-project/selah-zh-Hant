@@ -17,11 +17,11 @@
       "rationale": "רעהו 的代詞後綴，中文以「他的鄰舍」譯出"
     }
   ],
-  "translation": "因為你們若實實在在地改正 ⟨את⟩ 你們的道路和 ⟨את⟩ 你們的行為，若你們實實在在地在人与人之间施行公義，",
+  "translation": "因為你們若實實在在地改正 ⟨את⟩ 你們的道路和 ⟨את⟩ 你們的行為，若你們實實在在地在人與人之間施行公義，",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "58b02c60bb11cf2a72f75dba882ae06d5ba5ef151d3d87d0bc84b79f03fd0a7b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/7\/5-8.1792136227413.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/jeremiah/7/5-8.1792136227413.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -96,5 +96,9 @@
     }
   ],
   "timestamp": "2026-10-16T07:37:07.414220949Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

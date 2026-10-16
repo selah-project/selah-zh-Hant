@@ -21,7 +21,7 @@
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "7ee97fc3ff2fede9f3c2a254554e5bc1718f405486bdb5e6264fc284fc2df85c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/29\/33-36.1792126359909.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/exodus/29/33-36.1792126359909.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "בהם",
-      "gloss": "用它们"
+      "gloss": "用它們"
     },
     {
       "surface": "למלא",
@@ -97,5 +97,9 @@
     }
   ],
   "timestamp": "2026-10-16T04:52:39.910308413Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

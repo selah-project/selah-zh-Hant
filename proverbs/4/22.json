@@ -17,11 +17,11 @@
       "rationale": "למצאיהם為分詞構造，中文需補「的人」"
     }
   ],
-  "translation": "因為它們是生命，對尋得它們的人；對他一切的肉身，它們是医治。",
+  "translation": "因為它們是生命，對尋得它們的人；對他一切的肉身，它們是醫治。",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "b2539e7a0347d7f16fae38d48b1d93f538331f1377a1e8c55e0c515a02a0cdd7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/4\/21-24.1792145179138.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/proverbs/4/21-24.1792145179138.json",
     "code": "f7b4ad31a-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -54,9 +54,13 @@
     },
     {
       "surface": "מרפא",
-      "gloss": "医治"
+      "gloss": "醫治"
     }
   ],
   "timestamp": "2026-10-16T10:06:19.139390373Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

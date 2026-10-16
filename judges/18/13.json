@@ -12,11 +12,11 @@
       "rationale": "הר 原義為「山」，中文以「山地」表丘陵地帶之慣用法"
     }
   ],
-  "translation": "他們從那裡经过以法蓮山地，來到米迦的住宅。",
+  "translation": "他們從那裡經過以法蓮山地，來到米迦的住宅。",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "f056fcc5844fb8a4c9c4930eeeb174a7c17cc49fd6855c45b1de90c4cd1b0a98",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/18\/13-16.1792130586869.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/judges/18/13-16.1792130586869.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -25,7 +25,7 @@
   "tokens": [
     {
       "surface": "ויעברו",
-      "gloss": "经过"
+      "gloss": "經過"
     },
     {
       "surface": "משם",
@@ -57,5 +57,9 @@
     }
   ],
   "timestamp": "2026-10-16T06:03:06.869985127Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

@@ -17,11 +17,11 @@
       "rationale": "本節與王下8:25（約蘭十二年／亞哈謝登基）及9:14的年代算法不同，歷代譯者對此紀年差異多有爭議"
     }
   ],
-  "translation": "約蘭的儿子亞哈謝在位第十一年，亞哈謝登基作王，治理猶大。",
+  "translation": "約蘭的兒子亞哈謝在位第十一年，亞哈謝登基作王，治理猶大。",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "bf75abbee4593039a19cd7585f636cda7956afd1ebf429bb1088fbc48b903391",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/9\/29-32.1792133702729.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/2-kings/9/29-32.1792133702729.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "儿子"
+      "gloss": "兒子"
     },
     {
       "surface": "אחאב",
@@ -74,5 +74,9 @@
     }
   ],
   "timestamp": "2026-10-16T06:55:02.730369566Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

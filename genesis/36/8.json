@@ -12,11 +12,11 @@
       "rationale": "以扫即以东之名等同，呼应创25:30红豆（אדום）的双关，中文失落"
     }
   ],
-  "translation": "于是以扫住在西珥山；以扫就是以东。",
+  "translation": "於是以掃住在西珥山；以掃就是以東。",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "61f18a706eae2e776160c46f99e4e585e0011440e267dc81b376871a468d40be",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/36\/5-8.1792125304027.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/genesis/36/5-8.1792125304027.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "עשו",
-      "gloss": "以扫"
+      "gloss": "以掃"
     },
     {
       "surface": "בהר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "עשו",
-      "gloss": "以扫"
+      "gloss": "以掃"
     },
     {
       "surface": "הוא",
@@ -49,9 +49,13 @@
     },
     {
       "surface": "אדום",
-      "gloss": "以东"
+      "gloss": "以東"
     }
   ],
   "timestamp": "2026-10-16T04:35:04.029208849Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

@@ -27,11 +27,11 @@
       "rationale": "字面「两河之亚兰」（底格里斯与幼发拉底），即米所波大米；נהרים为双数「两河」"
     }
   ],
-  "translation": "于是雅威向以色列发怒，把他们卖在米所波大米王古珊利萨田手中；以色列人服事古珊利萨田八年。",
+  "translation": "於是雅威向以色列發怒，把他們賣在米所波大米王古珊利薩田手中；以色列人服事古珊利薩田八年。",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "b54f8dccaf49c31fc6c03db547f6a9d4864903c8f20f25b334148812779cbeac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/3\/5-8.1792130087667.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/judges/3/5-8.1792130087667.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -40,11 +40,11 @@
   "tokens": [
     {
       "surface": "ויחר",
-      "gloss": "发怒"
+      "gloss": "發怒"
     },
     {
       "surface": "אף",
-      "gloss": "鼻息〈怒气〉"
+      "gloss": "鼻息〈怒氣〉"
     },
     {
       "surface": "יהוה",
@@ -56,7 +56,7 @@
     },
     {
       "surface": "וימכרם",
-      "gloss": "把他们卖了"
+      "gloss": "把他們賣了"
     },
     {
       "surface": "ביד",
@@ -68,7 +68,7 @@
     },
     {
       "surface": "רשעתים",
-      "gloss": "利萨田"
+      "gloss": "利薩田"
     },
     {
       "surface": "מלך",
@@ -76,11 +76,11 @@
     },
     {
       "surface": "ארם",
-      "gloss": "亚兰"
+      "gloss": "亞蘭"
     },
     {
       "surface": "נהרים",
-      "gloss": "两河"
+      "gloss": "兩河"
     },
     {
       "surface": "ויעבדו",
@@ -105,7 +105,7 @@
     },
     {
       "surface": "רשעתים",
-      "gloss": "利萨田"
+      "gloss": "利薩田"
     },
     {
       "surface": "שמנה",
@@ -117,5 +117,9 @@
     }
   ],
   "timestamp": "2026-10-16T05:54:47.668645712Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

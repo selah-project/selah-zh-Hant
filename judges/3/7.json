@@ -14,14 +14,14 @@
     {
       "kind": "substitution",
       "subject": "האשרות",
-      "rationale": "亚舍拉是女神名\/圣柱，KJV 译 groves（树丛）是误译"
+      "rationale": "亚舍拉是女神名/圣柱，KJV 译 groves（树丛）是误译"
     }
   ],
-  "translation": "以色列人行了 ⟨את⟩ 雅威眼中看为恶的事，忘了 ⟨את⟩ 雅威他们的以罗欣，去事奉 ⟨את⟩ 众巴力和 ⟨את⟩ 众亚舍拉。",
+  "translation": "以色列人行了 ⟨את⟩ 雅威眼中看為惡的事，忘了 ⟨את⟩ 雅威他們的以羅欣，去事奉 ⟨את⟩ 眾巴力和 ⟨את⟩ 眾亞舍拉。",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "b54f8dccaf49c31fc6c03db547f6a9d4864903c8f20f25b334148812779cbeac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/3\/5-8.1792130087667.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/judges/3/5-8.1792130087667.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "הרע",
-      "gloss": "恶"
+      "gloss": "惡"
     },
     {
       "surface": "בעיני",
@@ -72,7 +72,7 @@
     },
     {
       "surface": "אלהיהם",
-      "gloss": "他们的以罗欣"
+      "gloss": "他們的以羅欣"
     },
     {
       "surface": "ויעבדו",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "הבעלים",
-      "gloss": "众巴力"
+      "gloss": "眾巴力"
     },
     {
       "surface": "ואת",
@@ -94,9 +94,13 @@
     },
     {
       "surface": "האשרות",
-      "gloss": "众亚舍拉"
+      "gloss": "眾亞舍拉"
     }
   ],
   "timestamp": "2026-10-16T05:54:47.668453842Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

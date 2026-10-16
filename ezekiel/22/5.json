@@ -13,15 +13,15 @@
     },
     {
       "kind": "wordplay",
-      "subject": "טמאת השם \/ רבת המהומה",
+      "subject": "טמאת השם / רבת המהומה",
       "rationale": "两组名词短语对仗——名声污秽、骚乱繁多——中文保留对仗"
     }
   ],
-  "translation": "那些靠近的、那些遠離你的，都必譏誚你；你这名声污秽、骚乱繁多。",
+  "translation": "那些靠近的、那些遠離你的，都必譏誚你；你這名聲汙穢、騷亂繁多。",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "e4349d419cca91a0f7b943244050b137c2fb91373f257b51c78bb5813b15e3e7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/22\/5-8.1792138415642.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/ezekiel/22/5-8.1792138415642.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "טמאת",
-      "gloss": "污穢"
+      "gloss": "汙穢"
     },
     {
       "surface": "השם",
-      "gloss": "名声"
+      "gloss": "名聲"
     },
     {
       "surface": "רבת",
@@ -62,9 +62,13 @@
     },
     {
       "surface": "המהומה",
-      "gloss": "骚乱"
+      "gloss": "騷亂"
     }
   ],
   "timestamp": "2026-10-16T08:13:35.643243110Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

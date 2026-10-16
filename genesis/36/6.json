@@ -22,11 +22,11 @@
       "rationale": "「别处的地」之「别的」为补足语意，原文ארץ前无修饰"
     }
   ],
-  "translation": "以扫带着 ⟨את⟩ 他的妻子们、⟨ואת⟩ 他的儿子们、⟨ואת⟩ 他的女儿们、⟨ואת⟩ 他家里所有的生命气息、⟨ואת⟩ 他的牲畜、⟨ואת⟩ 他一切的走兽，并 ⟨ואת⟩ 他在迦南地所得的一切财产，往别处的地去，离开他兄弟雅各的面。",
+  "translation": "以掃帶著 ⟨את⟩ 他的妻子們、⟨ואת⟩ 他的兒子們、⟨ואת⟩ 他的女兒們、⟨ואת⟩ 他家裡所有的生命氣息、⟨ואת⟩ 他的牲畜、⟨ואת⟩ 他一切的走獸，並 ⟨ואת⟩ 他在迦南地所得的一切財產，往別處的地去，離開他兄弟雅各的面。",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "61f18a706eae2e776160c46f99e4e585e0011440e267dc81b376871a468d40be",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/36\/5-8.1792125304027.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/genesis/36/5-8.1792125304027.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -35,11 +35,11 @@
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "带着"
+      "gloss": "帶著"
     },
     {
       "surface": "עשו",
-      "gloss": "以扫"
+      "gloss": "以掃"
     },
     {
       "surface": "את",
@@ -48,7 +48,7 @@
     },
     {
       "surface": "נשיו",
-      "gloss": "他的妻子们"
+      "gloss": "他的妻子們"
     },
     {
       "surface": "ואת",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "בניו",
-      "gloss": "他的儿子们"
+      "gloss": "他的兒子們"
     },
     {
       "surface": "ואת",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "בנתיו",
-      "gloss": "他的女儿们"
+      "gloss": "他的女兒們"
     },
     {
       "surface": "ואת",
@@ -79,11 +79,11 @@
     },
     {
       "surface": "נפשות",
-      "gloss": "生命气息"
+      "gloss": "生命氣息"
     },
     {
       "surface": "ביתו",
-      "gloss": "他家里"
+      "gloss": "他家裡"
     },
     {
       "surface": "ואת",
@@ -105,7 +105,7 @@
     },
     {
       "surface": "בהמתו",
-      "gloss": "走兽"
+      "gloss": "走獸"
     },
     {
       "surface": "ואת",
@@ -118,7 +118,7 @@
     },
     {
       "surface": "קנינו",
-      "gloss": "财产"
+      "gloss": "財產"
     },
     {
       "surface": "אשר",
@@ -150,7 +150,7 @@
     },
     {
       "surface": "מפני",
-      "gloss": "离开……的面"
+      "gloss": "離開……的面"
     },
     {
       "surface": "יעקב",
@@ -162,5 +162,9 @@
     }
   ],
   "timestamp": "2026-10-16T04:35:04.028868763Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

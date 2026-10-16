@@ -12,11 +12,11 @@
       "rationale": "'花朵升上來'——諸譯本或作『 blossoms shot forth』或作『flourishing』；意象為花苞向上綻放"
     }
   ],
-  "translation": "葡萄樹上有三根枝子；它好像發芽，花朵開了上来，它的葡萄串成熟了葡萄。",
+  "translation": "葡萄樹上有三根枝子；它好像發芽，花朵開了上來，它的葡萄串成熟了葡萄。",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "a8628611c0edbc6a7d9a212e4b176936238313896bd312950490f5a2071d3d39",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/40\/9-12.1792125382914.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/genesis/40/9-12.1792125382914.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -65,5 +65,9 @@
     }
   ],
   "timestamp": "2026-10-16T04:36:22.915943282Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

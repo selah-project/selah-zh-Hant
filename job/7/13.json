@@ -14,7 +14,7 @@
     {
       "kind": "substitution",
       "subject": "בשיחי",
-      "rationale": "שיח 可作「沉思」或「倾诉\/抱怨」，此处与约伯的哀诉语境相合"
+      "rationale": "שיח 可作「沉思」或「倾诉/抱怨」，此处与约伯的哀诉语境相合"
     },
     {
       "kind": "substitution",
@@ -22,11 +22,11 @@
       "rationale": "נחם 字根本义是「叹息、深呼吸」，引申为「安慰」——字面是「向我叹息」"
     }
   ],
-  "translation": "因為我曾说：我的褥必安慰我，我的床必在我的倾诉中被抬起；",
+  "translation": "因為我曾說：我的褥必安慰我，我的床必在我的傾訴中被抬起；",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "cd39044740d7c572944c9015716ef9bbfe7dc89afba146913a7981b150cd6e07",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/7\/13-16.1792145861290.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/job/7/13-16.1792145861290.json",
     "code": "f7b4ad31a-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "בשיחי",
-      "gloss": "在我的倾诉中"
+      "gloss": "在我的傾訴中"
     },
     {
       "surface": "משכבי",
@@ -63,5 +63,9 @@
     }
   ],
   "timestamp": "2026-10-16T10:17:41.291024119Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

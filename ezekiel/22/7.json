@@ -17,11 +17,11 @@
       "rationale": "הקלו字面是'看为轻'，即藐视父母"
     }
   ],
-  "translation": "在你中间，父亲和母亲被轻慢；寄居的在你中间被欺压；孤儿寡妇在你中间受亏待。",
+  "translation": "在你中間，父親和母親被輕慢；寄居的在你中間被欺壓；孤兒寡婦在你中間受虧待。",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "e4349d419cca91a0f7b943244050b137c2fb91373f257b51c78bb5813b15e3e7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/22\/5-8.1792138415642.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/ezekiel/22/5-8.1792138415642.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,19 +30,19 @@
   "tokens": [
     {
       "surface": "אב",
-      "gloss": "父亲"
+      "gloss": "父親"
     },
     {
       "surface": "ואם",
-      "gloss": "和母亲"
+      "gloss": "和母親"
     },
     {
       "surface": "הקלו",
-      "gloss": "被轻慢"
+      "gloss": "被輕慢"
     },
     {
       "surface": "בך",
-      "gloss": "在你里面"
+      "gloss": "在你裡面"
     },
     {
       "surface": "לגר",
@@ -54,29 +54,33 @@
     },
     {
       "surface": "בעשק",
-      "gloss": "以欺压"
+      "gloss": "以欺壓"
     },
     {
       "surface": "בתוכך",
-      "gloss": "在你中间"
+      "gloss": "在你中間"
     },
     {
       "surface": "יתום",
-      "gloss": "孤儿"
+      "gloss": "孤兒"
     },
     {
       "surface": "ואלמנה",
-      "gloss": "和寡妇"
+      "gloss": "和寡婦"
     },
     {
       "surface": "הונו",
-      "gloss": "受亏待"
+      "gloss": "受虧待"
     },
     {
       "surface": "בך",
-      "gloss": "在你里面"
+      "gloss": "在你裡面"
     }
   ],
   "timestamp": "2026-10-16T08:13:35.643648641Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

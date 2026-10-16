@@ -17,11 +17,11 @@
       "rationale": "「搖」（הניף）與「搖祭」（תנופה）同源重複，中文以同字保留"
     }
   ],
-  "translation": "祭司要把 ⟨את⟩ 這些物在雅威面前搖一搖作搖祭；這是歸祭司的聖物，连同搖祭的胸和舉祭的腿。然後拿細耳人可以喝酒。",
+  "translation": "祭司要把 ⟨את⟩ 這些物在雅威面前搖一搖作搖祭；這是歸祭司的聖物，連同搖祭的胸和舉祭的腿。然後拿細耳人可以喝酒。",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "5c0c6a99105a177a605235c94bf6c3b575be447c9ed9022b1c168e65fb1e3968",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/6\/17-20.1792127609928.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/numbers/6/17-20.1792127609928.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "על",
-      "gloss": "连同"
+      "gloss": "連同"
     },
     {
       "surface": "חזה",
@@ -107,5 +107,9 @@
     }
   ],
   "timestamp": "2026-10-16T05:13:29.929783296Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

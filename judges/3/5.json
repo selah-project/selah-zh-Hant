@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "zh-Hant",
   "chapter": 3,
-  "translation": "以色列人住在迦南人、赫人、亞摩利人、比利洗人、希未人和耶布斯人中间。",
+  "translation": "以色列人住在迦南人、赫人、亞摩利人、比利洗人、希未人和耶布斯人中間。",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "b54f8dccaf49c31fc6c03db547f6a9d4864903c8f20f25b334148812779cbeac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/3\/5-8.1792130087667.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/judges/3/5-8.1792130087667.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "בקרב",
-      "gloss": "在…中间"
+      "gloss": "在…中間"
     },
     {
       "surface": "הכנעני",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "והאמרי",
-      "gloss": "亚摩利人"
+      "gloss": "亞摩利人"
     },
     {
       "surface": "והפרזי",
@@ -58,5 +58,9 @@
     }
   ],
   "timestamp": "2026-10-16T05:54:47.668025679Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

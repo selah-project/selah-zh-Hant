@@ -12,11 +12,11 @@
       "rationale": "中文被動式所需，希伯來主動態「他們抬我」。"
     }
   ],
-  "translation": "我就如從未有過一般，从母腹被抬到墳墓。",
+  "translation": "我就如從未有過一般，從母腹被抬到墳墓。",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "369b000957795c8fab06e2a94e16ab01c6a3fff6b29b261c8b987703cace53a9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/10\/17-20.1792145952562.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/job/10/17-20.1792145952562.json",
     "code": "f7b4ad31a-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "מבטן",
-      "gloss": "从母腹"
+      "gloss": "從母腹"
     },
     {
       "surface": "לקבר",
@@ -53,5 +53,9 @@
     }
   ],
   "timestamp": "2026-10-16T10:19:12.563323391Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

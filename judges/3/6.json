@@ -13,15 +13,15 @@
     },
     {
       "kind": "wordplay",
-      "subject": "לקח\/נתן",
+      "subject": "לקח/נתן",
       "rationale": "娶与给的对称结构——以色列又娶又给，通婚的两面"
     }
   ],
-  "translation": "他们娶他们的女儿为妻，又把自己的女儿嫁给他们的儿子，并且事奉他们的神明。",
+  "translation": "他們娶他們的女兒為妻，又把自己的女兒嫁給他們的兒子，並且事奉他們的神明。",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "b54f8dccaf49c31fc6c03db547f6a9d4864903c8f20f25b334148812779cbeac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/3\/5-8.1792130087667.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/judges/3/5-8.1792130087667.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,7 +30,7 @@
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "他们就娶了"
+      "gloss": "他們就娶了"
     },
     {
       "surface": "את",
@@ -39,15 +39,15 @@
     },
     {
       "surface": "בנותיהם",
-      "gloss": "他们的女儿"
+      "gloss": "他們的女兒"
     },
     {
       "surface": "להם",
-      "gloss": "为⟨自己⟩"
+      "gloss": "為⟨自己⟩"
     },
     {
       "surface": "לנשים",
-      "gloss": "为妻"
+      "gloss": "為妻"
     },
     {
       "surface": "ואת",
@@ -56,19 +56,19 @@
     },
     {
       "surface": "בנותיהם",
-      "gloss": "〈自己的〉女儿"
+      "gloss": "〈自己的〉女兒"
     },
     {
       "surface": "נתנו",
-      "gloss": "又…给了"
+      "gloss": "又…給了"
     },
     {
       "surface": "לבניהם",
-      "gloss": "给他们的儿子"
+      "gloss": "給他們的兒子"
     },
     {
       "surface": "ויעבדו",
-      "gloss": "并且事奉了"
+      "gloss": "並且事奉了"
     },
     {
       "surface": "את",
@@ -77,9 +77,13 @@
     },
     {
       "surface": "אלהיהם",
-      "gloss": "他们的神明"
+      "gloss": "他們的神明"
     }
   ],
   "timestamp": "2026-10-16T05:54:47.668278595Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

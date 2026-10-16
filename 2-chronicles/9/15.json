@@ -22,11 +22,11 @@
       "rationale": "盾牌数量与每面用金重量均为计量内容。"
     }
   ],
-  "translation": "所罗门王用锤出来的金子製成二百面大盾牌，每面盾牌用六百舍客勒锤出来的金子。",
+  "translation": "所羅門王用錘出來的金子製成二百面大盾牌，每面盾牌用六百舍客勒錘出來的金子。",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "ed74386c79c2606b92095c6a3600b2c60dbc8c86ace6139c53df08e99eb51652",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/9\/13-16.1792149250859.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/2-chronicles/9/13-16.1792149250859.json",
     "code": "f7b4ad31a-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "שחוט",
-      "gloss": "锤出来的"
+      "gloss": "錘出來的"
     },
     {
       "surface": "שש",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "שחוט",
-      "gloss": "锤出来的"
+      "gloss": "錘出來的"
     },
     {
       "surface": "יעלה",
@@ -95,5 +95,9 @@
     }
   ],
   "timestamp": "2026-10-16T11:14:10.860778586Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

@@ -17,11 +17,11 @@
       "rationale": "敘事連接詞「事發生了」，中文以「……的时候」融入句中，無獨立詞位"
     }
   ],
-  "translation": "他們還在路上的时候，消息就來到大衛那裡，說：「押沙龍擊殺了⟨את⟩王所有的兒子，沒有留下一個。」",
+  "translation": "他們還在路上的時候，消息就來到大衛那裡，說：「押沙龍擊殺了⟨את⟩王所有的兒子，沒有留下一個。」",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "0180d278aa5560e49091255afe70bfa8a6196177308f6a8f533637146dd26da2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/13\/29-32.1792132005954.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/2-samuel/13/29-32.1792132005954.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,7 +30,7 @@
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "……的时候"
+      "gloss": "……的時候"
     },
     {
       "surface": "המה",
@@ -103,5 +103,9 @@
     }
   ],
   "timestamp": "2026-10-16T06:26:45.955605573Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

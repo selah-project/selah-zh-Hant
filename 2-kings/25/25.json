@@ -21,7 +21,7 @@
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "daa04817d4643f2ec61e59a9f69bb12a99a5d09d755131e3a160b8ea31c1e0ae",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/25\/25-28.1792134449739.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/2-kings/25/25-28.1792134449739.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,7 +30,7 @@
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "发生了"
+      "gloss": "發生了"
     },
     {
       "surface": "בחדש",
@@ -137,5 +137,9 @@
     }
   ],
   "timestamp": "2026-10-16T07:07:29.740022163Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

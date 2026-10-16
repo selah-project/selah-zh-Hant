@@ -14,7 +14,7 @@
     {
       "kind": "crux",
       "subject": "אתך",
-      "rationale": "此處 את 是「與你同在」的介詞（H854），非受詞記號；各譯本作 with you \/ unto thee，中譯作「在你身上」。"
+      "rationale": "此處 את 是「與你同在」的介詞（H854），非受詞記號；各譯本作 with you / unto thee，中譯作「在你身上」。"
     },
     {
       "kind": "wordplay",
@@ -22,11 +22,11 @@
       "rationale": "「我的話語」與「我所說的話」同字根重複呼應，中文以重複「話」字保留。"
     }
   ],
-  "translation": "「論到你所建造的這殿：你若遵行我的律例，謹守 ⟨את⟩ 我的典章並且遵行，又遵守 ⟨את⟩ 我的一切誡命、循此而行，我就必在你身上堅立 ⟨את⟩ 我的話語，就是我对你父親大衛所說的話。",
+  "translation": "「論到你所建造的這殿：你若遵行我的律例，謹守 ⟨את⟩ 我的典章並且遵行，又遵守 ⟨את⟩ 我的一切誡命、循此而行，我就必在你身上堅立 ⟨את⟩ 我的話語，就是我對你父親大衛所說的話。",
   "provenance": {
     "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
     "user-sha256": "b291258192b9064879a8291a92eedb88d5b66afdef0b548eeb45d4d9e83554b7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/6\/9-12.1792132611900.json",
+    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/1-kings/6/9-12.1792132611900.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -142,5 +142,9 @@
     }
   ],
   "timestamp": "2026-10-16T06:36:51.902443199Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }
