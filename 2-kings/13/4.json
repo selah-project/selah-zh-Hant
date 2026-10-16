@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "懇求…的面",
-      "rationale": "ויחל את פני יהוה 直譯「使雅威的面柔和」，即求情討好"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "לחץ",
-      "rationale": "「壓迫」名詞與動詞同詞根重複，中文保留同一詞"
-    }
-  ],
-  "translation": "約哈斯懇求雅威的面，雅威就垂聽他，因為雅威看見以色列所受的壓迫，因為亞蘭王壓迫 ⟨אתם⟩ 他們。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "03b9f9c9d9298eb2810642908d702e3f68bc60e87e0c50a20643d7fa406224bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/13\/1-4.1792133992299.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "約哈斯懇求雅威的恩〈臉〉，雅威就垂聽他，因為他看見了〈את⟩以色列的困迫，因為亞蘭王壓迫⟨אתם⟩他們。",
   "tokens": [
     {
       "surface": "ויחל",
-      "gloss": "懇求（使自己柔和）"
+      "gloss": "懇求恩〈臉〉"
     },
     {
       "surface": "יהואחז",
@@ -39,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "雅威的面"
+      "marks": "雅威的臉"
     },
     {
       "surface": "פני",
-      "gloss": "…的面"
+      "gloss": "臉"
     },
     {
       "surface": "יהוה",
@@ -72,11 +51,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "以色列的壓迫"
+      "marks": "以色列的困迫"
     },
     {
       "surface": "לחץ",
-      "gloss": "壓迫"
+      "gloss": "困迫"
     },
     {
       "surface": "ישראל",
@@ -104,6 +83,6 @@
       "gloss": "亞蘭"
     }
   ],
-  "timestamp": "2026-10-16T06:59:52.300739984Z",
+  "timestamp": "2026-10-16T22:05:31.365848767Z",
   "model": "glm-5.3"
 }

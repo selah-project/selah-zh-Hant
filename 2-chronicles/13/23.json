@@ -5,37 +5,11 @@
   "book": "2-chronicles",
   "lang": "zh-Hant",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "與他列祖同睡",
-      "rationale": "שכב עם אבתיו 直譯「與他列祖同躺下」，希伯來委婉語指死亡。"
-    },
-    {
-      "kind": "addition",
-      "subject": "人",
-      "rationale": "ויקברו 是複數「他們埋葬了」，中文以不定的「人」表達。"
-    },
-    {
-      "kind": "measurement",
-      "subject": "十年",
-      "rationale": "全地安靜的年數被明確點出：十年。"
-    }
-  ],
-  "translation": "亞比雅與他列祖同睡，人把他葬在大衛城裡；他兒子亞撒接續他作王。亞撒在位的日子，全地安靜了十年。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "7ca13cf73f251460d02be4f2e656a6bd7b95d67e0a15a12dd41fd7200891631f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/13\/21-23.1792149321903.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "亞比雅與他列祖同睡，人把他葬在大衛城，他兒子亞撒接續他作王。在他的日子，那地安靜了十年。",
   "tokens": [
     {
       "surface": "וישכב",
-      "gloss": "同睡"
+      "gloss": "與他列祖同睡"
     },
     {
       "surface": "אביה",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "ויקברו",
-      "gloss": "人把他葬在"
+      "gloss": "人把他葬"
     },
     {
       "surface": "אתו",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "בעיר",
-      "gloss": "在城裡"
+      "gloss": "在…城"
     },
     {
       "surface": "דויד",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "全地"
+      "gloss": "那地"
     },
     {
       "surface": "עשר",
@@ -103,6 +77,6 @@
       "gloss": "年"
     }
   ],
-  "timestamp": "2026-10-16T11:15:21.903973978Z",
+  "timestamp": "2026-10-16T22:03:04.812043796Z",
   "model": "glm-5.3"
 }

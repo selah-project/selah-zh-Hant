@@ -5,33 +5,7 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על פי יהוה",
-      "rationale": "字面為「照雅威的口」，意即照祂的吩咐；中文以「口〈所吩咐〉」保留意象並補足語義。"
-    },
-    {
-      "kind": "addition",
-      "subject": "被點數",
-      "rationale": "希伯來文動詞 פקד 無被動標記，中文需被動式以合語境。"
-    },
-    {
-      "kind": "measurement",
-      "subject": "點數",
-      "rationale": "本節總結利未人的點數，屬計數／冊名語境。"
-    }
-  ],
-  "translation": "照雅威的口〈所吩咐〉，他們藉摩西的手被點數，各人按自己的事奉、按自己的重擔；他們就這樣被點數，正如雅威藉⟨את⟩摩西所吩咐的。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ad0be53cd011fd1b25b3646785532cc2247fa5f3978d21de7e063553b9c1a3e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/4\/49-49.1792127541720.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "照雅威的口〈所吩咐〉，他們藉摩西的手被點數，各人按自己的職事、按自己的重擔；他們的點數乃是雅威吩咐 ⟨את⟩ 摩西的。",
   "tokens": [
     {
       "surface": "על",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "פי",
-      "gloss": "口"
+      "gloss": "的口"
     },
     {
       "surface": "יהוה",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "פקד",
-      "gloss": "被點數"
+      "gloss": "點數"
     },
     {
       "surface": "אותם",
@@ -64,11 +38,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "各人"
+      "gloss": "各"
     },
     {
       "surface": "איש",
-      "gloss": "各人"
+      "gloss": "人"
     },
     {
       "surface": "על",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "עבדתו",
-      "gloss": "自己的事奉"
+      "gloss": "自己的職事"
     },
     {
       "surface": "ועל",
@@ -88,15 +62,15 @@
     },
     {
       "surface": "ופקדיו",
-      "gloss": "他們就這樣被點數"
+      "gloss": "他們的點數"
     },
     {
       "surface": "אשר",
-      "gloss": "正如"
+      "gloss": "乃是"
     },
     {
       "surface": "צוה",
-      "gloss": "所吩咐"
+      "gloss": "吩咐"
     },
     {
       "surface": "יהוה",
@@ -112,6 +86,6 @@
       "gloss": "摩西"
     }
   ],
-  "timestamp": "2026-10-16T05:12:21.720527610Z",
+  "timestamp": "2026-10-16T22:55:59.171547011Z",
   "model": "glm-5.3"
 }

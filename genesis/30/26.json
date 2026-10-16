@@ -5,27 +5,11 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈那份〉",
-      "rationale": "中文在此需要量詞短語，希伯來文只作受詞標記"
-    }
-  ],
-  "translation": "請把 ⟨את⟩ 我的妻子們和 ⟨את⟩ 我的孩子們給我，就是我為她們事奉了你〔的緣故〕，我好離去；你知道我事奉你的〈那份〉工作，就是我向你所作的事奉。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "fdeae71563bb4d03226ec2c41e6f593a56256a7d4d751b462b9828892a026c63",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/30\/25-28.1792125170945.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "請把⟨את⟩我的妻子們和⟨את⟩我的孩子們賜給我，就是我為她們事奉了你的，我好離去；因為你知道⟨את⟩我所做的事奉，就是我向你所行的服事。」",
   "tokens": [
     {
       "surface": "תנה",
-      "gloss": "請給"
+      "gloss": "請…賜給"
     },
     {
       "surface": "את",
@@ -38,7 +22,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "我的孩子們"
     },
     {
@@ -55,11 +39,12 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ 你"
+      "gloss": "⟨את⟩ 你",
+      "marks": "為她們事奉了你"
     },
     {
       "surface": "בהן",
-      "gloss": "為了她們"
+      "gloss": "為她們"
     },
     {
       "surface": "ואלכה",
@@ -80,11 +65,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我的工作"
+      "marks": "我所做的事奉"
     },
     {
       "surface": "עבדתי",
-      "gloss": "我的工作"
+      "gloss": "我所做的事奉"
     },
     {
       "surface": "אשר",
@@ -92,9 +77,9 @@
     },
     {
       "surface": "עבדתיך",
-      "gloss": "我事奉了你"
+      "gloss": "我向你所行的服事"
     }
   ],
-  "timestamp": "2026-10-16T04:32:50.946475787Z",
+  "timestamp": "2026-10-16T22:28:56.633170780Z",
   "model": "glm-5.3"
 }

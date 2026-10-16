@@ -5,38 +5,7 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "לאמר",
-      "rationale": "敘述框架詞，併入「說」的引語結構"
-    },
-    {
-      "kind": "substitution",
-      "subject": "גורל",
-      "rationale": "字面是「小石子」，即抽籤用的籤石"
-    },
-    {
-      "kind": "you",
-      "subject": "以色列人",
-      "rationale": "摩西對以色列人的直接吩咐，轉述雅威的命令"
-    },
-    {
-      "kind": "measurement",
-      "subject": "九個支派和半個支派",
-      "rationale": "分配地業的支派計數"
-    }
-  ],
-  "translation": "摩西吩咐以色列人，說：「這就是你們要抽籤承受為業的地，就是雅威吩咐賜給九個支派和半個支派的。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "830569e4aaacb35d5c969e1e19d1a6c3976e2862d8517dea517f7381f7e05a07",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/34\/13-16.1792128403805.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "摩西吩咐 ⟨את⟩ 以色列的子孫，說：「這就是你們要抽籤承受為業的地，就是雅威吩咐賜給九個支派和半個支派的。」",
   "tokens": [
     {
       "surface": "ויצו",
@@ -49,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "以色列人"
+      "marks": "以色列的子孫"
     },
     {
       "surface": "בני",
-      "gloss": "人"
+      "gloss": "的子孫"
     },
     {
       "surface": "ישראל",
@@ -77,7 +46,7 @@
     },
     {
       "surface": "תתנחלו",
-      "gloss": "承受為業"
+      "gloss": "你們要承受為業"
     },
     {
       "surface": "אתה",
@@ -121,6 +90,6 @@
       "gloss": "支派"
     }
   ],
-  "timestamp": "2026-10-16T05:26:43.806201818Z",
+  "timestamp": "2026-10-16T22:55:52.745015024Z",
   "model": "glm-5.3"
 }

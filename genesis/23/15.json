@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "在我與你之間算得什麼",
-      "rationale": "מה הוא ביני ובינך 直譯「它在我與你之間是什麼」——東方討價還價的客套話，實則開出高價"
-    },
-    {
-      "kind": "measurement",
-      "subject": "四百舍客勒銀子",
-      "rationale": "以重量計價的銀子，照字面計數保留"
-    },
-    {
-      "kind": "you",
-      "subject": "to 亞伯拉罕",
-      "rationale": "以弗崙以「我主」直接稱呼亞伯拉罕"
-    }
-  ],
-  "translation": "「我主，請聽我：一塊地，四百舍客勒銀子，在我與你之間算得什麼呢？只管把你的死人葬了。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "d24cd75364b275d884ce75ebe797df1be05c710570fb1cce1de5f5ef114f5af1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/23\/13-16.1792124933766.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我主，請聽我：一塊地，價值四百舍客勒銀子，在你我之間算得了什麼呢？只管把 ⟨את⟩ 你的死者埋葬了。",
   "tokens": [
     {
       "surface": "אדני",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "一塊地"
+      "gloss": "地"
     },
     {
       "surface": "ארבע",
@@ -63,15 +37,15 @@
     },
     {
       "surface": "ביני",
-      "gloss": "在我"
+      "gloss": "在我……之間"
     },
     {
       "surface": "ובינך",
-      "gloss": "與你之間"
+      "gloss": "和在你之間"
     },
     {
       "surface": "מה",
-      "gloss": "算得什麼"
+      "gloss": "算得了什麼"
     },
     {
       "surface": "הוא",
@@ -80,17 +54,17 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "你的死人"
+      "marks": "你的死者"
     },
     {
       "surface": "מתך",
-      "gloss": "你的死人"
+      "gloss": "你的死者"
     },
     {
       "surface": "קבר",
-      "gloss": "葬了"
+      "gloss": "埋葬"
     }
   ],
-  "timestamp": "2026-10-16T04:28:53.767197730Z",
+  "timestamp": "2026-10-16T22:28:00.087503858Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "joshua",
   "lang": "zh-Hant",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈去〉",
-      "rationale": "希伯來文一個動詞「趕出」管轄兩個受詞；中文第二子句補一個輕動詞以成句"
-    },
-    {
-      "kind": "you",
-      "subject": "百姓的誓言",
-      "rationale": "會眾宣告「我們也要事奉雅威」，是本段立約的口"
-    }
-  ],
-  "translation": "雅威又從我們面前趕出⟨את⟩一切的民族，連住在那地的亞摩利人也趕出〈去〉；我們也要事奉雅威，因為他是我們的以羅欣。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ddfa6e961e9ee9ac254b2062ec70179d9df427332086c57aceced4a5edc15e70",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/24\/17-20.1792130069156.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威又趕出 ⟨את⟩ 那地一切的居民，就是住那地的亞摩利人，離開我們的面；我們也要事奉 ⟨את⟩ 雅威，因為他是我們的以羅欣。」",
   "tokens": [
     {
       "surface": "ויגרש",
@@ -39,19 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "一切的民族"
+      "marks": "那地一切的居民（萬民）"
     },
     {
       "surface": "כל",
-      "gloss": "一切的"
+      "gloss": "一切"
     },
     {
       "surface": "העמים",
-      "gloss": "民族"
+      "gloss": "萬民"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨ואת⟩",
+      "gloss": "⟨את⟩",
       "marks": "亞摩利人"
     },
     {
@@ -60,7 +39,7 @@
     },
     {
       "surface": "ישב",
-      "gloss": "住在"
+      "gloss": "住"
     },
     {
       "surface": "הארץ",
@@ -68,7 +47,7 @@
     },
     {
       "surface": "מפנינו",
-      "gloss": "從我們面前"
+      "gloss": "離開我們的面"
     },
     {
       "surface": "גם",
@@ -104,6 +83,6 @@
       "gloss": "我們的以羅欣"
     }
   ],
-  "timestamp": "2026-10-16T05:54:29.157114439Z",
+  "timestamp": "2026-10-16T22:44:23.842387486Z",
   "model": "glm-5.3"
 }

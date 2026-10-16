@@ -5,38 +5,7 @@
   "book": "esther",
   "lang": "zh-Hant",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "了",
-      "rationale": "זה שלושים יום 中文句末加「了」表示延續的時段"
-    },
-    {
-      "kind": "crux",
-      "subject": "וחיה",
-      "rationale": "希伯來文為完成式「他就活了」，各譯本或作條件式『才可以存活』"
-    },
-    {
-      "kind": "measurement",
-      "subject": "三十天",
-      "rationale": "以斯帖未被召見的日數——確切計時"
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "多個關係詞 אשר 在中文以「凡」「沒有」等融合，未逐一譯出"
-    }
-  ],
-  "translation": "「王的一切臣僕和各省的百姓都知道：無論男女，凡沒有蒙召就進到王面前、進入內院的，那人的定例只有一條——處死；惟有王向他伸出金杖的，才可以存活。我沒有蒙召進去見王，已經三十天了。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a7651c20981d1d736a3cdb5ec0965258bf5482e282da7dc380bfe7d8bf86abe6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/esther\/4\/9-12.1792147127043.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "王的一切臣僕和各省的百姓都知道：凡有任何男人或女人進到王面前、進入內院，卻沒有蒙召，按他的一條定例必被處死，除非王向他伸出 ⟨את⟩ 金杖，他才得存活。至於我，我沒有蒙召進到王面前，已經三十天了。",
   "tokens": [
     {
       "surface": "כל",
@@ -48,15 +17,15 @@
     },
     {
       "surface": "המלך",
-      "gloss": "王"
+      "gloss": "王的"
     },
     {
       "surface": "ועם",
-      "gloss": "和百姓"
+      "gloss": "和……的百姓"
     },
     {
       "surface": "מדינות",
-      "gloss": "各省的"
+      "gloss": "各省"
     },
     {
       "surface": "המלך",
@@ -64,27 +33,27 @@
     },
     {
       "surface": "יודעים",
-      "gloss": "知道"
+      "gloss": "都知道"
     },
     {
       "surface": "אשר",
-      "gloss": "凡"
+      "gloss": "：凡"
     },
     {
       "surface": "כל",
-      "gloss": "無論"
+      "gloss": "任何"
     },
     {
       "surface": "איש",
-      "gloss": "男"
+      "gloss": "男人"
     },
     {
       "surface": "ואשה",
-      "gloss": "和女"
+      "gloss": "或女人"
     },
     {
       "surface": "אשר",
-      "gloss": "凡"
+      "gloss": "……的"
     },
     {
       "surface": "יבוא",
@@ -92,7 +61,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "到"
+      "gloss": "……面前"
     },
     {
       "surface": "המלך",
@@ -104,19 +73,19 @@
     },
     {
       "surface": "החצר",
-      "gloss": "內院"
+      "gloss": "院"
     },
     {
       "surface": "הפנימית",
-      "gloss": "內部的"
+      "gloss": "內"
     },
     {
       "surface": "אשר",
-      "gloss": "沒有"
+      "gloss": "卻"
     },
     {
       "surface": "לא",
-      "gloss": "不"
+      "gloss": "沒有"
     },
     {
       "surface": "יקרא",
@@ -128,19 +97,19 @@
     },
     {
       "surface": "דתו",
-      "gloss": "定例"
+      "gloss": "他的定例"
     },
     {
       "surface": "להמית",
-      "gloss": "處死"
+      "gloss": "必被處死"
     },
     {
       "surface": "לבד",
-      "gloss": "惟有"
+      "gloss": "除非"
     },
     {
       "surface": "מאשר",
-      "gloss": "除了"
+      "gloss": "……的人"
     },
     {
       "surface": "יושיט",
@@ -169,11 +138,11 @@
     },
     {
       "surface": "וחיה",
-      "gloss": "才可以存活"
+      "gloss": "才得存活"
     },
     {
       "surface": "ואני",
-      "gloss": "我"
+      "gloss": "至於我"
     },
     {
       "surface": "לא",
@@ -181,15 +150,15 @@
     },
     {
       "surface": "נקראתי",
-      "gloss": "蒙召"
+      "gloss": "我蒙召"
     },
     {
       "surface": "לבוא",
-      "gloss": "進去"
+      "gloss": "進到"
     },
     {
       "surface": "אל",
-      "gloss": "見"
+      "gloss": "……面前"
     },
     {
       "surface": "המלך",
@@ -197,7 +166,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "這"
+      "gloss": "已經"
     },
     {
       "surface": "שלושים",
@@ -208,6 +177,6 @@
       "gloss": "天"
     }
   ],
-  "timestamp": "2026-10-16T10:38:47.044583104Z",
+  "timestamp": "2026-10-16T22:17:07.835870946Z",
   "model": "glm-5.3"
 }

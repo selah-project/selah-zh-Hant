@@ -5,67 +5,41 @@
   "book": "proverbs",
   "lang": "zh-Hant",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "תקעים",
-      "rationale": "「擊掌」是作保的立約手勢；譯文補〈作保〉點明，如JPS直譯「恨惡擊掌的人」。"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "因果連接詞融進語序，未單獨譯出。"
-    },
-    {
-      "kind": "crux",
-      "subject": "רע ירוע",
-      "rationale": "字面「壞必被壞待」——受詞與動詞同根；譯作「必受禍害」。"
-    }
-  ],
-  "translation": "為外人作保的，必受禍害；恨惡擊掌〈作保〉的，安然穩妥。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "5a0f97c50cdc0ef735437a0bf3e6d07858a7f1a3ede01f731b49dffcce15b2f8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/11\/13-16.1792145390562.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "為陌生人作保的，必因這事受苦；恨惡擊掌作保的，必得安穩。",
   "tokens": [
     {
-      "surface": "רע",
-      "gloss": "禍害"
+      "surface": "רַע",
+      "gloss": "受苦"
     },
     {
-      "surface": "ירוע",
-      "gloss": "必受"
+      "surface": "יֵרוֹעַ",
+      "gloss": "必受傷害"
     },
     {
-      "surface": "כי",
-      "gloss": "（因）"
+      "surface": "כִּי",
+      "gloss": "因為"
     },
     {
-      "surface": "ערב",
+      "surface": "עָרַב",
       "gloss": "作保"
     },
     {
-      "surface": "זר",
-      "gloss": "外人"
+      "surface": "זָר",
+      "gloss": "陌生人"
     },
     {
-      "surface": "ושנא",
+      "surface": "וְשֹׂנֵא",
       "gloss": "恨惡"
     },
     {
-      "surface": "תקעים",
-      "gloss": "擊掌"
+      "surface": "תֹקְעִים",
+      "gloss": "擊掌（作保）"
     },
     {
-      "surface": "בוטח",
-      "gloss": "安然穩妥"
+      "surface": "בּוֹטֵחַ",
+      "gloss": "安穩"
     }
   ],
-  "timestamp": "2026-10-16T10:09:50.563563404Z",
+  "timestamp": "2026-10-16T22:56:59.669437084Z",
   "model": "glm-5.3"
 }

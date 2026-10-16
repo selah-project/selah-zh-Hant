@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Noah",
-      "rationale": "命令式直接向挪亞發出：你要出方舟"
-    },
-    {
-      "kind": "invitation",
-      "subject": "צא",
-      "rationale": "命令式動詞「出去」，召喚離開方舟進入新世界"
-    },
-    {
-      "kind": "crux",
-      "subject": "אתך",
-      "rationale": "此處 אתך 是 את 的「與、靠近」用法（H854，介詞），非受詞記號 H853，故譯「與你同去」而非 ⟨את⟩"
-    }
-  ],
-  "translation": "「你要出方舟，你和你妻子、你的兒子們和你的兒媳們都要與你同去。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b79a2f56b8e34b21aaf32726ea0eeac88ca6e87ba6d2515eb4bc1e2a970f8288",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/8\/13-16.1792124628031.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你要出方舟，你和你的妻子、你的兒子們和兒子們的妻子們都要與你 ⟨אתך⟩ 一同出來。",
   "tokens": [
     {
       "surface": "צא",
@@ -59,17 +33,18 @@
     },
     {
       "surface": "ונשי",
-      "gloss": "和…兒媳們"
+      "gloss": "和……的妻子們"
     },
     {
       "surface": "בניך",
-      "gloss": "你的兒子們（的）"
+      "gloss": "你的兒子們"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩與你同去"
+      "gloss": "⟨אתך⟩",
+      "marks": "與你"
     }
   ],
-  "timestamp": "2026-10-16T04:23:48.032850407Z",
+  "timestamp": "2026-10-16T22:32:19.933675628Z",
   "model": "glm-5.3"
 }

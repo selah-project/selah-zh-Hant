@@ -5,37 +5,11 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "סגר",
-      "rationale": "字面為「關閉／關起」，此處意為「交出、困住」，各譯本分歧：和合本作「交付」"
-    },
-    {
-      "kind": "idiom",
-      "subject": "שלום",
-      "rationale": "問安語「平安了」，非指狀況描述，中文保留「平安了」作問候"
-    },
-    {
-      "kind": "addition",
-      "subject": "我",
-      "rationale": "אדני המלך「我主王」，中文補「我主我王」以合稱呼語氣"
-    }
-  ],
-  "translation": "亞希瑪斯呼喊，對王說：「平安了！」他就臉伏於地，向王下拜，說：「願雅威——你的以羅欣——受稱頌，因他將那些向我主我王舉手的人交出來了。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "f6245d9656f81370daf8e4530a6c52b84bfd0ba35364d6f47d5751c5c2b55457",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/18\/25-28.1792132175356.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "亞希瑪斯呼叫，對王說：「平安！」就臉伏於地向王下拜，說：「願雅威──你的以羅欣──是可稱頌的，他已關閉了 ⟨את⟩ 那些向我主我王舉起手來的人。」",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "呼喊"
+      "gloss": "呼叫"
     },
     {
       "surface": "אחימעץ",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "שלום",
-      "gloss": "平安了"
+      "gloss": "平安"
     },
     {
       "surface": "וישתחו",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "לאפיו",
-      "gloss": "以他的臉"
+      "gloss": "他的臉"
     },
     {
       "surface": "ארצה",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "ברוך",
-      "gloss": "受稱頌"
+      "gloss": "是可稱頌的"
     },
     {
       "surface": "יהוה",
@@ -91,11 +65,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "他"
+      "gloss": "他曾"
     },
     {
       "surface": "סגר",
-      "gloss": "交出來"
+      "gloss": "關閉了"
     },
     {
       "surface": "את",
@@ -132,6 +106,6 @@
       "gloss": "王"
     }
   ],
-  "timestamp": "2026-10-16T06:29:35.358317776Z",
+  "timestamp": "2026-10-16T22:10:09.161221126Z",
   "model": "glm-5.3"
 }

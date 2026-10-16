@@ -5,38 +5,11 @@
   "book": "1-chronicles",
   "lang": "zh-Hant",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שמטו",
-      "rationale": "「牛失蹄」（KJV\/JPS）對照「牛被放開／偏離」（YLТ 按字面），動詞字根意為摔落、鬆脫。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "הארון",
-      "gloss-plain": "",
-      "rationale": "按 D2 紀律譯作「約櫃」；原文只作「那櫃」。"
-    },
-    {
-      "kind": "elision",
-      "subject": "ידו 的所有格",
-      "rationale": "中文「手」前未加「他的」，希伯來文詞尾已含，語境自明。"
-    }
-  ],
-  "translation": "他們來到基頓的打穀場，烏撒伸手扶住 ⟨את⟩ 約櫃，因為牛失了前蹄。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "14ff900c392302f655b63eff9a3f4d7bde999bce09c6991ec9f8fc0f270c52a0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/13\/9-12.1792148806340.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們到了基頓的打穀場，烏撒伸手抓住 ⟨את⟩ 約櫃，因為牛失蹄〈偏了〉。",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "來到"
+      "gloss": "他們到了"
     },
     {
       "surface": "עד",
@@ -65,11 +38,11 @@
     },
     {
       "surface": "ידו",
-      "gloss": "手"
+      "gloss": "他的手"
     },
     {
       "surface": "לאחז",
-      "gloss": "扶住"
+      "gloss": "抓住"
     },
     {
       "surface": "את",
@@ -78,7 +51,7 @@
     },
     {
       "surface": "הארון",
-      "gloss": "櫃"
+      "gloss": "約櫃"
     },
     {
       "surface": "כי",
@@ -86,13 +59,13 @@
     },
     {
       "surface": "שמטו",
-      "gloss": "失了前蹄"
+      "gloss": "失蹄"
     },
     {
       "surface": "הבקר",
       "gloss": "牛"
     }
   ],
-  "timestamp": "2026-10-16T11:06:46.341413237Z",
+  "timestamp": "2026-10-16T21:56:13.418401881Z",
   "model": "glm-5.3"
 }

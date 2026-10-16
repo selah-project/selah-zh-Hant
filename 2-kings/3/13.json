@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מה לי ולך",
-      "rationale": "字面「什麼屬我與屬你」，閃族慣用語「我與你何干」"
-    },
-    {
-      "kind": "crux",
-      "subject": "אל כי",
-      "rationale": "「不要，因為」——王的回答可讀作抗議（不是的）或懇求（求你不要），諸本分歧"
-    },
-    {
-      "kind": "you",
-      "subject": "以利沙對以色列王",
-      "rationale": "直接對話，以利沙向以色列王發話"
-    }
-  ],
-  "translation": "以利沙對以色列王說：「我與你何干？去到你父親的先知那裡，和你母親的先知那裡去。」以色列王對他說：「不要；因為雅威召集這三王，是要把他們交在摩押手中。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "cde270101394d55c4a9549ec2b60f8290ab90d751011f6bb96e64e7a276dcf07",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/3\/13-16.1792133488121.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "以利沙對以色列王說：「我與你何干？去到你父親的先知那裡，到你母親的先知那裡吧。」以色列王對他說：「不要這樣，因為雅威召集這三位王，是要把他們交在摩押手中。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -127,11 +101,11 @@
     },
     {
       "surface": "לשלשת",
-      "gloss": "三"
+      "gloss": "這三"
     },
     {
       "surface": "המלכים",
-      "gloss": "王"
+      "gloss": "位王"
     },
     {
       "surface": "האלה",
@@ -139,22 +113,22 @@
     },
     {
       "surface": "לתת",
-      "gloss": "把…交給"
+      "gloss": "要把"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "他們（這三王）"
+      "gloss": "⟨את⟩",
+      "marks": "他們（交在摩押手中的對象）"
     },
     {
       "surface": "ביד",
-      "gloss": "在…手中"
+      "gloss": "交在……手中"
     },
     {
       "surface": "מואב",
       "gloss": "摩押"
     }
   ],
-  "timestamp": "2026-10-16T06:51:28.122151405Z",
+  "timestamp": "2026-10-16T22:07:47.618923621Z",
   "model": "glm-5.3"
 }

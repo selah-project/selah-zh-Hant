@@ -5,32 +5,11 @@
   "book": "esther",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "木架",
-      "rationale": "העץ字面是「那樹」，此處指哈曼所立的木架（五丈高的柱子，斯5:14）"
-    },
-    {
-      "kind": "addition",
-      "subject": "那時……正",
-      "rationale": "והמן בא是背景插敘，中文加時間副詞標明"
-    }
-  ],
-  "translation": "王說：「誰在院子裡？」那時哈曼正進了王宮的外院，要向王說，把末底改掛在他所預備的那木架上。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "3265bd9c681a5a08110c784903050628bb6632682548598b437d307c3b7391d3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/esther\/6\/1-4.1792147200493.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "王說：「誰在院子裡？」那時哈曼正進了王宮的外院，要向王請求把 ⟨את⟩ 末底改掛在他所預備好的那木架上。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "王說"
+      "gloss": "說"
     },
     {
       "surface": "המלך",
@@ -46,19 +25,19 @@
     },
     {
       "surface": "והמן",
-      "gloss": "而哈曼"
+      "gloss": "那時哈曼"
     },
     {
       "surface": "בא",
-      "gloss": "進了"
+      "gloss": "正進了"
     },
     {
       "surface": "לחצר",
-      "gloss": "到……的院子"
+      "gloss": "到…院"
     },
     {
       "surface": "בית",
-      "gloss": "……宮"
+      "gloss": "宮"
     },
     {
       "surface": "המלך",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "要說"
+      "gloss": "要…說"
     },
     {
       "surface": "למלך",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "לתלות",
-      "gloss": "把……掛在"
+      "gloss": "把…掛起來"
     },
     {
       "surface": "את",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "על",
-      "gloss": "在"
+      "gloss": "在…上"
     },
     {
       "surface": "העץ",
@@ -99,17 +78,17 @@
     },
     {
       "surface": "אשר",
-      "gloss": "……的"
+      "gloss": "所"
     },
     {
       "surface": "הכין",
-      "gloss": "他所預備"
+      "gloss": "預備好"
     },
     {
       "surface": "לו",
-      "gloss": "給他"
+      "gloss": "為他"
     }
   ],
-  "timestamp": "2026-10-16T10:40:00.494776925Z",
+  "timestamp": "2026-10-16T22:17:15.960749431Z",
   "model": "glm-5.3"
 }

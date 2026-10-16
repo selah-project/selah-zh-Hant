@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "zh-Hant",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "妥拉",
-      "rationale": "תורת יהוה 譯作「雅威的妥拉（訓誨）」，不作「律法書」，因妥拉是教導而非律法主義的律法"
-    },
-    {
-      "kind": "mystery",
-      "subject": "書卷",
-      "rationale": "失落的妥拉書卷在殿中被尋見，情節上是被隱藏又被揭示的物件"
-    }
-  ],
-  "translation": "他們把帶進雅威殿裡的銀子運出來的時候，希勒家祭司找到了雅威藉摩西的手所賜之妥拉（訓誨）的書卷。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "3c681aeb6429150d91ff40b2b16e6450e15d0fa0ce7eaef39a56fe8730c33174",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/34\/13-16.1792149746457.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們把帶進雅威殿裡的銀子運出來的時候，祭司希勒家找到了雅威的妥拉之書——就是摩西手〈中〉的⟨את⟩那書——他們運出⟨את⟩銀子時發現了它。",
   "tokens": [
     {
       "surface": "ובהוציאם",
-      "gloss": "運出來的時候"
+      "gloss": "當他們運出……的時候"
     },
     {
       "surface": "את",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "המובא",
-      "gloss": "帶進"
+      "gloss": "被帶進來的"
     },
     {
       "surface": "בית",
@@ -68,15 +47,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "書卷"
+      "marks": "妥拉之書"
     },
     {
       "surface": "ספר",
-      "gloss": "書卷"
+      "gloss": "書"
     },
     {
       "surface": "תורת",
-      "gloss": "妥拉"
+      "gloss": "妥拉之"
     },
     {
       "surface": "יהוה",
@@ -84,13 +63,13 @@
     },
     {
       "surface": "ביד",
-      "gloss": "藉……的手"
+      "gloss": "在……手中"
     },
     {
       "surface": "משה",
       "gloss": "摩西"
     }
   ],
-  "timestamp": "2026-10-16T11:22:26.458796914Z",
+  "timestamp": "2026-10-16T22:04:06.718789314Z",
   "model": "glm-5.3"
 }

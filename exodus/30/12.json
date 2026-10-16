@@ -5,46 +5,20 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "性命",
-      "rationale": "נפש是氣息／生命之體，非不朽的『靈魂』"
-    },
-    {
-      "kind": "idiom",
-      "subject": "數算頭",
-      "rationale": "נשא את ראש直譯『抬起頭』，是數點人口的慣用語"
-    },
-    {
-      "kind": "measurement",
-      "subject": "人口數點",
-      "rationale": "本節設立以色列人口統計的規例並附贖價"
-    }
-  ],
-  "translation": "你要按他們被數點的數目數算 ⟨את⟩ 以色列子孫的頭，他們每人要為自己的性命把贖價歸給雅威，免得在數點他們〈的時候〉他們中間有災殃。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "30599adeb532b0911badfda70f8d8d5c3693df3214a8c00349306a4210ccc553",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/30\/9-12.1792126328146.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "當你數點以色列人的頭、按他們被數點的數目，他們各人要為自己的生命獻上贖價給雅威，在他們被數點的時候，好叫他們中間沒有災殃臨到，在他們被數點的時候。",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "當…的時候"
+      "gloss": "當"
     },
     {
       "surface": "תשא",
-      "gloss": "你數算"
+      "gloss": "你數點"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "以色列子孫的頭"
+      "marks": "以色列人的頭"
     },
     {
       "surface": "ראש",
@@ -52,7 +26,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "子孫"
+      "gloss": "…的子孫"
     },
     {
       "surface": "ישראל",
@@ -64,11 +38,11 @@
     },
     {
       "surface": "ונתנו",
-      "gloss": "他們要給"
+      "gloss": "他們要獻上"
     },
     {
       "surface": "איש",
-      "gloss": "每人"
+      "gloss": "各人"
     },
     {
       "surface": "כפר",
@@ -76,15 +50,15 @@
     },
     {
       "surface": "נפשו",
-      "gloss": "自己的性命"
+      "gloss": "自己的生命"
     },
     {
       "surface": "ליהוה",
-      "gloss": "歸給雅威"
+      "gloss": "給雅威"
     },
     {
       "surface": "בפקד",
-      "gloss": "在數點…的時候"
+      "gloss": "在他們被數點的時候"
     },
     {
       "surface": "אתם",
@@ -93,11 +67,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "免得…不"
+      "gloss": "好叫沒有"
     },
     {
       "surface": "יהיה",
-      "gloss": "有"
+      "gloss": "臨到"
     },
     {
       "surface": "בהם",
@@ -109,7 +83,7 @@
     },
     {
       "surface": "בפקד",
-      "gloss": "在數點…的時候"
+      "gloss": "在他們被數點的時候"
     },
     {
       "surface": "אתם",
@@ -117,6 +91,6 @@
       "marks": "他們"
     }
   ],
-  "timestamp": "2026-10-16T04:52:08.148220440Z",
+  "timestamp": "2026-10-16T22:20:13.264596801Z",
   "model": "glm-5.3"
 }

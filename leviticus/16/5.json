@@ -5,33 +5,12 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ומאת",
-      "rationale": "受詞記號 ⟨את⟩ 隨介詞 מן 出現（ומאת），以「從⟨את⟩會眾」保留記號。"
-    },
-    {
-      "kind": "measurement",
-      "subject": "數目",
-      "rationale": "兩隻公山羊、一隻公綿羊——祭物的數目被精確點算。"
-    }
-  ],
-  "translation": "他要從以色列人的會眾中取兩隻公山羊作贖罪祭，一隻公綿羊作燔祭。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "944eda1228738cb0d634cd8c362a87d7b9f0c1241d839c15bf5b819456315147",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/16\/5-8.1792127028557.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他要從以色列人的會眾中取 ⟨את⟩ 兩隻公山羊作贖罪祭，並取一隻公綿羊作燔祭。",
   "tokens": [
     {
       "surface": "ומאת",
-      "gloss": "從⟨את⟩",
-      "marks": "會眾"
+      "gloss": "⟨את⟩",
+      "marks": "以色列人的會眾"
     },
     {
       "surface": "עדת",
@@ -39,7 +18,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "人（之子）"
+      "gloss": "人的"
     },
     {
       "surface": "ישראל",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "יקח",
-      "gloss": "取"
+      "gloss": "他要取"
     },
     {
       "surface": "שני",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "ואיל",
-      "gloss": "一隻公綿羊"
+      "gloss": "並取一隻公綿羊"
     },
     {
       "surface": "אחד",
@@ -78,6 +57,6 @@
       "gloss": "作燔祭"
     }
   ],
-  "timestamp": "2026-10-16T05:03:48.557749535Z",
+  "timestamp": "2026-10-16T22:49:27.986660094Z",
   "model": "glm-5.3"
 }

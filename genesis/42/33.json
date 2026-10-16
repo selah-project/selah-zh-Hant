@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "誠實人",
-      "rationale": "中文需繫詞「是」，希伯來文無"
-    },
-    {
-      "kind": "substitution",
-      "subject": "רעבון",
-      "rationale": "字面是「饑荒」，這裡指為應付饑荒而帶的糧食"
-    }
-  ],
-  "translation": "那人、那地的主人對我們說：『藉此我就知道你們是誠實人：你們兄弟中的一人留在我這裡，⟨את⟩ 你們家為饑荒所需的糧食拿去走吧。』",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "4deb58143dfaaff4897b85f5c243bc3a16cf6885e5cc94ebe7a46af55638d15f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/42\/33-36.1792125510948.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "那地的主宰對我們說：『藉著這一點我就知道你們是誠實人：把你們弟兄中的一人留在我這裡，又帶 ⟨את⟩ 你們家中的糧食回去充飢，然後去吧。』",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "אדני",
-      "gloss": "主人"
+      "gloss": "主宰"
     },
     {
       "surface": "הארץ",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "בזאת",
-      "gloss": "藉此"
+      "gloss": "藉著這一點"
     },
     {
       "surface": "אדע",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "אחיכם",
-      "gloss": "你們兄弟"
+      "gloss": "你們弟兄"
     },
     {
       "surface": "האחד",
@@ -82,31 +61,30 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩",
-      "marks": "留在我這裡的兄弟"
+      "gloss": "⟨את⟩ 在我這裡"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "你們家為饑荒所需的糧食"
+      "marks": "糧食"
     },
     {
       "surface": "רעבון",
-      "gloss": "饑荒（所需的糧食）"
+      "gloss": "糧食"
     },
     {
       "surface": "בתיכם",
-      "gloss": "你們的家"
+      "gloss": "你們家中"
     },
     {
       "surface": "קחו",
-      "gloss": "拿去"
+      "gloss": "帶"
     },
     {
       "surface": "ולכו",
-      "gloss": "走吧"
+      "gloss": "去吧"
     }
   ],
-  "timestamp": "2026-10-16T04:38:30.949698541Z",
+  "timestamp": "2026-10-16T22:30:58.524419033Z",
   "model": "glm-5.3"
 }

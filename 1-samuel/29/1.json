@@ -5,23 +5,7 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "則",
-      "rationale": "中文需要連詞表明兩個分句的對照，希伯來文僅以動詞連續敘述"
-    }
-  ],
-  "translation": "非利士人把他們所有的軍營聚集在亞弗，以色列人則在耶斯列的泉旁安營。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c2bc929b6b7c2e396214a29b79bc84ec6684118f9246669442d8c70ca726f997",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/29\/1-4.1792131526140.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "非利士人聚集了他們所有的營隊到亞弗；以色列人則在耶斯列的泉旁安營。",
   "tokens": [
     {
       "surface": "ויקבצו",
@@ -34,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他們所有的軍營"
+      "marks": "所有的營隊"
     },
     {
       "surface": "כל",
@@ -42,15 +26,15 @@
     },
     {
       "surface": "מחניהם",
-      "gloss": "軍營"
+      "gloss": "營隊"
     },
     {
       "surface": "אפקה",
-      "gloss": "在亞弗"
+      "gloss": "亞弗"
     },
     {
       "surface": "וישראל",
-      "gloss": "以色列"
+      "gloss": "以色列人"
     },
     {
       "surface": "חנים",
@@ -62,13 +46,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "那是在"
+      "gloss": ""
     },
     {
       "surface": "ביזרעאל",
-      "gloss": "耶斯列"
+      "gloss": "在耶斯列"
     }
   ],
-  "timestamp": "2026-10-16T06:18:46.141399951Z",
+  "timestamp": "2026-10-16T22:02:05.056003060Z",
   "model": "glm-5.3"
 }

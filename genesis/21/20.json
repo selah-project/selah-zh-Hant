@@ -5,37 +5,11 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "את הנער",
-      "rationale": "此處 את 是介詞「與」(H854)，不是受詞記號 H853，故不標 ⟨את⟩；譯作「與那童子同在」"
-    },
-    {
-      "kind": "crux",
-      "subject": "רבה קשת",
-      "rationale": "字面可讀作「長大(時)成為弓手」(רבה 為分詞)或「弓術精進」；KJV 作 became an archer"
-    },
-    {
-      "kind": "hapax",
-      "subject": "קשת 作「弓手」",
-      "rationale": "קַשָּׁת 作弓手之義全塔納赫僅此一見，通常 קשת 意為「弓」"
-    }
-  ],
-  "translation": "以羅欣與那童子同在，他就長大，住在曠野，成了弓箭手。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a1d7e8693fefbb1d2c931627856edfc5093d96fc422e7ed381e7758abe70641a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/21\/17-20.1792124967191.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "以羅欣與 ⟨את⟩ 那少年同在，他就長大，住在曠野，成為拉弓射箭的人。",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "就與……同在"
+      "gloss": "在"
     },
     {
       "surface": "אלהים",
@@ -43,15 +17,16 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ 與"
+      "gloss": "⟨את⟩",
+      "marks": "那少年"
     },
     {
       "surface": "הנער",
-      "gloss": "那童子"
+      "gloss": "那少年"
     },
     {
       "surface": "ויגדל",
-      "gloss": "長大"
+      "gloss": "他就長大"
     },
     {
       "surface": "וישב",
@@ -59,21 +34,21 @@
     },
     {
       "surface": "במדבר",
-      "gloss": "在曠野"
+      "gloss": "曠野"
     },
     {
       "surface": "ויהי",
-      "gloss": "成了"
+      "gloss": "成為"
     },
     {
       "surface": "רבה",
-      "gloss": "長成"
+      "gloss": "長大時"
     },
     {
       "surface": "קשת",
       "gloss": "弓箭手"
     }
   ],
-  "timestamp": "2026-10-16T04:29:27.192809234Z",
+  "timestamp": "2026-10-16T22:28:05.185832301Z",
   "model": "glm-5.3"
 }

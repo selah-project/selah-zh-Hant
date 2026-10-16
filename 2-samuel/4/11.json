@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "對利甲和巴拿",
-      "rationale": "修辭問句直接指向二人，宣告判決"
-    },
-    {
-      "kind": "idiom",
-      "subject": "追討他的血",
-      "rationale": "希伯來文血償觀念：殺人者之手須償血債"
-    }
-  ],
-  "translation": "何況惡人殺了義人，在他自己的家中、在他的床上，如今我豈不向你們追討他的血，將你們從地上除滅嗎？」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "fbac01732d39481f37def22f9eb2738bd63adc630ff15b831299b55cda0e2283",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/4\/9-12.1792131738862.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "何況惡人殺了 ⟨את⟩ 一個義人，在他家中、在他的床上，如今我豈不向你們的手追討他的血，將 ⟨את⟩ 你們從地上除滅呢？",
   "tokens": [
     {
       "surface": "אף",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "——"
+      "gloss": "⟨何況⟩"
     },
     {
       "surface": "אנשים",
@@ -51,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "義人"
+      "marks": "一個義人"
     },
     {
       "surface": "איש",
-      "gloss": "人"
+      "gloss": "一個…人"
     },
     {
       "surface": "צדיק",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "בביתו",
-      "gloss": "在他的家中"
+      "gloss": "在他家中"
     },
     {
       "surface": "על",
@@ -96,11 +75,11 @@
     },
     {
       "surface": "מידכם",
-      "gloss": "向你們"
+      "gloss": "向你們的手"
     },
     {
       "surface": "ובערתי",
-      "gloss": "我將除滅"
+      "gloss": "我…除滅"
     },
     {
       "surface": "אתכם",
@@ -116,6 +95,6 @@
       "gloss": "地上"
     }
   ],
-  "timestamp": "2026-10-16T06:22:18.864477044Z",
+  "timestamp": "2026-10-16T22:10:39.053913203Z",
   "model": "glm-5.3"
 }

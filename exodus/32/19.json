@@ -5,41 +5,15 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "就",
-      "rationale": "ויהי כאשר「當……的時候」的中文連詞需要"
-    },
-    {
-      "kind": "substitution",
-      "subject": "怒氣",
-      "rationale": "אף 本義是「鼻子／鼻孔」，怒氣從鼻孔發熱是希伯來文的身體意象"
-    },
-    {
-      "kind": "measurement",
-      "subject": "הלחת",
-      "rationale": "לוחות 為複數（兩塊版），中文補「兩塊」以存其數"
-    }
-  ],
-  "translation": "摩西走近營前，就看見⟨את⟩牛犢和跳舞，摩西的怒氣就燒起來，把手中的兩塊版拋出去，在山下摔碎了。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "cff607322605c9c984e162cb98a6b84bb49d83a375f9b50d2c00781276694261",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/32\/17-20.1792126482327.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "當他走近營幕時，他看見了 ⟨את⟩ 牛犢和舞蹈，摩西的怒氣便燃燒起來，他從手中摔出 ⟨את⟩ 法版，在山下把它們摔碎了。",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "當……的時候"
+      "gloss": "當…時"
     },
     {
       "surface": "כאשר",
-      "gloss": "當"
+      "gloss": "當…時"
     },
     {
       "surface": "קרב",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "המחנה",
-      "gloss": "營"
+      "gloss": "營幕"
     },
     {
       "surface": "וירא",
-      "gloss": "看見"
+      "gloss": "他看見了"
     },
     {
       "surface": "את",
@@ -68,23 +42,23 @@
     },
     {
       "surface": "ומחלת",
-      "gloss": "和跳舞"
+      "gloss": "和舞蹈"
     },
     {
       "surface": "ויחר",
-      "gloss": "燒起來"
+      "gloss": "便燃燒起來"
     },
     {
       "surface": "אף",
-      "gloss": "怒氣（鼻息）"
+      "gloss": "怒氣"
     },
     {
       "surface": "משה",
-      "gloss": "摩西"
+      "gloss": "摩西的"
     },
     {
       "surface": "וישלך",
-      "gloss": "拋出去"
+      "gloss": "他便摔出"
     },
     {
       "surface": "מידו",
@@ -93,30 +67,30 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "兩塊版"
+      "marks": "法版"
     },
     {
       "surface": "הלחת",
-      "gloss": "兩塊版"
+      "gloss": "法版"
     },
     {
       "surface": "וישבר",
-      "gloss": "摔碎"
+      "gloss": "摔碎了"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "它們（兩塊版）"
+      "marks": "它們（法版）"
     },
     {
       "surface": "תחת",
-      "gloss": "在……之下"
+      "gloss": "在…之下"
     },
     {
       "surface": "ההר",
       "gloss": "山"
     }
   ],
-  "timestamp": "2026-10-16T04:54:42.328774104Z",
+  "timestamp": "2026-10-16T22:19:52.446597529Z",
   "model": "glm-5.3"
 }

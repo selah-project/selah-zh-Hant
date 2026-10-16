@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "心因酒暢快",
-      "rationale": "טוב לב ביין直譯「心在酒中變好」，即酒酣心暢"
-    },
-    {
-      "kind": "substitution",
-      "subject": "作勇敢的人",
-      "rationale": "בני חיל直譯「力量之子」；中文以「勇敢的人」達意"
-    },
-    {
-      "kind": "you",
-      "subject": "押沙龍對他的僕人",
-      "rationale": "一連串命令式直接吩咐僕人行兇"
-    }
-  ],
-  "translation": "押沙龍吩咐⟨את⟩他的僕人說：「你們要看準，何時暗嫩的心因酒暢快，我對你們說：『擊殺暗嫩，把他處死』，你們不要懼怕。這豈不是我吩咐你們的嗎？你們要剛強，作勇敢的人。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a1777aada9a877ef59f3562ee5e913a1d1863261ceeb29e646f5ba7cadae7026",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/13\/25-28.1792131975159.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "押沙龍吩咐他的僕人說：「你們要看準，等暗嫩的心因酒暢快的時候，我對你們說：擊殺 ⟨את⟩ 暗嫩，你們就治死 ⟨אתו⟩ 他。不要懼怕，這不是我吩咐 ⟨אתכם⟩ 你們的嗎？你們要剛強，作勇敢的人。」",
   "tokens": [
     {
       "surface": "ויצו",
@@ -56,15 +30,15 @@
     },
     {
       "surface": "ראו",
-      "gloss": "要看準"
+      "gloss": "看準"
     },
     {
       "surface": "נא",
-      "gloss": "你們"
+      "gloss": "⟨請⟩"
     },
     {
       "surface": "כטוב",
-      "gloss": "何時……暢快"
+      "gloss": "暢快"
     },
     {
       "surface": "לב",
@@ -80,11 +54,11 @@
     },
     {
       "surface": "ואמרתי",
-      "gloss": "我對……說"
+      "gloss": "我……說"
     },
     {
       "surface": "אליכם",
-      "gloss": "你們"
+      "gloss": "對你們"
     },
     {
       "surface": "הכו",
@@ -101,12 +75,12 @@
     },
     {
       "surface": "והמתם",
-      "gloss": "把他處死"
+      "gloss": "你們就治死"
     },
     {
       "surface": "אתו",
       "gloss": "⟨אתו⟩",
-      "marks": "把他"
+      "marks": "他（暗嫩）"
     },
     {
       "surface": "אל",
@@ -118,11 +92,11 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "豈不是"
+      "gloss": "這不是……嗎"
     },
     {
       "surface": "כי",
-      "gloss": "……的嗎"
+      "gloss": "⟨因為⟩"
     },
     {
       "surface": "אנכי",
@@ -154,6 +128,6 @@
       "gloss": "勇敢"
     }
   ],
-  "timestamp": "2026-10-16T06:26:15.162644106Z",
+  "timestamp": "2026-10-16T22:09:22.147691590Z",
   "model": "glm-5.3"
 }

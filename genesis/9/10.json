@@ -5,32 +5,12 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "活物",
-      "rationale": "נפש 字面是「有气息的個體／生命氣息」，此處指動物；譯「活物」而非「靈魂」。"
-    },
-    {
-      "kind": "you",
-      "subject": "與你們同在",
-      "rationale": "約的對象明確指向挪亞一家並一切出方舟的活物。"
-    }
-  ],
-  "translation": "並與一切與你們同在的活物——飛鳥、牲畜，以及地上一切與你們同在的走獸，就是從方舟出來的一切，以及地上一切的走獸立約。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "fb44e1092d1fb740f0e2f3310daf8425a79afdba70c5fbdf1ff70fd622b8241d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/9\/9-12.1792124650571.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "以及 ⟨את⟩ 一切活物（נפש，活的性命），就是與你們在一起的：在飛鳥中、在牲畜中、並在地上一切走獸中與你們同在的，從一切出方舟的，到地上一切的走獸。",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ 並與"
+      "gloss": "⟨את⟩",
+      "marks": "一切活物"
     },
     {
       "surface": "כל",
@@ -50,19 +30,19 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ 與你們同在"
+      "gloss": "⟨את⟩ 與你們在一起"
     },
     {
       "surface": "בעוף",
-      "gloss": "飛鳥"
+      "gloss": "在飛鳥中"
     },
     {
       "surface": "בבהמה",
-      "gloss": "牲畜"
+      "gloss": "在牲畜中"
     },
     {
       "surface": "ובכל",
-      "gloss": "以及一切"
+      "gloss": "並在一切"
     },
     {
       "surface": "חית",
@@ -70,7 +50,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "地上的"
+      "gloss": "地上"
     },
     {
       "surface": "אתכם",
@@ -82,7 +62,7 @@
     },
     {
       "surface": "יצאי",
-      "gloss": "出來的"
+      "gloss": "出的"
     },
     {
       "surface": "התבה",
@@ -90,7 +70,7 @@
     },
     {
       "surface": "לכל",
-      "gloss": "並一切"
+      "gloss": "到一切"
     },
     {
       "surface": "חית",
@@ -98,9 +78,9 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "地上的"
+      "gloss": "地上"
     }
   ],
-  "timestamp": "2026-10-16T04:24:10.572176948Z",
+  "timestamp": "2026-10-16T22:33:05.531904828Z",
   "model": "glm-5.3"
 }

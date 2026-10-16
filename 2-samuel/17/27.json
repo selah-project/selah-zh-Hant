@@ -5,41 +5,15 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ויהי",
-      "rationale": "敘事引語「發生了」在中文敘事中省略，句法以「到了」直接開展"
-    },
-    {
-      "kind": "hapax",
-      "subject": "משכב…",
-      "rationale": "此節之食物清單延續到 29 節，句尾動詞「帶來」在 29 節；中文以破折號保留未完之感"
-    },
-    {
-      "kind": "crux",
-      "subject": "לא דבר",
-      "rationale": "地名「羅底巴」字面意為「無草之地」，此處作專名音譯"
-    }
-  ],
-  "translation": "大衛到了瑪哈念，朔比——拿鶴的兒子、來自拉巴的亞捫人，瑪吉——亞米利的兒子、來自羅底巴，巴西萊——基列人、來自羅基琳——",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "9342efdd948b0524c34945d52739feee20d4ed996c5472f6aae5ca98303c976e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/17\/25-28.1792132066413.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "大衛到了瑪哈念的時候，有拉巴的亞捫人之子朔比‧拿鶴的兒子、羅底巴的亞米利的兒子瑪吉、和羅基琳的基列人巴西萊。",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": ""
+      "gloss": "發生了"
     },
     {
       "surface": "כבוא",
-      "gloss": "到了"
+      "gloss": "當…來到"
     },
     {
       "surface": "דוד",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "מרבת",
-      "gloss": "拉巴"
+      "gloss": "從拉巴"
     },
     {
       "surface": "בני",
-      "gloss": "人"
+      "gloss": "…之子"
     },
     {
       "surface": "עמון",
@@ -87,11 +61,11 @@
     },
     {
       "surface": "מלא",
-      "gloss": "羅"
+      "gloss": "從羅底巴"
     },
     {
       "surface": "דבר",
-      "gloss": "底巴"
+      "gloss": "羅底巴"
     },
     {
       "surface": "וברזלי",
@@ -103,9 +77,9 @@
     },
     {
       "surface": "מרגלים",
-      "gloss": "羅基琳"
+      "gloss": "從羅基琳"
     }
   ],
-  "timestamp": "2026-10-16T06:27:46.415263769Z",
+  "timestamp": "2026-10-16T22:09:42.099673232Z",
   "model": "glm-5.3"
 }

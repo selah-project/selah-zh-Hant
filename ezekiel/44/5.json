@@ -5,37 +5,11 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "命令式開頭",
-      "rationale": "三個命令——定心、看、聽——直接呼召以西結全人領受"
-    },
-    {
-      "kind": "you",
-      "subject": "對以西結",
-      "rationale": "人子啊：直接稱呼先知本人"
-    },
-    {
-      "kind": "substitution",
-      "subject": "妥拉",
-      "rationale": "תורה 譯作妥拉（訓誨），不譯「律法」"
-    }
-  ],
-  "translation": "雅威對我說：「人子啊，要定你的心，用你的眼睛看，用你的耳朵聽我對你所說 ⟨את⟩ 的一切，就是關於雅威殿的一切律例和它的一切妥拉；也要定你的心，留意殿的入口，以及聖所的一切出口。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b7232a5c3a62eea463e1719a9ef6e111fda037a9dae23d5e5b99297e3c905a21",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/44\/5-8.1792139282748.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威對我說：「人子啊，你要留心，用你的眼睛看，用你的耳朵聽 ⟨את⟩ 我對你所說的一切，就是關於雅威殿的一切律例和它的一切妥拉；你要留心注意 ⟨את⟩ 殿的入口，以及聖所的一切出口。」",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "…說"
+      "gloss": "說"
     },
     {
       "surface": "אלי",
@@ -47,15 +21,15 @@
     },
     {
       "surface": "בן",
-      "gloss": "…子"
+      "gloss": "人子（之子）"
     },
     {
       "surface": "אדם",
-      "gloss": "人"
+      "gloss": "…的人"
     },
     {
       "surface": "שים",
-      "gloss": "要定"
+      "gloss": "你要留心（放在）"
     },
     {
       "surface": "לבך",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "וראה",
-      "gloss": "看"
+      "gloss": "並看"
     },
     {
       "surface": "בעיניך",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "ובאזניך",
-      "gloss": "用你的耳朵"
+      "gloss": "並用你的耳朵"
     },
     {
       "surface": "שמע",
@@ -80,7 +54,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我對你所說的一切"
+      "marks": "一切（我所說的話）"
     },
     {
       "surface": "כל",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "所…的"
+      "gloss": "…的"
     },
     {
       "surface": "אני",
@@ -96,11 +70,12 @@
     },
     {
       "surface": "מדבר",
-      "gloss": "說"
+      "gloss": "正在說"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ 與你"
+      "gloss": "⟨את⟩對你",
+      "marks": "一切律例和一切妥拉"
     },
     {
       "surface": "לכל",
@@ -112,7 +87,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "殿"
+      "gloss": "…之殿"
     },
     {
       "surface": "יהוה",
@@ -120,15 +95,15 @@
     },
     {
       "surface": "ולכל",
-      "gloss": "和一切"
+      "gloss": "和它的一切"
     },
     {
       "surface": "תורתו",
-      "gloss": "它的妥拉"
+      "gloss": "妥拉"
     },
     {
       "surface": "ושמת",
-      "gloss": "也要定"
+      "gloss": "你要留心（放）"
     },
     {
       "surface": "לבך",
@@ -136,7 +111,7 @@
     },
     {
       "surface": "למבוא",
-      "gloss": "…的入口"
+      "gloss": "注意…的入口"
     },
     {
       "surface": "הבית",
@@ -148,13 +123,13 @@
     },
     {
       "surface": "מוצאי",
-      "gloss": "出口"
+      "gloss": "…的出口"
     },
     {
       "surface": "המקדש",
       "gloss": "聖所"
     }
   ],
-  "timestamp": "2026-10-16T08:28:02.749242313Z",
+  "timestamp": "2026-10-16T22:25:47.713762290Z",
   "model": "glm-5.3"
 }

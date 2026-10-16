@@ -5,38 +5,7 @@
   "book": "2-chronicles",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈有〉",
-      "rationale": "希伯來文名詞短語無動詞，中文需補繫詞"
-    },
-    {
-      "kind": "measurement",
-      "subject": "三十五肘／五肘",
-      "rationale": "柱長三十五肘、柱頭五肘，屬聖殿尺寸記述"
-    },
-    {
-      "kind": "crux",
-      "subject": "三十五肘",
-      "rationale": "王上 7:15 記兩柱各十八肘（合約三十五肘），歷代志作單一總數，兩處記法不同"
-    },
-    {
-      "kind": "substitution",
-      "subject": "והצפת",
-      "rationale": "字面「包上的覆飾」，指柱頂的柱頭（chapiter），譯作「柱頭」"
-    }
-  ],
-  "translation": "他在殿前造了兩根柱子，長三十五肘；柱頂上的柱頭〈有〉五肘。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "197a17b7b4f6dfa549c9bf5d0ec78f6e5bda37efc77cecb52e4d1c6e0946c265",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/3\/13-16.1792149140621.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他在殿前造了兩根柱子，高三十五肘；柱頂⟨每個⟩高五肘。",
   "tokens": [
     {
       "surface": "ויעש",
@@ -44,7 +13,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "在前"
+      "gloss": "在…前"
     },
     {
       "surface": "הבית",
@@ -72,23 +41,23 @@
     },
     {
       "surface": "ארך",
-      "gloss": "長"
+      "gloss": "長（高）"
     },
     {
       "surface": "והצפת",
-      "gloss": "柱頭"
+      "gloss": "柱頂"
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "就是"
     },
     {
       "surface": "על",
-      "gloss": "在"
+      "gloss": "在…上"
     },
     {
       "surface": "ראשו",
-      "gloss": "其頂上"
+      "gloss": "其頂"
     },
     {
       "surface": "אמות",
@@ -99,6 +68,6 @@
       "gloss": "五"
     }
   ],
-  "timestamp": "2026-10-16T11:12:20.622090559Z",
+  "timestamp": "2026-10-16T22:04:11.138487424Z",
   "model": "glm-5.3"
 }

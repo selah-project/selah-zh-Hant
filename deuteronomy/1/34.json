@@ -5,23 +5,7 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "לאמר",
-      "rationale": "引語標記，中文以冒號吸收"
-    }
-  ],
-  "translation": "雅威聽見了你們話語的聲音，就發怒，並起誓說：",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "5dc452bdaab97c29b94c3dff9d95f836b91d055c9d319ac542689dc77794cd1f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/1\/33-36.1792128479775.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威聽見了你們話語的聲音，就發怒，並且起誓說：",
   "tokens": [
     {
       "surface": "וישמע",
@@ -34,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "聲音"
+      "marks": "你們話語的聲音"
     },
     {
       "surface": "קול",
@@ -46,17 +30,17 @@
     },
     {
       "surface": "ויקצף",
-      "gloss": "發怒"
+      "gloss": "就發怒"
     },
     {
       "surface": "וישבע",
-      "gloss": "起誓"
+      "gloss": "並且起誓"
     },
     {
       "surface": "לאמר",
       "gloss": "說"
     }
   ],
-  "timestamp": "2026-10-16T05:27:59.776231612Z",
+  "timestamp": "2026-10-16T22:12:25.083827135Z",
   "model": "glm-5.3"
 }

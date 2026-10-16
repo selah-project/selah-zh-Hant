@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "zh-Hant",
   "chapter": 106,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "舉手",
-      "rationale": "נשא יד 是起誓的慣用語（參創14:22），非僅舉手勢"
-    },
-    {
-      "kind": "addition",
-      "subject": "起誓",
-      "rationale": "舉手即含起誓之意，中文補出以免誤解為動作"
-    }
-  ],
-  "translation": "於是他向他們舉手起誓，要使他們倒在曠野，",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "9e2c27acdd677f9603b73b40ade45a715b91d3d4e38c228eee366c54793a9204",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/106\/25-28.1792144657083.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他向他們舉手起誓，要使他們倒在曠野——⟨את⟩他們倒下之地。",
   "tokens": [
     {
       "surface": "וישא",
-      "gloss": "於是他舉起"
+      "gloss": "他舉起"
     },
     {
       "surface": "ידו",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "להפיל",
-      "gloss": "要使倒下"
+      "gloss": "使他們倒下"
     },
     {
       "surface": "אותם",
@@ -54,6 +33,6 @@
       "gloss": "在曠野"
     }
   ],
-  "timestamp": "2026-10-16T09:57:37.084049830Z",
+  "timestamp": "2026-10-16T22:57:53.026354797Z",
   "model": "glm-5.3"
 }

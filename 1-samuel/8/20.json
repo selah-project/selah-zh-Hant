@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "治理",
-      "rationale": "שָׁפַט 字面是「審判」，此處指王施行治理與裁決"
-    },
-    {
-      "kind": "you",
-      "subject": "以色列百姓對撒母耳",
-      "rationale": "百姓繼續直接發言，說明立王的理由"
-    }
-  ],
-  "translation": "我們也好像列國一樣，有我們的王治理我們，在我們前面出征，為我們爭戰 ⟨את 我們的戰事⟩。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "9db9c251df353233c2242dd569ea4f8d7081413830894ed2f15b5432def2974a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/8\/17-20.1792130803002.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "好叫我們也像列國一樣：我們的王審判我們，在我們面前出征，為我們打 ⟨את⟩ 我們的仗。",
   "tokens": [
     {
       "surface": "והיינו",
-      "gloss": "我們也要成為"
+      "gloss": "好叫我們也像"
     },
     {
       "surface": "גם",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אנחנו",
-      "gloss": "我們自己"
+      "gloss": "我們"
     },
     {
       "surface": "ככל",
-      "gloss": "好像一切"
+      "gloss": "像……一切"
     },
     {
       "surface": "הגוים",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ושפטנו",
-      "gloss": "治理我們"
+      "gloss": "審判我們"
     },
     {
       "surface": "מלכנו",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "לפנינו",
-      "gloss": "在我們前面"
+      "gloss": "在我們面前"
     },
     {
       "surface": "ונלחם",
@@ -71,13 +50,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我們的戰事"
+      "marks": "我們的仗"
     },
     {
       "surface": "מלחמתנו",
-      "gloss": "我們的戰事"
+      "gloss": "我們的仗"
     }
   ],
-  "timestamp": "2026-10-16T06:06:43.003689383Z",
+  "timestamp": "2026-10-16T22:02:42.341645650Z",
   "model": "glm-5.3"
 }

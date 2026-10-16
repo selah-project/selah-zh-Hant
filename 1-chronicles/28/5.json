@@ -5,36 +5,15 @@
   "book": "1-chronicles",
   "lang": "zh-Hant",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "統治",
-      "rationale": "על ישראל 直譯「在以色列之上」，中文加「統治」以達意"
-    },
-    {
-      "kind": "you",
-      "subject": "大衛對全會眾",
-      "rationale": "大衛對以色列全會眾述說雅威的揀選"
-    }
-  ],
-  "translation": "在我眾子之中——因為雅威賜給我許多兒子——他揀選了我兒子所羅門，坐在雅威的國度寶座上〈統治〉以色列。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "581094651e59083d473786f83d7141d6989c0fff4fe95484688eff0e0996a9be",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/28\/5-8.1792149059866.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "在我眾子之中——因為雅威賜給我許多兒子——他揀選了我兒子所羅門，坐〈在〉雅威國度的寶座上，治理以色列。",
   "tokens": [
     {
       "surface": "ומכל",
-      "gloss": "在我眾子之中"
+      "gloss": "在……之中"
     },
     {
       "surface": "בני",
-      "gloss": "眾子"
+      "gloss": "我眾子"
     },
     {
       "surface": "כי",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "לשבת",
-      "gloss": "坐在"
+      "gloss": "坐"
     },
     {
       "surface": "על",
@@ -94,13 +73,13 @@
     },
     {
       "surface": "על",
-      "gloss": "統治"
+      "gloss": "治理"
     },
     {
       "surface": "ישראל",
       "gloss": "以色列"
     }
   ],
-  "timestamp": "2026-10-16T11:10:59.867546517Z",
+  "timestamp": "2026-10-16T21:57:06.467062734Z",
   "model": "glm-5.3"
 }

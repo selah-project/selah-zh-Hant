@@ -5,27 +5,11 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "亞倫",
-      "rationale": "希伯來文動詞ויקטר為單數未指名主語，中文補「亞倫」以別於前句複數的眾子"
-    }
-  ],
-  "translation": "他們把脂油放在胸上，亞倫把脂油在祭壇上熏燒。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "90782fe8624baa7804f79d9147f8d2b6ee8cff8e6fc12a1403870be559b61e2c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/9\/17-20.1792126844473.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們把 ⟨את⟩ 脂油放在胸上，脂油就在壇上薰燒了。",
   "tokens": [
     {
       "surface": "וישימו",
-      "gloss": "他們放"
+      "gloss": "他們把……放在"
     },
     {
       "surface": "את",
@@ -38,7 +22,7 @@
     },
     {
       "surface": "על",
-      "gloss": "在…上"
+      "gloss": "在……上"
     },
     {
       "surface": "החזות",
@@ -46,7 +30,7 @@
     },
     {
       "surface": "ויקטר",
-      "gloss": "熏燒"
+      "gloss": "薰燒"
     },
     {
       "surface": "החלבים",
@@ -54,9 +38,9 @@
     },
     {
       "surface": "המזבחה",
-      "gloss": "祭壇"
+      "gloss": "壇"
     }
   ],
-  "timestamp": "2026-10-16T05:00:44.475868106Z",
+  "timestamp": "2026-10-16T22:51:17.475975977Z",
   "model": "glm-5.3"
 }

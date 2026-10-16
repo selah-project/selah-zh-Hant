@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "有人",
-      "rationale": "ואמר 無主語，中文需補出說話者（有人叫我殺你）"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ותחס עליך",
-      "rationale": "動詞字面為「遮蓋」（חוס），引申憐惜、愛惜；多數英譯作「我的眼愛惜你」，原文無「眼」"
-    },
-    {
-      "kind": "crux",
-      "subject": "משיח יהוה",
-      "rationale": "「雅威的受膏者」：依紀律用「受膏者」，拒用「基督／彌賽亞」"
-    }
-  ],
-  "translation": "看哪，今日你的眼睛親眼看見，雅威今日將你交在我手裡，在洞中；有人叫我殺你，我卻愛惜你，說：我不敢下手害我主，因為他是雅威的受膏者。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "66a3adc3d2b944a593391fd188ace5b5baf914af50ca625a5e13847a6176090f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/24\/9-12.1792131396351.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "看哪，就在今天，你的眼睛親眼看見了 ⟨את⟩ 雅威今日將你交在我手中的那事——在洞裡。有人催我要殺你，我卻憐惜你；我就說：我不敢伸手加害我主，因為他是雅威的受膏者。",
   "tokens": [
     {
       "surface": "הנה",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "היום",
-      "gloss": "今日"
+      "gloss": "就在今天"
     },
     {
       "surface": "הזה",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "ראו",
-      "gloss": "看見"
+      "gloss": "看見了"
     },
     {
       "surface": "עיניך",
@@ -56,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "雅威將你交在我手裡這事（אשר 子句）"
+      "marks": "雅威今日將你交在我手中的那事"
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "那事"
     },
     {
       "surface": "נתנך",
@@ -76,23 +50,23 @@
     },
     {
       "surface": "בידי",
-      "gloss": "在我手裡"
+      "gloss": "在我手中"
     },
     {
       "surface": "במערה",
-      "gloss": "在洞中"
+      "gloss": "在洞裡"
     },
     {
       "surface": "ואמר",
-      "gloss": "有人說"
+      "gloss": "有人催說"
     },
     {
       "surface": "להרגך",
-      "gloss": "殺你"
+      "gloss": "要殺你"
     },
     {
       "surface": "ותחס",
-      "gloss": "愛惜"
+      "gloss": "我卻憐惜"
     },
     {
       "surface": "עליך",
@@ -100,7 +74,7 @@
     },
     {
       "surface": "ואמר",
-      "gloss": "我說"
+      "gloss": "我就說"
     },
     {
       "surface": "לא",
@@ -108,7 +82,7 @@
     },
     {
       "surface": "אשלח",
-      "gloss": "伸手害"
+      "gloss": "伸手加害"
     },
     {
       "surface": "ידי",
@@ -128,13 +102,13 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "雅威的"
+      "gloss": "雅威"
     },
     {
       "surface": "הוא",
       "gloss": "他"
     }
   ],
-  "timestamp": "2026-10-16T06:16:36.352519765Z",
+  "timestamp": "2026-10-16T22:01:34.873000463Z",
   "model": "glm-5.3"
 }

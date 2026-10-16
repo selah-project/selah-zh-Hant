@@ -5,27 +5,11 @@
   "book": "1-chronicles",
   "lang": "zh-Hant",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "עולם",
-      "rationale": "עולם 字面是「隱藏、不可見的遠處」，譯作「永遠」是通行理解。"
-    }
-  ],
-  "translation": "你使你的百姓以色列歸你自己，作你的子民，直到永遠；你，雅威，作了他們的以羅欣。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "795360cd02e06e560c7e7eb85f5784f0f9d670ae1bcb2b3e58a932560db1337b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/17\/21-24.1792148854126.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你使 ⟨את⟩ 你的百姓以色列作你的民，直到永遠；你，雅威，作了他們的以羅欣。",
   "tokens": [
     {
       "surface": "ותתן",
-      "gloss": "你使…歸"
+      "gloss": "你使"
     },
     {
       "surface": "את",
@@ -42,11 +26,11 @@
     },
     {
       "surface": "לך",
-      "gloss": "歸你自己"
+      "gloss": "作你的"
     },
     {
       "surface": "לעם",
-      "gloss": "作子民"
+      "gloss": "民"
     },
     {
       "surface": "עד",
@@ -77,6 +61,6 @@
       "gloss": "以羅欣"
     }
   ],
-  "timestamp": "2026-10-16T11:07:34.127111065Z",
+  "timestamp": "2026-10-16T21:56:27.755341304Z",
   "model": "glm-5.3"
 }

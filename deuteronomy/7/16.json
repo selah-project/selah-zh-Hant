@@ -5,54 +5,28 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "以色列",
-      "rationale": "摩西對以色列全會眾的直接命令，第二人稱單數。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "吞滅",
-      "rationale": "ואכלת字面是「吃」，喻指滅盡；中文「吞滅」兼含食與滅。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "神明",
-      "rationale": "אלהיהם在此指異教諸神，依紀律用「神明／眾神」，不用聖名形式。"
-    }
-  ],
-  "translation": "你必吞滅 ⟨את⟩ 雅威你以羅欣所賜給你的一切萬民；你的眼不可憐恤他們，你也不可事奉他們的神明，因為那必作你的網羅。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "44eef7ea7cde91d9cc2426dccee8e8fb8792a0e067dd5db884dfd61cb4335a84",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/7\/13-16.1792128705375.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你要吞滅 ⟨את⟩ 雅威你以羅欣賜給你的所有民族；你的眼不可顧惜他們，也不可事奉他們的神明，因為那對你是網羅。",
   "tokens": [
     {
       "surface": "ואכלת",
-      "gloss": "你必吞滅"
+      "gloss": "你要吞滅"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "一切萬民"
+      "marks": "所有民族"
     },
     {
       "surface": "כל",
-      "gloss": "一切"
+      "gloss": "所有"
     },
     {
       "surface": "העמים",
-      "gloss": "萬民"
+      "gloss": "民族"
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "⟨那些⟩"
     },
     {
       "surface": "יהוה",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "所賜"
+      "gloss": "賜"
     },
     {
       "surface": "לך",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "תחס",
-      "gloss": "憐恤"
+      "gloss": "顧惜"
     },
     {
       "surface": "עינך",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "עליהם",
-      "gloss": "他們"
+      "gloss": "對他們"
     },
     {
       "surface": "ולא",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "תעבד",
-      "gloss": "你事奉"
+      "gloss": "事奉"
     },
     {
       "surface": "את",
@@ -113,13 +87,13 @@
     },
     {
       "surface": "הוא",
-      "gloss": "那必作"
+      "gloss": "那"
     },
     {
       "surface": "לך",
-      "gloss": "你的"
+      "gloss": "對你"
     }
   ],
-  "timestamp": "2026-10-16T05:31:45.376802420Z",
+  "timestamp": "2026-10-16T22:16:16.806990774Z",
   "model": "glm-5.3"
 }

@@ -5,38 +5,7 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "נפשי",
-      "rationale": "נפש 字面是氣息、活物、生命之力，譯作「性命」，非不朽之「靈魂」"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ראה גם ראה \/ דע וראה",
-      "rationale": "「看哪，又看」與「知道並看見」的重複命令，加強呼籲，中英皆難全保其疊勢"
-    },
-    {
-      "kind": "you",
-      "subject": "to Saul",
-      "rationale": "大衛稱掃羅「我父啊」，連續命令句直問掃羅"
-    },
-    {
-      "kind": "hapax",
-      "subject": "צדה",
-      "rationale": "צוד 的重複態此形在塔納赫中極罕見，獵捕意象：掃羅如獵人追捕獵物"
-    }
-  ],
-  "translation": "我父啊，請看，請親眼看：你外袍的衣襟在我手裡；我割下你外袍的衣襟，卻沒有殺你，你當知道、當看見：我手裡沒有惡行，也沒有過犯；我沒有得罪你，你卻追捕我的性命，要取它。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "66a3adc3d2b944a593391fd188ace5b5baf914af50ca625a5e13847a6176090f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/24\/9-12.1792131396351.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我父啊，請看，又請看 ⟨את⟩ 你外袍的衣角在我手中；因為我割下 ⟨את⟩ 你外袍的衣角，卻沒有殺你。你要知道，又要看見：我手中沒有邪惡，沒有過犯，我也沒有得罪你；你卻追獵 ⟨את⟩ 我的性命，要取去它。",
   "tokens": [
     {
       "surface": "ואבי",
@@ -48,7 +17,7 @@
     },
     {
       "surface": "גם",
-      "gloss": "也"
+      "gloss": "又"
     },
     {
       "surface": "ראה",
@@ -57,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "你外袍的衣襟"
+      "marks": "你外袍的衣角"
     },
     {
       "surface": "כנף",
-      "gloss": "衣襟"
+      "gloss": "衣角"
     },
     {
       "surface": "מעילך",
@@ -69,7 +38,7 @@
     },
     {
       "surface": "בידי",
-      "gloss": "在我手裡"
+      "gloss": "在我手中"
     },
     {
       "surface": "כי",
@@ -82,11 +51,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "你外袍的衣襟"
+      "marks": "你外袍的衣角"
     },
     {
       "surface": "כנף",
-      "gloss": "衣襟"
+      "gloss": "衣角"
     },
     {
       "surface": "מעילך",
@@ -102,15 +71,15 @@
     },
     {
       "surface": "דע",
-      "gloss": "你當知道"
+      "gloss": "你要知道"
     },
     {
       "surface": "וראה",
-      "gloss": "當看見"
+      "gloss": "又要看見"
     },
     {
       "surface": "כי",
-      "gloss": "（沒有引號的因為）"
+      "gloss": "〈因為〉"
     },
     {
       "surface": "אין",
@@ -118,19 +87,19 @@
     },
     {
       "surface": "בידי",
-      "gloss": "在我手裡"
+      "gloss": "我手中"
     },
     {
       "surface": "רעה",
-      "gloss": "惡行"
+      "gloss": "邪惡"
     },
     {
       "surface": "ופשע",
-      "gloss": "過犯"
+      "gloss": "沒有過犯"
     },
     {
       "surface": "ולא",
-      "gloss": "沒有"
+      "gloss": "也沒有"
     },
     {
       "surface": "חטאתי",
@@ -146,7 +115,7 @@
     },
     {
       "surface": "צדה",
-      "gloss": "追捕"
+      "gloss": "追獵"
     },
     {
       "surface": "את",
@@ -159,9 +128,9 @@
     },
     {
       "surface": "לקחתה",
-      "gloss": "要取它"
+      "gloss": "要取去它"
     }
   ],
-  "timestamp": "2026-10-16T06:16:36.352758847Z",
+  "timestamp": "2026-10-16T22:01:35.868390265Z",
   "model": "glm-5.3"
 }

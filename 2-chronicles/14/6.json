@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "zh-Hant",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "對猶大",
-      "rationale": "亞撒以第一人眾數命令式（我們要建造）向猶大發言，召喚共同行動"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "דרשנו……דרשנו",
-      "rationale": "「我們尋求了……我們尋求了」的重複，強調尋求雅威與得安息的因果，中文保留重複"
-    },
-    {
-      "kind": "idiom",
-      "subject": "הארץ לפנינו",
-      "rationale": "字面「地在我們面前」，意即地仍敞開、任我們使用"
-    }
-  ],
-  "translation": "他對猶大說：「我們要建造這些城，四圍環繞城牆、城樓、門和門閂；這地仍在我們面前，因為我們尋求了 ⟨את⟩ 雅威我們的以羅欣（神）；我們尋求了，他就賜我們四圍安息。」於是他們建造，凡事順利。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "04ee9185a07458604bb60d5a9ff3354edc34ec174150458bad2f77cb28098984",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/14\/5-8.1792149422328.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他對猶大說：「我們要建造這些城，周圍環築城牆、城樓、門扇和門閂；地還在我們面前，因為我們尋求了 ⟨את⟩ 雅威我們的以羅欣，我們尋求了，他就賜我們四圍安息。」他們就建造，並且順利。",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "ונסב",
-      "gloss": "四圍環繞"
+      "gloss": "周圍環築"
     },
     {
       "surface": "חומה",
@@ -68,23 +42,23 @@
     },
     {
       "surface": "ומגדלים",
-      "gloss": "和城樓"
+      "gloss": "城樓"
     },
     {
       "surface": "דלתים",
-      "gloss": "門"
+      "gloss": "門扇"
     },
     {
       "surface": "ובריחים",
-      "gloss": "和門閂"
+      "gloss": "門閂"
     },
     {
       "surface": "עודנו",
-      "gloss": "仍在"
+      "gloss": "還"
     },
     {
       "surface": "הארץ",
-      "gloss": "這地"
+      "gloss": "地"
     },
     {
       "surface": "לפנינו",
@@ -101,7 +75,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "雅威"
+      "marks": "雅威我們的以羅欣"
     },
     {
       "surface": "יהוה",
@@ -109,7 +83,7 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "我們的以羅欣（神）"
+      "gloss": "我們的以羅欣"
     },
     {
       "surface": "דרשנו",
@@ -117,7 +91,7 @@
     },
     {
       "surface": "וינח",
-      "gloss": "他就賜安息"
+      "gloss": "他就賜……安息"
     },
     {
       "surface": "לנו",
@@ -129,13 +103,13 @@
     },
     {
       "surface": "ויבנו",
-      "gloss": "於是他們建造"
+      "gloss": "他們就建造"
     },
     {
-      "surface": "וצליחו",
-      "gloss": "並凡事順利"
+      "surface": "ויצליחו",
+      "gloss": "並且順利"
     }
   ],
-  "timestamp": "2026-10-16T11:17:02.329962547Z",
+  "timestamp": "2026-10-16T22:03:21.493957031Z",
   "model": "glm-5.3"
 }

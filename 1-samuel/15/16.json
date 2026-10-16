@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "הרף",
-      "gloss": "字面「鬆手／放鬆」，意即「且慢、停住」"
-    },
-    {
-      "kind": "alternative",
-      "subject": "ויאמרו",
-      "rationale": "形式為複數「他們說」，實指掃羅一人；或為尊貴複數"
-    }
-  ],
-  "translation": "撒母耳對掃羅說：「你且住口，我要將雅威今夜對我所說的話告訴你。」掃羅對他說：「你說吧。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "64f6b23e9e4bda68d58523a183acf2dba524eb37cf629dbcd8bf09d9d85e35ac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/15\/13-16.1792131117032.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "撒母耳對掃羅說：「你且止住，我要將雅威夜間對我所說的 ⟨את⟩ 那話告訴你。」掃羅對他說：「你說吧。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "הרף",
-      "gloss": "你且住口"
+      "gloss": "你且止住"
     },
     {
       "surface": "ואגידה",
@@ -59,15 +38,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "雅威今夜對我所說的話"
+      "marks": "雅威夜間對我所說的那話"
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "那"
     },
     {
       "surface": "דבר",
-      "gloss": "說"
+      "gloss": "所說的話"
     },
     {
       "surface": "יהוה",
@@ -79,11 +58,11 @@
     },
     {
       "surface": "הלילה",
-      "gloss": "今夜"
+      "gloss": "夜間"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "他說"
+      "gloss": "他……說"
     },
     {
       "surface": "לו",
@@ -94,6 +73,6 @@
       "gloss": "你說吧"
     }
   ],
-  "timestamp": "2026-10-16T06:11:57.033663243Z",
+  "timestamp": "2026-10-16T22:00:32.975568506Z",
   "model": "glm-5.3"
 }

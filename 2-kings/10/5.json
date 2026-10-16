@@ -5,64 +5,43 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "他們",
-      "rationale": "והאמנים 的受詞（眾王子）原文未明寫，中文補出"
-    },
-    {
-      "kind": "substitution",
-      "subject": "教養的人",
-      "rationale": "האמנים 字根為「扶持、如乳養父母」，諸譯本作 bringers up"
-    }
-  ],
-  "translation": "那管理家宅的、那管理城邑的、長老們和教養〈他們〉的人，就差派人去見耶戶，說：「我們是你的僕人，凡你所吩咐我們的，我們都必遵行；我們不立任何人作王，你看為好的，就照樣行吧。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "be1a8a770bff10a9c15a04819da693d976c4ea2f28d5c234a34a1968f393f857",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/10\/5-8.1792133843893.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "於是家宰、城宰、長老和養育眾子的人打發人去見耶戶，說：「我們是你的僕人，凡你所吩咐我們的，我們都必行；我們必不立⟨任何⟩人作王，你看為好的，就照樣行吧。」",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "差派"
+      "gloss": "於是打發人"
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "那管理"
     },
     {
       "surface": "על",
-      "gloss": "管理"
+      "gloss": "…的"
     },
     {
       "surface": "הבית",
-      "gloss": "家宅"
+      "gloss": "家"
     },
     {
       "surface": "ואשר",
-      "gloss": "和那"
+      "gloss": "和那管理"
     },
     {
       "surface": "על",
-      "gloss": "管理"
+      "gloss": "…的"
     },
     {
       "surface": "העיר",
-      "gloss": "城邑"
+      "gloss": "城"
     },
     {
       "surface": "והזקנים",
-      "gloss": "長老們"
+      "gloss": "長老"
     },
     {
       "surface": "והאמנים",
-      "gloss": "教養的人"
+      "gloss": "養育眾子的人"
     },
     {
       "surface": "אל",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "所…的"
     },
     {
       "surface": "תאמר",
@@ -102,7 +81,7 @@
     },
     {
       "surface": "נעשה",
-      "gloss": "我們必遵行"
+      "gloss": "我們都必行"
     },
     {
       "surface": "לא",
@@ -110,11 +89,11 @@
     },
     {
       "surface": "נמליך",
-      "gloss": "立……作王"
+      "gloss": "立…作王"
     },
     {
       "surface": "איש",
-      "gloss": "任何人"
+      "gloss": "⟨任何⟩人"
     },
     {
       "surface": "הטוב",
@@ -126,9 +105,9 @@
     },
     {
       "surface": "עשה",
-      "gloss": "行"
+      "gloss": "就照樣行吧"
     }
   ],
-  "timestamp": "2026-10-16T06:57:23.893976030Z",
+  "timestamp": "2026-10-16T22:05:26.375613336Z",
   "model": "glm-5.3"
 }

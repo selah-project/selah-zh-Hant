@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "חסד ואמת",
-      "rationale": "「慈愛和誠實」是固定搭配，指信守盟約的慈愛"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתכם",
-      "rationale": "עשה את 的介詞性用法，中文以「以……待」吸收"
-    }
-  ],
-  "translation": "現在願雅威以慈愛和誠實待你們，我也必以此善待你們，因為你們行了這事。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "d9099906c29685d4e346a73e036367d42af28f5a8f3285ad5a477b11edba9e17",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/2\/5-8.1792131683209.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "現在，願雅威以慈愛和誠實待你們，我也要以這善事待⟨את⟩你們，因為你們行了這事。",
   "tokens": [
     {
       "surface": "ועתה",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "יעש",
-      "gloss": "願……待"
+      "gloss": "願…行"
     },
     {
       "surface": "יהוה",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "עמכם",
-      "gloss": "你們"
+      "gloss": "與你們"
     },
     {
       "surface": "חסד",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "וגם",
-      "gloss": "也"
+      "gloss": "我也"
     },
     {
       "surface": "אנכי",
@@ -62,16 +41,16 @@
     },
     {
       "surface": "אעשה",
-      "gloss": "必行"
+      "gloss": "要行"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩與你們",
       "marks": "你們"
     },
     {
       "surface": "הטובה",
-      "gloss": "善"
+      "gloss": "這善"
     },
     {
       "surface": "הזאת",
@@ -87,13 +66,13 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "事"
+      "gloss": "這事"
     },
     {
       "surface": "הזה",
       "gloss": "這"
     }
   ],
-  "timestamp": "2026-10-16T06:21:23.210486549Z",
+  "timestamp": "2026-10-16T22:10:15.324738501Z",
   "model": "glm-5.3"
 }

@@ -5,45 +5,19 @@
   "book": "joshua",
   "lang": "zh-Hant",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "是",
-      "rationale": "ויהי בבואה直譯「她來的時候發生了事」，中文以敘事鋪陳代替"
-    },
-    {
-      "kind": "elision",
-      "subject": "מאת",
-      "rationale": "複合介詞「從……與את」，中文併入「向」"
-    },
-    {
-      "kind": "idiom",
-      "subject": "מה לך",
-      "rationale": "字面「什麼對你」，即「你要什麼／你怎麼了」"
-    }
-  ],
-  "translation": "她到了他那裡，就勸他向她父親求一塊田；她下了驢，迦勒問她：「你要什麼？」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "11455d8626ee999a483c0a7480f46d070baad979d9e52456f962640658b66a10",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/15\/17-20.1792129811061.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "她來到他那裡時，就催促他向她父親求 ⟨את⟩ 一塊田。她從驢上下來，迦勒問她：「你要什麼？」",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "……的時候"
+      "gloss": "時"
     },
     {
       "surface": "בבואה",
-      "gloss": "她到了"
+      "gloss": "她來到"
     },
     {
       "surface": "ותסיתהו",
-      "gloss": "就勸他"
+      "gloss": "她就催促他"
     },
     {
       "surface": "לשאול",
@@ -51,7 +25,8 @@
     },
     {
       "surface": "מאת",
-      "gloss": "向⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "一塊田"
     },
     {
       "surface": "אביה",
@@ -63,11 +38,11 @@
     },
     {
       "surface": "ותצנח",
-      "gloss": "她下了"
+      "gloss": "她下來"
     },
     {
       "surface": "מעל",
-      "gloss": "從……上"
+      "gloss": "從…上"
     },
     {
       "surface": "החמור",
@@ -75,11 +50,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "問"
+      "gloss": "說"
     },
     {
       "surface": "לה",
-      "gloss": "她"
+      "gloss": "對她"
     },
     {
       "surface": "כלב",
@@ -94,6 +69,6 @@
       "gloss": "你要"
     }
   ],
-  "timestamp": "2026-10-16T05:50:11.062629237Z",
+  "timestamp": "2026-10-16T22:43:16.435455870Z",
   "model": "glm-5.3"
 }

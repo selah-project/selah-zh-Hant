@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הממותתים",
-      "rationale": "「正被殺害的」與「已被殺的」之爭；進行體暗示滅門正在進行，約示巴即時搶救"
-    },
-    {
-      "kind": "idiom",
-      "subject": "מפני",
-      "rationale": "字面「離開……的面」，譯作「躲避……的面」以保留畫面"
-    },
-    {
-      "kind": "secret",
-      "subject": "藏 in 臥房",
-      "rationale": "王位繼承人被隱藏，經文的核心隱匿行動"
-    }
-  ],
-  "translation": "約示巴——王約蘭的女兒、亞哈謝的妹妹——取了 ⟨את⟩ 亞哈謝的兒子約阿施，把他從正被殺害的眾王子中偷出來，把 ⟨אתו⟩ 他和他 ⟨ואת⟩ 的乳母藏 in 臥房裡，使他們躲避亞他利雅的面，他就沒有被殺。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "2913560deea56681cd7c69193475db5a6d72f7af4d9ee48b68a24d0b781a2669",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/11\/1-4.1792133846709.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "約蘭王的女兒、亞哈謝的妹妹約示巴，取了 ⟨את⟩ 亞哈謝的兒子約阿施，把他 ⟨את⟩ 從正被殺害的眾王子中偷出來——他 ⟨את⟩ 和 ⟨את⟩ 他的乳母，〈在〉寢床之室裡——他們把他 ⟨את⟩ 藏起來，躲避亞他利雅的面，他就沒有被殺。",
   "tokens": [
     {
       "surface": "ותקח",
@@ -84,20 +58,20 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "他"
     },
     {
       "surface": "מתוך",
-      "gloss": "從其中"
+      "gloss": "從……中"
     },
     {
       "surface": "בני",
-      "gloss": "眾王子"
+      "gloss": "眾子"
     },
     {
       "surface": "המלך",
-      "gloss": "王的"
+      "gloss": "王"
     },
     {
       "surface": "הממותתים",
@@ -105,12 +79,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "他"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨ואת⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的乳母"
     },
     {
@@ -119,11 +93,11 @@
     },
     {
       "surface": "בחדר",
-      "gloss": "在臥房"
+      "gloss": "〈在〉……室裡"
     },
     {
       "surface": "המטות",
-      "gloss": "床鋪的"
+      "gloss": "寢床"
     },
     {
       "surface": "ויסתרו",
@@ -131,7 +105,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "他"
     },
     {
@@ -144,13 +118,13 @@
     },
     {
       "surface": "ולא",
-      "gloss": "沒有"
+      "gloss": "而沒有"
     },
     {
       "surface": "הומת",
       "gloss": "被殺"
     }
   ],
-  "timestamp": "2026-10-16T06:57:26.710601967Z",
+  "timestamp": "2026-10-16T22:05:34.787223581Z",
   "model": "glm-5.3"
 }

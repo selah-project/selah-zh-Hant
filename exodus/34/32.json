@@ -5,43 +5,27 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "遵守",
-      "rationale": "中文語法補出賓語方向「遵守」，希伯來文只有「吩咐他們」。"
-    }
-  ],
-  "translation": "此後，以色列的眾子都前來近前，他就把他與雅威在西奈山上所說的一切話吩咐他們⟨遵守⟩。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "e670e27f6b3857e01f1b3dc17e041907012b287426691f8f344500e829fd02d1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/34\/29-32.1792126476262.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "這些事以後，以色列眾子都前來就近，他就吩咐他們⟨את⟩雅威在西奈山上與他〈同〉說的一切話。",
   "tokens": [
     {
       "surface": "ואחרי",
-      "gloss": "在……之後"
+      "gloss": "這些事以後"
     },
     {
       "surface": "כן",
-      "gloss": "此"
+      "gloss": "以後"
     },
     {
       "surface": "נגשו",
-      "gloss": "前來近前"
+      "gloss": "前來就近"
     },
     {
       "surface": "כל",
-      "gloss": "所有"
+      "gloss": "眾"
     },
     {
       "surface": "בני",
-      "gloss": "……的眾子"
+      "gloss": "子"
     },
     {
       "surface": "ישראל",
@@ -74,8 +58,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩與他",
-      "marks": "他"
+      "gloss": "⟨את⟩ 〈同〉他"
     },
     {
       "surface": "בהר",
@@ -86,6 +69,6 @@
       "gloss": "西奈"
     }
   ],
-  "timestamp": "2026-10-16T04:54:36.263200873Z",
+  "timestamp": "2026-10-16T22:19:51.954063903Z",
   "model": "glm-5.3"
 }

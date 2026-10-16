@@ -5,46 +5,20 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ממעלי הגרה וממפריסי הפרסה",
-      "rationale": "著名難點：直譯「那些倒嚼之物、與那些分那裂蹄之物」——是「只倒嚼而不分蹄」的（JPS、KJV 加「只」），還是泛指兩類；中文以破折號引出名單"
-    },
-    {
-      "kind": "substitution",
-      "subject": "沙番",
-      "rationale": "שפן是岩蹄兔（hyrax），非兔類；和合本音譯「沙番」保留其為另一種動物"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "גרה\/פרסה 重複",
-      "rationale": "倒嚼與分蹄兩詞在本節反覆出現，構成律例的判定節奏，中文以同一詞形對應"
-    }
-  ],
-  "translation": "只是這些你們不可吃：那些倒嚼的、或分瓣之蹄的——⟨את⟩ 駱駝、⟨את⟩ 兔子、⟨את⟩ 沙番；因為牠們倒嚼，卻不分蹄，牠們對你們是不潔淨的。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "97825781facfb1fcb05fbe0c2a2ebb9533495643192486c6f4346725f79557e6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/14\/5-8.1792128870443.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "惟獨這一類，你們不可吃：倒嚼而不分蹄之蹄的，即 ⟨את⟩ 駱駝、⟨ואת⟩ 兔子、⟨ואת⟩ 沙番，因為牠們倒嚼，蹄卻不分；牠們對你們是不潔淨的。",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "只是"
+      "gloss": "惟獨"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "這些"
+      "marks": "這一類"
     },
     {
       "surface": "זה",
-      "gloss": "這些"
+      "gloss": "這一類"
     },
     {
       "surface": "לא",
@@ -60,11 +34,11 @@
     },
     {
       "surface": "הגרה",
-      "gloss": "反芻之物"
+      "gloss": "所嚼之物"
     },
     {
       "surface": "וממפריסי",
-      "gloss": "分"
+      "gloss": "而分"
     },
     {
       "surface": "הפרסה",
@@ -85,7 +59,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨ואת⟩",
       "marks": "兔子"
     },
     {
@@ -94,7 +68,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨ואת⟩",
       "marks": "沙番"
     },
     {
@@ -111,7 +85,7 @@
     },
     {
       "surface": "גרה",
-      "gloss": "反芻之物"
+      "gloss": "所嚼之物"
     },
     {
       "surface": "המה",
@@ -119,7 +93,7 @@
     },
     {
       "surface": "ופרסה",
-      "gloss": "蹄"
+      "gloss": "而蹄"
     },
     {
       "surface": "לא",
@@ -127,7 +101,7 @@
     },
     {
       "surface": "הפריסו",
-      "gloss": "分"
+      "gloss": "分開"
     },
     {
       "surface": "טמאים",
@@ -142,6 +116,6 @@
       "gloss": "對你們"
     }
   ],
-  "timestamp": "2026-10-16T05:34:30.445011210Z",
+  "timestamp": "2026-10-16T22:13:07.133628693Z",
   "model": "glm-5.3"
 }

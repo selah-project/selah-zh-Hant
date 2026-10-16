@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "zh-Hant",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "地設立",
-      "rationale": "中文分句需要補出動詞，希伯來文未重複"
-    },
-    {
-      "kind": "measurement",
-      "subject": "一城一城",
-      "rationale": "逐城點名的行政分佈，計數式的巡視結構"
-    }
-  ],
-  "translation": "他又在地上設立審判官，在猶大一切堅固的城邑中，一城一城〈地設立〉。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "cd5a5d0e3309ad29c1c0effdb197405a85184848df204458e9c5cefbd1983a44",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/19\/5-8.1792149392372.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他在那地上設立審判官，在猶大一切堅固的城邑中，城 by 城——各城各城地設立。",
   "tokens": [
     {
       "surface": "ויעמד",
-      "gloss": "他又設立"
+      "gloss": "設立"
     },
     {
       "surface": "שפטים",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "在地上"
+      "gloss": "在那地上"
     },
     {
       "surface": "בכל",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ערי",
-      "gloss": "城邑中"
+      "gloss": "的城邑中"
     },
     {
       "surface": "יהודה",
@@ -58,13 +37,13 @@
     },
     {
       "surface": "לעיר",
-      "gloss": "一城"
+      "gloss": "各城"
     },
     {
       "surface": "ועיר",
-      "gloss": "又一城"
+      "gloss": "各城"
     }
   ],
-  "timestamp": "2026-10-16T11:16:32.372839261Z",
+  "timestamp": "2026-10-16T22:03:19.021169998Z",
   "model": "glm-5.3"
 }

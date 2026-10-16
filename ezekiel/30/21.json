@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Ezekiel",
-      "rationale": "雅威的話直接稱呼先知「人子啊」。"
-    },
-    {
-      "kind": "hapax",
-      "subject": "חתול",
-      "rationale": "繃帶一詞僅見於此處與以西結書30:21段經文。"
-    }
-  ],
-  "translation": "人子啊，我已折斷了法老王的膀臂，就是埃及王法老的膀臂；看哪，它未曾被包裹，不得醫治，不得纏上繃帶，不能有力持劍。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "31b3e1482e918f00fc874357b540115985ed29e47bacfcd3acc6d32c690f0581",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/30\/21-24.1792138780292.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "人子啊，我已折斷了 ⟨את⟩ 埃及王法老的膀臂；看哪，它未曾包紮，無法得醫治，不得纏上繃帶來包裹它、使它有力、能持住佩劍。",
   "tokens": [
     {
       "surface": "בן",
-      "gloss": "人子（之子）"
+      "gloss": "…之子"
     },
     {
       "surface": "אדם",
@@ -39,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "法老的膀臂"
+      "marks": "埃及王法老的膀臂"
     },
     {
       "surface": "זרוע",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "שברתי",
-      "gloss": "我已折斷"
+      "gloss": "我已折斷了"
     },
     {
       "surface": "והנה",
@@ -67,15 +46,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "不"
+      "gloss": "未曾"
     },
     {
       "surface": "חבשה",
-      "gloss": "被包裹"
+      "gloss": "被包紮"
     },
     {
       "surface": "לתת",
-      "gloss": "為要施行"
+      "gloss": "要施"
     },
     {
       "surface": "רפאות",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "לשום",
-      "gloss": "為要纏上"
+      "gloss": "要纏上"
     },
     {
       "surface": "חתול",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "לחבשה",
-      "gloss": "包裹它"
+      "gloss": "來包裹它"
     },
     {
       "surface": "לחזקה",
@@ -99,13 +78,13 @@
     },
     {
       "surface": "לתפש",
-      "gloss": "持"
+      "gloss": "能持住"
     },
     {
       "surface": "בחרב",
-      "gloss": "劍"
+      "gloss": "佩劍"
     }
   ],
-  "timestamp": "2026-10-16T08:19:40.293554640Z",
+  "timestamp": "2026-10-16T22:23:56.396658466Z",
   "model": "glm-5.3"
 }

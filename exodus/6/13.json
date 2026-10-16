@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "要向",
-      "rationale": "中文需補出吩咐的方向，原文 אל 只作介詞"
-    },
-    {
-      "kind": "you",
-      "subject": "對摩西和亞倫",
-      "rationale": "雅威直接向摩西、亞倫二人說話"
-    }
-  ],
-  "translation": "雅威對摩西和亞倫說話，並吩咐他們⟨要向⟩以色列人和埃及王法老傳話，好把以色列人從埃及地領出來。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "7d3442048644eeb892b24e573783195b60a1484696562db572ce9236897be607",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/6\/13-16.1792125744104.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威對摩西和亞倫說話，吩咐他們⟨要向⟩以色列人、並埃及王法老前去，好將⟨את⟩以色列人從埃及地領出來。",
   "tokens": [
     {
       "surface": "וידבר",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": "和向"
+      "gloss": "並向"
     },
     {
       "surface": "פרעה",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "להוציא",
-      "gloss": "領出"
+      "gloss": "領出來"
     },
     {
       "surface": "את",
@@ -110,6 +89,6 @@
       "gloss": "埃及"
     }
   ],
-  "timestamp": "2026-10-16T04:42:24.105905619Z",
+  "timestamp": "2026-10-16T22:21:19.762148864Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אם 在起誓句中",
-      "rationale": "希伯來起誓的否定條件式——אם 字面為「若」，實為「決不」；中文以「必不」呈現"
-    },
-    {
-      "kind": "substitution",
-      "subject": "後裔",
-      "rationale": "זרע 字面是「種子／後裔」，中文取「後裔」貼近植物意象"
-    }
-  ],
-  "translation": "現在，你要指著雅威向我起誓：你必不剪除我的後裔在我之後，也必不除滅我的名離開我父的家。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "cf9976c7c73c9492fbdd668ba968e4763a441212441a36b7da07b6d83dbf4915",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/24\/21-23.1792131312834.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "現在，你要指著雅威向我起誓：你必不剪除我之後的⟨את⟩我的後裔，也必不從我父家除滅⟨את⟩我的名。」",
   "tokens": [
     {
       "surface": "ועתה",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "אם",
-      "gloss": "你必不"
+      "gloss": "是否（若）"
     },
     {
       "surface": "תכרית",
-      "gloss": "剪除"
+      "gloss": "你必剪除"
     },
     {
       "surface": "את",
@@ -67,11 +46,11 @@
     },
     {
       "surface": "ואם",
-      "gloss": "也必不"
+      "gloss": "也是否（若）"
     },
     {
       "surface": "תשמיד",
-      "gloss": "除滅"
+      "gloss": "你必除滅"
     },
     {
       "surface": "את",
@@ -84,13 +63,13 @@
     },
     {
       "surface": "מבית",
-      "gloss": "離開……的家"
+      "gloss": "從……家"
     },
     {
       "surface": "אבי",
       "gloss": "我父"
     }
   ],
-  "timestamp": "2026-10-16T06:15:12.835548003Z",
+  "timestamp": "2026-10-16T23:01:15.824390952Z",
   "model": "glm-5.3"
 }

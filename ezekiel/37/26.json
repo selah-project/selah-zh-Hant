@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "立約",
-      "rationale": "כרת ברית 字面是「切約」（在剖開的肉塊之間經過），中文以「立約」表達"
-    },
-    {
-      "kind": "elision",
-      "subject": "אותם",
-      "rationale": "第一個אותם指向「與他們」，中文介詞結構使記號無獨立譯詞"
-    }
-  ],
-  "translation": "我要與他們立平安的約，作為與他們永遠的約；我要安置他們，使他們增多，又將我的聖所設在他們中間，直到永遠。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "148144beaac8c007250da26f3abe621f8769ff0f62f0995eb3f12fa6c759d84d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/37\/25-28.1792139021568.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我要與他們立平安之約，這將是他們永遠的約；我要安置他們、使他們增多，並且我要將我的聖殿設立在他們中間，直到永遠。",
   "tokens": [
     {
       "surface": "וכרתי",
-      "gloss": "我要立（約）"
+      "gloss": "我要立（剪）"
     },
     {
       "surface": "להם",
@@ -54,12 +33,12 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "它必作"
+      "gloss": "這將是"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "與他們"
+      "marks": "他們（安置的對象）"
     },
     {
       "surface": "ונתתים",
@@ -67,25 +46,25 @@
     },
     {
       "surface": "והרביתי",
-      "gloss": "使他們增多"
+      "gloss": "我要使他們增多"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "他們"
+      "marks": "他們（增多的對象）"
     },
     {
       "surface": "ונתתי",
-      "gloss": "我又要設立"
+      "gloss": "我要設立"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我的聖所"
+      "marks": "我的聖殿"
     },
     {
       "surface": "מקדשי",
-      "gloss": "我的聖所"
+      "gloss": "我的聖殿"
     },
     {
       "surface": "בתוכם",
@@ -96,6 +75,6 @@
       "gloss": "直到永遠"
     }
   ],
-  "timestamp": "2026-10-16T08:23:41.569206230Z",
+  "timestamp": "2026-10-16T22:25:09.482190452Z",
   "model": "glm-5.3"
 }

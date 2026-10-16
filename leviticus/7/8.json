@@ -5,23 +5,7 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "מקריב／הקריב",
-      "rationale": "同一詞根「靠近／獻上」在句中前後呼應：獻祭者得祭牲之皮，結構首尾相扣。"
-    }
-  ],
-  "translation": "凡獻上人的燔祭的祭司，他要得著自己所獻燔祭的皮。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "2b4aa962cd904d703efbad02bed50b033393ffab4cfac8db00142378dc6e70d5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/7\/5-8.1792126705990.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "獻祭的祭司得了某人的燔祭牲，那燔祭的皮——就是他所獻上的——要歸⟨那⟩獻祭的祭司，歸他自己。",
   "tokens": [
     {
       "surface": "והכהן",
@@ -29,12 +13,12 @@
     },
     {
       "surface": "המקריב",
-      "gloss": "獻上的"
+      "gloss": "獻祭的"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "人的燔祭"
+      "marks": "燔祭牲"
     },
     {
       "surface": "עלת",
@@ -42,7 +26,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "人的"
+      "gloss": "某人的"
     },
     {
       "surface": "עור",
@@ -50,15 +34,15 @@
     },
     {
       "surface": "העלה",
-      "gloss": "燔祭的"
+      "gloss": "那燔祭"
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "就是"
     },
     {
       "surface": "הקריב",
-      "gloss": "獻上的"
+      "gloss": "他所獻上的"
     },
     {
       "surface": "לכהן",
@@ -66,13 +50,13 @@
     },
     {
       "surface": "לו",
-      "gloss": "他"
+      "gloss": "歸他自己"
     },
     {
       "surface": "יהיה",
-      "gloss": "要得著"
+      "gloss": "要作為"
     }
   ],
-  "timestamp": "2026-10-16T04:58:25.993404678Z",
+  "timestamp": "2026-10-16T22:50:54.424185416Z",
   "model": "glm-5.3"
 }

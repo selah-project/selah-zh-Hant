@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "剃鬍鬚",
-      "rationale": "在古代近東剃半邊鬍鬚是極大的羞辱，與割衣並提"
-    },
-    {
-      "kind": "hapax",
-      "subject": "מדויהם",
-      "rationale": "מַדְוֵיהֶם（衣裳）為希伯來文僅見於此處及代上19:4平行段的名詞複數形"
-    }
-  ],
-  "translation": "哈嫩就拿了⟨את⟩大衛的臣僕，剃了他們鬍鬚的一半，又割斷他們的衣服〈的〉下半，直到臀部，把他們打發走了。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "335ae3ebed060cd4537d3415e3503f73cbaaad6c0c9e77a50136ad84a49638cb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/10\/1-4.1792131862008.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "哈嫩就拿了 ⟨את⟩ 大衛的僕人，剃去他們鬍鬚的一半，又把他們的衣服截斷一半，直到他們的臀部，然後打發他們走。",
   "tokens": [
     {
       "surface": "ויקח",
@@ -39,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "大衛的臣僕"
+      "marks": "大衛的僕人"
     },
     {
       "surface": "עבדי",
-      "gloss": "……的臣僕"
+      "gloss": "僕人"
     },
     {
       "surface": "דוד",
@@ -51,12 +30,12 @@
     },
     {
       "surface": "ויגלח",
-      "gloss": "剃了"
+      "gloss": "剃去"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他們鬍鬚的一半"
+      "marks": "一半"
     },
     {
       "surface": "חצי",
@@ -68,7 +47,7 @@
     },
     {
       "surface": "ויכרת",
-      "gloss": "割斷了"
+      "gloss": "截斷"
     },
     {
       "surface": "את",
@@ -81,7 +60,7 @@
     },
     {
       "surface": "בחצי",
-      "gloss": "在……的中間"
+      "gloss": "一半"
     },
     {
       "surface": "עד",
@@ -93,9 +72,9 @@
     },
     {
       "surface": "וישלחם",
-      "gloss": "打發他們走了"
+      "gloss": "打發他們走"
     }
   ],
-  "timestamp": "2026-10-16T06:24:22.010763980Z",
+  "timestamp": "2026-10-16T22:08:25.151801876Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כיד המלך",
-      "rationale": "「照王的手」：或譯「照王的手（所給的）」，傳統譯作「王的慷慨」；原文只說「照所羅門王的手」。"
-    },
-    {
-      "kind": "idiom",
-      "subject": "כיד",
-      "rationale": "「手」指權柄與賜予的能力，中文以「照王的手」保留字面。"
-    }
-  ],
-  "translation": "所羅門王將示巴女王所求的一切、她一切所喜悅的，都賜給她；此外，所羅門王又照〈他王手的慷慨〉賜給她。於是她轉身回本國去了，她和她的臣僕。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a9c2e69b2d3c01bb1e2d0741799a5121b8ec9e8582484c59d991ef04894bfd5f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/10\/13-16.1792132838563.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "所羅門王將示巴女王所求的一切，就是她所喜悅的一切，都賜給她；此外，所羅門王又照王的手（所賜）另有所給。於是她轉身回自己的地去了，她和她的臣僕都去了。",
   "tokens": [
     {
       "surface": "והמלך",
-      "gloss": "王"
+      "gloss": "而王"
     },
     {
       "surface": "שלמה",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "למלכת",
-      "gloss": "女王"
+      "gloss": "給……女王"
     },
     {
       "surface": "שבא",
@@ -51,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "她所求的一切、她一切所喜悅的"
+      "marks": "她所喜悅的一切"
     },
     {
       "surface": "כל",
@@ -63,27 +42,27 @@
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "就是"
     },
     {
       "surface": "שאלה",
-      "gloss": "她求的"
+      "gloss": "她所求的"
     },
     {
       "surface": "מלבד",
-      "gloss": "此外"
+      "gloss": "除此之外"
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "那些"
     },
     {
       "surface": "נתן",
-      "gloss": "賜給"
+      "gloss": "所賜的"
     },
     {
       "surface": "לה",
-      "gloss": "她"
+      "gloss": "給她"
     },
     {
       "surface": "כיד",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "ותפן",
-      "gloss": "她轉身"
+      "gloss": "於是她轉身"
     },
     {
       "surface": "ותלך",
@@ -107,7 +86,7 @@
     },
     {
       "surface": "לארצה",
-      "gloss": "本國"
+      "gloss": "到自己的地"
     },
     {
       "surface": "היא",
@@ -118,6 +97,6 @@
       "gloss": "和她的臣僕"
     }
   ],
-  "timestamp": "2026-10-16T06:40:38.564583652Z",
+  "timestamp": "2026-10-16T21:57:41.830720272Z",
   "model": "glm-5.3"
 }

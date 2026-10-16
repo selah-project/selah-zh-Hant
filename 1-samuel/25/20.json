@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בסתר ההר",
-      "rationale": "「山的隱蔽處」：山側隱密坡道／山坳，諸本或作 'covert' 或作 'ravine'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ירדת\/ירדים",
-      "rationale": "她「下來」與大衛一行「下來」同詞重複，雙方同時下坡相迎"
-    }
-  ],
-  "translation": "她騎著驢，從山隱蔽處下來的時候，看哪，大衛和他的人正下來迎著她，她〈就〉遇見了他們⟨את⟩。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "91a2d0170448b6a8b35ec63f4b99a64eb74bd7a08557b9be362560fc19e39f09",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/25\/17-20.1792131418278.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "事情是這樣：她騎著驢，正下到山的隱蔽處時，看哪，大衛和他的手下正下來迎著她，她就遇上了 ⟨את⟩ 他們。",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "當……的時候"
+      "gloss": "事情是這樣"
     },
     {
       "surface": "היא",
@@ -42,19 +21,19 @@
     },
     {
       "surface": "על",
-      "gloss": "在"
+      "gloss": "在……上"
     },
     {
       "surface": "החמור",
-      "gloss": "驢上"
+      "gloss": "驢"
     },
     {
       "surface": "וירדת",
-      "gloss": "下來"
+      "gloss": "正下到"
     },
     {
       "surface": "בסתר",
-      "gloss": "從山隱蔽處"
+      "gloss": "隱蔽處"
     },
     {
       "surface": "ההר",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "ואנשיו",
-      "gloss": "和他的人"
+      "gloss": "和他的手下"
     },
     {
       "surface": "ירדים",
@@ -82,14 +61,14 @@
     },
     {
       "surface": "ותפגש",
-      "gloss": "她遇見了"
+      "gloss": "她就遇上了"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "他們"
+      "marks": "他們（大衛和他的手下）"
     }
   ],
-  "timestamp": "2026-10-16T06:16:58.280040924Z",
+  "timestamp": "2026-10-16T22:01:49.870251133Z",
   "model": "glm-5.3"
 }

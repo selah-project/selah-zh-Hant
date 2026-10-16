@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "櫃",
-      "rationale": "ארון 直譯為「箱、櫃」，此處即以羅欣的約櫃"
-    },
-    {
-      "kind": "addition",
-      "subject": "帶回",
-      "rationale": "שׁוּב 兼有「返回、帶回」之義，取使役義"
-    }
-  ],
-  "translation": "撒督和亞比亞他便將以羅欣的櫃帶回耶路撒冷，他們就住在那裡。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "8aa9485bd613c96f2c8df0a2ff4f24e344694da7609a16fde8fe8d08c818fe0a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/15\/29-32.1792132083357.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "撒督和亞比亞他便把 ⟨את⟩ 以羅欣的櫃帶回耶路撒冷，住在那裡。",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "帶回"
+      "gloss": "便把……帶回"
     },
     {
       "surface": "צדוק",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "ואביתר",
-      "gloss": "亞比亞他"
+      "gloss": "和亞比亞他"
     },
     {
       "surface": "את",
@@ -63,9 +42,9 @@
     },
     {
       "surface": "שם",
-      "gloss": "那裡"
+      "gloss": "在那裡"
     }
   ],
-  "timestamp": "2026-10-16T06:28:03.358526718Z",
+  "timestamp": "2026-10-16T22:09:26.403206258Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ותכל",
-      "rationale": "著名難點：KJV\/ASV 讀作「渴望到極點」（心切望出去），JPS 讀作「因渴望而耗盡」，另一傳統讀作「停止出去（不再追趕）」；本譯取「停止」義"
-    },
-    {
-      "kind": "addition",
-      "subject": "追趕",
-      "rationale": "לצאת אל 的賓語關係需補出動詞方向，中文加〈追趕〉以成句"
-    },
-    {
-      "kind": "alternative",
-      "subject": "心切望出去",
-      "rationale": "若讀 כלה 為「渴望滿溢」，則譯「大衛王的心切望出去到押沙龍那裡」"
-    }
-  ],
-  "translation": "大衛王的心不再出來〈追趕〉押沙龍，因為他已因暗嫩得了安慰，因為他已經死了。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "7dd3ae543bb73036c7238b50354f8a8565df4db1fe51614c2d09091155da0dfa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/13\/37-39.1792131893417.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "大衛王的心抑制不住，想要出去⟨見⟩押沙龍，因為他已經為暗嫩得了安慰，因為他已經死了。",
   "tokens": [
     {
       "surface": "ותכל",
-      "gloss": "不再…〈追趕〉"
+      "gloss": "抑制不住"
     },
     {
       "surface": "דוד",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "לצאת",
-      "gloss": "出來"
+      "gloss": "出去"
     },
     {
       "surface": "אל",
-      "gloss": "向"
+      "gloss": "⟨見⟩"
     },
     {
       "surface": "אבשלום",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "על",
-      "gloss": "因"
+      "gloss": "為"
     },
     {
       "surface": "אמנון",
@@ -79,9 +53,9 @@
     },
     {
       "surface": "מת",
-      "gloss": "死了"
+      "gloss": "已經死了"
     }
   ],
-  "timestamp": "2026-10-16T06:24:53.418513517Z",
+  "timestamp": "2026-10-16T22:09:05.497671264Z",
   "model": "glm-5.3"
 }

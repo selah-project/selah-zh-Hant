@@ -5,32 +5,16 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חטאת",
-      "rationale": "同一詞兼指「罪」與「贖罪祭」——祭即罪之名；中文固定譯「贖罪祭」"
-    }
-  ],
-  "translation": "至於 ⟨ואת⟩ 贖罪祭公牛的全部脂油，他要取去：蓋在臟腑上的脂油，以及 ⟨ואת⟩ 臟腑上的一切脂油。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "01074193af48863409aefde2dee522f4ce8d0e82d82ab34c8eae0a19360a99f9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/4\/5-8.1792126781027.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他要從贖罪祭公牛的一切脂油中取去⟨את⟩遮蓋內臟的脂油，以及⟨את⟩一切在內臟上的脂油。",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "贖罪祭公牛的全部脂油"
+      "marks": "一切脂油"
     },
     {
       "surface": "כל",
-      "gloss": "全部"
+      "gloss": "一切"
     },
     {
       "surface": "חלב",
@@ -46,16 +30,16 @@
     },
     {
       "surface": "ירים",
-      "gloss": "要取去"
+      "gloss": "取去"
     },
     {
       "surface": "ממנו",
-      "gloss": "從牠"
+      "gloss": "從它"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "蓋在臟腑上的脂油"
+      "marks": "遮蓋內臟的脂油"
     },
     {
       "surface": "החלב",
@@ -63,20 +47,20 @@
     },
     {
       "surface": "המכסה",
-      "gloss": "蓋在……上的"
+      "gloss": "遮蓋"
     },
     {
       "surface": "על",
-      "gloss": "在……上"
+      "gloss": "在……之上"
     },
     {
       "surface": "הקרב",
-      "gloss": "臟腑"
+      "gloss": "內臟"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "臟腑上的一切脂油"
+      "marks": "一切脂油"
     },
     {
       "surface": "כל",
@@ -88,17 +72,21 @@
     },
     {
       "surface": "אשר",
-      "gloss": "……的"
+      "gloss": "那"
     },
     {
       "surface": "על",
-      "gloss": "在……上"
+      "gloss": "在……之上"
     },
     {
       "surface": "הקרב",
-      "gloss": "臟腑"
+      "gloss": "內臟"
     }
   ],
-  "timestamp": "2026-10-16T04:59:41.028678750Z",
-  "model": "glm-5.3"
+  "timestamp": "2026-10-16T22:51:08.897297705Z",
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

@@ -5,50 +5,19 @@
   "book": "2-chronicles",
   "lang": "zh-Hant",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "魯阿",
-      "rationale": "רוח 譯作「魯阿（靈）」，不寫「聖靈」——那是後來的詞。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "עזבתם／ויעזב",
-      "rationale": "「你們離棄」與「他離棄」同一動詞往返，報應式對仗，中文以重複「離棄」保留。"
-    },
-    {
-      "kind": "you",
-      "subject": "對猶大百姓與首領",
-      "rationale": "撒迦利亞的話直接對眾民發出質問。"
-    },
-    {
-      "kind": "crux",
-      "subject": "מעל לעם",
-      "rationale": "「站在眾民以上」——或譯「在眾民面前」「對著眾民」，各譯本不一。"
-    }
-  ],
-  "translation": "以羅欣的魯阿（靈）穿在耶何耶大的兒子撒迦利亞祭司身上，他就站在眾民以上，對他們說：「以羅欣如此說：你們為何越犯 ⟨את⟩ 雅威的誡命，以致不能亨通呢？因為你們離棄了 ⟨את⟩ 雅威，他也離棄你們。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "e5a76f2b82749c94eb134694161ca357e1c0bc5474cbdc5c001fda036d47fe69",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/24\/17-20.1792149506944.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "以羅欣的魯阿（靈）穿戴了 ⟨את⟩ 撒迦利亞——耶何耶大的兒子、那祭司；他就站在百姓之上，對他們說：「以羅欣如此說：你們為何越犯 ⟨את⟩ 雅威的誡命，以致不能亨通呢？因為你們離棄了 ⟨את⟩ 雅威，他必離棄 ⟨את⟩ 你們。」",
   "tokens": [
     {
       "surface": "ורוח",
-      "gloss": "而……的魯阿"
+      "gloss": "魯阿"
     },
     {
       "surface": "אלהים",
-      "gloss": "以羅欣"
+      "gloss": "以羅欣的"
     },
     {
       "surface": "לבשה",
-      "gloss": "穿在……身上"
+      "gloss": "穿戴了"
     },
     {
       "surface": "את",
@@ -69,23 +38,23 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "祭司"
+      "gloss": "那祭司"
     },
     {
       "surface": "ויעמד",
-      "gloss": "他就站立"
+      "gloss": "他就站在"
     },
     {
       "surface": "מעל",
-      "gloss": "在……以上"
+      "gloss": "之上"
     },
     {
       "surface": "לעם",
-      "gloss": "眾民"
+      "gloss": "百姓"
     },
     {
       "surface": "ויאמר",
-      "gloss": "他說"
+      "gloss": "他就說"
     },
     {
       "surface": "להם",
@@ -118,7 +87,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "雅威的誡命"
+      "marks": "誡命"
     },
     {
       "surface": "מצות",
@@ -126,11 +95,11 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "雅威"
+      "gloss": "雅威的"
     },
     {
       "surface": "ולא",
-      "gloss": "以致不"
+      "gloss": "以致不能"
     },
     {
       "surface": "תצליחו",
@@ -155,13 +124,14 @@
     },
     {
       "surface": "ויעזב",
-      "gloss": "他也離棄"
+      "gloss": "他必離棄"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩你們"
+      "gloss": "⟨את⟩你們",
+      "marks": "你們"
     }
   ],
-  "timestamp": "2026-10-16T11:18:26.945244976Z",
+  "timestamp": "2026-10-16T22:03:49.623261609Z",
   "model": "glm-5.3"
 }

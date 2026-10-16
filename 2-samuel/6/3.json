@@ -5,41 +5,20 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "alternative",
-      "subject": "בגבעה",
-      "rationale": "或作專有名詞「基比亞」，或依地方一般義譯「山岡」。"
-    },
-    {
-      "kind": "addition",
-      "subject": "一輛",
-      "rationale": "中文需量詞，希伯來文無。"
-    }
-  ],
-  "translation": "他們將 ⟨את⟩ 以羅欣的約櫃安置在一輛新車上，從山岡上亞比拿達的家裡抬出來；烏撒和亞希約——亞比拿達的兒子——趕著那輛新車。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "359a5f524f678f68d9e1f44c7cd945b98c6ab923c5849e89cc027e3642c5941b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/6\/1-4.1792131863912.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們將以羅欣的櫃安置在⟨את⟩一輛新車上，把它從山上亞比拿達的家裡抬出來；烏撒和亞希約——亞比拿達的兒子——趕著⟨את⟩那輛新車。",
   "tokens": [
     {
       "surface": "וירכבו",
-      "gloss": "安置在……上"
+      "gloss": "安置…在車上"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "以羅欣的約櫃"
+      "marks": "以羅欣的櫃"
     },
     {
       "surface": "ארון",
-      "gloss": "約櫃"
+      "gloss": "櫃"
     },
     {
       "surface": "האלהים",
@@ -47,11 +26,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "在"
+      "gloss": "在…上"
     },
     {
       "surface": "עגלה",
-      "gloss": "車"
+      "gloss": "一輛車"
     },
     {
       "surface": "חדשה",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "מבית",
-      "gloss": "從……的家"
+      "gloss": "從…的家"
     },
     {
       "surface": "אבינדב",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "בגבעה",
-      "gloss": "在山岡上"
+      "gloss": "在山上"
     },
     {
       "surface": "ועזא",
@@ -111,6 +90,6 @@
       "gloss": "新"
     }
   ],
-  "timestamp": "2026-10-16T06:24:23.914179029Z",
+  "timestamp": "2026-10-16T22:11:05.931764020Z",
   "model": "glm-5.3"
 }

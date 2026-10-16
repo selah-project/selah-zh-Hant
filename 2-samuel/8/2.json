@@ -5,34 +5,7 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "用繩量",
-      "rationale": "全節以量繩清點生死，是計數性的處決場景。"
-    },
-    {
-      "kind": "crux",
-      "subject": "השכב אותם ארצה",
-      "rationale": "「使他們躺臥在地上」——量繩時叫他們臥地，逐段量度；KJV「倒在地上」失去量度的畫面。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חבל",
-      "rationable": "",
-      "rationale": "חבל 一詞兼指「繩」與「境區」，量繩即量地，雙關在中文中失落。"
-    }
-  ],
-  "translation": "他擊打了 ⟨את⟩ 摩押，用繩量他們，使他們躺臥在地上；他量了兩條繩⟨的量⟩處死，滿一條繩⟨的量⟩存活。摩押就成了大衛的僕人，進貢之物。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ea9f104a90429fb30e53e49e39483cd0d351f76a1e611f435127358209d57e50",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/8\/1-4.1792131875250.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他擊打了 ⟨את⟩ 摩押，用繩子量他們，使他們躺臥在地上；他量了兩條繩子的要處死，量滿一條繩子的要存留。於是摩押就成了大衛的僕人，進貢的〈人〉。",
   "tokens": [
     {
       "surface": "ויך",
@@ -53,7 +26,7 @@
     },
     {
       "surface": "בחבל",
-      "gloss": "用繩"
+      "gloss": "用繩子"
     },
     {
       "surface": "השכב",
@@ -61,8 +34,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "他們"
+      "gloss": "⟨את⟩他們",
+      "marks": "在地上"
     },
     {
       "surface": "ארצה",
@@ -74,15 +47,15 @@
     },
     {
       "surface": "שני",
-      "gloss": "兩"
+      "gloss": "兩條"
     },
     {
       "surface": "חבלים",
-      "gloss": "條繩"
+      "gloss": "繩子"
     },
     {
       "surface": "להמית",
-      "gloss": "處死"
+      "gloss": "要處死"
     },
     {
       "surface": "ומלא",
@@ -90,11 +63,11 @@
     },
     {
       "surface": "החבל",
-      "gloss": "那條繩"
+      "gloss": "那繩子"
     },
     {
       "surface": "להחיות",
-      "gloss": "存活"
+      "gloss": "要存留"
     },
     {
       "surface": "ותהי",
@@ -106,21 +79,21 @@
     },
     {
       "surface": "לדוד",
-      "gloss": "歸大衛"
+      "gloss": "大衛的"
     },
     {
       "surface": "לעבדים",
-      "gloss": "作僕人"
+      "gloss": "僕人"
     },
     {
       "surface": "נשאי",
-      "gloss": "肩負……的"
+      "gloss": "進貢的"
     },
     {
       "surface": "מנחה",
       "gloss": "貢物"
     }
   ],
-  "timestamp": "2026-10-16T06:24:35.253752486Z",
+  "timestamp": "2026-10-16T22:11:19.486780048Z",
   "model": "glm-5.3"
 }

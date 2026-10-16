@@ -5,45 +5,19 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "עלו／ועלינו／עלה",
-      "rationale": "「上來／我們上去／上去」同一動詞貫穿 10–12 節，記號與應驗用同一個字。"
-    },
-    {
-      "kind": "crux",
-      "subject": "我們要告訴你們一件事",
-      "rationale": "ונודיעה 字面「我們使你們知道」，BSB 譏諷地譯作「教你們一課」；照字面保留。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "拿兵器的人",
-      "rationale": "נשא כליו 字面是「抬他器具的人」，諸譯本作 armorbearer。"
-    }
-  ],
-  "translation": "防營的人回答約拿單和他拿兵器的人，說：「上到我們這裡來，我們要告訴⟨את⟩你們一件事。」約拿單對拿兵器的人說：「跟在我後面上去，因為雅威已把他們交在以色列手裡。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "10018b4478227d75f97b3a7f3bb705d85c3f89b6fcba2a78850440bfa3f2ce0c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/14\/9-12.1792131106021.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "駐營的人回答約拿單和 ⟨את⟩ 他的兵器拿持者，說：「上到我們這裡來，我們要讓你們知道一件事。」約拿單對拿他兵器的人說：「跟著我上來，因為雅威已把他們交在以色列手中。」",
   "tokens": [
     {
       "surface": "ויענו",
-      "gloss": "……回答"
+      "gloss": "回答"
     },
     {
       "surface": "אנשי",
-      "gloss": "的人"
+      "gloss": "……的人"
     },
     {
       "surface": "המצבה",
-      "gloss": "防營"
+      "gloss": "駐營"
     },
     {
       "surface": "את",
@@ -57,19 +31,19 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "拿兵器的人"
+      "marks": "拿他兵器的人"
     },
     {
       "surface": "נשא",
-      "gloss": "拿"
+      "gloss": "拿持者"
     },
     {
       "surface": "כליו",
-      "gloss": "他兵器的人"
+      "gloss": "他的兵器"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "……說"
+      "gloss": "說"
     },
     {
       "surface": "עלו",
@@ -81,12 +55,12 @@
     },
     {
       "surface": "ונודיעה",
-      "gloss": "我們要告訴"
+      "gloss": "我們要讓……知道"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩你們",
-      "marks": "一件事"
+      "gloss": "⟨את⟩",
+      "marks": "你們"
     },
     {
       "surface": "דבר",
@@ -94,7 +68,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "……說"
+      "gloss": "說"
     },
     {
       "surface": "יונתן",
@@ -106,19 +80,19 @@
     },
     {
       "surface": "נשא",
-      "gloss": "拿"
+      "gloss": "拿持者"
     },
     {
       "surface": "כליו",
-      "gloss": "他兵器的人"
+      "gloss": "他的兵器"
     },
     {
       "surface": "עלה",
-      "gloss": "上去"
+      "gloss": "上來"
     },
     {
       "surface": "אחרי",
-      "gloss": "跟在我後面"
+      "gloss": "跟著我"
     },
     {
       "surface": "כי",
@@ -126,7 +100,7 @@
     },
     {
       "surface": "נתנם",
-      "gloss": "已把他們交在"
+      "gloss": "已把他們交給"
     },
     {
       "surface": "יהוה",
@@ -134,13 +108,13 @@
     },
     {
       "surface": "ביד",
-      "gloss": "在手裡"
+      "gloss": "在……手中"
     },
     {
       "surface": "ישראל",
       "gloss": "以色列"
     }
   ],
-  "timestamp": "2026-10-16T06:11:46.022878486Z",
+  "timestamp": "2026-10-16T22:00:25.137287066Z",
   "model": "glm-5.3"
 }

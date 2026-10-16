@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ריחנו הבאשתם",
-      "rationale": "使我們的氣味發臭——希伯來慣用語，意指使我們受憎惡、名聲敗壞"
-    },
-    {
-      "kind": "crux",
-      "subject": "בידם",
-      "rationale": "「他們手中」指法老及其僕人；部分譯本作「他（法老）手中」"
-    },
-    {
-      "kind": "you",
-      "subject": "to 摩西和亞倫",
-      "rationale": "以色列人的工頭直接向摩西亞倫發出控訴"
-    }
-  ],
-  "translation": "他們對他們說：「願雅威看顧你們，施行審判，因為你們使我們的氣味在法老眼前和他的僕人眼前發臭，把刀劍放在他們手中，要殺我們。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "70fcb94b6d4a18e1640c6624d74a746d64e326e942e7a5d38f3f01d32fc95d85",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/5\/21-23.1792125723269.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們對摩西和亞倫說：「願雅威看顧你們，施行審判，因為你們使我們的名聲在法老眼中和他臣僕眼中發臭，如同把刀交在他們手中要殺我們。」",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ירא",
-      "gloss": "願……看顧"
+      "gloss": "願…看顧"
     },
     {
       "surface": "יהוה",
@@ -63,20 +37,20 @@
     },
     {
       "surface": "הבאשתם",
-      "gloss": "你們使……發臭"
+      "gloss": "你們使…發臭"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我們的氣味"
+      "marks": "我們的名聲（ריחנו，直譯「我們的氣味」）"
     },
     {
       "surface": "ריחנו",
-      "gloss": "我們的氣味"
+      "gloss": "我們的名聲"
     },
     {
       "surface": "בעיני",
-      "gloss": "在……眼前"
+      "gloss": "在…眼中"
     },
     {
       "surface": "פרעה",
@@ -84,19 +58,19 @@
     },
     {
       "surface": "ובעיני",
-      "gloss": "和在……眼前"
+      "gloss": "和在…眼中"
     },
     {
       "surface": "עבדיו",
-      "gloss": "他的僕人"
+      "gloss": "他的臣僕"
     },
     {
       "surface": "לתת",
-      "gloss": "去放"
+      "gloss": "交給"
     },
     {
       "surface": "חרב",
-      "gloss": "刀劍"
+      "gloss": "刀"
     },
     {
       "surface": "בידם",
@@ -107,6 +81,6 @@
       "gloss": "要殺我們"
     }
   ],
-  "timestamp": "2026-10-16T04:42:03.272541287Z",
+  "timestamp": "2026-10-16T23:01:04.467120311Z",
   "model": "glm-5.3"
 }

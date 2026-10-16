@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אתנו",
-      "rationale": "此處 את 是「與」(H854) 而非受詞記號 (H853)：「什麼與我們同在？」即「我們有什麼？」"
-    },
-    {
-      "kind": "substitution",
-      "subject": "袋",
-      "rationale": "כלים 直譯「器皿、行囊」，譯作「袋」。"
-    },
-    {
-      "kind": "elision",
-      "subject": "神人",
-      "rationale": "איש האלהים 在此語境中作單一稱號「神人」，不逐詞拆譯。"
-    }
-  ],
-  "translation": "掃羅對他的僕人說：「我們若去，可以帶什麼給那人呢？因為餅已經從我們的袋中用盡，也沒有禮物可以帶給神人。我們手中有什麼呢？」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "e2ae22e0ece85592c9e5f4681464eff7d49a61e3fb7f94b55d053f06029d84a5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/9\/5-8.1792131036940.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "掃羅對他的僕人說：「看哪，我們可以去，但我們要帶甚麼給那人呢？因為餅已經從我們的行囊中用盡了，又沒有禮物可以帶給神人——⟨את⟩我們有甚麼呢？」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -51,15 +25,15 @@
     },
     {
       "surface": "נלך",
-      "gloss": "我們去"
+      "gloss": "我們可以去"
     },
     {
       "surface": "ומה",
-      "gloss": "什麼"
+      "gloss": "但甚麼"
     },
     {
       "surface": "נביא",
-      "gloss": "帶給"
+      "gloss": "要帶給"
     },
     {
       "surface": "לאיש",
@@ -75,15 +49,15 @@
     },
     {
       "surface": "אזל",
-      "gloss": "用盡"
+      "gloss": "用盡了"
     },
     {
       "surface": "מכלינו",
-      "gloss": "從我們的袋中"
+      "gloss": "從我們的行囊中"
     },
     {
       "surface": "ותשורה",
-      "gloss": "禮物"
+      "gloss": "又禮物"
     },
     {
       "surface": "אין",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "להביא",
-      "gloss": "帶給"
+      "gloss": "可以帶給"
     },
     {
       "surface": "לאיש",
@@ -99,17 +73,18 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "以羅欣的神人"
+      "gloss": "神人"
     },
     {
       "surface": "מה",
-      "gloss": "什麼"
+      "gloss": "甚麼"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩與我們同在"
+      "gloss": "⟨את⟩",
+      "marks": "我們（與我們同在）"
     }
   ],
-  "timestamp": "2026-10-16T06:10:36.941565204Z",
+  "timestamp": "2026-10-16T22:03:01.360617660Z",
   "model": "glm-5.3"
 }

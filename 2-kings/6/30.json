@@ -5,36 +5,15 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מבית",
-      "rationale": "「從裡面／在內」——麻布穿在外衣之內貼身；各譯本或作「在裡面貼身穿著」或作「在衣服之內」"
-    },
-    {
-      "kind": "addition",
-      "subject": "自己的",
-      "rationale": "中文需要所有格使撕裂的對象明確"
-    }
-  ],
-  "translation": "王聽見 ⟨את⟩ 那婦人的話，就撕裂自己的衣服；那時他正從城牆上經過，百姓觀看，看哪，有麻布貼身穿在裡面。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "5a46683d16cb1c94bb415f65bf1e56f315c8a2067167e163fd1d71a9cc4a6c4e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/6\/29-32.1792133686081.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "王聽了 ⟨את⟩ 那婦人的話，就撕裂了自己的衣服——那時他正從城牆上經過——百姓看見了，看哪，麻布衣貼在他的皮肉之上，在裡面。",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "當……的時候"
+      "gloss": "當…時"
     },
     {
       "surface": "כשמע",
-      "gloss": "聽見"
+      "gloss": "聽了"
     },
     {
       "surface": "המלך",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "דברי",
-      "gloss": "……的話"
+      "gloss": "話"
     },
     {
       "surface": "האשה",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "ויקרע",
-      "gloss": "就撕裂"
+      "gloss": "就撕裂了"
     },
     {
       "surface": "את",
@@ -68,15 +47,15 @@
     },
     {
       "surface": "והוא",
-      "gloss": "他（那時正）"
+      "gloss": "那時他"
     },
     {
       "surface": "עבר",
-      "gloss": "經過"
+      "gloss": "正經過"
     },
     {
       "surface": "על",
-      "gloss": "在……之上"
+      "gloss": "在…之上"
     },
     {
       "surface": "החמה",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "וירא",
-      "gloss": "觀看"
+      "gloss": "看見了"
     },
     {
       "surface": "העם",
@@ -96,21 +75,21 @@
     },
     {
       "surface": "השק",
-      "gloss": "麻布"
+      "gloss": "麻布衣"
     },
     {
       "surface": "על",
-      "gloss": "在……之上"
+      "gloss": "貼在…之上"
     },
     {
       "surface": "בשרו",
-      "gloss": "他的肉身上"
+      "gloss": "他的皮肉"
     },
     {
       "surface": "מבית",
       "gloss": "在裡面"
     }
   ],
-  "timestamp": "2026-10-16T06:54:46.082054043Z",
+  "timestamp": "2026-10-16T22:07:56.255365831Z",
   "model": "glm-5.3"
 }

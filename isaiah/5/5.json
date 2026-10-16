@@ -5,36 +5,15 @@
   "book": "isaiah",
   "lang": "zh-Hant",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "משוכתו\/גדרו",
-      "rationale": "籬笆與圍牆的對仗，加上兩個「它就成為」的平行結構，中文以被動式保留"
-    },
-    {
-      "kind": "addition",
-      "subject": "被",
-      "rationale": "לבער\/למרמס為「成為被吞滅\/被踐踏之物的不定式，中文需被動標記"
-    }
-  ],
-  "translation": "如今，請容我告訴你們，我要向我葡萄園所做的：撤去它的籬笆，它就被吞滅；拆毀它的圍牆，它就被踐踏。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "61e2c11e0f8f5058643d2801dc4a7a76a076a82490f6108d8012de1a973b5479",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/5\/5-8.1792134651946.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "現在，請容我告訴 ⟨את⟩ 你們，我要向我葡萄園所做的：撤去它的籬笆，使它被吞吃；拆毀它的圍牆，使它被踐踏。",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "如今"
+      "gloss": "現在"
     },
     {
       "surface": "אודיעה",
-      "gloss": "容我告訴"
+      "gloss": "請容我告訴"
     },
     {
       "surface": "נא",
@@ -42,17 +21,17 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ 你們",
-      "marks": "את"
+      "gloss": "⟨את⟩",
+      "marks": "你們"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我要向我葡萄園所做的"
+      "marks": "我要向我葡萄園所做的（אשר 從句）"
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "所要做的"
     },
     {
       "surface": "אני",
@@ -76,11 +55,11 @@
     },
     {
       "surface": "והיה",
-      "gloss": "它就"
+      "gloss": "使它"
     },
     {
       "surface": "לבער",
-      "gloss": "被吞滅"
+      "gloss": "被吞吃"
     },
     {
       "surface": "פרץ",
@@ -92,13 +71,13 @@
     },
     {
       "surface": "והיה",
-      "gloss": "它就"
+      "gloss": "使它"
     },
     {
       "surface": "למרמס",
       "gloss": "被踐踏"
     }
   ],
-  "timestamp": "2026-10-16T07:10:51.946974388Z",
+  "timestamp": "2026-10-16T22:35:13.175219625Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "זהב זהב \/ כסף כסף",
-      "rationale": "重複詞「金的屬金、銀的屬銀」可解為純金純銀（ylt 採此讀）或按質料分類（kjv、asv、jps）。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "זהב זהב כסף כסף",
-      "rationale": "同詞重疊的修辭強調結構，中文以「歸」字對仗保留。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "רב טבחים",
-      "rationale": "字面是「屠宰者之首」，實為巴比倫護衛長（即行刑者之首），中文沿用和合本「護衛長」。"
-    }
-  ],
-  "translation": "火盆和碗——金的歸金、銀的歸銀——護衛長都拿走了。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c7cb550643f972caf7279dd9b8a8f82b3fc0403313a7b5a596b557930b8d142d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/25\/13-16.1792134408713.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "火盆和碗，凡金的——金，凡銀的——銀，護衛長都取去了。",
   "tokens": [
     {
       "surface": "ואת",
@@ -53,11 +27,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨凡⟩"
+      "gloss": "凡"
     },
     {
       "surface": "זהב",
-      "gloss": "金"
+      "gloss": "金的"
     },
     {
       "surface": "זהב",
@@ -65,11 +39,11 @@
     },
     {
       "surface": "ואשר",
-      "gloss": "以及凡"
+      "gloss": "凡"
     },
     {
       "surface": "כסף",
-      "gloss": "銀"
+      "gloss": "銀的"
     },
     {
       "surface": "כסף",
@@ -77,7 +51,7 @@
     },
     {
       "surface": "לקח",
-      "gloss": "拿走"
+      "gloss": "取去"
     },
     {
       "surface": "רב",
@@ -85,9 +59,9 @@
     },
     {
       "surface": "טבחים",
-      "gloss": "護衛（屠宰者）"
+      "gloss": "護衛"
     }
   ],
-  "timestamp": "2026-10-16T07:06:48.715323862Z",
+  "timestamp": "2026-10-16T22:07:24.235627393Z",
   "model": "glm-5.3"
 }

@@ -5,39 +5,11 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "其餘的人",
-      "gloss": "",
-      "rationale": "ואתם「而你們」指留下的人，中文補「其餘的人」以明確"
-    },
-    {
-      "kind": "idiom",
-      "subject": "חי פרעה",
-      "rationale": "起誓套語「法老存活」，中文作「指著法老的性命起誓」"
-    },
-    {
-      "kind": "substitution",
-      "subject": "אתכם",
-      "rationel": "",
-      "rationale": "האמת אתכם「真理與你們同在」，את 此處為介詞「與」，按提示以 ⟨את⟩ 標記並譯為「在你們那裡／你們有」"
-    }
-  ],
-  "translation": "「你們打發你們中間一個人去帶 ⟨את⟩ 你們的兄弟，你們其餘的人要被拘禁，好使你們的話受考驗，看你們中間有沒有真理；若沒有，我指著法老的性命起誓，你們真是探子。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b080eeb48fdfeee6f4db1fd92b048b4d20d01703f83e984a7c8a00888f47d908",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/42\/13-16.1792125494722.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "要從你們中間打發一人去，讓他帶 ⟨את⟩ 你們的兄弟來；你們則被囚禁，好查驗你們的話，看你們中間是否有真實；若沒有——法老活著〈起誓〉，你們確實是探子。」",
   "tokens": [
     {
       "surface": "שלחו",
-      "gloss": "你們打發"
+      "gloss": "要打發"
     },
     {
       "surface": "מכם",
@@ -45,7 +17,7 @@
     },
     {
       "surface": "אחד",
-      "gloss": "一個"
+      "gloss": "一人"
     },
     {
       "surface": "ויקח",
@@ -62,15 +34,15 @@
     },
     {
       "surface": "ואתם",
-      "gloss": "而你們"
+      "gloss": "你們"
     },
     {
       "surface": "האסרו",
-      "gloss": "要被拘禁"
+      "gloss": "被囚禁"
     },
     {
       "surface": "ויבחנו",
-      "gloss": "要受考驗"
+      "gloss": "好查驗"
     },
     {
       "surface": "דבריכם",
@@ -78,11 +50,11 @@
     },
     {
       "surface": "האמת",
-      "gloss": "真理"
+      "gloss": "真實"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩ 在你們那裏"
     },
     {
       "surface": "ואם",
@@ -94,7 +66,7 @@
     },
     {
       "surface": "חי",
-      "gloss": "的性命"
+      "gloss": "活著"
     },
     {
       "surface": "פרעה",
@@ -102,17 +74,17 @@
     },
     {
       "surface": "כי",
-      "gloss": "真是"
+      "gloss": "確實"
     },
     {
       "surface": "מרגלים",
-      "gloss": "探子們"
+      "gloss": "探子"
     },
     {
       "surface": "אתם",
       "gloss": "你們"
     }
   ],
-  "timestamp": "2026-10-16T04:38:14.724119229Z",
+  "timestamp": "2026-10-16T22:30:57.465621571Z",
   "model": "glm-5.3"
 }

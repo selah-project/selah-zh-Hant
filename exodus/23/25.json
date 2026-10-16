@@ -5,86 +5,60 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "給",
-      "rationale": "希伯來文 וברך 直接帶雙受詞，中文需介詞「給」"
-    },
-    {
-      "kind": "substitution",
-      "subject": "食物",
-      "rationale": "לחמך 字面是「你的餅／糧食」，泛指食物"
-    },
-    {
-      "kind": "you",
-      "subject": "以色列",
-      "rationale": "本節直接向以色列眾人發言"
-    }
-  ],
-  "translation": "你們要事奉雅威——你們的以羅欣（神），他必賜福⟨給⟩你的食物和⟨את⟩你的水，我必從你們中間除去疾病。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "09aea98edcf83508f9a87ce90569f2bc5090005b642b125e73dd8042a31f12da",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/23\/25-28.1792126168106.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你們要事奉 ⟨את⟩ 雅威——你們的以羅欣（神），他就賜福 ⟨את⟩ 你的食物和 ⟨את⟩ 你的水，我也必從你們中間除去疾病。",
   "tokens": [
     {
-      "surface": "ועבדתם",
+      "surface": "וַעֲבַדְתֶּם",
       "gloss": "你們要事奉"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "雅威"
+      "marks": "雅威——你們的以羅欣"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָה",
       "gloss": "雅威"
     },
     {
-      "surface": "אלהיכם",
+      "surface": "אֱלֹהֵיכֶם",
       "gloss": "你們的以羅欣（神）"
     },
     {
-      "surface": "וברך",
-      "gloss": "他必賜福"
+      "surface": "וּבֵרַךְ",
+      "gloss": "他就賜福"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
       "marks": "你的食物"
     },
     {
-      "surface": "לחמך",
+      "surface": "לַחְמְךָ",
       "gloss": "你的食物"
     },
     {
-      "surface": "ואת",
+      "surface": "וְאֶת",
       "gloss": "⟨את⟩",
       "marks": "你的水"
     },
     {
-      "surface": "מימיך",
+      "surface": "מֵימֶיךָ",
       "gloss": "你的水"
     },
     {
-      "surface": "והסרתי",
-      "gloss": "我必除去"
+      "surface": "וַהֲסִרֹתִי",
+      "gloss": "我也必除去"
     },
     {
-      "surface": "מחלה",
+      "surface": "מַחֲלָה",
       "gloss": "疾病"
     },
     {
-      "surface": "מקרבך",
+      "surface": "מִקִּרְבֶּךָ",
       "gloss": "從你們中間"
     }
   ],
-  "timestamp": "2026-10-16T04:49:28.107598530Z",
+  "timestamp": "2026-10-16T22:18:25.163049980Z",
   "model": "glm-5.3"
 }

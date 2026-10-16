@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "סבב את פני הדבר",
-      "rationale": "「使這事的面向轉來轉去」＝改換說法、迂迴陳述，和合本「藉此改變此事的局面」"
-    },
-    {
-      "kind": "secret",
-      "subject": "奉承中的機鋒",
-      "rationale": "婦人明言這是約押設計的圈套，並以「知道地上一切」的智慧奉承王——承認隱藏之事被王看穿"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "דבר重複",
-      "rationale": "「話／事」דבר在本節出現三次：事情的情面、這件事——話即是事，雙關"
-    }
-  ],
-  "translation": "「為要扭轉 ⟨את⟩ 這事的情面，你僕人約押行了 ⟨את⟩ 這件事；我主有智慧，如同以羅欣使者的智慧，知道地上的一切事。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "fcaee3641f07f9048f91617ab0791fe61acb2eeb647fe3b5d41be45cb7d5d2fd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/14\/17-20.1792132135282.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "為要使這事的局面轉圜，你的僕人約押行了 ⟨את⟩ 這事；我主有智慧，如以羅欣的使者之智慧，能知道 ⟨את⟩ 地上一切的事。",
   "tokens": [
     {
       "surface": "לבעבור",
@@ -39,16 +13,16 @@
     },
     {
       "surface": "סבב",
-      "gloss": "扭轉"
+      "gloss": "使…轉圜"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "這事的情面"
+      "marks": "這事的局面（פני הדבר）"
     },
     {
       "surface": "פני",
-      "gloss": "……的情面"
+      "gloss": "局面"
     },
     {
       "surface": "הדבר",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "你僕人"
+      "gloss": "你的僕人"
     },
     {
       "surface": "יואב",
@@ -69,11 +43,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "這件事"
+      "marks": "這事（הדבר הזה）"
     },
     {
       "surface": "הדבר",
-      "gloss": "事"
+      "gloss": "這事"
     },
     {
       "surface": "הזה",
@@ -89,7 +63,7 @@
     },
     {
       "surface": "כחכמת",
-      "gloss": "如同……的智慧"
+      "gloss": "如…的智慧"
     },
     {
       "surface": "מלאך",
@@ -101,12 +75,12 @@
     },
     {
       "surface": "לדעת",
-      "gloss": "知道"
+      "gloss": "能知道"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "地上的一切事"
+      "marks": "一切的事（כל）"
     },
     {
       "surface": "כל",
@@ -114,13 +88,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "所……的"
+      "gloss": "所…的"
     },
     {
       "surface": "בארץ",
-      "gloss": "在地上的"
+      "gloss": "在地上"
     }
   ],
-  "timestamp": "2026-10-16T06:28:55.284585372Z",
+  "timestamp": "2026-10-16T22:08:58.516119221Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,12 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "鐵爐",
-      "rationale": "「מכור הברזל」直譯為熔爐／鐵爐，是形容埃及為熬煉苦難之地的比喻。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "כור",
-      "rationale": "כור 本指挖掘而成的熔爐或鍋，喻意苦難之地。"
-    }
-  ],
-  "translation": "至於你們，雅威〈親自〉取了⟨את⟩你們，從埃及的鐵爐那裡領⟨את⟩你們出來，要使你們作祂的產業之民，正如今日一樣。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "2ac6ebff37a0f5d99d6e6182659f48e1e45c94f6f805b2d564e0f8cd1578e6d0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/4\/17-20.1792128625857.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "至於你們，雅威取了 ⟨את⟩ 你們，把你們從埃及的鐵爐領出來，要你們作他產業的子民，像今天這樣。",
   "tokens": [
     {
       "surface": "ואתכם",
-      "gloss": "至於⟨את⟩你們"
+      "gloss": "⟨את⟩ 你們",
+      "marks": "取了的對象：你們"
     },
     {
       "surface": "לקח",
@@ -46,7 +26,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩你們"
+      "gloss": "⟨את⟩ 你們",
+      "marks": "被領出的對象：你們"
     },
     {
       "surface": "מכור",
@@ -66,11 +47,11 @@
     },
     {
       "surface": "לו",
-      "gloss": "作祂的"
+      "gloss": "歸他"
     },
     {
       "surface": "לעם",
-      "gloss": "民"
+      "gloss": "子民"
     },
     {
       "surface": "נחלה",
@@ -78,13 +59,13 @@
     },
     {
       "surface": "כיום",
-      "gloss": "正如今日"
+      "gloss": "像今天"
     },
     {
       "surface": "הזה",
-      "gloss": "一樣"
+      "gloss": "這"
     }
   ],
-  "timestamp": "2026-10-16T05:30:25.858303964Z",
+  "timestamp": "2026-10-16T22:15:29.521452353Z",
   "model": "glm-5.3"
 }

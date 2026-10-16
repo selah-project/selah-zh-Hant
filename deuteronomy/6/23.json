@@ -5,37 +5,16 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "祂",
-      "rationale": "希伯來文動詞 נשבע 未標主語，中文需補「祂」指雅威"
-    },
-    {
-      "kind": "addition",
-      "subject": "應許⟨的那地⟩",
-      "rationale": "希伯來文無「應許」一詞，起誓即含應許之意；關係子句結構以括號補足"
-    }
-  ],
-  "translation": "他把我們從那裡領出來，為要領我們進去，把祂向我們列祖起誓應許⟨的那地⟩賜給我們。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ce9b49351a73e9bdeef410d886571be476648e183811742638424001e4b5364c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/6\/21-24.1792128576048.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他領我們從那裡出來，為要領我們進去，把⟨את⟩他向我們列祖起誓應許的那地賜給我們。",
   "tokens": [
     {
       "surface": "ואותנו",
       "gloss": "⟨את⟩我們",
-      "marks": "我們"
+      "marks": " הוציא 所指的我們"
     },
     {
       "surface": "הוציא",
-      "gloss": "他領出來"
+      "gloss": "領…出來"
     },
     {
       "surface": "משם",
@@ -47,12 +26,12 @@
     },
     {
       "surface": "הביא",
-      "gloss": "領……進去"
+      "gloss": "領…進去"
     },
     {
       "surface": "אתנו",
       "gloss": "⟨את⟩我們",
-      "marks": "我們"
+      "marks": " הביא 所指的我們"
     },
     {
       "surface": "לתת",
@@ -65,7 +44,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那地"
+      "marks": "那地（הארץ）"
     },
     {
       "surface": "הארץ",
@@ -73,17 +52,17 @@
     },
     {
       "surface": "אשר",
-      "gloss": "……的"
+      "gloss": "…的"
     },
     {
       "surface": "נשבע",
-      "gloss": "祂起誓"
+      "gloss": "起誓"
     },
     {
       "surface": "לאבתינו",
       "gloss": "向我們列祖"
     }
   ],
-  "timestamp": "2026-10-16T05:29:36.049638204Z",
+  "timestamp": "2026-10-16T22:16:00.832049497Z",
   "model": "glm-5.3"
 }

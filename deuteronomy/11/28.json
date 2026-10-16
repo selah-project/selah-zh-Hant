@@ -5,36 +5,15 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "在於",
-      "rationale": "中文需要繫詞性連接，希伯來文僅以冠詞名詞並列"
-    },
-    {
-      "kind": "substitution",
-      "subject": "別以羅欣（別神明）",
-      "rationale": "אלהים אחרים 指異教諸神，依紀律用「神明」義，非聖名位置"
-    }
-  ],
-  "translation": "咒詛則在於：你們若不聽從雅威你們以羅欣的誡命，偏離我今日吩咐你們所當行的道路，去隨從你們所不認識的別以羅欣（別神明）。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a580d3b918aab859bea1fbb8c5d74578c1f424889aa8aa38792c920dfdb8e3e4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/11\/25-28.1792128696345.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "還有咒詛，如果你們不聽從雅威你們的以羅欣的誡命，偏離我今日吩咐 ⟨את⟩ 你們所當行的道路，去隨從你們所不認識別的神明，",
   "tokens": [
     {
       "surface": "והקללה",
-      "gloss": "咒詛則"
+      "gloss": "還有咒詛"
     },
     {
       "surface": "אם",
-      "gloss": "若"
+      "gloss": "如果"
     },
     {
       "surface": "לא",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "歸向"
+      "gloss": "向"
     },
     {
       "surface": "מצות",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "所"
     },
     {
       "surface": "אנכי",
@@ -82,11 +61,12 @@
     },
     {
       "surface": "מצוה",
-      "gloss": "所吩咐的"
+      "gloss": "吩咐"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ 你們"
+      "gloss": "⟨את⟩",
+      "marks": "你們"
     },
     {
       "surface": "היום",
@@ -94,7 +74,7 @@
     },
     {
       "surface": "ללכת",
-      "gloss": "所當行的"
+      "gloss": "行"
     },
     {
       "surface": "אחרי",
@@ -102,7 +82,7 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "別以羅欣"
+      "gloss": "神明"
     },
     {
       "surface": "אחרים",
@@ -110,7 +90,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "所"
     },
     {
       "surface": "לא",
@@ -118,9 +98,9 @@
     },
     {
       "surface": "ידעתם",
-      "gloss": "你們所認識的"
+      "gloss": "你們認識"
     }
   ],
-  "timestamp": "2026-10-16T05:31:36.346384157Z",
+  "timestamp": "2026-10-16T22:12:55.399541770Z",
   "model": "glm-5.3"
 }

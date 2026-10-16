@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "成群的蒼蠅",
-      "rationale": "ערוב 字面為「混群之物」（源自湧聚之意），歷來譯作蒼蠅群、蠓蟲群或野獸群，此處採「成群的蒼蠅」。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "משלח／משליח",
-      "rationale": "「你不釋放／我必差遣」同一詞根重複，中文無法保留此對應。"
-    }
-  ],
-  "translation": "你若不釋放 ⟨את⟩ 我的百姓去，看哪，我必差遣成群的蒼蠅臨到你、你的臣僕、你的百姓和你的房屋；埃及人的房屋必滿了成群的蒼蠅，連他們所站立的那地也是如此。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b7743ad0c200aaa085e392890aed95b46aab89e7da8079d5d881605ae884aacf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/8\/17-20.1792125849074.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你若不差遣 ⟨את⟩ 我的百姓 ⟨去⟩，看哪，我必打發蠓蟲臨到你、你的臣僕、你的百姓和你的房屋；埃及人的房屋必滿了蠓蟲，連他們所站的地也是如此。",
   "tokens": [
     {
       "surface": "כי",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "〈若不〉"
+      "gloss": "若"
     },
     {
       "surface": "אינך",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "משלח",
-      "gloss": "釋放"
+      "gloss": "差遣"
     },
     {
       "surface": "את",
@@ -55,11 +34,11 @@
     },
     {
       "surface": "הנני",
-      "gloss": "看哪"
+      "gloss": "看哪，我"
     },
     {
       "surface": "משליח",
-      "gloss": "我必差遣"
+      "gloss": "必打發"
     },
     {
       "surface": "בך",
@@ -67,24 +46,24 @@
     },
     {
       "surface": "ובעבדיך",
-      "gloss": "和你的臣僕"
+      "gloss": "你的臣僕"
     },
     {
       "surface": "ובעמך",
-      "gloss": "和你的百姓"
+      "gloss": "你的百姓"
     },
     {
       "surface": "ובבתיך",
-      "gloss": "和你的房屋"
+      "gloss": "你的房屋"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "成群的蒼蠅"
+      "marks": "蠓蟲"
     },
     {
       "surface": "הערב",
-      "gloss": "成群的蒼蠅"
+      "gloss": "蠓蟲"
     },
     {
       "surface": "ומלאו",
@@ -96,16 +75,16 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "埃及人的"
+      "gloss": "埃及人"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "成群的蒼蠅"
+      "marks": "蠓蟲"
     },
     {
       "surface": "הערב",
-      "gloss": "成群的蒼蠅"
+      "gloss": "蠓蟲"
     },
     {
       "surface": "וגם",
@@ -113,11 +92,11 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "那地"
+      "gloss": "地"
     },
     {
       "surface": "אשר",
-      "gloss": "所……的"
+      "gloss": "所"
     },
     {
       "surface": "הם",
@@ -125,9 +104,9 @@
     },
     {
       "surface": "עליה",
-      "gloss": "站立在其上"
+      "gloss": "站……在其上"
     }
   ],
-  "timestamp": "2026-10-16T04:44:09.074941610Z",
+  "timestamp": "2026-10-16T22:21:41.670669493Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "אנכי",
-      "rationale": "希伯來文用強調式獨立代名詞「我」，中文以「我」承擔其強調"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "העליתי",
-      "rationale": "「領上來」回應出埃及傳統的動詞，中文難以保留其與「上去」的字面連結"
-    }
-  ],
-  "translation": "他對以色列人說：「雅威——以色列的以羅欣（神）如此說：『我領以色列上來出埃及，我拯救你們脫離埃及的手，脫離一切欺壓你們之國的手。』」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "d5ec33a9a6839b5059ac19d56d15f5c03e1287bc46a02153301d809893476b1e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/10\/17-20.1792130974712.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他對以色列人說：「雅威——以色列的以羅欣——如此說：『我領以色列上來出埃及，我拯救你們脫離埃及的手，脫離一切欺壓你們之國的手。』」",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "說"
+      "gloss": "他說"
     },
     {
       "surface": "אל",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "人"
+      "gloss": "…的子孫"
     },
     {
       "surface": "ישראל",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "以羅欣"
+      "gloss": "…的以羅欣"
     },
     {
       "surface": "ישראל",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "העליתי",
-      "gloss": "領上來"
+      "gloss": "領…上來"
     },
     {
       "surface": "את",
@@ -91,7 +70,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתם⟩你們"
+      "gloss": "⟨את⟩你們",
+      "marks": "你們"
     },
     {
       "surface": "מיד",
@@ -103,7 +83,7 @@
     },
     {
       "surface": "ומיד",
-      "gloss": "和…的手"
+      "gloss": "又脫離…的手"
     },
     {
       "surface": "כל",
@@ -115,13 +95,14 @@
     },
     {
       "surface": "הלחצים",
-      "gloss": "欺壓"
+      "gloss": "欺壓你們的"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתם⟩你們"
+      "gloss": "⟨את⟩你們",
+      "marks": "你們"
     }
   ],
-  "timestamp": "2026-10-16T06:09:34.713319678Z",
+  "timestamp": "2026-10-16T22:00:02.749787052Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "קשת",
-      "rationale": "「弓」可指武器的使用（和合本），也可指〈弓〉這首哀歌的標題（JPS、ASV 邊註）；原文僅一詞「弓」"
-    },
-    {
-      "kind": "measurement",
-      "subject": "正直者之書",
-      "rationale": "提及一份書寫的書卷《雅煞珥》，哀歌被記錄在其上"
-    }
-  ],
-  "translation": "他吩咐要教導猶大的眾子〈弓〉；看哪，這寫在正直者之書上。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "845876f381a87efc6f2700bd4bdf2403f0e678f7fb4045ee817a1158b244f83f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/1\/17-20.1792131655842.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "並吩咐要教導猶大的兒子們弓〈雅士珥書上所記的哀歌〉；看哪，它已寫在雅士珥書上。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "他吩咐"
+      "gloss": "並吩咐"
     },
     {
       "surface": "ללמד",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "的眾子"
+      "gloss": "的兒子們"
     },
     {
       "surface": "יהודה",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "קשת",
-      "gloss": "〈弓〉"
+      "gloss": "弓"
     },
     {
       "surface": "הנה",
@@ -54,21 +33,21 @@
     },
     {
       "surface": "כתובה",
-      "gloss": "這寫"
+      "gloss": "已寫"
     },
     {
       "surface": "על",
-      "gloss": "在"
+      "gloss": "在……上"
     },
     {
       "surface": "ספר",
-      "gloss": "…之書"
+      "gloss": "書"
     },
     {
       "surface": "הישר",
-      "gloss": "正直者"
+      "gloss": "雅士珥"
     }
   ],
-  "timestamp": "2026-10-16T06:20:55.843596782Z",
+  "timestamp": "2026-10-16T22:08:17.583860561Z",
   "model": "glm-5.3"
 }

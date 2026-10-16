@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "以色列",
-      "rationale": "第二人稱單數直接向以色列說話"
-    },
-    {
-      "kind": "substitution",
-      "subject": "管教",
-      "rationale": "ליסר兼有管教與教導之義，此處取管教"
-    }
-  ],
-  "translation": "他從天上使你聽見他的聲音，為要管教你；又在地上使你看見他的大火，你就從火中聽見了他的話。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "cfdeedfa4b2e5dc6cdec02ecb1a8524350bf5a06077d20111b4287955c9943dd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/4\/33-36.1792128626058.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "祂從天上使你聽見 ⟨את⟩ 祂的聲音，為要管教你；又在地上使你看見 ⟨את⟩ 祂的大火，你就從火中聽見了祂的話。",
   "tokens": [
     {
       "surface": "מן",
@@ -43,19 +22,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他的聲音"
+      "marks": "祂的聲音"
     },
     {
       "surface": "קלו",
-      "gloss": "他的聲音"
+      "gloss": "祂的聲音"
     },
     {
       "surface": "ליסרך",
       "gloss": "為要管教你"
     },
     {
-      "surface": "ועל",
-      "gloss": "又在"
+      "surface": "וְעַל",
+      "gloss": "又在……上"
     },
     {
       "surface": "הארץ",
@@ -68,19 +47,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他的火"
+      "marks": "祂的大火"
     },
     {
       "surface": "אשו",
-      "gloss": "他的火"
+      "gloss": "祂的火"
     },
     {
       "surface": "הגדולה",
-      "gloss": "大火"
+      "gloss": "大的"
     },
     {
       "surface": "ודבריו",
-      "gloss": "和他的話"
+      "gloss": "而祂的話"
     },
     {
       "surface": "שמעת",
@@ -95,6 +74,6 @@
       "gloss": "火"
     }
   ],
-  "timestamp": "2026-10-16T05:30:26.059873821Z",
+  "timestamp": "2026-10-16T22:15:51.473881123Z",
   "model": "glm-5.3"
 }

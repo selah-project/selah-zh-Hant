@@ -5,27 +5,11 @@
   "book": "isaiah",
   "lang": "zh-Hant",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "是",
-      "rationale": "希伯來文無繫動詞，中文需補「是」"
-    }
-  ],
-  "translation": "他們就靜默不言，沒有回答他一句話，因為王的命令是：「不要回答他。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ca36c4a236b330a95c6fef8a7cb197cade9895cc3c991b9e4c96374a235022ef",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/36\/21-22.1792135238555.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們靜默不言，沒有回答他一句話，因為王的命令是說：「不要回答他。」",
   "tokens": [
     {
       "surface": "ויחרישו",
-      "gloss": "他們就靜默不言"
+      "gloss": "靜默不言"
     },
     {
       "surface": "ולא",
@@ -38,7 +22,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "他（一句話）"
+      "marks": "一句話（דבר）"
     },
     {
       "surface": "דבר",
@@ -66,13 +50,13 @@
     },
     {
       "surface": "לא",
-      "gloss": "不要"
+      "gloss": "不"
     },
     {
       "surface": "תענהו",
-      "gloss": "回答他"
+      "gloss": "要回答他"
     }
   ],
-  "timestamp": "2026-10-16T07:20:38.555904272Z",
+  "timestamp": "2026-10-16T22:34:29.727487434Z",
   "model": "glm-5.3"
 }

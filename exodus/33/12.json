@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "對雅威",
-      "rationale": "摩西直接向雅威發言，全節為第二人稱禱告式陳詞"
-    },
-    {
-      "kind": "crux",
-      "subject": "בעיני 的歸屬",
-      "rationale": "結尾「在我眼前」按希伯來文法是雅威說的話：『你在我眼前蒙恩』；多數英譯（KJV『in my sight』）同此，但讀者易誤作摩西在雅威眼前蒙恩的敘述，實為引語延續"
-    },
-    {
-      "kind": "idiom",
-      "subject": "蒙恩",
-      "rationale": "מצאת חן בעיני 直譯「在……眼中找到恩」，即「蒙恩」，中文以成語對應"
-    }
-  ],
-  "translation": "摩西對雅威說：「看哪，你對我說：『把這百姓帶上去』，你卻沒有讓我知道你要差誰與我同去。然而你曾說：『我按著名字認識你，你也在我眼前蒙了恩。』」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "85cbddf449aa78c5af5482a86b2200eec2a0c4010073ca9bf21eef93c97f075c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/33\/9-12.1792126504100.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "摩西對雅威說：「看哪，你對我說：『把 ⟨את⟩ 這百姓帶上去』，你卻沒有讓我知道 ⟨את⟩ 你要差誰與我同去。你也曾說：『我按名認識你，你也在我眼中蒙了恩。』」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "百姓"
+      "gloss": "這百姓"
     },
     {
       "surface": "הזה",
@@ -84,11 +58,11 @@
     },
     {
       "surface": "ואתה",
-      "gloss": "你"
+      "gloss": "你卻"
     },
     {
       "surface": "לא",
-      "gloss": "不"
+      "gloss": "沒有"
     },
     {
       "surface": "הודעתני",
@@ -101,7 +75,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "⟨所⟩"
     },
     {
       "surface": "תשלח",
@@ -113,7 +87,7 @@
     },
     {
       "surface": "ואתה",
-      "gloss": "你"
+      "gloss": "你也"
     },
     {
       "surface": "אמרת",
@@ -121,11 +95,11 @@
     },
     {
       "surface": "ידעתיך",
-      "gloss": "認識你"
+      "gloss": "我認識你"
     },
     {
       "surface": "בשם",
-      "gloss": "按著名字"
+      "gloss": "按名"
     },
     {
       "surface": "וגם",
@@ -141,9 +115,9 @@
     },
     {
       "surface": "בעיני",
-      "gloss": "在我眼前"
+      "gloss": "在我眼中"
     }
   ],
-  "timestamp": "2026-10-16T04:55:04.102556273Z",
+  "timestamp": "2026-10-16T22:20:02.139698360Z",
   "model": "glm-5.3"
 }

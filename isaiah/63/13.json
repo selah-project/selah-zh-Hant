@@ -5,40 +5,23 @@
   "book": "isaiah",
   "lang": "zh-Hant",
   "chapter": 63,
-  "notes": [
-    {
-      "kind": "alternative",
-      "subject": "כסוס במדבר",
-      "rationale": "『如馬在曠野』修飾誰：傳統視馬為以色列的比喻（他們如馬不絆跌），亦有譯本視馬指雅威引路的方式。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מוליכם…בתהמות",
-      "rationale": "帶領走過深淵呼應出埃及過海；曠野中馬不絆跌的意象接續63:13的曠野傳統。"
-    }
-  ],
-  "translation": "帶領他們走過深淵，如馬行在曠野，使他們不致絆跌。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ef119106f566a78f94bec01c588c109635a08d0a0bb9667fd029b06ead5efac1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/63\/13-16.1792135842594.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他引領他們經過深淵，如同馬行在曠野，他們不致絆倒。",
   "tokens": [
     {
       "surface": "מוליכם",
-      "gloss": "帶領他們"
+      "gloss": "他引領他們"
     },
     {
       "surface": "בתהמות",
-      "gloss": "走過深淵"
+      "gloss": "經過深淵"
     },
     {
-      "surface": "סוס במדבר",
-      "gloss": "如馬行在曠野"
+      "surface": "סוס",
+      "gloss": "如同馬"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "行在曠野"
     },
     {
       "surface": "לא",
@@ -46,9 +29,9 @@
     },
     {
       "surface": "יכשלו",
-      "gloss": "絆跌"
+      "gloss": "致絆倒"
     }
   ],
-  "timestamp": "2026-10-16T07:30:42.594906017Z",
+  "timestamp": "2026-10-16T22:35:23.546422696Z",
   "model": "glm-5.3"
 }

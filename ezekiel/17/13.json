@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אלה",
-      "rationale": "באלה字面是「詛咒」，即以咒詛為擔保的起誓；「起誓」是把儀式行為譯出。"
-    },
-    {
-      "kind": "idiom",
-      "subject": "כרת ברית",
-      "rationale": "「切約」——原文動詞是「切」（cut a covenant），中文以「立約」呈現。"
-    }
-  ],
-  "translation": "他取了王室的一個後裔，與 ⟨את⟩ 他立約，帶他進入詛咒起誓，又把 ⟨את⟩ 這地的首領擄去了。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "98c3f92e4a1c2f0d6b2e28990b4282db1eaefde61a9c225cf59cd559b382f964",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/17\/13-16.1792138341546.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他從王室取了後裔，與他立約，使他進入咒詛〈之誓〉，又把地上的首領擄去。",
   "tokens": [
     {
       "surface": "ויקח",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "מזרע",
-      "gloss": "後裔"
+      "gloss": "從……後裔"
     },
     {
       "surface": "המלוכה",
@@ -46,8 +25,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "他"
+      "gloss": "⟨את⟩ 與他"
     },
     {
       "surface": "ברית",
@@ -55,21 +33,21 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "帶…進入"
+      "gloss": "使……進入"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "進入詛咒（起誓）"
+      "marks": "他"
     },
     {
       "surface": "באלה",
-      "gloss": "詛咒"
+      "gloss": "咒詛（之誓）"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "這地的首領"
+      "marks": "地上的首領"
     },
     {
       "surface": "אילי",
@@ -77,13 +55,13 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "這地"
+      "gloss": "地"
     },
     {
       "surface": "לקח",
       "gloss": "擄去"
     }
   ],
-  "timestamp": "2026-10-16T08:12:21.547251104Z",
+  "timestamp": "2026-10-16T22:22:20.114289405Z",
   "model": "glm-5.3"
 }

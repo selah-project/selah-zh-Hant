@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "תסף\/תגרע",
-      "rationale": "加添與刪減的對仗，申命記式的不加不減句法，與申 4:2 呼應。"
-    },
-    {
-      "kind": "you",
-      "subject": "以色列",
-      "rationale": "命令式直接對以色列會眾說話。"
-    }
-  ],
-  "translation": "⟨את⟩ 我所吩咐你們的這一切話，你們要謹守遵行；不可在其上加添，也不可從其中刪減。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "542fd8d0522e6009e64564577275be6afd7271017da2e841f66b82c3b01a45e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/13\/1-4.1792128855774.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我所吩咐 ⟨את⟩ 你們的這一切話，你們要謹守遵行；不可加添，也不可從中刪減。",
   "tokens": [
     {
       "surface": "את",
@@ -55,13 +34,13 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩你們",
       "marks": "你們"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "它（這一切話）"
+      "gloss": "⟨את⟩它",
+      "marks": "這一切話"
     },
     {
       "surface": "תשמרו",
@@ -93,9 +72,9 @@
     },
     {
       "surface": "ממנו",
-      "gloss": "從其中"
+      "gloss": "從它"
     }
   ],
-  "timestamp": "2026-10-16T05:34:15.775023379Z",
+  "timestamp": "2026-10-16T22:13:03.082853270Z",
   "model": "glm-5.3"
 }

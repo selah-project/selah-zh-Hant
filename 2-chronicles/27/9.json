@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "zh-Hant",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "與他祖先同睡",
-      "rationale": "「躺下（וישכב）與他祖先」是死亡的委婉語，直譯會誤導"
-    },
-    {
-      "kind": "substitution",
-      "subject": "接續他",
-      "rationale": "תחתיw 字面是「在他的下面／位置之下」，即「代替他」"
-    }
-  ],
-  "translation": "約坦與他祖先同睡，他們把他葬在〈אתו〉大衛城裡；他兒子亞哈斯接續他作王。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c0596e85389d731eb06d1b80e8db9d05356f14f270e8bf5c891aac288847f3b5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/27\/9-9.1792149527228.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "約坦與他列祖同睡，人們把他葬在大衛城；他兒子亞哈斯接續他作王。",
   "tokens": [
     {
       "surface": "וישכב",
-      "gloss": "與…同睡"
+      "gloss": "同睡"
     },
     {
       "surface": "יותם",
@@ -42,20 +21,20 @@
     },
     {
       "surface": "אבתיו",
-      "gloss": "他祖先"
+      "gloss": "他列祖"
     },
     {
       "surface": "ויקברו",
-      "gloss": "他們…葬"
+      "gloss": "葬了"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "他（約坦）"
+      "marks": "他"
     },
     {
       "surface": "בעיר",
-      "gloss": "在…城裡"
+      "gloss": "在…城"
     },
     {
       "surface": "דויד",
@@ -78,6 +57,6 @@
       "gloss": "接續他"
     }
   ],
-  "timestamp": "2026-10-16T11:18:47.228607563Z",
+  "timestamp": "2026-10-16T22:03:46.487973948Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "也…我…也…我",
-      "rationale": "אף אני…גם אני 的重複對仗：你們敵對，我也敵對；報應式平行結構"
-    }
-  ],
-  "translation": "那麼我也要以敵對行事對待你們，我也要因你們的罪擊打你們七次。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b027e0697860b710cfa37db8341b51a67e67796a6967c9f08e1b22ec3bb25349",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/26\/21-24.1792127420990.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "那麼，我也要以背逆之心與你們同行，我也要擊打 ⟨את⟩ 你們，因你們的罪，加重七倍。",
   "tokens": [
     {
       "surface": "והלכתי",
-      "gloss": "我也要行事"
+      "gloss": "我也…同行"
     },
     {
       "surface": "אף",
@@ -37,19 +21,20 @@
     },
     {
       "surface": "עמכם",
-      "gloss": "對待你們"
+      "gloss": "與你們"
     },
     {
       "surface": "בקרי",
-      "gloss": "以敵對"
+      "gloss": "以背逆之心"
     },
     {
       "surface": "והכיתי",
-      "gloss": "我要擊打"
+      "gloss": "我也要擊打"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ 你們"
+      "gloss": "⟨את⟩",
+      "marks": "你們"
     },
     {
       "surface": "גם",
@@ -61,7 +46,7 @@
     },
     {
       "surface": "שבע",
-      "gloss": "七次"
+      "gloss": "七倍"
     },
     {
       "surface": "על",
@@ -72,6 +57,6 @@
       "gloss": "你們的罪"
     }
   ],
-  "timestamp": "2026-10-16T05:10:20.992098882Z",
+  "timestamp": "2026-10-16T22:50:24.353626498Z",
   "model": "glm-5.3"
 }

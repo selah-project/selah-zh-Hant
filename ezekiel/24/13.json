@@ -5,40 +5,19 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "טהר\/טמא",
-      "rationale": "本節以 טהר（潔淨）與 טומאה（污穢）四次交錯堆疊，中文僅能以重複「潔淨／污穢」部分保留此呼應。"
-    },
-    {
-      "kind": "you",
-      "subject": "耶路撒冷",
-      "rationale": "全節以陰性單數「你」指控耶路撒冷城。"
-    }
-  ],
-  "translation": "在你的污穢中有邪惡的圖謀。我曾潔淨你，你卻不潔淨；你必不得再從你的污穢中得潔淨，直等我使我的烈怒在你身上止息。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "da5e3ba0baed6cbc153685757d660645c513409e262efef878e866d0db77a75f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/24\/13-16.1792138515045.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "在你污穢之中有淫邪的圖謀；因我潔淨了你，你卻不潔淨，你必不再得潔淨，脫離你的污穢，直到我使我的烈怒在你身上安息。",
   "tokens": [
     {
       "surface": "בטמאתך",
-      "gloss": "在你的污穢中"
+      "gloss": "在你的污穢之中"
     },
     {
       "surface": "זמה",
-      "gloss": "邪惡的圖謀"
+      "gloss": "淫邪的圖謀"
     },
     {
       "surface": "יען",
-      "gloss": "因為"
+      "gloss": "因"
     },
     {
       "surface": "טהרתיך",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "טהרת",
-      "gloss": "得潔淨"
+      "gloss": "潔淨"
     },
     {
       "surface": "מטמאתך",
-      "gloss": "從你的污穢"
+      "gloss": "脫離你的污穢"
     },
     {
       "surface": "לא",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "תטהרי",
-      "gloss": "你必得潔淨"
+      "gloss": "得潔淨"
     },
     {
       "surface": "עוד",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "הניחי",
-      "gloss": "我使……止息"
+      "gloss": "我使……安息"
     },
     {
       "surface": "את",
@@ -90,6 +69,6 @@
       "gloss": "在你身上"
     }
   ],
-  "timestamp": "2026-10-16T08:15:15.046460380Z",
+  "timestamp": "2026-10-16T22:23:24.634678127Z",
   "model": "glm-5.3"
 }

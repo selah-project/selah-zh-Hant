@@ -5,54 +5,38 @@
   "book": "psalms",
   "lang": "zh-Hant",
   "chapter": 101,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈內〉",
-      "rationale": "בקרב 為『在其中』，中文需補方位詞"
-    }
-  ],
-  "translation": "行詭詐的，不得住在我家〈內〉；說謊言的，不得立在我眼前。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "752dc5bdafb1c1ddfe14a1ce4d7bfa2679cce1bf0a40c35d771455eacfa97750",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/101\/5-8.1792144618030.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "行詭詐的必不住在我家中；說謊言的必不立在我眼前。",
   "tokens": [
     {
       "surface": "לא",
       "gloss": "不"
     },
     {
-      "surface": "ישב",
+      "surface": "יָשַׁב",
       "gloss": "住"
     },
     {
-      "surface": "בקרב",
-      "gloss": "在…之內"
+      "surface": "בְּקֶרֶב",
+      "gloss": "在……之中"
     },
     {
-      "surface": "ביתי",
-      "gloss": "我家"
+      "surface": "בֵּיתִי",
+      "gloss": "我的家"
     },
     {
-      "surface": "עשה",
+      "surface": "עֹשֵׂה",
       "gloss": "行"
     },
     {
-      "surface": "רמיה",
+      "surface": "רְמִיָּה",
       "gloss": "詭詐"
     },
     {
-      "surface": "דבר",
+      "surface": "דֹּבֵר",
       "gloss": "說"
     },
     {
-      "surface": "שקרים",
+      "surface": "שְׁקָרִים",
       "gloss": "謊言"
     },
     {
@@ -60,18 +44,18 @@
       "gloss": "不"
     },
     {
-      "surface": "יכון",
+      "surface": "יִכּוֹן",
       "gloss": "立"
     },
     {
-      "surface": "לנגד",
-      "gloss": "在…面前"
+      "surface": "לְנֶגֶד",
+      "gloss": "在……面前"
     },
     {
-      "surface": "עיני",
+      "surface": "עֵינָי",
       "gloss": "我的眼"
     }
   ],
-  "timestamp": "2026-10-16T09:56:58.031023886Z",
+  "timestamp": "2026-10-16T22:57:47.808981167Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "לבקר",
-      "rationale": "「銅壇必歸我作詢問之用」：לבקר 或解作「供我求問」，或解作「留到早晨」（參出 27:30 類似結構）"
-    },
-    {
-      "kind": "you",
-      "subject": "對烏利亞祭司",
-      "rationale": "王直接吩咐祭司的命令語"
-    }
-  ],
-  "translation": "亞哈斯王吩咐烏利亞祭司說：「在 ⟨את⟩ 大壇上，早晨的燔祭、晚間的素祭要燒香獻上，王的燔祭和他的素祭、地上眾民的燔祭、他們的素祭和他們的奠祭也要獻上；燔祭的一切血和祭牲的一切血你要彈在其上；至於銅壇，必歸我作詢問之用。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "1812f9dd04ccc20b3e38d7ae81d7c8b36d4a00a58cc66e38f5b5b4f86bb1ca56",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/16\/14-16.1792142483636.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "亞哈斯王吩咐⟨את⟩烏利亞祭司說：「在這大壇上燒早晨的燔祭和晚上的素祭，並⟨את⟩王的燔祭和⟨את⟩他的素祭，以及⟨את⟩全地之民一切的燔祭和他們的素祭與他們的奠祭；一切燔祭的血和一切祭牲的血，你都要彈在壇上。至於那銅壇，必歸我作察究之用。」",
   "tokens": [
     {
       "surface": "ויצוהו",
-      "gloss": "他吩咐他"
+      "gloss": "吩咐"
     },
     {
       "surface": "המלך",
@@ -67,11 +46,11 @@
     },
     {
       "surface": "הגדול",
-      "gloss": "大"
+      "gloss": "大的"
     },
     {
       "surface": "הקטר",
-      "gloss": "燒香獻上"
+      "gloss": "燒"
     },
     {
       "surface": "את",
@@ -89,7 +68,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "晚間的素祭"
+      "marks": "晚上的素祭"
     },
     {
       "surface": "מנחת",
@@ -97,7 +76,7 @@
     },
     {
       "surface": "הערב",
-      "gloss": "晚間"
+      "gloss": "晚上"
     },
     {
       "surface": "ואת",
@@ -110,7 +89,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "王"
+      "gloss": "王的"
     },
     {
       "surface": "ואת",
@@ -124,7 +103,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "眾民的燔祭"
+      "marks": "全地之民的燔祭"
     },
     {
       "surface": "עלת",
@@ -132,15 +111,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "一切"
+      "gloss": "一切的"
     },
     {
       "surface": "עם",
-      "gloss": "眾民"
+      "gloss": "民"
     },
     {
       "surface": "הארץ",
-      "gloss": "地的"
+      "gloss": "地"
     },
     {
       "surface": "ומנחתם",
@@ -152,7 +131,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "和一切"
+      "gloss": "並一切"
     },
     {
       "surface": "דם",
@@ -164,7 +143,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "和一切"
+      "gloss": "並一切"
     },
     {
       "surface": "דם",
@@ -184,11 +163,11 @@
     },
     {
       "surface": "ומזבח",
-      "gloss": "至於壇"
+      "gloss": "至於那壇"
     },
     {
       "surface": "הנחשת",
-      "gloss": "銅"
+      "gloss": "銅的"
     },
     {
       "surface": "יהיה",
@@ -200,9 +179,9 @@
     },
     {
       "surface": "לבקר",
-      "gloss": "作詢問之用"
+      "gloss": "作察究之用"
     }
   ],
-  "timestamp": "2026-10-16T09:21:23.638139264Z",
+  "timestamp": "2026-10-16T22:06:07.046329349Z",
   "model": "glm-5.3"
 }

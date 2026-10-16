@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "和",
-      "rationale": "中文以頓號與「和」連結三重「聲音」短語，希伯來文以排比並列無連接詞"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "קול…קול…קול",
-      "rationale": "三重「聲音」排比：車聲、馬聲、大軍之聲，製造恐慌的漸強節奏"
-    },
-    {
-      "kind": "secret",
-      "subject": "幻聲",
-      "rationale": "聲音的來源對亞蘭人隱藏——惟讀者知道這是阿多奈所為"
-    }
-  ],
-  "translation": "阿多奈使亞蘭人的營聽見 ⟨את⟩ 車聲、馬聲和大軍的聲音，他們就彼此說：「看哪，以色列王雇了赫人的諸王和埃及的諸王 ⟨את⟩ 來攻擊我們。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "66bb0eb6efa151f93d665b6e9dccb94fd85aeac346f71261276feee1aeab7444",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/7\/5-8.1792133683155.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "阿多奈使亞蘭的軍營聽見 ⟨את⟩ 車聲、馬聲和大軍的聲音，他們就彼此說：「看哪，以色列王雇了 ⟨את⟩ 赫人的諸王和 ⟨את⟩ 埃及的諸王，要來攻擊我們。」",
   "tokens": [
     {
       "surface": "ואדני",
@@ -44,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "亞蘭人的營"
+      "marks": "亞蘭的軍營"
     },
     {
       "surface": "מחנה",
-      "gloss": "營"
+      "gloss": "軍營"
     },
     {
       "surface": "ארם",
@@ -76,11 +50,11 @@
     },
     {
       "surface": "חיל",
-      "gloss": "軍隊"
+      "gloss": "大軍"
     },
     {
       "surface": "גדול",
-      "gloss": "大的"
+      "gloss": "大"
     },
     {
       "surface": "ויאמרו",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "他的弟兄"
+      "gloss": "自己的弟兄"
     },
     {
       "surface": "הנה",
@@ -146,13 +120,13 @@
     },
     {
       "surface": "לבוא",
-      "gloss": "來"
+      "gloss": "要來"
     },
     {
       "surface": "עלינו",
       "gloss": "攻擊我們"
     }
   ],
-  "timestamp": "2026-10-16T06:54:43.156214414Z",
+  "timestamp": "2026-10-16T22:08:37.382619442Z",
   "model": "glm-5.3"
 }

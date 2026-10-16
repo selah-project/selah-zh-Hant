@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אותה",
-      "rationale": "此处אוֹתָהּ实为代词「它」（指刀），非受词记号；按记号家族规则标为⟨את⟩并注明所指。"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "「他們就知道我是雅威」中的כי未被单独译出，融入确认识别句式。"
-    }
-  ],
-  "translation": "我必堅固巴比倫王的膀臂，法老的膀臂卻要垂落；他們就知道我是雅威——當我將我的刀放在巴比倫王手中，他就把⟨את⟩它伸向埃及地的時候。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "27caabe66ff6f2db3b6c6a3a09476166564ea7be195c6696e16d14dc3d70a7f8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/30\/25-26.1792138776170.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我必堅固巴比倫王的膀臂，法老的膀臂卻要下垂；他們便知道我是雅威，因我將我的刀放在巴比倫王手中，使他把 ⟨את⟩ 它揮向埃及地。",
   "tokens": [
     {
       "surface": "והחזקתי",
@@ -39,7 +18,7 @@
     },
     {
       "surface": "זרעות",
-      "gloss": "膀臂"
+      "gloss": "…的膀臂"
     },
     {
       "surface": "מלך",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "וזרעות",
-      "gloss": "膀臂"
+      "gloss": "而…的膀臂"
     },
     {
       "surface": "פרעה",
@@ -59,15 +38,15 @@
     },
     {
       "surface": "תפלנה",
-      "gloss": "卻要垂落"
+      "gloss": "卻要下垂"
     },
     {
       "surface": "וידעו",
-      "gloss": "他們就知道"
+      "gloss": "他們便知道"
     },
     {
       "surface": "כי",
-      "gloss": "——"
+      "gloss": "因"
     },
     {
       "surface": "אני",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "בתתי",
-      "gloss": "當我把……放"
+      "gloss": "當我將…放在"
     },
     {
       "surface": "חרבי",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "ביד",
-      "gloss": "在……手中"
+      "gloss": "在…手中"
     },
     {
       "surface": "מלך",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "ונטה",
-      "gloss": "他就伸出"
+      "gloss": "而他把…揮向"
     },
     {
       "surface": "אותה",
@@ -119,6 +98,6 @@
       "gloss": "埃及"
     }
   ],
-  "timestamp": "2026-10-16T08:19:36.171317479Z",
+  "timestamp": "2026-10-16T22:23:48.188284274Z",
   "model": "glm-5.3"
 }

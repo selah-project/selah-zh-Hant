@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אשה אל אחותה",
-      "rationale": "「一個向著她的姊妹」——希伯來文以親屬語言描述翅膀彼此相連，中文以「一隻向著另一隻」保留其意"
-    },
-    {
-      "kind": "addition",
-      "subject": "上方",
-      "rationale": "「遮蓋」的賓語在希伯來文中未言明（兩翅遮上、兩翅遮體），補〈上方〉以別於後句"
-    }
-  ],
-  "translation": "穹蒼以下，牠們的翅膀筆直，一隻向著另一隻；每個各有兩個翅膀遮蓋〈上方〉，每個各有兩個翅膀遮蓋⟨את⟩牠們的身體。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "2113cc0b1800adb97ffd86e2da9cf6a3e9a3d4eb2e85a2bb8993fd11e1ec0a9c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/1\/21-24.1792137836660.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "在穹蒼以下，⟨他們的⟩翅膀彼此筆直相對，一隻向著另一隻；每一個活物有兩個翅膀遮蓋⟨自己⟩，每一個也有兩個翅膀遮蓋⟨自己⟩，就是遮蓋 ⟨את⟩ 他們的身體。",
   "tokens": [
     {
       "surface": "ותחת",
-      "gloss": "在…以下"
+      "gloss": "在……以下"
     },
     {
       "surface": "הרקיע",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "כנפיהם",
-      "gloss": "牠們的翅膀"
+      "gloss": "他們的翅膀"
     },
     {
       "surface": "ישרות",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "לאיש",
-      "gloss": "每個"
+      "gloss": "每一個"
     },
     {
       "surface": "שתים",
@@ -70,11 +49,11 @@
     },
     {
       "surface": "להנה",
-      "gloss": "各有"
+      "gloss": "自己"
     },
     {
       "surface": "ולאיש",
-      "gloss": "每個"
+      "gloss": "每一個也"
     },
     {
       "surface": "שתים",
@@ -86,18 +65,18 @@
     },
     {
       "surface": "להנה",
-      "gloss": "各有"
+      "gloss": "自己"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "牠們的身體"
+      "marks": "他們的身體"
     },
     {
       "surface": "גויתיהם",
-      "gloss": "牠們的身體"
+      "gloss": "他們的身體"
     }
   ],
-  "timestamp": "2026-10-16T08:03:56.661105975Z",
+  "timestamp": "2026-10-16T22:21:55.844818971Z",
   "model": "glm-5.3"
 }

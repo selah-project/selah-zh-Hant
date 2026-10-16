@@ -5,32 +5,11 @@
   "book": "isaiah",
   "lang": "zh-Hant",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "他",
-      "rationale": "中文需補出代詞指明撒珥根所打發的他坦"
-    },
-    {
-      "kind": "hapax",
-      "subject": "תרתן 他坦",
-      "rationale": "亞述高級官銜「他坦」，經文以官名稱其人而不記其名"
-    }
-  ],
-  "translation": "亞述王撒珥根打發他坦去亞實突的那年，他坦來到亞實突，攻打亞實突，將城攻取。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "dee70f1b0a5d118d2e4945ec1812b963b48feee69148f82443a9aeb3d94a3d20",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/20\/1-4.1792134924434.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他珥探來到亞實突的那年——就是亞述王撒珥根打發⟨את⟩他去的時候——他攻打亞實突，將它攻取。",
   "tokens": [
     {
       "surface": "בשנת",
-      "gloss": "在……那年"
+      "gloss": "在……的那年"
     },
     {
       "surface": "בא",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "תרתן",
-      "gloss": "他坦"
+      "gloss": "他珥探"
     },
     {
       "surface": "אשדודה",
@@ -46,12 +25,12 @@
     },
     {
       "surface": "בשלח",
-      "gloss": "打發"
+      "gloss": "打發……的時候"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩他",
-      "marks": "撒珥根所打發的他坦"
+      "gloss": "⟨את⟩",
+      "marks": "他（撒珥根所打發的他珥探）"
     },
     {
       "surface": "סרגון",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "וילחם",
-      "gloss": "他就攻打"
+      "gloss": "他攻打"
     },
     {
       "surface": "באשדוד",
@@ -75,9 +54,9 @@
     },
     {
       "surface": "וילכדה",
-      "gloss": "將城攻取"
+      "gloss": "將它攻取"
     }
   ],
-  "timestamp": "2026-10-16T07:15:24.435280025Z",
+  "timestamp": "2026-10-16T22:34:09.408348379Z",
   "model": "glm-5.3"
 }

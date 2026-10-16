@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "עקב",
-      "rationale": "字面是「腳跟」，作連接副詞用為「因為」（盡……的結果），中文只能取其功能義"
-    },
-    {
-      "kind": "substitution",
-      "subject": "妥拉",
-      "rationale": "תורה 譯作「妥拉」（訓誨），不譯「律法」，以免帶入後來的對立框架"
-    }
-  ],
-  "translation": "因為亞伯拉罕聽從了我的聲音，遵守我的守職、我的誡命、我的律例和我的妥拉。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a9b5516e22a76ea7d63090255b3a608da741e8ed80e150d13c49b1059b8eacfb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/26\/5-8.1792125088149.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "因為亞伯拉罕聽從了我的聲音，謹守我的職守、我的誡命、我的律例和我的妥拉。」",
   "tokens": [
     {
       "surface": "עקב",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "⟨關係詞⟩"
     },
     {
       "surface": "שמע",
-      "gloss": "聽從了"
+      "gloss": "聽從"
     },
     {
       "surface": "אברהם",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "וישמר",
-      "gloss": "遵守"
+      "gloss": "謹守"
     },
     {
       "surface": "משמרתי",
-      "gloss": "我的守職"
+      "gloss": "我的職守"
     },
     {
       "surface": "מצותי",
@@ -66,9 +45,9 @@
     },
     {
       "surface": "ותורתי",
-      "gloss": "我的妥拉"
+      "gloss": "和我的妥拉"
     }
   ],
-  "timestamp": "2026-10-16T04:31:28.150266573Z",
+  "timestamp": "2026-10-16T22:28:29.878056180Z",
   "model": "glm-5.3"
 }

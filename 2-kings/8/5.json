@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "החיה",
-      "rationale": "「使活過來」一詞在本節出現三次，是敘事的鑰字，中文重複保留。"
-    },
-    {
-      "kind": "addition",
-      "subject": "是",
-      "rationale": "末句希伯來文無動詞「是」，中文判斷句需要。"
-    },
-    {
-      "kind": "elision",
-      "subject": "מיום",
-      "rationale": "無——此節無省略。"
-    }
-  ],
-  "translation": "正當他向王講述他如何使 ⟨את⟩ 死人復活時，看哪，那兒子被他救活的婦人，正為她的房屋和田地向王呼求。基哈西說：「我主我王，這就是那婦人，這是她的兒子，是以利沙救活的。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "08b43bbeda870827012506da5fbb7f7451d60caac9b3c0868b93a8ff0e656275",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/8\/5-8.1792133866339.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "正當他向王講述以利沙如何使 ⟨את⟩ 死人復活時，看哪，那曾使 ⟨את⟩ 她兒子復活的婦人，正為她的房屋和田地向王呼求。基哈西說：「我主我王，這就是那婦人，這就是她的兒子，就是以利沙使他復活的那位。」",
   "tokens": [
     {
       "surface": "ויהי",
@@ -52,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "所講述之事"
+      "marks": "以利沙如何使死人復活的事（אשר 從句）"
     },
     {
       "surface": "אשר",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "החיה",
-      "gloss": "使復活"
+      "gloss": "使……復活"
     },
     {
       "surface": "את",
@@ -81,24 +55,24 @@
     },
     {
       "surface": "אשר",
-      "gloss": "她的"
+      "gloss": "〈那〉"
     },
     {
       "surface": "החיה",
-      "gloss": "被救活"
+      "gloss": "使……復活"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "她的兒子"
+      "marks": "她兒子"
     },
     {
       "surface": "בנה",
-      "gloss": "兒子"
+      "gloss": "她兒子"
     },
     {
       "surface": "צעקת",
-      "gloss": "呼求"
+      "gloss": "正呼求"
     },
     {
       "surface": "אל",
@@ -122,7 +96,7 @@
     },
     {
       "surface": "שדה",
-      "gloss": "田地"
+      "gloss": "她的田地"
     },
     {
       "surface": "ויאמר",
@@ -142,7 +116,7 @@
     },
     {
       "surface": "זאת",
-      "gloss": "這"
+      "gloss": "這就是"
     },
     {
       "surface": "האשה",
@@ -150,7 +124,7 @@
     },
     {
       "surface": "וזה",
-      "gloss": "這是"
+      "gloss": "這就是"
     },
     {
       "surface": "בנה",
@@ -158,17 +132,17 @@
     },
     {
       "surface": "אשר",
-      "gloss": "是……所"
+      "gloss": "就是"
     },
     {
       "surface": "החיה",
-      "gloss": "救活"
+      "gloss": "使……復活"
     },
     {
       "surface": "אלישע",
       "gloss": "以利沙"
     }
   ],
-  "timestamp": "2026-10-16T06:57:46.340686817Z",
+  "timestamp": "2026-10-16T22:08:47.849377742Z",
   "model": "glm-5.3"
 }

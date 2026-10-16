@@ -5,40 +5,19 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "七天",
-      "rationale": "祭司按日數判定：可疑的災病要隔離七天再察看。"
-    },
-    {
-      "kind": "alternative",
-      "subject": "隔離",
-      "rationale": "והסגיר 字面是「關閉」，和合本作「關鎖」；此處譯「隔離」以表其功能。"
-    }
-  ],
-  "translation": "若在他肉的皮膚上有白斑，樣貌又不深過皮膚，其上的毛也沒有變白，祭司就要將那災病隔離七天。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "d6f8d4b0bce279f8b64953c5dcea75810fde501d35b9c37de9757e9003c2c7da",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/13\/1-4.1792126994918.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "但若斑點是皮肉皮膚上的白色亮斑，看來不比皮膚深，其毛也沒有變白，祭司就要將 ⟨את⟩ 患處封鎖七天。",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "若"
+      "gloss": "但若"
     },
     {
       "surface": "בהרת",
-      "gloss": "白斑"
+      "gloss": "亮斑"
     },
     {
       "surface": "לבנה",
-      "gloss": "白的"
+      "gloss": "白色的"
     },
     {
       "surface": "הוא",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "מראה",
-      "gloss": "樣貌"
+      "gloss": "看來"
     },
     {
       "surface": "מן",
-      "gloss": "過"
+      "gloss": "比"
     },
     {
       "surface": "העור",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "ושערה",
-      "gloss": "其上的毛"
+      "gloss": "其毛"
     },
     {
       "surface": "לא",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "הפך",
-      "gloss": "變"
+      "gloss": "變成"
     },
     {
       "surface": "לבן",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "והסגיר",
-      "gloss": "要隔離"
+      "gloss": "封鎖"
     },
     {
       "surface": "הכהן",
@@ -99,11 +78,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那災病"
+      "marks": "患處"
     },
     {
       "surface": "הנגע",
-      "gloss": "那災病"
+      "gloss": "患處"
     },
     {
       "surface": "שבעת",
@@ -114,6 +93,6 @@
       "gloss": "天"
     }
   ],
-  "timestamp": "2026-10-16T05:03:14.920042852Z",
+  "timestamp": "2026-10-16T22:49:00.894768129Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈損失〉",
-      "rationale": "原文僅說「它憑雇價而來」，中文補出所涵蓋的損失"
-    },
-    {
-      "kind": "idiom",
-      "subject": "בא בשכרו",
-      "rationale": "直譯「憑它的雇價而來」，意即損失已包含在租金內"
-    }
-  ],
-  "translation": "若牠的主人與牠同在，他就不必賠還；若是雇來的，〈損失〉就算在他的雇價之內。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "dbfb1c578c3168f2288e95847263f2e33eaea289897796e79e8ac31cea707c06",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/22\/13-16.1792126143622.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "若牠的主人與牠同在，他就不必賠償；若是雇來的，牠是以牠的雇價來的。",
   "tokens": [
     {
       "surface": "אם",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ישלם",
-      "gloss": "必賠還"
+      "gloss": "必賠償"
     },
     {
       "surface": "אם",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "是"
+      "gloss": "牠"
     },
     {
       "surface": "בא",
@@ -66,9 +45,9 @@
     },
     {
       "surface": "בשכרו",
-      "gloss": "在他的雇價之內"
+      "gloss": "以牠的雇價"
     }
   ],
-  "timestamp": "2026-10-16T04:49:03.623641355Z",
+  "timestamp": "2026-10-16T22:18:30.616154601Z",
   "model": "glm-5.3"
 }

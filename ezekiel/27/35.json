@@ -5,35 +5,23 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "רעמו פנים",
-      "rationale": "字面為「臉面雷鳴般翻騰」；ער\/רעם 或與「髮豎立」相關，諸譯本作「面容驚惶\/扭曲」。"
-    }
-  ],
-  "translation": "海島所有的居民都因你而驚駭，他們的君王都大大戰兢，面容因恐怖而扭曲。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "4aa4de6490ad417fc154b3dc7cb75e7219225fd168ea7086a92ca3ded150d5bd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/27\/33-36.1792138666511.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "眾海島的居民都因你而驚駭，他們的君王都大感恐懼，面容因驚恐而翻騰變色。",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "所有的"
+      "gloss": "眾"
     },
     {
-      "surface": "יושבי האיים",
-      "gloss": "海島的居民"
+      "surface": "ישבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "האיים",
+      "gloss": "海島的"
     },
     {
       "surface": "שממו",
-      "gloss": "都驚駭"
+      "gloss": "驚駭"
     },
     {
       "surface": "עליך",
@@ -44,18 +32,22 @@
       "gloss": "他們的君王"
     },
     {
-      "surface": "שערו שער",
-      "gloss": "都大大戰兢"
+      "surface": "שערו",
+      "gloss": "大感恐懼"
+    },
+    {
+      "surface": "שער",
+      "gloss": "驚恐"
     },
     {
       "surface": "רעמו",
-      "gloss": "（面容）扭曲"
+      "gloss": "翻騰"
     },
     {
       "surface": "פנים",
       "gloss": "面容"
     }
   ],
-  "timestamp": "2026-10-16T08:17:46.512234631Z",
+  "timestamp": "2026-10-16T22:23:25.371242699Z",
   "model": "glm-5.3"
 }

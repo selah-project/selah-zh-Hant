@@ -5,36 +5,15 @@
   "book": "judges",
   "lang": "zh-Hant",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "火…吞滅",
-      "rationale": "約坦的咒詛完全對稱：火出於亞比米勒吞滅示劍，火出於示劍吞滅亞比米勒——後文逐字應驗"
-    },
-    {
-      "kind": "crux",
-      "subject": "בית מלוא",
-      "rationale": "「米羅之家」：或指示劍的堡壘（填充的土木工事），或專有名詞「伯米羅」"
-    }
-  ],
-  "translation": "若不然，願火從亞比米勒出來，吞滅示劍的居民和米羅的家人；願火從示劍的居民和米羅的家人出來，吞滅亞比米勒。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b4703df232a0d226ce729144c38dfbc42a254080a7de0f1b53454b091be24b91",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/9\/17-20.1792130324467.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "若不然，願火從亞比米勒出來，吞滅⟨את⟩示劍的眾主人和⟨את⟩米羅的家；願火從示劍的眾主人和米羅的家出來，吞滅⟨את⟩亞比米勒。」",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "若"
+      "gloss": "若不然"
     },
     {
       "surface": "אין",
-      "gloss": "不然"
+      "gloss": "不是"
     },
     {
       "surface": "תצא",
@@ -55,11 +34,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "示劍的居民"
+      "marks": "示劍的眾主人"
     },
     {
       "surface": "בעלי",
-      "gloss": "居民"
+      "gloss": "眾主人"
     },
     {
       "surface": "שכם",
@@ -68,11 +47,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "米羅的家人"
+      "marks": "米羅的家"
     },
     {
       "surface": "בית",
-      "gloss": "家人"
+      "gloss": "家"
     },
     {
       "surface": "מלוא",
@@ -88,7 +67,7 @@
     },
     {
       "surface": "מבעלי",
-      "gloss": "從…居民"
+      "gloss": "從示劍的眾主人"
     },
     {
       "surface": "שכם",
@@ -96,7 +75,7 @@
     },
     {
       "surface": "ומבית",
-      "gloss": "和從…家人"
+      "gloss": "從米羅的家"
     },
     {
       "surface": "מלוא",
@@ -116,6 +95,6 @@
       "gloss": "亞比米勒"
     }
   ],
-  "timestamp": "2026-10-16T05:58:44.468981254Z",
+  "timestamp": "2026-10-16T22:47:53.726649743Z",
   "model": "glm-5.3"
 }

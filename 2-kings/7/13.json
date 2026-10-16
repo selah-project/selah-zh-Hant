@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "נשארים\/נשארו",
-      "rationale": "「剩下」一詞在句中三次重複，與「滅絕」（תמו）形成對照，中文保留重複。"
-    },
-    {
-      "kind": "addition",
-      "subject": "〈人〉",
-      "rationale": "原文「我們打發」未指明受詞，中文補「人」。"
-    },
-    {
-      "kind": "you",
-      "subject": "王",
-      "rationale": "僕人直接向王進言，建議打發人去查看。"
-    }
-  ],
-  "translation": "他的一個僕人回答說：「請讓人取城裡所剩、留在城中的那五匹馬——看哪，牠們如同以色列群眾中留在城裡的一樣；看哪，牠們如同以色列群眾中已經滅絕的一樣——我們打發〈人〉去看看。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "0650925f038af21d69307956d1da21e9ca7bb89c309b72b226877c6f7de52592",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/7\/13-16.1792133777188.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他僕人中有一位回答說：「請讓他們取五匹城中剩下、留存的馬——看哪，牠們如同城中所剩以色列全會眾一樣；看哪，牠們如同已滅絕之以色列全會眾一樣——我們就打發人去看看。」",
   "tokens": [
     {
       "surface": "ויען",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "אחד",
-      "gloss": "一個"
+      "gloss": "一位"
     },
     {
       "surface": "מעבדיו",
-      "gloss": "他的僕人"
+      "gloss": "他僕人中"
     },
     {
       "surface": "ויאמר",
@@ -67,11 +41,11 @@
     },
     {
       "surface": "הסוסים",
-      "gloss": "匹馬"
+      "gloss": "馬"
     },
     {
       "surface": "הנשארים",
-      "gloss": "所剩的"
+      "gloss": "剩下的"
     },
     {
       "surface": "אשר",
@@ -79,11 +53,11 @@
     },
     {
       "surface": "נשארו",
-      "gloss": "留在"
+      "gloss": "留存"
     },
     {
       "surface": "בה",
-      "gloss": "在其中"
+      "gloss": "在城中"
     },
     {
       "surface": "הנם",
@@ -91,11 +65,11 @@
     },
     {
       "surface": "ככל",
-      "gloss": "如同全部"
+      "gloss": "如同……全部"
     },
     {
       "surface": "ההמון",
-      "gloss": "群眾"
+      "gloss": "會眾"
     },
     {
       "surface": "ישראל",
@@ -107,7 +81,7 @@
     },
     {
       "surface": "נשארו",
-      "gloss": "留在"
+      "gloss": "所剩"
     },
     {
       "surface": "בה",
@@ -119,11 +93,11 @@
     },
     {
       "surface": "ככל",
-      "gloss": "如同全部"
+      "gloss": "如同……全部"
     },
     {
       "surface": "המון",
-      "gloss": "群眾"
+      "gloss": "會眾"
     },
     {
       "surface": "ישראל",
@@ -135,17 +109,17 @@
     },
     {
       "surface": "תמו",
-      "gloss": "已經滅絕"
+      "gloss": "已滅絕"
     },
     {
       "surface": "ונשלחה",
-      "gloss": "我們打發"
+      "gloss": "我們就打發人"
     },
     {
       "surface": "ונראה",
       "gloss": "去看看"
     }
   ],
-  "timestamp": "2026-10-16T06:56:17.189449888Z",
+  "timestamp": "2026-10-16T22:08:43.386745168Z",
   "model": "glm-5.3"
 }

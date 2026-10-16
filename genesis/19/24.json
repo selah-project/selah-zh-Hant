@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "雅威……從雅威",
-      "rationale": "同一名字兩次出現，直譯保留其重複；歷代譯者或調整語序以淡化此重複"
-    },
-    {
-      "kind": "substitution",
-      "subject": "降下",
-      "rationale": "המטיר 是「使下雨」的使役動詞，中文以「降下（如雨）」保留其降雨意象"
-    }
-  ],
-  "translation": "雅威在所多瑪和蛾摩拉之上降下硫磺與火，是從雅威那裡、從天上〈את〉降下的。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "0a31fe20f198e93a3a6c52f7a4e1ca54da812d62f46dab9f884816cec029b41b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/19\/22-24.1792142351212.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威在所多瑪和蛾摩拉之上降下硫磺與火，是從雅威那裡、從天上降下的。",
   "tokens": [
     {
       "surface": "ויהוה",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "המטיר",
-      "gloss": "降下（如雨）"
+      "gloss": "降下（使如雨落下）"
     },
     {
       "surface": "על",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ועל",
-      "gloss": "和"
+      "gloss": "和在……之上"
     },
     {
       "surface": "עמרה",
@@ -62,8 +41,8 @@
     },
     {
       "surface": "מאת",
-      "gloss": "〈את〉",
-      "marks": "從雅威那裡"
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
     },
     {
       "surface": "יהוה",
@@ -75,9 +54,9 @@
     },
     {
       "surface": "השמים",
-      "gloss": "天上"
+      "gloss": "天上（諸天）"
     }
   ],
-  "timestamp": "2026-10-16T09:19:11.214261850Z",
+  "timestamp": "2026-10-16T22:27:40.955841008Z",
   "model": "glm-5.3"
 }

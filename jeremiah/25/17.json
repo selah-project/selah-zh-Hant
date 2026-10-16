@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "zh-Hant",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "這",
-      "rationale": "הכוס 有定冠詞，中文以「這杯」表出"
-    },
-    {
-      "kind": "you",
-      "subject": "耶利米",
-      "rationale": "敘述中先知第一人稱行動的延續"
-    }
-  ],
-  "translation": "我就從雅威手中拿了 ⟨את⟩ 這杯，使雅威所差我到他們那裡去的萬族都喝了：",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "f3a9fcef836d75bc2d75865396c7c1eae38b7f6ec38af79349c5a189cffd016d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/25\/17-20.1792136869540.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我就從雅威手中接過 ⟨את⟩ 這杯，使雅威差我到他們那裡去的萬國都喝了 ⟨את⟩ ⟨這杯⟩。",
   "tokens": [
     {
       "surface": "ואקח",
-      "gloss": "我就拿了"
+      "gloss": "我就接過"
     },
     {
       "surface": "את",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "מיד",
-      "gloss": "從…手中"
+      "gloss": "從……手中"
     },
     {
       "surface": "יהוה",
@@ -51,24 +30,24 @@
     },
     {
       "surface": "ואשקה",
-      "gloss": "使…喝"
+      "gloss": "使……喝了"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "萬族"
+      "marks": "萬國"
     },
     {
       "surface": "כל",
-      "gloss": "所有"
+      "gloss": "所有的"
     },
     {
       "surface": "הגוים",
-      "gloss": "萬族"
+      "gloss": "萬國"
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "……的"
     },
     {
       "surface": "שלחני",
@@ -83,6 +62,6 @@
       "gloss": "到他們那裡去"
     }
   ],
-  "timestamp": "2026-10-16T07:47:49.541119771Z",
+  "timestamp": "2026-10-16T22:37:34.215797449Z",
   "model": "glm-5.3"
 }

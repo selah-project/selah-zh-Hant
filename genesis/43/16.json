@@ -5,38 +5,7 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 43,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אתם／אתי",
-      "rationale": "此二處是 H854 前置詞「與……同」，非受詞記號 את，譯作「與他們同在／與我」"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "וטבח טבח",
-      "rationale": "動詞與名詞同根連用「宰殺牲畜」——原文「宰一宰」的不定絕對結構"
-    },
-    {
-      "kind": "hapax",
-      "subject": "צהרים 雙數",
-      "rationale": "「正午」原為雙數形「雙光」，字面形狀在譯文中未顯"
-    },
-    {
-      "kind": "you",
-      "subject": "約瑟對家宰",
-      "rationale": "命令式直接向管家發話"
-    }
-  ],
-  "translation": "約瑟看見他們與便雅憫同在，就對那管理他家的人說：「把 ⟨את⟩ 這些人帶進屋裡，宰殺牲畜，預備妥當，因為這些人要在中午與我一同吃飯。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "f3cf59480239a9db7dc154829027e9fffeebfd17fc1de920ea78a0b0a93e9c95",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/43\/13-16.1792125549834.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "約瑟看見他們 ⟨את⟩ 便雅憫與他們同在，就對那管理他家的人說：「把這些人帶進屋裡，宰殺牲畜並預備妥當，因為這些人必與我 ⟨את⟩ 同席吃飯，在正午。」",
   "tokens": [
     {
       "surface": "וירא",
@@ -48,7 +17,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ 與他們同在"
+      "gloss": "⟨את⟩ 他們"
     },
     {
       "surface": "את",
@@ -61,7 +30,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "說"
+      "gloss": "就說"
     },
     {
       "surface": "לאשר",
@@ -69,7 +38,7 @@
     },
     {
       "surface": "על",
-      "gloss": "管理"
+      "gloss": "管理（在……之上）"
     },
     {
       "surface": "ביתו",
@@ -77,7 +46,7 @@
     },
     {
       "surface": "הבא",
-      "gloss": "帶進"
+      "gloss": "帶進來"
     },
     {
       "surface": "את",
@@ -90,7 +59,7 @@
     },
     {
       "surface": "הביתה",
-      "gloss": "到屋裡"
+      "gloss": "進屋裡"
     },
     {
       "surface": "וטבח",
@@ -98,11 +67,11 @@
     },
     {
       "surface": "טבח",
-      "gloss": "牲畜"
+      "gloss": "牲畜（屠宰之物）"
     },
     {
       "surface": "והכן",
-      "gloss": "預備妥當"
+      "gloss": "並預備妥當"
     },
     {
       "surface": "כי",
@@ -122,9 +91,9 @@
     },
     {
       "surface": "בצהרים",
-      "gloss": "在中午"
+      "gloss": "在正午"
     }
   ],
-  "timestamp": "2026-10-16T04:39:09.835514249Z",
+  "timestamp": "2026-10-16T22:31:10.410733916Z",
   "model": "glm-5.3"
 }

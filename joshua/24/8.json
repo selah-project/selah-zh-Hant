@@ -5,40 +5,20 @@
   "book": "joshua",
   "lang": "zh-Hant",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "與你們爭戰",
-      "rationale": "וילחמו אתכם 中的 את（H854）是介詞「對抗」，非受詞記號，但家族記號仍保留"
-    },
-    {
-      "kind": "you",
-      "subject": "對以色列",
-      "rationale": "延續直接稱呼「你們」，神的演說繼續向聽眾說話"
-    }
-  ],
-  "translation": "我領 ⟨את⟩ 你們到亞摩利人的地，就是住在約旦河對岸的那位；他們與你們爭戰，我把他們交在你們手中，你們就得了他們的地為業，我又從你們面前除滅他們。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "cffd34a95ac2e4f8908f22c7ec63b5b4240f72d2697b5198d9be01b35a11d94e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/24\/5-8.1792130038779.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我領 ⟨את⟩ 你們進入亞摩利人的地，就是住在約旦河對岸的那位；他們與你們交戰，我把他們交在你們手中，你們就得了 ⟨את⟩ 他們的地為業，我又從你們面前除滅他們。",
   "tokens": [
     {
       "surface": "ואבאה",
-      "gloss": "我領…進來"
+      "gloss": "我領"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩你們"
+      "gloss": "⟨את⟩你們",
+      "marks": "你們"
     },
     {
       "surface": "אל",
-      "gloss": "到"
+      "gloss": "進入"
     },
     {
       "surface": "ארץ",
@@ -46,15 +26,15 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "亞摩利人的"
+      "gloss": "亞摩利人"
     },
     {
       "surface": "היושב",
-      "gloss": "住在…的那位"
+      "gloss": "住在……的"
     },
     {
       "surface": "בעבר",
-      "gloss": "在對岸"
+      "gloss": "對岸"
     },
     {
       "surface": "הירדן",
@@ -62,27 +42,28 @@
     },
     {
       "surface": "וילחמו",
-      "gloss": "他們爭戰"
+      "gloss": "他們交戰"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩對抗你們"
+      "gloss": "⟨את⟩ 與你們"
     },
     {
       "surface": "ואתן",
-      "gloss": "我把…交在"
+      "gloss": "我給"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩他們"
+      "gloss": "⟨את⟩他們",
+      "marks": "他們"
     },
     {
       "surface": "בידכם",
       "gloss": "在你們手中"
     },
     {
-      "surface": "ויתירשו",
-      "gloss": "你們得了…為業"
+      "surface": "ותירשו",
+      "gloss": "你們得了……為業"
     },
     {
       "surface": "את",
@@ -102,6 +83,6 @@
       "gloss": "從你們面前"
     }
   ],
-  "timestamp": "2026-10-16T05:53:58.781301746Z",
+  "timestamp": "2026-10-16T22:44:46.782956254Z",
   "model": "glm-5.3"
 }

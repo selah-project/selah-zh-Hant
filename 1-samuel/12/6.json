@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "עשה",
-      "rationale": "直譯「造了／行了」；欽定本作「擢升」，其他譯本作「設立」「差派」"
-    },
-    {
-      "kind": "addition",
-      "subject": "的那位",
-      "rationale": "希伯來文名詞句以雅威開頭，中文關係子句需補中心語"
-    }
-  ],
-  "translation": "撒母耳對百姓說：「雅威——他造就了 ⟨את⟩ 摩西和 ⟨את⟩ 亞倫，又把你們的祖先從埃及地領上來的那位。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ae5a6273aa88dc06720e31d00de57f6e449c243a088c53bd17b45b22adb3b622",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/12\/5-8.1792131019404.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "撒母耳對百姓說：「雅威曾為摩西行奇事、曾興起亞倫，他曾領你們的祖先從埃及地上來的那位雅威——就是他。」",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "他說"
+      "gloss": "說"
     },
     {
       "surface": "שמואל",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "那位"
+      "gloss": "他曾"
     },
     {
       "surface": "עשה",
-      "gloss": "他造就了"
+      "gloss": "為…行奇事"
     },
     {
       "surface": "את",
@@ -76,11 +55,11 @@
     },
     {
       "surface": "ואשר",
-      "gloss": "又那位"
+      "gloss": "他曾"
     },
     {
       "surface": "העלה",
-      "gloss": "他領上來"
+      "gloss": "使…上來"
     },
     {
       "surface": "את",
@@ -93,13 +72,13 @@
     },
     {
       "surface": "מארץ",
-      "gloss": "從……地"
+      "gloss": "從…地"
     },
     {
       "surface": "מצרים",
       "gloss": "埃及"
     }
   ],
-  "timestamp": "2026-10-16T06:10:19.405788159Z",
+  "timestamp": "2026-10-16T22:00:00.614608960Z",
   "model": "glm-5.3"
 }

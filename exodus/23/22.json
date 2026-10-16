@@ -5,40 +5,19 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שמע תשמע",
-      "rationale": "不定詞絕對加限定動詞的強調結構，譯作「實在聽從」"
-    },
-    {
-      "kind": "idiom",
-      "subject": "ואיבתי…וצרתי",
-      "rationale": "「我敵對你的敵人、敵對你的仇敵」——希伯來同根詞相扣（איביך／צרריך），中文以「為敵／為仇」對應"
-    }
-  ],
-  "translation": "你若實在聽從他的聲音，行我所說的一切話，我就必與你的敵人為敵，與你的仇敵為仇。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "0e279b83c6bba92dabf686a74c77df624b4a62719e10b96c4cbead53d34d7d28",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/23\/21-24.1792126161852.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "只要你實在聽從他的聲音，行我所說的一切話，我就與你的仇敵為敵，與你的對頭作對——我必敵對 ⟨את⟩ 你的仇敵，壓迫 ⟨את⟩ 你的壓迫者。",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "若"
+      "gloss": "只要"
     },
     {
       "surface": "אם",
-      "gloss": "實在"
+      "gloss": "若"
     },
     {
       "surface": "שמע",
-      "gloss": "實在"
+      "gloss": "實在聽從"
     },
     {
       "surface": "תשמע",
@@ -62,24 +41,11 @@
     },
     {
       "surface": "אדבר",
-      "gloss": "我……說"
+      "gloss": "我說的話"
     },
     {
       "surface": "ואיבתי",
-      "gloss": "我就必……為敵"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "你的敵人"
-    },
-    {
-      "surface": "איביך",
-      "gloss": "你的敵人"
-    },
-    {
-      "surface": "וצרתי",
-      "gloss": "與……為仇"
+      "gloss": "我就敵對"
     },
     {
       "surface": "את",
@@ -87,10 +53,23 @@
       "marks": "你的仇敵"
     },
     {
-      "surface": "צרריך",
+      "surface": "איביך",
       "gloss": "你的仇敵"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "壓迫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的壓迫者"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "你的壓迫者"
     }
   ],
-  "timestamp": "2026-10-16T04:49:21.853276219Z",
+  "timestamp": "2026-10-16T22:18:49.481728618Z",
   "model": "glm-5.3"
 }

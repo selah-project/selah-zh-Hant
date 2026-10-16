@@ -5,36 +5,15 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "他",
-      "rationale": "中文需主語指代雅威，希伯來文由上下文隱含"
-    },
-    {
-      "kind": "substitution",
-      "subject": "אדני",
-      "rationale": "指人的אדני譯作「我主」（比拿雅對大衛王說話），非指神的阿多奈"
-    }
-  ],
-  "translation": "正如雅威與我主君王同在一樣，願他也照樣與所羅門同在，使他的寶座大過我主君王大衛的寶座。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "6561b2ec2175bd463c3a49a1ee05f955c81992c8af60e91b029366e1c5635614",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/1\/37-40.1792132488007.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威怎樣與我主君王同在，願他也照樣與所羅門同在，並使他的寶座比我主君王大衛的寶座更加盛大。",
   "tokens": [
     {
       "surface": "כאשר",
-      "gloss": "正如"
+      "gloss": "怎樣"
     },
     {
       "surface": "היה",
-      "gloss": "曾在"
+      "gloss": "曾與…同在"
     },
     {
       "surface": "יהוה",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "與……同在"
+      "gloss": "與…同在"
     },
     {
       "surface": "אדני",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "יהי",
-      "gloss": "願他是在"
+      "gloss": "願他與…同在"
     },
     {
       "surface": "עם",
-      "gloss": "與……同在"
+      "gloss": "與…同在"
     },
     {
       "surface": "שלמה",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "ויגדל",
-      "gloss": "使……更大"
+      "gloss": "並使…更加盛大"
     },
     {
       "surface": "את",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "מכסא",
-      "gloss": "大過……的寶座"
+      "gloss": "比…的寶座"
     },
     {
       "surface": "אדני",
@@ -98,6 +77,6 @@
       "gloss": "大衛"
     }
   ],
-  "timestamp": "2026-10-16T06:34:48.007901467Z",
+  "timestamp": "2026-10-16T21:57:36.455091161Z",
   "model": "glm-5.3"
 }

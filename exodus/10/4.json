@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "gloss": "כי אם 連用為條件語氣「若」，כי 本身不另行譯出"
-    },
-    {
-      "kind": "measurement",
-      "subject": "明天",
-      "rationale": "明確的時間指定——災害的日期被限定"
-    }
-  ],
-  "translation": "你若不肯放我的百姓去，看哪，明天我要把蝗蟲帶進你的疆界。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "1a89ea37e7c821724c294bf08cc9d67f68240694cbebc06b24780dc4241f2ffd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/10\/1-4.1792125881589.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你若不肯放⟨את⟩我的百姓走，看哪，明天我要把蝗蟲帶進你的境內。",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "若"
     },
     {
       "surface": "אם",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "לשלח",
-      "gloss": "放……去"
+      "gloss": "放……走"
     },
     {
       "surface": "את",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "מביא",
-      "gloss": "帶進"
+      "gloss": "要帶進"
     },
     {
       "surface": "מחר",
@@ -75,9 +54,9 @@
     },
     {
       "surface": "בגבלך",
-      "gloss": "你的疆界"
+      "gloss": "你的境內"
     }
   ],
-  "timestamp": "2026-10-16T04:44:41.590823311Z",
+  "timestamp": "2026-10-16T22:17:30.640693578Z",
   "model": "glm-5.3"
 }

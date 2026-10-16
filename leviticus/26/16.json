@@ -5,42 +5,11 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "נפש",
-      "rationale": "נפש 作生命氣息解，譯「生命」而非「靈魂」"
-    },
-    {
-      "kind": "hapax",
-      "subject": "ומדיבת",
-      "rationale": "מדיב 僅於此處出現於塔納赫，意為「使人萎靡／憂鬱」"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "זרעתם…זרעכם",
-      "rationale": "撒種／種子同根連用，中譯保留同根詞"
-    },
-    {
-      "kind": "you",
-      "subject": "以色列",
-      "rationale": "咒詛宣告直接指向百姓"
-    }
-  ],
-  "translation": "那麼我也必這樣待你們：我必命驚惶臨到你們，又有癆病和熱病，消耗眼目、使人生命萎靡；你們必白白撒種，你們的種子必被你們的仇敵吃掉。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b8c7c19eb040a9f1be83e0f014129552a3de6b565a958f8afbcaed7dde93030c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/26\/13-16.1792127344115.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我也要這樣待你們：我必命驚惶臨到你們，又有癆病和熱病，消耗眼睛、使生命憔悴；你們必徒然撒下你們的種子，你們的仇敵必吃盡它。",
   "tokens": [
     {
       "surface": "אף",
-      "gloss": "那麼…也"
+      "gloss": "也"
     },
     {
       "surface": "אני",
@@ -60,11 +29,11 @@
     },
     {
       "surface": "והפקדתי",
-      "gloss": "我必命…臨到"
+      "gloss": "我必命臨到"
     },
     {
       "surface": "עליכם",
-      "gloss": "你們"
+      "gloss": "臨到你們"
     },
     {
       "surface": "בהלה",
@@ -94,11 +63,11 @@
     },
     {
       "surface": "עינים",
-      "gloss": "眼目"
+      "gloss": "眼睛"
     },
     {
       "surface": "ומדיבת",
-      "gloss": "使…萎靡"
+      "gloss": "使憔悴"
     },
     {
       "surface": "נפש",
@@ -106,11 +75,11 @@
     },
     {
       "surface": "וזרעתם",
-      "gloss": "你們必撒種"
+      "gloss": "你們必撒下"
     },
     {
       "surface": "לריק",
-      "gloss": "白白"
+      "gloss": "徒然"
     },
     {
       "surface": "זרעכם",
@@ -118,13 +87,13 @@
     },
     {
       "surface": "ואכלהו",
-      "gloss": "必被吃掉"
+      "gloss": "必吃盡它"
     },
     {
       "surface": "איביכם",
       "gloss": "你們的仇敵"
     }
   ],
-  "timestamp": "2026-10-16T05:09:04.116624122Z",
+  "timestamp": "2026-10-16T22:50:41.619907532Z",
   "model": "glm-5.3"
 }

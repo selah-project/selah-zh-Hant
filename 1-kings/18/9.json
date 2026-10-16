@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "竟",
-      "rationale": "כי 在此為強調的反詰語氣，中文以語氣詞承擔"
-    },
-    {
-      "kind": "you",
-      "subject": "俄巴底對以利亞",
-      "rationale": "直接對話，向以利亞申訴"
-    }
-  ],
-  "translation": "他說：「我犯了什麼罪，你竟要把你僕人交在亞哈手裡，處死我呢？」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "4b0c4c5dc21bfd004cf0ce2f3e00097a96ceade25a02410306408cde8f6a2423",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/18\/9-12.1792133196111.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他說：「我犯了什麼罪，你竟要把你僕人交在亞哈手中，⟨את⟩ 你僕人⟨要⟩置我於死？」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "竟然"
+      "gloss": "竟"
     },
     {
       "surface": "אתה",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "把……交"
+      "gloss": "把…交"
     },
     {
       "surface": "את",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "ביד",
-      "gloss": "在……手裡"
+      "gloss": "在…手中"
     },
     {
       "surface": "אחאב",
@@ -71,9 +50,9 @@
     },
     {
       "surface": "להמיתני",
-      "gloss": "處死我"
+      "gloss": "置我於死"
     }
   ],
-  "timestamp": "2026-10-16T06:46:36.112684231Z",
+  "timestamp": "2026-10-16T21:58:16.555147362Z",
   "model": "glm-5.3"
 }

@@ -5,64 +5,43 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈要〉",
-      "rationale": "השב可作命令或預言式陳述；命令式讀法需補祈使語氣詞。"
-    },
-    {
-      "kind": "crux",
-      "subject": "השב אל תערה",
-      "rationale": "命令刀入鞘（審判結束）還是『它必被收回鞘中』（被逐回原處受審）——兩讀皆古。"
-    }
-  ],
-  "translation": "〈要〉使它收回鞘中！在你受造之地、你出生之地的原處，我要審判⟨את⟩你。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "6786dcd0107e9a4ccead9d696ea3bfdd1b10ff1c29958d6821fa7d933f1aff1e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/21\/33-36.1792138412965.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "使〈它〉回到刀鞘裡——在你被造之地，在你出身之地的土地上，我要審問 ⟨את⟩ 你。",
   "tokens": [
     {
       "surface": "השב",
-      "gloss": "〈要〉使…收回"
+      "gloss": "使…回到"
     },
     {
       "surface": "אל",
-      "gloss": "進入"
+      "gloss": "到…裡"
     },
     {
       "surface": "תערה",
-      "gloss": "鞘"
+      "gloss": "刀鞘"
     },
     {
       "surface": "במקום",
-      "gloss": "在…之處"
-    },
-    {
-      "surface": "אשר",
-      "gloss": "…的"
-    },
-    {
-      "surface": "נבראת",
-      "gloss": "你受造"
-    },
-    {
-      "surface": "בארץ",
       "gloss": "在…之地"
     },
     {
+      "surface": "אשר",
+      "gloss": "在那裡"
+    },
+    {
+      "surface": "נבראת",
+      "gloss": "你被造"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "在…的土地上"
+    },
+    {
       "surface": "מכרותיך",
-      "gloss": "你出生之地"
+      "gloss": "你出身之地"
     },
     {
       "surface": "אשפט",
-      "gloss": "我要審判"
+      "gloss": "我要審問"
     },
     {
       "surface": "אתך",
@@ -70,6 +49,6 @@
       "marks": "你"
     }
   ],
-  "timestamp": "2026-10-16T08:13:32.966315747Z",
+  "timestamp": "2026-10-16T22:22:53.130358203Z",
   "model": "glm-5.3"
 }

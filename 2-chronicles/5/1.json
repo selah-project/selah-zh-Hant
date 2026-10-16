@@ -5,28 +5,7 @@
   "book": "2-chronicles",
   "lang": "zh-Hant",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "是",
-      "rationale": "希伯來文無繫詞，中文以「都完成了」補足完成語氣"
-    },
-    {
-      "kind": "measurement",
-      "subject": "清單",
-      "rationale": "銀子、金子、器具逐一列出，屬庫存清點式的列舉"
-    }
-  ],
-  "translation": "所羅門為雅威的殿所做的一切工作都完成了；所羅門將他父親大衛的分別為聖之物帶進來⟨את⟩——銀子、金子和一切器具——放在以羅欣殿的庫房裡。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "4be76c798d5ca304338842dfe84e2117ef530e87757945bdc9988b9e6f2fe3bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/5\/1-4.1792149201652.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "所羅門為雅威的殿所作的一切工程都完成了；所羅門將他父親大衛分別為聖之物帶進來——⟨את⟩ 大衛的聖物、⟨את⟩ 銀子、⟨את⟩ 金子和⟨את⟩ 一切器皿——放在以羅欣殿的府庫裡。",
   "tokens": [
     {
       "surface": "ותשלם",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "המלאכה",
-      "gloss": "工作"
+      "gloss": "工程"
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "那"
     },
     {
       "surface": "עשה",
-      "gloss": "做"
+      "gloss": "所作的"
     },
     {
       "surface": "שלמה",
@@ -71,11 +50,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "大衛的分別為聖之物"
+      "marks": "大衛的聖物"
     },
     {
       "surface": "קדשי",
-      "gloss": "分別為聖之物"
+      "gloss": "聖物"
     },
     {
       "surface": "דויד",
@@ -106,7 +85,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "一切器具"
+      "marks": "一切器皿"
     },
     {
       "surface": "כל",
@@ -114,7 +93,7 @@
     },
     {
       "surface": "הכלים",
-      "gloss": "器具"
+      "gloss": "器皿"
     },
     {
       "surface": "נתן",
@@ -122,17 +101,17 @@
     },
     {
       "surface": "באצרות",
-      "gloss": "在庫房裡"
+      "gloss": "在……的府庫裡"
     },
     {
       "surface": "בית",
-      "gloss": "……的殿"
+      "gloss": "殿"
     },
     {
       "surface": "האלהים",
       "gloss": "以羅欣"
     }
   ],
-  "timestamp": "2026-10-16T11:13:21.653173204Z",
+  "timestamp": "2026-10-16T22:04:46.806713059Z",
   "model": "glm-5.3"
 }

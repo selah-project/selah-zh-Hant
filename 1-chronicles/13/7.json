@@ -5,37 +5,16 @@
   "book": "1-chronicles",
   "lang": "zh-Hant",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "放在車上",
-      "rationale": "וירכיבו是「使騎上」的使役形，字面為使櫃乘車，非泛泛的「運送」"
-    },
-    {
-      "kind": "addition",
-      "subject": "〈運出〉",
-      "rationale": "希伯來文以「從亞比拿達的家」暗示搬運起點，中文補動詞以成句"
-    }
-  ],
-  "translation": "他們將 ⟨את⟩ 以羅欣的櫃放在一輛新車上，從亞比拿達的家〈運出〉；烏撒和亞希趕著那車。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "be2276c05befa90f3fd447567c18e9dae07753285b0baf2fa98957c41406f3f1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/13\/5-8.1792148823135.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們將以羅欣的櫃放在一輛新車上，從亞比拿達的家〈運出〉；烏撒和亞希趕著那車。",
   "tokens": [
     {
       "surface": "וירכיבו",
-      "gloss": "他們使……乘上（放上去）"
+      "gloss": "他們使……騎上〈放上〉"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "櫃"
+      "marks": "以羅欣的櫃"
     },
     {
       "surface": "ארון",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "以羅欣的"
+      "gloss": "以羅欣"
     },
     {
       "surface": "על",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "ועזא",
-      "gloss": "烏撒"
+      "gloss": "和烏撒"
     },
     {
       "surface": "ואחיו",
@@ -82,6 +61,6 @@
       "gloss": "那車"
     }
   ],
-  "timestamp": "2026-10-16T11:07:03.136683256Z",
+  "timestamp": "2026-10-16T21:56:12.491981150Z",
   "model": "glm-5.3"
 }

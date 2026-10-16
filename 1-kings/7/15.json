@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "柱子的尺寸",
-      "rationale": "十八肘高、十二肘線圍——聖殿建築的量度"
-    },
-    {
-      "kind": "crux",
-      "subject": "חוט",
-      "rationale": "חוט字面是「線／繩」，指量度的繩：耶52:21作「四圍」，本節作「十二肘的線圍繞」"
-    }
-  ],
-  "translation": "他鑄造了⟨את⟩兩根銅柱，一根柱子高十八肘；第二根柱子，十二肘的線圍繞著它。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "7ebbcfcafde2ec3f44535ec4d5af3406182a8e9527a34f23a26eb69a3789fad1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/7\/13-16.1792132703355.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他鑄造了 ⟨את⟩ 兩根柱子，是銅的；一根柱子的高度是十八肘，一條量繩十二肘環繞 ⟨את⟩ 第二根柱子。",
   "tokens": [
     {
       "surface": "ויצר",
-      "gloss": "鑄造了"
+      "gloss": "他鑄造了"
     },
     {
       "surface": "את",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "עשרה",
-      "gloss": "肘…（十八肘的一部分）"
+      "gloss": "（十八之十位）"
     },
     {
       "surface": "אמה",
@@ -63,19 +42,19 @@
     },
     {
       "surface": "קומת",
-      "gloss": "高"
+      "gloss": "高度"
     },
     {
       "surface": "העמוד",
-      "gloss": "柱子"
+      "gloss": "一根柱子"
     },
     {
       "surface": "האחד",
-      "gloss": "一根"
+      "gloss": "第一根"
     },
     {
       "surface": "וחוט",
-      "gloss": "線"
+      "gloss": "一條量繩"
     },
     {
       "surface": "שתים",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "עשרה",
-      "gloss": "…（十二的一部分）"
+      "gloss": "（十二之十位）"
     },
     {
       "surface": "אמה",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "יסב",
-      "gloss": "圍繞著"
+      "gloss": "環繞"
     },
     {
       "surface": "את",
@@ -107,6 +86,6 @@
       "gloss": "第二根"
     }
   ],
-  "timestamp": "2026-10-16T06:38:23.357228832Z",
+  "timestamp": "2026-10-16T21:59:38.813828186Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "法櫃",
-      "rationale": "ארון העדת 直譯「見證之櫃」；中譯沿用和合本「法櫃」"
-    },
-    {
-      "kind": "addition",
-      "subject": "你",
-      "rationale": "希伯來文動詞詞尾已含第二人稱，中文需主語代詞"
-    }
-  ],
-  "translation": "你要把金香壇安在法櫃的前面，又把帳幕門口的簾子安上。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "6972e9038cb8b99c6e11b2fc1818f1877ae0f15374896d6007bc4b7b2ae62065",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/40\/5-8.1792126615097.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你要把金香壇安放在法櫃前，並掛上會幕的門簾。",
   "tokens": [
     {
       "surface": "ונתתה",
-      "gloss": "你要把……安放"
+      "gloss": "你要安放"
     },
     {
       "surface": "את",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "在……前面"
+      "gloss": "在……前"
     },
     {
       "surface": "ארון",
@@ -59,30 +38,30 @@
     },
     {
       "surface": "העדת",
-      "gloss": "法（見證）"
+      "gloss": "法"
     },
     {
       "surface": "ושמת",
-      "gloss": "又把……安上"
+      "gloss": "並掛上"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "簾子"
+      "marks": "門簾"
     },
     {
       "surface": "מסך",
-      "gloss": "簾子"
+      "gloss": "簾"
     },
     {
       "surface": "הפתח",
-      "gloss": "門口"
+      "gloss": "門"
     },
     {
       "surface": "למשכן",
-      "gloss": "帳幕的"
+      "gloss": "會幕"
     }
   ],
-  "timestamp": "2026-10-16T04:56:55.098393100Z",
+  "timestamp": "2026-10-16T22:20:57.592820010Z",
   "model": "glm-5.3"
 }

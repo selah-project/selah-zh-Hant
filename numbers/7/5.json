@@ -5,74 +5,48 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כפי",
-      "rationale": "字面為「按……的口」，希伯來慣用語指「按其分量／職任」，中文取「按……的分量」"
-    },
-    {
-      "kind": "addition",
-      "subject": "這些車輛與牛隻",
-      "rationale": "原文僅說「從他們那裡收取」，受詞由上文（7:3 的奉獻）補出"
-    },
-    {
-      "kind": "you",
-      "subject": "to Moses",
-      "rationale": "雅威對摩西說話，命令式「你要收取」直接指向摩西"
-    }
-  ],
-  "translation": "「你要從他們那裡收取 ⟨את⟩ 這些車輛與牛隻，用來辦理會幕的事奉；你要把它們分給利未人，各人按他事奉的分量。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "0f020e2e348987bdef70a7abbb8253a45b96f56840c3b1b57f7cce81ec9c9314",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/7\/5-8.1792127566697.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "要從他們那裡取來，用以辦 ⟨את⟩ 會幕的服事；你要把這些給利未人，各人照他的服事〈所得的〉。",
   "tokens": [
     {
       "surface": "קח",
-      "gloss": "你要收取"
+      "gloss": "要取"
     },
     {
       "surface": "מאתם",
-      "gloss": "⟨את⟩ 從他們那裡"
+      "gloss": "從他們那裡⟨את⟩"
     },
     {
       "surface": "והיו",
-      "gloss": "好用來"
+      "gloss": "用以"
     },
     {
       "surface": "לעבד",
-      "gloss": "辦理"
+      "gloss": "辦"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "會幕的事奉"
+      "marks": "會幕的服事"
     },
     {
       "surface": "עבדת",
-      "gloss": "事奉"
+      "gloss": "服事"
     },
     {
       "surface": "אהל",
-      "gloss": "會幕的"
+      "gloss": "會幕"
     },
     {
       "surface": "מועד",
-      "gloss": "帳棚"
+      "gloss": "（會）幕"
     },
     {
       "surface": "ונתתה",
-      "gloss": "你要把它們分給"
+      "gloss": "你要把……給"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩這些",
       "marks": "利未人"
     },
     {
@@ -89,13 +63,13 @@
     },
     {
       "surface": "כפי",
-      "gloss": "按……的分量"
+      "gloss": "照"
     },
     {
       "surface": "עבדתו",
-      "gloss": "他的事奉"
+      "gloss": "他的服事"
     }
   ],
-  "timestamp": "2026-10-16T05:12:46.698264776Z",
+  "timestamp": "2026-10-16T22:56:38.804575874Z",
   "model": "glm-5.3"
 }

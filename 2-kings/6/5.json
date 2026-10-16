@@ -5,41 +5,15 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שאול",
-      "rationale": "動詞「借用」與陰間「示阿勒」同音同形；此處多數譯本取「借來的」，直譯則是「而它是被求來的」。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "鐵斧頭",
-      "rationale": "הברזל 直譯為「鐵」，指鐵製斧頭；補出「斧頭」以明確所指。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שאול",
-      "rationale": "與指陰間的 שאול 字形相同，讀者或聽見雙關的迴響，中文中丟失。"
-    }
-  ],
-  "translation": "正當其中一人在砍伐木梁的時候，鐵斧頭落入了水中，他就喊叫說：「哀哉，我主啊！那是借來的。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "448e0ca9ff12856f3509e29114a52919d42231debc945d11a16bcf7b067c6657",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/6\/5-8.1792133582678.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "事情是這樣：那一個人正在砍伐木梁，那鐵器就落到水裡去了；他就呼喊說：「哀哉，我主啊！那鐵器是借來的。」",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "正當……的時候"
+      "gloss": "事情是這樣"
     },
     {
       "surface": "האחד",
-      "gloss": "其中一人"
+      "gloss": "那一個人"
     },
     {
       "surface": "מפיל",
@@ -52,27 +26,27 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "鐵斧頭"
+      "marks": "那鐵器"
     },
     {
       "surface": "הברזל",
-      "gloss": "鐵斧頭"
+      "gloss": "那鐵器"
     },
     {
       "surface": "נפל",
-      "gloss": "落入"
+      "gloss": "落到"
     },
     {
       "surface": "אל",
-      "gloss": "入"
+      "gloss": "到……裡"
     },
     {
       "surface": "המים",
-      "gloss": "水中"
+      "gloss": "水"
     },
     {
       "surface": "ויצעק",
-      "gloss": "他就喊叫"
+      "gloss": "他就呼喊"
     },
     {
       "surface": "ויאמר",
@@ -84,17 +58,17 @@
     },
     {
       "surface": "אדני",
-      "gloss": "我主啊"
+      "gloss": "我主"
     },
     {
       "surface": "והוא",
-      "gloss": "它"
+      "gloss": "而那鐵器"
     },
     {
       "surface": "שאול",
-      "gloss": "借來的"
+      "gloss": "是借來的"
     }
   ],
-  "timestamp": "2026-10-16T06:53:02.679042751Z",
+  "timestamp": "2026-10-16T22:08:37.313735216Z",
   "model": "glm-5.3"
 }

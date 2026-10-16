@@ -5,28 +5,7 @@
   "book": "joshua",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "以色列人",
-      "rationale": "約書亞直接向以色列人說話，命令語氣。"
-    },
-    {
-      "kind": "invitation",
-      "subject": "近前來……聽",
-      "rationale": "招呼與命令聚集聽眾。"
-    }
-  ],
-  "translation": "約書亞對以色列人說：「你們近前來，聽雅威——你們的以羅欣——的話。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "1d0fbf667007d680180461f4b1ceb7d6b3aee445e88d29bf4e15165544d46e69",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/3\/9-12.1792129418932.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "約書亞對以色列人說：「你們近前來，聽雅威你們以羅欣的話⟨את⟩。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "人（以色列的）"
+      "gloss": "人"
     },
     {
       "surface": "ישראל",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "גשו",
-      "gloss": "近前來"
+      "gloss": "你們近前來"
     },
     {
       "surface": "הנה",
@@ -63,7 +42,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "話"
+      "marks": "話（דברי）"
     },
     {
       "surface": "דברי",
@@ -75,9 +54,9 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "你們的以羅欣"
+      "gloss": "你們以羅欣"
     }
   ],
-  "timestamp": "2026-10-16T05:43:38.933308018Z",
+  "timestamp": "2026-10-16T22:44:35.916194291Z",
   "model": "glm-5.3"
 }

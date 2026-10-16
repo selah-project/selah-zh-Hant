@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "וילך",
-      "rationale": "字面是「他去」，修飾 ויגע（一碰觸），譯作時間副詞「一……就」；KJV 讀作「被放下來」"
-    },
-    {
-      "kind": "addition",
-      "subject": "自己的",
-      "rationale": "רגליו 已含人稱代名詞詞尾，中文以「自己的」加強清楚"
-    }
-  ],
-  "translation": "他們正埋葬一個人的時候，看哪，他們看見了 ⟨את⟩ 那隊兵，就把那人拋進以利沙的墳墓裡；那人一碰觸以利沙的骸骨，就活過來，站起在自己的腳上。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "e9a87030a9be6d5ccf0cda2979c7c06e7ef38f642330273f189687176f262f59",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/13\/21-24.1792133932769.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "事奉的時候到了：他們正埋葬一個人的時候，看哪，他們看見 ⟨את⟩ 那隊掠兵，就把那人拋進以利沙的墳墓裡；那人一碰到以利沙的骸骨，就活過來，站起在自己的腳上。",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "……的時候"
+      "gloss": "事奉的時候到了"
     },
     {
       "surface": "הם",
@@ -50,20 +29,20 @@
     },
     {
       "surface": "ראו",
-      "gloss": "看見了"
+      "gloss": "看見"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那隊兵"
+      "marks": "那隊掠兵"
     },
     {
       "surface": "הגדוד",
-      "gloss": "那隊兵"
+      "gloss": "那隊掠兵"
     },
     {
       "surface": "וישליכו",
-      "gloss": "就把……拋"
+      "gloss": "就拋進"
     },
     {
       "surface": "את",
@@ -76,7 +55,7 @@
     },
     {
       "surface": "בקבר",
-      "gloss": "進……的墳墓裡"
+      "gloss": "在墳墓裡"
     },
     {
       "surface": "אלישע",
@@ -84,11 +63,11 @@
     },
     {
       "surface": "וילך",
-      "gloss": "一……就"
+      "gloss": "一…就"
     },
     {
       "surface": "ויגע",
-      "gloss": "碰觸"
+      "gloss": "碰到"
     },
     {
       "surface": "האיש",
@@ -96,7 +75,7 @@
     },
     {
       "surface": "בעצמות",
-      "gloss": "……的骸骨"
+      "gloss": "在骸骨"
     },
     {
       "surface": "אלישע",
@@ -104,7 +83,7 @@
     },
     {
       "surface": "ויחי",
-      "gloss": "就活過來"
+      "gloss": "活過來"
     },
     {
       "surface": "ויקם",
@@ -112,13 +91,13 @@
     },
     {
       "surface": "על",
-      "gloss": "在……上"
+      "gloss": "在"
     },
     {
       "surface": "רגליו",
-      "gloss": "自己的腳"
+      "gloss": "自己的腳上"
     }
   ],
-  "timestamp": "2026-10-16T06:58:52.769838912Z",
+  "timestamp": "2026-10-16T22:05:29.352755977Z",
   "model": "glm-5.3"
 }

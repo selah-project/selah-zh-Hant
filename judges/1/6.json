@@ -5,28 +5,7 @@
   "book": "judges",
   "lang": "zh-Hant",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "大拇指",
-      "rationale": "בהנות 一詞兼指手的大拇指與腳的大拇趾，中文需合併譯出。"
-    },
-    {
-      "kind": "you",
-      "subject": "敘事",
-      "rationale": "第 6–7 節的刑罰與亞多尼比色的自白構成 lex talionis（以其人之道還治其人）的敘事核心。"
-    }
-  ],
-  "translation": "亞多尼比色逃跑，他們追趕他，捉住 ⟨אתו⟩ 他，砍斷他手腳的大拇指。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ffe47007b9a925708348fd3e8d52e9a4269d343800f88cf0886fce1b62eced73",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/1\/5-8.1792130036673.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "亞多尼比色逃跑，他們追趕他，捉住⟨את⟩他，砍斷⟨את⟩他手腳的大拇指。",
   "tokens": [
     {
       "surface": "וינס",
@@ -50,16 +29,16 @@
     },
     {
       "surface": "ויאחזו",
-      "gloss": "捉住"
+      "gloss": "他們捉住"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "他（亞多尼比色）"
+      "gloss": "⟨את⟩",
+      "marks": "他"
     },
     {
       "surface": "ויקצצו",
-      "gloss": "砍斷"
+      "gloss": "他們砍斷"
     },
     {
       "surface": "את",
@@ -79,6 +58,6 @@
       "gloss": "和他的腳"
     }
   ],
-  "timestamp": "2026-10-16T05:53:56.674422434Z",
+  "timestamp": "2026-10-16T22:45:26.596120117Z",
   "model": "glm-5.3"
 }

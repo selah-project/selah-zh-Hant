@@ -5,48 +5,27 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "את הדרך",
-      "rationale": "第三個 ⟨את⟩ 所指的「道路」在中文以疑問句式「哪條路」重組，詞序無法直譯。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "窺探",
-      "rationale": "חפר 本義是「挖掘、查究」，此處指偵察探查那地。"
-    }
-  ],
-  "translation": "你們眾人都就近我來，說：『我們要打發人走在我們前面，叫他們為我們窺探 ⟨את⟩ 那地，將 ⟨את⟩ 話語帶回給我們——我們該由哪條路上去，以及我們要進到哪些城邑。』",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "5c8a4db9dccbb2e8dd7a6f00594ab14a7ce87f224b79771957ef9783041969a8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/1\/21-24.1792128481760.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你們全體就近到我這裡來，說：「我們要打發人在我們前面，為我們察探 ⟨את⟩ 那地，把 ⟨את⟩ 這話帶回給我們：我們當循哪條路上去，以及我們當進入哪些城邑，並 ⟨את⟩ 我們將要進去的那些城。」",
   "tokens": [
     {
       "surface": "ותקרבון",
-      "gloss": "你們就近"
+      "gloss": "就近"
     },
     {
       "surface": "אלי",
-      "gloss": "到我"
+      "gloss": "到我這裡來"
     },
     {
       "surface": "כלכם",
-      "gloss": "你們眾人"
+      "gloss": "你們全體"
     },
     {
       "surface": "ותאמרו",
-      "gloss": "你們說"
+      "gloss": "說"
     },
     {
       "surface": "נשלחה",
-      "gloss": "我們要打發人"
+      "gloss": "我們要打發"
     },
     {
       "surface": "אנשים",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "ויחפרו",
-      "gloss": "叫他們窺探"
+      "gloss": "為我們察探"
     },
     {
       "surface": "לנו",
@@ -80,55 +59,55 @@
     {
       "surface": "אתנו",
       "gloss": "⟨את⟩",
-      "marks": "話語"
+      "marks": "這話"
     },
     {
       "surface": "דבר",
-      "gloss": "話語"
+      "gloss": "話"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "道路"
+      "marks": "哪條路"
     },
     {
       "surface": "הדרך",
-      "gloss": "道路"
+      "gloss": "路"
     },
     {
       "surface": "אשר",
-      "gloss": "……的"
+      "gloss": "循哪條"
     },
     {
       "surface": "נעלה",
-      "gloss": "我們上去"
+      "gloss": "我們當上去"
     },
     {
       "surface": "בה",
-      "gloss": "沿它"
+      "gloss": "在其中"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "城邑"
+      "marks": "那些城"
     },
     {
       "surface": "הערים",
-      "gloss": "城邑"
+      "gloss": "那些城"
     },
     {
       "surface": "אשר",
-      "gloss": "……的"
+      "gloss": "我們當進入哪些"
     },
     {
       "surface": "נבא",
-      "gloss": "我們要進到"
+      "gloss": "我們當進入"
     },
     {
       "surface": "אליהן",
-      "gloss": "到它們"
+      "gloss": "進到它們"
     }
   ],
-  "timestamp": "2026-10-16T05:28:01.761837901Z",
+  "timestamp": "2026-10-16T22:12:43.263394961Z",
   "model": "glm-5.3"
 }

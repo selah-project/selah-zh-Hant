@@ -5,37 +5,11 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "應驗了",
-      "rationale": "ויקם 直譯「使……起來／立定」，中文以「應驗」表其「成就其話」之意"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ויקם／ואקם",
-      "rationale": "雅威「立定」其話與所羅門「起來」接續王位用同一動詞 קום，中文難以保留此呼應"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "דברו／דבר",
-      "rationale": "「他的話」與「他曾說」同根 דבר，名詞與動詞緊扣，中文以「話／說」部分保留"
-    }
-  ],
-  "translation": "雅威應驗了他所說的話，他曾說過；我起來接續我父大衛，坐在以色列的王位上，正如雅威所應許的，我又為雅威——以色列的以羅欣——的名建造了這殿。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c4ec29d73ee5995087e2fa4c1d7b21e9f4e6f79fbee626743c59d6164a87456c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/8\/17-20.1792132796669.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威成就了 ⟨את⟩ 他所說的話，就是他所應許的；我起來接續我父大衛，坐在以色列的王位上，正如雅威所說的；我又為以色列的以羅欣雅威的名建造了 ⟨את⟩ 這殿。",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "應驗了"
+      "gloss": "成就了"
     },
     {
       "surface": "יהוה",
@@ -48,15 +22,15 @@
     },
     {
       "surface": "דברו",
-      "gloss": "他的話"
+      "gloss": "他所說的話"
     },
     {
       "surface": "אשר",
-      "gloss": "……的"
+      "gloss": "就是"
     },
     {
       "surface": "דבר",
-      "gloss": "他曾說過"
+      "gloss": "所應許的"
     },
     {
       "surface": "ואקם",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "ואשב",
-      "gloss": "我坐"
+      "gloss": "坐在"
     },
     {
       "surface": "על",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "所應許的"
+      "gloss": "所說的"
     },
     {
       "surface": "יהוה",
@@ -120,13 +94,13 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "以羅欣"
+      "gloss": "的以羅欣"
     },
     {
       "surface": "ישראל",
       "gloss": "以色列"
     }
   ],
-  "timestamp": "2026-10-16T06:39:56.671412723Z",
+  "timestamp": "2026-10-16T21:59:52.056813021Z",
   "model": "glm-5.3"
 }

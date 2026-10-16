@@ -5,43 +5,7 @@
   "book": "jeremiah",
   "lang": "zh-Hant",
   "chapter": 50,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "的日期",
-      "rationale": "יועדני 字面「向我定約／指定」，中文需補出賓語「日期」方通。"
-    },
-    {
-      "kind": "crux",
-      "subject": "גאון הירדן",
-      "rationale": "「約但河的高傲／繁茂處」：指約但河谷叢林獅群棲處，各譯本作「漲溢」「叢林」「繁茂」。"
-    },
-    {
-      "kind": "crux",
-      "subject": "אפקד",
-      "rationale": "פקד雙向：可作「我必差派他攻擊她」或「我必派立她」；此處取立蒙揀選者攻打巴比倫。"
-    },
-    {
-      "kind": "secret",
-      "subject": "מי כמוני",
-      "rationale": "一連三問以修辭反問封閉答案——無人像雅威，無人能與祂對質。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "גאון",
-      "rationale": "同一詞既指河的「高漲」又指「驕傲」，與巴比倫的傲慢暗成對照。"
-    }
-  ],
-  "translation": "看哪，他必如獅子從約但河的繁茂處上來，攻擊堅固的居所；因為我必使他們突然從那裡逃跑，我必立一個蒙揀選的人治理她；因為誰像呢？誰能定我〈的日期〉呢？誰是那能站在我面前的牧人呢？",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "22529a4aa78b625975bacc5724d3aaa47317826c49d3153e04d2392c9676087f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/50\/41-44.1792137713420.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "看哪，必有一個如獅子從約旦河的繁茂之處上來，攻擊堅固的居所；因為我要使牠們突然奔逃離開她，我必立一個蒙揀選的少年人治理她；因為誰能比得上我呢？誰能與我相爭呢？誰是這樣的牧人，能站立在我面前呢？",
   "tokens": [
     {
       "surface": "הנה",
@@ -57,11 +21,11 @@
     },
     {
       "surface": "מגאון",
-      "gloss": "從繁茂處"
+      "gloss": "的繁茂之處"
     },
     {
       "surface": "הירדן",
-      "gloss": "約但河"
+      "gloss": "約旦河"
     },
     {
       "surface": "אל",
@@ -80,16 +44,16 @@
       "gloss": "因為"
     },
     {
-      "surface": "ארגעה",
-      "gloss": "我必使突然"
+      "surface": "ארגיעה",
+      "gloss": "我要使……突然"
     },
     {
       "surface": "ארוצם",
-      "gloss": "他們逃跑"
+      "gloss": "牠們奔逃"
     },
     {
       "surface": "מעליה",
-      "gloss": "從那裡"
+      "gloss": "離開她"
     },
     {
       "surface": "ומי",
@@ -97,7 +61,7 @@
     },
     {
       "surface": "בחור",
-      "gloss": "蒙揀選的人"
+      "gloss": "蒙揀選的少年人"
     },
     {
       "surface": "אליה",
@@ -105,7 +69,7 @@
     },
     {
       "surface": "אפקד",
-      "gloss": "我必設立"
+      "gloss": "我必立"
     },
     {
       "surface": "כי",
@@ -117,7 +81,7 @@
     },
     {
       "surface": "כמוני",
-      "gloss": "像我"
+      "gloss": "比得上我"
     },
     {
       "surface": "ומי",
@@ -125,7 +89,7 @@
     },
     {
       "surface": "יועדני",
-      "gloss": "能定我〈的日期〉"
+      "gloss": "能與我相爭"
     },
     {
       "surface": "ומי",
@@ -133,7 +97,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "那"
+      "gloss": "這"
     },
     {
       "surface": "רעה",
@@ -141,17 +105,21 @@
     },
     {
       "surface": "אשר",
-      "gloss": "〈那〉"
+      "gloss": "能"
     },
     {
       "surface": "יעמד",
-      "gloss": "能站在"
+      "gloss": "站立"
     },
     {
       "surface": "לפני",
-      "gloss": "我面前"
+      "gloss": "在我面前"
     }
   ],
-  "timestamp": "2026-10-16T08:01:53.421650850Z",
-  "model": "glm-5.3"
+  "timestamp": "2026-10-16T22:41:07.746761271Z",
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

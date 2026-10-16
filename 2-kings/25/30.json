@@ -5,87 +5,62 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "中文補繫詞，希伯來文無。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "דבר יום ביומו",
-      "rationale": "字面為「每日之事、在其日」；譯作「每日一份，按日支取」以合中文。"
-    },
-    {
-      "kind": "measurement",
-      "subject": "daily ration",
-      "rationale": "本節量定每日口糧的份額與期限。"
-    }
-  ],
-  "translation": "他的口糧——經常的口糧——是由王那裡賜給他的，每日一份，按日支取，終身如此。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "50ad5b6cce8b5074cd83009c0e0f71fd29f1ac636c063eae98e4768d16e9a003",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/25\/29-30.1792134330803.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他的食物定量——不斷的定量——由王那裡賜給他，每日的份，按〈它的〉日子，他一生的全部日子。",
   "tokens": [
     {
-      "surface": "וארחתו",
-      "gloss": "他的口糧"
+      "surface": "וַאֲרֻחָתוֹ",
+      "gloss": "他的食物定量"
     },
     {
-      "surface": "ארחת",
-      "gloss": "口糧"
+      "surface": "אֲרֻחַת",
+      "gloss": "定量"
     },
     {
-      "surface": "תמיד",
-      "gloss": "經常的"
+      "surface": "תָּמִיד",
+      "gloss": "不斷的"
     },
     {
-      "surface": "נתנה",
+      "surface": "נִתְּנָה",
       "gloss": "賜給"
     },
     {
-      "surface": "לו",
+      "surface": "לוֹ",
       "gloss": "他"
     },
     {
-      "surface": "מאת",
-      "gloss": "⟨את⟩"
+      "surface": "מֵאֵת",
+      "gloss": "從⟨את⟩",
+      "marks": "王"
     },
     {
-      "surface": "המלך",
+      "surface": "הַמֶּלֶךְ",
       "gloss": "王"
     },
     {
-      "surface": "דבר",
-      "gloss": "一份"
+      "surface": "דְּבַר",
+      "gloss": "的量"
     },
     {
-      "surface": "יום",
-      "gloss": "每日"
+      "surface": "יוֹם",
+      "gloss": "一日"
     },
     {
-      "surface": "ביומו",
-      "gloss": "按日"
+      "surface": "בְּיוֹמוֹ",
+      "gloss": "按它的日子"
     },
     {
-      "surface": "כל",
-      "gloss": "所有的"
+      "surface": "כֹּל",
+      "gloss": "全部"
     },
     {
-      "surface": "ימי",
+      "surface": "יְמֵי",
       "gloss": "日子"
     },
     {
-      "surface": "חיו",
-      "gloss": "他的生命"
+      "surface": "חַיָּיו",
+      "gloss": "他的一生"
     }
   ],
-  "timestamp": "2026-10-16T07:05:30.804590558Z",
+  "timestamp": "2026-10-16T22:07:20.092264573Z",
   "model": "glm-5.3"
 }

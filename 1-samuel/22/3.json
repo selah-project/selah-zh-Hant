@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתכם",
-      "rationale": "此處的את是介詞（H854，「與」），非受詞記號את（H853），譯作「與你們」而非⟨את⟩"
-    },
-    {
-      "kind": "you",
-      "subject": "to 摩押王",
-      "rationale": "大衛直接向摩押王請求，引語中的「你」指向具體受話者"
-    },
-    {
-      "kind": "crux",
-      "subject": "為我怎樣行",
-      "rationale": "מה יעשה לי：多譯「為我」；亦可能作「對我」，語境中是仰望以羅欣的作為"
-    }
-  ],
-  "translation": "大衛從那裏往摩押的米斯巴去，對摩押王說：「求你讓我父母出來，與你們同住，等我知道以羅欣要為我怎樣行。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "9e6949e1d187902aa7707ff1db513f0301ecab4843dfe83992db6838e23bb091",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/22\/1-4.1792131414022.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "大衛從那裡往摩押的米斯巴去，對摩押王說：「求你讓我父親和我母親出來，與⟨את⟩你們同住，直到我知道以羅欣要為我做什麼。」",
   "tokens": [
     {
       "surface": "וילך",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "משם",
-      "gloss": "從那裏"
+      "gloss": "從那裡"
     },
     {
       "surface": "מצפה",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "יצא",
-      "gloss": "讓…出來"
+      "gloss": "出來"
     },
     {
       "surface": "נא",
@@ -79,23 +53,24 @@
     },
     {
       "surface": "אבי",
-      "gloss": "我父母"
+      "gloss": "我父親"
     },
     {
       "surface": "ואמי",
-      "gloss": "（和我母親）"
+      "gloss": "和我母親"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ 與你們"
+      "gloss": "⟨את⟩",
+      "marks": "你們"
     },
     {
       "surface": "עד",
-      "gloss": "等"
+      "gloss": "直到"
     },
     {
       "surface": "אשר",
-      "gloss": "…的時候"
+      "gloss": "⟨那時⟩"
     },
     {
       "surface": "אדע",
@@ -107,7 +82,7 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "行"
+      "gloss": "做"
     },
     {
       "surface": "לי",
@@ -115,9 +90,9 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "以羅欣"
+      "gloss": "以羅欣（神）"
     }
   ],
-  "timestamp": "2026-10-16T06:16:54.023836613Z",
+  "timestamp": "2026-10-16T22:01:41.709913617Z",
   "model": "glm-5.3"
 }

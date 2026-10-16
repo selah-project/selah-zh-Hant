@@ -5,41 +5,15 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "קרן",
-      "rationale": "קרן 字根為「角」；武加大譯本作「有角」，造成「摩西長角」的傳統；本處依上下文取「發光／放射光芒」"
-    },
-    {
-      "kind": "substitution",
-      "subject": "אתו",
-      "rationale": "介詞形 אתו「與他」（H854）；依紀律保留 ⟨את⟩ 記號，語義為「與他」"
-    },
-    {
-      "kind": "addition",
-      "subject": "重新",
-      "rationale": "השיב 字面為「使回到原處」，中文以「重新放回」表達"
-    }
-  ],
-  "translation": "以色列人看見摩西的臉，知道摩西臉上的皮膚發光；摩西就用帕子蒙上臉，直到他進去與⟨את⟩他說話為止。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "4aa8508be69368953ec3ba37530f3ff8c79389f62ceabe09401fb2354c5966b4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/34\/33-35.1792126454769.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "以色列人看見 ⟨את⟩ 摩西的臉，因為摩西臉上的皮膚發光，摩西就把帕子重新放回臉上，直到他進去與他說話為止。",
   "tokens": [
     {
       "surface": "וראו",
-      "gloss": "他們看見"
+      "gloss": "看見"
     },
     {
       "surface": "בני",
-      "gloss": "……的子孫"
+      "gloss": "……的子民"
     },
     {
       "surface": "ישראל",
@@ -60,11 +34,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "知道"
+      "gloss": "因為"
     },
     {
       "surface": "קרן",
-      "gloss": "發光"
+      "gloss": "發光（如角狀光芒射出）"
     },
     {
       "surface": "עור",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "והשיב",
-      "gloss": "重新放回"
+      "gloss": "放回"
     },
     {
       "surface": "משה",
@@ -117,10 +91,9 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "與他"
+      "gloss": "⟨את⟩他"
     }
   ],
-  "timestamp": "2026-10-16T04:54:14.771056114Z",
+  "timestamp": "2026-10-16T22:20:24.215253781Z",
   "model": "glm-5.3"
 }

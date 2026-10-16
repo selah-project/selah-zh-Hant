@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "סנורים",
-      "rationale": "本節無此詞；17節的「火馬火車」圖像於後續18節 שנורים（目盲）形成對比，多數譯本作「眼盲」"
-    },
-    {
-      "kind": "addition",
-      "subject": "火馬和火車",
-      "rationale": "希伯來文「火」單數一次修飾「馬」與「車」，中文重複「火」字以通順"
-    }
-  ],
-  "translation": "以利沙禱告說：「雅威啊，求祢開他的眼，使他能看見。」雅威就開了那少年人的眼，他就看見了；看哪，滿山都是火馬和火車，環繞著以利沙。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "677dd9e7162bd760a52af816469ff67cad88492fb583f9e63928584f72bf634a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/6\/17-20.1792133660518.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "以利沙禱告說：「雅威啊，求你開他的眼睛，使他能看見。」雅威開了⟨את⟩那少年人的眼睛，他就看見了；看哪，滿山都是火馬和火車，環繞著以利沙。",
   "tokens": [
     {
       "surface": "ויתפלל",
@@ -50,20 +29,20 @@
     },
     {
       "surface": "נא",
-      "gloss": "求祢"
+      "gloss": "求你"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他的眼"
+      "marks": "他的眼睛"
     },
     {
       "surface": "עיניו",
-      "gloss": "他的眼"
+      "gloss": "他的眼睛"
     },
     {
       "surface": "ויראה",
-      "gloss": "他能看見"
+      "gloss": "使他能看見"
     },
     {
       "surface": "ויפקח",
@@ -76,11 +55,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那少年人的眼"
+      "marks": "那少年人的眼睛"
     },
     {
       "surface": "עיני",
-      "gloss": "…的眼"
+      "gloss": "……的眼睛"
     },
     {
       "surface": "הנער",
@@ -104,11 +83,11 @@
     },
     {
       "surface": "סוסים",
-      "gloss": "馬"
+      "gloss": "火馬"
     },
     {
       "surface": "ורכב",
-      "gloss": "和車"
+      "gloss": "和火車"
     },
     {
       "surface": "אש",
@@ -123,6 +102,6 @@
       "gloss": "以利沙"
     }
   ],
-  "timestamp": "2026-10-16T06:54:20.518918308Z",
+  "timestamp": "2026-10-16T22:08:03.307199015Z",
   "model": "glm-5.3"
 }

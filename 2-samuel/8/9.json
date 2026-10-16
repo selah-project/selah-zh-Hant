@@ -5,23 +5,7 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "因為",
-      "rationale": "希伯來文 כי 引導受詞子句，中文需連接詞"
-    }
-  ],
-  "translation": "哈馬王陀以聽見大衛擊殺了哈大底謝的全軍，",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "cda57e7303b88f611917223d5a35d20b103457163d085c67082dfe6e0c6334cf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/8\/9-12.1792131789890.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "哈馬王陀以聽見大衛擊敗了 ⟨את⟩ 哈大底謝的全軍，",
   "tokens": [
     {
       "surface": "וישמע",
@@ -41,11 +25,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "⟨因為⟩"
+      "gloss": "因為"
     },
     {
       "surface": "הכה",
-      "gloss": "擊殺了"
+      "gloss": "擊敗了"
     },
     {
       "surface": "דוד",
@@ -62,13 +46,13 @@
     },
     {
       "surface": "חיל",
-      "gloss": "軍"
+      "gloss": "軍隊"
     },
     {
       "surface": "הדדעזר",
       "gloss": "哈大底謝"
     }
   ],
-  "timestamp": "2026-10-16T06:23:09.890814301Z",
+  "timestamp": "2026-10-16T22:11:31.635881317Z",
   "model": "glm-5.3"
 }

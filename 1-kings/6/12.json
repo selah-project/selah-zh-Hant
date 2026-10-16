@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "對所羅門",
-      "rationale": "雅威直接向所羅門說話，以「你」貫穿全節的條件與應許。"
-    },
-    {
-      "kind": "crux",
-      "subject": "אתך",
-      "rationale": "此處 את 是「與你同在」的介詞（H854），非受詞記號；各譯本作 with you / unto thee，中譯作「在你身上」。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "דבר",
-      "rationale": "「我的話語」與「我所說的話」同字根重複呼應，中文以重複「話」字保留。"
-    }
-  ],
-  "translation": "「論到你所建造的這殿：你若遵行我的律例，謹守 ⟨את⟩ 我的典章並且遵行，又遵守 ⟨את⟩ 我的一切誡命、循此而行，我就必在你身上堅立 ⟨את⟩ 我的話語，就是我對你父親大衛所說的話。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b291258192b9064879a8291a92eedb88d5b66afdef0b548eeb45d4d9e83554b7",
-    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/1-kings/6/9-12.1792132611900.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "這殿，就是你所建造的這房屋：你若遵行我的律例，施行 ⟨את⟩ 我的典章，謹守我的一切誡命去遵行，我就必在你身上堅立我的話，就是我向你父親大衛所說的話。",
   "tokens": [
     {
       "surface": "הבית",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "所……的"
+      "gloss": "就是"
     },
     {
       "surface": "אתה",
@@ -76,16 +50,16 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "謹守並且遵行"
+      "gloss": "施行"
     },
     {
       "surface": "ושמרת",
-      "gloss": "又遵守"
+      "gloss": "謹守"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我的一切誡命"
+      "marks": "一切誡命"
     },
     {
       "surface": "כל",
@@ -97,11 +71,11 @@
     },
     {
       "surface": "ללכת",
-      "gloss": "循此而行"
+      "gloss": "去遵行"
     },
     {
       "surface": "בהם",
-      "gloss": "在其中"
+      "gloss": "它們"
     },
     {
       "surface": "והקמתי",
@@ -110,19 +84,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我的話語"
+      "marks": "我的話"
     },
     {
       "surface": "דברי",
-      "gloss": "我的話語"
+      "gloss": "我的話"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩在你身上"
+      "gloss": "⟨את⟩與你"
     },
     {
       "surface": "אשר",
-      "gloss": "所……的"
+      "gloss": "就是"
     },
     {
       "surface": "דברתי",
@@ -130,7 +104,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "對"
+      "gloss": "向"
     },
     {
       "surface": "דוד",
@@ -141,10 +115,6 @@
       "gloss": "你的父親"
     }
   ],
-  "timestamp": "2026-10-16T06:36:51.902443199Z",
-  "model": "glm-5.3",
-  "s2t": {
-    "date": "2026-10-16",
-    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
-  }
+  "timestamp": "2026-10-16T21:59:33.316439030Z",
+  "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "esther",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "יד",
-      "rationale": "「交在……手中」的「手」直譯保留，希伯來成語「在……的手中」即「交給」"
-    },
-    {
-      "kind": "hapax",
-      "subject": "הפרתמים",
-      "rationale": "פרתמים 是波斯借詞，指波斯宮廷的貴族大臣"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חפץ ביקרו",
-      "rationale": "「喜悅尊榮他」在6:7、9、11三次重複，是本段的鑰句"
-    }
-  ],
-  "translation": "又要將朝服和馬交在王最尊貴的大臣手中的一個手裡，給王所喜悅尊榮的人穿上，使他騎上馬，走遍城內的街市，在他面前宣告說：王所喜悅尊榮的人，就要這樣待他。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "cab17817ff1e14b4b86f16d7cbabc5a922309a5d4dc532f7e3a2c20a028f55ca",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/esther\/6\/9-12.1792147153929.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "又將朝服和馬交在王的一位貴族首領——帕特姆大臣——手中，他們要給王所喜悅尊榮的人穿上⟨את⟩那衣服，使他騎上馬，行走城中的寬闊街道，並在他面前宣告：王所喜悅尊榮的人，就要這樣待他！」",
   "tokens": [
     {
       "surface": "ונתון",
-      "gloss": "要將……交在"
+      "gloss": "又將……交在"
     },
     {
       "surface": "הלבוש",
@@ -51,15 +25,15 @@
     },
     {
       "surface": "יד",
-      "gloss": "手"
+      "gloss": "手中"
     },
     {
       "surface": "איש",
-      "gloss": "一個"
+      "gloss": "一位"
     },
     {
       "surface": "משרי",
-      "gloss": "大臣"
+      "gloss": "首領"
     },
     {
       "surface": "המלך",
@@ -67,16 +41,16 @@
     },
     {
       "surface": "הפרתמים",
-      "gloss": "最尊貴的"
+      "gloss": "帕特姆大臣"
     },
     {
       "surface": "והלבישו",
-      "gloss": "給……穿上"
+      "gloss": "他們要給……穿上"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那人"
+      "marks": "那衣服（給那人穿上）"
     },
     {
       "surface": "האיש",
@@ -112,15 +86,15 @@
     },
     {
       "surface": "ברחוב",
-      "gloss": "街市"
+      "gloss": "行走……的寬闊街道"
     },
     {
       "surface": "העיר",
-      "gloss": "城的"
+      "gloss": "城"
     },
     {
       "surface": "וקראו",
-      "gloss": "宣告"
+      "gloss": "並宣告"
     },
     {
       "surface": "לפניו",
@@ -132,11 +106,11 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "待"
+      "gloss": "待他"
     },
     {
       "surface": "לאיש",
-      "gloss": "那人"
+      "gloss": "給那人"
     },
     {
       "surface": "אשר",
@@ -155,6 +129,6 @@
       "gloss": "尊榮他"
     }
   ],
-  "timestamp": "2026-10-16T10:39:13.930046566Z",
+  "timestamp": "2026-10-16T22:17:20.764705694Z",
   "model": "glm-5.3"
 }

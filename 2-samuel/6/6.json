@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שמטו",
-      "reason": "動詞字面為「鬆開／摔落」：欽定本「牛晃動了櫃」對楊氏直譯本「他們放開了牛」；和合本等作「失前蹄」"
-    },
-    {
-      "kind": "elision",
-      "subject": "את",
-      "rationale": "受詞記號 את 於此節原文未見"
-    }
-  ],
-  "translation": "他們到了拿concatenatedכן׳的打穀場，烏撒伸手扶 ⟨את⟩ 神的櫃，因為牛失前蹄〈絆跌〉。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "99189915eaf72642e10d5faa67746224728450704f4fc4027ba533f283139233",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/6\/5-8.1792131821003.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們來到拿艮的禾場，烏撒伸手到以羅欣的約櫃，抓住它，因為牛失了前蹄。",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "他們到了"
+      "gloss": "他們來到"
     },
     {
       "surface": "עד",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "גרן",
-      "gloss": "打穀場"
+      "gloss": "禾場"
     },
     {
       "surface": "נכון",
-      "gloss": "拿肯"
+      "gloss": "拿艮"
     },
     {
       "surface": "וישלח",
-      "gloss": "伸手"
+      "gloss": "他伸手"
     },
     {
       "surface": "עזא",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "向"
+      "gloss": "到"
     },
     {
       "surface": "ארון",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "神（以羅欣）的"
+      "gloss": "以羅欣的"
     },
     {
       "surface": "ויאחז",
-      "gloss": "扶住"
+      "gloss": "抓住"
     },
     {
       "surface": "בו",
@@ -78,13 +57,13 @@
     },
     {
       "surface": "שמטו",
-      "gloss": "失前蹄"
+      "gloss": "失了前蹄"
     },
     {
       "surface": "הבקר",
       "gloss": "牛"
     }
   ],
-  "timestamp": "2026-10-16T06:23:41.004607800Z",
+  "timestamp": "2026-10-16T22:11:21.840707365Z",
   "model": "glm-5.3"
 }

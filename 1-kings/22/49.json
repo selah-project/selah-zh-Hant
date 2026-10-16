@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "עשר",
-      "rationale": "有抄本作「建造」（עשה）、「十艘」（עשר）或「死亡」（עשרה 徒 4 節式）之異讀；十艘船無法確定，故不譯出"
-    },
-    {
-      "kind": "crux",
-      "subject": "他施的船隻",
-      "rationale": "「他施船隻」可指往他施的船，或一種大型商船的專稱"
-    }
-  ],
-  "translation": "約沙法建造了他施的船隻，要往俄斐去取金子，卻沒有去成，因為船隻在以旬迦別破壞了。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "e920bff9dc800c7fe1971a508456b3c5e064b5537f12b8f3c09dfa751281cdfa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/22\/49-52.1792133438058.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "約沙法製造了他施的船隻，要往俄斐去取金子，卻沒有去，因為船隻在以旬‧迦別被撞碎了。",
   "tokens": [
     {
       "surface": "יהושפט",
@@ -34,19 +13,19 @@
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "十"
     },
     {
       "surface": "אניות",
-      "gloss": "船隻"
+      "gloss": "艘船"
     },
     {
       "surface": "תרשיש",
-      "gloss": "他施的"
+      "gloss": "他施"
     },
     {
       "surface": "ללכת",
-      "gloss": "要往……去"
+      "gloss": "要往…去"
     },
     {
       "surface": "אופירה",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "הלך",
-      "gloss": "去成"
+      "gloss": "去"
     },
     {
       "surface": "כי",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "נשברה",
-      "gloss": "破壞了"
+      "gloss": "被撞碎了"
     },
     {
       "surface": "אניות",
@@ -85,6 +64,6 @@
       "gloss": "迦別"
     }
   ],
-  "timestamp": "2026-10-16T06:50:38.058675308Z",
+  "timestamp": "2026-10-16T21:59:29.638599403Z",
   "model": "glm-5.3"
 }

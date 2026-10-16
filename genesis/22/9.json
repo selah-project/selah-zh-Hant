@@ -5,27 +5,11 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "עקד",
-      "rationale": "ויעקד 是罕見動詞「捆綁」，僅此處及詩 129:7 出現；整個阿克達（被縛）傳統由此字得名"
-    }
-  ],
-  "translation": "他們到了那地方，就是以羅欣對他說明的那裡；亞伯拉罕在那裡築了 ⟨את⟩ 壇，擺好 ⟨את⟩ 柴，就捆綁他的兒子以撒，把他放在壇上，在柴的上面。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ffb8dc1ed9d7bec130c40f64eb719f5c63487ba6aa227e9f271739788fdceebb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/22\/9-12.1792124942128.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們到了以羅欣對他所說的那地方，亞伯拉罕就在那裏築了 ⟨את⟩ 壇，擺好了 ⟨את⟩ 柴，捆綁了他的兒子以撒，把他放在壇上 ⟨את⟩，在柴的上頭。",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "到了"
+      "gloss": "他們到了"
     },
     {
       "surface": "אל",
@@ -37,11 +21,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "那"
     },
     {
       "surface": "אמר",
-      "gloss": "說明"
+      "gloss": "所說"
     },
     {
       "surface": "לו",
@@ -53,11 +37,11 @@
     },
     {
       "surface": "ויבן",
-      "gloss": "築了"
+      "gloss": "就築了"
     },
     {
       "surface": "שם",
-      "gloss": "在那裡"
+      "gloss": "在那裏"
     },
     {
       "surface": "אברהם",
@@ -74,7 +58,7 @@
     },
     {
       "surface": "ויערך",
-      "gloss": "擺好"
+      "gloss": "擺好了"
     },
     {
       "surface": "את",
@@ -87,12 +71,12 @@
     },
     {
       "surface": "ויעקד",
-      "gloss": "捆綁"
+      "gloss": "捆綁了"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "以撒"
+      "marks": "他的兒子以撒"
     },
     {
       "surface": "יצחק",
@@ -104,16 +88,16 @@
     },
     {
       "surface": "וישם",
-      "gloss": "放"
+      "gloss": "把…放了"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "他"
+      "gloss": "⟨את⟩他",
+      "marks": "他（以撒）"
     },
     {
       "surface": "על",
-      "gloss": "在……上"
+      "gloss": "在…上"
     },
     {
       "surface": "המזבח",
@@ -121,13 +105,13 @@
     },
     {
       "surface": "ממעל",
-      "gloss": "在……上面"
+      "gloss": "在…上頭"
     },
     {
       "surface": "לעצים",
       "gloss": "柴"
     }
   ],
-  "timestamp": "2026-10-16T04:29:02.129392713Z",
+  "timestamp": "2026-10-16T22:28:16.750635379Z",
   "model": "glm-5.3"
 }

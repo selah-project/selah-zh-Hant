@@ -5,27 +5,11 @@
   "book": "judges",
   "lang": "zh-Hant",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "מיד",
-      "rationale": "「手」是能力與權勢的轉喻，中文以「…之手」保留其形象"
-    }
-  ],
-  "translation": "以色列的子孫不記念 ⟨את⟩ 雅威他們的以羅欣，就是那拯救他們脫離四圍一切仇敵之手的：",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a2474b97b7277b52bb7b605dbb6e4284280bc694a97b6079539f26435249bbdf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/8\/33-35.1792130275251.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "以色列的子孫沒有記念 ⟨את⟩ 雅威他們的以羅欣，就是那拯救他們脫離四圍一切仇敵之手的那位。",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "而不"
+      "gloss": "沒有"
     },
     {
       "surface": "זכרו",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "的子孫"
+      "gloss": "…的子孫"
     },
     {
       "surface": "ישראל",
@@ -54,15 +38,16 @@
     },
     {
       "surface": "המציל",
-      "gloss": "那拯救…的"
+      "gloss": "拯救他們的"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ 他們"
+      "gloss": "⟨את⟩他們",
+      "marks": "脫離四圍一切仇敵之手"
     },
     {
       "surface": "מיד",
-      "gloss": "脫離…之手"
+      "gloss": "…之手"
     },
     {
       "surface": "כל",
@@ -77,6 +62,6 @@
       "gloss": "四圍"
     }
   ],
-  "timestamp": "2026-10-16T05:57:55.252114291Z",
+  "timestamp": "2026-10-16T22:47:53.342661984Z",
   "model": "glm-5.3"
 }

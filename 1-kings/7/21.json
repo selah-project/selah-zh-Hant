@@ -5,58 +5,37 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "pillar names",
-      "rationale": "兩根柱子被命名——雅斤（他必堅立）與波阿斯（在他有力）——名字本身是紀念。"
-    },
-    {
-      "kind": "addition",
-      "subject": "它",
-      "rationale": "中文需要受詞「它」來指明名字所屬的柱子，希伯來文以 את 加詞尾表達。"
-    }
-  ],
-  "translation": "他豎起柱子在殿的廊子前，又豎起 ⟨את⟩ 右邊的柱子，稱 ⟨את⟩ 它的名字為雅斤；他豎起 ⟨את⟩ 左邊的柱子，稱 ⟨את⟩ 它的名字為波阿斯。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "33701fd0d0bb83b4005a731db5de1f6eea5b4b1460460621e95a6469368eb57b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/7\/21-24.1792132710183.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他豎立 ⟨את⟩ 那些柱子於聖殿的前廊；他豎立 ⟨את⟩ 右柱，稱 ⟨את⟩ 它的名字為雅斤；他豎立 ⟨את⟩ 左柱，稱 ⟨את⟩ 它的名字為波阿斯。",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "他豎起"
+      "gloss": "他豎立"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "柱子"
+      "marks": "那些柱子"
     },
     {
       "surface": "העמדים",
-      "gloss": "柱子"
+      "gloss": "那些柱子"
     },
     {
       "surface": "לאלם",
-      "gloss": "廊子前"
+      "gloss": "前廊"
     },
     {
       "surface": "ההיכל",
-      "gloss": "殿"
+      "gloss": "聖殿"
     },
     {
       "surface": "ויקם",
-      "gloss": "又豎起"
+      "gloss": "他豎立"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "右邊的柱子"
+      "marks": "右柱"
     },
     {
       "surface": "העמוד",
@@ -68,7 +47,7 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "稱"
+      "gloss": "他稱"
     },
     {
       "surface": "את",
@@ -85,12 +64,12 @@
     },
     {
       "surface": "ויקם",
-      "gloss": "他豎起"
+      "gloss": "他豎立"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "左邊的柱子"
+      "marks": "左柱"
     },
     {
       "surface": "העמוד",
@@ -102,7 +81,7 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "稱"
+      "gloss": "他稱"
     },
     {
       "surface": "את",
@@ -118,6 +97,6 @@
       "gloss": "波阿斯"
     }
   ],
-  "timestamp": "2026-10-16T06:38:30.184383223Z",
+  "timestamp": "2026-10-16T21:59:51.744068974Z",
   "model": "glm-5.3"
 }

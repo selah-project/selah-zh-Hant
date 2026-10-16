@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "七天",
-      "rationale": "隔離期以日數計算，屬禮儀性檢疫程序"
-    },
-    {
-      "kind": "idiom",
-      "subject": "הסגיר",
-      "rationale": "字面為「關閉」，意為將患者隔離等待複查"
-    }
-  ],
-  "translation": "祭司察看 ⟨את⟩ 頭癩的災病時，看哪，它的外觀不深於皮膚，其中也沒有黑毛，祭司就要將患頭癩災病的人隔離七天。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "08dd866d5dc9caaa878b0f1cf74cce8a44ede7aab35632f18a52b1c419c0797c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/13\/29-32.1792126982010.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "祭司察看 ⟨את⟩ 癬疥的患處，看哪，它的外觀不深過皮膚，其中也沒有黑毛，祭司就要將那有癬疥患處的人隔離七天。",
   "tokens": [
     {
       "surface": "וכי",
@@ -43,15 +22,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "頭癩的災病"
+      "marks": "癬疥的患處"
     },
     {
       "surface": "נגע",
-      "gloss": "災病"
+      "gloss": "患處"
     },
     {
       "surface": "הנתק",
-      "gloss": "頭癩"
+      "gloss": "癬疥"
     },
     {
       "surface": "והנה",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "於"
+      "gloss": "過"
     },
     {
       "surface": "העור",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "שחר",
-      "gloss": "黑色"
+      "gloss": "黑"
     },
     {
       "surface": "אין",
@@ -104,15 +83,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "頭癩的災病"
+      "marks": "癬疥患處的人"
     },
     {
       "surface": "נגע",
-      "gloss": "災病"
+      "gloss": "患處"
     },
     {
       "surface": "הנתק",
-      "gloss": "頭癩"
+      "gloss": "癬疥"
     },
     {
       "surface": "שבעת",
@@ -123,6 +102,6 @@
       "gloss": "天"
     }
   ],
-  "timestamp": "2026-10-16T05:03:02.011383575Z",
+  "timestamp": "2026-10-16T22:48:56.159664564Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "押沙龍的手",
-      "rationale": "יד אבשלם 直譯「押沙龍的手」；多數譯本作「押沙龍的紀念碑／柱」，KJV 依 qere 作「押沙龍的地方」；直譯保留了字面"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מצבת vs גל",
-      "rationale": "押沙龍生前自立的站石（17節的 ויצב 同根）與死後被堆的亂石堆恰成對照"
-    },
-    {
-      "kind": "hapax",
-      "subject": "לקח…ויצב",
-      "rationale": "「取了又立了」的動詞組合，希伯來文法上懸而未決：ויצב 或為動詞、或視 מצבת 為其名詞形，各譯本處理不同"
-    }
-  ],
-  "translation": "押沙龍活著的時候，曾為自己取立了一根石柱——就是王谷中的那根柱子，因為他說：「我沒有兒子，不能使我的名被記念。」他按自己的名稱呼那石柱，直到今日它被稱為押沙龍的手。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a3385d7e7061cab6f1dbfea11606d7db1d1288afa95d0129e8f35c584ccd1cde",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/18\/17-20.1792132238217.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "押沙龍生前為自己取了一塊石，在王谷為自己立了 ⟨את⟩ 紀念碑，因為他說：「我沒有兒子，好使我的名被記念。」他就以自己的名稱呼那紀念碑；直到今日，它被稱為押沙龍手〈紀念碑〉。",
   "tokens": [
     {
       "surface": "ואבשלם",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "לקח",
-      "gloss": "取立"
+      "gloss": "取了"
     },
     {
       "surface": "ויצב",
-      "gloss": "立起"
+      "gloss": "立了"
     },
     {
       "surface": "לו",
@@ -51,28 +25,28 @@
     },
     {
       "surface": "בחיו",
-      "gloss": "在他活著的時候"
+      "gloss": "生前"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "石柱"
+      "marks": "紀念碑"
     },
     {
       "surface": "מצבת",
-      "gloss": "石柱"
+      "gloss": "紀念碑"
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "那"
     },
     {
       "surface": "בעמק",
-      "gloss": "在谷中"
+      "gloss": "在…谷"
     },
     {
       "surface": "המלך",
-      "gloss": "王的"
+      "gloss": "王"
     },
     {
       "surface": "כי",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "給我"
+      "gloss": "我"
     },
     {
       "surface": "בן",
@@ -96,11 +70,11 @@
     },
     {
       "surface": "בעבור",
-      "gloss": "為要"
+      "gloss": "好使"
     },
     {
       "surface": "הזכיר",
-      "gloss": "使…被記念"
+      "gloss": "被記念"
     },
     {
       "surface": "שמי",
@@ -108,23 +82,23 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "他稱"
+      "gloss": "他就稱呼"
     },
     {
       "surface": "למצבת",
-      "gloss": "那石柱"
+      "gloss": "那紀念碑"
     },
     {
       "surface": "על",
-      "gloss": "按"
+      "gloss": "以"
     },
     {
       "surface": "שמו",
-      "gloss": "他的名"
+      "gloss": "自己的名"
     },
     {
       "surface": "ויקרא",
-      "gloss": "被稱為"
+      "gloss": "它被稱為"
     },
     {
       "surface": "לה",
@@ -151,6 +125,6 @@
       "gloss": "這"
     }
   ],
-  "timestamp": "2026-10-16T06:30:38.218625471Z",
+  "timestamp": "2026-10-16T22:10:20.291664914Z",
   "model": "glm-5.3"
 }

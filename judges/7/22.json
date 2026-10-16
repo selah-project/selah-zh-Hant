@@ -5,40 +5,19 @@
   "book": "judges",
   "lang": "zh-Hant",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "צררתה",
-      "rationale": "地名寫法各本不同：KJV「Zererath」、ASV「Zererah」，採音譯「采雷拉」"
-    },
-    {
-      "kind": "addition",
-      "subject": "的時候",
-      "rationale": "中文需時間從句標明三百年吹角與雅威行動的關係"
-    }
-  ],
-  "translation": "三百人吹角的時候，雅威使各人的刀指向他的同伴，並指向全營；全營就逃到伯・示他、直到采雷拉、直到亞伯・米何拉的邊界、靠近他巴。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "8699ab3f9bafa683adfbd66a3ac3ee0b966786419dd34a1a2f0cf0bc64631a3f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/7\/21-24.1792130355651.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "三百人吹起了角，雅威使 ⟨את⟩ 各人的刀指向他的同伴，並指向全營；全營就逃跑，直到伯．示他，在撒勒拉，直到亞伯．米何拉的邊界，靠近他巴。",
   "tokens": [
     {
       "surface": "ויתקעו",
-      "gloss": "吹"
+      "gloss": "吹起了"
     },
     {
       "surface": "שלש",
-      "gloss": "三"
+      "gloss": "三百"
     },
     {
       "surface": "מאות",
-      "gloss": "百"
+      "gloss": "（人）"
     },
     {
       "surface": "השופרות",
@@ -55,7 +34,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "刀"
+      "marks": "各人的刀"
     },
     {
       "surface": "חרב",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "各人的"
+      "gloss": "各人"
     },
     {
       "surface": "ברעהו",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "ובכל",
-      "gloss": "並指向全"
+      "gloss": "並……全"
     },
     {
       "surface": "המחנה",
@@ -79,11 +58,11 @@
     },
     {
       "surface": "וינס",
-      "gloss": "逃到"
+      "gloss": "就逃跑"
     },
     {
       "surface": "המחנה",
-      "gloss": "全營"
+      "gloss": "營"
     },
     {
       "surface": "עד",
@@ -91,15 +70,15 @@
     },
     {
       "surface": "בית",
-      "gloss": "伯"
+      "gloss": "伯．示他"
     },
     {
       "surface": "השטה",
-      "gloss": "・示他"
+      "gloss": "（伯．示他）"
     },
     {
       "surface": "צררתה",
-      "gloss": "采雷拉"
+      "gloss": "撒勒拉"
     },
     {
       "surface": "עד",
@@ -111,11 +90,11 @@
     },
     {
       "surface": "אבל",
-      "gloss": "亞伯"
+      "gloss": "亞伯．米何拉"
     },
     {
       "surface": "מחולה",
-      "gloss": "・米何拉的"
+      "gloss": "（亞伯．米何拉）"
     },
     {
       "surface": "על",
@@ -126,6 +105,6 @@
       "gloss": "他巴"
     }
   ],
-  "timestamp": "2026-10-16T05:59:15.652675981Z",
+  "timestamp": "2026-10-16T22:48:05.341816553Z",
   "model": "glm-5.3"
 }

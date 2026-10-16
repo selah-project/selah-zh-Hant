@@ -5,36 +5,20 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "的",
-      "rationale": "中文須以「的」連接關係子句，希伯來文אשר僅為關係詞"
-    }
-  ],
-  "translation": "她把美味和 ⟨את⟩ 她所做的餅交在雅各她兒子的手中。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b9f5ac93c4b19e32d3e276b6799c30171c735927f297486fe06800602342f55f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/27\/17-20.1792125133310.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "她把美味的食物和 ⟨את⟩ 餅交在她兒子雅各手中——就是她所預備的。",
   "tokens": [
     {
       "surface": "ותתן",
-      "gloss": "她把……交"
+      "gloss": "她把…交在"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "美味"
+      "marks": "美味食物之後的第二受詞——餅"
     },
     {
       "surface": "המטעמים",
-      "gloss": "美味"
+      "gloss": "美味食物"
     },
     {
       "surface": "ואת",
@@ -47,15 +31,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "……的"
+      "gloss": "就是…的"
     },
     {
       "surface": "עשתה",
-      "gloss": "她所做的"
+      "gloss": "她所預備的"
     },
     {
       "surface": "ביד",
-      "gloss": "在……的手中"
+      "gloss": "在…手中"
     },
     {
       "surface": "יעקב",
@@ -63,9 +47,9 @@
     },
     {
       "surface": "בנה",
-      "gloss": "她的兒子"
+      "gloss": "她兒子"
     }
   ],
-  "timestamp": "2026-10-16T04:32:13.310888322Z",
+  "timestamp": "2026-10-16T22:28:25.405605247Z",
   "model": "glm-5.3"
 }

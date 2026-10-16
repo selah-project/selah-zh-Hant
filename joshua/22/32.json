@@ -5,27 +5,11 @@
   "book": "joshua",
   "lang": "zh-Hant",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "וישב／וישבו",
-      "rationale": "同根 שׁוב 連用：他「返回」（וישב）、又「帶回」（וישבו）話；中文以「回」與「回覆」呼應。"
-    }
-  ],
-  "translation": "祭司以利亞撒的兒子非尼哈和眾首領，就從基列地、從呂便人和迦得人那裏回迦南地、到以色列人那裏，向他們回覆 ⟨את⟩ 這話。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c1ebaec8e43e20991fa2365e70a645cef56aea363573847f5af6b10ad644769a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/22\/29-32.1792129964354.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "於是，亞倫家的祭司以利亞撒的兒子非尼哈和眾首領，從流便子孫那裏、並從迦得子孫那裏，離開⟨את⟩基列地，回到迦南地，回到以色列子孫那裏，就帶回話語給⟨את⟩他們。",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "回"
+      "gloss": "於是……返回"
     },
     {
       "surface": "פינחס",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "的兒子"
+      "gloss": "兒子"
     },
     {
       "surface": "אלעזר",
@@ -49,23 +33,24 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ 從"
+      "gloss": "離開⟨את⟩"
     },
     {
       "surface": "בני",
-      "gloss": "人"
+      "gloss": "子孫"
     },
     {
       "surface": "ראובן",
-      "gloss": "呂便"
+      "gloss": "流便"
     },
     {
       "surface": "ומאת",
-      "gloss": "⟨את⟩ 和從"
+      "gloss": "並離開⟨את⟩",
+      "marks": "迦得子孫"
     },
     {
       "surface": "בני",
-      "gloss": "人"
+      "gloss": "子孫"
     },
     {
       "surface": "גד",
@@ -73,7 +58,7 @@
     },
     {
       "surface": "מארץ",
-      "gloss": "從……地"
+      "gloss": "從地"
     },
     {
       "surface": "הגלעד",
@@ -81,7 +66,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "回"
+      "gloss": "回到"
     },
     {
       "surface": "ארץ",
@@ -97,7 +82,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "人"
+      "gloss": "子孫"
     },
     {
       "surface": "ישראל",
@@ -105,17 +90,18 @@
     },
     {
       "surface": "וישבו",
-      "gloss": "回覆"
+      "gloss": "就帶回"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ 他們"
+      "gloss": "⟨את⟩他們",
+      "marks": "話語"
     },
     {
       "surface": "דבר",
-      "gloss": "這話"
+      "gloss": "話語"
     }
   ],
-  "timestamp": "2026-10-16T05:52:44.355842829Z",
+  "timestamp": "2026-10-16T22:44:04.624288922Z",
   "model": "glm-5.3"
 }

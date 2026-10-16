@@ -5,77 +5,51 @@
   "book": "proverbs",
   "lang": "zh-Hant",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "不可……為友",
-      "rationale": "對讀者的直接禁令命令。"
-    },
-    {
-      "kind": "idiom",
-      "subject": "בעל אף",
-      "rationale": "字面『怒之主人』，即易怒之人；אף 本義是鼻孔——怒氣由鼻噴出。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "與……為友",
-      "rationale": "תתרע 源自『牧放、作伴』，意為結交同遊，非泛泛『朋友』一詞。"
-    }
-  ],
-  "translation": "不可與易怒的人為友，也不可與暴怒的人來往。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "7191a4cd079789256875c6d53c0ddd0ea3b9f157776e2217f308ffd5ff543a77",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/22\/21-24.1792145574642.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "不可結交 ⟨את⟩ 易怒之人的朋友，與暴怒的人，你不可同行。",
   "tokens": [
     {
-      "surface": "אל",
+      "surface": "אַל",
       "gloss": "不可"
     },
     {
-      "surface": "תתרע",
-      "gloss": "與……為友"
+      "surface": "תִּתְרַע",
+      "gloss": "結交為友"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "易怒的人"
+      "marks": "易怒之人"
     },
     {
-      "surface": "בעל",
-      "gloss": "……的人（擁有者）"
+      "surface": "בַַּּ֣עַל",
+      "gloss": "易怒之人（直譯：怒氣之主）"
     },
     {
-      "surface": "אף",
-      "gloss": "怒"
+      "surface": "אַף",
+      "gloss": "怒氣"
     },
     {
-      "surface": "ואת",
+      "surface": "וְאֶת",
       "gloss": "⟨את⟩",
       "marks": "暴怒的人"
     },
     {
-      "surface": "איש",
+      "surface": "אִישׁ",
       "gloss": "人"
     },
     {
-      "surface": "חמות",
-      "gloss": "暴怒"
+      "surface": "חֵמוֹת",
+      "gloss": "暴怒的"
     },
     {
-      "surface": "לא",
-      "gloss": "不"
+      "surface": "לֹא",
+      "gloss": "不可"
     },
     {
-      "surface": "תבוא",
-      "gloss": "可來往"
+      "surface": "תָבוֹא",
+      "gloss": "同行（直譯：進入）"
     }
   ],
-  "timestamp": "2026-10-16T10:12:54.643732856Z",
+  "timestamp": "2026-10-16T22:57:20.062546810Z",
   "model": "glm-5.3"
 }

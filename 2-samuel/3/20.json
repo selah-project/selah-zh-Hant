@@ -5,29 +5,7 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "gloss note": "",
-      "rationale": "關係詞אשר由中文「那些……的」結構吸收，未單獨成詞譯出"
-    },
-    {
-      "kind": "substitution",
-      "subject": "משתה",
-      "rationale": "原意「飲」、引申「筵席」，取引申義"
-    }
-  ],
-  "translation": "押尼珥帶著二十個人來到大衛那裡，到希伯崙；大衛就為押尼珥和 ⟨את⟩ 與他同來的人擺設筵席。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "424e995d0d37f3e3e017e33cda1da598fcdedb20354438fe2546854126fd3d48",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/3\/17-20.1792131724739.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "押尼珥來到希伯崙見大衛，與他同來的有二十人；大衛就為押尼珥和與他同行的人擺設筵席。",
   "tokens": [
     {
       "surface": "ויבא",
@@ -39,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "到"
+      "gloss": "見"
     },
     {
       "surface": "דוד",
@@ -51,7 +29,8 @@
     },
     {
       "surface": "ואתו",
-      "gloss": "⟨את⟩ 與他同在"
+      "gloss": "⟨את⟩他同來",
+      "marks": "二十人"
     },
     {
       "surface": "עשרים",
@@ -59,11 +38,11 @@
     },
     {
       "surface": "אנשים",
-      "gloss": "個人"
+      "gloss": "人"
     },
     {
       "surface": "ויעש",
-      "gloss": "就為……擺設"
+      "gloss": "擺設"
     },
     {
       "surface": "דוד",
@@ -75,21 +54,23 @@
     },
     {
       "surface": "ולאנשים",
-      "gloss": "和為……的人"
+      "gloss": "和…的人",
+      "marks": "與他同行的人"
     },
     {
       "surface": "אשר",
-      "gloss": "那些"
+      "gloss": "與"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ 與他同在"
+      "gloss": "⟨את⟩他",
+      "marks": "與他同行的人"
     },
     {
       "surface": "משתה",
       "gloss": "筵席"
     }
   ],
-  "timestamp": "2026-10-16T06:22:04.741272137Z",
+  "timestamp": "2026-10-16T22:10:44.408856315Z",
   "model": "glm-5.3"
 }

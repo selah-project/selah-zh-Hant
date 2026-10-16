@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "zh-Hant",
   "chapter": 51,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "安歇之地的首領",
-      "rationale": "שר מנוחה：KJV「安靜的君」（視מנוחה為形容）、ASV「內侍總管」、JPS「軍需官」（宿營官）；本譯按名詞構詞字面作「安歇（宿營）之地的首領」"
-    },
-    {
-      "kind": "addition",
-      "subject": "〈受命〉",
-      "rationale": "希伯來文 בלכתו את צדקיהו 直譯「在西底家往巴比倫去時」，西萊雅隨行之意由上下文補出，中文加括註使句子通順"
-    },
-    {
-      "kind": "elision",
-      "subject": "與",
-      "rationale": "第二個 את（H854「與」）在此是介詞而非受詞記號，譯作「與」，不帶⟨את⟩記號"
-    }
-  ],
-  "translation": "這是先知耶利米吩咐 ⟨את⟩ 西萊雅的話——西萊雅是尼利亞的兒子、瑪西雅的兒子——他在猶大王西底家作王第四年、與西底家同往巴比倫的時候〈受命〉；西萊雅是安歇之地的首領。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "eea8ee844a05b94ffa89ee7d5b917b6de9bf40a974f84664db2d441b91c82ee1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/51\/57-60.1792137855135.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "以下是先知耶利米吩咐 ⟨את⟩ 西萊雅的話；西萊雅是尼利亞的兒子、瑪西雅的孫子〈兒子〉。他隨 ⟨את⟩ 猶大王西底家往巴比倫去的時候，是西底家作王第四年。這西萊雅是個安歇的官長。",
   "tokens": [
     {
       "surface": "הדבר",
-      "gloss": "這話"
+      "gloss": "話"
     },
     {
       "surface": "אשר",
@@ -80,11 +54,12 @@
     },
     {
       "surface": "בלכתו",
-      "gloss": "他去"
+      "gloss": "他去……的時候"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ 與"
+      "gloss": "⟨את⟩ 隨同（與）",
+      "marks": "西底家"
     },
     {
       "surface": "צדקיהו",
@@ -116,17 +91,17 @@
     },
     {
       "surface": "ושריה",
-      "gloss": "而西萊雅"
+      "gloss": "這西萊雅"
     },
     {
       "surface": "שר",
-      "gloss": "首領"
+      "gloss": "官長"
     },
     {
       "surface": "מנוחה",
-      "gloss": "安歇之地"
+      "gloss": "安歇"
     }
   ],
-  "timestamp": "2026-10-16T08:04:15.137302023Z",
+  "timestamp": "2026-10-16T22:41:16.471990593Z",
   "model": "glm-5.3"
 }

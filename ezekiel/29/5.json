@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אותך",
-      "rationale": "אוֹתְךָ 是第二人稱代名詞「你」，與受詞記號 את 同形異詞，非 ⟨את⟩ 標記"
-    },
-    {
-      "kind": "idiom",
-      "subject": "不被收取、不被聚集",
-      "rationale": "字面指屍骨無人收殮埋葬，中文保留否定被動式以存其象"
-    }
-  ],
-  "translation": "我必將你拋棄在曠野，連同你和 ⟨את⟩ 你江河中一切的魚；你必倒在田野的面上，你必不被收取，也不被聚集；我已將你給地上的走獸和天空的飛鳥作食物。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "6259207c75eb5328c10b54ed9170e8492f06ad95e8dfc1a9c6435aa5df65a34d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/29\/5-8.1792138705112.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我必把你丟棄在曠野，你 ⟨את⟩ 和 ⟨את⟩ 你江河裡所有的魚；你必倒在田野的面上，無人收取，也無人收聚；我已把你給地上的走獸和天空的飛鳥作食物。」",
   "tokens": [
     {
       "surface": "ונטשתיך",
-      "gloss": "我必將你拋棄"
+      "gloss": "我必把你丟棄"
     },
     {
       "surface": "המדברה",
@@ -38,17 +17,17 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ 你",
-      "marks": "代名詞，非受詞記號"
+      "gloss": "⟨את⟩",
+      "marks": "你"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "你江河中一切的魚"
+      "marks": "你江河裡所有的魚"
     },
     {
       "surface": "כל",
-      "gloss": "一切的"
+      "gloss": "所有的"
     },
     {
       "surface": "דגת",
@@ -56,11 +35,11 @@
     },
     {
       "surface": "יאריך",
-      "gloss": "你的江河"
+      "gloss": "你江河裡"
     },
     {
       "surface": "על",
-      "gloss": "在……之上"
+      "gloss": "在"
     },
     {
       "surface": "פני",
@@ -88,33 +67,33 @@
     },
     {
       "surface": "תקבץ",
-      "gloss": "被聚集"
+      "gloss": "被收聚"
     },
     {
       "surface": "לחית",
-      "gloss": "給……的走獸"
+      "gloss": "走獸"
     },
     {
       "surface": "הארץ",
-      "gloss": "地上"
+      "gloss": "地上的"
     },
     {
       "surface": "ולעוף",
-      "gloss": "和……的飛鳥"
+      "gloss": "和飛鳥"
     },
     {
       "surface": "השמים",
-      "gloss": "天空"
+      "gloss": "天空的"
     },
     {
       "surface": "נתתיך",
-      "gloss": "我已將你給"
+      "gloss": "我已把你給"
     },
     {
       "surface": "לאכלה",
       "gloss": "作食物"
     }
   ],
-  "timestamp": "2026-10-16T08:18:25.113126831Z",
+  "timestamp": "2026-10-16T22:24:04.996115770Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "zh-Hant",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Jeremiah",
-      "rationale": "雅威直接對耶利米說話"
-    },
-    {
-      "kind": "addition",
-      "subject": "來",
-      "rationale": "中文動詞補語，希伯來文無"
-    }
-  ],
-  "translation": "雅威伸出手來，觸到我的口。雅威對我說：「看哪，我已將我的話放在你口中。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "87dffca751d3f6157f6221fb4f06b3da58528b04b0109d61cfa7f6d9991fbf03",
-    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/jeremiah/1/9-12.1792135942015.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威伸出 ⟨את⟩ 他的手，觸按我的口；雅威對我說：「看哪，我已將我的話放在你口中。」",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "伸出手"
+      "gloss": "伸出"
     },
     {
       "surface": "יהוה",
@@ -43,15 +22,15 @@
     },
     {
       "surface": "ידו",
-      "gloss": "手"
+      "gloss": "他的手"
     },
     {
       "surface": "ויגע",
-      "gloss": "觸到"
+      "gloss": "觸按"
     },
     {
       "surface": "על",
-      "gloss": "在…上"
+      "gloss": "在……之上"
     },
     {
       "surface": "פי",
@@ -86,10 +65,6 @@
       "gloss": "在你口中"
     }
   ],
-  "timestamp": "2026-10-16T07:32:22.016220967Z",
-  "model": "glm-5.3",
-  "s2t": {
-    "date": "2026-10-16",
-    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
-  }
+  "timestamp": "2026-10-16T22:36:06.801264582Z",
+  "model": "glm-5.3"
 }

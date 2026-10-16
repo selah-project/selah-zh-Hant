@@ -5,37 +5,11 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "語序調整",
-      "rationale": "「他和嫩的兒子何西阿」在希伯來文置於句末，中譯提前以合語感。"
-    },
-    {
-      "kind": "crux",
-      "subject": "הושע",
-      "rationale": "此處仍作「何西阿」，尚未改名「約書亞」（參民 13:16）；譯名依文本當下的字面。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "השירה",
-      "rationale": "本歌至此收束；「歌」一詞首現於31:19「你要寫下這首歌」，前後呼應整首歌的框架。"
-    }
-  ],
-  "translation": "摩西來到，他和嫩的兒子何西阿，將這歌的一切話都說在百姓的耳中。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "033fb729d54c35cf01d7b9d8949a650126f85b3350fca9a5ffed1fbf780d10ab",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/32\/41-44.1792129300330.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "摩西來了，他把這歌的一切話都說在百姓的耳中——他何西阿·嫩的兒子也一樣。",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "來到"
+      "gloss": "來了"
     },
     {
       "surface": "משה",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "וידבר",
-      "gloss": "說"
+      "gloss": "說了"
     },
     {
       "surface": "את",
@@ -56,7 +30,7 @@
     },
     {
       "surface": "דברי",
-      "gloss": "…的話"
+      "gloss": "話"
     },
     {
       "surface": "השירה",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "באזני",
-      "gloss": "在…的耳中"
+      "gloss": "在……的耳中"
     },
     {
       "surface": "העם",
@@ -80,17 +54,17 @@
     },
     {
       "surface": "והושע",
-      "gloss": "和何西阿"
+      "gloss": "何西阿"
     },
     {
       "surface": "בן",
-      "gloss": "…的兒子"
+      "gloss": "兒子"
     },
     {
       "surface": "נון",
       "gloss": "嫩"
     }
   ],
-  "timestamp": "2026-10-16T05:41:40.331890627Z",
+  "timestamp": "2026-10-16T22:14:55.697464247Z",
   "model": "glm-5.3"
 }

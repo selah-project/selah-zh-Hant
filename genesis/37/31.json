@@ -5,53 +5,32 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "一隻",
-      "rationale": "中文量詞，希伯來文無冠詞亦無數詞"
-    },
-    {
-      "kind": "elision",
-      "subject": "עזים",
-      "rationale": "「山羊」作修飾語融入「公山羊羔」，希伯來文為名詞並列 שעיר עזים"
-    }
-  ],
-  "translation": "他們取了約瑟的內袍，宰了一隻公山羊羔，把⟨את⟩那內袍蘸在血裡。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "692fc290941d03bb23df236d8ec60075afe942876746287f4a2ad1221c28fab8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/37\/29-32.1792125373239.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們拿了 ⟨את⟩ 約瑟的長衣，宰了一隻公山羊，把 ⟨את⟩ 那件長衣蘸在血中。",
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "取了"
+      "gloss": "他們拿了"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "約瑟的內袍"
+      "marks": "約瑟的長衣"
     },
     {
       "surface": "כתנת",
-      "gloss": "內袍"
+      "gloss": "長衣"
     },
     {
       "surface": "יוסף",
-      "gloss": "約瑟的"
+      "gloss": "約瑟"
     },
     {
       "surface": "וישחטו",
-      "gloss": "宰了"
+      "gloss": "他們宰了"
     },
     {
       "surface": "שעיר",
-      "gloss": "一隻公山羊羔"
+      "gloss": "公山羊"
     },
     {
       "surface": "עזים",
@@ -59,22 +38,22 @@
     },
     {
       "surface": "ויטבלו",
-      "gloss": "蘸"
+      "gloss": "他們蘸了"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那內袍"
+      "marks": "那件長衣"
     },
     {
       "surface": "הכתנת",
-      "gloss": "那內袍"
+      "gloss": "那件長衣"
     },
     {
       "surface": "בדם",
-      "gloss": "在血裡"
+      "gloss": "在血中"
     }
   ],
-  "timestamp": "2026-10-16T04:36:13.240917447Z",
+  "timestamp": "2026-10-16T22:30:19.762416557Z",
   "model": "glm-5.3"
 }

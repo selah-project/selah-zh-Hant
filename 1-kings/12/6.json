@@ -5,23 +5,7 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "是",
-      "rationale": "希伯來文無繫詞，中文需補"
-    }
-  ],
-  "translation": "羅波安王與曾在他父親所羅門在世時侍立在他面前的長老們商議，說：「你們出甚麼主意，我好回覆這百姓一句話？」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "30d70d1fb0c486f1c3829de05a3c22163f03a07de20eb51b51440ed5ebd9a2bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/12\/5-8.1792132985725.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "羅波安王與 ⟨את⟩ 那些長老商議——他們從前在他父親所羅門活著的時候侍立於 ⟨את⟩ 所羅門面前——說：「你們怎樣商議，好回答 ⟨את⟩ 這民一句話呢？」",
   "tokens": [
     {
       "surface": "ויועץ",
@@ -38,27 +22,28 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "長老們"
+      "marks": "那些長老"
     },
     {
       "surface": "הזקנים",
-      "gloss": "長老們"
+      "gloss": "那些長老"
     },
     {
       "surface": "אשר",
-      "gloss": "他們曾"
+      "gloss": "他們"
     },
     {
       "surface": "היו",
-      "gloss": "是"
+      "gloss": "從前是"
     },
     {
       "surface": "עמדים",
-      "gloss": "侍立"
+      "gloss": "侍立者"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ 在……面前"
+      "gloss": "⟨את⟩",
+      "marks": "所羅門面前"
     },
     {
       "surface": "פני",
@@ -74,11 +59,11 @@
     },
     {
       "surface": "בהיתו",
-      "gloss": "在他……的時候"
+      "gloss": "在他的日子"
     },
     {
       "surface": "חי",
-      "gloss": "在世"
+      "gloss": "活著"
     },
     {
       "surface": "לאמר",
@@ -94,20 +79,20 @@
     },
     {
       "surface": "נועצים",
-      "gloss": "出主意"
+      "gloss": "商議"
     },
     {
       "surface": "להשיב",
-      "gloss": "好回覆"
+      "gloss": "好回答"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "這百姓"
+      "marks": "這民"
     },
     {
       "surface": "העם",
-      "gloss": "百姓"
+      "gloss": "這民"
     },
     {
       "surface": "הזה",
@@ -118,6 +103,6 @@
       "gloss": "一句話"
     }
   ],
-  "timestamp": "2026-10-16T06:43:05.726148143Z",
+  "timestamp": "2026-10-16T21:58:02.468298052Z",
   "model": "glm-5.3"
 }

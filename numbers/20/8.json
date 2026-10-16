@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "對磐石說話",
-      "rationale": "命令是說話而非擊打；20:11摩西卻擊打磐石，成了他被拒於迦南之外的著名解經關鍵"
-    },
-    {
-      "kind": "addition",
-      "subject": "去",
-      "rationale": "中文語流需要動詞補足「拿著杖」的動作，希伯來文僅一個「拿」字"
-    }
-  ],
-  "translation": "「你拿著杖去，你和你的哥哥亞倫要聚集會眾，在他們眼前對磐石說話，磐石就流出水來；你要為他們從磐石中取出水，給會眾和他們的牲畜喝。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "94a70a9888109b9de8ef961600711e9237e3d9cfd9df09a09b396562938137bf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/20\/5-8.1792127995420.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "「你拿 ⟨את⟩ 杖，招聚會眾，你和你哥哥亞倫，你們要在他們眼前對那磐石說話，它就會流出它的水；你要為他們從磐石中取出水來，給會眾和他們的牲畜喝。」",
   "tokens": [
     {
       "surface": "קח",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "והקהל",
-      "gloss": "聚集"
+      "gloss": "招聚"
     },
     {
       "surface": "את",
@@ -60,11 +39,11 @@
     },
     {
       "surface": "ואהרן",
-      "gloss": "亞倫"
+      "gloss": "和亞倫"
     },
     {
       "surface": "אחיך",
-      "gloss": "你的哥哥"
+      "gloss": "你哥哥"
     },
     {
       "surface": "ודברתם",
@@ -76,7 +55,7 @@
     },
     {
       "surface": "הסלע",
-      "gloss": "磐石"
+      "gloss": "那磐石"
     },
     {
       "surface": "לעיניהם",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "ונתן",
-      "gloss": "流出"
+      "gloss": "它就會流出"
     },
     {
       "surface": "מימיו",
@@ -92,7 +71,7 @@
     },
     {
       "surface": "והוצאת",
-      "gloss": "取出"
+      "gloss": "你要取出"
     },
     {
       "surface": "להם",
@@ -133,6 +112,10 @@
       "gloss": "他們的牲畜"
     }
   ],
-  "timestamp": "2026-10-16T05:19:55.421540987Z",
-  "model": "glm-5.3"
+  "timestamp": "2026-10-16T22:53:56.451612649Z",
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

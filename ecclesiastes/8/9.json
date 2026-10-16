@@ -5,28 +5,7 @@
   "book": "ecclesiastes",
   "lang": "zh-Hant",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈叫他〉",
-      "rationale": "希伯來文 לרע לו（對他為惡）無明確使役主語，中文補出受事的對象"
-    },
-    {
-      "kind": "crux",
-      "subject": "לרע לו",
-      "rationale": "'對他成為禍患'——受禍者是人治下的臣民還是掌權者自己，譯本分歧（KJV 'to his own hurt' vs JPS 'to his hurt'）"
-    }
-  ],
-  "translation": "⟨את⟩ 這一切我都看見了，也將我的心放在日光之下所行的每一件事上：有一段時候，人轄制人，〈叫他〉受害。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "3965f14a778b1f219bcbcff5d8466f8d59c2570cf7ea3cfa5ce639dcb84d2dff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/8\/9-12.1792147071073.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "這一切我都見過，也專注⟨את⟩我的心於日光之下所行的每一件作為：有一段時候，人轄制人，是為了那人的禍患。",
   "tokens": [
     {
       "surface": "את",
@@ -43,11 +22,11 @@
     },
     {
       "surface": "ראיתי",
-      "gloss": "我都看見了"
+      "gloss": "我都見過"
     },
     {
       "surface": "ונתון",
-      "gloss": "也將……放在"
+      "gloss": "也專注"
     },
     {
       "surface": "את",
@@ -60,11 +39,11 @@
     },
     {
       "surface": "לכל",
-      "gloss": "每一件"
+      "gloss": "於每一件"
     },
     {
       "surface": "מעשה",
-      "gloss": "事"
+      "gloss": "作為"
     },
     {
       "surface": "אשר",
@@ -88,7 +67,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "在那時"
+      "gloss": "⟨那時⟩"
     },
     {
       "surface": "שלט",
@@ -104,13 +83,13 @@
     },
     {
       "surface": "לרע",
-      "gloss": "受害"
+      "gloss": "為禍患"
     },
     {
       "surface": "לו",
-      "gloss": "他自己"
+      "gloss": "那人的"
     }
   ],
-  "timestamp": "2026-10-16T10:37:51.073693762Z",
+  "timestamp": "2026-10-16T22:16:38.826585791Z",
   "model": "glm-5.3"
 }

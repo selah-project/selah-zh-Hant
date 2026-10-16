@@ -5,41 +5,15 @@
   "book": "zechariah",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "祂",
-      "rationale": "說話者是使者，希伯來文僅用動詞形式，中文需補主語"
-    },
-    {
-      "kind": "substitution",
-      "subject": "華美的衣袍",
-      "rationale": "מחלצות字面為「易於脫下之外袍」，諸譯本作「華美衣袍」「禮服」各異"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "לבש／והלבש",
-      "rationale": "穿污衣與換新衣同用לבש一詞，前後呼應"
-    }
-  ],
-  "translation": "祂就回應，對站在面前的那些人說：「你們要從他身上脫去這污穢的衣服。」又對他說：「你要看，我已使你的罪孽離開你，並要給你穿上華美的衣袍。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "da8a6470fc995100aadf0e0b2bb44c7565a486a9e27470e87b3041df666e2e1f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/zechariah\/3\/1-4.1792143018665.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他回答，對站在他面前的⟨那些人⟩說：「把這污穢的衣服從他身上脫去。」又對他說：「看哪，我已使你的罪孽從你身上過去，並要給你穿上 ⟨את⟩ 華美的衣袍。」",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "祂就回應"
+      "gloss": "他回答"
     },
     {
       "surface": "ויאמר",
-      "gloss": "對……說"
+      "gloss": "說"
     },
     {
       "surface": "אל",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "העמדים",
-      "gloss": "站在……的那些人"
+      "gloss": "站在……的人"
     },
     {
       "surface": "לפניו",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "הסירו",
-      "gloss": "你們要脫去"
+      "gloss": "脫去"
     },
     {
       "surface": "הבגדים",
@@ -75,19 +49,19 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "又對……說"
+      "gloss": "又說"
     },
     {
       "surface": "אליו",
-      "gloss": "他"
+      "gloss": "對他"
     },
     {
       "surface": "ראה",
-      "gloss": "你要看"
+      "gloss": "看哪"
     },
     {
       "surface": "העברתי",
-      "gloss": "我已使……離開"
+      "gloss": "我已使……過去"
     },
     {
       "surface": "מעליך",
@@ -98,19 +72,19 @@
       "gloss": "你的罪孽"
     },
     {
-      "surface": "ווהלבש",
-      "gloss": "並要給……穿上"
+      "surface": "והלבש",
+      "gloss": "並要給你穿上"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩你",
-      "marks": "華美的衣袍"
+      "gloss": "⟨את⟩",
+      "marks": "華美的衣袍（מחלצות）"
     },
     {
       "surface": "מחלצות",
       "gloss": "華美的衣袍"
     }
   ],
-  "timestamp": "2026-10-16T09:30:18.666542080Z",
+  "timestamp": "2026-10-16T23:00:22.649441910Z",
   "model": "glm-5.3"
 }

@@ -5,58 +5,32 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "אברך",
-      "rationale": "אַבְרֵךְ 僅見於此處，意義不明；和合本作「跪下」，JPS 保留音譯，也可能是埃及語官銜"
-    },
-    {
-      "kind": "crux",
-      "subject": "המשנה",
-      "rationale": "「第二輛戰車」（次位、僅次於法老）與「他的副車」兩讀；מִשְׁנֶה 字根為「重複、加倍」"
-    },
-    {
-      "kind": "substitution",
-      "subject": "治理",
-      "rationale": "וְנָתוֹן 為不定式「賜、立」，中文以「立他治理」整合"
-    }
-  ],
-  "translation": "又使他坐上 ⟨אתו⟩ 自己的第二輛戰車；人在他面前呼喊：「阿布瑞克」；這樣，法老立他治理全埃及地。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "7f2d25a22a4a16c096db20bb15aa8f88dca21e5e26073dc87360a18dc3844d3f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/41\/41-44.1792125476361.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他使約瑟乘坐他的副車，就是法老所有的〈那〉第二輛車；他們在他面前呼喊：「阿布雷赫」；又立他治理全埃及地。",
   "tokens": [
     {
       "surface": "וירכב",
-      "gloss": "使……坐上"
+      "gloss": "他使他乘坐"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "他"
+      "gloss": "⟨את⟩他",
+      "marks": "副車"
     },
     {
       "surface": "במרכבת",
-      "gloss": "戰車"
+      "gloss": "在副車"
     },
     {
       "surface": "המשנה",
-      "gloss": "第二（副）"
+      "gloss": "第二的"
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "就是"
     },
     {
       "surface": "לו",
-      "gloss": "屬他的"
+      "gloss": "他所有的"
     },
     {
       "surface": "ויקראו",
@@ -68,20 +42,16 @@
     },
     {
       "surface": "אברך",
-      "gloss": "阿布瑞克"
-    },
-    {
-      "surface": "ויקראו",
-      "gloss": ""
+      "gloss": "阿布雷赫"
     },
     {
       "surface": "ונתון",
-      "gloss": "⟨את⟩ 立"
+      "gloss": "又立"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "他"
+      "gloss": "⟨את⟩他",
+      "marks": "全埃及地"
     },
     {
       "surface": "על",
@@ -100,6 +70,6 @@
       "gloss": "埃及"
     }
   ],
-  "timestamp": "2026-10-16T04:37:56.362459088Z",
+  "timestamp": "2026-10-16T22:31:06.129788550Z",
   "model": "glm-5.3"
 }

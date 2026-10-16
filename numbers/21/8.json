@@ -5,33 +5,7 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "旗杆",
-      "rationale": "נס是旗幟、信號、杆；各譯本作「杆」「旗」「標記」"
-    },
-    {
-      "kind": "you",
-      "subject": "對摩西",
-      "rationale": "雅威直接向摩西說話，命令式「做」「掛」"
-    },
-    {
-      "kind": "mystery",
-      "subject": "看而得活",
-      "rationale": "醫治的機制未解釋：僅仰望銅蛇就活，經文不說明其所以然"
-    }
-  ],
-  "translation": "雅威對摩西說：「你為自己做一條火蛇，掛在旗杆上；凡被咬的，一仰望 ⟨את⟩ 牠就活了。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "974bebcc9ae6c61854be7cea6eabdf8c3e39e2ac1182f605aed4ef5efd6015b5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/21\/5-8.1792128029150.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威對摩西說：「你造一條火蛇，把 ⟨את⟩ 牠掛在旗杆上；凡被咬的，一看 ⟨את⟩ 牠就必存活。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "עשה",
-      "gloss": "做"
+      "gloss": "造"
     },
     {
       "surface": "לך",
-      "gloss": "為你自己"
+      "gloss": "你⟨為自己⟩"
     },
     {
       "surface": "שרף",
@@ -63,16 +37,16 @@
     },
     {
       "surface": "ושים",
-      "gloss": "掛"
+      "gloss": "並掛"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩牠",
-      "marks": "火蛇"
+      "gloss": "⟨את⟩",
+      "marks": "牠（火蛇）"
     },
     {
       "surface": "על",
-      "gloss": "在…上"
+      "gloss": "在……上"
     },
     {
       "surface": "נס",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "והיה",
-      "gloss": "將是"
+      "gloss": "事情必如此"
     },
     {
       "surface": "כל",
@@ -92,18 +66,18 @@
     },
     {
       "surface": "וראה",
-      "gloss": "仰望"
+      "gloss": "一看"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩牠",
-      "marks": "火蛇"
+      "gloss": "⟨את⟩",
+      "marks": "牠（火蛇）"
     },
     {
       "surface": "וחי",
-      "gloss": "就活了"
+      "gloss": "就必存活"
     }
   ],
-  "timestamp": "2026-10-16T05:20:29.152105503Z",
+  "timestamp": "2026-10-16T22:54:48.544079080Z",
   "model": "glm-5.3"
 }

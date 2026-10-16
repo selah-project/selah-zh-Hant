@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ויכו",
-      "rationale": "נכה本義是「擊打」；和合本等譯作「打傷」，係依下文（8:29傷勢）的推斷，原文只說「擊打」。"
-    },
-    {
-      "kind": "elision",
-      "subject": "第一個 את",
-      "gloss": "此處 את（H854）為「與……同」的介詞，非受詞記號，故不標 ⟨את⟩。"
-    }
-  ],
-  "translation": "他與亞哈的兒子約蘭同去，在基列的拉末與亞蘭王哈薛爭戰；亞蘭人打傷了 ⟨את⟩ 約蘭。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "4a1b0acfc57e7eb19ee695e459ef2abb98518bbae58973c573515848da0cab8c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/8\/25-28.1792133870343.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他與⟨את⟩約蘭——亞哈的兒子——同去拉末‧基列，與亞蘭王哈薛爭戰；亞蘭人打傷了⟨את⟩約蘭。",
   "tokens": [
     {
       "surface": "וילך",
@@ -34,7 +13,8 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ 與（同去之伴）"
+      "gloss": "⟨את⟩",
+      "marks": "約蘭"
     },
     {
       "surface": "יורם",
@@ -50,11 +30,11 @@
     },
     {
       "surface": "למלחמה",
-      "gloss": "去爭戰"
+      "gloss": "爭戰"
     },
     {
       "surface": "עם",
-      "gloss": "與……交戰"
+      "gloss": "與"
     },
     {
       "surface": "חזהאל",
@@ -78,7 +58,7 @@
     },
     {
       "surface": "ויכו",
-      "gloss": "他們打傷"
+      "gloss": "打傷了"
     },
     {
       "surface": "ארמים",
@@ -94,6 +74,6 @@
       "gloss": "約蘭"
     }
   ],
-  "timestamp": "2026-10-16T06:57:50.344786074Z",
+  "timestamp": "2026-10-16T22:08:25.299976161Z",
   "model": "glm-5.3"
 }

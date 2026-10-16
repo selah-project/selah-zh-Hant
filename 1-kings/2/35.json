@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "נתן…נתן",
-      "rationale": "『立』一字兩次出現，第二子句倒裝（動詞在受詞之後），突出王親自的作為"
-    },
-    {
-      "kind": "addition",
-      "subject": "統管",
-      "rationale": "על הצבא 直譯『在軍隊之上』，中文補動詞『統管』以成句"
-    }
-  ],
-  "translation": "王立耶何耶大的兒子比拿雅代替他統管軍隊，又立⟨את⟩撒督祭司代替亞比亞他。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "073b6f02b96554669512d96159e7aacfe0ac5d23c48b159336762cf540a1d10a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/2\/33-36.1792132510676.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "王立 ⟨את⟩ 耶何耶大的兒子比拿雅代替他統管軍隊，又立 ⟨את⟩ 祭司撒督代替亞比亞他。",
   "tokens": [
     {
       "surface": "ויתן",
@@ -39,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "比拿雅"
+      "marks": "耶何耶大的兒子比拿雅"
     },
     {
       "surface": "בניהו",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "……的兒子"
+      "gloss": "兒子"
     },
     {
       "surface": "יהוידע",
@@ -68,7 +47,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "撒督"
+      "marks": "祭司撒督"
     },
     {
       "surface": "צדוק",
@@ -95,6 +74,6 @@
       "gloss": "亞比亞他"
     }
   ],
-  "timestamp": "2026-10-16T06:35:10.677975732Z",
+  "timestamp": "2026-10-16T21:58:45.601154648Z",
   "model": "glm-5.3"
 }

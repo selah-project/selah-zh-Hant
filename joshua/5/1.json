@@ -5,37 +5,11 @@
   "book": "joshua",
   "lang": "zh-Hant",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "עברנו",
-      "rationale": "第一人稱複數「我們過去」——敘述者突然以親歷者身分發言；諸譯本多改為「他們」。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "רוח",
-      "rationale": "此處 רוח 指膽氣、心神，非尋常的風或魯阿（靈）。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "הוביש",
-      "rationale": "字根兼有「乾涸」與「羞愧」二義，此處取乾涸，雙關意味留存。"
-    }
-  ],
-  "translation": "亞摩利人眾王——就是約旦河以西、沿海一帶的——和迦南人眾王，凡聽見雅威在以色列人面前使約旦河的水乾涸、直到他們過去這事的時候，他們的心就消化了，因以色列人的緣故，他們裡面不再有膽氣。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "25432fdf4013fc71ab1645f5617e6a753df1e8235c7107addd841b415a377264",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/5\/1-4.1792129516008.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "當約旦河西邊所有的亞摩利王、以及沿海所有的迦南王聽見雅威在以色列人面前使 ⟨את⟩ 約旦河的水乾涸、直到我們過去〈為止〉，他們的心就消化了，他們裡面不再有魯阿（氣息），因為以色列人的緣故。",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "發生了"
+      "gloss": "當……的時候"
     },
     {
       "surface": "כשמע",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "眾"
+      "gloss": "所有的"
     },
     {
       "surface": "מלכי",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "亞摩利人"
+      "gloss": "亞摩利"
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "那些"
     },
     {
       "surface": "בעבר",
@@ -67,11 +41,11 @@
     },
     {
       "surface": "ימה",
-      "gloss": "以西"
+      "gloss": "向西"
     },
     {
       "surface": "וכל",
-      "gloss": "和眾"
+      "gloss": "以及所有的"
     },
     {
       "surface": "מלכי",
@@ -79,11 +53,11 @@
     },
     {
       "surface": "הכנעני",
-      "gloss": "迦南人"
+      "gloss": "迦南"
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "那些"
     },
     {
       "surface": "על",
@@ -96,11 +70,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "這事"
+      "marks": "那些事（雅威使約旦河的水乾涸之事）"
     },
     {
       "surface": "אשר",
-      "gloss": "這事"
+      "gloss": "那事"
     },
     {
       "surface": "הוביש",
@@ -121,7 +95,7 @@
     },
     {
       "surface": "הירדן",
-      "gloss": "約旦河"
+      "gloss": "約旦河的"
     },
     {
       "surface": "מפני",
@@ -169,11 +143,11 @@
     },
     {
       "surface": "רוח",
-      "gloss": "膽氣"
+      "gloss": "魯阿（氣息）"
     },
     {
       "surface": "מפני",
-      "gloss": "因……的緣故"
+      "gloss": "因為……的緣故"
     },
     {
       "surface": "בני",
@@ -184,6 +158,6 @@
       "gloss": "以色列"
     }
   ],
-  "timestamp": "2026-10-16T05:45:16.009406139Z",
+  "timestamp": "2026-10-16T22:44:48.743862011Z",
   "model": "glm-5.3"
 }

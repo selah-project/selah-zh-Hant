@@ -5,107 +5,85 @@
   "book": "isaiah",
   "lang": "zh-Hant",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "בתולת בת \/ בת",
-      "rationale": "「處女女兒」是希伯來同位語疊用，中文以〈女兒〉標出第二處以保留結構"
-    },
-    {
-      "kind": "idiom",
-      "subject": "搖頭",
-      "rationale": "希伯來文學動作表譏誚，中文同有成語「向你搖頭」直存其象"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "בזה…לעגה",
-      "rationale": "兩個近義譏誚動詞並列加重語氣，中文以「藐視／嗤笑」對應"
-    }
-  ],
-  "translation": "這是雅威論他所說的話：錫安的處女〈女兒〉藐視你，嗤笑你；耶路撒冷的〈女兒〉向你搖頭。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "f8f297290b9e9191202dd13d6019d168b19d9429db186b525a754d86478de090",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/37\/21-24.1792135336042.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "這是雅威論到他所說的話：錫安的處女、女兒藐視你，嗤笑你；耶路撒冷的女兒在你後面搖頭。",
   "tokens": [
     {
-      "surface": "זה",
+      "surface": "זֶ֣ה",
       "gloss": "這"
     },
     {
-      "surface": "הדבר",
+      "surface": "הַדָּבָ֔ר",
       "gloss": "話"
     },
     {
-      "surface": "אשר",
-      "gloss": "〈論〉"
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "就是"
     },
     {
-      "surface": "דבר",
-      "gloss": "說"
+      "surface": "דִּבֶּ֥ר",
+      "gloss": "說了"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָ֖ה",
       "gloss": "雅威"
     },
     {
-      "surface": "עליו",
-      "gloss": "論他"
+      "surface": "עָלָ֑יו",
+      "gloss": "論到他"
     },
     {
-      "surface": "בזה",
+      "surface": "בָּזָ֨ה",
       "gloss": "藐視"
     },
     {
-      "surface": "לך",
+      "surface": "לְךָ֜",
       "gloss": "你"
     },
     {
-      "surface": "לעגה",
+      "surface": "לָעֲגָ֣ה",
       "gloss": "嗤笑"
     },
     {
-      "surface": "לך",
+      "surface": "לְךָ֗",
       "gloss": "你"
     },
     {
-      "surface": "בתולת",
+      "surface": "בְּתוּלַת֙",
       "gloss": "處女"
     },
     {
-      "surface": "בת",
+      "surface": "בַּת֙",
       "gloss": "女兒"
     },
     {
-      "surface": "ציון",
+      "surface": "צִיּ֔וֹן",
       "gloss": "錫安"
     },
     {
-      "surface": "אחריך",
-      "gloss": "向你"
+      "surface": "אַחֲרֶ֨יךָ֙",
+      "gloss": "在你後面"
     },
     {
-      "surface": "ראש",
+      "surface": "רֹ֣אשׁ",
       "gloss": "頭"
     },
     {
-      "surface": "הניעה",
-      "gloss": "搖"
+      "surface": "הֵנִ֔יעָה",
+      "gloss": "搖了"
     },
     {
-      "surface": "בת",
+      "surface": "בַּ֖ת",
       "gloss": "女兒"
     },
     {
-      "surface": "ירושלם",
+      "surface": "יְרוּשָׁלִָֽם",
       "gloss": "耶路撒冷"
     }
   ],
-  "timestamp": "2026-10-16T07:22:16.043091933Z",
-  "model": "glm-5.3"
+  "timestamp": "2026-10-16T22:34:43.261224688Z",
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

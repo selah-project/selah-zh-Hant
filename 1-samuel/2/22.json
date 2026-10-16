@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הצבאות",
-      "rationale": "「聚集服役的婦人」：צבאות 或指會幕服役的婦人團體（參出38:8）；譯法各異。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "אוהל מועד",
-      "rationale": "直譯「會晤之幕」，固定譯作「會幕」。"
-    },
-    {
-      "kind": "elision",
-      "subject": "מאד",
-      "rationale": "「極其」融入「年紀老邁」，希伯來文為獨立副詞。"
-    }
-  ],
-  "translation": "以利年紀老邁，聽見 ⟨את⟩ 他兒子們對以色列眾人所行的一切事，又聽見 ⟨ואת⟩ 他們與在會幕門口服役的婦人們同寢。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "db67b48edf7b2cadffeb84492376b0055ecaff90a0424ad8bde9f7cae53c8f04",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/2\/21-24.1792130749169.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "以利年紀非常老了，他聽見了他眾子向以色列眾人所行的一切事，以及他們與那些在會幕門口事奉的婦女同寢的事。",
   "tokens": [
     {
       "surface": "ועלי",
@@ -39,15 +13,15 @@
     },
     {
       "surface": "זקן",
-      "gloss": "年紀老邁"
+      "gloss": "老了"
     },
     {
       "surface": "מאד",
-      "gloss": "極其"
+      "gloss": "非常"
     },
     {
       "surface": "ושמע",
-      "gloss": "聽見"
+      "gloss": "他聽見了"
     },
     {
       "surface": "את",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "所……的"
+      "gloss": "所……的事"
     },
     {
       "surface": "יעשון",
@@ -68,11 +42,11 @@
     },
     {
       "surface": "בניו",
-      "gloss": "他兒子們"
+      "gloss": "他的眾子"
     },
     {
       "surface": "לכל",
-      "gloss": "對……眾"
+      "gloss": "向……眾人"
     },
     {
       "surface": "ישראל",
@@ -80,28 +54,29 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "他們與婦人們同寢之事"
+      "gloss": "以及⟨את⟩",
+      "marks": "所……的事（他們同寢的事）"
     },
     {
       "surface": "אשר",
-      "gloss": "……的事"
+      "gloss": "所……的事"
     },
     {
       "surface": "ישכבון",
-      "gloss": "同寢"
+      "gloss": "他們同寢"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ 與"
+      "gloss": "⟨את⟩ 與",
+      "marks": "那些婦女"
     },
     {
       "surface": "הנשים",
-      "gloss": "婦人們"
+      "gloss": "那些婦女"
     },
     {
       "surface": "הצבאות",
-      "gloss": "服役的"
+      "gloss": "事奉的"
     },
     {
       "surface": "פתח",
@@ -116,6 +91,6 @@
       "gloss": "會幕"
     }
   ],
-  "timestamp": "2026-10-16T06:05:49.170164176Z",
+  "timestamp": "2026-10-16T22:01:07.188782287Z",
   "model": "glm-5.3"
 }

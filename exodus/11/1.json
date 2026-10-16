@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "גרש יגרש",
-      "rationale": "不定絕對式加未完成式的重疊結構，表「必定徹底趕出」，中文以「必徹底地趕出」传达確定語氣"
-    },
-    {
-      "kind": "elision",
-      "subject": "כשלחו",
-      "rationale": "不定式附帶時間意味「當他打發時」，中文以「……的時候」句式吸收"
-    }
-  ],
-  "translation": "雅威對摩西說：「我要再降一樣災害在法老和埃及身上；此後他必打發你們離開這裡。他打發你們去的時候，必徹底地把你們從這裡趕出去。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "992ae16e868950da5e61db28df72bbdc673e2ff27319cc17383115c2c7c36fc0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/11\/1-4.1792125897305.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威對摩西說：「我還要使一樣災殃臨到法老和埃及身上；此後他必打發你們離開這裡。他打發你們離開的時候，必將你們徹底驅逐，把你們趕出⟨את⟩這地方。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -46,23 +25,23 @@
     },
     {
       "surface": "עוד",
-      "gloss": "再"
+      "gloss": "還"
     },
     {
       "surface": "נגע",
-      "gloss": "災害"
+      "gloss": "一樣災殃"
     },
     {
       "surface": "אחד",
-      "gloss": "一樣"
+      "gloss": "一"
     },
     {
       "surface": "אביא",
-      "gloss": "我要降"
+      "gloss": "我要使…臨到"
     },
     {
       "surface": "על",
-      "gloss": "在……身上"
+      "gloss": "到…身上"
     },
     {
       "surface": "פרעה",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "ועל",
-      "gloss": "和在……身上"
+      "gloss": "和…身上"
     },
     {
       "surface": "מצרים",
@@ -78,11 +57,11 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "之後"
+      "gloss": "此後"
     },
     {
       "surface": "כן",
-      "gloss": "如此"
+      "gloss": "…之後"
     },
     {
       "surface": "ישלח",
@@ -99,15 +78,15 @@
     },
     {
       "surface": "כשלחו",
-      "gloss": "他打發……的時候"
+      "gloss": "他打發你們離開的時候"
     },
     {
       "surface": "כלה",
-      "gloss": "徹底地"
+      "gloss": "徹底"
     },
     {
       "surface": "גרש",
-      "gloss": "趕出"
+      "gloss": "驅逐"
     },
     {
       "surface": "יגרש",
@@ -120,9 +99,9 @@
     },
     {
       "surface": "מזה",
-      "gloss": "從這裡"
+      "gloss": "出這地方"
     }
   ],
-  "timestamp": "2026-10-16T04:44:57.305968552Z",
+  "timestamp": "2026-10-16T22:17:44.776588210Z",
   "model": "glm-5.3"
 }

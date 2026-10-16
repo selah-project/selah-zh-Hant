@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אתו",
-      "rationale": "介詞形 אתו「與他」（H854），非受詞記號；依紀律保留 ⟨את⟩ 記號，語義為「與他」"
-    },
-    {
-      "kind": "addition",
-      "subject": "每逢",
-      "rationale": "希伯來文未完成時態表示重複動作，中文以「每逢」標示習慣性行為"
-    }
-  ],
-  "translation": "每逢摩西進到雅威面前與⟨את⟩他說話，就揭去⟨את⟩帕子，直到他出來；他出來以後，就把雅威所吩咐的告訴以色列人。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "4aa8508be69368953ec3ba37530f3ff8c79389f62ceabe09401fb2354c5966b4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/34\/33-35.1792126454769.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "摩西進到雅威面前與他說話的時候，就揭去 ⟨את⟩ 蒙面的帕子，直到他出來；他出來以後，就向以色列人講論他所奉命傳的一切。",
   "tokens": [
     {
       "surface": "ובבא",
-      "gloss": "每逢……進去"
+      "gloss": "進到……的時候"
     },
     {
       "surface": "משה",
@@ -50,8 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "與他"
+      "gloss": "⟨את⟩他"
     },
     {
       "surface": "יסיר",
@@ -60,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "帕子"
+      "marks": "蒙面的帕子"
     },
     {
       "surface": "המסוה",
-      "gloss": "帕子"
+      "gloss": "蒙面的帕子"
     },
     {
       "surface": "עד",
@@ -76,15 +54,15 @@
     },
     {
       "surface": "ויצא",
-      "gloss": "他出來了"
+      "gloss": "他就出來"
     },
     {
       "surface": "ודבר",
-      "gloss": "他就告訴"
+      "gloss": "就講論"
     },
     {
       "surface": "אל",
-      "gloss": "對"
+      "gloss": "向"
     },
     {
       "surface": "בני",
@@ -97,17 +75,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "所吩咐的"
+      "marks": "他所奉命傳的一切"
     },
     {
       "surface": "אשר",
-      "gloss": "那……的"
+      "gloss": "所……的"
     },
     {
       "surface": "יצוה",
-      "gloss": "所吩咐"
+      "gloss": "奉命"
     }
   ],
-  "timestamp": "2026-10-16T04:54:14.770800404Z",
+  "timestamp": "2026-10-16T22:20:22.765244790Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,7 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Saul",
-      "rationale": "大衛以問話直問掃羅"
-    }
-  ],
-  "translation": "大衛對掃羅說：「你為何聽人的話，說：『看哪，大衛想要害你』？",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "66a3adc3d2b944a593391fd188ace5b5baf914af50ca625a5e13847a6176090f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/24\/9-12.1792131396351.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "大衛對掃羅說：「你為何聽信人的話，說：『看哪，大衛想要害你』？",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -41,16 +25,16 @@
     },
     {
       "surface": "תשמע",
-      "gloss": "聽"
+      "gloss": "你聽"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "人的話（דברי אדם）"
+      "marks": "人的話"
     },
     {
       "surface": "דברי",
-      "gloss": "話"
+      "gloss": "…的話"
     },
     {
       "surface": "אדם",
@@ -70,13 +54,13 @@
     },
     {
       "surface": "מבקש",
-      "gloss": "想要害"
+      "gloss": "尋求"
     },
     {
       "surface": "רעתך",
       "gloss": "害你"
     }
   ],
-  "timestamp": "2026-10-16T06:16:36.352295979Z",
+  "timestamp": "2026-10-16T22:01:32.653625800Z",
   "model": "glm-5.3"
 }

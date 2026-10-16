@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 46,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "然後",
-      "rationale": "中文需要連接詞表次序，希伯來文以動詞連續表達"
-    },
-    {
-      "kind": "addition",
-      "subject": "要",
-      "rationale": "下拜前漢語需助動詞"
-    }
-  ],
-  "translation": "君王要從外面經過門廊進來，站在門柱旁，祭司們要獻上他的燔祭和平安祭；他要 在門檻處下拜，然後出去，門直到晚上也不可關閉。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "5b75574827932e13caf2467d10af6b404e410e69165d2e520e4a0c676a932b1d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/46\/1-4.1792139270828.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "君王從外面經由門廊的路進來，站在門框旁邊；祭司們要獻上他的 ⟨את⟩ 燔祭和 ⟨את⟩ 平安祭，他要在門檻那裡下拜，然後出去；這門直到傍晚都不可關閉。",
   "tokens": [
     {
       "surface": "ובא",
-      "gloss": "要進來"
+      "gloss": "進來"
     },
     {
       "surface": "הנשיא",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "דרך",
-      "gloss": "經過"
+      "gloss": "經由…的路"
     },
     {
       "surface": "אולם",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "ועמד",
-      "gloss": "要站"
+      "gloss": "站在"
     },
     {
       "surface": "על",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "מזוזת",
-      "gloss": "門柱"
+      "gloss": "門框"
     },
     {
       "surface": "השער",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "ועשו",
-      "gloss": "要做"
+      "gloss": "要獻上"
     },
     {
       "surface": "הכהנים",
@@ -79,7 +58,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他的燔祭"
+      "marks": "燔祭"
     },
     {
       "surface": "עולתו",
@@ -88,7 +67,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "他的平安祭"
+      "marks": "平安祭"
     },
     {
       "surface": "שלמיו",
@@ -96,11 +75,11 @@
     },
     {
       "surface": "והשתחוה",
-      "gloss": "要下拜"
+      "gloss": "下拜"
     },
     {
       "surface": "על",
-      "gloss": "在…處"
+      "gloss": "在…那裡"
     },
     {
       "surface": "מפתן",
@@ -112,11 +91,11 @@
     },
     {
       "surface": "ויצא",
-      "gloss": "要出去"
+      "gloss": "出去"
     },
     {
       "surface": "והשער",
-      "gloss": "而那門"
+      "gloss": "這門"
     },
     {
       "surface": "לא",
@@ -124,7 +103,7 @@
     },
     {
       "surface": "יסגר",
-      "gloss": "可關閉"
+      "gloss": "關閉"
     },
     {
       "surface": "עד",
@@ -132,9 +111,9 @@
     },
     {
       "surface": "הערב",
-      "gloss": "晚上"
+      "gloss": "傍晚"
     }
   ],
-  "timestamp": "2026-10-16T08:27:50.829222236Z",
+  "timestamp": "2026-10-16T22:26:01.053401151Z",
   "model": "glm-5.3"
 }

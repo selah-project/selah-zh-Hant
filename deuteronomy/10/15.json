@@ -5,36 +5,15 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "喜愛",
-      "rationale": "חשק字面是「緊抱、黏附」，引申為眷愛"
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "摩西對以色列全会眾說話，直接稱「你們」"
-    }
-  ],
-  "translation": "惟獨雅威喜愛你們的列祖，愛他們，從他們後代之後揀選了你們，就是你們勝過萬民，正如今日一樣。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "32f896c69cffcd09c14dbd825904cfcf2c6fbe5963b6e54df807c7bb4e7242c1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/10\/13-16.1792128672360.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "唯獨雅威喜愛你們的祖先，定意愛他們，又從他們後裔之後揀選了你們——就是 ⟨את⟩ 你們——勝過萬民，如同今日。",
   "tokens": [
     {
       "surface": "רק",
-      "gloss": "惟獨"
+      "gloss": "唯獨"
     },
     {
       "surface": "באבתיך",
-      "gloss": "你們的列祖"
+      "gloss": "在你們的祖先"
     },
     {
       "surface": "חשק",
@@ -46,23 +25,24 @@
     },
     {
       "surface": "לאהבה",
-      "gloss": "愛"
+      "gloss": "定意愛"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ 他們"
+      "gloss": "⟨את⟩",
+      "marks": "他們（你們的祖先）"
     },
     {
       "surface": "ויבחר",
-      "gloss": "揀選了"
+      "gloss": "又揀選了"
     },
     {
       "surface": "בזרעם",
-      "gloss": "他們的後代"
+      "gloss": "他們的後裔"
     },
     {
       "surface": "אחריהם",
-      "gloss": "之後"
+      "gloss": "在他們之後"
     },
     {
       "surface": "בכם",
@@ -70,7 +50,7 @@
     },
     {
       "surface": "מכל",
-      "gloss": "勝過所有的"
+      "gloss": "勝過所有"
     },
     {
       "surface": "העמים",
@@ -78,13 +58,13 @@
     },
     {
       "surface": "כיום",
-      "gloss": "正如今日"
+      "gloss": "如同今日"
     },
     {
       "surface": "הזה",
       "gloss": "這"
     }
   ],
-  "timestamp": "2026-10-16T05:31:12.362235639Z",
+  "timestamp": "2026-10-16T22:13:16.094076367Z",
   "model": "glm-5.3"
 }

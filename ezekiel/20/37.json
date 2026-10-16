@@ -5,45 +5,20 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "在杖下經過",
-      "rationale": "牧人數點羊群時使羊逐一從杖下經過（利 27:32）；或解作擊打之杖——取通行之牧數意象。"
-    },
-    {
-      "kind": "alternative",
-      "subject": "אתכם",
-      "rationale": "此處 אתכם 是第二人稱複數代名詞「你們」，非受詞記號 ⟨את⟩，故不標記。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מסרת\/ברית",
-      "rationale": "「約的捆鎖」呼應創 15 立約牲塊之間經過的意象，一詞雙關。"
-    }
-  ],
-  "translation": "我必使你們在杖下經過，也必帶你們進入約的捆鎖之中。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a1e6a4c0c1a6a3de2346bd9000d602a67db08327181d97dbe41b25c9c5b3e575",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/20\/37-40.1792138476486.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我必使 ⟨את⟩ 你們從杖下經過，並領 ⟨את⟩ 你們進入約的拘束之中；",
   "tokens": [
     {
       "surface": "והעברתי",
-      "gloss": "我必使…經過"
+      "gloss": "我必使……經過"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ 你們"
+      "gloss": "⟨את⟩",
+      "marks": "你們（從杖下經過）"
     },
     {
       "surface": "תחת",
-      "gloss": "在…之下"
+      "gloss": "在……之下"
     },
     {
       "surface": "השבט",
@@ -51,21 +26,22 @@
     },
     {
       "surface": "והבאתי",
-      "gloss": "我必帶領"
+      "gloss": "並領……進入"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ 你們"
+      "gloss": "⟨את⟩",
+      "marks": "你們（進入約的拘束）"
     },
     {
       "surface": "במסרת",
-      "gloss": "進入…的捆鎖"
+      "gloss": "拘束"
     },
     {
       "surface": "הברית",
       "gloss": "約"
     }
   ],
-  "timestamp": "2026-10-16T08:14:36.487408978Z",
+  "timestamp": "2026-10-16T22:23:07.062364720Z",
   "model": "glm-5.3"
 }

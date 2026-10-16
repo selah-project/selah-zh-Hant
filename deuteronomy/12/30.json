@@ -5,37 +5,11 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "對以色列",
-      "rationale": "命令句「你要謹慎」直接呼籲聽者警惕"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אחריהם אחרי",
-      "rationale": "「隨從他們」與「在……之後」連續重複 אחר，形成追逐的修辭節奏，中文難以完全保留"
-    },
-    {
-      "kind": "substitution",
-      "subject": "神明",
-      "rationale": "異教語境的 אלהיהם 譯作「神明」（眾神），非聖名位置"
-    }
-  ],
-  "translation": "你要謹慎，免得你在他們面前被除滅之後隨從他們陷入網羅，免得你尋問他們的神明，說：『這些國民怎樣事奉他們的神明，我也要照樣行。』",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "736f215c98bf7c1bc335c9393193470da507e1d3d7ba05e8b317e2cb7e8eff15",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/12\/29-31.1792128820612.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你要謹慎，免得你在他們面前被滅絕之後，被引誘去隨從他們，又免得你求問他們的神明，說：『這些國家怎樣事奉他們的神明，我也要照樣行。』",
   "tokens": [
     {
       "surface": "השמר",
-      "gloss": "你要謹慎"
+      "gloss": "要謹慎"
     },
     {
       "surface": "לך",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "תנקש",
-      "gloss": "陷入網羅"
+      "gloss": "被引誘去隨從"
     },
     {
       "surface": "אחריהם",
@@ -55,11 +29,11 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "在……之後"
+      "gloss": "之後"
     },
     {
       "surface": "השמדם",
-      "gloss": "他們被除滅"
+      "gloss": "他們被滅絕"
     },
     {
       "surface": "מפניך",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "תדרש",
-      "gloss": "你尋問"
+      "gloss": "你求問"
     },
     {
       "surface": "לאלהיהם",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "הגוים",
-      "gloss": "這些國民"
+      "gloss": "這些國家"
     },
     {
       "surface": "האלה",
@@ -123,6 +97,6 @@
       "gloss": "我"
     }
   ],
-  "timestamp": "2026-10-16T05:33:40.613805669Z",
+  "timestamp": "2026-10-16T22:13:19.744007545Z",
   "model": "glm-5.3"
 }

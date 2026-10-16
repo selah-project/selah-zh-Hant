@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "心責打他",
-      "rationale": "ויך לב דוד אתו 直譯「大衛的心擊打他」，中文作「心中自責」"
-    },
-    {
-      "kind": "crux",
-      "subject": "נסכלתי",
-      "rationale": "字根「愚昧」，諸本作「行了愚昧事」；語序上置於句末強調"
-    }
-  ],
-  "translation": "大衛數算⟨את⟩百姓之後，心中自責。大衛對雅威說：「我所行的這事，我犯了極大的罪。如今，雅威啊，求你除去你僕人的罪孽，因為我行事極其愚昧。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ccb36c88e6943138e0a0fce5cd265d3d4dab3a87660e26bf9fdebdd84e6eac7e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/24\/9-12.1792132421686.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "大衛的心擊打他，在他數點 ⟨את⟩ 百姓之後；大衛對雅威說：「我犯了極大的罪，因我所行的這事；如今，雅威啊，求你挪去你僕人的 ⟨את⟩ 罪孽，因為我行事極其愚昧。」",
   "tokens": [
     {
       "surface": "ויך",
-      "gloss": "責打"
+      "gloss": "擊打"
     },
     {
       "surface": "לב",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "כן",
-      "gloss": "⟨此⟩"
+      "gloss": "如此"
     },
     {
       "surface": "ספר",
-      "gloss": "數算"
+      "gloss": "數點"
     },
     {
       "surface": "את",
@@ -88,15 +67,15 @@
     },
     {
       "surface": "מאד",
-      "gloss": "極大地"
+      "gloss": "極大"
     },
     {
       "surface": "אשר",
-      "gloss": "所……的"
+      "gloss": "因"
     },
     {
       "surface": "עשיתי",
-      "gloss": "我行的"
+      "gloss": "我所行的"
     },
     {
       "surface": "ועתה",
@@ -108,11 +87,11 @@
     },
     {
       "surface": "העבר",
-      "gloss": "求你除去"
+      "gloss": "求你挪去"
     },
     {
       "surface": "נא",
-      "gloss": "求"
+      "gloss": "求你"
     },
     {
       "surface": "את",
@@ -140,6 +119,6 @@
       "gloss": "極其"
     }
   ],
-  "timestamp": "2026-10-16T06:33:41.687616094Z",
+  "timestamp": "2026-10-16T22:10:35.747342256Z",
   "model": "glm-5.3"
 }

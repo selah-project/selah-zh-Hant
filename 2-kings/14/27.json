@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "從天下塗抹",
-      "rationale": "מתחת השמים 直譯「從諸天之下」，即從全地；取中文慣用語。"
-    },
-    {
-      "kind": "addition",
-      "subject": "乃",
-      "rationale": "中文需連接詞表明對比（原文僅以敘述式連續）；已標示於語流。"
-    }
-  ],
-  "translation": "雅威沒有說要將以色列的名從天下塗抹；他乃藉約阿施的兒子耶羅波安的手拯救了他們。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "d093b066989eccba0ba6c44a06b7dee63ba01adc30dd6ad57a2f7167d71bd449",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/14\/25-28.1792133980651.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威沒有說要塗抹 ⟨את⟩ 以色列的名離開天下，而是藉約阿施的兒子耶羅波安的手拯救了他們。",
   "tokens": [
     {
       "surface": "ולא",
@@ -55,11 +34,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "以色列的"
+      "gloss": "以色列"
     },
     {
       "surface": "מתחת",
-      "gloss": "從……之下"
+      "gloss": "離開下面"
     },
     {
       "surface": "השמים",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "ויושיעם",
-      "gloss": "他就拯救了他們"
+      "gloss": "而是拯救了他們"
     },
     {
       "surface": "ביד",
@@ -86,6 +65,6 @@
       "gloss": "約阿施"
     }
   ],
-  "timestamp": "2026-10-16T06:59:40.653154641Z",
+  "timestamp": "2026-10-16T22:05:39.437866565Z",
   "model": "glm-5.3"
 }

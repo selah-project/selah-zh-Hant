@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "這些人若來召你",
-      "rationale": " אם 可作條件句「若來召你」（KJV、ASV）或已完成「既然來召你」（BSB、和合本）；此處取條件式"
-    },
-    {
-      "kind": "substitution",
-      "subject": "那件事（話）",
-      "rationale": "הדבר 同一詞既是「話」也是「事」；中文分作「話／事」兩處，原文一詞到底"
-    }
-  ],
-  "translation": "夜間，以羅欣來到巴蘭那裏，對他說：「這些人若來召你，你就起來，與他們同去；然而只有 ⟨את⟩ 我對你說的那件事，⟨אתו⟩ 你才要照行。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "932bc8638c3cd4c14cf38c2cde87d32042533d7891be59d9997e47e0393fd8fb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/22\/17-20.1792128061520.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "夜間，以羅欣來到巴蘭那裡，對他說：「這些人若來召你，你就起來與他們同去；然而我要對你說的話，⟨את⟩ 那話你只要照著行。」",
   "tokens": [
     {
       "surface": "ויבא",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "那些人"
+      "gloss": "這些人"
     },
     {
       "surface": "קום",
@@ -86,28 +65,28 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ 與他們同"
+      "gloss": "與他們同⟨את⟩"
     },
     {
       "surface": "ואך",
-      "gloss": "然而只有"
+      "gloss": "然而只要"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那件事"
+      "marks": "那話"
     },
     {
       "surface": "הדבר",
-      "gloss": "那件事（話）"
+      "gloss": "話"
     },
     {
       "surface": "אשר",
-      "gloss": "所……的"
+      "gloss": "……的"
     },
     {
       "surface": "אדבר",
-      "gloss": "我說"
+      "gloss": "我要說"
     },
     {
       "surface": "אליך",
@@ -115,14 +94,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "你才要照行的事"
+      "gloss": "⟨את⟩",
+      "marks": "行"
     },
     {
       "surface": "תעשה",
-      "gloss": "你才要照行"
+      "gloss": "行"
     }
   ],
-  "timestamp": "2026-10-16T05:21:01.522294660Z",
+  "timestamp": "2026-10-16T22:54:29.233128850Z",
   "model": "glm-5.3"
 }

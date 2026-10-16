@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "מאת\/אתו",
-      "rationale": "此二處為介詞 את（H854），非受詞記號；分別作「從…那裡」「與他一同」。"
-    },
-    {
-      "kind": "idiom",
-      "subject": "בן נכר",
-      "rationale": "字面「外人之子」，指外族的人，譯「外族人」。"
-    },
-    {
-      "kind": "measurement",
-      "subject": "名單",
-      "rationale": "列出家中受割禮者的類別清單。"
-    }
-  ],
-  "translation": "他家的眾人——家裡生的、以及用銀子從外族人⟨את⟩ 那裡買來的——都與他一同受了割禮。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a6beab6822bee82278c6e44c2cb090a89e522747cbef60b090284250f8c6948d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/17\/25-27.1792124814551.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他家中所有的男人——家生的，以及用銀子從外人那裡買來的——都與他一同受了割禮。",
   "tokens": [
     {
       "surface": "וכל",
@@ -39,15 +13,15 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "…的人"
+      "gloss": "男人"
     },
     {
       "surface": "ביתו",
-      "gloss": "他家"
+      "gloss": "他家中"
     },
     {
       "surface": "יליד",
-      "gloss": "家裡生的"
+      "gloss": "家生的"
     },
     {
       "surface": "בית",
@@ -59,15 +33,16 @@
     },
     {
       "surface": "כסף",
-      "gloss": "銀子"
+      "gloss": "用銀子"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ 從…那裡"
+      "gloss": "⟨את⟩",
+      "marks": "從外人那裡"
     },
     {
       "surface": "בן",
-      "gloss": "…之子"
+      "gloss": "之子"
     },
     {
       "surface": "נכר",
@@ -79,9 +54,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ 與他一同"
+      "gloss": "⟨את⟩",
+      "marks": "與他一同"
     }
   ],
-  "timestamp": "2026-10-16T04:26:54.553282146Z",
+  "timestamp": "2026-10-16T22:27:34.347006403Z",
   "model": "glm-5.3"
 }

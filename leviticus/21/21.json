@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "就",
-      "rationale": "中文因果連接詞為語流所需，希伯來文僅重述「殘疾在他身上」"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יגש\/להקריב",
-      "rationale": "「近前來」（נגשׁ）與「獻上」（הקריב，即使之近前）同根重複三次，中文難以保留"
-    }
-  ],
-  "translation": "亞倫祭司的後裔中，凡身上有殘疾的，都不可近前來獻雅威的火祭；他有殘疾，就不可近前來獻他以羅欣的⟨את⟩食物。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a42b5bc31cb5eabb7e25781a611f821d630ae940254865bd7ee2cf7a43494325",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/21\/21-24.1792127140252.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "亞倫祭司的後裔中，凡身上有殘疾的男子，不可上前獻雅威的火祭；他既有殘疾，就不可上前獻⟨את⟩他神的⟨את⟩食物。",
   "tokens": [
     {
       "surface": "כל",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "人"
+      "gloss": "男子"
     },
     {
       "surface": "אשר",
-      "gloss": "凡……的"
+      "gloss": "……的"
     },
     {
       "surface": "בו",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "יגש",
-      "gloss": "近前來"
+      "gloss": "上前"
     },
     {
       "surface": "להקריב",
@@ -104,7 +83,7 @@
     },
     {
       "surface": "אלהיו",
-      "gloss": "他的以羅欣"
+      "gloss": "他神的"
     },
     {
       "surface": "לא",
@@ -112,13 +91,13 @@
     },
     {
       "surface": "יגש",
-      "gloss": "近前來"
+      "gloss": "上前"
     },
     {
       "surface": "להקריב",
       "gloss": "獻"
     }
   ],
-  "timestamp": "2026-10-16T05:05:40.253259512Z",
+  "timestamp": "2026-10-16T22:50:03.516791997Z",
   "model": "glm-5.3"
 }

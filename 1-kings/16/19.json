@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חטא\/חטאתו\/להחטיא",
-      "rationale": "罪—犯了—使犯罪三叠根詞重複，中文難以全保"
-    },
-    {
-      "kind": "addition",
-      "subject": "這是因",
-      "rationale": "中文因果連接詞補出"
-    }
-  ],
-  "translation": "這是因他所犯的罪，行雅威眼中看為惡的事，走耶羅波安的路，又因他所行的罪，使以色列陷在罪中。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "5a664874e04aa835518fa60ab849dbce79bfde21bcd4887cf62275cb52ff12bd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/16\/17-20.1792133161933.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "因他的罪，就是他所犯的，行雅威眼中看為惡的事，行耶羅波安的道路，並他所行、使以色列陷入罪中的那罪。",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "因著"
+      "gloss": "因"
     },
     {
       "surface": "חטאתו",
@@ -42,19 +21,19 @@
     },
     {
       "surface": "חטא",
-      "gloss": "他犯了"
+      "gloss": "所犯的"
     },
     {
       "surface": "לעשות",
-      "gloss": "去行"
+      "gloss": "行"
     },
     {
       "surface": "הרע",
-      "gloss": "那惡事"
+      "gloss": "惡的事"
     },
     {
       "surface": "בעיני",
-      "gloss": "在……眼中"
+      "gloss": "眼中"
     },
     {
       "surface": "יהוה",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "ללכת",
-      "gloss": "去走"
+      "gloss": "行"
     },
     {
       "surface": "בדרך",
-      "gloss": "……的路"
+      "gloss": "的道路"
     },
     {
       "surface": "ירבעם",
@@ -74,19 +53,19 @@
     },
     {
       "surface": "ובחטאתו",
-      "gloss": "又在他的罪中"
+      "gloss": "並他的那罪"
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "所"
     },
     {
       "surface": "עשה",
-      "gloss": "他所行的"
+      "gloss": "行的"
     },
     {
       "surface": "להחטיא",
-      "gloss": "使……陷在罪中"
+      "gloss": "使……陷入罪中"
     },
     {
       "surface": "את",
@@ -98,6 +77,6 @@
       "gloss": "以色列"
     }
   ],
-  "timestamp": "2026-10-16T06:46:01.934914313Z",
+  "timestamp": "2026-10-16T21:58:23.306012566Z",
   "model": "glm-5.3"
 }

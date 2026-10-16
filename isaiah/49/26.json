@@ -5,32 +5,11 @@
   "book": "isaiah",
   "lang": "zh-Hant",
   "chapter": 49,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "凡有血氣的",
-      "rationale": "כל בשר 直譯「一切肉」，指全人類，沿用和合本慣用語"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "知識內容前的連接詞，中文以冒號直接引出，不另譯"
-    }
-  ],
-  "translation": "我必使欺壓你的吃 ⟨את⟩ 自己的肉，他們必如甜酒喝醉自己的血；凡有血氣的都必知道：我雅威是你的拯救者，是你的救贖者，是雅各的大能者。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "747d9ef241c758a264311e4074e0c8a7727def901b7c49484489a5d3659608b8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/49\/25-26.1792135653110.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我必使欺壓你的吞吃 ⟨את⟩ 他們自己的肉，他們必如飲新酒喝醉自己的血；凡有血氣的都必知道：我是雅威，是你的拯救者、你的救贖者，是雅各的大能者。",
   "tokens": [
     {
       "surface": "והאכלתי",
-      "gloss": "我必使……吃"
+      "gloss": "我必使……吞吃"
     },
     {
       "surface": "את",
@@ -44,15 +23,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "自己的肉"
+      "marks": "他們自己的肉"
     },
     {
       "surface": "בשרם",
-      "gloss": "自己的肉"
+      "gloss": "他們自己的肉"
     },
     {
       "surface": "וכעסיס",
-      "gloss": "如甜酒"
+      "gloss": "如飲新酒"
     },
     {
       "surface": "דמם",
@@ -60,7 +39,7 @@
     },
     {
       "surface": "ישכרון",
-      "gloss": "必喝醉"
+      "gloss": "他們必喝醉"
     },
     {
       "surface": "וידעו",
@@ -76,7 +55,7 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "（知道）"
     },
     {
       "surface": "אני",
@@ -103,6 +82,6 @@
       "gloss": "雅各"
     }
   ],
-  "timestamp": "2026-10-16T07:27:33.110991614Z",
+  "timestamp": "2026-10-16T22:34:53.160658485Z",
   "model": "glm-5.3"
 }

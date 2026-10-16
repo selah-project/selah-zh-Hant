@@ -5,40 +5,19 @@
   "book": "joshua",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to the two spies",
-      "rationale": "約書亞直接吩咐兩個探子，間接引述他們的誓言。"
-    },
-    {
-      "kind": "addition",
-      "subject": "「去」",
-      "rationale": "中文趨向補語，希伯來文 באו 只有「進」。"
-    }
-  ],
-  "translation": "約書亞對那窺探 ⟨את⟩ 那地的兩個人說：「你們進那妓女的家去，從那裡把那女人和她所有的一切都帶出來，正如你們向她所起誓的。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "f7d14af993dc0f6a19849b931cfad13dacc24151420a611cd71d7421dec7c6c1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/6\/21-24.1792129587395.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "約書亞對那窺探⟨את⟩那地的兩個人說：進那妓女的家去，從那裡把⟨את⟩那女人和她所有的一切都帶出來，正如你們向她所起誓的。",
   "tokens": [
     {
       "surface": "ולשנים",
-      "gloss": "對兩個人"
+      "gloss": "對那兩個人"
     },
     {
       "surface": "האנשים",
-      "gloss": "那"
+      "gloss": ""
     },
     {
       "surface": "המרגלים",
-      "gloss": "窺探的"
+      "gloss": "那窺探的"
     },
     {
       "surface": "את",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "הזונה",
-      "gloss": "妓女"
+      "gloss": "那妓女"
     },
     {
       "surface": "והוציאו",
@@ -92,20 +71,20 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "她所有的一切"
     },
     {
       "surface": "כל",
-      "gloss": "所有的一切"
+      "gloss": "一切"
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "所……的"
     },
     {
       "surface": "לה",
-      "gloss": "她的"
+      "gloss": "她"
     },
     {
       "surface": "כאשר",
@@ -113,13 +92,13 @@
     },
     {
       "surface": "נשבעתם",
-      "gloss": "你們所起誓的"
+      "gloss": "你們起誓"
     },
     {
       "surface": "לה",
       "gloss": "向她"
     }
   ],
-  "timestamp": "2026-10-16T05:46:27.396251692Z",
+  "timestamp": "2026-10-16T22:45:13.858050761Z",
   "model": "glm-5.3"
 }

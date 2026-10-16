@@ -5,23 +5,7 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על ראשו ועל כרעיו",
-      "rationale": "字面「在頭上、在腿上」，意即連頭帶腿一併包括"
-    }
-  ],
-  "translation": "至於公牛的皮和 ⟨את⟩ 牠一切的肉，連頭帶腿，並內臟和糞，",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c21a666fa5d04805f516155a5295173a62db10644e0188ab5b80dc901a05221f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/4\/9-12.1792126710649.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "至於公牛的皮、⟨את⟩牠全身的肉，連頭帶腿、並牠的內臟和糞，",
   "tokens": [
     {
       "surface": "ואת",
@@ -34,16 +18,16 @@
     },
     {
       "surface": "הפר",
-      "gloss": "公牛的"
+      "gloss": "公牛"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "牠一切的肉"
+      "marks": "牠全身的肉"
     },
     {
       "surface": "כל",
-      "gloss": "一切的"
+      "gloss": "全部"
     },
     {
       "surface": "בשרו",
@@ -55,7 +39,7 @@
     },
     {
       "surface": "ראשו",
-      "gloss": "頭"
+      "gloss": "牠的頭"
     },
     {
       "surface": "ועל",
@@ -63,17 +47,17 @@
     },
     {
       "surface": "כרעיו",
-      "gloss": "腿"
+      "gloss": "牠的腿"
     },
     {
       "surface": "וקרבו",
-      "gloss": "並內臟"
+      "gloss": "並牠的內臟"
     },
     {
       "surface": "ופרשו",
       "gloss": "和糞"
     }
   ],
-  "timestamp": "2026-10-16T04:58:30.650468010Z",
+  "timestamp": "2026-10-16T22:50:47.611427337Z",
   "model": "glm-5.3"
 }

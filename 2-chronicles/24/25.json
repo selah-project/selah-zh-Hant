@@ -5,41 +5,15 @@
   "book": "2-chronicles",
   "lang": "zh-Hant",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בני",
-      "rationale": "「眾兒子」與希臘文七十士譯本及部分傳統的單數「兒子」相對；希伯來文為複數。"
-    },
-    {
-      "kind": "hapax",
-      "subject": "במחליים",
-      "rationale": "此字形（Ketiv）在全塔納赫僅此一處，意為「疾病」。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "זבד\/יהוזבד",
-      "rationale": "兩名刺客的名字都含「賜予」(זבד) 字根，中文無法保留。"
-    }
-  ],
-  "translation": "他們離開他以後——因為他們任憑他陷在重病之中——他的臣僕因耶何耶大祭司眾兒子的血，密謀背叛他，在床上把他殺死，他就死了。他們把他葬在大衛城，卻沒有葬在列王的墳墓裡。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "4127430404ea05ffd1b7ab0ed0c6262157c5ec1508412f7dc49721b954f0c60e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/24\/25-27.1792149466882.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們離開他以後——因為他們任憑他留在眾多的疾病中——他的臣僕就因祭司耶何耶大眾子的血而謀害他，在床上把他殺了，他就死了。人們把他葬在大衛城，卻沒有把他葬在諸王的墳墓裡。",
   "tokens": [
     {
       "surface": "ובלכתם",
-      "gloss": "他們離開"
+      "gloss": "他們離開他以後"
     },
     {
       "surface": "ממנו",
-      "gloss": "離他"
+      "gloss": "離開他"
     },
     {
       "surface": "כי",
@@ -47,28 +21,28 @@
     },
     {
       "surface": "עזבו",
-      "gloss": "任憑"
+      "gloss": "任憑他留在"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "他"
+      "marks": "他（受詞，指約阿施）"
     },
     {
       "surface": "במחליים",
-      "gloss": "重病之中"
+      "gloss": "疾病中"
     },
     {
       "surface": "רבים",
-      "gloss": "重重"
+      "gloss": "眾多的"
     },
     {
       "surface": "התקשרו",
-      "gloss": "密謀"
+      "gloss": "謀害（同謀結盟）"
     },
     {
       "surface": "עליו",
-      "gloss": "背叛他"
+      "gloss": "抵擋他"
     },
     {
       "surface": "עבדיו",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "眾兒子"
+      "gloss": "眾子"
     },
     {
       "surface": "יהוידע",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "ויהרגהו",
-      "gloss": "把他殺死"
+      "gloss": "把他殺了"
     },
     {
       "surface": "על",
@@ -108,7 +82,7 @@
     },
     {
       "surface": "ויקברהו",
-      "gloss": "他們把他埋葬"
+      "gloss": "他們把他葬在"
     },
     {
       "surface": "בעיר",
@@ -124,17 +98,17 @@
     },
     {
       "surface": "קברהו",
-      "gloss": "埋葬他"
+      "gloss": "把他葬在"
     },
     {
       "surface": "בקברות",
-      "gloss": "在墳墓"
+      "gloss": "在……的墳墓裡"
     },
     {
       "surface": "המלכים",
-      "gloss": "列王"
+      "gloss": "諸王"
     }
   ],
-  "timestamp": "2026-10-16T11:17:46.882783155Z",
+  "timestamp": "2026-10-16T22:03:56.681854305Z",
   "model": "glm-5.3"
 }

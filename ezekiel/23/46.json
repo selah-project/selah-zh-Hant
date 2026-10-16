@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "לזעוה",
-      "rationale": "'驚惶\/騷動'（zeugma：被交給暴民虐待）或'被移除擄走'（KJV），各家分歧"
-    },
-    {
-      "kind": "you",
-      "subject": "會眾",
-      "rationale": "命令式（העלה）指向執行審判的群體"
-    }
-  ],
-  "translation": "因為阿多奈雅威如此說：要使會眾上來攻擊她們，把她們交給驚惶和掠奪。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c5c91f3b3a04533209cccda0ddeb65d1563c472b7e4f07c49112e95f236b9eea",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/23\/45-48.1792138534705.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "因為阿多奈雅威如此說：要使會眾上來攻擊她們，把她們交出⟨את⟩，成為驚骇和掠物。",
   "tokens": [
     {
       "surface": "כי",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "העלה",
-      "gloss": "使上來"
+      "gloss": "要使…上來"
     },
     {
       "surface": "עליהם",
@@ -62,22 +41,22 @@
     },
     {
       "surface": "ונתן",
-      "gloss": "交給"
+      "gloss": "並交出"
     },
     {
       "surface": "אתהן",
       "gloss": "⟨את⟩",
-      "marks": "她們"
+      "marks": "她們（交出成為驚骇和掠物）"
     },
     {
       "surface": "לזעוה",
-      "gloss": "驚惶"
+      "gloss": "成為驚骇"
     },
     {
       "surface": "ולבז",
-      "gloss": "和掠奪"
+      "gloss": "和掠物"
     }
   ],
-  "timestamp": "2026-10-16T08:15:34.706713844Z",
+  "timestamp": "2026-10-16T22:23:17.606767887Z",
   "model": "glm-5.3"
 }

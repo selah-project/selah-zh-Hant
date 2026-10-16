@@ -5,50 +5,19 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "חלק",
-      "rationale": "「分配／分給」（雅威將天象分給萬民）與「劃分」（分別出來不許敬拜）兩讀；前者為多數譯本所採。"
-    },
-    {
-      "kind": "crux",
-      "subject": "ונדחת",
-      "rationale": "被動式「被推趕偏離」，各譯本或作「被引誘」或作「被驅使」。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "צבא",
-      "rationale": "「萬象／軍隊」一詞與「萬軍之雅威」同字，此處卻指受造天象，語帶對比。"
-    },
-    {
-      "kind": "you",
-      "subject": "以色列",
-      "rationale": "摩西對以色列全會眾的單數第二人稱訓誡。"
-    }
-  ],
-  "translation": "又恐怕你舉目望天，看見日頭、月亮、星辰——天上的一切萬象——就被引誘偏離，向它們下拜，事奉它們；這一切是你以羅欣雅威分給天下萬民的。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "2ac6ebff37a0f5d99d6e6182659f48e1e45c94f6f805b2d564e0f8cd1578e6d0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/4\/17-20.1792128625857.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "免得你舉目望天，看見 ⟨את⟩ 太陽、⟨ואת⟩ 月亮、⟨ואת⟩ 眾星，就是天上的萬象，便被勾引去俯拜它們、事奉它們；這些是雅威你的以羅欣（神）分給天下萬民〈的〉。",
   "tokens": [
     {
       "surface": "ופן",
-      "gloss": "又恐怕"
+      "gloss": "免得"
     },
     {
       "surface": "תשא",
-      "gloss": "舉"
+      "gloss": "你舉"
     },
     {
       "surface": "עיניך",
-      "gloss": "你的眼目"
+      "gloss": "你的眼"
     },
     {
       "surface": "השמימה",
@@ -61,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "日頭"
+      "marks": "太陽"
     },
     {
       "surface": "השמש",
-      "gloss": "日頭"
+      "gloss": "太陽"
     },
     {
       "surface": "ואת",
@@ -79,15 +48,15 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "星辰"
+      "marks": "眾星"
     },
     {
       "surface": "הכוכבים",
-      "gloss": "星辰"
+      "gloss": "眾星"
     },
     {
       "surface": "כל",
-      "gloss": "一切"
+      "gloss": "全"
     },
     {
       "surface": "צבא",
@@ -99,15 +68,15 @@
     },
     {
       "surface": "ונדחת",
-      "gloss": "被引誘偏離"
+      "gloss": "被勾引去"
     },
     {
       "surface": "והשתחוית",
-      "gloss": "下拜"
+      "gloss": "俯拜"
     },
     {
       "surface": "להם",
-      "gloss": "向它們"
+      "gloss": "它們"
     },
     {
       "surface": "ועבדתם",
@@ -115,7 +84,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "這一切是"
+      "gloss": "這些是"
     },
     {
       "surface": "חלק",
@@ -131,16 +100,16 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩它們",
-      "marks": "日、月、星辰、天象"
+      "gloss": "⟨את⟩",
+      "marks": "天下萬民（分給的對象）"
     },
     {
       "surface": "לכל",
-      "gloss": "給一切"
+      "gloss": "給萬"
     },
     {
       "surface": "העמים",
-      "gloss": "萬民"
+      "gloss": "民"
     },
     {
       "surface": "תחת",
@@ -155,6 +124,6 @@
       "gloss": "天"
     }
   ],
-  "timestamp": "2026-10-16T05:30:25.858106716Z",
+  "timestamp": "2026-10-16T22:15:33.193908766Z",
   "model": "glm-5.3"
 }

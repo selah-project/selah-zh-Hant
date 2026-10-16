@@ -5,33 +5,7 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתך",
-      "rationale": "此 את 是介詞「與」（H854）而非受詞記號（H853），作「與你一同」；標記按家族規保留 ⟨את⟩ 字形。"
-    },
-    {
-      "kind": "you",
-      "subject": "to Aaron",
-      "rationale": "本節直接向亞倫和他的兒子說話，賜下祭司職任並警告外人。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "外人",
-      "rationale": "הזר指「外人／未受膏立者」（非亞倫後裔），不限於「陌生人」。"
-    }
-  ],
-  "translation": "你和你兒子要與⟨את⟩你一同看守你們的祭司職任，辦理一切屬壇的事和幔子內的事；你們要供職：我將你們的祭司職任當作賞賜的職事賜給你們；外人若近前來，必被治死。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "41e449fae83bf3008b62ecd12719ffd04901d52e4a220a19d6c6c531a19fc611",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/18\/5-8.1792127972010.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你和你的兒子們與你一起，要看守 ⟨את⟩ 你們的祭司職分，為著壇的一切事，並為幔子以內的事；你們要事奉；你們的祭司職分，我賜給你們作為恩賜的事奉；那外人若近前來，必被處死。",
   "tokens": [
     {
       "surface": "ואתה",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "ובניך",
-      "gloss": "和你兒子"
+      "gloss": "和你的兒子們"
     },
     {
       "surface": "אתך",
-      "gloss": "與⟨את⟩你一同"
+      "gloss": "⟨את⟩與你一起"
     },
     {
       "surface": "תשמרו",
@@ -52,27 +26,27 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "你們的祭司職任"
+      "marks": "你們的祭司職分"
     },
     {
       "surface": "כהנתכם",
-      "gloss": "你們的祭司職任"
+      "gloss": "你們的祭司職分"
     },
     {
       "surface": "לכל",
-      "gloss": "辦理一切"
+      "gloss": "為著一切"
     },
     {
       "surface": "דבר",
-      "gloss": "……的事"
+      "gloss": "事"
     },
     {
       "surface": "המזבח",
-      "gloss": "屬壇"
+      "gloss": "壇"
     },
     {
       "surface": "ולמבית",
-      "gloss": "和幔子內"
+      "gloss": "並為幔子以內"
     },
     {
       "surface": "לפרכת",
@@ -80,42 +54,42 @@
     },
     {
       "surface": "ועבדתם",
-      "gloss": "你們要供職"
+      "gloss": "你們要事奉"
     },
     {
       "surface": "עבדת",
-      "gloss": "職事"
+      "gloss": "事奉"
     },
     {
       "surface": "מתנה",
-      "gloss": "賞賜"
+      "gloss": "恩賜"
     },
     {
       "surface": "אתן",
-      "gloss": "我……賜"
+      "gloss": "我賜"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "你們的祭司職任"
+      "marks": "你們的祭司職分"
     },
     {
       "surface": "כהנתכם",
-      "gloss": "你們的祭司職任"
+      "gloss": "你們的祭司職分"
     },
     {
       "surface": "והזר",
-      "gloss": "外人"
+      "gloss": "而那外人"
     },
     {
       "surface": "הקרב",
-      "gloss": "若近前來"
+      "gloss": "近前來的"
     },
     {
       "surface": "יומת",
-      "gloss": "必被治死"
+      "gloss": "必被處死"
     }
   ],
-  "timestamp": "2026-10-16T05:19:32.012026607Z",
+  "timestamp": "2026-10-16T22:54:03.125945726Z",
   "model": "glm-5.3"
 }

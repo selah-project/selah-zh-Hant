@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מרו את פי",
-      "rationale": "直譯「使雅威的口變苦」，希伯來成語指悖逆其吩咐；中文譯「違背了……的口」並加〈的命令〉"
-    },
-    {
-      "kind": "addition",
-      "subject": "〈的命令〉",
-      "rationale": "中文需補出「口」所指，即所吩咐的命令"
-    }
-  ],
-  "translation": "你們卻不願上去，違背了雅威你們以羅欣的口〈的命令〉。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "48b94d0c530c9153dd626acbc65bfd49b575b7097124b0dd708cea1861387080",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/1\/25-28.1792128544309.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你們卻不願意上去，反而悖逆了雅威──你們的以羅欣的吩咐 ⟨את⟩。",
   "tokens": [
     {
       "surface": "ולא",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אביתם",
-      "gloss": "不願"
+      "gloss": "你們願意"
     },
     {
       "surface": "לעלת",
@@ -42,16 +21,16 @@
     },
     {
       "surface": "ותמרו",
-      "gloss": "違背了"
+      "gloss": "悖逆了"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "口"
+      "marks": "吩咐（口）"
     },
     {
       "surface": "פי",
-      "gloss": "口"
+      "gloss": "口（吩咐）"
     },
     {
       "surface": "יהוה",
@@ -59,9 +38,9 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "你們以羅欣"
+      "gloss": "你們的以羅欣"
     }
   ],
-  "timestamp": "2026-10-16T05:29:04.310844949Z",
+  "timestamp": "2026-10-16T22:12:27.866038950Z",
   "model": "glm-5.3"
 }

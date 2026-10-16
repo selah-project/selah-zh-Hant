@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "now",
-      "rationale": "誤植的英文字，應刪；正確譯文為「求你懇求⟨את⟩雅威你以羅欣的面」"
-    },
-    {
-      "kind": "idiom",
-      "subject": "懇求……的面",
-      "rationale": "חל את פני 字面是「磨／軟化那臉」，即求情討好；中文保留「求面」的希伯來圖像"
-    },
-    {
-      "kind": "you",
-      "subject": "to 神人",
-      "rationale": "王直接向神人說話，請求代求"
-    }
-  ],
-  "translation": "王回答，對神人說：「求你 now 懇求⟨את⟩雅威你以羅欣的面，為我代求，使我的手恢復回到我這裡。」神人就懇求了⟨את⟩雅威的面，王的手就恢復回到他那裡，如起初一樣。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "e81e978b712aea6ec6a87baba0706afdd52c164a2876acefb9ace8402ba9e457",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/13\/5-8.1792133032366.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "王回答，對神人說：「求你懇求雅威你以羅欣的面的恩惠，為我祈求，使我的手得以復原歸回。」神人就懇求 ⟨את⟩ 雅威的面，王的手便復原歸回給他，如同起初一樣。",
   "tokens": [
     {
       "surface": "ויען",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "神"
+      "gloss": "以羅欣的"
     },
     {
       "surface": "חל",
@@ -68,7 +42,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "雅威你以羅欣的面"
+      "marks": "雅威的面"
     },
     {
       "surface": "פני",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "והתפלל",
-      "gloss": "代求"
+      "gloss": "祈求"
     },
     {
       "surface": "בעדי",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "ותשב",
-      "gloss": "恢復回到"
+      "gloss": "復原歸回"
     },
     {
       "surface": "ידי",
@@ -100,11 +74,11 @@
     },
     {
       "surface": "אלי",
-      "gloss": "我這裡"
+      "gloss": "歸回我"
     },
     {
       "surface": "ויחל",
-      "gloss": "懇求了"
+      "gloss": "就懇求"
     },
     {
       "surface": "איש",
@@ -112,7 +86,7 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "神"
+      "gloss": "以羅欣的"
     },
     {
       "surface": "את",
@@ -129,7 +103,7 @@
     },
     {
       "surface": "ותשב",
-      "gloss": "恢復回到"
+      "gloss": "復原歸回"
     },
     {
       "surface": "יד",
@@ -137,21 +111,21 @@
     },
     {
       "surface": "המלך",
-      "gloss": "王"
+      "gloss": "王的"
     },
     {
       "surface": "אליו",
-      "gloss": "他那裡"
+      "gloss": "給他"
     },
     {
       "surface": "ותהי",
-      "gloss": "成為"
+      "gloss": "就成為"
     },
     {
       "surface": "כבראשנה",
-      "gloss": "如起初一樣"
+      "gloss": "如同起初一樣"
     }
   ],
-  "timestamp": "2026-10-16T06:43:52.367537231Z",
+  "timestamp": "2026-10-16T21:57:45.091488183Z",
   "model": "glm-5.3"
 }

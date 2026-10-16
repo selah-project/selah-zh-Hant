@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על צבאתם",
-      "rationale": "字面「按他們的軍隊／隊伍」，指以色列人如編列的隊伍出埃及"
-    },
-    {
-      "kind": "you",
-      "subject": "הוציאו",
-      "rationale": "雅威對摩西、亞倫的直接命令式發言"
-    }
-  ],
-  "translation": "這就是那亞倫和摩西，雅威曾對他們說：要把以色列人按他們的隊伍從埃及地領出來。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "689f33bf5af3b1e4ab96bf325e77b2f3117236da145924433cf04301b21bd051",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/6\/25-28.1792125739224.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "這就是亞倫和摩西，雅威曾對他們說：「要把 ⟨את⟩ 以色列的子民按他們的隊伍從埃及地領出來。」",
   "tokens": [
     {
       "surface": "הוא",
-      "gloss": "這就是那"
+      "gloss": "這就是"
     },
     {
       "surface": "אהרן",
@@ -58,16 +37,16 @@
     },
     {
       "surface": "הוציאו",
-      "gloss": "要把……領出來"
+      "gloss": "領出來"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "以色列人"
+      "marks": "以色列的子民"
     },
     {
       "surface": "בני",
-      "gloss": "的子孫"
+      "gloss": "的子民"
     },
     {
       "surface": "ישראל",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "מארץ",
-      "gloss": "從……地"
+      "gloss": "從…地"
     },
     {
       "surface": "מצרים",
@@ -90,6 +69,6 @@
       "gloss": "他們的隊伍"
     }
   ],
-  "timestamp": "2026-10-16T04:42:19.226096518Z",
+  "timestamp": "2026-10-16T22:21:29.232040923Z",
   "model": "glm-5.3"
 }

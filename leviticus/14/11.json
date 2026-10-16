@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "המטהר…המטהר",
-      "rationale": "同一詞根「潔淨」兩次出現——行潔淨禮者與求潔淨者，中文以兩個詞形對映"
-    },
-    {
-      "kind": "addition",
-      "subject": "那些祭物",
-      "rationale": "ואתם 只作受詞記號指向供物，中文需補出「那些祭物」指明對象"
-    }
-  ],
-  "translation": "行潔淨禮的祭司要使那求潔淨的人連同那些祭物，立在雅威面前、會幕門口。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "0b6c410f78695d1a3ab5f62248d0fc3afdcda1cfe357b03686afc6f09f72a96a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/14\/9-12.1792126962882.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "行潔淨禮的祭司要使那將要得潔淨的人與 ⟨את⟩ 那人站立，並 ⟨אתם⟩ 那些祭物，在雅威面前、會幕門口。",
   "tokens": [
     {
       "surface": "והעמיד",
@@ -43,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那求潔淨的人"
+      "marks": "那人"
     },
     {
       "surface": "האיש",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "המטהר",
-      "gloss": "求潔淨的"
+      "gloss": "將要得潔淨的"
     },
     {
       "surface": "ואתם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨אתם⟩",
       "marks": "那些祭物"
     },
     {
@@ -72,13 +51,13 @@
     },
     {
       "surface": "אהל",
-      "gloss": "帳幕"
+      "gloss": "會幕的"
     },
     {
       "surface": "מועד",
       "gloss": "會幕"
     }
   ],
-  "timestamp": "2026-10-16T05:02:42.884103468Z",
+  "timestamp": "2026-10-16T22:48:45.118338891Z",
   "model": "glm-5.3"
 }

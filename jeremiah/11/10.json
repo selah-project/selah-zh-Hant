@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "zh-Hant",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "את（第三處）",
-      "rationale": "此את（אֵת）是介詞「與」，非受詞記號，故譯作「與」而不加⟨את⟩。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "כרתי ברית",
-      "rationale": "「立約」字面是「切約」，與「背棄」（הפרו，折斷）相對。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "神明",
-      "rationale": "אלהים אחרים指別神，非聖名位置的以羅欣，故用「別的神明」。"
-    }
-  ],
-  "translation": "他們轉回歸向他們先前先祖的罪孽——那些先祖曾拒絕聽從 ⟨את⟩ 我的話語；他們卻隨從別的神明去事奉它們。以色列家和猶大家背棄了 ⟨את⟩ 我的約，就是我與他們列祖所立的約。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "e63ecb4096b30239ff6e80b11a85c592c95de076e39c14d236a2eb08fd590994",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/11\/9-12.1792136384133.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們轉回歸向他們先祖的罪孽，就是那些拒絕聽 ⟨את⟩ 我話語的先祖；他們隨從別神去事奉它們。以色列家和我大家違背了 ⟨את⟩ 我的約，就是我與他們列祖所立的 ⟨את⟩ 約。」",
   "tokens": [
     {
       "surface": "שבו",
@@ -51,19 +25,19 @@
     },
     {
       "surface": "הראשנים",
-      "gloss": "先前的"
+      "gloss": "最早的"
     },
     {
       "surface": "אשר",
-      "gloss": "那些"
+      "gloss": "就是那些"
     },
     {
       "surface": "מאנו",
-      "gloss": "曾拒絕"
+      "gloss": "拒絕"
     },
     {
       "surface": "לשמוע",
-      "gloss": "聽從"
+      "gloss": "聽"
     },
     {
       "surface": "את",
@@ -76,15 +50,15 @@
     },
     {
       "surface": "והמה",
-      "gloss": "他們卻"
+      "gloss": "他們"
     },
     {
       "surface": "הלכו",
-      "gloss": "隨從"
+      "gloss": "隨從而行"
     },
     {
       "surface": "אחרי",
-      "gloss": "跟隨"
+      "gloss": "在……之後"
     },
     {
       "surface": "אלהים",
@@ -100,7 +74,7 @@
     },
     {
       "surface": "הפרו",
-      "gloss": "背棄了"
+      "gloss": "違背了"
     },
     {
       "surface": "בית",
@@ -112,7 +86,7 @@
     },
     {
       "surface": "ובית",
-      "gloss": "和家"
+      "gloss": "和……家"
     },
     {
       "surface": "יהודה",
@@ -137,13 +111,14 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ 與"
+      "gloss": "⟨את⟩",
+      "marks": "他們的列祖"
     },
     {
       "surface": "אבותם",
       "gloss": "他們的列祖"
     }
   ],
-  "timestamp": "2026-10-16T07:39:44.133924893Z",
+  "timestamp": "2026-10-16T23:01:27.918887761Z",
   "model": "glm-5.3"
 }

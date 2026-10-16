@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ופרע את ראש",
-      "rationale": "傳統譯「揭開頭巾／鬆開頭髮」；字面是「鬆開那婦人的頭」，七十士譯本作「解開髮辮」"
-    },
-    {
-      "kind": "elision",
-      "subject": "מנחת",
-      "rational": "素祭一詞在中文由「祭」字承擔；希伯來文 מנחה本是「供物」"
-    }
-  ],
-  "translation": "祭司要使那婦人站在雅威面前，鬆開那婦人的頭髮，把記念素祭——就是嫉妒的素祭——放在她手中；致咒詛的苦水要在祭司手中。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "005556ea9a99564df05e19861dc81b09e09b0043e3d73bbc773cd4f1460d9ebe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/5\/17-20.1792127635364.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "祭司要使 ⟨את⟩ 那婦人站在雅威面前，要解開 ⟨את⟩ 那婦人頭上的髮，把紀念的素祭——就是嫉妒的素祭——放在她手中；祭司手中要拿著那帶來咒詛的苦水。",
   "tokens": [
     {
       "surface": "והעמיד",
-      "gloss": "要使……站立"
+      "gloss": "要使……站"
     },
     {
       "surface": "הכהן",
@@ -55,12 +34,12 @@
     },
     {
       "surface": "ופרע",
-      "gloss": "鬆開"
+      "gloss": "要解開"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那婦人的頭髮"
+      "marks": "頭上的髮"
     },
     {
       "surface": "ראש",
@@ -72,7 +51,7 @@
     },
     {
       "surface": "ונתן",
-      "gloss": "放"
+      "gloss": "要放"
     },
     {
       "surface": "על",
@@ -85,7 +64,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "記念素祭"
+      "marks": "素祭"
     },
     {
       "surface": "מנחת",
@@ -93,7 +72,7 @@
     },
     {
       "surface": "הזכרון",
-      "gloss": "記念"
+      "gloss": "紀念的"
     },
     {
       "surface": "מנחת",
@@ -105,11 +84,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "就是它"
+      "gloss": "就是"
     },
     {
       "surface": "וביד",
-      "gloss": "在手中"
+      "gloss": "在……手中"
     },
     {
       "surface": "הכהן",
@@ -129,9 +108,9 @@
     },
     {
       "surface": "המאררים",
-      "gloss": "致咒詛的"
+      "gloss": "帶來咒詛的"
     }
   ],
-  "timestamp": "2026-10-16T05:13:55.365805017Z",
+  "timestamp": "2026-10-16T22:56:31.891237698Z",
   "model": "glm-5.3"
 }

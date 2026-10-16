@@ -5,28 +5,7 @@
   "book": "isaiah",
   "lang": "zh-Hant",
   "chapter": 65,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בהלה",
-      "rationale": "或譯「突然的驚嚇」「災禍」——譯本在「驚恐／災禍／恐懼」間分歧"
-    },
-    {
-      "kind": "elision",
-      "subject": "זרע ברוכי יהוה",
-      "rationale": "字面為「他們是雅威所福之人的種子」，中文以「雅威所賜福的後裔」緊縮"
-    }
-  ],
-  "translation": "他們必不徒然勞碌，所生養的也不遭驚恐；因為他們是雅威所賜福的後裔，他們的子孫也與他們同在。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "578420fffc6089f267425b5bfce70af2733c9d7132c0d4690945e0838dcb9dd6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/65\/21-24.1792135946882.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們必不徒然勞碌，也不在驚惶中生子；因為他們是蒙雅威賜福的後裔，他們的子孫也⟨אתם⟩與他們同在。",
   "tokens": [
     {
       "surface": "לא",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "ילדו",
-      "gloss": "生養"
+      "gloss": "生子"
     },
     {
       "surface": "לבהלה",
-      "gloss": "遭驚恐"
+      "gloss": "在驚惶中"
     },
     {
       "surface": "כי",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "ברוכי",
-      "gloss": "所賜福的"
+      "gloss": "蒙…賜福的"
     },
     {
       "surface": "יהוה",
@@ -79,9 +58,9 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "他們"
+      "marks": "與他們"
     }
   ],
-  "timestamp": "2026-10-16T07:32:26.883766874Z",
+  "timestamp": "2026-10-16T22:35:56.037075632Z",
   "model": "glm-5.3"
 }

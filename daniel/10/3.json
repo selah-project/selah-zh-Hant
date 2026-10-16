@@ -5,28 +5,7 @@
   "book": "daniel",
   "lang": "zh-Hant",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "literal",
-      "subject": "三個七日",
-      "rationale": "同第2節，直譯『三個七的週期，即日數』＝二十一日。"
-    },
-    {
-      "kind": "measurement",
-      "subject": "直到三個七日滿了",
-      "rationale": "本節記錄禁食的確切期限。"
-    }
-  ],
-  "translation": "美味의麵包我沒有吃，肉和酒都沒有進入我口中，我也沒有用膏油抹身，直到三個七日滿了日子。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "3aca032882614d295d1faee0573a2bd2d25aea6b0d8d6debb9afed6192c51bf0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/daniel\/10\/1-4.1792147579992.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "美味〈的〉麵包我沒有吃，肉和酒沒有進入我口中，我也沒有用油膏抹自己，直到三個七日〈的〉日子滿了。",
   "tokens": [
     {
       "surface": "לחם",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "חמדות",
-      "gloss": "美味的"
+      "gloss": "美味〈的〉"
     },
     {
       "surface": "לא",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "וסוך",
-      "gloss": "抹膏油"
+      "gloss": "也沒有用油膏抹"
     },
     {
       "surface": "לא",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "סכתי",
-      "gloss": "我抹"
+      "gloss": "膏抹自己"
     },
     {
       "surface": "עד",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "שלשת",
-      "gloss": "三"
+      "gloss": "三個"
     },
     {
       "surface": "שבעים",
@@ -101,6 +80,6 @@
       "gloss": "日子"
     }
   ],
-  "timestamp": "2026-10-16T10:46:19.993429573Z",
+  "timestamp": "2026-10-16T22:11:58.335672492Z",
   "model": "glm-5.3"
 }

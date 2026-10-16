@@ -5,71 +5,45 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "מצבא העבדה",
-      "rationale": "「服役的軍隊／隊伍」原文以軍事隊伍喻指職事，中譯作「服役的職分」"
-    },
-    {
-      "kind": "elision",
-      "subject": "עוד",
-      "gloss note": "與「不再」合併，「再」已含其義"
-    },
-    {
-      "kind": "measurement",
-      "subject": "fifty years",
-      "rationale": "年歲計數規定利未人退休之齡"
-    }
-  ],
-  "translation": "到了五十歲，他們要從服役的職分中退下，不再供職。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "28933ed394d984f3063532df253a2435a1ab93db37f20c16786725d732f8fae6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/8\/25-26.1792127653144.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "到了五十歲，他要從服役的隊伍中退下，不再事奉了。",
   "tokens": [
     {
-      "surface": "ומבן",
+      "surface": "וּמִבֶּן",
       "gloss": "到了…歲"
     },
     {
-      "surface": "חמשים",
+      "surface": "חֲמִשִּׁים",
       "gloss": "五十"
     },
     {
-      "surface": "שנה",
+      "surface": "שָׁנָה",
       "gloss": "歲"
     },
     {
-      "surface": "ישוב",
+      "surface": "יָשׁוּב",
       "gloss": "退下"
     },
     {
-      "surface": "מצבא",
-      "gloss": "從…職分"
+      "surface": "מִצְּבָא",
+      "gloss": "從…的隊伍"
     },
     {
-      "surface": "העבדה",
+      "surface": "הָעֲבֹדָה",
       "gloss": "服役"
     },
     {
-      "surface": "ולא",
+      "surface": "וְלֹא",
       "gloss": "不再"
     },
     {
-      "surface": "יעבד",
-      "gloss": "供職"
+      "surface": "יַעֲבֹד",
+      "gloss": "事奉"
     },
     {
-      "surface": "עוד",
-      "gloss": ""
+      "surface": "עוֹד",
+      "gloss": "了"
     }
   ],
-  "timestamp": "2026-10-16T05:14:13.145322565Z",
+  "timestamp": "2026-10-16T22:57:05.129053814Z",
   "model": "glm-5.3"
 }

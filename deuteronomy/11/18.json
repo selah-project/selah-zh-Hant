@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "生命",
-      "rationale": "נפש 字面是「氣息／喉嚨／活物」，譯「生命」而非「靈魂」。"
-    },
-    {
-      "kind": "hapax",
-      "subject": "טוטפת",
-      "rationale": "額飾一詞僅見於妥拉此類經文（申 6:8；11:18），字面意不確定。"
-    },
-    {
-      "kind": "crux",
-      "subject": "טוטפת",
-      "rationale": "「額上的飾帶」（字面）或「繫帶」；拉比傳統理解為經文匣（tefillin）。"
-    }
-  ],
-  "translation": "所以你們要將我這些話放在你們的心上、你們的生命上，又要繫上它們作為記號在你們手上，它們要成為額上的飾帶在你們兩眼之間。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "bf9d61cdcc33eb40cbcedb8fcff71a0bfb4b7a78d261f4da31f7e3eb3c487429",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/11\/17-20.1792128735068.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你們要把我的這些話放在你們的心上、放在你們的性命上，又要繫上 ⟨את⟩ 它們作為記號在你們的手上，它們要作為額飾在你們的兩眼之間。",
   "tokens": [
     {
       "surface": "ושמתם",
@@ -40,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我這些話"
+      "marks": "我的這些話"
     },
     {
       "surface": "דברי",
@@ -64,15 +38,16 @@
     },
     {
       "surface": "נפשכם",
-      "gloss": "你們的生命"
+      "gloss": "你們的性命"
     },
     {
       "surface": "וקשרתם",
-      "gloss": "又要繫上"
+      "gloss": "你們又要繫上"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ 它們"
+      "gloss": "⟨את⟩",
+      "marks": "它們（這些話）"
     },
     {
       "surface": "לאות",
@@ -88,11 +63,11 @@
     },
     {
       "surface": "והיו",
-      "gloss": "它們要成為"
+      "gloss": "它們要作為"
     },
     {
       "surface": "לטוטפת",
-      "gloss": "額上的飾帶"
+      "gloss": "額飾"
     },
     {
       "surface": "בין",
@@ -100,9 +75,9 @@
     },
     {
       "surface": "עיניכם",
-      "gloss": "你們的眼"
+      "gloss": "你們的兩眼"
     }
   ],
-  "timestamp": "2026-10-16T05:32:15.069337200Z",
+  "timestamp": "2026-10-16T22:13:19.109026307Z",
   "model": "glm-5.3"
 }

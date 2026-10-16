@@ -5,33 +5,7 @@
   "book": "judges",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "איש נביא",
-      "rationale": "「一個人、一位先知」——此先知無名；各家或作「一位先知」（和合）或保留「人—先知」並列（YLТ），其身分歷來不明"
-    },
-    {
-      "kind": "substitution",
-      "subject": "העליתי",
-      "rationale": "字面是「使你們上來」，與「帶出」(ואציא) 成對；中文「領上來」保留了上行意象"
-    },
-    {
-      "kind": "you",
-      "subject": "以色列人",
-      "rationale": "先知之言直接對以色列人說話，轉述雅威的第一人稱宣告"
-    }
-  ],
-  "translation": "雅威就差遣一位先知到以色列人那裡，他對他們說：「雅威、以色列的以羅欣如此說：『我曾領你們 ⟨אותם⟩ 上來，出離埃及，又領你們 ⟨אותם⟩ 出來，脫離為奴之家。』」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "37d8e3b749bce865c4c71f3a42f8b41d8125e2cf0fb57e0f4d077ad47b5d0a32",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/6\/7-8.1792142415131.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威差遣 ⟨את⟩ 一位先知到以色列人那裡，他對他們說：「雅威——以色列的以羅欣——如此說：我曾領你們上來出埃及，領你們出奴僕之家。",
   "tokens": [
     {
       "surface": "וישלח",
@@ -42,7 +16,7 @@
       "gloss": "雅威"
     },
     {
-      "surface": "איש",
+      "surface": "אישׁ",
       "gloss": "一位"
     },
     {
@@ -51,11 +25,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "到…那裡"
+      "gloss": "到"
     },
     {
       "surface": "בני",
-      "gloss": "人"
+      "gloss": "人（以色列的子民）"
     },
     {
       "surface": "ישראל",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "說"
+      "gloss": "他說"
     },
     {
       "surface": "להם",
@@ -95,35 +69,35 @@
     },
     {
       "surface": "העליתי",
-      "gloss": "領…上來"
+      "gloss": "我曾領……上來"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "你們（領上來的對象）"
+      "gloss": "⟨את⟩",
+      "marks": "你們（上來出埃及）"
     },
     {
       "surface": "ממצרים",
-      "gloss": "出離埃及"
+      "gloss": "出埃及"
     },
     {
       "surface": "ואציא",
-      "gloss": "又領…出來"
+      "gloss": "領……出"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "你們（領出來的對象）"
+      "gloss": "⟨את⟩",
+      "marks": "你們（出奴僕之家）"
     },
     {
       "surface": "מבית",
-      "gloss": "脫離…之家"
+      "gloss": "出……之家"
     },
     {
       "surface": "עבדים",
-      "gloss": "為奴"
+      "gloss": "奴僕"
     }
   ],
-  "timestamp": "2026-10-16T09:20:15.133561201Z",
+  "timestamp": "2026-10-16T22:47:17.436341981Z",
   "model": "glm-5.3"
 }

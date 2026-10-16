@@ -5,28 +5,7 @@
   "book": "ecclesiastes",
   "lang": "zh-Hant",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בלוא לחש",
-      "rationale": "「沒有咒語」可作「未被唸咒」（JPS）或「不靠唸咒」（KJV）兩讀"
-    },
-    {
-      "kind": "substitution",
-      "subject": "舌頭之主",
-      "rationale": "בעל הלשון 字面為「舌頭的主人」：指弄蛇唸咒者，亦可反諷指多言之人"
-    }
-  ],
-  "translation": "若蛇未被唸咒就咬人，那麼〈施咒者〉舌頭之主就無益處了。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "77409f50db2dd2ba88e0b079de9765595825d46c2c0e3b326febddcd0d69b0f1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/10\/9-12.1792147027258.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "若蛇在不施咒語時咬人，那麼掌握舌頭的人就沒有益處了。",
   "tokens": [
     {
       "surface": "אם",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "ישך",
-      "gloss": "咬人"
+      "gloss": "咬"
     },
     {
       "surface": "הנחש",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "בלוא",
-      "gloss": "未被"
+      "gloss": "不"
     },
     {
       "surface": "לחש",
-      "gloss": "唸咒"
+      "gloss": "咒語"
     },
     {
       "surface": "ואין",
-      "gloss": "那麼……就無"
+      "gloss": "就沒有"
     },
     {
       "surface": "יתרון",
@@ -58,13 +37,13 @@
     },
     {
       "surface": "לבעל",
-      "gloss": "舌頭之主"
+      "gloss": "掌握……的人"
     },
     {
       "surface": "הלשון",
-      "gloss": "舌頭的"
+      "gloss": "舌頭"
     }
   ],
-  "timestamp": "2026-10-16T10:37:07.259421803Z",
+  "timestamp": "2026-10-16T22:16:30.919203086Z",
   "model": "glm-5.3"
 }

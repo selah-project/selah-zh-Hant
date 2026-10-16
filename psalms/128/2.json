@@ -5,58 +5,37 @@
   "book": "psalms",
   "lang": "zh-Hant",
   "chapter": 128,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈這〉",
-      "rationale": "中文判斷句需要主語，希伯來文無"
-    },
-    {
-      "kind": "substitution",
-      "subject": "כי",
-      "rationale": "כי此處作誓言或強調用法，非單純因果「因為」，以「你要」直陳"
-    }
-  ],
-  "translation": "你要吃自己雙手勞碌的果子；你是有福的，〈這〉對你乃是好的。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "d7566107d30fc2a0d4cee36675931758fde9a219fd50cc777995d4bd37a500fa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/128\/1-4.1792144948279.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你雙手的勞碌 ⟨你⟩ 必吃得，你是蒙福的，得好處的是你。",
   "tokens": [
     {
       "surface": "יגיע",
-      "gloss": "勞碌的果子"
+      "gloss": "勞碌"
     },
     {
       "surface": "כפיך",
-      "gloss": "你的雙手"
+      "gloss": "你雙手的"
     },
     {
       "surface": "כי",
-      "gloss": "你要"
+      "gloss": "⟨必⟩"
     },
     {
       "surface": "תאכל",
-      "gloss": "吃"
+      "gloss": "吃得"
     },
     {
       "surface": "אשריך",
-      "gloss": "你是有福的"
+      "gloss": "你是蒙福的"
     },
     {
       "surface": "וטוב",
-      "gloss": "乃是好的"
+      "gloss": "得好處"
     },
     {
       "surface": "לך",
-      "gloss": "對你"
+      "gloss": "是你"
     }
   ],
-  "timestamp": "2026-10-16T10:02:28.280538009Z",
+  "timestamp": "2026-10-16T22:58:03.592992230Z",
   "model": "glm-5.3"
 }

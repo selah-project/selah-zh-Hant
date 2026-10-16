@@ -5,37 +5,16 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "עשו דדי",
-      "rationale": "直譯「對待她的胸乳」；歷代譯本作「揉弄」「壓傷」，強度各異"
-    },
-    {
-      "kind": "addition",
-      "subject": "帶來的",
-      "rationale": "原文僅「她的淫亂從埃及」，中文加「帶來的」以成句"
-    }
-  ],
-  "translation": "她沒有離棄 ⟨את⟩ 她從埃及帶來的淫亂，因為他們在她年幼時就與她同寢，撫弄她童貞的胸乳，又把他們的淫行傾倒在她身上。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b7dd4bf736a6ffe96cbaa658c69743ae2040a6aeeda72b0b4a8f9b6f78f60471",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/23\/5-8.1792138545553.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "她從埃及帶來的淫行，她沒有離棄；因為他們在她年幼時就與⟨את⟩她同寢，他們撫弄了她童貞的乳，又把他們的淫行傾倒在她身上。",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "她從埃及帶來的淫亂"
+      "marks": "她的淫行"
     },
     {
       "surface": "תזנותיה",
-      "gloss": "她的淫亂"
+      "gloss": "她的淫行"
     },
     {
       "surface": "ממצרים",
@@ -55,8 +34,8 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩她",
-      "marks": "與她同寢"
+      "gloss": "⟨את⟩",
+      "marks": "她（同寢的對象）"
     },
     {
       "surface": "שכבו",
@@ -72,11 +51,11 @@
     },
     {
       "surface": "עשו",
-      "gloss": "撫弄"
+      "gloss": "撫弄了"
     },
     {
       "surface": "דדי",
-      "gloss": "胸乳"
+      "gloss": "乳"
     },
     {
       "surface": "בתוליה",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "וישפכו",
-      "gloss": "又傾倒"
+      "gloss": "傾倒"
     },
     {
       "surface": "תזנותם",
@@ -95,6 +74,6 @@
       "gloss": "在她身上"
     }
   ],
-  "timestamp": "2026-10-16T08:15:45.554758825Z",
+  "timestamp": "2026-10-16T22:23:30.029140114Z",
   "model": "glm-5.3"
 }

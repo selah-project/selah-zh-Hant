@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "את נבות",
-      "rationale": "此處的 את 或為介詞「與拿伯同住」，或為受詞記號⟨את⟩；馬所拉文本指向「與拿伯同住的居民」"
-    },
-    {
-      "kind": "addition",
-      "subject": "〈那些人〉",
-      "rationale": "中文關係句需要先行詞「那些人」，希伯來文以分詞הישבים直接表達"
-    }
-  ],
-  "translation": "她以亞哈的名寫了信，用他的印印上，把那些信送給他城裡的長老和貴族，就是與拿伯同住的〈那些人〉。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "25573c7040ccdc824df79312cbf114424f56be25263d20735d64a80a517134bd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/21\/5-8.1792133378188.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "她以亞哈的名寫了信件，用他的印戒指蓋上印，並把那些信件送到他城裡的長老和貴人那裡，就是與拿伯同住的人，⟨את⟩ 拿伯。",
   "tokens": [
     {
       "surface": "ותכתב",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "ספרים",
-      "gloss": "信"
+      "gloss": "信件"
     },
     {
       "surface": "בשם",
-      "gloss": "以……的名"
+      "gloss": "以…的名"
     },
     {
       "surface": "אחאב",
@@ -46,23 +25,23 @@
     },
     {
       "surface": "ותחתם",
-      "gloss": "用印印上"
+      "gloss": "蓋上印"
     },
     {
       "surface": "בחתמו",
-      "gloss": "用他的印"
+      "gloss": "用他的印戒指"
     },
     {
       "surface": "ותשלח",
-      "gloss": "她送出"
+      "gloss": "她差送"
     },
     {
       "surface": "הספרים",
-      "gloss": "那些信"
+      "gloss": "那些信件"
     },
     {
       "surface": "אל",
-      "gloss": "給"
+      "gloss": "到…那裡"
     },
     {
       "surface": "הזקנים",
@@ -70,11 +49,11 @@
     },
     {
       "surface": "ואל",
-      "gloss": "也給"
+      "gloss": "以及到…那裡"
     },
     {
       "surface": "החרים",
-      "gloss": "貴族"
+      "gloss": "貴人"
     },
     {
       "surface": "אשר",
@@ -82,11 +61,11 @@
     },
     {
       "surface": "בעירו",
-      "gloss": "在他城裡"
+      "gloss": "在他的城裡"
     },
     {
       "surface": "הישבים",
-      "gloss": "同住的"
+      "gloss": "居住的"
     },
     {
       "surface": "את",
@@ -98,6 +77,6 @@
       "gloss": "拿伯"
     }
   ],
-  "timestamp": "2026-10-16T06:49:38.190278674Z",
+  "timestamp": "2026-10-16T21:58:58.418950098Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,7 @@
   "book": "song-of-songs",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "נא",
-      "rationale": "懇求語氣詞，中文以「現在」輕度補足，語氣部分失落"
-    }
-  ],
-  "translation": "我要起來，繞行城中，在街市上、在廣場上，尋找⟨את⟩我心所愛慕的。我尋找他，卻尋不見。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "28b12a73fd5bfd486d8a9d2d94fc38500a8728a64f568cb32b0096d2ac727c5e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/3\/1-4.1792146611221.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我要起來，環行城中，在街市上、在廣場上，尋找 ⟨את⟩ 我心所愛慕的那一位；我尋找他，卻尋不見。",
   "tokens": [
     {
       "surface": "אקומה",
@@ -29,11 +13,11 @@
     },
     {
       "surface": "נא",
-      "gloss": "現在"
+      "gloss": "⟨現在⟩"
     },
     {
       "surface": "ואסובבה",
-      "gloss": "繞行"
+      "gloss": "環行"
     },
     {
       "surface": "בעיר",
@@ -54,7 +38,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我心所愛慕的"
+      "marks": "我心所愛慕的那一位"
     },
     {
       "surface": "שאהבה",
@@ -62,7 +46,7 @@
     },
     {
       "surface": "נפשי",
-      "gloss": "我的生命（נפש）"
+      "gloss": "我的心"
     },
     {
       "surface": "בקשתיו",
@@ -74,9 +58,9 @@
     },
     {
       "surface": "מצאתיו",
-      "gloss": "尋不見他"
+      "gloss": "尋見他"
     }
   ],
-  "timestamp": "2026-10-16T10:30:11.221850943Z",
+  "timestamp": "2026-10-16T22:59:49.911576871Z",
   "model": "glm-5.3"
 }

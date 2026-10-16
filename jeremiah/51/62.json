@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "zh-Hant",
   "chapter": 51,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈是〉",
-      "rationale": "希伯來文無繫詞，中文以「是你」強調代名詞 אתה 的對比語氣"
-    },
-    {
-      "kind": "substitution",
-      "subject": "剪除",
-      "rationale": "להכרית 字面是「砍下、切斷」，譯作「剪除」保留毀滅義"
-    }
-  ],
-  "translation": "說：『雅威啊，〈是〉你曾對這地方說話，要剪除它，使其中不再有人居住，無論人和牲畜，因為它必永遠荒涼。』",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "0625115290ce06b6c71558b6b901016160b59d01e8e4b488420d896573f35751",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/51\/61-64.1792137824635.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你要說：「雅威啊，是你說了反對這地方、要除滅它的話，使其中不再有人居住，無論人或是牲畜，因為它必永遠荒涼。」",
   "tokens": [
     {
       "surface": "ואמרת",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "אתה",
-      "gloss": "你"
+      "gloss": "是你"
     },
     {
       "surface": "דברת",
-      "gloss": "曾說話"
+      "gloss": "說了"
     },
     {
       "surface": "אל",
-      "gloss": "對"
+      "gloss": "反對"
     },
     {
       "surface": "המקום",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "להכריתו",
-      "gloss": "要剪除它"
+      "gloss": "要除滅它"
     },
     {
       "surface": "לבלתי",
-      "gloss": "免得"
+      "gloss": "使不再"
     },
     {
       "surface": "היות",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "ועד",
-      "gloss": "和直到"
+      "gloss": "或是"
     },
     {
       "surface": "בהמה",
@@ -105,6 +84,6 @@
       "gloss": "它必是"
     }
   ],
-  "timestamp": "2026-10-16T08:03:44.636177118Z",
+  "timestamp": "2026-10-16T22:41:31.902048385Z",
   "model": "glm-5.3"
 }

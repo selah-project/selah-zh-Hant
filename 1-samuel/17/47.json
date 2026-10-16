@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "施行",
-      "rationale": "יהושיע 是使役動詞「他拯救」，中文需補「施行」成句。"
-    },
-    {
-      "kind": "idiom",
-      "subject": "ליהוה המלחמה",
-      "rationale": "字面「戰爭（是）屬雅威的」，所有格表主權；希伯來文無動詞，中文補「屬於」。"
-    }
-  ],
-  "translation": "使這全會眾都知道，雅威施行拯救不是靠刀、靠槍；因為戰爭屬於雅威，他必將你們交在我們手裡。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "9e521234a842e7f8e35bad6847d26d15556d57f26aa1522c46e88c8b91a6303e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/17\/45-48.1792131275675.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "好叫這全會眾都知道，雅威拯救不是憑刀劍和槍矛；因為戰爭屬於雅威，他必將你們 ⟨את⟩ 交在我們手中。」",
   "tokens": [
     {
       "surface": "וידעו",
-      "gloss": "使……知道"
+      "gloss": "好叫……都知道"
     },
     {
       "surface": "כל",
@@ -46,23 +25,23 @@
     },
     {
       "surface": "כי",
-      "gloss": "知道"
+      "gloss": "……〈這件事〉"
     },
     {
       "surface": "לא",
-      "gloss": "不"
+      "gloss": "不是"
     },
     {
       "surface": "בחרב",
-      "gloss": "靠刀"
+      "gloss": "憑刀劍"
     },
     {
       "surface": "ובחנית",
-      "gloss": "靠槍"
+      "gloss": "和槍矛"
     },
     {
       "surface": "יהושיע",
-      "gloss": "施行拯救"
+      "gloss": "拯救"
     },
     {
       "surface": "יהוה",
@@ -82,18 +61,18 @@
     },
     {
       "surface": "ונתן",
-      "gloss": "必交出"
+      "gloss": "他必將……交"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩你們",
+      "gloss": "⟨את⟩",
       "marks": "你們"
     },
     {
       "surface": "בידנו",
-      "gloss": "在我們手裡"
+      "gloss": "在我們手中"
     }
   ],
-  "timestamp": "2026-10-16T06:14:35.676619711Z",
+  "timestamp": "2026-10-16T22:01:14.238121408Z",
   "model": "glm-5.3"
 }

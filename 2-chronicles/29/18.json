@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "zh-Hant",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "陳設餅",
-      "rationale": "המערכת 直譯「擺列的（餅）」，指陳設在桌上的餅堆"
-    },
-    {
-      "kind": "you",
-      "subject": "對希西家王",
-      "rationale": "祭司與利未人向王報告潔淨完成"
-    },
-    {
-      "kind": "addition",
-      "subject": "就是",
-      "rationale": "中文需連接詞引出同位語，原文以את並列"
-    }
-  ],
-  "translation": "他們進到裡面見希西家王，說：「我們已潔淨了 ⟨את⟩ 雅威的全殿，就是 ⟨את⟩ 燔祭壇和它的一切器具，以及 ⟨ואת⟩ 陳設餅桌和它的一切器具。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "7bf8c8b73bdf4be18ed0d8988d11962ceb11ddca534812eb40193dfdeaf2f676",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/29\/17-20.1792149595820.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們進到裡面，來見希西家王，說：「我們已潔淨了 ⟨את⟩ 雅威的全殿，⟨את⟩ 燔祭壇和它的全一切器具，以及 ⟨את⟩ 陳設餅的桌子和它的全一切器具。」",
   "tokens": [
     {
       "surface": "ויבואו",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "פנימה",
-      "gloss": "向裡面"
+      "gloss": "到裡面"
     },
     {
       "surface": "אל",
-      "gloss": "到"
+      "gloss": "來見"
     },
     {
       "surface": "חזקיהו",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "טהרנו",
-      "gloss": "我們已潔淨"
+      "gloss": "我們已潔淨了"
     },
     {
       "surface": "את",
@@ -89,16 +63,16 @@
     },
     {
       "surface": "העולה",
-      "gloss": "燔祭"
+      "gloss": "燔祭的"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨ואת⟩",
-      "marks": "它的一切器具"
+      "gloss": "以及 ⟨את⟩",
+      "marks": "它的全一切器具"
     },
     {
       "surface": "כל",
-      "gloss": "一切"
+      "gloss": "全一切"
     },
     {
       "surface": "כליו",
@@ -106,12 +80,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨ואת⟩",
-      "marks": "陳設餅桌"
+      "gloss": "以及 ⟨את⟩",
+      "marks": "陳設餅的桌子"
     },
     {
       "surface": "שלחן",
-      "gloss": "桌"
+      "gloss": "桌子"
     },
     {
       "surface": "המערכת",
@@ -119,18 +93,18 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨ואת⟩",
-      "marks": "它的一切器具"
+      "gloss": "以及 ⟨את⟩",
+      "marks": "它的全一切器具"
     },
     {
       "surface": "כל",
-      "gloss": "一切"
+      "gloss": "全一切"
     },
     {
       "surface": "כליו",
       "gloss": "器具"
     }
   ],
-  "timestamp": "2026-10-16T11:19:55.821185897Z",
+  "timestamp": "2026-10-16T22:04:15.368741178Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,19 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to his sons",
-      "rationale": "老先知直接吩咐兒子們的遺命之言"
-    },
-    {
-      "kind": "addition",
-      "subject": "了",
-      "rationale": "ויהי אחרי為慣用敘事套語，中文以「…之後」加完成助詞呈現"
-    }
-  ],
-  "translation": "他埋葬了他之後，就對他的兒子們說：「我死的時候，你們要把我葬在那神人(以羅欣)所葬的墳墓裡，把我的骸骨放在他骸骨的旁邊。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "e3d70f42bfbcf1883f82828c8d12b31042d91561aac6ab6665f2b47ea5b7007f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/13\/29-32.1792133023431.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他埋葬了 ⟨את⟩ 他之後，就對他的眾子說：「我死的時候，你們要把 ⟨את⟩ 我埋在神人以羅欣的僕人那僕人所葬的墳墓裡；你們要把 ⟨את⟩ 我的骸骨放在他的骸骨旁邊。」",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "發生了"
-    },
-    {
-      "surface": "אחרי",
       "gloss": "之後"
     },
     {
+      "surface": "אחרי",
+      "gloss": "在……之後"
+    },
+    {
       "surface": "קברו",
-      "gloss": "他埋葬"
+      "gloss": "他埋葬了"
     },
     {
       "surface": "אתו",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "בניו",
-      "gloss": "他的兒子們"
+      "gloss": "他的眾子"
     },
     {
       "surface": "לאמר",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "וקברתם",
-      "gloss": "你們要葬"
+      "gloss": "你們要埋葬"
     },
     {
       "surface": "אתי",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "人"
+      "gloss": "神人"
     },
     {
       "surface": "האלהים",
@@ -100,7 +79,7 @@
     },
     {
       "surface": "אצל",
-      "gloss": "在…旁邊"
+      "gloss": "在……旁邊"
     },
     {
       "surface": "עצמתיו",
@@ -108,7 +87,7 @@
     },
     {
       "surface": "הניחו",
-      "gloss": "要放"
+      "gloss": "你們要放置"
     },
     {
       "surface": "את",
@@ -120,6 +99,6 @@
       "gloss": "我的骸骨"
     }
   ],
-  "timestamp": "2026-10-16T06:43:43.432716942Z",
+  "timestamp": "2026-10-16T21:58:07.806264800Z",
   "model": "glm-5.3"
 }

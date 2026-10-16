@@ -5,36 +5,15 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "承接聖職",
-      "rationale": "מלא את יד字面是「充滿他的手」——就任祭司職分的固定習語"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "משח",
-      "rationale": "「受膏」即משיח（受膏者）的同根動詞——祭司也受膏，非僅君王"
-    }
-  ],
-  "translation": "那受膏、承接聖職代替他父親作祭司的祭司，要贖罪；他要穿上細麻布的聖衣——聖潔的衣服。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "12e00a8d15d084c617f4e7bdaac6e3d7f70e67ca3461688c69cf413ea2c7f886",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/16\/29-32.1792127077814.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "那受膏、被填立⟨את⟩手在父親之後承接祭司職分的祭司，要行贖罪之禮，並要穿上細麻布的衣裳，就是聖衣。",
   "tokens": [
     {
       "surface": "וכפר",
-      "gloss": "他要贖罪"
+      "gloss": "要行贖罪之禮"
     },
     {
       "surface": "הכהן",
-      "gloss": "祭司"
+      "gloss": "那祭司"
     },
     {
       "surface": "אשר",
@@ -42,20 +21,20 @@
     },
     {
       "surface": "ימשח",
-      "gloss": "受膏的"
+      "gloss": "受膏"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "祭司"
+      "gloss": "⟨את⟩",
+      "marks": "他（那祭司）"
     },
     {
       "surface": "ואשר",
-      "gloss": "和那"
+      "gloss": "並那"
     },
     {
       "surface": "ימלא",
-      "gloss": "承接"
+      "gloss": "被填立"
     },
     {
       "surface": "את",
@@ -64,15 +43,15 @@
     },
     {
       "surface": "ידו",
-      "gloss": "他的手"
+      "gloss": "手"
     },
     {
       "surface": "לכהן",
-      "gloss": "作祭司"
+      "gloss": "承接祭司職分"
     },
     {
       "surface": "תחת",
-      "gloss": "代替"
+      "gloss": "在……之後（代替）"
     },
     {
       "surface": "אביו",
@@ -80,16 +59,16 @@
     },
     {
       "surface": "ולבש",
-      "gloss": "他要穿上"
+      "gloss": "並要穿上"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "細麻布的衣服"
+      "marks": "細麻布的衣裳"
     },
     {
       "surface": "בגדי",
-      "gloss": "衣服"
+      "gloss": "衣裳"
     },
     {
       "surface": "הבד",
@@ -97,13 +76,13 @@
     },
     {
       "surface": "בגדי",
-      "gloss": "衣服"
+      "gloss": "衣裳"
     },
     {
       "surface": "הקדש",
-      "gloss": "聖潔的"
+      "gloss": "聖的"
     }
   ],
-  "timestamp": "2026-10-16T05:04:37.815465442Z",
+  "timestamp": "2026-10-16T22:49:17.813981522Z",
   "model": "glm-5.3"
 }

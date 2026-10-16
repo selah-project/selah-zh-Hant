@@ -5,41 +5,20 @@
   "book": "psalms",
   "lang": "zh-Hant",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "領受",
-      "rationale": "ישא字面是「抬起、擔負」，這裡是「領受／擔去」祝福的圖像（ylt: beareth away）"
-    },
-    {
-      "kind": "addition",
-      "subject": "他拯救的",
-      "rationale": "מאלהי ישעו是「他拯救之以羅欣」，中文以所有格結構自然表達"
-    }
-  ],
-  "translation": "他必從⟨את⟩雅威領受祝福，從他拯救的以羅欣〈那里〉得著公義。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "6f551de92922aac10d996a88c62ddc366ac90a7bf740575a5aa3540fdeac51f5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/24\/5-8.1792143469072.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他必從雅威那裡領受 ⟨את⟩ 祝福，又從他救恩的以羅欣那裡得著公義。",
   "tokens": [
     {
       "surface": "ישא",
-      "gloss": "領受"
+      "gloss": "他必領受"
     },
     {
       "surface": "ברכה",
-      "gloss": "祝福"
+      "gloss": "⟨את⟩ 祝福"
     },
     {
       "surface": "מאת",
-      "gloss": "從⟨את⟩",
-      "marks": "雅威"
+      "gloss": "從…那裡 ⟨את⟩",
+      "marks": "祝福"
     },
     {
       "surface": "יהוה",
@@ -47,17 +26,17 @@
     },
     {
       "surface": "וצדקה",
-      "gloss": "並且公義"
+      "gloss": "又…公義"
     },
     {
       "surface": "מאלהי",
-      "gloss": "從……的以羅欣"
+      "gloss": "從…以羅欣"
     },
     {
       "surface": "ישעו",
-      "gloss": "他拯救的"
+      "gloss": "他救恩的"
     }
   ],
-  "timestamp": "2026-10-16T09:37:49.072855628Z",
+  "timestamp": "2026-10-16T22:58:27.235377026Z",
   "model": "glm-5.3"
 }

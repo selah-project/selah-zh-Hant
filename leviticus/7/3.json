@@ -5,33 +5,12 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "祭司",
-      "rationale": "יקריב無明示主語，中文補「祭司」以承接上下文"
-    },
-    {
-      "kind": "substitution",
-      "subject": "肥尾巴",
-      "rationale": "האליה指東方綿羊的肥尾，直譯保留其形"
-    }
-  ],
-  "translation": "祭司要從中獻上 ⟨את⟩ 牠一切的脂油，就是 ⟨את⟩ 肥尾巴，和 ⟨את⟩ 蓋臟腑的脂油，",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "000c27701f6384e678ace380bcde0df4f5c26af47cf542d345bf65d8bb2cc244",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/7\/1-4.1792126756800.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "並要從中獻上 ⟨את⟩ 它一切的脂油：⟨את⟩ 肥尾巴，以及 ⟨את⟩ 蓋臟腑的脂油；",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "牠一切的脂油"
+      "marks": "它一切的脂油"
     },
     {
       "surface": "כל",
@@ -39,7 +18,7 @@
     },
     {
       "surface": "חלבו",
-      "gloss": "牠的脂油"
+      "gloss": "它的脂油"
     },
     {
       "surface": "יקריב",
@@ -61,7 +40,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "蓋臟腑的脂油"
+      "marks": "脂油"
     },
     {
       "surface": "החלב",
@@ -69,7 +48,7 @@
     },
     {
       "surface": "המכסה",
-      "gloss": "蓋……的"
+      "gloss": "蓋"
     },
     {
       "surface": "את",
@@ -81,6 +60,6 @@
       "gloss": "臟腑"
     }
   ],
-  "timestamp": "2026-10-16T04:59:16.801209605Z",
+  "timestamp": "2026-10-16T22:50:53.647787211Z",
   "model": "glm-5.3"
 }

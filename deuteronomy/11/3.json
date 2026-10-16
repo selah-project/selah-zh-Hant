@@ -5,41 +5,25 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "破折號補語",
-      "rationale": "中文同位語『埃及的王』以破折號呈現希伯來文名詞串 apposition"
-    }
-  ],
-  "translation": "以及他的記號和他所行的事，就是他在埃及當中所行、對法老——埃及的王——和他全地所行的；",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ef31f912133a2ad1a85300cb17934c74cead5a3e93929008cea6e78a38d84730",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/11\/1-4.1792128754445.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "以及他的一切記號和他的一切作為，就是他在埃及地當中所行的，對付法老——埃及王——和埃及的全地。",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "以及 ⟨את⟩",
-      "marks": "他的記號"
+      "gloss": "⟨את⟩",
+      "marks": "他的一切記號"
     },
     {
       "surface": "אתתיו",
-      "gloss": "他的記號"
+      "gloss": "他的一切記號"
     },
     {
       "surface": "ואת",
-      "gloss": "以及 ⟨את⟩",
-      "marks": "他所行的事"
+      "gloss": "⟨את⟩",
+      "marks": "他的一切作為"
     },
     {
       "surface": "מעשיו",
-      "gloss": "他所行的事"
+      "gloss": "他的一切作為"
     },
     {
       "surface": "אשר",
@@ -47,7 +31,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "他……行"
+      "gloss": "所行的"
     },
     {
       "surface": "בתוך",
@@ -59,7 +43,7 @@
     },
     {
       "surface": "לפרעה",
-      "gloss": "對法老"
+      "gloss": "對付法老"
     },
     {
       "surface": "מלך",
@@ -67,17 +51,17 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "埃及的"
+      "gloss": "埃及"
     },
     {
       "surface": "ולכל",
-      "gloss": "以及對……的全"
+      "gloss": "和……的全"
     },
     {
       "surface": "ארצו",
       "gloss": "他的地"
     }
   ],
-  "timestamp": "2026-10-16T05:32:34.446859146Z",
+  "timestamp": "2026-10-16T22:12:54.399657379Z",
   "model": "glm-5.3"
 }

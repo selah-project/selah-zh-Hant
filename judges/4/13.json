@@ -5,37 +5,11 @@
   "book": "judges",
   "lang": "zh-Hant",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "召集",
-      "rationale": "ויזעק 字面是「高聲喊叫／傳令召集」，譯作「召集」取其傳令之意"
-    },
-    {
-      "kind": "idiom",
-      "subject": "哈羅設‧哈歌印",
-      "rationale": "חרשת הגוים 字面「諸國的森林地」，地名音譯沿用和合本"
-    },
-    {
-      "kind": "measurement",
-      "subject": "九百",
-      "rationale": "鐵戰車的數目被精確計數"
-    }
-  ],
-  "translation": "西西拉召集了他全部的戰車——九百輛鐵戰車——以及與他同在的全民眾，從哈羅設‧哈歌印出來，到基順河。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "2452b6b716f37f9a1e397dca496b7724fbe2b30eea97f5a647a30fe4f1a64f12",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/4\/13-16.1792130204975.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "西西拉就召集了他所有的戰車——九百輛鐵戰車——以及⟨את⟩所有與他同在的百姓，從夏羅設‧歌音出來，到基順河。",
   "tokens": [
     {
       "surface": "ויזעק",
-      "gloss": "召集"
+      "gloss": "就召集了"
     },
     {
       "surface": "סיסרא",
@@ -44,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他全部的戰車"
+      "marks": "他所有的戰車"
     },
     {
       "surface": "כל",
-      "gloss": "全部"
+      "gloss": "所有的"
     },
     {
       "surface": "רכבו",
@@ -73,31 +47,31 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "全部的民眾"
+      "marks": "所有與他同在的百姓"
     },
     {
       "surface": "כל",
-      "gloss": "全部"
+      "gloss": "所有"
     },
     {
       "surface": "העם",
-      "gloss": "那民眾"
+      "gloss": "的百姓"
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "那些"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ 與他同在"
+      "gloss": "⟨את⟩與他同在"
     },
     {
       "surface": "מחרשת",
-      "gloss": "從哈羅設"
+      "gloss": "從夏羅設"
     },
     {
       "surface": "הגוים",
-      "gloss": "諸國之城"
+      "gloss": "‧歌音"
     },
     {
       "surface": "אל",
@@ -112,6 +86,6 @@
       "gloss": "基順"
     }
   ],
-  "timestamp": "2026-10-16T05:56:44.975904283Z",
+  "timestamp": "2026-10-16T22:47:17.489978783Z",
   "model": "glm-5.3"
 }

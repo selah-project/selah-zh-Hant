@@ -5,36 +5,15 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ויתם",
-      "rationale": "字根「完成」：和合本作「算數」，亦有人譯「交齊」「用完」"
-    },
-    {
-      "kind": "you",
-      "subject": "對沙番",
-      "rationale": "王的命令直接對文士沙番說話"
-    }
-  ],
-  "translation": "你上去見大祭司希勒家，叫他將看守門檻的從民間所收的銀子結算出來，就是運進雅威殿裡的銀子，",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "3e294aacb01d9b49569345410a3b82cf495368854f803515a88bdf02a1d6c199",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/22\/1-4.1792134308922.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你上到大祭司希勒家那裡，讓他結算 ⟨את⟩ 那被帶進雅威殿裡的銀子，就是守門者從百姓那裡收取來的 ⟨את⟩。",
   "tokens": [
     {
       "surface": "עלה",
-      "gloss": "你上去"
+      "gloss": "你上到"
     },
     {
       "surface": "אל",
-      "gloss": "見"
+      "gloss": "到"
     },
     {
       "surface": "חלקיהו",
@@ -50,12 +29,12 @@
     },
     {
       "surface": "ויתם",
-      "gloss": "叫他結算"
+      "gloss": "讓他結算"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "銀子"
+      "marks": "那銀子"
     },
     {
       "surface": "הכסף",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "המובא",
-      "gloss": "運進…的"
+      "gloss": "被帶進的"
     },
     {
       "surface": "בית",
@@ -79,25 +58,25 @@
     },
     {
       "surface": "אספו",
-      "gloss": "所收的"
+      "gloss": "收取來的"
     },
     {
       "surface": "שמרי",
-      "gloss": "看守…的"
+      "gloss": "守門者"
     },
     {
       "surface": "הסף",
-      "gloss": "門檻"
+      "gloss": "門（門檻）"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩從"
+      "gloss": "從……那裡 ⟨את⟩"
     },
     {
       "surface": "העם",
-      "gloss": "民"
+      "gloss": "百姓"
     }
   ],
-  "timestamp": "2026-10-16T07:05:08.924513409Z",
+  "timestamp": "2026-10-16T22:07:01.166692643Z",
   "model": "glm-5.3"
 }

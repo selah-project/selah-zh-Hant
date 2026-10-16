@@ -5,45 +5,19 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "性命",
-      "rationale": "נפש 是氣息、生命之力，不是靈魂"
-    },
-    {
-      "kind": "crux",
-      "subject": "את יהוה",
-      "rationale": "此處 את 可讀作受詞記號或介詞「與」——「與雅威你的以羅欣同在的生命袋中」"
-    },
-    {
-      "kind": "alternative",
-      "subject": "כף הקלע",
-      "rationale": "直譯「投石索的手掌（凹處）」，即甩石飛出的凹窩"
-    }
-  ],
-  "translation": "若有人起來追趕你，尋索 ⟨את⟩ 你的性命，我主的性命必包在生命之袋中，在雅威——你的以羅欣——那裡；至於 ⟨את⟩ 你仇敵的性命，他必甩出，如在投石索的窩中。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "0c16585058096f9ade3cf6a0d22da2d8640ed86b5deb1b70a325eb552fd8aa9e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/25\/29-32.1792131474078.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "若有人起來追捕你，尋索你的性命，我主的性命卻必包裹在生命之囊中，在雅威你以羅欣那裏；而⟨את⟩你仇敵的性命，他必甩去，如在投石索的窩中。{前一處⟨את⟩標記你的性命}",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "起來"
+      "gloss": "若有人起來"
     },
     {
       "surface": "אדם",
-      "gloss": "有人"
+      "gloss": "人"
     },
     {
       "surface": "לרדפך",
-      "gloss": "追趕你"
+      "gloss": "追捕你"
     },
     {
       "surface": "ולבקש",
@@ -60,11 +34,11 @@
     },
     {
       "surface": "והיתה",
-      "gloss": "必包在"
+      "gloss": "卻必"
     },
     {
       "surface": "נפש",
-      "gloss": "性命"
+      "gloss": "…的性命"
     },
     {
       "surface": "אדני",
@@ -72,11 +46,11 @@
     },
     {
       "surface": "צרורה",
-      "gloss": "包裹"
+      "gloss": "被包裹"
     },
     {
       "surface": "בצרור",
-      "gloss": "在袋中"
+      "gloss": "在…之囊中"
     },
     {
       "surface": "החיים",
@@ -85,7 +59,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "雅威——你的以羅欣"
+      "marks": "雅威"
     },
     {
       "surface": "יהוה",
@@ -102,19 +76,19 @@
     },
     {
       "surface": "נפש",
-      "gloss": "性命"
+      "gloss": "…的性命"
     },
     {
       "surface": "איביך",
-      "gloss": "你仇敵"
+      "gloss": "你的仇敵"
     },
     {
       "surface": "יקלענה",
-      "gloss": "他必甩出"
+      "gloss": "他必甩去它"
     },
     {
       "surface": "בתוך",
-      "gloss": "在……中"
+      "gloss": "在…之中"
     },
     {
       "surface": "כף",
@@ -125,6 +99,6 @@
       "gloss": "投石索"
     }
   ],
-  "timestamp": "2026-10-16T06:17:54.080634333Z",
+  "timestamp": "2026-10-16T22:01:51.215603946Z",
   "model": "glm-5.3"
 }

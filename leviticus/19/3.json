@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "他的",
-      "rationale": "איש אמו 各人——他的母親：中文需補代詞，希伯來文以名詞鏈表達"
-    },
-    {
-      "kind": "you",
-      "subject": "以色列會眾",
-      "rationale": "直接命令式勸誡，對象為全會眾"
-    }
-  ],
-  "translation": "你們各人當敬畏他的母親和父親，也要謹守我的安息日；我是雅威你們的以羅欣。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "37ba7efe264b872281cdaa3c0fb6515977c60b5b0daa822710022d809a8314cf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/19\/1-4.1792127093704.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你們各人要敬畏他的母親和父親，也要謹守 ⟨את⟩ 我的安息日；我是雅威你們的以羅欣。",
   "tokens": [
     {
       "surface": "איש",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "תיראו",
-      "gloss": "你們當敬畏"
+      "gloss": "要敬畏"
     },
     {
       "surface": "ואת",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "תשמרו",
-      "gloss": "你們要謹守"
+      "gloss": "要謹守"
     },
     {
       "surface": "אני",
@@ -70,6 +49,6 @@
       "gloss": "你們的以羅欣"
     }
   ],
-  "timestamp": "2026-10-16T05:04:53.705154287Z",
+  "timestamp": "2026-10-16T22:49:15.827961430Z",
   "model": "glm-5.3"
 }

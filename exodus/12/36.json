@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "וישאלום",
-      "rationale": "使動式「使他們有所求」或「應允他們所求」；KJV 譯「借給」(lent) 是著名的錯譯，原文非借貸"
-    },
-    {
-      "kind": "substitution",
-      "subject": "וינצלו",
-      "rationale": "字面「奪取、剝奪」，如掠奪戰利品；不是溫和的「帶走」"
-    }
-  ],
-  "translation": "雅威使那百姓在埃及人眼前蒙恩，埃及人就照他們所求的給了他們；他們這樣奪取了 ⟨את⟩ 埃及人的財物。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "dee89cab50acc11b6e2a9a7235c4cad3cc5547e49e720e6db3e5656404e824fe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/12\/33-36.1792125951692.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威使⟨那⟩百姓在埃及人眼前蒙恩，他們就向他們借取；這樣，他們掠奪了 ⟨את⟩ 埃及。",
   "tokens": [
     {
       "surface": "ויהוה",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "那百姓"
+      "gloss": "百姓"
     },
     {
       "surface": "בעיני",
@@ -59,22 +38,22 @@
     },
     {
       "surface": "וישאלום",
-      "gloss": "他們就給了他們所求的"
+      "gloss": "他們就向他們請求索取"
     },
     {
       "surface": "וינצלו",
-      "gloss": "他們奪取了"
+      "gloss": "他們就掠奪"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "埃及人"
+      "marks": "埃及"
     },
     {
       "surface": "מצרים",
-      "gloss": "埃及人"
+      "gloss": "埃及"
     }
   ],
-  "timestamp": "2026-10-16T04:45:51.693934788Z",
+  "timestamp": "2026-10-16T22:17:39.258456772Z",
   "model": "glm-5.3"
 }

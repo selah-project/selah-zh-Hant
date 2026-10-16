@@ -5,37 +5,11 @@
   "book": "judges",
   "lang": "zh-Hant",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "我不能",
-      "rationale": "希伯來文僅說「百姓太多，無法給」——כי 連接詞未出現，中文補出因果句式"
-    },
-    {
-      "kind": "you",
-      "subject": "雅威對基甸",
-      "rationale": "雅威直接向基甸說話"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ידם／ידי",
-      "rationale": "「他們的手」（得勝）與「我的手」（誇口）同字呼應：手對手"
-    }
-  ],
-  "translation": "雅威對基甸說：「與你同在的百姓太多，我不能把米甸交在他們手中，免得以色列向我誇口說：是我的手拯救了我。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "bac4f7d8a929995e390d1bb600574bcefaa15bd0778d0bc58bb3c6b14e1dab01",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/7\/1-4.1792130260776.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威對基甸說：「與你同在的百姓太多，我不能把 ⟨את⟩ 米甸交在他們手中，免得以色列向我誇口，說：『是我的手拯救了我。』」",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "於是說"
+      "gloss": "說"
     },
     {
       "surface": "יהוה",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "……的"
+      "gloss": "就是"
     },
     {
       "surface": "אתך",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "מתתי",
-      "gloss": "我交給"
+      "gloss": "我不能把……交在"
     },
     {
       "surface": "את",
@@ -115,6 +89,6 @@
       "gloss": "我"
     }
   ],
-  "timestamp": "2026-10-16T05:57:40.778563014Z",
+  "timestamp": "2026-10-16T22:48:01.614539643Z",
   "model": "glm-5.3"
 }

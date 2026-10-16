@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "alternative",
-      "subject": "בארבה",
-      "rationale": "可譯「為了蝗蟲」（英文諸本 'for the locusts'）；本譯取「招蝗蟲」以保留使役上下的語流。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ארץ מצרים",
-      "rationale": "「埃及地」在同一節出現兩次，命令與成全互相呼應，中文保留重複。"
-    }
-  ],
-  "translation": "雅威對摩西說：「你向埃及地伸手，招蝗蟲上埃及地，讓牠吃盡地上的各樣青草，就是冰雹所留下的一切。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ee90873ce6996c091a60876c31e586c08f6354397c8e0b15d32cfc5ed7a752ab",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/10\/9-12.1792125876861.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威對摩西說：「你要向埃及地把你的手伸向蝗蟲，使牠上到埃及地，吃盡那地的一切菜蔬，就是冰雹所留下的一切。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -66,15 +45,15 @@
     },
     {
       "surface": "בארבה",
-      "gloss": "招蝗蟲"
+      "gloss": "蝗蟲"
     },
     {
       "surface": "ויעל",
-      "gloss": "上來"
+      "gloss": "使牠上到"
     },
     {
       "surface": "על",
-      "gloss": "在……之上"
+      "gloss": "到"
     },
     {
       "surface": "ארץ",
@@ -85,21 +64,21 @@
       "gloss": "埃及"
     },
     {
-      "surface": "ואכל",
-      "gloss": "讓牠吃"
+      "surface": "ויאכל",
+      "gloss": "吃盡"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "地上的各樣青草"
+      "marks": "一切菜蔬"
     },
     {
       "surface": "כל",
-      "gloss": "各樣"
+      "gloss": "一切"
     },
     {
       "surface": "עשב",
-      "gloss": "青草"
+      "gloss": "菜蔬"
     },
     {
       "surface": "הארץ",
@@ -108,7 +87,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "冰雹所留下的一切"
+      "marks": "一切"
     },
     {
       "surface": "כל",
@@ -116,17 +95,17 @@
     },
     {
       "surface": "אשר",
-      "gloss": "所……的"
+      "gloss": "就是"
     },
     {
       "surface": "השאיר",
-      "gloss": "留下"
+      "gloss": "所留下的"
     },
     {
       "surface": "הברד",
-      "gloss": "那冰雹"
+      "gloss": "冰雹"
     }
   ],
-  "timestamp": "2026-10-16T04:44:36.863454476Z",
+  "timestamp": "2026-10-16T22:17:36.854814966Z",
   "model": "glm-5.3"
 }

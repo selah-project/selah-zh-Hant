@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "歸到他自己的頭上",
-      "rationale": "希伯來慣用語：惡報回到頭上，中文按字面可解"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "רב／ריב",
-      "rationale": "動詞「爭辯」與其同源受詞「爭訟」連用，中文難以保留同源關係"
-    },
-    {
-      "kind": "addition",
-      "subject": "是應當稱頌的",
-      "rationale": "希伯來分詞「可稱頌的」以中文判斷句式表達"
-    }
-  ],
-  "translation": "大衛聽見拿八死了，就說：「雅威是應當稱頌的，他為我受的羞辱向拿八爭辯，又攔阻他的僕人行惡；雅威使拿八的惡報歸到他自己的頭上。」於是大衛打發人去，與亞比該說話，要娶她作妻子。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a6fea93560bc84aa5a3671cff17ac336f52fcbc290904f6648846503a75f2b7e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/25\/37-40.1792131466947.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "大衛聽見拿八死了，就說：「雅威是應當稱頌的，他為我受的羞辱伸了 ⟨את⟩ 冤，救我脫離拿八的手，又保守 ⟨את⟩ 他的僕人不行惡事；雅威使拿八的惡歸到 ⟨את⟩ 他自己的頭上。」於是大衛差人去，向亞比該提親，要娶她作妻子。",
   "tokens": [
     {
       "surface": "וישמע",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "（連詞）"
+      "gloss": "…了"
     },
     {
       "surface": "מת",
-      "gloss": "死了"
+      "gloss": "死"
     },
     {
       "surface": "נבל",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "ברוך",
-      "gloss": "應當稱頌的"
+      "gloss": "是應當稱頌的"
     },
     {
       "surface": "יהוה",
@@ -71,16 +45,16 @@
     },
     {
       "surface": "רב",
-      "gloss": "爭辯"
+      "gloss": "伸了冤"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我受的羞辱之爭"
+      "marks": "我受的羞辱之冤"
     },
     {
       "surface": "ריב",
-      "gloss": "爭訟"
+      "gloss": "…的冤"
     },
     {
       "surface": "חרפתי",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "מיד",
-      "gloss": "從…的手"
+      "gloss": "脫離…的手"
     },
     {
       "surface": "נבל",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "又保守 ⟨את⟩",
       "marks": "他的僕人"
     },
     {
@@ -105,20 +79,20 @@
     },
     {
       "surface": "חשך",
-      "gloss": "攔阻"
+      "gloss": "保守…不行"
     },
     {
       "surface": "מרעה",
-      "gloss": "脫離惡"
+      "gloss": "惡事"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "歸到 ⟨את⟩",
       "marks": "拿八的惡"
     },
     {
       "surface": "רעת",
-      "gloss": "惡"
+      "gloss": "…的惡"
     },
     {
       "surface": "נבל",
@@ -126,7 +100,7 @@
     },
     {
       "surface": "השיב",
-      "gloss": "歸回"
+      "gloss": "使…歸回"
     },
     {
       "surface": "יהוה",
@@ -138,7 +112,7 @@
     },
     {
       "surface": "וישלח",
-      "gloss": "打發人去"
+      "gloss": "於是差人去"
     },
     {
       "surface": "דוד",
@@ -146,7 +120,7 @@
     },
     {
       "surface": "וידבר",
-      "gloss": "與…說話"
+      "gloss": "向…提親"
     },
     {
       "surface": "באביגיל",
@@ -158,13 +132,13 @@
     },
     {
       "surface": "לו",
-      "gloss": "歸他"
+      "gloss": "作他⟨自己⟩的"
     },
     {
       "surface": "לאשה",
-      "gloss": "作妻子"
+      "gloss": "妻子"
     }
   ],
-  "timestamp": "2026-10-16T06:17:46.948930642Z",
+  "timestamp": "2026-10-16T22:02:00.187850634Z",
   "model": "glm-5.3"
 }

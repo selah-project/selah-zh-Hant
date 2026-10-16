@@ -5,32 +5,11 @@
   "book": "nehemiah",
   "lang": "zh-Hant",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "耶路撒冷的居民",
-      "rationale": "尼希米的吩咐直接對象是守門者與首領，間接對象是全城居民"
-    },
-    {
-      "kind": "crux",
-      "subject": "עד חם השמש",
-      "rationale": "'日頭正熱之前'或'日頭尚熱時'——各家譯本取'直到日頭熱'，時點略有分歧"
-    }
-  ],
-  "translation": "我對他們說：耶路撒冷的城門在日頭正熱之前不可開啟；他們還站崗的時候，要關上門扇並且閂住；又要派立耶路撒冷的居民〈守〉班次，各人在自己的班次，各人對著自己的房屋。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "d1c812ef748e4f6ec6eb821ebb5fd7a43f19267fd17ad1657fe24f34eb546e88",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nehemiah\/7\/1-4.1792148073410.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他對他們說：「耶路撒冷的門不可開，直到日頭〈正〉熱；他們〈站立守衛〉時，要關上門扇並閂牢；要立耶路撒冷居民的守望，各人在自己的崗位，各人對著自己的房屋。」",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "我…說"
+      "gloss": "他對…說"
     },
     {
       "surface": "להם",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "יפתחו",
-      "gloss": "開啟"
+      "gloss": "開"
     },
     {
       "surface": "שערי",
-      "gloss": "…的城門"
+      "gloss": "…的門"
     },
     {
       "surface": "ירושלם",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "ועד",
-      "gloss": "而…直到"
+      "gloss": "而當"
     },
     {
       "surface": "הם",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "עמדים",
-      "gloss": "站崗"
+      "gloss": "站立"
     },
     {
       "surface": "יגיפו",
@@ -86,18 +65,18 @@
     },
     {
       "surface": "ואחזו",
-      "gloss": "並且閂住"
+      "gloss": "並閂牢"
     },
     {
       "surface": "והעמיד",
-      "gloss": "又要派立"
+      "gloss": "要立"
     },
     {
       "surface": "משמרות",
-      "gloss": "班次"
+      "gloss": "守望"
     },
     {
-      "surface": "ישבי",
+      "surface": "יושבי",
       "gloss": "…的居民"
     },
     {
@@ -110,7 +89,7 @@
     },
     {
       "surface": "במשמרו",
-      "gloss": "在自己的班次"
+      "gloss": "在自己的崗位"
     },
     {
       "surface": "ואיש",
@@ -125,6 +104,6 @@
       "gloss": "自己的房屋"
     }
   ],
-  "timestamp": "2026-10-16T10:54:33.411504714Z",
+  "timestamp": "2026-10-16T22:52:41.378560677Z",
   "model": "glm-5.3"
 }

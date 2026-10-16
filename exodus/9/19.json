@@ -5,34 +5,7 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "העז",
-      "rationale": "字根「使強壯／救（藉逃走）」，英語譯本分作「收聚」（和合本）與「急忙帶入」（ASV、JPS）；中文取「急忙帶回」。"
-    },
-    {
-      "kind": "addition",
-      "subject": "人",
-      "gloss_removed": "",
-      "rationale": "「你要打發人」的「人」為中文語法所補，希伯來文只說「打發」。"
-    },
-    {
-      "kind": "invitation",
-      "subject": "to 法老",
-      "rationale": "命令句催促聽者行動以自救，是帶條件的警告。"
-    }
-  ],
-  "translation": "現在你要打發人把你的牲畜和你一切在田間的都帶回⟨妥拉的指引之下可略⟩，凡在田間被找到、不收回家裡的人和牲畜，冰雹必降在他們身上，他們就必死。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "fa10d8b2c4d577dcada5a42380744f250c4b7dba3d345b71496d6615b1339f1c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/9\/17-20.1792125850637.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "現在，你要打發人收聚 ⟨את⟩ 你的牲畜，以及 ⟨את⟩ 一切屬你、在田間的；凡在田間被找到的人和牲畜，無論是誰，凡不收回家裡的，冰雹必降在他們身上，他們就必死。」",
   "tokens": [
     {
       "surface": "ועתה",
@@ -44,7 +17,7 @@
     },
     {
       "surface": "העז",
-      "gloss": "急忙帶回"
+      "gloss": "收聚〈入避難所〉"
     },
     {
       "surface": "את",
@@ -57,8 +30,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "一切在田間的"
+      "gloss": "以及 ⟨את⟩",
+      "marks": "一切屬你、在田間的"
     },
     {
       "surface": "כל",
@@ -74,7 +47,7 @@
     },
     {
       "surface": "בשדה",
-      "gloss": "在田間"
+      "gloss": "在田間的"
     },
     {
       "surface": "כל",
@@ -94,7 +67,7 @@
     },
     {
       "surface": "ימצא",
-      "gloss": "被找到"
+      "gloss": "被找到的"
     },
     {
       "surface": "בשדה",
@@ -106,7 +79,7 @@
     },
     {
       "surface": "יאסף",
-      "gloss": "收回"
+      "gloss": "收回家"
     },
     {
       "surface": "הביתה",
@@ -114,11 +87,11 @@
     },
     {
       "surface": "וירד",
-      "gloss": "冰雹必降在"
+      "gloss": "必降下"
     },
     {
       "surface": "עלהם",
-      "gloss": "他們身上"
+      "gloss": "在他們身上"
     },
     {
       "surface": "הברד",
@@ -129,6 +102,6 @@
       "gloss": "他們就必死"
     }
   ],
-  "timestamp": "2026-10-16T04:44:10.639059172Z",
+  "timestamp": "2026-10-16T22:22:07.475154998Z",
   "model": "glm-5.3"
 }

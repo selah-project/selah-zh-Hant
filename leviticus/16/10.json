@@ -5,61 +5,35 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "לעזאזל",
-      "rationale": "阿撒瀉勒：是曠野之魔名、地名，還是「歸於隔絕之地」之意，歷來爭議；本譯沿用音譯"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "受詞記號 אתו 以 ⟨את⟩ 家族呈現"
-    },
-    {
-      "kind": "mystery",
-      "subject": "阿撒瀉勒",
-      "rationale": "經文刻意不解釋阿撒瀉勒是誰或何處，文本保持不透明"
-    }
-  ],
-  "translation": "至於拈鬮歸阿撒瀉勒的那隻公山羊，要讓牠活著立在雅威面前，為牠行贖罪，然後把牠打到曠野去，歸阿撒瀉勒。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c91ac5d3957eedc634377f4308617d4d9741b65a14bd61e9560cd0b3c2bf8f70",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/16\/9-12.1792127039094.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "至於那歸給阿撒瀉勒的公山羊——就是拈鬮落在牠身上的——牠要活著站在雅威面前，為牠贖罪，然後把牠⟨את⟩打發到曠野去，歸阿撒瀉勒。",
   "tokens": [
     {
       "surface": "והשעיר",
-      "gloss": "那隻公山羊"
+      "gloss": "至於那公山羊"
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "就是"
     },
     {
       "surface": "עלה",
-      "gloss": "歸於"
+      "gloss": "落在"
     },
     {
       "surface": "עליו",
-      "gloss": "牠"
+      "gloss": "在牠身上"
     },
     {
       "surface": "הגורל",
-      "gloss": "鬮"
+      "gloss": "拈鬮"
     },
     {
       "surface": "לעזאזל",
-      "gloss": "阿撒瀉勒"
+      "gloss": "歸阿撒瀉勒"
     },
     {
       "surface": "יעמד",
-      "gloss": "立"
+      "gloss": "牠要站"
     },
     {
       "surface": "חי",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "יהוה",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "לכפר",
-      "gloss": "行贖罪"
+      "gloss": "為……贖罪"
     },
     {
       "surface": "עליו",
@@ -83,12 +57,12 @@
     },
     {
       "surface": "לשלח",
-      "gloss": "把牠打發去"
+      "gloss": "打發"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "牠"
+      "marks": "牠（歸阿撒瀉勒的公山羊）"
     },
     {
       "surface": "לעזאזל",
@@ -96,9 +70,9 @@
     },
     {
       "surface": "המדברה",
-      "gloss": "曠野"
+      "gloss": "到曠野去"
     }
   ],
-  "timestamp": "2026-10-16T05:03:59.095888889Z",
+  "timestamp": "2026-10-16T22:49:30.318914657Z",
   "model": "glm-5.3"
 }

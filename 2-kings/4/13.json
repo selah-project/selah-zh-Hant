@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חרדת／החרדה",
-      "rationale": "動詞「你戰兢」與名詞「操慮」同根重複，中文以「戰兢操心／操慮」保留呼應。"
-    },
-    {
-      "kind": "crux",
-      "subject": "你為我們戰兢操心",
-      "rationale": "חרדת 字面「你懼怕／戰兢」，各譯本作「費心」「操心」；字面的敬畏感在譯本中多被抹平。"
-    },
-    {
-      "kind": "addition",
-      "subject": "行了",
-      "rationale": "中文需要動詞引出受詞「這一切的操慮」，希伯來文以 ⟨את⟩ 標記直接受詞。"
-    }
-  ],
-  "translation": "他對他說：「請對她說：看哪，你為我們這樣戰兢操心——行了這一切的操慮。當為你做什麼呢？有可為你向王或向元帥說的話嗎？」她說：「我在我自己的百姓中間居住。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "755f744b76d743d2fa845fc6b92a3ee60956766f0dc7df1aad3bc264bbcbaf6c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/4\/13-16.1792133590114.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他對他說：「請你對她說：『看哪，你為我們憂慮了 ⟨את⟩ 這一切的憂慮。可以為你做什麼呢？有話要為你向王說，或向軍長說嗎？』」她說：「我住在我自己的百姓中間。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "חרדת",
-      "gloss": "你戰兢操心"
+      "gloss": "你憂慮了"
     },
     {
       "surface": "אלינו",
@@ -68,15 +42,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "這一切的操慮"
+      "marks": "這一切的憂慮"
     },
     {
       "surface": "כל",
-      "gloss": "這一切"
+      "gloss": "一切"
     },
     {
       "surface": "החרדה",
-      "gloss": "操慮"
+      "gloss": "憂慮"
     },
     {
       "surface": "הזאת",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "當做"
+      "gloss": "做"
     },
     {
       "surface": "לך",
@@ -96,11 +70,11 @@
     },
     {
       "surface": "היש",
-      "gloss": "有"
+      "gloss": "有…嗎"
     },
     {
       "surface": "לדבר",
-      "gloss": "可說的話"
+      "gloss": "要說的話"
     },
     {
       "surface": "לך",
@@ -124,11 +98,11 @@
     },
     {
       "surface": "שר",
-      "gloss": "元帥"
+      "gloss": "軍長"
     },
     {
       "surface": "הצבא",
-      "gloss": "軍隊的"
+      "gloss": "軍隊"
     },
     {
       "surface": "ותאמר",
@@ -136,7 +110,7 @@
     },
     {
       "surface": "בתוך",
-      "gloss": "在……中間"
+      "gloss": "在中間"
     },
     {
       "surface": "עמי",
@@ -148,9 +122,9 @@
     },
     {
       "surface": "ישבת",
-      "gloss": "居住"
+      "gloss": "住"
     }
   ],
-  "timestamp": "2026-10-16T06:53:10.115025760Z",
+  "timestamp": "2026-10-16T22:08:03.759869083Z",
   "model": "glm-5.3"
 }

@@ -5,123 +5,97 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ארון יהוה",
-      "rationale": "直譯「雅威的櫃」；依紀律用「櫃」而非音譯，也絕不用「亞倫」的混淆形。"
-    },
-    {
-      "kind": "hapax",
-      "subject": "ארגז",
-      "rationale": "「箱子／匣子」一詞僅見於此處與本章 11、15 節的約櫃敘事，是希伯來聖經中稀有的埃及借詞。"
-    },
-    {
-      "kind": "you",
-      "subject": "對非利士人的領袖",
-      "rationale": "命令式接續：取、放、放、打發走。"
-    }
-  ],
-  "translation": "你們要取⟨את⟩雅威的櫃，把⟨אתו⟩放在那車上，並將你們歸還給他作賠罪祭的金器放在它旁邊的箱子裡，然後打發⟨אתו⟩走，讓它去。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "eae2bdd19ec772dc1ec49484de4c269d53b22b6ef5e5e6cd30dd0435cb4116c6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/6\/5-8.1792130927093.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你們要取 ⟨את⟩ 雅威的櫃，把⟨את⟩它放在車上，並將你們歸還給⟨祂⟩作為賠罪祭物的金器皿 ⟨את⟩ 放在旁邊的匣子裡，然後打發⟨את⟩它走，它就去了。",
   "tokens": [
     {
-      "surface": "ולקחתם",
+      "surface": "וּלְקַחְתֶּם",
       "gloss": "你們要取"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
       "marks": "雅威的櫃"
     },
     {
-      "surface": "ארון",
+      "surface": "אֲרוֹן",
       "gloss": "櫃"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָה",
       "gloss": "雅威"
     },
     {
-      "surface": "ונתתם",
-      "gloss": "並要放"
-    },
-    {
-      "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "它（櫃）"
-    },
-    {
-      "surface": "אל",
-      "gloss": "到…上"
-    },
-    {
-      "surface": "העגלה",
-      "gloss": "那車"
-    },
-    {
-      "surface": "ואת",
-      "gloss": "⟨ואת⟩",
-      "marks": "金器"
-    },
-    {
-      "surface": "כלי",
-      "gloss": "器物"
-    },
-    {
-      "surface": "הזהב",
-      "gloss": "金的"
-    },
-    {
-      "surface": "אשר",
-      "gloss": "那些…的"
-    },
-    {
-      "surface": "השבתם",
-      "gloss": "你們歸還"
-    },
-    {
-      "surface": "לו",
-      "gloss": "給他"
-    },
-    {
-      "surface": "אשם",
-      "gloss": "作賠罪祭"
-    },
-    {
-      "surface": "תשימו",
+      "surface": "וּנְתַתֶּם",
       "gloss": "你們要放"
     },
     {
-      "surface": "בארגז",
-      "gloss": "在箱子裡"
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩它",
+      "marks": "車上"
     },
     {
-      "surface": "מצדו",
-      "gloss": "在它的旁邊"
+      "surface": "אֶל",
+      "gloss": "在"
     },
     {
-      "surface": "ושלחתם",
-      "gloss": "你們要打發…走"
+      "surface": "הָעֲגָלָה",
+      "gloss": "車上"
     },
     {
-      "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "它（櫃）"
+      "surface": "וְאֵת",
+      "gloss": "並⟨את⟩",
+      "marks": "金器皿"
     },
     {
-      "surface": "והלך",
-      "gloss": "它就去"
+      "surface": "כְּלֵי",
+      "gloss": "器皿"
+    },
+    {
+      "surface": "הַזָּהָב",
+      "gloss": "金的"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "那些"
+    },
+    {
+      "surface": "הֲשֵׁבֹתֶם",
+      "gloss": "你們歸還"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "給祂"
+    },
+    {
+      "surface": "אָשָׁם",
+      "gloss": "賠罪祭物"
+    },
+    {
+      "surface": "תָּשִׂימוּ",
+      "gloss": "你們要放"
+    },
+    {
+      "surface": "בָּאַרְגַּז",
+      "gloss": "在匣子裡"
+    },
+    {
+      "surface": "מִצִּדּוֹ",
+      "gloss": "在它旁邊"
+    },
+    {
+      "surface": "וְשִׁלַּחְתֶּם",
+      "gloss": "然後你們要打發走"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩它",
+      "marks": "它就去了"
+    },
+    {
+      "surface": "וְהָלָךְ",
+      "gloss": "它就去了"
     }
   ],
-  "timestamp": "2026-10-16T06:08:47.095153426Z",
+  "timestamp": "2026-10-16T22:02:58.736819227Z",
   "model": "glm-5.3"
 }

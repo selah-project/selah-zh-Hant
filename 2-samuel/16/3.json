@@ -5,27 +5,11 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "洗巴的話",
-      "rationale": "洗巴對米非波設的指控是單面之詞，與撒下19:26米非波設的自辯相牴觸；譯者不判斷真偽"
-    }
-  ],
-  "translation": "王又問：「你主人的兒子在哪裡？」洗巴對王說：「看哪，他留在耶路撒冷，因為他說：『今日以色列家必將我父親的國歸還給我。』」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ad4cf6aabe5a05169b0a8bf6f0f6b257e4e1f57535aa0cce8018f115d874d8dd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/16\/1-4.1792132086853.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "王說：「你主人的兒子在哪裡呢？」洗巴對王說：「看哪，他留在耶路撒冷，因為他說：『今日以色列家必將我父親的⟨את⟩國度歸還給我。』」",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "說"
+      "gloss": "王說"
     },
     {
       "surface": "המלך",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "ואיה",
-      "gloss": "在哪裡"
+      "gloss": "在哪裡呢"
     },
     {
       "surface": "בן",
@@ -41,7 +25,7 @@
     },
     {
       "surface": "אדניך",
-      "gloss": "你主人的"
+      "gloss": "你主人"
     },
     {
       "surface": "ויאמר",
@@ -65,11 +49,11 @@
     },
     {
       "surface": "יושב",
-      "gloss": "留在"
+      "gloss": "留"
     },
     {
       "surface": "בירושלם",
-      "gloss": "耶路撒冷"
+      "gloss": "在耶路撒冷"
     },
     {
       "surface": "כי",
@@ -77,7 +61,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "說"
+      "gloss": "他說"
     },
     {
       "surface": "היום",
@@ -85,7 +69,7 @@
     },
     {
       "surface": "ישיבו",
-      "gloss": "歸還"
+      "gloss": "必歸還"
     },
     {
       "surface": "לי",
@@ -102,17 +86,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "國"
+      "marks": "國度"
     },
     {
       "surface": "ממלכות",
-      "gloss": "國"
+      "gloss": "國度"
     },
     {
       "surface": "אבי",
-      "gloss": "我父親的"
+      "gloss": "我父親"
     }
   ],
-  "timestamp": "2026-10-16T06:28:06.854922169Z",
+  "timestamp": "2026-10-16T22:09:34.190847834Z",
   "model": "glm-5.3"
 }

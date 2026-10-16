@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 47,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "סברים",
-      "rationale": "西布拉音僅見於此處"
-    },
-    {
-      "kind": "hapax",
-      "subject": "התיכון",
-      "rationale": "חצר התיכון意為「中間的院子」，作地名僅見於此"
-    },
-    {
-      "kind": "measurement",
-      "subject": "北方边界",
-      "rationale": "本節列名標定應許之地北界的城邑"
-    }
-  ],
-  "translation": "哈馬、比羅他、西布拉音——就是在פמשם邊界與哈馬邊界之間；哈薩‧哈提幹，在何蘭邊界旁。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "48439d84446e1c13881ce01df2068fd4c7f2fc3d6191dab9016553683ff626ec",
-    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/ezekiel/47/13-16.1792139285692.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "哈馬、比羅他、西伯蓮，⟨它⟩在大馬士革的邊界與哈馬的邊界之間；哈薩・哈提岡，⟨它⟩在靠近何蘭的邊界。",
   "tokens": [
     {
       "surface": "חמת",
@@ -43,15 +17,15 @@
     },
     {
       "surface": "סברים",
-      "gloss": "西布拉音"
+      "gloss": "西伯蓮"
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "⟨它⟩在"
     },
     {
       "surface": "בין",
-      "gloss": "在……之間"
+      "gloss": "在…之間"
     },
     {
       "surface": "גבול",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "ובין",
-      "gloss": "與……之間"
+      "gloss": "與…之間"
     },
     {
       "surface": "גבול",
@@ -79,15 +53,15 @@
     },
     {
       "surface": "התיכון",
-      "gloss": "哈提幹（中間的）"
+      "gloss": "哈提岡"
     },
     {
       "surface": "אשר",
-      "gloss": "在"
+      "gloss": "⟨它⟩在"
     },
     {
       "surface": "אל",
-      "gloss": "靠"
+      "gloss": "靠近"
     },
     {
       "surface": "גבול",
@@ -98,10 +72,6 @@
       "gloss": "何蘭"
     }
   ],
-  "timestamp": "2026-10-16T08:28:05.694026274Z",
-  "model": "glm-5.3",
-  "s2t": {
-    "date": "2026-10-16",
-    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
-  }
+  "timestamp": "2026-10-16T22:25:52.934778176Z",
+  "model": "glm-5.3"
 }

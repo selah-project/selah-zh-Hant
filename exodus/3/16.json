@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "פקוד פקדתי",
-      "rationale": "不定式絕對加完成式疊用——「眷顧，我眷顧了」——加強確定語氣，中文以「實在」摹擬"
-    },
-    {
-      "kind": "crux",
-      "subject": "眷顧",
-      "rationale": "פקד含探望、察罰、點數、眷顧多義；和合作「眷顧」，JPS作「記念（remembered）」，各譯本分歧"
-    }
-  ],
-  "translation": "你去，召集以色列的長老，對他們說：『雅威——你們祖先的以羅欣，就是亞伯拉罕的以羅欣、以撒的以羅欣、雅各的以羅欣——向我顯現，說：我實在眷顧了 ⟨את⟩ 你們，也眷顧了 ⟨את⟩ 你們在埃及所遭的事。』",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "70771d183b9246dac48f2c73dcde3792dce560041bbdc8f5d4000ff867741c82",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/3\/13-16.1792125803398.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你去召集 ⟨את⟩ 以色列的長老，對他們說：雅威——你們祖宗的以羅欣（神），亞伯拉罕的以羅欣、以撒的以羅欣、雅各的以羅欣——向我顯現，說：我確實眷顧了你們 ⟨את⟩，也眷顧 ⟨את⟩ 埃及人向你們所行的事。",
   "tokens": [
     {
       "surface": "לך",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "ואספת",
-      "gloss": "你要召集"
+      "gloss": "召集"
     },
     {
       "surface": "את",
@@ -47,15 +26,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "以色列的"
+      "gloss": "以色列"
     },
     {
       "surface": "ואמרת",
-      "gloss": "你要對…說"
+      "gloss": "對……說"
     },
     {
       "surface": "אלהם",
-      "gloss": "他們"
+      "gloss": "對他們"
     },
     {
       "surface": "יהוה",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "אבתיכם",
-      "gloss": "你們祖先的"
+      "gloss": "你們祖宗的"
     },
     {
       "surface": "נראה",
@@ -83,15 +62,15 @@
     },
     {
       "surface": "אברהם",
-      "gloss": "亞伯拉罕"
+      "gloss": "亞伯拉罕的"
     },
     {
       "surface": "יצחק",
-      "gloss": "以撒"
+      "gloss": "以撒的"
     },
     {
       "surface": "ויעקב",
-      "gloss": "和雅各"
+      "gloss": "雅各的"
     },
     {
       "surface": "לאמר",
@@ -103,30 +82,31 @@
     },
     {
       "surface": "פקדתי",
-      "gloss": "我實在眷顧了"
+      "gloss": "我確實眷顧了"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩你們"
+      "gloss": "⟨את⟩",
+      "marks": "你們"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "你們在埃及所遭的事"
+      "marks": "埃及人向你們所行的事"
     },
     {
       "surface": "העשוי",
-      "gloss": "所遭的事"
+      "gloss": "所行的事"
     },
     {
       "surface": "לכם",
-      "gloss": "你們"
+      "gloss": "向你們"
     },
     {
       "surface": "במצרים",
       "gloss": "在埃及"
     }
   ],
-  "timestamp": "2026-10-16T04:43:23.400135442Z",
+  "timestamp": "2026-10-16T22:19:31.871545507Z",
   "model": "glm-5.3"
 }

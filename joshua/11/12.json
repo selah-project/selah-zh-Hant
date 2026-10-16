@@ -5,45 +5,24 @@
   "book": "joshua",
   "lang": "zh-Hant",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לפי חרב",
-      "rationale": "字面「刀的口」，即刀刃"
-    },
-    {
-      "kind": "substitution",
-      "subject": "החרים",
-      "rationale": "חרם 是「置於禁令之下而全然毀滅」，非一般的殺戮"
-    }
-  ],
-  "translation": "凡這些王的城邑和 ⟨ואת⟩ 他們的一切王，約書亞都奪取了，用刀口擊殺他們，將 ⟨את⟩ ⟨אותם⟩ 滅絕淨盡，正如雅威的僕人摩西所吩咐的。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "2e957455d72014792a99304929dfde5480d3079de9f83a9c40e0e3de0973fb15",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/11\/9-12.1792129710104.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "約書亞奪了 ⟨את⟩ 這些王的眾城和 ⟨את⟩ 他們的眾王，用刀口擊殺他們，把他們滅絕淨盡，正如雅威的僕人摩西所吩咐的。",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨ואת⟩",
-      "marks": "一切城邑"
+      "gloss": "⟨את⟩",
+      "marks": "眾城"
     },
     {
       "surface": "כל",
-      "gloss": "一切"
+      "gloss": "眾"
     },
     {
       "surface": "ערי",
-      "gloss": "城邑"
+      "gloss": "城"
     },
     {
       "surface": "המלכים",
-      "gloss": "王的"
+      "gloss": "這些王的"
     },
     {
       "surface": "האלה",
@@ -51,12 +30,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨ואת⟩",
-      "marks": "他們的一切王"
+      "gloss": "⟨את⟩",
+      "marks": "眾王"
     },
     {
       "surface": "כל",
-      "gloss": "一切"
+      "gloss": "眾"
     },
     {
       "surface": "מלכיהם",
@@ -64,7 +43,7 @@
     },
     {
       "surface": "לכד",
-      "gloss": "奪取了"
+      "gloss": "奪了"
     },
     {
       "surface": "יהושע",
@@ -88,7 +67,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "gloss": "⟨את⟩",
       "marks": "他們"
     },
     {
@@ -112,6 +91,6 @@
       "gloss": "雅威"
     }
   ],
-  "timestamp": "2026-10-16T05:48:30.106201274Z",
+  "timestamp": "2026-10-16T22:43:23.024206608Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "被選中",
-      "rationale": "לכד 本義是「捕捉、落入網中」，此處指抽籤被「捉住」，英文譯本作 taken\/selected"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שאול",
-      "rationale": "掃羅之名與「求問」（שאל，第22節）同根：求問雅威要找的正是掃羅"
-    }
-  ],
-  "translation": "他使便雅憫支派按著宗族前來近前，瑪特利家族被選中；基斯的兒子掃羅被選中，眾人尋找他，卻找不著。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ee671a96678cb4779c857e04855f218a58b66e975216d6c0b86c63b66c8127c5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/10\/21-24.1792130962367.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他使便雅憫支派按宗族近前來，瑪特利宗族被掣籤選中，基士的兒子掃羅被選中；他們尋找他，卻尋不著。",
   "tokens": [
     {
       "surface": "ויקרב",
-      "gloss": "使…前來近前"
+      "gloss": "使…近前來"
     },
     {
       "surface": "את",
@@ -47,19 +26,19 @@
     },
     {
       "surface": "למשפחתו",
-      "gloss": "按著他的宗族"
+      "gloss": "按其宗族"
     },
     {
       "surface": "ותלכד",
-      "gloss": "被選中"
+      "gloss": "被掣籤選中"
     },
     {
       "surface": "משפחת",
-      "gloss": "家族"
+      "gloss": "宗族"
     },
     {
       "surface": "המטרי",
-      "gloss": "瑪特里"
+      "gloss": "瑪特利"
     },
     {
       "surface": "וילכד",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "קיש",
-      "gloss": "基斯"
+      "gloss": "基士"
     },
     {
       "surface": "ויבקשהו",
-      "gloss": "尋找他"
+      "gloss": "他們尋找他"
     },
     {
       "surface": "ולא",
@@ -87,9 +66,9 @@
     },
     {
       "surface": "נמצא",
-      "gloss": "被找到"
+      "gloss": "被尋見"
     }
   ],
-  "timestamp": "2026-10-16T06:09:22.367700425Z",
+  "timestamp": "2026-10-16T22:00:07.807747318Z",
   "model": "glm-5.3"
 }

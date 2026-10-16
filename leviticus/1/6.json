@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "燔祭牲",
-      "rationale": "העלה 字面是「那上升之物」，指全然焚燒、升到雅威面前的祭物"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ונתח\/לנתחיה",
-      "rationale": "動詞「切塊」（נתח）與名詞「塊子」（נתחים）同根相疊，中文以「切成塊子」保留呼應"
-    }
-  ],
-  "translation": "他要剝 ⟨את⟩ 燔祭牲的皮，把牠切成牠的塊子。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "7ab9af0c71b0302942b0f6a2cfe83901fe36afeeb8c96ce7d95b609a9e04c55f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/1\/5-8.1792126659679.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他要剝 ⟨את⟩ 燔祭牲的皮，並把⟨את⟩牠切成一塊塊的肉塊。",
   "tokens": [
     {
       "surface": "והפשיט",
-      "gloss": "要剝皮"
+      "gloss": "剝皮"
     },
     {
       "surface": "את",
@@ -43,18 +22,18 @@
     },
     {
       "surface": "ונתח",
-      "gloss": "並要切成塊"
+      "gloss": "切成肉塊"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "牠的塊子"
+      "marks": "牠"
     },
     {
       "surface": "לנתחיה",
-      "gloss": "成牠的塊子"
+      "gloss": "一塊塊的肉塊"
     }
   ],
-  "timestamp": "2026-10-16T04:57:39.680426337Z",
+  "timestamp": "2026-10-16T22:48:19.043851981Z",
   "model": "glm-5.3"
 }

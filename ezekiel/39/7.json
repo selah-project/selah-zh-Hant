@@ -5,33 +5,12 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 39,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אחל 的主詞",
-      "rationale": "希伯來文第一人稱「我必不再褻瀆我聖的名」（如 ylt）與「我不容人再褻瀆」（如 kjv／jps）之爭；直譯無「容讓」之字，故取前者"
-    },
-    {
-      "kind": "crux",
-      "subject": "以色列中的聖者",
-      "rationale": "קדוש בישראל 直譯為「在以色列中的聖者」，非傳統的「以色列的聖者」"
-    }
-  ],
-  "translation": "我要使我聖的名在我的民以色列中間被人知道，我必不再褻瀆我聖的名；列國就知道我是雅威——以色列中的聖者。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "772630f52476ff9fa725625d5c7816880788f4446f00e25fe9c72bc5534c4074",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/39\/5-8.1792139038665.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我要在我的民以色列中間彰顯 ⟨את⟩ 我聖潔的名，不再褻瀆 ⟨את⟩ 我聖潔的名；列國就必知道我是雅威，是以色列中的聖者。",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "我聖的名"
+      "marks": "我聖潔的名"
     },
     {
       "surface": "שם",
@@ -39,11 +18,11 @@
     },
     {
       "surface": "קדשי",
-      "gloss": "我聖的"
+      "gloss": "我聖潔的"
     },
     {
       "surface": "אודיע",
-      "gloss": "我要使人知道"
+      "gloss": "我要……彰顯（使人知道）"
     },
     {
       "surface": "בתוך",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "而不再"
+      "gloss": "不再"
     },
     {
       "surface": "אחל",
@@ -68,7 +47,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我聖的名"
+      "marks": "我聖潔的名"
     },
     {
       "surface": "שם",
@@ -76,7 +55,7 @@
     },
     {
       "surface": "קדשי",
-      "gloss": "我聖的"
+      "gloss": "我聖潔的"
     },
     {
       "surface": "עוד",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "וידעו",
-      "gloss": "他們就知道"
+      "gloss": "就必知道"
     },
     {
       "surface": "הגוים",
@@ -92,7 +71,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "……（引詞）"
+      "gloss": "……（直說引詞）"
     },
     {
       "surface": "אני",
@@ -111,6 +90,6 @@
       "gloss": "在以色列中"
     }
   ],
-  "timestamp": "2026-10-16T08:23:58.666570576Z",
+  "timestamp": "2026-10-16T22:25:08.206141236Z",
   "model": "glm-5.3"
 }

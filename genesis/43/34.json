@@ -5,73 +5,48 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 43,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "五手",
-      "rationale": "חמש ידות 依字面『五手』保留，是明確的計量"
-    },
-    {
-      "kind": "crux",
-      "subject": "וישכרו",
-      "rationale": "字面『喝醉』；和合本作『暢飲』（歡樂暢飲）與『喝醉』之別"
-    },
-    {
-      "kind": "elision",
-      "subject": "מאת",
-      "gloss": "מאת（H854 從……面前）以『從自己面前』譯出，僅 ⟨את⟩ 記號保留"
-    }
-  ],
-  "translation": "他就從自己面前拿起分食遞給他們；便雅憫的分食比眾人的分食多出五手，他們就喝了，與他一同暢飲。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "01d6fa1745fece849ce750ffe78d7ec93126aace953cb752294d15420147a5a9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/43\/33-34.1792125454367.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他便從自己面前取了食物，送到他們那裡；便雅憫的那份比眾人的份多五倍⟨份量⟩。他們就与他他一同喝酒，並且喝足了。",
   "tokens": [
     {
       "surface": "וישא",
-      "gloss": "他就拿起"
+      "gloss": "他便取了"
     },
     {
       "surface": "משאת",
-      "gloss": "分食"
+      "gloss": "食物份"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "食物份"
     },
     {
       "surface": "פניו",
-      "gloss": "他的面前"
+      "gloss": "從自己面前"
     },
     {
       "surface": "אלהם",
-      "gloss": "給他們"
+      "gloss": "送到他們那裡"
     },
     {
       "surface": "ותרב",
-      "gloss": "而……增多"
+      "gloss": "比……多"
     },
     {
       "surface": "משאת",
-      "gloss": "分食"
+      "gloss": "那份"
     },
     {
-      "surface": "בנימין",
+      "surface": "בנימן",
       "gloss": "便雅憫"
     },
     {
       "surface": "ממשאת",
-      "gloss": "比……的分食"
+      "gloss": "比……的份"
     },
     {
       "surface": "כלם",
-      "gloss": "他們眾人"
+      "gloss": "眾人"
     },
     {
       "surface": "חמש",
@@ -79,21 +54,21 @@
     },
     {
       "surface": "ידות",
-      "gloss": "手"
+      "gloss": "倍⟨份量⟩"
     },
     {
       "surface": "וישתו",
-      "gloss": "他們就喝了"
+      "gloss": "他們就喝酒"
     },
     {
       "surface": "וישכרו",
-      "gloss": "暢飲"
+      "gloss": "並且喝足"
     },
     {
       "surface": "עמו",
-      "gloss": "與他"
+      "gloss": "與他一同"
     }
   ],
-  "timestamp": "2026-10-16T04:37:34.368617011Z",
+  "timestamp": "2026-10-16T22:31:21.151737121Z",
   "model": "glm-5.3"
 }

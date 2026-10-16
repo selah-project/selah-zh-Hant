@@ -5,50 +5,19 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "כמוני כמוך כעמי כעמך כסוסי כסוסיך",
-      "rationale": "六個כ（如同）短語排比，音韻迴環，中文以「如同」連排保留節奏"
-    },
-    {
-      "kind": "idiom",
-      "subject": "如同我的民如同你的民",
-      "rationale": "約沙法對亞哈曾說同樣的話（代下18:3），是同盟套語"
-    },
-    {
-      "kind": "crux",
-      "subject": "אתי",
-      "rationale": "此處是介詞את（同，H854）而非受詞記號H853，故兼作伴同標記"
-    },
-    {
-      "kind": "you",
-      "subject": "to 约沙法",
-      "rationale": "约兰向犹大王直接陈情并请求"
-    }
-  ],
-  "translation": "他就去，差人見猶大王約沙法，說：「摩押王背叛了我，你肯同我上去攻打摩押嗎？」他說：「我必上去：如同我，如同你；如同我的民，如同你的民；如同我的馬，如同你的馬。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "de72c38f04c22b0c941348d333157605a575036708220376c210d5bf7d2255c9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/3\/5-8.1792133508321.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他去了，差遣人去見猶大王約沙法，說：「摩押王背叛了我。你肯與我一同上去攻打摩押嗎？」他說：「我必上去：我怎樣，你也怎樣；我的民怎樣，你的民也怎樣；我的馬怎樣，你的馬也怎樣。」",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "他就去"
+      "gloss": "他去了"
     },
     {
       "surface": "וישלח",
-      "gloss": "差遣"
+      "gloss": "差遣人去見"
     },
     {
       "surface": "אל",
-      "gloss": "見"
+      "gloss": "去見"
     },
     {
       "surface": "יהושפט",
@@ -76,7 +45,7 @@
     },
     {
       "surface": "פשע",
-      "gloss": "背叛"
+      "gloss": "背叛了"
     },
     {
       "surface": "בי",
@@ -88,11 +57,12 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩同我"
+      "gloss": "⟨את⟩與我",
+      "marks": "與我（同行）"
     },
     {
       "surface": "אל",
-      "gloss": "往"
+      "gloss": "去"
     },
     {
       "surface": "מואב",
@@ -112,29 +82,29 @@
     },
     {
       "surface": "כמוני",
-      "gloss": "如同我"
+      "gloss": "我怎樣"
     },
     {
       "surface": "כמוך",
-      "gloss": "如同你"
+      "gloss": "你也怎樣"
     },
     {
       "surface": "כעמי",
-      "gloss": "如同我的民"
+      "gloss": "我的民怎樣"
     },
     {
       "surface": "כעמך",
-      "gloss": "如同你的民"
+      "gloss": "你的民也怎樣"
     },
     {
       "surface": "כסוסי",
-      "gloss": "如同我的馬"
+      "gloss": "我的馬怎樣"
     },
     {
       "surface": "כסוסיך",
-      "gloss": "如同你的馬"
+      "gloss": "你的馬也怎樣"
     }
   ],
-  "timestamp": "2026-10-16T06:51:48.322143450Z",
+  "timestamp": "2026-10-16T22:08:04.819647658Z",
   "model": "glm-5.3"
 }

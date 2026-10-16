@@ -5,61 +5,35 @@
   "book": "ezra",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "以羅阿",
-      "rationale": "亞蘭文 אלהא（以斯拉記的語言）是 אלוה 的亞蘭形，故用「以羅阿」而非「以羅欣」"
-    },
-    {
-      "kind": "elision",
-      "subject": "די",
-      "rationale": "亞蘭文關係詞 די 在中文中以語序表達，無對應詞"
-    },
-    {
-      "kind": "measurement",
-      "subject": "日復一日",
-      "rationale": "諭令以逐日供給計量，確保獻祭不間斷"
-    }
-  ],
-  "translation": "凡他們所需要的——公牛犢、公綿羊和羊羔，作為獻給天上之以羅阿的燔祭；小麥、鹽、酒和油，都要照在耶路撒冷的祭司的話，日復一日賜給他們，不容有差錯。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "9eba92e07d24dff0ed8fae3627ee8daa1c3a0c38faa01a55d5f5773acb41f98c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/6\/9-12.1792147825690.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "凡所需要的——公牛犢、公綿羊和羊羔，作燔祭獻給天上〈的〉以羅阿——以及小麥、鹽、酒和油，都要照耶路撒冷祭司〈所說的〉，日日供給他們，不得有絲毫差錯。",
   "tokens": [
     {
       "surface": "ומה",
-      "gloss": "凡…所需要的"
+      "gloss": "凡…的"
     },
     {
       "surface": "חשחן",
-      "gloss": "所需要"
+      "gloss": "所需要的"
     },
     {
       "surface": "ובני",
-      "gloss": "和…的幼畜"
-    },
-    {
-      "surface": "תורין",
       "gloss": "公牛犢"
     },
     {
+      "surface": "תורין",
+      "gloss": "公牛"
+    },
+    {
       "surface": "ודכרין",
-      "gloss": "和公綿羊"
+      "gloss": "公綿羊"
     },
     {
       "surface": "ואמרין",
-      "gloss": "和羊羔"
+      "gloss": "羊羔"
     },
     {
       "surface": "לעלון",
-      "gloss": "作為燔祭"
+      "gloss": "作燔祭"
     },
     {
       "surface": "לאלה",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "שמיא",
-      "gloss": "天上的"
+      "gloss": "天上"
     },
     {
       "surface": "חנטין",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "כמאמר",
-      "gloss": "照…的話"
+      "gloss": "照…所說的"
     },
     {
       "surface": "כהניא",
@@ -95,7 +69,7 @@
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "⟨的⟩"
     },
     {
       "surface": "בירושלם",
@@ -103,11 +77,11 @@
     },
     {
       "surface": "להוא",
-      "gloss": "要"
+      "gloss": "都要"
     },
     {
       "surface": "מתיהב",
-      "gloss": "賜給"
+      "gloss": "供給"
     },
     {
       "surface": "להם",
@@ -119,21 +93,21 @@
     },
     {
       "surface": "ביום",
-      "gloss": "復一日"
+      "gloss": "日日"
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "⟨以〉至於"
     },
     {
       "surface": "לא",
-      "gloss": "不容"
+      "gloss": "不得"
     },
     {
       "surface": "שלו",
-      "gloss": "有差錯"
+      "gloss": "有絲毫差錯"
     }
   ],
-  "timestamp": "2026-10-16T10:50:25.691468744Z",
+  "timestamp": "2026-10-16T22:26:48.023557735Z",
   "model": "glm-5.3"
 }

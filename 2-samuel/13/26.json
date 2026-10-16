@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "若不",
-      "rationale": "ולא ילך נא可讀為疑問（「暗嫩豈不該與我們去嗎？」）或條件（「若不然，請讓……」）；取條件讀法"
-    },
-    {
-      "kind": "you",
-      "subject": "王對押沙龍",
-      "rationale": "王的反問直接指向押沙龍，是敘事中的直接對話"
-    }
-  ],
-  "translation": "押沙龍說：「若不，懇求你讓我哥哥暗嫩與我們同去。」王對他說：「他何必與你同去呢？」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a1777aada9a877ef59f3562ee5e913a1d1863261ceeb29e646f5ba7cadae7026",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/13\/25-28.1792131975159.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "押沙龍說：「若不，求你讓我哥哥暗嫩與⟨את⟩我們同去。」王對他說：「他何必與你同去呢？」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -46,12 +25,12 @@
     },
     {
       "surface": "נא",
-      "gloss": "懇求你"
+      "gloss": "求你"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ 我們",
-      "marks": "與我們同去"
+      "gloss": "⟨את⟩",
+      "marks": "我們"
     },
     {
       "surface": "אמנון",
@@ -83,9 +62,9 @@
     },
     {
       "surface": "עמך",
-      "gloss": "與你"
+      "gloss": "與你同"
     }
   ],
-  "timestamp": "2026-10-16T06:26:15.161681969Z",
+  "timestamp": "2026-10-16T22:09:04.850235050Z",
   "model": "glm-5.3"
 }

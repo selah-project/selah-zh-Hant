@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "對以西結",
-      "rationale": "「人子啊」直接呼喚先知"
-    },
-    {
-      "kind": "invitation",
-      "subject": "你要為埃及的群眾哀號",
-      "rationale": "命令式哀歌呼喚"
-    },
-    {
-      "kind": "substitution",
-      "subject": "地",
-      "rationale": "ארץ תחתיות直譯「最低之地」，指陰間深處"
-    }
-  ],
-  "translation": "人子啊，你要為埃及的群眾哀號，使她與顯赫列國的女兒們一同下到最低之地的深處，就是下到坑裡之人的 ⟨את⟩ 那裡。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "eb4619097714268d26e62c845b47fb33c3340b71b087247bca010ce21b2354bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/32\/17-20.1792138827763.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "人子啊，你要為埃及的群眾哀號，把她連同列國威嚴的女兒們一同帶下到低下之地，到 ⟨את⟩ 那些下到坑穴的人那裡。",
   "tokens": [
     {
       "surface": "בן",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "אדם",
-      "gloss": "人"
+      "gloss": "人（人子）"
     },
     {
       "surface": "נהה",
@@ -59,23 +33,24 @@
     },
     {
       "surface": "והורדהו",
-      "gloss": "使她下"
+      "gloss": "並使她下去"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ 她"
+      "gloss": "⟨את⟩",
+      "marks": "她（埃及）連同其後之 ובנות（女兒們）"
     },
     {
       "surface": "ובנות",
-      "gloss": "與女兒們"
+      "gloss": "並女兒們"
     },
     {
       "surface": "גוים",
-      "gloss": "列國的"
+      "gloss": "列國"
     },
     {
       "surface": "אדרם",
-      "gloss": "顯赫的"
+      "gloss": "威嚴的"
     },
     {
       "surface": "אל",
@@ -87,22 +62,22 @@
     },
     {
       "surface": "תחתיות",
-      "gloss": "最低之處"
+      "gloss": "低下之處"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "下到坑裡之人"
+      "marks": "那些下到坑穴的人"
     },
     {
       "surface": "יורדי",
-      "gloss": "下到"
+      "gloss": "下到的那些"
     },
     {
       "surface": "בור",
-      "gloss": "坑"
+      "gloss": "坑穴"
     }
   ],
-  "timestamp": "2026-10-16T08:20:27.764517398Z",
+  "timestamp": "2026-10-16T22:23:54.661531973Z",
   "model": "glm-5.3"
 }

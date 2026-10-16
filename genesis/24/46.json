@@ -5,27 +5,11 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈身上〉",
-      "rationale": "מעליה 直譯「從她之上」，中文補「身上」以成句。"
-    }
-  ],
-  "translation": "她急忙把瓶子從她〈身上〉放下來，說：「請喝，我也給你的駱駝喝。」我喝了，她也給駱駝喝了。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "5dd6995fa0e5a1a7336a1533818fe224003c2e2e80cca0b24ee344674360afee",
-    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/genesis/24/45-48.1792125079052.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "她急忙把她的瓶子從肩上放下來，說：「請喝，我也必給你的駱駝喝。」我就喝了，她也給那些駱駝喝了。",
   "tokens": [
     {
       "surface": "ותמהר",
-      "gloss": "她急忙"
+      "gloss": "急忙"
     },
     {
       "surface": "ותורד",
@@ -33,11 +17,11 @@
     },
     {
       "surface": "כדה",
-      "gloss": "瓶子"
+      "gloss": "她的瓶子"
     },
     {
       "surface": "מעליה",
-      "gloss": "從她身上"
+      "gloss": "從她之上"
     },
     {
       "surface": "ותאמר",
@@ -57,11 +41,11 @@
     },
     {
       "surface": "אשקה",
-      "gloss": "我給……喝"
+      "gloss": "我必給…喝"
     },
     {
       "surface": "ואשת",
-      "gloss": "我喝了"
+      "gloss": "我就喝了"
     },
     {
       "surface": "וגם",
@@ -69,17 +53,13 @@
     },
     {
       "surface": "הגמלים",
-      "gloss": "駱駝"
+      "gloss": "那些駱駝"
     },
     {
       "surface": "השקתה",
-      "gloss": "她給……喝了"
+      "gloss": "她給…喝了"
     }
   ],
-  "timestamp": "2026-10-16T04:31:19.053451525Z",
-  "model": "glm-5.3",
-  "s2t": {
-    "date": "2026-10-16",
-    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
-  }
+  "timestamp": "2026-10-16T22:28:11.743412745Z",
+  "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "宣布那災病為潔淨",
-      "rationale": "וְטִהַר אֶת הַנָּגַע 字面是『宣布那災病為潔淨』，諸譯本或作『宣布那患災病者為潔淨』（以災病轉指病人）；此處保留字面。"
-    },
-    {
-      "kind": "alternative",
-      "subject": "全然變白反為潔淨",
-      "rationale": "痲瘋若蔓延全身反成潔淨，是禮儀上的逆轉邏輯，非醫學判斷；譯文按字面不加解釋。"
-    }
-  ],
-  "translation": "祭司要察看，看哪，痲瘋蓋滿了他的全身皮肉，他就要宣布 ⟨את⟩ 那災病為潔淨；它全部變白了，他是潔淨的。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "5ad1b29ac8e96399573dfb9b157c5675ed88159750ad6ea54d145a21e503c971",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/13\/13-16.1792126929362.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "祭司察看，看哪，癩疾蓋滿了 ⟨את⟩ 他全身的皮肉，他就要宣告 ⟨את⟩ 這患處為潔淨：患處全部變白了，他是潔淨的。",
   "tokens": [
     {
       "surface": "וראה",
-      "gloss": "要察看"
+      "gloss": "祭司察看"
     },
     {
       "surface": "הכהן",
@@ -42,37 +21,37 @@
     },
     {
       "surface": "כסתה",
-      "gloss": "蓋滿"
+      "gloss": "蓋滿了"
     },
     {
       "surface": "הצרעת",
-      "gloss": "痲瘋"
+      "gloss": "癩疾"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他的全身皮肉"
+      "marks": "他全身的皮肉"
     },
     {
       "surface": "כל",
-      "gloss": "全身"
+      "gloss": "全部"
     },
     {
       "surface": "בשרו",
-      "gloss": "皮肉"
+      "gloss": "他的皮肉"
     },
     {
       "surface": "וטהר",
-      "gloss": "宣布……為潔淨"
+      "gloss": "宣告為潔淨"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那災病"
+      "marks": "這患處"
     },
     {
       "surface": "הנגע",
-      "gloss": "那災病"
+      "gloss": "患處"
     },
     {
       "surface": "כלו",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "הפך",
-      "gloss": "變了"
+      "gloss": "變成"
     },
     {
       "surface": "לבן",
@@ -88,13 +67,13 @@
     },
     {
       "surface": "טהור",
-      "gloss": "潔淨"
+      "gloss": "潔淨的"
     },
     {
       "surface": "הוא",
       "gloss": "他"
     }
   ],
-  "timestamp": "2026-10-16T05:02:09.362806662Z",
+  "timestamp": "2026-10-16T22:48:39.207632529Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "esther",
   "lang": "zh-Hant",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "數目",
-      "rationale": "פרשת 本義是闡明、細目，此處指銀子的確數"
-    },
-    {
-      "kind": "measurement",
-      "subject": "銀子的數目",
-      "rationale": "本節涉及稱銀、王庫數額，屬計量語境"
-    }
-  ],
-  "translation": "末底改將所遭遇的一切告訴他，又將哈曼所說要秤了銀子交給王庫、為要除滅猶大人的那筆銀子的數目，都告訴了他。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ba5c112211ac4f9b594524261378a6c0fb947db8182c689de5888a532ac8a99e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/esther\/4\/5-8.1792147194160.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "末底改將 ⟨את⟩ 所遭遇的一切事告訴他，以及哈曼說要稱銀子入王庫的銀數——為了猶太人，要滅絕他們。",
   "tokens": [
     {
       "surface": "ויגד",
@@ -43,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "所遭遇的一切"
+      "marks": "所遭遇的一切事"
     },
     {
       "surface": "כל",
@@ -55,24 +34,24 @@
     },
     {
       "surface": "קרהו",
-      "gloss": "遭遇"
+      "gloss": "遭遇他的事"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "那筆銀子的數目"
+      "gloss": "以及⟨את⟩",
+      "marks": "銀子的銀數"
     },
     {
       "surface": "פרשת",
-      "gloss": "數目"
+      "gloss": "確數"
     },
     {
       "surface": "הכסף",
-      "gloss": "銀子的"
+      "gloss": "銀子"
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "那"
     },
     {
       "surface": "אמר",
@@ -84,11 +63,11 @@
     },
     {
       "surface": "לשקול",
-      "gloss": "要秤了交"
+      "gloss": "要稱"
     },
     {
       "surface": "על",
-      "gloss": "給"
+      "gloss": "入"
     },
     {
       "surface": "גנזי",
@@ -100,13 +79,13 @@
     },
     {
       "surface": "ביהודיים",
-      "gloss": "為猶大人"
+      "gloss": "為了猶太人"
     },
     {
       "surface": "לאבדם",
-      "gloss": "要除滅他們"
+      "gloss": "要滅絕他們"
     }
   ],
-  "timestamp": "2026-10-16T10:39:54.161558609Z",
+  "timestamp": "2026-10-16T22:16:56.836645649Z",
   "model": "glm-5.3"
 }

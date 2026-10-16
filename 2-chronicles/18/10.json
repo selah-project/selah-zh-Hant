@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "zh-Hant",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "抵",
-      "rationale": "נָגַח 是牛以角牴撞的具體圖像，譯『抵』保留其形狀"
-    },
-    {
-      "kind": "you",
-      "subject": "以色列王",
-      "rationale": "假預言以第二人稱單數對王說話：『你要……抵』"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "קַרְנֵי בַּרְזֶל",
-      "rationale": "鐵角是先知性的動作劇（象徵性演出），話與道具同時宣告"
-    }
-  ],
-  "translation": "基拿拿的兒子西底家為自己做了鐵角，說：「雅威如此說：『你要用這些角抵亞蘭，直到把他們滅盡。』」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "412a75a623094f2c4e21fae9ea8c85a2a17097f4fd905a716ec267ad1d784673",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/18\/9-12.1792149370966.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "迦南拿的兒子西底家為自己做了鐵角，說：「雅威如此說：『你要用這些角抵觸⟨את⟩亞蘭，直到把他們滅盡。』」",
   "tokens": [
     {
       "surface": "ויעש",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "כנענה",
-      "gloss": "基拿拿"
+      "gloss": "迦南拿"
     },
     {
       "surface": "קרני",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "תנגח",
-      "gloss": "抵"
+      "gloss": "抵觸"
     },
     {
       "surface": "את",
@@ -103,6 +77,6 @@
       "gloss": "把他們滅盡"
     }
   ],
-  "timestamp": "2026-10-16T11:16:10.967353467Z",
+  "timestamp": "2026-10-16T22:03:24.903481937Z",
   "model": "glm-5.3"
 }

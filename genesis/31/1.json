@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "榮耀",
-      "rationale": "הכבד 字面是「重量」，引申為財富榮耀；各譯本在 wealth\/glory 之間分歧"
-    },
-    {
-      "kind": "addition",
-      "subject": "財物",
-      "rationale": "「用我們父親的」之後中文需補出「財物」才能成句"
-    }
-  ],
-  "translation": "雅各聽見了拉班兒子們的話，他們說：「雅各奪走了我們父親的一切，又用我們父親的〈財物〉造出了這一切的榮耀。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c18f01c20658d1d3b1531353c17f2891c1d965ede789c4d16e8a7a36b2fe9e11",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/31\/1-4.1792125213770.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅各聽見了拉班兒子們的話，說：「雅各拿走了我們父親的一切，又從我們父親所有的， he造出了這一切的財富。」",
   "tokens": [
     {
       "surface": "וישמע",
@@ -35,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "拉班兒子們的話"
+      "marks": "話"
     },
     {
       "surface": "דברי",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "לקח",
-      "gloss": "奪走了"
+      "gloss": "拿走了"
     },
     {
       "surface": "יעקב",
@@ -76,15 +55,15 @@
     },
     {
       "surface": "לאבינו",
-      "gloss": "我們父親的"
+      "gloss": "我們父親"
     },
     {
       "surface": "ומאשר",
-      "gloss": "又用…的"
+      "gloss": "又從…所有的"
     },
     {
       "surface": "לאבינו",
-      "gloss": "我們父親的"
+      "gloss": "我們父親"
     },
     {
       "surface": "עשה",
@@ -93,21 +72,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "這一切的榮耀"
+      "marks": "一切的財富"
     },
     {
       "surface": "כל",
-      "gloss": "一切"
+      "gloss": "一切的"
     },
     {
       "surface": "הכבד",
-      "gloss": "榮耀"
+      "gloss": "財富"
     },
     {
       "surface": "הזה",
       "gloss": "這"
     }
   ],
-  "timestamp": "2026-10-16T04:33:33.770986978Z",
+  "timestamp": "2026-10-16T22:29:22.597408849Z",
   "model": "glm-5.3"
 }

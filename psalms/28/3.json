@@ -5,40 +5,19 @@
   "book": "psalms",
   "lang": "zh-Hant",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈拖去〉",
-      "rationale": "第二個「與」短語承接前句動詞，中文補出"
-    },
-    {
-      "kind": "crux",
-      "subject": "תמשכני",
-      "rationale": "משך「拉／拖」：KJV「draw me not away」，BSB「drag me not away」"
-    }
-  ],
-  "translation": "不要把我與惡人一同拖去，與行罪孽的人一同〈拖去〉；他們向鄰舍說和平的話，心裡卻是惡。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "eb3f4f252bb359ff9fdb16a2681476aec7732d081f81c05ff2e41348fc5a2108",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/28\/1-4.1792143522191.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "求你不要把我和惡人一同拉去，和行不義的人一同〈拉去〉；他們對同伴說平安，心裡卻是惡。",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "不要"
+      "gloss": "求你不要"
     },
     {
       "surface": "תמשכני",
-      "gloss": "把我……拖去"
+      "gloss": "把我和……一同拉去"
     },
     {
       "surface": "עם",
-      "gloss": "與"
+      "gloss": "和……一同"
     },
     {
       "surface": "רשעים",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ועם",
-      "gloss": "與"
+      "gloss": "和……一同"
     },
     {
       "surface": "פעלי",
@@ -54,23 +33,23 @@
     },
     {
       "surface": "און",
-      "gloss": "罪孽"
+      "gloss": "不義"
     },
     {
       "surface": "דברי",
-      "gloss": "說……的人"
+      "gloss": "說……的"
     },
     {
       "surface": "שלום",
-      "gloss": "和平的話"
+      "gloss": "平安"
     },
     {
       "surface": "עם",
-      "gloss": "向"
+      "gloss": "對"
     },
     {
       "surface": "רעיהם",
-      "gloss": "他們的鄰舍"
+      "gloss": "他們的同伴"
     },
     {
       "surface": "ורעה",
@@ -81,6 +60,6 @@
       "gloss": "在他們心裡"
     }
   ],
-  "timestamp": "2026-10-16T09:38:42.193133473Z",
+  "timestamp": "2026-10-16T22:58:57.082366506Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בית גדול",
-      "rationale": "「宏偉的房屋」（和合本同）與「大人物（大臣）的房屋」（KJV、JPS）兩讀之別。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שרף…שרף",
-      "rationale": "同一動詞首尾重複，強調焚燒的徹底；譯文以「焚燒了……焚燒了」保留。"
-    }
-  ],
-  "translation": "他焚燒了 ⟨את⟩ 雅威的殿和 ⟨את⟩ 王宮，以及 ⟨את⟩ 耶路撒冷的一切房屋；凡宏偉的房屋，他都用火焚燒了。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "650b1b5144749519842384e6b9d6ed3cc418075f9bdd6a7cf264c2824ea6e756",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/25\/9-12.1792134373366.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他焚燒了 ⟨את⟩ 雅威的殿和 ⟨את⟩ 王宮，並 ⟨את⟩ 耶路撒冷的眾房屋；凡 ⟨את⟩ 高大的房屋，他都 用火燒盡了。",
   "tokens": [
     {
       "surface": "וישרף",
@@ -56,16 +35,16 @@
     },
     {
       "surface": "המלך",
-      "gloss": "王的"
+      "gloss": "王"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "耶路撒冷的一切房屋"
+      "marks": "耶路撒冷的眾房屋"
     },
     {
       "surface": "כל",
-      "gloss": "一切"
+      "gloss": "眾"
     },
     {
       "surface": "בתי",
@@ -78,7 +57,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "凡宏偉的房屋"
+      "marks": "凡高大的房屋"
     },
     {
       "surface": "כל",
@@ -90,17 +69,17 @@
     },
     {
       "surface": "גדול",
-      "gloss": "宏偉的"
+      "gloss": "高大的"
     },
     {
       "surface": "שרף",
-      "gloss": "焚燒了"
+      "gloss": "燒盡"
     },
     {
       "surface": "באש",
       "gloss": "用火"
     }
   ],
-  "timestamp": "2026-10-16T07:06:13.366916018Z",
+  "timestamp": "2026-10-16T22:07:45.619858914Z",
   "model": "glm-5.3"
 }

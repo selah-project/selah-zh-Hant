@@ -5,33 +5,7 @@
   "book": "1-chronicles",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "他的",
-      "rationale": "ומשנהו為「他的第二」，中文以「其次是他⟨的⟩撒迦利亞」補出所有格"
-    },
-    {
-      "kind": "elision",
-      "subject": "בכלי",
-      "rationale": "「用樂器」以瑟琴之名帶出，器具詞融入中文語序"
-    },
-    {
-      "kind": "measurement",
-      "subject": "名單",
-      "rationale": "本節列舉樂手名單，是班次的記錄"
-    }
-  ],
-  "translation": "亞薩為首，其次是他⟨的⟩撒迦利亞；耶利、示米拉末、耶歇、瑪他提雅、以利押、比拿雅、俄別以東和耶利用瑟和琴彈奏，亞薩則敲響鈸，",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "bcb2b57234a446f3fc6a181589c276d99e58c3673b4fd77cd1e6dcca5b40e419",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/16\/5-8.1792148782846.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "亞薩為首，其次是他⟨的副手⟩撒迦利亞；又有耶利、示米拉末、耶希業、瑪他提雅、以利押、比拿雅、俄別以東和耶利，用樂器彈奏נבל琴與כנר琴；亞薩則敲響鈸，使聲音傳揚。",
   "tokens": [
     {
       "surface": "אסף",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ומשנהו",
-      "gloss": "其次是他的"
+      "gloss": "其次是他⟨的副手⟩"
     },
     {
       "surface": "זכריה",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "ויחיאל",
-      "gloss": "耶歇"
+      "gloss": "耶希業"
     },
     {
       "surface": "ומתתיה",
@@ -74,8 +48,12 @@
       "gloss": "比拿雅"
     },
     {
-      "surface": "ועבד אדם",
-      "gloss": "俄別以東"
+      "surface": "ועבד",
+      "gloss": "俄別"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "以東"
     },
     {
       "surface": "ויעיאל",
@@ -83,15 +61,15 @@
     },
     {
       "surface": "בכלי",
-      "gloss": "用……的樂器"
+      "gloss": "用樂器"
     },
     {
       "surface": "נבלים",
-      "gloss": "瑟"
+      "gloss": "נבל琴（多弦琴）"
     },
     {
       "surface": "ובכנרות",
-      "gloss": "和琴"
+      "gloss": "כנר琴（豎琴）"
     },
     {
       "surface": "ואסף",
@@ -99,13 +77,13 @@
     },
     {
       "surface": "במצלתים",
-      "gloss": "鈸"
+      "gloss": "敲鈸"
     },
     {
       "surface": "משמיע",
-      "gloss": "敲響"
+      "gloss": "使聲音傳揚"
     }
   ],
-  "timestamp": "2026-10-16T11:06:22.846973104Z",
+  "timestamp": "2026-10-16T21:56:33.963049187Z",
   "model": "glm-5.3"
 }

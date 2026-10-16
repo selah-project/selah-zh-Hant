@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "zh-Hant",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to 猶大百姓",
-      "rationale": "對百姓的直接命令——「你們不要聽」。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "使你們空虛",
-      "rationale": "מהבלים 字面「使成虛妄／氣泡」，即以虛幻之言引人入空，非「教導」。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הנבאים\/הנבאים",
-      "rationale": "名詞「先知」與動詞「說預言」同根疊用，中文以兩詞對應。"
-    }
-  ],
-  "translation": "萬軍之雅威如此說：「這些先知向你們說預言，你們不要聽他們的話；他們使你們空虛，所講的是自己心中的異象，不是出於雅威的口。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "fd481d6fa1367f928297298d82e862789eec85dccfed48f0bfabaa2798b11bc7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/23\/13-16.1792136832233.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "萬軍之雅威如此說：不要聽那些對你們說預言的先知的話，他們使你們⟨את⟩成為虛妄；他們所說的是自己心中的異象，不是出於雅威的口。",
   "tokens": [
     {
       "surface": "כה",
@@ -55,31 +29,31 @@
     },
     {
       "surface": "תשמעו",
-      "gloss": "你們聽"
+      "gloss": "聽"
     },
     {
       "surface": "על",
-      "gloss": "（聽）……的話"
+      "gloss": "於"
     },
     {
       "surface": "דברי",
-      "gloss": "話"
+      "gloss": "的話"
     },
     {
       "surface": "הנבאים",
-      "gloss": "這些先知"
+      "gloss": "眾先知"
     },
     {
       "surface": "הנבאים",
-      "gloss": "向你們說預言的"
+      "gloss": "說預言的"
     },
     {
       "surface": "לכם",
-      "gloss": "向你們"
+      "gloss": "對你們"
     },
     {
       "surface": "מהבלים",
-      "gloss": "他們使……空虛"
+      "gloss": "使……成為虛妄"
     },
     {
       "surface": "המה",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩你們",
+      "gloss": "⟨את⟩",
       "marks": "你們"
     },
     {
@@ -96,11 +70,11 @@
     },
     {
       "surface": "לבם",
-      "gloss": "自己心中的"
+      "gloss": "他們的心"
     },
     {
       "surface": "ידברו",
-      "gloss": "他們講"
+      "gloss": "他們所說的"
     },
     {
       "surface": "לא",
@@ -115,6 +89,6 @@
       "gloss": "雅威"
     }
   ],
-  "timestamp": "2026-10-16T07:47:12.234548202Z",
+  "timestamp": "2026-10-16T22:37:36.416274506Z",
   "model": "glm-5.3"
 }

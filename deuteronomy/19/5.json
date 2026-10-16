@@ -5,42 +5,15 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "鐵頭滑脫",
-      "rationale": "הברזל מן העץ：KJV 系作「斧頭從柄滑落」，YLT 作「鐵從木頭滑出」；此處採「鐵頭從木柄滑脫」兼顧字面與語境"
-    },
-    {
-      "kind": "substitution",
-      "subject": "נדחה ידו",
-      "gloss": "他的手揮動",
-      "rationale": "直譯「他的手被推移」；揮斧之義由語境補足"
-    },
-    {
-      "kind": "measurement",
-      "subject": "城邑之一",
-      "rationale": "逃城的指定與分配屬空間制度的度量安排"
-    }
-  ],
-  "translation": "至於那與同伴進森林砍伐木頭的人，他的手揮動斧頭砍伐樹木，鐵頭從木柄上滑脫，擊中⟨את⟩他的同伴，那人死了——他可以逃到這些城邑之一，並得存活。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "af648f85f7503a185dc4d6de2d818085a391e30d70cc50edf2e10e22967e8205",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/19\/5-8.1792128949388.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "至於有人與⟨את⟩他的同伴進入森林砍伐木頭，他的手揮動斧頭砍伐那樹，鐵頭從木柄上滑脫，擊中⟨את⟩他的同伴以致他死了——這人要逃到這些城邑中的一座，就可以活著。",
   "tokens": [
     {
       "surface": "ואשר",
-      "gloss": "至於那……的人"
+      "gloss": "至於有人"
     },
     {
       "surface": "יבא",
-      "gloss": "進"
+      "gloss": "進入"
     },
     {
       "surface": "את",
@@ -81,7 +54,7 @@
     },
     {
       "surface": "העץ",
-      "gloss": "樹"
+      "gloss": "那樹"
     },
     {
       "surface": "ונשל",
@@ -118,11 +91,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "他"
+      "gloss": "這人"
     },
     {
       "surface": "ינוס",
-      "gloss": "逃"
+      "gloss": "要逃"
     },
     {
       "surface": "אל",
@@ -130,11 +103,11 @@
     },
     {
       "surface": "אחת",
-      "gloss": "之一"
+      "gloss": "一座"
     },
     {
       "surface": "הערים",
-      "gloss": "城邑"
+      "gloss": "這些城邑"
     },
     {
       "surface": "האלה",
@@ -142,9 +115,9 @@
     },
     {
       "surface": "וחי",
-      "gloss": "存活"
+      "gloss": "就可以活著"
     }
   ],
-  "timestamp": "2026-10-16T05:35:49.389515556Z",
+  "timestamp": "2026-10-16T22:13:54.137657340Z",
   "model": "glm-5.3"
 }

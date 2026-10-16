@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "יאסף אל עמיו",
-      "rationale": "字面「被收歸到他的人民那裏」，希伯來文死亡的委婉語"
-    },
-    {
-      "kind": "substitution",
-      "subject": "מריתם את פי",
-      "rationale": "字面「你們使我的口苦」，即違背我的命令，中文保留「口」的意象"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מריתם\/מריבה",
-      "rationale": "「違背」（מרה）與地名「米利巴」（מריבה）同根雙關，中文無法傳達"
-    }
-  ],
-  "translation": "「亞倫要被收歸到他的族人那裏，因為他不得進入我所賜給以色列子孫的那地，因為你們在米利巴水邊違背了我的口。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "8ec2d459ebd51e0f58c967080a560f829e3f364c02ccaf25e776f5bc818dcf1d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/20\/21-24.1792127990467.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "「亞倫要被收納歸到他的民那裡，因為他不得進入我所賜給以色列子孫的那地，因為你們在米利巴水那裡違背了 ⟨את⟩ 我的話。",
   "tokens": [
     {
       "surface": "יאסף",
-      "gloss": "要被收歸"
+      "gloss": "要被收納"
     },
     {
       "surface": "אהרן",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "到"
+      "gloss": "歸到"
     },
     {
       "surface": "עמיו",
-      "gloss": "他的族人"
+      "gloss": "他的民"
     },
     {
       "surface": "כי",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "יבא",
-      "gloss": "他進入"
+      "gloss": "進入"
     },
     {
       "surface": "אל",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "לבני",
-      "gloss": "給…的子孫"
+      "gloss": "…的子孫"
     },
     {
       "surface": "ישראל",
@@ -100,21 +74,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我的口"
+      "marks": "我的話"
     },
     {
       "surface": "פי",
-      "gloss": "我的口"
+      "gloss": "我的話"
     },
     {
       "surface": "למי",
-      "gloss": "在…水邊"
+      "gloss": "在…水那裡"
     },
     {
       "surface": "מריבה",
       "gloss": "米利巴"
     }
   ],
-  "timestamp": "2026-10-16T05:19:50.469035741Z",
+  "timestamp": "2026-10-16T22:54:13.999622512Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "2-chronicles",
   "lang": "zh-Hant",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "中",
-      "rationale": "「扔進溪中」的「中」為中文方位詞，希伯來文前置詞לנחל已含其義"
-    }
-  ],
-  "translation": "他們起來，除掉⟨את⟩耶路撒冷的那些祭壇，又把一切燒香的壇除掉，扔進汲淪溪中。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a7d68ae2e6dc94f1513b62ba03d207c1f323d8cf95b64c7d157381ee0a477fe9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/30\/13-16.1792149679455.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們起來，除掉了在耶路撒冷的眾祭壇，又除掉 ⟨ואת⟩ 一切燒香的壇，把它們拋入汲淪溪谷。",
   "tokens": [
     {
       "surface": "ויקמו",
-      "gloss": "他們起來"
+      "gloss": "起來"
     },
     {
       "surface": "ויסירו",
@@ -34,23 +18,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那些祭壇"
+      "marks": "眾祭壇"
     },
     {
       "surface": "המזבחות",
-      "gloss": "那些祭壇"
+      "gloss": "眾祭壇"
     },
     {
       "surface": "אשר",
-      "gloss": "那些在"
+      "gloss": "在……的"
     },
     {
       "surface": "בירושלם",
-      "gloss": "耶路撒冷的"
+      "gloss": "耶路撒冷"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨ואת⟩",
       "marks": "一切燒香的壇"
     },
     {
@@ -67,17 +51,17 @@
     },
     {
       "surface": "וישליכו",
-      "gloss": "扔進"
+      "gloss": "拋入"
     },
     {
       "surface": "לנחל",
-      "gloss": "溪中"
+      "gloss": "溪谷"
     },
     {
       "surface": "קדרון",
       "gloss": "汲淪"
     }
   ],
-  "timestamp": "2026-10-16T11:21:19.458728874Z",
+  "timestamp": "2026-10-16T22:04:14.145367691Z",
   "model": "glm-5.3"
 }

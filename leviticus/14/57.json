@@ -5,44 +5,23 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈病〉",
-      "rationale": "中文需補類名詞，希伯來文僅作「痲瘋」"
-    },
-    {
-      "kind": "substitution",
-      "subject": "妥拉",
-      "rationale": "תורה 譯作「妥拉（訓誨）」，不譯「律法」"
-    }
-  ],
-  "translation": "為要教導分辨：在不潔淨的日子，以及在潔淨的日子。這就是痲瘋〈病〉的妥拉（訓誨）。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ef6770ee25d78d1dd8ca9b2bae76dd0ea41f523b2618571d8169b5e6182dd7ac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/14\/57-57.1792126906614.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "為要在不潔之日和潔淨之日指教⟨人⟩——這就是痲瘋的妥拉。",
   "tokens": [
     {
       "surface": "להורת",
-      "gloss": "為要教導分辨"
+      "gloss": "為要指教"
     },
     {
       "surface": "ביום",
-      "gloss": "在……的日子"
+      "gloss": "在…之日"
     },
     {
       "surface": "הטמא",
-      "gloss": "不潔淨"
+      "gloss": "不潔"
     },
     {
       "surface": "וביום",
-      "gloss": "以及在……的日子"
+      "gloss": "和在…之日"
     },
     {
       "surface": "הטהר",
@@ -54,13 +33,13 @@
     },
     {
       "surface": "תורת",
-      "gloss": "妥拉（訓誨）"
+      "gloss": "妥拉"
     },
     {
       "surface": "הצרעת",
-      "gloss": "痲瘋〈病〉"
+      "gloss": "痲瘋"
     }
   ],
-  "timestamp": "2026-10-16T05:01:46.614840158Z",
+  "timestamp": "2026-10-16T22:48:57.577150574Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "聽從聲音",
-      "rationale": "שמע בקול 直譯「聽……的聲音」，即聽從；中文保留「聲音」一詞"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "追上",
-      "rationale": "והשיגוך 字面「趕上、追捕」，咒詛被擬作追捕者，中文以「追上你」保留圖像"
-    }
-  ],
-  "translation": "你若不聽從雅威你以羅欣的聲音，謹守遵行他的一切誡命和律例，就是我今日吩咐你的，這一切咒詛就必臨到你身上，追上你：",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "d11719aa63fd31fbce0f707cee1bccf32c215b86e3fad413e2241fc9ef0e0879",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/28\/13-16.1792129163562.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你若不聽從雅威你以羅欣的聲音，謹守遵行他今日所吩咐你的一切誡命和律例，這一切咒詛就必臨到你，追上你。",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "你若"
+      "gloss": "⟨就必臨到⟩"
     },
     {
       "surface": "אם",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "תשמע",
-      "gloss": "你聽從"
+      "gloss": "聽從"
     },
     {
       "surface": "בקול",
@@ -67,7 +46,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他的一切誡命和律例"
+      "marks": "一切誡命"
     },
     {
       "surface": "כל",
@@ -75,15 +54,15 @@
     },
     {
       "surface": "מצותיו",
-      "gloss": "他的誡命"
+      "gloss": "誡命"
     },
     {
       "surface": "וחקתיו",
-      "gloss": "和他的律例"
+      "gloss": "和律例"
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "所"
     },
     {
       "surface": "אנכי",
@@ -103,7 +82,7 @@
     },
     {
       "surface": "עליך",
-      "gloss": "你身上"
+      "gloss": "到你身上"
     },
     {
       "surface": "כל",
@@ -115,13 +94,13 @@
     },
     {
       "surface": "האלה",
-      "gloss": "這"
+      "gloss": "這些"
     },
     {
       "surface": "והשיגוך",
       "gloss": "追上你"
     }
   ],
-  "timestamp": "2026-10-16T05:39:23.563911495Z",
+  "timestamp": "2026-10-16T22:14:41.772654053Z",
   "model": "glm-5.3"
 }

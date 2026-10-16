@@ -5,41 +5,15 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "מאחריו",
-      "rationale": "「從他後面轉回」直譯為「轉身離開他」，後綴代名詞併入動詞句中。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "צמד",
-      "rationale": "意為「一對（軛上的牛）」，譯作「一對牛」保留雙牛的畫面。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ויזבחהו",
-      "rationale": "動詞是獻祭用的「宰殺」（宰了），英語各譯本多作「slew」；字根帶祭祀色彩。"
-    }
-  ],
-  "translation": "他就轉身離開他，取了一對牛，宰了牠們，用牛的器具煮了肉，給百姓吃，他們就吃了。然後他起來，跟隨以利亞，服事他。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "5076565023418a7989232226fbb04f6024484b4fb81ebf6772c0f9504bc5aaea",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/19\/21-21.1792133237594.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他就從以利亞那裡轉身回來，取了 ⟨את⟩ 一對牛，宰了牠們，用牛的器具煮了 ⟨את⟩ 肉，給眾民，他們就吃了。然後他起來，跟隨以利亞，服事他。",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "他就轉身離開"
+      "gloss": "他就轉身回來"
     },
     {
       "surface": "מאחריו",
-      "gloss": "他"
+      "gloss": "從以利亞那裡"
     },
     {
       "surface": "ויקח",
@@ -64,11 +38,11 @@
     },
     {
       "surface": "ובכלי",
-      "gloss": "用……的器具"
+      "gloss": "用器具"
     },
     {
       "surface": "הבקר",
-      "gloss": "牛"
+      "gloss": "牛的"
     },
     {
       "surface": "בשלם",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "לעם",
-      "gloss": "百姓"
+      "gloss": "眾民"
     },
     {
       "surface": "ויאכלו",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "וילך",
-      "gloss": "跟隨而去"
+      "gloss": "跟隨去了"
     },
     {
       "surface": "אחרי",
@@ -111,6 +85,6 @@
       "gloss": "服事他"
     }
   ],
-  "timestamp": "2026-10-16T06:47:17.594659938Z",
+  "timestamp": "2026-10-16T21:58:15.504071381Z",
   "model": "glm-5.3"
 }

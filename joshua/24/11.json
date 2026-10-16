@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "zh-Hant",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "בעלי",
-      "rationale": "字面是「耶利哥的諸巴力／主人們」，即擁有者、居民，譯作「居民」而字面的「擁有」之意失落"
-    },
-    {
-      "kind": "measurement",
-      "subject": "七族名單",
-      "rationale": "七個民族依序排列——亞摩利、比利洗、迦南、赫、革迦撒、希未、耶布斯——完整數點迦南居民"
-    }
-  ],
-  "translation": "你們過了⟨את⟩約旦河，來到耶利哥；耶利哥的居民與你們爭戰——亞摩利人、比利洗人、迦南人、赫人、革迦撒人、希未人、耶布斯人——我就把他們交在你們手中。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "30f94f1314f824cfcb009c2b3c162da3cdf9baa668e0c621cbc524d409a5dda0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/24\/9-12.1792129996608.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你們過了 ⟨את⟩ 約旦河，來到耶利哥；耶利哥的居民與你們爭戰——亞摩利人、比利洗人、迦南人、赫人、革迦撒人、希未人、耶布斯人——我就把他們交在你們手中。",
   "tokens": [
     {
       "surface": "ותעברו",
-      "gloss": "過了"
+      "gloss": "你們過了"
     },
     {
       "surface": "את",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "בעלי",
-      "gloss": "居民"
+      "gloss": "的居民"
     },
     {
       "surface": "יריחו",
@@ -99,18 +78,18 @@
     },
     {
       "surface": "ואתן",
-      "gloss": "交"
+      "gloss": "我就…交"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "他們"
+      "gloss": "⟨את⟩他們",
+      "marks": "他們（交在你們手中）"
     },
     {
       "surface": "בידכם",
       "gloss": "在你們手中"
     }
   ],
-  "timestamp": "2026-10-16T05:53:16.609228091Z",
+  "timestamp": "2026-10-16T22:44:21.093744062Z",
   "model": "glm-5.3"
 }

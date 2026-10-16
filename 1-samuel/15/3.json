@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "חרם",
-      "rationale": "「滅絕歸獻」——完全毀滅、獻給雅威的禁物，各譯本作「滅絕」「盡行殺滅」"
-    },
-    {
-      "kind": "you",
-      "subject": "to Saul",
-      "rationale": "一連串命令式直接對掃羅發出"
-    },
-    {
-      "kind": "measurement",
-      "subject": "man to woman, infant to suckling, ox to ass",
-      "rationale": "從人到牲畜的完整清單，按類別逐項數算，語氣是徹底的總括"
-    }
-  ],
-  "translation": "現在你要去擊打亞瑪力，把 ⟨את⟩ 他所有的一切完全滅絕，不可憐惜他；要處死，從男人到女人、從嬰孩到吃奶的、從牛到羊、從駱駝到驢。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "515699c93f8316b01d7fa1de08c0bf88d896bf97bc4beb0b107cae6327e558f5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/15\/1-4.1792131139697.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "現在你要去，擊打 ⟨את⟩ 亞瑪力，把他一切所有的盡行滅絕歸給雅威，不可憐惜他；要將他們治死，從男人到女人，從嬰孩到吃奶的，從牛到羊，從駱駝到驢。」",
   "tokens": [
     {
       "surface": "עתה",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "לך",
-      "gloss": "你要去"
+      "gloss": "去"
     },
     {
       "surface": "והכיתה",
-      "gloss": "擊打"
+      "gloss": "你要擊打"
     },
     {
       "surface": "את",
@@ -56,12 +30,12 @@
     },
     {
       "surface": "והחרמתם",
-      "gloss": "完全滅絕"
+      "gloss": "盡行滅絕（赫雷姆）"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他所有的一切"
+      "marks": "一切所有的"
     },
     {
       "surface": "כל",
@@ -69,11 +43,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "所……的"
+      "gloss": "所有的"
     },
     {
       "surface": "לו",
-      "gloss": "他有"
+      "gloss": "他"
     },
     {
       "surface": "ולא",
@@ -89,7 +63,7 @@
     },
     {
       "surface": "והמתה",
-      "gloss": "要處死"
+      "gloss": "要治死"
     },
     {
       "surface": "מאיש",
@@ -140,6 +114,10 @@
       "gloss": "驢"
     }
   ],
-  "timestamp": "2026-10-16T06:12:19.699295219Z",
-  "model": "glm-5.3"
+  "timestamp": "2026-10-16T22:00:35.359987922Z",
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

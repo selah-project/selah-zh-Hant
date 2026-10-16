@@ -5,23 +5,7 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "חיות",
-      "rationale": "字面「活著」——她們在丈夫還活著時守寡；參撒下15:16與撒下16:22這十個妃嬪的遭遇"
-    }
-  ],
-  "translation": "大衛回到耶路撒冷自己的宮裡；王把那十個妃嬪，就是他留下看守宮殿的，帶進去，安置在看守的房裡供養她們，卻不再親近她們。她們就被禁閉直到死的日子，活著守寡。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a650965cb1b4a9357c105dd9ac74d0551fd62aea490fc82d800378b799b70a85",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/20\/1-4.1792132249805.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "大衛回到耶路撒冷自己的宮裡，王把那十個女子——他留下看守宮殿的妃嬪——帶走，安置在監護之屋，供養她們，卻不再親近她們。她們被幽禁直到死的日子，活著守寡。",
   "tokens": [
     {
       "surface": "ויבא",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "ביתו",
-      "gloss": "自己的宮"
+      "gloss": "自己的宮裡"
     },
     {
       "surface": "ירושלם",
@@ -45,7 +29,7 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "帶進去"
+      "gloss": "帶走"
     },
     {
       "surface": "המלך",
@@ -54,15 +38,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那十個妃嬪"
+      "marks": "那十個女子"
     },
     {
       "surface": "עשר",
-      "gloss": "十個"
+      "gloss": "十"
     },
     {
       "surface": "נשים",
-      "gloss": "…女子"
+      "gloss": "個女子"
     },
     {
       "surface": "פלגשים",
@@ -70,7 +54,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "——……的"
     },
     {
       "surface": "הניח",
@@ -86,15 +70,15 @@
     },
     {
       "surface": "ויתנם",
-      "gloss": "安置"
+      "gloss": "安置她們"
     },
     {
       "surface": "בית",
-      "gloss": "房"
+      "gloss": "之屋"
     },
     {
       "surface": "משמרת",
-      "gloss": "看守的"
+      "gloss": "監護"
     },
     {
       "surface": "ויכלכלם",
@@ -110,15 +94,15 @@
     },
     {
       "surface": "בא",
-      "gloss": "再…去"
+      "gloss": "再……去"
     },
     {
       "surface": "ותהיינה",
-      "gloss": "她們就"
+      "gloss": "她們被"
     },
     {
       "surface": "צררות",
-      "gloss": "被禁閉"
+      "gloss": "幽禁"
     },
     {
       "surface": "עד",
@@ -126,7 +110,7 @@
     },
     {
       "surface": "יום",
-      "gloss": "…的日子"
+      "gloss": "日子"
     },
     {
       "surface": "מתן",
@@ -141,6 +125,6 @@
       "gloss": "活著"
     }
   ],
-  "timestamp": "2026-10-16T06:30:49.807055978Z",
+  "timestamp": "2026-10-16T22:10:03.857407229Z",
   "model": "glm-5.3"
 }

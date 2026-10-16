@@ -5,89 +5,62 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "מתם",
-      "rationale": "מתם是מת的非標準寫法"
-    },
-    {
-      "kind": "crux",
-      "subject": "מתם",
-      "rationale": "'男人'（מת的異體）或'人口'；七十士譯本譯為 '城邑'，可能讀作מתים"
-    },
-    {
-      "kind": "translation",
-      "subject": "טף",
-      "rationale": "טף字面意思是'快速移動的小腳'，指幼小的孩童"
-    },
-    {
-      "kind": "prediction",
-      "subject": "חרם",
-      "rationale": "將……全然毀滅，是照申命記二十章命令的戰爭條例"
-    }
-  ],
-  "translation": "我們將他們全然滅絕〈אותם〉，正如我們對希實本王西宏所行的那樣，將每一座城盡行毀滅——包括男人、女人和孩童。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "7fdecd3e31d39c3a581d97a4227d29da53af390a76e2be05ab0fb479a279ce31",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/3\/5-8.1792128502037.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我們將他們盡行毀滅⟨את⟩，正如我們對希實本王西宏所行的；我們把每一座城都盡行毀滅，連男丁、婦女和孩童。",
   "tokens": [
     {
-      "surface": "וינחרם",
-      "gloss": "我們將他們全然滅絕"
+      "surface": "וַנַּחֲרֵם",
+      "gloss": "我們將……盡行毀滅"
     },
     {
-      "surface": "אותם",
-      "gloss": "⟨את⟩ 〈אותם〉",
+      "surface": "אוֹתָם",
+      "gloss": "⟨את⟩",
       "marks": "他們"
     },
     {
-      "surface": "כאשר",
+      "surface": "כַּאֲשֶׁר",
       "gloss": "正如"
     },
     {
-      "surface": "עשינו",
+      "surface": "עָשִׂינוּ",
       "gloss": "我們所行的"
     },
     {
-      "surface": "לסיחן",
+      "surface": "לְסִיחֹן",
       "gloss": "對西宏"
     },
     {
-      "surface": "מלך",
+      "surface": "מֶלֶךְ",
       "gloss": "王"
     },
     {
-      "surface": "חשבון",
+      "surface": "חֶשְׁבּוֹן",
       "gloss": "希實本"
     },
     {
-      "surface": "כל",
-      "gloss": "每一座"
+      "surface": "הַחֲרֵם",
+      "gloss": "盡行毀滅"
     },
     {
-      "surface": "עיר",
-      "gloss": "城"
+      "surface": "כָּל",
+      "gloss": "每一"
     },
     {
-      "surface": "מתם",
-      "gloss": "男人"
+      "surface": "עִיר",
+      "gloss": "座城"
     },
     {
-      "surface": "הנשים",
-      "gloss": "女人"
+      "surface": "מְתִם",
+      "gloss": "男丁"
     },
     {
-      "surface": "והטף",
+      "surface": "הַנָּשִׁים",
+      "gloss": "婦女"
+    },
+    {
+      "surface": "וְהַטָּף",
       "gloss": "和孩童"
     }
   ],
-  "timestamp": "2026-10-16T05:28:22.038218571Z",
+  "timestamp": "2026-10-16T22:14:44.609518133Z",
   "model": "glm-5.3"
 }

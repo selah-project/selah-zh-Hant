@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "קצץ 的受詞",
-      "rationale": "欽定本讀作剝下金子（補「金子」），楊直譯本讀作砍下門扇本身；希伯來文只說「砍下殿的門扇和柱子」"
-    },
-    {
-      "kind": "substitution",
-      "subject": "剝下來",
-      "rationale": "קצץ直譯「砍下、砍斷」，經文未明言「金子」，中譯依欽定本線補足語境"
-    }
-  ],
-  "translation": "在那時候，希西家將雅威殿門扇上的金子，和他所包在柱子上的、猶大王希西家所包裹的，都剝下來給了亞述王。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "43c029305de39882329eef63c978ccf8794fea6d3bbac64af55232c566b08ba1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/18\/13-16.1792134052989.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "在那時候，希西家砍下 ⟨את⟩ 雅威殿的門扇，以及 ⟨את⟩ 猶大王希西家所包上⟨的金屬⟩的門柱，把它們交給亞述王。",
   "tokens": [
     {
       "surface": "בעת",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "קצץ",
-      "gloss": "剝下來"
+      "gloss": "砍下"
     },
     {
       "surface": "חזקיה",
@@ -47,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "殿的門扇"
+      "marks": "門扇"
     },
     {
       "surface": "דלתות",
@@ -63,20 +42,20 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "柱子"
+      "gloss": "以及 ⟨את⟩",
+      "marks": "門柱"
     },
     {
       "surface": "האמנות",
-      "gloss": "柱子"
+      "gloss": "門柱"
     },
     {
       "surface": "אשר",
-      "gloss": "……的"
+      "gloss": "所"
     },
     {
       "surface": "צפה",
-      "gloss": "包裹"
+      "gloss": "包上"
     },
     {
       "surface": "חזקיה",
@@ -92,7 +71,7 @@
     },
     {
       "surface": "ויתנם",
-      "gloss": "給了它們"
+      "gloss": "把它們交給"
     },
     {
       "surface": "למלך",
@@ -103,6 +82,6 @@
       "gloss": "亞述"
     }
   ],
-  "timestamp": "2026-10-16T07:00:52.991212351Z",
+  "timestamp": "2026-10-16T22:06:04.459347228Z",
   "model": "glm-5.3"
 }

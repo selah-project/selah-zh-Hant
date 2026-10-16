@@ -5,23 +5,7 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "括註「神」",
-      "rationale": "以羅欣單元內首次出現，依名號表加括註"
-    }
-  ],
-  "translation": "雅威你們的以羅欣（神）在你們前面行走的那一位，他必為你們爭戰，照他在埃及向你們所行的一切，都在你們眼前。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "24856895e3615141ed8770ddf4ecb3ca6047a0570a2b7472aca82ecb9169ab06",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/1\/29-32.1792128520581.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威你們的以羅欣親自走在你們前面，他要為你們爭戰，正如他在埃及在你們眼前為你們所行的一切事，都是 ⟨את⟩ 你們⟨所見證的⟩。",
   "tokens": [
     {
       "surface": "יהוה",
@@ -29,23 +13,23 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "你們的以羅欣（神）"
+      "gloss": "你們的以羅欣"
     },
     {
       "surface": "ההלך",
-      "gloss": "行走的（那一位）"
+      "gloss": "走在……前面的"
     },
     {
       "surface": "לפניכם",
-      "gloss": "在你們前面"
+      "gloss": "在你們面前"
     },
     {
       "surface": "הוא",
-      "gloss": "他"
+      "gloss": "他自己"
     },
     {
       "surface": "ילחם",
-      "gloss": "必爭戰"
+      "gloss": "他要爭戰"
     },
     {
       "surface": "לכם",
@@ -53,19 +37,20 @@
     },
     {
       "surface": "ככל",
-      "gloss": "照……的一切"
+      "gloss": "照一切"
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "所……的事"
     },
     {
       "surface": "עשה",
-      "gloss": "行"
+      "gloss": "行了"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩你們"
+      "gloss": "⟨את⟩ 你們",
+      "marks": "你們"
     },
     {
       "surface": "במצרים",
@@ -76,6 +61,6 @@
       "gloss": "在你們眼前"
     }
   ],
-  "timestamp": "2026-10-16T05:28:40.582079934Z",
+  "timestamp": "2026-10-16T22:12:34.388780299Z",
   "model": "glm-5.3"
 }

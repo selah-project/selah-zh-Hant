@@ -5,90 +5,69 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "השיגה ידו",
-      "rationale": "直譯「他的手夠到了」，即能力所及；中文以〈夠〉字補足語意"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "דדו…יגאלנו",
-      "rationale": "「贖」字三次重複，希伯來文贖回（גאל）親屬法的節奏，中文保留重複"
-    }
-  ],
-  "translation": "或他的叔伯，或叔伯的兒子，可以贖他；或是他骨肉之親、屬他家族的人，可以贖他；或是他自己的手〈夠〉了，就要〈被〉贖出來。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "125238ef727bdb1afe699b3eac5f861741687a04759881d9709f19a8507537f6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/25\/49-52.1792127326167.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "或是他的叔伯，或是他叔伯的兒子，可以贖他；或是他骨肉之親、屬他家族的人，可以贖他；或是他的手〈夠得著〉了，他就可以〈贖回自己〉。",
   "tokens": [
     {
-      "surface": "או",
-      "gloss": "或"
+      "surface": "אוֹ",
+      "gloss": "或是"
     },
     {
-      "surface": "דדו",
+      "surface": "דֹדוֹ",
       "gloss": "他的叔伯"
     },
     {
-      "surface": "או",
-      "gloss": "或"
+      "surface": "אוֹ",
+      "gloss": "或是"
     },
     {
-      "surface": "בן",
+      "surface": "בֵּן",
       "gloss": "兒子"
     },
     {
-      "surface": "דדו",
-      "gloss": "他的叔伯"
+      "surface": "דֹּדוֹ",
+      "gloss": "他叔伯的"
     },
     {
-      "surface": "יגאלנו",
+      "surface": "יִגְאָלֶנּוּ",
       "gloss": "可以贖他"
     },
     {
-      "surface": "או",
-      "gloss": "或"
+      "surface": "אוֹ",
+      "gloss": "或是"
     },
     {
-      "surface": "משאר",
-      "gloss": "親屬"
+      "surface": "מִשְּׁאֵר",
+      "gloss": "之親"
     },
     {
-      "surface": "בשרו",
-      "gloss": "他骨肉之親"
+      "surface": "בְּשָׂרוֹ",
+      "gloss": "他骨肉"
     },
     {
-      "surface": "ממשפחתו",
+      "surface": "מִמִּשְׁפַּחְתּוֹ",
       "gloss": "屬他家族的"
     },
     {
-      "surface": "יגאלנו",
+      "surface": "יִגְאָלֶנּוּ",
       "gloss": "可以贖他"
     },
     {
-      "surface": "או",
-      "gloss": "或"
+      "surface": "אוֹ",
+      "gloss": "或是"
     },
     {
-      "surface": "השיגה",
-      "gloss": "〈夠〉了"
+      "surface": "הִשִּׂיגָה",
+      "gloss": "〈夠得著〉"
     },
     {
-      "surface": "ידו",
-      "gloss": "他自己的手"
+      "surface": "יָדוֹ",
+      "gloss": "他的手"
     },
     {
-      "surface": "ונגאל",
-      "gloss": "就要被贖出來"
+      "surface": "וְנִגְאָל",
+      "gloss": "他就可以〈贖回自己〉"
     }
   ],
-  "timestamp": "2026-10-16T05:08:46.167775683Z",
+  "timestamp": "2026-10-16T22:50:20.157695792Z",
   "model": "glm-5.3"
 }

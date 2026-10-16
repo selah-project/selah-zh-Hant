@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בן המרצח",
-      "rationale": "「這殺人犯的兒子」——傳統讀法指約蘭是（耶洗別殺害眾先知的）兇手之子；亦有譯作「這殺人犯本人」"
-    },
-    {
-      "kind": "you",
-      "subject": "to the elders",
-      "rationale": "以利沙直接對屋內的長老們說話，一連串命令"
-    },
-    {
-      "kind": "invitation",
-      "subject": "הראיתם \/ ראו",
-      "rationale": "兩個「看」的命令式喚起聽者的注意"
-    }
-  ],
-  "translation": "以利沙正坐在自己家裡，長老們也與 ⟨אתו⟩ 他同坐；王從他面前打發一個人去。使者還未到他那裡，以利沙就對長老們說：「你們看見了嗎？這殺人犯的兒子打發人來要取 ⟨את⟩ 我的頭。你們看著，使者一到，就關上門，把他擋在門後——不是有他主的腳步聲在他後面嗎？」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "5a46683d16cb1c94bb415f65bf1e56f315c8a2067167e163fd1d71a9cc4a6c4e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/6\/29-32.1792133686081.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "那時以利沙正坐在自己家裡，眾長老與⟨את⟩他同坐；王從自己面前差遣一人去。信使還未到他那裡，他正對長老們說：「你們看見了嗎？這殺人者的兒子差人來，要除掉 ⟨את⟩ 我的頭。你們看，信使一到，就關上門，把他⟨את⟩緊壓在門後。他主人的腳步聲不是在他後面嗎？」",
   "tokens": [
     {
       "surface": "ואלישע",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "ישב",
-      "gloss": "正坐"
+      "gloss": "坐"
     },
     {
       "surface": "בביתו",
@@ -47,27 +21,27 @@
     },
     {
       "surface": "והזקנים",
-      "gloss": "長老們"
+      "gloss": "眾長老"
     },
     {
       "surface": "ישבים",
-      "gloss": "也坐著"
+      "gloss": "坐"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩ 與他同坐"
+      "gloss": "與⟨את⟩他"
     },
     {
       "surface": "וישלח",
-      "gloss": "打發"
+      "gloss": "差遣"
     },
     {
       "surface": "איש",
-      "gloss": "一個人"
+      "gloss": "一人"
     },
     {
       "surface": "מלפניו",
-      "gloss": "從他面前"
+      "gloss": "從自己面前"
     },
     {
       "surface": "בטרם",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "המלאך",
-      "gloss": "使者"
+      "gloss": "信使"
     },
     {
       "surface": "אליו",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "והוא",
-      "gloss": "他（以利沙）"
+      "gloss": "他"
     },
     {
       "surface": "אמר",
@@ -107,19 +81,19 @@
     },
     {
       "surface": "כי",
-      "gloss": "嗎（引導子句）"
+      "gloss": "嗎"
     },
     {
       "surface": "שלח",
-      "gloss": "打發人來"
+      "gloss": "差人來"
     },
     {
       "surface": "בן",
-      "gloss": "的兒子"
+      "gloss": "兒子"
     },
     {
       "surface": "המרצח",
-      "gloss": "殺人犯"
+      "gloss": "殺人者"
     },
     {
       "surface": "הזה",
@@ -127,7 +101,7 @@
     },
     {
       "surface": "להסיר",
-      "gloss": "要取"
+      "gloss": "要除掉"
     },
     {
       "surface": "את",
@@ -140,7 +114,7 @@
     },
     {
       "surface": "ראו",
-      "gloss": "你們看著"
+      "gloss": "你們看"
     },
     {
       "surface": "כבא",
@@ -148,11 +122,11 @@
     },
     {
       "surface": "המלאך",
-      "gloss": "使者"
+      "gloss": "信使"
     },
     {
       "surface": "סגרו",
-      "gloss": "就關上"
+      "gloss": "關上"
     },
     {
       "surface": "הדלת",
@@ -160,11 +134,12 @@
     },
     {
       "surface": "ולחצתם",
-      "gloss": "把他擋住"
+      "gloss": "緊壓"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩ 他"
+      "gloss": "⟨את⟩他",
+      "marks": "他（在門後）"
     },
     {
       "surface": "בדלת",
@@ -172,7 +147,7 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "不是……嗎"
+      "gloss": "不是…嗎"
     },
     {
       "surface": "קול",
@@ -180,17 +155,17 @@
     },
     {
       "surface": "רגלי",
-      "gloss": "……的腳步"
+      "gloss": "腳步"
     },
     {
       "surface": "אדניו",
-      "gloss": "他的主"
+      "gloss": "他主人"
     },
     {
       "surface": "אחריו",
       "gloss": "在他後面"
     }
   ],
-  "timestamp": "2026-10-16T06:54:46.082503515Z",
+  "timestamp": "2026-10-16T22:08:19.259394762Z",
   "model": "glm-5.3"
 }

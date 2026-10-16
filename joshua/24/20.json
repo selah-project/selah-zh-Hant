@@ -5,33 +5,7 @@
   "book": "joshua",
   "lang": "zh-Hant",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈蒙恩〉",
-      "rationale": "「在你們之後滅盡你們」語序直譯生硬；中文以「在你們之後」意指在你們〈存在／蒙恩〉之後，補一詞成句"
-    },
-    {
-      "kind": "alternative",
-      "subject": "ושב והרע",
-      "rationale": "「轉回降禍」亦可讀作一個片語「轉而以惡待你們」；字面「轉回」保留雅威轉面的圖像"
-    },
-    {
-      "kind": "you",
-      "subject": "對百姓",
-      "rationale": "約書亞的警告直接指向會眾的將來"
-    }
-  ],
-  "translation": "你們若離棄⟨את⟩雅威，去事奉外邦的神明，他必轉回降禍給你們，在你們〈蒙恩〉之後滅盡你們——在他善待了你們之後。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ddfa6e961e9ee9ac254b2062ec70179d9df427332086c57aceced4a5edc15e70",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/24\/17-20.1792130069156.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你們若離棄 ⟨את⟩ 雅威，事奉外族的神明，他必轉回降禍給你們，在你們行善之後滅絕 ⟨אתם⟩ 你們。",
   "tokens": [
     {
       "surface": "כי",
@@ -52,15 +26,15 @@
     },
     {
       "surface": "ועבדתם",
-      "gloss": "又事奉"
+      "gloss": "事奉"
     },
     {
       "surface": "אלהי",
-      "gloss": "…的神明"
+      "gloss": "的神明"
     },
     {
       "surface": "נכר",
-      "gloss": "外邦"
+      "gloss": "外族"
     },
     {
       "surface": "ושב",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "והרע",
-      "gloss": "又降禍"
+      "gloss": "降禍"
     },
     {
       "surface": "לכם",
@@ -76,30 +50,30 @@
     },
     {
       "surface": "וכלה",
-      "gloss": "又滅盡"
+      "gloss": "滅絕"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨אתם⟩ 你們",
       "marks": "你們"
     },
     {
       "surface": "אחרי",
-      "gloss": "在…之後"
+      "gloss": "在……之後"
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "היטיב",
-      "gloss": "他善待了"
+      "gloss": "他行善"
     },
     {
       "surface": "לכם",
-      "gloss": "你們"
+      "gloss": "給你們"
     }
   ],
-  "timestamp": "2026-10-16T05:54:29.157507120Z",
+  "timestamp": "2026-10-16T22:44:20.178774262Z",
   "model": "glm-5.3"
 }

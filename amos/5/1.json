@@ -5,32 +5,11 @@
   "book": "amos",
   "lang": "zh-Hant",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "你們要聽",
-      "rationale": "開篇命令式召喚聽者，對以色列家發言"
-    },
-    {
-      "kind": "you",
-      "subject": "以色列家",
-      "rationale": "直接稱呼以色列家"
-    }
-  ],
-  "translation": "以色列家啊，你們要聽這話，就是我在你們身上所舉起的哀歌：",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "0747e184dfb0936586976f2fd2c2bcda4730dfd3f58533d77205d198cf4c004c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/amos\/5\/1-4.1792139810885.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "以色列家啊，要聽 ⟨את⟩ 這話，就是我所舉起攻擊你們的哀歌。",
   "tokens": [
     {
       "surface": "שמעו",
-      "gloss": "你們要聽"
+      "gloss": "要聽"
     },
     {
       "surface": "את",
@@ -39,7 +18,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "話"
+      "gloss": "這話"
     },
     {
       "surface": "הזה",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "עליכם",
-      "gloss": "在你們身上"
+      "gloss": "攻擊你們"
     },
     {
       "surface": "קינה",
@@ -74,6 +53,6 @@
       "gloss": "以色列"
     }
   ],
-  "timestamp": "2026-10-16T08:36:50.886349524Z",
+  "timestamp": "2026-10-16T22:11:58.896030805Z",
   "model": "glm-5.3"
 }

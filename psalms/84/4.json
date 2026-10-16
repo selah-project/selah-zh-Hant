@@ -5,42 +5,11 @@
   "book": "psalms",
   "lang": "zh-Hant",
   "chapter": 84,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "旁",
-      "rationale": "原文僅「你的祭壇」，中文需方位詞表明靠近之處"
-    },
-    {
-      "kind": "elision",
-      "subject": "את",
-      "rationale": "此處 את 懸置未帶明確受詞結構，經文殘缺，按 ketiv 原樣對齊而不加標記"
-    },
-    {
-      "kind": "crux",
-      "subject": "את מזבחותיך",
-      "rationale": "懸置的 את 使句子中斷：你的祭壇是安放雛鳥之處，還是呼格中的驚嘆（和合本、KJV 作同位語）"
-    },
-    {
-      "kind": "hapax",
-      "subject": "דרור",
-      "rationale": "דרור 作「燕子」僅出現於此與詩 84:4 平行處"
-    }
-  ],
-  "translation": "連雀鳥也找到了房屋，燕子也為自己找到了窩，雛鳥安放之處——就在你的祭壇旁，萬軍之雅威啊，我的王，我的以羅欣。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "42619b0de5adba051065e14ed0a53cdec0bccc3f60a1a47223f16a13443d3977",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/84\/4-4.1792149898607.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "連雀鳥也尋得了房屋，燕子也為自己安置了雛鳥的巢——就在 ⟨את⟩ 你〈的〉祭壇旁，萬軍之雅威，我的王，我的以羅欣。",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "連……也"
+      "gloss": "連"
     },
     {
       "surface": "צפור",
@@ -48,7 +17,7 @@
     },
     {
       "surface": "מצאה",
-      "gloss": "找到了"
+      "gloss": "尋得了"
     },
     {
       "surface": "בית",
@@ -60,7 +29,7 @@
     },
     {
       "surface": "קן",
-      "gloss": "窩"
+      "gloss": "巢"
     },
     {
       "surface": "לה",
@@ -68,11 +37,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "之處"
+      "gloss": "在那裡"
     },
     {
       "surface": "שתה",
-      "gloss": "安放"
+      "gloss": "安置了"
     },
     {
       "surface": "אפרחיה",
@@ -81,11 +50,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": ""
+      "marks": "你〈的〉祭壇"
     },
     {
       "surface": "מזבחותיך",
-      "gloss": "你的祭壇"
+      "gloss": "你〈的〉祭壇"
     },
     {
       "surface": "יהוה",
@@ -104,6 +73,6 @@
       "gloss": "我的以羅欣"
     }
   ],
-  "timestamp": "2026-10-16T11:24:58.608379068Z",
+  "timestamp": "2026-10-16T22:59:34.412247782Z",
   "model": "glm-5.3"
 }

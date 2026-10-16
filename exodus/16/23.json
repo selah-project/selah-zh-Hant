@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שבתון שבת",
-      "rationale": "同根詞疊用：「完全安息、聖安息日」，強調安息的完整性"
-    },
-    {
-      "kind": "you",
-      "subject": "對以色列的首領",
-      "rationale": "摩西直接向會眾首領說話"
-    }
-  ],
-  "translation": "摩西對他們說：「這就是雅威所說的：明天是向雅威守的安息，是聖安息日。要烤的，今天烤；要煮的，今天煮； ⟨את⟩ 所剩下的，你們要留到早晨保存。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "f3faeac6ea985d33457ecd8b267d935cdef99f4885a3f069d1cb53bdefbdafd5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/16\/21-24.1792126017087.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "摩西對他們說：「這就是雅威所說的話：明天是安息之安息日，是歸雅威的聖安息。你們要烤的，⟨את⟩ 今天就烤；要煮的，今天就煮；⟨את⟩ 剩下的一切，都要為你們留下保存，直到早晨。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "所說的"
+      "gloss": "所說的話"
     },
     {
       "surface": "יהוה",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "שבתון",
-      "gloss": "安息"
+      "gloss": "安息之"
     },
     {
       "surface": "שבת",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "向雅威"
+      "gloss": "歸雅威"
     },
     {
       "surface": "מחר",
@@ -75,15 +54,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "所剩下的"
+      "marks": "你們要烤的（אשר）"
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "（那）你們要烤的"
     },
     {
       "surface": "תאפו",
-      "gloss": "要烤的"
+      "gloss": "要烤"
     },
     {
       "surface": "אפו",
@@ -92,15 +71,15 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "要煮的"
+      "marks": "要煮的（אשר）"
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "（那）你們要煮的"
     },
     {
       "surface": "תבשלו",
-      "gloss": "要煮的"
+      "gloss": "要煮"
     },
     {
       "surface": "בשלו",
@@ -109,11 +88,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "全部所剩下的"
+      "marks": "剩下的一切（כל העדף）"
     },
     {
       "surface": "כל",
-      "gloss": "全部"
+      "gloss": "一切"
     },
     {
       "surface": "העדף",
@@ -121,11 +100,11 @@
     },
     {
       "surface": "הניחו",
-      "gloss": "要留"
+      "gloss": "要留下"
     },
     {
       "surface": "לכם",
-      "gloss": "你們"
+      "gloss": "為你們"
     },
     {
       "surface": "למשמרת",
@@ -140,6 +119,6 @@
       "gloss": "早晨"
     }
   ],
-  "timestamp": "2026-10-16T04:46:57.088512797Z",
+  "timestamp": "2026-10-16T22:18:11.526826021Z",
   "model": "glm-5.3"
 }

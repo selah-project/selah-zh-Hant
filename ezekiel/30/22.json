@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "הנני אל פרעה",
-      "rationale": "字面「看哪，我向法老」；慣用語意為「我與他為敵、臨到他」。"
-    },
-    {
-      "kind": "crux",
-      "subject": "那有力的和那已折斷的",
-      "rationale": "指法老的雙臂——先前已折的一臂（30:21）與尚有力的一臂；譯者或作單臂或作雙臂。"
-    }
-  ],
-  "translation": "因此，主阿多奈、雅威如此說：看哪，我與埃及王法老為敵，必折斷他的膀臂，就是那有力的和那已折斷的，並使刀劍從他手中墜落。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "31b3e1482e918f00fc874357b540115985ed29e47bacfcd3acc6d32c690f0581",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/30\/21-24.1792138780292.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "因此，阿多奈雅威如此說：看哪，我與埃及王法老為敵，我必折斷他的雙臂——⟨את⟩ 強壯的那臂，和 ⟨את⟩ 已折斷的那臂——並使刀劍從他手中墜落。",
   "tokens": [
     {
       "surface": "לכן",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "הנני",
-      "gloss": "看哪，我"
+      "gloss": "看哪，我在這裡"
     },
     {
       "surface": "אל",
-      "gloss": "臨到（與……為敵）"
+      "gloss": "與……為敵（原文：對著）"
     },
     {
       "surface": "פרעה",
@@ -75,29 +54,29 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他的膀臂"
+      "marks": "他的雙臂"
     },
     {
       "surface": "זרעתיו",
-      "gloss": "他的膀臂（複數）"
+      "gloss": "他的雙臂"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那有力的"
+      "marks": "強壯的那臂"
     },
     {
       "surface": "החזקה",
-      "gloss": "那有力的"
+      "gloss": "強壯的那臂"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "那已折斷的"
+      "marks": "已折斷的那臂"
     },
     {
       "surface": "הנשברת",
-      "gloss": "那已折斷的"
+      "gloss": "已折斷的那臂"
     },
     {
       "surface": "והפלתי",
@@ -117,6 +96,6 @@
       "gloss": "從他手中"
     }
   ],
-  "timestamp": "2026-10-16T08:19:40.293782969Z",
+  "timestamp": "2026-10-16T22:24:10.033914574Z",
   "model": "glm-5.3"
 }

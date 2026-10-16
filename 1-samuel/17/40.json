@@ -5,44 +5,23 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "五塊光滑的石子",
-      "rationale": "具體數目——五塊，從溪中挑選"
-    },
-    {
-      "kind": "substitution",
-      "subject": "投石帶",
-      "rationale": "קלע即投石器（甩石索），譯作「投石帶」取其帶狀之形"
-    }
-  ],
-  "translation": "他手中拿著他的杖，又為自己從溪中挑選了五塊光滑的石子，放進他隨身的牧人袋裡，就是那行囊裡；手中拿著投石帶，就走近那非利士人。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "91409f6713b3f633e1cdce9609014cda832ee4d807e53961cee60bc9545922a6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/17\/37-40.1792131232056.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他手中拿了杖，為自己從溪谷中挑選了五塊光滑的石頭，放⟨את⟩它們在牧人的袋子裡，就是他那隨身的袋囊，機弦也在他手中；他就近前來，向那非利士人。",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "拿"
+      "gloss": "拿了"
     },
     {
       "surface": "מקלו",
-      "gloss": "他的杖"
+      "gloss": "杖"
     },
     {
       "surface": "בידו",
-      "gloss": "在手中"
+      "gloss": "手中"
     },
     {
       "surface": "ויבחר",
-      "gloss": "挑選"
+      "gloss": "挑選了"
     },
     {
       "surface": "לו",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "אבנים",
-      "gloss": "石子"
+      "gloss": "石頭"
     },
     {
       "surface": "מן",
@@ -66,20 +45,20 @@
     },
     {
       "surface": "הנחל",
-      "gloss": "溪"
+      "gloss": "溪谷"
     },
     {
       "surface": "וישם",
-      "gloss": "放進"
+      "gloss": "放"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "它們（五塊石子）"
+      "marks": "它們（五塊光滑的石頭）"
     },
     {
       "surface": "בכלי",
-      "gloss": "在……袋裡"
+      "gloss": "在…袋子裡"
     },
     {
       "surface": "הרעים",
@@ -91,23 +70,23 @@
     },
     {
       "surface": "לו",
-      "gloss": "他隨身的"
+      "gloss": "他的"
     },
     {
       "surface": "ובילקוט",
-      "gloss": "在那行囊裡"
+      "gloss": "袋囊"
     },
     {
       "surface": "וקלעו",
-      "gloss": "他的投石帶"
+      "gloss": "機弦"
     },
     {
       "surface": "בידו",
-      "gloss": "在手中"
+      "gloss": "手中"
     },
     {
       "surface": "ויגש",
-      "gloss": "走近"
+      "gloss": "近前來"
     },
     {
       "surface": "אל",
@@ -118,6 +97,6 @@
       "gloss": "那非利士人"
     }
   ],
-  "timestamp": "2026-10-16T06:13:52.058170058Z",
+  "timestamp": "2026-10-16T22:00:54.071199189Z",
   "model": "glm-5.3"
 }

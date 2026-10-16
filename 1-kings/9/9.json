@@ -5,44 +5,23 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "神明",
-      "rationale": "באלהים אחרים 指別神，依 D1 用「神明」，不用聖名位置的「神」"
-    },
-    {
-      "kind": "addition",
-      "subject": "（那一位）",
-      "rationale": "中文關係句需要「就是……的那一位」來承接 אשר"
-    }
-  ],
-  "translation": "他們必回答：「因他們離棄了 ⟨את⟩ 雅威他們的以羅欣，就是那曾領他們列祖出埃及地的；他們抓住別的神明，向牠們下拜，又事奉牠們——因此雅威使這一切的災禍臨到他們身上。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "83c105468cb03b4b62e29e5cfd3777ca43e5ea82f11da8090585f6c89da39106",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/9\/9-12.1792132819296.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "人必回答說：「因為他們離棄了 ⟨את⟩ 雅威──他們的以羅欣，就是曾領他們列祖出埃及地的那一位；他們抓住別的神明，向它們下拜，事奉它們；因此雅威使這一切災禍臨到他們身上。」",
   "tokens": [
     {
       "surface": "ואמרו",
-      "gloss": "他們必回答"
+      "gloss": "人必回答說"
     },
     {
       "surface": "על",
-      "gloss": "因"
+      "gloss": "因為"
     },
     {
       "surface": "אשר",
-      "gloss": "……的緣故"
+      "gloss": "──"
     },
     {
       "surface": "עזבו",
-      "gloss": "離棄了"
+      "gloss": "他們離棄了"
     },
     {
       "surface": "את",
@@ -59,24 +38,24 @@
     },
     {
       "surface": "אשר",
-      "gloss": "（那一位）"
+      "gloss": "就是……的那一位"
     },
     {
       "surface": "הוציא",
-      "gloss": "領……出"
+      "gloss": "曾領……出"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他們的列祖"
+      "marks": "他們列祖"
     },
     {
       "surface": "אבתם",
-      "gloss": "他們的列祖"
+      "gloss": "他們列祖"
     },
     {
       "surface": "מארץ",
-      "gloss": "出……地"
+      "gloss": "地"
     },
     {
       "surface": "מצרים",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "ויחזקו",
-      "gloss": "抓住"
+      "gloss": "他們抓住了"
     },
     {
       "surface": "באלהים",
@@ -96,27 +75,27 @@
     },
     {
       "surface": "וישתחו",
-      "gloss": "下拜"
+      "gloss": "向它們下拜"
     },
     {
       "surface": "להם",
-      "gloss": "向牠們"
+      "gloss": "它們"
     },
     {
       "surface": "ויעבדם",
-      "gloss": "事奉牠們"
+      "gloss": "事奉它們"
     },
     {
       "surface": "על",
-      "gloss": "因"
+      "gloss": "因此"
     },
     {
       "surface": "כן",
-      "gloss": "此"
+      "gloss": "──"
     },
     {
       "surface": "הביא",
-      "gloss": "使臨到"
+      "gloss": "使……臨到"
     },
     {
       "surface": "יהוה",
@@ -124,16 +103,16 @@
     },
     {
       "surface": "עליהם",
-      "gloss": "到他們身上"
+      "gloss": "在他們身上"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "這一切的災禍"
+      "marks": "這一切災禍"
     },
     {
       "surface": "כל",
-      "gloss": "一切"
+      "gloss": "這一切"
     },
     {
       "surface": "הרעה",
@@ -144,6 +123,6 @@
       "gloss": "這"
     }
   ],
-  "timestamp": "2026-10-16T06:40:19.297741954Z",
+  "timestamp": "2026-10-16T21:59:55.242580750Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "isaiah",
   "lang": "zh-Hant",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈是〉針對",
-      "rationale": "希伯來文אל在此意「針對／控告」，中文需補足語法連接"
-    },
-    {
-      "kind": "crux",
-      "subject": "אל סנחריב",
-      "rationale": "英譯分歧：KJV「against」對比BSB「concerning」；אל可作「針對」或「論及」"
-    }
-  ],
-  "translation": "亞摩斯的兒子以賽亞就打發人去見希西家，說：雅威以色列的以羅欣如此說：你向我祈求，〈是〉針對亞述王西拿基立——",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "f8f297290b9e9191202dd13d6019d168b19d9429db186b525a754d86478de090",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/37\/21-24.1792135336042.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "於是亞摩斯的兒子以賽亞差人去見希西家，對他說：「雅威——以色列的以羅欣——如此說：你向我〈所〉禱告、〈論及〉亞述王西拿基立的〈那些話〉，",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "打發人去"
+      "gloss": "於是…差遣"
     },
     {
       "surface": "ישעיהו",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "說"
+      "gloss": "對他說"
     },
     {
       "surface": "כה",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "以羅欣"
+      "gloss": "的以羅欣"
     },
     {
       "surface": "ישראל",
@@ -78,11 +57,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "〈關於〉"
+      "gloss": "〈所〉"
     },
     {
       "surface": "התפללת",
-      "gloss": "你祈求"
+      "gloss": "你禱告"
     },
     {
       "surface": "אלי",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "針對"
+      "gloss": "〈論及〉"
     },
     {
       "surface": "סנחריב",
@@ -105,6 +84,6 @@
       "gloss": "亞述"
     }
   ],
-  "timestamp": "2026-10-16T07:22:16.042879598Z",
+  "timestamp": "2026-10-16T22:34:45.132951826Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "joshua",
   "lang": "zh-Hant",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "הגד הגד",
-      "rationale": "不定詞絕對式重疊，加強語氣「確實告訴了」，中文以副詞補足"
-    },
-    {
-      "kind": "substitution",
-      "subject": "性命",
-      "rationale": "נפש是氣息、生命之力，非不朽的靈魂"
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "關係代名詞融入中文「所……的」結構，不單獨成詞"
-    }
-  ],
-  "translation": "他們回答 ⟨את⟩ 約書亞說：「因為有人確實告訴你的僕人們，雅威——你的以羅欣——曾吩咐 ⟨את⟩ 他的僕人摩西，把你們所要得的全地賜給你們，並在你們面前滅絕 ⟨את⟩ 這地的一切居民，所以我們為自己的性命大大懼怕你們，就做了 ⟨את⟩ 這事。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c27bc578a133c57897222f7a932ad2ac4a3790ba05e4d360a76e226b373304c6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/9\/21-24.1792129597390.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們回答約書亞說：「因為有人確確實實告訴你僕人們，雅威——你的以羅欣——曾吩咐 ⟨את⟩ 他的僕人摩西，要把 ⟨את⟩ 全地賜給你們，又要在你們面前除滅 ⟨את⟩ 全地的居民，所以我們極其懼怕，為我們的性命 ⟨因著⟩ 你們；我們就做了 ⟨את⟩ 這事。」",
   "tokens": [
     {
       "surface": "ויענו",
-      "gloss": "他們回答"
+      "gloss": "回答"
     },
     {
       "surface": "את",
@@ -56,20 +30,20 @@
     },
     {
       "surface": "הגד",
-      "gloss": "告訴了"
+      "gloss": "確實被告知"
     },
     {
       "surface": "הגד",
-      "gloss": "確實告訴了"
+      "gloss": "確實被告知"
     },
     {
       "surface": "לעבדיך",
-      "gloss": "你的僕人們"
+      "gloss": "你僕人們"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "以下所說的"
+      "marks": "以下這事"
     },
     {
       "surface": "אשר",
@@ -123,16 +97,16 @@
     },
     {
       "surface": "ולהשמיד",
-      "gloss": "並滅絕"
+      "gloss": "又除滅"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "這地的一切居民"
+      "marks": "全地的居民"
     },
     {
       "surface": "כל",
-      "gloss": "一切"
+      "gloss": "全"
     },
     {
       "surface": "ישבי",
@@ -140,11 +114,11 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "這地"
+      "gloss": "地"
     },
     {
       "surface": "מפניכם",
-      "gloss": "在你們面前"
+      "gloss": "從你們面前"
     },
     {
       "surface": "ונירא",
@@ -152,19 +126,19 @@
     },
     {
       "surface": "מאד",
-      "gloss": "大大"
+      "gloss": "極其"
     },
     {
       "surface": "לנפשתינו",
-      "gloss": "為自己的性命"
+      "gloss": "為我們的性命"
     },
     {
       "surface": "מפניכם",
-      "gloss": "你們"
+      "gloss": "因著你們"
     },
     {
       "surface": "ונעשה",
-      "gloss": "就做了"
+      "gloss": "我們就做了"
     },
     {
       "surface": "את",
@@ -173,13 +147,13 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "事"
+      "gloss": "這事"
     },
     {
       "surface": "הזה",
       "gloss": "這"
     }
   ],
-  "timestamp": "2026-10-16T05:46:37.391756552Z",
+  "timestamp": "2026-10-16T22:45:45.395713715Z",
   "model": "glm-5.3"
 }

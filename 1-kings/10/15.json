@@ -5,57 +5,31 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "התרים",
-      "rationale": "「往來巡行作買賣的人」：或作「巡行的商人」，KJV 作 merchantmen。"
-    },
-    {
-      "kind": "crux",
-      "subject": "הערב",
-      "rationale": "或作「混居的眾民」（ASV\/JPS the mingled people），或作「亞拉伯」（Arabia）。"
-    },
-    {
-      "kind": "addition",
-      "subject": "進項",
-      "rationale": "原文只有名詞片語，無「來的」動詞；中文需補出語義連貫。"
-    }
-  ],
-  "translation": "此外還有商旅的〈進項〉、商人的貨利、亞拉伯諸王，和各地的省長〈所來的〉。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a9c2e69b2d3c01bb1e2d0741799a5121b8ec9e8582484c59d991ef04894bfd5f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/10\/13-16.1792132838563.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "此外還有來自往來商旅的收入、貨品交易〈之外〉，以及阿拉伯諸王和當地總督〈所進貢的〉。",
   "tokens": [
     {
       "surface": "לבד",
-      "gloss": "此外"
+      "gloss": "此外還有"
     },
     {
       "surface": "מאנשי",
-      "gloss": "人的"
+      "gloss": "來自……的人"
     },
     {
       "surface": "התרים",
-      "gloss": "商旅"
+      "gloss": "往來商旅"
     },
     {
       "surface": "ומסחר",
-      "gloss": "和貨利"
+      "gloss": "以及交易"
     },
     {
       "surface": "הרכלים",
-      "gloss": "商人的"
+      "gloss": "貨品商人"
     },
     {
       "surface": "וכל",
-      "gloss": "和一切"
+      "gloss": "以及所有"
     },
     {
       "surface": "מלכי",
@@ -63,17 +37,17 @@
     },
     {
       "surface": "הערב",
-      "gloss": "亞拉伯"
+      "gloss": "阿拉伯"
     },
     {
       "surface": "ופחות",
-      "gloss": "和省長"
+      "gloss": "和總督"
     },
     {
       "surface": "הארץ",
-      "gloss": "各地"
+      "gloss": "當地"
     }
   ],
-  "timestamp": "2026-10-16T06:40:38.564940989Z",
+  "timestamp": "2026-10-16T21:57:38.774685226Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "לתמו",
-      "rationale": "直譯「在他的單純／無意中」：KJV「at a venture（隨意）」、YLT「in his simplicity」、BSB「without taking special aim（沒有特意瞄準）」"
-    },
-    {
-      "kind": "crux",
-      "subject": "הדבקים",
-      "rationale": "甲冑的「接縫／關節處」：JPS 讀作「下甲與胸甲之間」；ויכה 一作使役「使人擊中」"
-    },
-    {
-      "kind": "substitution",
-      "subject": "החליתי",
-      "rationale": "動詞 חלה 本義「我病了／我軟弱了」，諸譯本作「我重傷了」以合語境"
-    }
-  ],
-  "translation": "有一人隨手開弓，射中了以色列王，箭穿過甲片的接縫和胸甲之間。王對趕車的說：「你轉過手來，把我帶出營外，因為我重傷了。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "5da66be5f6b4eb22834a3a44bb5815ba195d4943b733e99aba8562d888970e51",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/22\/33-36.1792133451160.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "有一人隨意拉弓，射中了 ⟨את⟩ 以色列王，在甲片銜接處與護胸甲之間。他就對他的御手說：「轉你的手，把我帶出營外，因為我受了重傷。」",
   "tokens": [
     {
       "surface": "ואיש",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "משך",
-      "gloss": "開弓"
+      "gloss": "拉"
     },
     {
       "surface": "בקשת",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "לתמו",
-      "gloss": "隨手"
+      "gloss": "隨意"
     },
     {
       "surface": "ויכה",
@@ -68,31 +42,31 @@
     },
     {
       "surface": "בין",
-      "gloss": "之間"
+      "gloss": "在……之間"
     },
     {
       "surface": "הדבקים",
-      "gloss": "甲片的接縫"
+      "gloss": "甲片銜接處"
     },
     {
       "surface": "ובין",
-      "gloss": "和……之間"
+      "gloss": "與……之間"
     },
     {
       "surface": "השרין",
-      "gloss": "胸甲"
+      "gloss": "護胸甲"
     },
     {
       "surface": "ויאמר",
-      "gloss": "對……說"
+      "gloss": "他就說"
     },
     {
       "surface": "לרכבו",
-      "gloss": "趕車的"
+      "gloss": "對他的御手"
     },
     {
       "surface": "הפך",
-      "gloss": "轉過"
+      "gloss": "轉"
     },
     {
       "surface": "ידך",
@@ -116,9 +90,9 @@
     },
     {
       "surface": "החליתי",
-      "gloss": "我重傷了"
+      "gloss": "我受了重傷"
     }
   ],
-  "timestamp": "2026-10-16T06:50:51.161801174Z",
+  "timestamp": "2026-10-16T21:58:53.305755666Z",
   "model": "glm-5.3"
 }

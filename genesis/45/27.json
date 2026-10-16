@@ -5,41 +5,20 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 45,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "דברי\/דבר",
-      "rationale": "「約瑟的話（דברי）……他所說（דבר）」同詞根重複，中文難以保留"
-    },
-    {
-      "kind": "substitution",
-      "subject": "魯阿（氣息）",
-      "rationale": "רוח 此處指雅各的生命氣息，按 D2 雙登記譯作魯阿並括註氣息"
-    }
-  ],
-  "translation": "他們將約瑟對他們所說的一切話都告訴了他；他看見約瑟打發來接他的車輛，他們的父親雅各的魯阿（氣息）就活了過來。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "625655797e8480bfc538fc859382891fa5ca5d2e4655d53efe5cd61b60e2e62e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/45\/25-28.1792125609168.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們向他說了 ⟨את⟩ 約瑟對他們所說的一切話；他看見約瑟差來要接載他的那些車輛，他們的父親雅各的魯阿（靈／氣息）就復甦了。",
   "tokens": [
     {
       "surface": "וידברו",
-      "gloss": "他們告訴"
+      "gloss": "他們說了"
     },
     {
       "surface": "אליו",
-      "gloss": "他"
+      "gloss": "向他"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "一切話"
+      "marks": "約瑟所說的一切話"
     },
     {
       "surface": "כל",
@@ -67,16 +46,16 @@
     },
     {
       "surface": "וירא",
-      "gloss": "他看見"
+      "gloss": "他就看見"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "車輛"
+      "marks": "那些車輛"
     },
     {
       "surface": "העגלות",
-      "gloss": "車輛"
+      "gloss": "那些車輛"
     },
     {
       "surface": "אשר",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "שלח",
-      "gloss": "打發來"
+      "gloss": "差來"
     },
     {
       "surface": "יוסף",
@@ -92,20 +71,20 @@
     },
     {
       "surface": "לשאת",
-      "gloss": "接"
+      "gloss": "要接載"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "他"
+      "gloss": "⟨את⟩他",
+      "marks": "他（雅各）"
     },
     {
       "surface": "ותחי",
-      "gloss": "就活了過來"
+      "gloss": "就復甦了"
     },
     {
       "surface": "רוח",
-      "gloss": "魯阿（氣息）"
+      "gloss": "魯阿（靈／氣息）"
     },
     {
       "surface": "יעקב",
@@ -116,6 +95,6 @@
       "gloss": "他們的父親"
     }
   ],
-  "timestamp": "2026-10-16T04:40:09.170109520Z",
+  "timestamp": "2026-10-16T22:31:20.496385514Z",
   "model": "glm-5.3"
 }

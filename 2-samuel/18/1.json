@@ -5,23 +5,7 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "點閱軍隊",
-      "rationale": "點閱百姓並按千、百編制軍隊，是計數與組織的經文。"
-    }
-  ],
-  "translation": "大衛點閱了 ⟨את⟩ 那與他同在的百姓，立千夫長和百夫長在他們之上。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c4ed79bcfc5e7bf4f572444922e534972c207ff6cff72c88b5b61a9131597514",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/18\/1-4.1792142466740.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "大衛點閱了與他同在的 ⟨את⟩ 那些百姓，並在他們之上設立千夫長和百夫長。",
   "tokens": [
     {
       "surface": "ויפקד",
@@ -34,23 +18,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那百姓"
+      "marks": "那些百姓"
     },
     {
       "surface": "העם",
-      "gloss": "那百姓"
+      "gloss": "那些百姓"
     },
     {
       "surface": "אשר",
-      "gloss": "那……的"
+      "gloss": "與他同在的"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩與他同在"
+      "gloss": "⟨את⟩他"
     },
     {
       "surface": "וישם",
-      "gloss": "立了"
+      "gloss": "並設立"
     },
     {
       "surface": "עליהם",
@@ -58,21 +42,21 @@
     },
     {
       "surface": "שרי",
-      "gloss": "首領"
+      "gloss": "……的長"
     },
     {
       "surface": "אלפים",
-      "gloss": "千"
+      "gloss": "千夫"
     },
     {
       "surface": "ושרי",
-      "gloss": "和首領"
+      "gloss": "和……的長"
     },
     {
       "surface": "מאות",
-      "gloss": "百"
+      "gloss": "百夫"
     }
   ],
-  "timestamp": "2026-10-16T09:21:06.742206384Z",
+  "timestamp": "2026-10-16T22:09:32.976123110Z",
   "model": "glm-5.3"
 }

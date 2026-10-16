@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 45,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "כבודי",
-      "rationale": "כבוד字面是「重量」，引申為尊榮、光輝；譯「尊榮」保留其分量感。"
-    },
-    {
-      "kind": "addition",
-      "subject": "的事",
-      "rationale": "אשר關係詞在中文需補出「的事」以成句。"
-    },
-    {
-      "kind": "you",
-      "subject": "對眾兄長",
-      "rationale": "約瑟直接吩咐他的哥哥們，命令式複數。"
-    }
-  ],
-  "translation": "你們要把我在埃及的一切尊榮，以及你們所看見的一切，都告訴我父親，又要趕快把我父親帶下這裡來。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "6a7e3cc03f8f0e37dd7913e0641362b0a4363f9162151d4d144ca80a6676ca2f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/45\/13-16.1792125591003.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你們要將我在埃及的一切尊榮告訴我父親，又將你們所看見的一切告訴他；你們要趕快，把我父親帶下來這裡。」",
   "tokens": [
     {
       "surface": "והגדתם",
@@ -44,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "一切尊榮"
+      "marks": "我在埃及的一切尊榮"
     },
     {
       "surface": "כל",
@@ -60,8 +34,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "一切……的事"
+      "gloss": "⟨ואת⟩",
+      "marks": "你們所看見的一切"
     },
     {
       "surface": "כל",
@@ -69,19 +43,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "……的事"
+      "gloss": "所……的"
     },
     {
       "surface": "ראיתם",
-      "gloss": "你們所看見的"
+      "gloss": "你們看見了"
     },
     {
       "surface": "ומהרתם",
-      "gloss": "又要趕快"
+      "gloss": "你們要趕快"
     },
     {
       "surface": "והורדתם",
-      "gloss": "帶下"
+      "gloss": "你們要帶下來"
     },
     {
       "surface": "את",
@@ -90,13 +64,13 @@
     },
     {
       "surface": "אבי",
-      "gloss": "我父親"
+      "gloss": "我的父親"
     },
     {
       "surface": "הנה",
-      "gloss": "這裡來"
+      "gloss": "這裡"
     }
   ],
-  "timestamp": "2026-10-16T04:39:51.004109006Z",
+  "timestamp": "2026-10-16T22:31:37.738042939Z",
   "model": "glm-5.3"
 }

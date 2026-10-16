@@ -5,28 +5,7 @@
   "book": "job",
   "lang": "zh-Hant",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שאתו",
-      "rationale": "『崇高、威嚴』與『(祂的)興起』（如Wycliffe『當祂興起』）兩讀並存。"
-    },
-    {
-      "kind": "you",
-      "subject": "你們",
-      "rationale": "向朋友的警告性反問。"
-    }
-  ],
-  "translation": "祂的崇高豈不使你們驚惶？祂的可畏豈不臨到你們身上？",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a03f396d8017cd9af76fc3885c64bd789e66619cf0b77c44e0b2edf7dd66d9e5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/13\/9-12.1792145972504.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他的崇高豈不使你們驚恐，他的恐懼豈不臨到你們身上？",
   "tokens": [
     {
       "surface": "הלא",
@@ -34,29 +13,30 @@
     },
     {
       "surface": "שאתו",
-      "gloss": "祂的崇高"
+      "gloss": "他的崇高"
     },
     {
       "surface": "תבעת",
-      "gloss": "使……驚惶"
+      "gloss": "使你們驚恐"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩你們"
+      "gloss": "⟨את⟩",
+      "marks": "你們（受詞）"
     },
     {
       "surface": "ופחדו",
-      "gloss": "祂的可畏"
+      "gloss": "和他的恐懼"
     },
     {
       "surface": "יפל",
-      "gloss": "臨到（落下）"
+      "gloss": "臨到"
     },
     {
       "surface": "עליכם",
       "gloss": "你們身上"
     }
   ],
-  "timestamp": "2026-10-16T10:19:32.505828060Z",
+  "timestamp": "2026-10-16T22:41:44.236695721Z",
   "model": "glm-5.3"
 }

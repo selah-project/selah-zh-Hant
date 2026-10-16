@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "zh-Hant",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to the princes and all the people",
-      "rationale": "耶利米親自答辯，直接向首領與眾民申訴。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "向",
-      "rationale": "אל 同一介詞，眾首領指控譯「攻擊」，耶利米自辯譯「向」——希伯來文本身中立，方向由語境定。"
-    }
-  ],
-  "translation": "耶利米對全體首領和全體人民說：「是雅威差遣我向這殿、向這城說預言，說出你們所聽見的這一切話。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b5d783565c73a008fcc4f7706d8b3fb6529a60c3d0cd5fa266279d3f7a0d97e0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/26\/9-12.1792136823883.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "耶利米對眾首領和眾民說：「雅威差遣我向這殿、向這城說預言，說出⟨את⟩你們所聽見的一切話。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "全體"
+      "gloss": "眾"
     },
     {
       "surface": "השרים",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "全體"
+      "gloss": "眾"
     },
     {
       "surface": "העם",
-      "gloss": "人民"
+      "gloss": "民"
     },
     {
       "surface": "לאמר",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "הבית",
-      "gloss": "殿"
+      "gloss": "這殿"
     },
     {
       "surface": "הזה",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "העיר",
-      "gloss": "城"
+      "gloss": "這城"
     },
     {
       "surface": "הזאת",
@@ -103,7 +82,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "這一切話"
+      "marks": "一切話"
     },
     {
       "surface": "כל",
@@ -122,6 +101,6 @@
       "gloss": "你們聽見"
     }
   ],
-  "timestamp": "2026-10-16T07:47:03.884408049Z",
+  "timestamp": "2026-10-16T22:37:51.093143609Z",
   "model": "glm-5.3"
 }

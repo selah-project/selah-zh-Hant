@@ -5,41 +5,15 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "不潔",
-      "rationale": "נדה 本義為月經的不淨與被棄，KJV 作 unclean thing；此處指婚姻上的污穢"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ערות／ערירים",
-      "rationale": "下體（ערות）與無子女（ערירים）同以 ער 起首，揭露下體者必赤裸無後，雙關在中文中失落"
-    },
-    {
-      "kind": "addition",
-      "subject": "אשר",
-      "rationale": "關係詞「那」在中文條件句中省略，由「人若」承擔"
-    }
-  ],
-  "translation": "人若娶 ⟨את⟩ 他兄弟的妻子，這是不潔；他兄弟的下體，他揭露了；他們必無子女。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "e14a1039dc239b2937f5292bd610b030b0e57aa514206f92ed9d36e7c971896c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/20\/21-24.1792127235910.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "人若娶 ⟨את⟩ 他兄弟的妻子，這是不潔之事；他揭露了他兄弟的下體，他們必無子女而死。",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "人若"
+      "gloss": "人"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "若"
     },
     {
       "surface": "יקח",
@@ -56,11 +30,11 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "他的兄弟"
+      "gloss": "他兄弟的"
     },
     {
       "surface": "נדה",
-      "gloss": "不潔"
+      "gloss": "不潔之事"
     },
     {
       "surface": "הוא",
@@ -72,11 +46,11 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "他的兄弟"
+      "gloss": "他兄弟的"
     },
     {
       "surface": "גלה",
-      "gloss": "揭露了"
+      "gloss": "揭露"
     },
     {
       "surface": "ערירים",
@@ -84,9 +58,9 @@
     },
     {
       "surface": "יהיו",
-      "gloss": "他們必成為"
+      "gloss": "他們必是"
     }
   ],
-  "timestamp": "2026-10-16T05:07:15.911516722Z",
+  "timestamp": "2026-10-16T22:49:47.589321660Z",
   "model": "glm-5.3"
 }

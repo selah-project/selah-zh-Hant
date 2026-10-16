@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "וידברו אתו משפט",
-      "rationale": "直譯「向他說了判決」，即向他宣判；中文以慣用語呈現"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו（末詞，H854）",
-      "rationale": "此處為近旁介詞את而非受詞記號，隨慣用語併入「向他」"
-    }
-  ],
-  "translation": "他們就拿住⟨את⟩王，把他⟨אתו⟩帶到巴比倫王那裏，在利比拉；他們向他宣判〈判決〉。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "4a33f1d20b527adee1b8f32585bb37f33c97779f8be64cb6a53d0775f5248124",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/25\/5-8.1792134378696.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們就捉住 ⟨את⟩ 王，把他帶上到巴比倫王那裏，就是利比拉；他們在那裏向他宣判 ⟨את⟩ 判決。",
   "tokens": [
     {
       "surface": "ויתפשו",
-      "gloss": "拿住"
+      "gloss": "他們就捉住"
     },
     {
       "surface": "את",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "ויעלו",
-      "gloss": "帶到"
+      "gloss": "把他帶上"
     },
     {
       "surface": "אתו",
@@ -52,7 +31,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "到……那裏"
+      "gloss": "到"
     },
     {
       "surface": "מלך",
@@ -64,22 +43,22 @@
     },
     {
       "surface": "רבלתה",
-      "gloss": "在利比拉"
+      "gloss": "利比拉"
     },
     {
       "surface": "וידברו",
-      "gloss": "宣……"
+      "gloss": "他們宣判"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "向他"
+      "marks": "他"
     },
     {
       "surface": "משפט",
       "gloss": "判決"
     }
   ],
-  "timestamp": "2026-10-16T07:06:18.697064191Z",
+  "timestamp": "2026-10-16T22:07:43.307293809Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "贖罪",
-      "rationale": "וכפר 直譯「遮蓋」，引申為贖罪／潔淨，中文取祭司條例的通行詞"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חטאת",
-      "rationale": "同一詞兼指「罪」與「贖罪祭」，中文分流為「罪／贖罪祭」，雙關失落"
-    }
-  ],
-  "translation": "祭司要獻上一隻作贖罪祭，另一隻作燔祭；祭司要在雅威面前為她贖罪，因她不潔的漏症。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "acf7171abcf72a7bc2720fc42d68a1b48d5712f6fbbaf6705a6dfb62592970d7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/15\/29-32.1792127067718.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "祭司要獻上 ⟨את⟩ 這一隻作贖罪祭，又獻上 ⟨ואת⟩ 這一隻作燔祭；祭司要在雅威面前為她贖罪，除去她因血漏而有的不潔。",
   "tokens": [
     {
       "surface": "ועשה",
@@ -39,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "一隻"
+      "marks": "這一隻"
     },
     {
       "surface": "האחד",
-      "gloss": "一隻"
+      "gloss": "這一隻"
     },
     {
       "surface": "חטאת",
@@ -52,11 +31,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "另一隻"
+      "marks": "這一隻"
     },
     {
       "surface": "האחד",
-      "gloss": "另一隻"
+      "gloss": "這一隻"
     },
     {
       "surface": "עלה",
@@ -64,7 +43,7 @@
     },
     {
       "surface": "וכפר",
-      "gloss": "要…贖罪"
+      "gloss": "要贖罪"
     },
     {
       "surface": "עליה",
@@ -76,7 +55,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "在…面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "יהוה",
@@ -84,13 +63,13 @@
     },
     {
       "surface": "מזוב",
-      "gloss": "漏症"
+      "gloss": "血漏"
     },
     {
       "surface": "טמאתה",
       "gloss": "她的不潔"
     }
   ],
-  "timestamp": "2026-10-16T05:04:27.719232452Z",
+  "timestamp": "2026-10-16T22:48:57.703336596Z",
   "model": "glm-5.3"
 }

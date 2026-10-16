@@ -5,33 +5,7 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "破折號子句移位",
-      "rationale": "希伯來語序把「我在埃及和曠野所行的」置於受詞之後，中文移作插入語"
-    },
-    {
-      "kind": "measurement",
-      "subject": "這十次",
-      "rationale": "明確計數以色列試探雅威的次數"
-    },
-    {
-      "kind": "substitution",
-      "subject": "試探",
-      "rationale": "נסה 本義是「試驗、測試」，中文用「試探」"
-    }
-  ],
-  "translation": "因為凡看見 ⟨את⟩ 我的榮耀和 ⟨את ואת⟩ 我的記號——就是我在埃及和曠野所行的——卻試探 ⟨את⟩ 我這十次、不聽從我聲音的這些人，",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "56797c2b2f10d33c88938f5a9bc846550580d21977451bd9ded42a070af4d92f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/14\/21-24.1792127830721.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "因為凡是看見⟨את⟩我的榮耀、以及⟨את⟩我在埃及和曠野所行的⟨את⟩我的神蹟記號，卻仍試探⟨את⟩我這十次、不聽從我聲音的這些人，",
   "tokens": [
     {
       "surface": "כי",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "凡"
+      "gloss": "凡是"
     },
     {
       "surface": "האנשים",
@@ -60,20 +34,20 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨ואת⟩",
-      "marks": "我的記號"
+      "gloss": "以及⟨את⟩",
+      "marks": "我的神蹟記號"
     },
     {
       "surface": "אתתי",
-      "gloss": "我的記號"
+      "gloss": "我的神蹟記號"
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "所"
     },
     {
       "surface": "עשיתי",
-      "gloss": "我所行的"
+      "gloss": "我……行的"
     },
     {
       "surface": "במצרים",
@@ -81,15 +55,15 @@
     },
     {
       "surface": "ובמדבר",
-      "gloss": "和在曠野"
+      "gloss": "和曠野"
     },
     {
       "surface": "וינסו",
-      "gloss": "卻試探"
+      "gloss": "卻仍試探"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨אתי⟩",
+      "gloss": "⟨את⟩",
       "marks": "我"
     },
     {
@@ -117,6 +91,6 @@
       "gloss": "我的聲音"
     }
   ],
-  "timestamp": "2026-10-16T05:17:10.722163828Z",
+  "timestamp": "2026-10-16T22:53:47.526760528Z",
   "model": "glm-5.3"
 }

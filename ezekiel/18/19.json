@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "以色列家",
-      "rationale": "本節引百姓的質問——「你們卻說」，是對流亡之民說話"
-    },
-    {
-      "kind": "crux",
-      "subject": "נשא בעון",
-      "rationale": "字面「擔當罪孽」；有譯本加「與他一同」（with him），希伯來文無此字"
-    }
-  ],
-  "translation": "你們卻說：『兒子為何不擔當父親的罪孽呢？』這兒子行了公平和公義，謹守了我一切的律例並且遵行它們——他必要存活。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "232cbe3ceef49ca29e8b504d890b04cfa52afe3e4c527724e67900d6ca7ab412",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/18\/17-20.1792138392409.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你們卻說：『為什麼兒子不擔當父親的罪孽呢？』那兒子行公平和公義，遵守我一切的律例，又遵行 ⟨את⟩ 它們——他必得生命，活著。』",
   "tokens": [
     {
       "surface": "ואמרתם",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "מדע",
-      "gloss": "為何"
+      "gloss": "為什麼"
     },
     {
       "surface": "לא",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "בעון",
-      "gloss": "……的罪孽"
+      "gloss": "罪孽"
     },
     {
       "surface": "האב",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "והבן",
-      "gloss": "這兒子"
+      "gloss": "而那兒子"
     },
     {
       "surface": "משפט",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "וצדקה",
-      "gloss": "公義"
+      "gloss": "和公義"
     },
     {
       "surface": "עשה",
@@ -75,7 +54,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我一切的律例"
+      "marks": "它們（我一切的律例）"
     },
     {
       "surface": "כל",
@@ -87,25 +66,26 @@
     },
     {
       "surface": "שמר",
-      "gloss": "謹守了"
+      "gloss": "遵守"
     },
     {
       "surface": "ויעשה",
-      "gloss": "並且遵行"
+      "gloss": "又遵行了"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ 它們"
+      "gloss": "⟨את⟩",
+      "marks": "它們（律例）"
     },
     {
       "surface": "חיה",
-      "gloss": "存活"
+      "gloss": "必得生命"
     },
     {
       "surface": "יחיה",
-      "gloss": "必要存活"
+      "gloss": "活著"
     }
   ],
-  "timestamp": "2026-10-16T08:13:12.410334966Z",
+  "timestamp": "2026-10-16T22:22:22.392823795Z",
   "model": "glm-5.3"
 }

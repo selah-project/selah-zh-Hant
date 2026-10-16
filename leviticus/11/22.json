@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "הסלעם \/ החרגל",
-      "rationale": "סלעם 與 חרגל 在《塔納赫》中僅出現於此處及申 14:19 的潔淨動物清單"
-    },
-    {
-      "kind": "crux",
-      "subject": "四種蝗蟲名",
-      "rationale": "確切昆蟲種類無從考定；諸譯本分別作 locust／bald locust／beetle／cricket／grasshopper，各按傳統揣測"
-    }
-  ],
-  "translation": "其中有這些你們可以吃：⟨את⟩ 蝗蟲，各按其類；和 ⟨את⟩ 蟬螞，各按其類；和 ⟨את⟩ 蟋蟀，各按其類；和 ⟨את⟩ 蚱蜢，各按其類。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "dbaa5a7d1e6cfa0eb8add6fb206f26cf39f0017d06b8f56c44cf09e0043976a9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/11\/21-24.1792126817397.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "這些之中，你們可以吃 ⟨את⟩：螞蚱各按其類、⟨ואת⟩ 蝗蟲各按其類、⟨ואת⟩ 蟋蟀各按其類、⟨ואת⟩ 蚱蜢各按其類。",
   "tokens": [
     {
       "surface": "את",
@@ -39,7 +18,7 @@
     },
     {
       "surface": "מהם",
-      "gloss": "其中有"
+      "gloss": "之中"
     },
     {
       "surface": "תאכלו",
@@ -48,11 +27,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "蝗蟲"
+      "marks": "螞蚱"
     },
     {
       "surface": "הארבה",
-      "gloss": "蝗蟲"
+      "gloss": "螞蚱"
     },
     {
       "surface": "למינו",
@@ -60,12 +39,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "和⟨את⟩",
-      "marks": "蟬螞"
+      "gloss": "⟨ואת⟩",
+      "marks": "蝗蟲"
     },
     {
       "surface": "הסלעם",
-      "gloss": "蟬螞"
+      "gloss": "蝗蟲"
     },
     {
       "surface": "למינהו",
@@ -73,7 +52,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "和⟨את⟩",
+      "gloss": "⟨ואת⟩",
       "marks": "蟋蟀"
     },
     {
@@ -86,7 +65,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "和⟨את⟩",
+      "gloss": "⟨ואת⟩",
       "marks": "蚱蜢"
     },
     {
@@ -98,6 +77,6 @@
       "gloss": "各按其類"
     }
   ],
-  "timestamp": "2026-10-16T05:00:17.398677779Z",
+  "timestamp": "2026-10-16T22:48:38.666506722Z",
   "model": "glm-5.3"
 }

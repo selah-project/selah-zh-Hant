@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "關係詞在中文以語序表達，無對應詞。"
-    },
-    {
-      "kind": "addition",
-      "subject": "是惡",
-      "rationale": "「在我眼中」的述語中文需補足，希伯來僅用介詞短語。"
-    },
-    {
-      "kind": "measurement",
-      "subject": "從出埃及之日直到今日",
-      "rationale": "以時間跨度量度悖逆的持久。"
-    }
-  ],
-  "translation": "因為他們行了 ⟨את⟩ 那惡事，在我眼中〈是惡〉，又惹我發怒，自從他們祖先出埃及的那日起，直到今日。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "88c24e69ede526c5b4b07cb4783e65b1762db9d70c74801d1321c8d1c9766fbf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/21\/13-16.1792134279411.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "因為他們行了 ⟨את⟩ 那惡事，在我眼中作惡，又一直惹我發怒，自他們祖先出埃及的那日起，直到今日。」",
   "tokens": [
     {
       "surface": "יען",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "⟨他們⟩"
     },
     {
       "surface": "עשו",
-      "gloss": "他們行了"
+      "gloss": "行了"
     },
     {
       "surface": "את",
@@ -60,11 +34,11 @@
     },
     {
       "surface": "ויהיו",
-      "gloss": "又〈成為〉"
+      "gloss": "又一直"
     },
     {
       "surface": "מכעסים",
-      "gloss": "惹我發怒的"
+      "gloss": "惹我發怒"
     },
     {
       "surface": "אתי",
@@ -73,7 +47,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "自從"
+      "gloss": "自"
     },
     {
       "surface": "היום",
@@ -81,7 +55,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "起"
     },
     {
       "surface": "יצאו",
@@ -108,6 +82,6 @@
       "gloss": "這"
     }
   ],
-  "timestamp": "2026-10-16T07:04:39.412948668Z",
+  "timestamp": "2026-10-16T22:06:52.514337322Z",
   "model": "glm-5.3"
 }

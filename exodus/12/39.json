@@ -5,33 +5,11 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "עגת",
-      "rationale": "字面是「灰燼烤的圓餅」，指在熱石或灰上烤成的薄餅"
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "gloss": "",
-      "rationale": "關係詞אשר融入中文「的」字結構"
-    }
-  ],
-  "translation": "他們用從埃及帶出來的那麵團烤成無酵餅，因為麵團沒有發酵；他們被逐出埃及，不能耽延，也沒有為自己預備食物。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "7bf3a9cd1430b60cc5e41d7951e4c1ca0b2c7491e6175a75e848e6783d1e0d73",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/12\/37-40.1792125921355.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們烘烤了 ⟨את⟩ 那麵團，就是他們從埃及帶出來的，做成無酵的薄餅，因為〈它〉沒有發酵；因為他們被從埃及趕出來，不能耽延，也沒有為自己預備食物。",
   "tokens": [
     {
       "surface": "ויאפו",
-      "gloss": "烤"
+      "gloss": "他們烘烤了"
     },
     {
       "surface": "את",
@@ -44,11 +22,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "的"
+      "gloss": "就是"
     },
     {
       "surface": "הוציאו",
-      "gloss": "帶出來"
+      "gloss": "他們帶出來的"
     },
     {
       "surface": "ממצרים",
@@ -56,11 +34,11 @@
     },
     {
       "surface": "עגת",
-      "gloss": "餅"
+      "gloss": "薄餅"
     },
     {
       "surface": "מצות",
-      "gloss": "無酵"
+      "gloss": "無酵的"
     },
     {
       "surface": "כי",
@@ -80,11 +58,11 @@
     },
     {
       "surface": "גרשו",
-      "gloss": "被逐出"
+      "gloss": "他們被趕出來"
     },
     {
       "surface": "ממצרים",
-      "gloss": "埃及"
+      "gloss": "從埃及"
     },
     {
       "surface": "ולא",
@@ -119,6 +97,6 @@
       "gloss": "為自己"
     }
   ],
-  "timestamp": "2026-10-16T04:45:21.357232357Z",
+  "timestamp": "2026-10-16T22:17:35.162978103Z",
   "model": "glm-5.3"
 }

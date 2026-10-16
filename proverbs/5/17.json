@@ -5,40 +5,19 @@
   "book": "proverbs",
   "lang": "zh-Hant",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "分享",
-      "rationale": "中文動詞需補出，希伯來文僅以介詞並列"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתך",
-      "gloss": "H854 介詞『與』，非受詞記號，以⟨與⟩標示"
-    }
-  ],
-  "translation": "願它們只歸你一人所有，沒有陌生人〈與〉你分享。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "cb5e11857aa1f8d623275b7be3c8a68dc344c55192ad1865286b7a8f31939512",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/5\/17-20.1792145228362.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "願它們只歸你一人所有，不與外人⟨與את你⟩同享。",
   "tokens": [
     {
       "surface": "יהיו",
-      "gloss": "願它們歸"
+      "gloss": "願它們是"
     },
     {
       "surface": "לך",
-      "gloss": "你"
+      "gloss": "歸你"
     },
     {
       "surface": "לבדך",
-      "gloss": "只有你一人"
+      "gloss": "只你一人"
     },
     {
       "surface": "ואין",
@@ -46,14 +25,14 @@
     },
     {
       "surface": "לזרים",
-      "gloss": "歸陌生人"
+      "gloss": "給外人"
     },
     {
       "surface": "אתך",
       "gloss": "⟨את⟩",
-      "marks": "與你"
+      "marks": "與你同享"
     }
   ],
-  "timestamp": "2026-10-16T10:07:08.363227826Z",
+  "timestamp": "2026-10-16T22:57:41.871289063Z",
   "model": "glm-5.3"
 }

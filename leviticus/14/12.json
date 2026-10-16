@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "והניף…תנופה",
-      "rationale": "動詞「搖」與名詞「搖祭」同根，中文以「搖一搖／搖祭」保留呼應"
-    },
-    {
-      "kind": "measurement",
-      "subject": "一羅革油",
-      "rationale": "液體計量單位「羅革」按原文音譯保留"
-    }
-  ],
-  "translation": "祭司要取 ⟨את⟩ 一隻公羊羔，獻 ⟨אתו⟩ 牠為贖愆祭，又 ⟨את⟩ 一羅革油，在雅威面前把牠們搖一搖作搖祭。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "0b6c410f78695d1a3ab5f62248d0fc3afdcda1cfe357b03686afc6f09f72a96a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/14\/9-12.1792126962882.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "祭司要取 ⟨את⟩ 一隻公綿羊羔，把牠獻為贖愆祭，並取 ⟨את⟩ 一羅革油，將牠們搖一搖，作搖祭獻在雅威面前。",
   "tokens": [
     {
       "surface": "ולקח",
@@ -39,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "一隻公羊羔"
+      "marks": "一隻公綿羊羔"
     },
     {
       "surface": "הכבש",
-      "gloss": "公羊羔"
+      "gloss": "公綿羊羔"
     },
     {
       "surface": "האחד",
@@ -51,12 +30,12 @@
     },
     {
       "surface": "והקריב",
-      "gloss": "要獻上"
+      "gloss": "把牠獻上"
     },
     {
       "surface": "אתו",
       "gloss": "⟨אתו⟩",
-      "marks": "牠"
+      "marks": "作贖愆祭"
     },
     {
       "surface": "לאשם",
@@ -64,12 +43,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨ואת⟩",
       "marks": "一羅革油"
     },
     {
       "surface": "לג",
-      "gloss": "羅革"
+      "gloss": "一羅革"
     },
     {
       "surface": "השמן",
@@ -77,12 +56,12 @@
     },
     {
       "surface": "והניף",
-      "gloss": "要搖"
+      "gloss": "將牠們搖一搖"
     },
     {
       "surface": "אתם",
       "gloss": "⟨אתם⟩",
-      "marks": "牠們"
+      "marks": "作搖祭"
     },
     {
       "surface": "תנופה",
@@ -97,6 +76,6 @@
       "gloss": "雅威"
     }
   ],
-  "timestamp": "2026-10-16T05:02:42.884331519Z",
+  "timestamp": "2026-10-16T22:48:51.987366639Z",
   "model": "glm-5.3"
 }

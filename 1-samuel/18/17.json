@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "心裡",
-      "rationale": "第二個「掃羅說」是內心盤算，中文加「心裡」以表明；原文無此詞"
-    },
-    {
-      "kind": "idiom",
-      "subject": "手在他身上",
-      "rationale": "ידי בו／יד פלשתים 直譯「手在他身上」，即下手加害，按中文慣表達譯出"
-    },
-    {
-      "kind": "substitution",
-      "subject": "米拉",
-      "rationale": "מרב 是人名（掃羅長女），不可譯作「多」"
-    }
-  ],
-  "translation": "掃羅對大衛說：「看哪，我的長女米拉，我要把她給你為妻；只要你為我作個英勇的兒子，為雅威爭戰。」掃羅心裡說：「願我的手不加害於他，願非利士人的手加害於他。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c0d7ff89ece34cccc17b28f885a6ca4888c97d2209aa8cd33cafc59ec1bc66e5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/18\/17-20.1792131264017.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "掃羅對大衛說：「看哪，我的大女兒米拉，⟨את⟩她我必給你為妻；只要你要為我做勇敢的兒子，為雅威爭戰。」掃羅心裡說：「願我的手不加在他身上，願非利士人的手加在他身上。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "הגדולה",
-      "gloss": "長"
+      "gloss": "大的"
     },
     {
       "surface": "מרב",
@@ -68,11 +42,11 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "她（米拉）"
+      "marks": "她"
     },
     {
       "surface": "אתן",
-      "gloss": "我要給"
+      "gloss": "我必給"
     },
     {
       "surface": "לך",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "היה",
-      "gloss": "作"
+      "gloss": "要做"
     },
     {
       "surface": "לי",
@@ -100,11 +74,11 @@
     },
     {
       "surface": "חיל",
-      "gloss": "英勇的"
+      "gloss": "勇敢"
     },
     {
       "surface": "והלחם",
-      "gloss": "爭戰"
+      "gloss": "並要爭戰"
     },
     {
       "surface": "מלחמות",
@@ -124,11 +98,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "不"
+      "gloss": "不要"
     },
     {
       "surface": "תהי",
-      "gloss": "願…是"
+      "gloss": "願…加"
     },
     {
       "surface": "ידי",
@@ -136,15 +110,15 @@
     },
     {
       "surface": "בו",
-      "gloss": "加害於他"
+      "gloss": "在他身上"
     },
     {
       "surface": "ותהי",
-      "gloss": "願…是"
+      "gloss": "願…加"
     },
     {
       "surface": "בו",
-      "gloss": "加害於他"
+      "gloss": "在他身上"
     },
     {
       "surface": "יד",
@@ -155,6 +129,6 @@
       "gloss": "非利士人"
     }
   ],
-  "timestamp": "2026-10-16T06:14:24.018023716Z",
+  "timestamp": "2026-10-16T22:01:26.728156741Z",
   "model": "glm-5.3"
 }

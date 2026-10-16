@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "不轉回面",
-      "rationale": "同17節，שׁוּב אֶת פָּנִים 直譯「使臉轉回」，即拒絕請求"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שׁאלה\/שׁאלת\/שׁאלי",
-      "rationale": "「求」一詞三次重複（名詞、動詞、命令式），中文難以完全保留"
-    }
-  ],
-  "translation": "她說：「我向你所求的只是一件小事，求你不要拒絕⟨את⟩我的面。」王對她說：「母親啊，求吧，因為我必不拒絕⟨את⟩妳的面。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ded455c78e4c92c6b017b88a81b758facc2c54ecd5c15b1c65abbccbfdcd7aa2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/2\/17-20.1792132561461.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "她說：「有一件小事我求 ⟨את從你⟩ ——求你不要推辭我的面。」王對她說：「我母親，求吧，因為我不會推辭你的面。」",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "שאלה",
-      "gloss": "一件請求"
+      "gloss": "一件事"
     },
     {
       "surface": "אחת",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "קטנה",
-      "gloss": "小的"
+      "gloss": "小"
     },
     {
       "surface": "אנכי",
@@ -54,15 +33,15 @@
     },
     {
       "surface": "מאתך",
-      "gloss": "從你⟨את⟩"
+      "gloss": "⟨את從你⟩"
     },
     {
       "surface": "אל",
-      "gloss": "求你不要"
+      "gloss": "不要"
     },
     {
       "surface": "תשב",
-      "gloss": "轉回"
+      "gloss": "推辭"
     },
     {
       "surface": "את",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "他說"
+      "gloss": "〈他〉說"
     },
     {
       "surface": "לה",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "אמי",
-      "gloss": "母親啊"
+      "gloss": "我母親"
     },
     {
       "surface": "כי",
@@ -103,18 +82,18 @@
     },
     {
       "surface": "אשיב",
-      "gloss": "我必不轉回"
+      "gloss": "推辭"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "妳的面"
+      "marks": "你的面"
     },
     {
       "surface": "פניך",
-      "gloss": "妳的面"
+      "gloss": "你的面"
     }
   ],
-  "timestamp": "2026-10-16T06:36:01.463143615Z",
+  "timestamp": "2026-10-16T21:58:38.175529917Z",
   "model": "glm-5.3"
 }

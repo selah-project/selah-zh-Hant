@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "連同",
-      "rationale": "中文需連接詞銜接已交在手中的三個受詞（他、他的眾民、他的地）"
-    },
-    {
-      "kind": "you",
-      "subject": "對摩西",
-      "rationale": "雅威直接向摩西說話，命令與應許並列"
-    }
-  ],
-  "translation": "雅威對摩西說：「不要怕他，因我已將他交在你手中，連同⟨את⟩他的眾民和⟨את⟩他的地；你要待他像待希實本的亞摩利王西宏那樣，他就是住在希實本的。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b46e000413ec5684c7b7b011047ade5448bd708bbf79004fcf5157327729df48",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/21\/33-35.1792127968426.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威對摩西說：「不要怕他，因為我已將他和他全體的人民以及他的地交在你手中；你要待他像你待亞摩利人的王西宏那樣，就是那住在希實本的。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -55,7 +34,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "他"
+      "marks": "他（噩）"
     },
     {
       "surface": "כי",
@@ -67,29 +46,29 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "我已將……交"
+      "gloss": "我已將……交給"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "他"
+      "marks": "他（噩）"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "他的眾民"
+      "gloss": "和⟨את⟩",
+      "marks": "他全體的人民"
     },
     {
       "surface": "כל",
-      "gloss": "全部"
+      "gloss": "全體的"
     },
     {
       "surface": "עמו",
-      "gloss": "他的民"
+      "gloss": "他的人民"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "他的地"
     },
     {
@@ -126,7 +105,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "就是那"
     },
     {
       "surface": "יושב",
@@ -137,6 +116,6 @@
       "gloss": "希實本"
     }
   ],
-  "timestamp": "2026-10-16T05:19:28.427739774Z",
+  "timestamp": "2026-10-16T22:54:28.760957546Z",
   "model": "glm-5.3"
 }

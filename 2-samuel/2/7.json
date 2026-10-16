@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "תחזקנה ידיכם",
-      "rationale": "字面「願你們的手強壯起來」，指振作力量"
-    },
-    {
-      "kind": "addition",
-      "subject": "治理",
-      "rationale": "「作王 over them」中文補「治理」以成句"
-    }
-  ],
-  "translation": "現在你們要剛強手中的力量，作勇敢的人，因為你們的主人掃羅已經死了，並且猶大家也已經膏我作他們的王。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "d9099906c29685d4e346a73e036367d42af28f5a8f3285ad5a477b11edba9e17",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/2\/5-8.1792131683209.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "現在，願你們的手堅強，作勇士之子，因為你們的主人掃羅已經死了；猶大家也膏了 ⟨את⟩ 我作王治理他們。",
   "tokens": [
     {
       "surface": "ועתה",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "תחזקנה",
-      "gloss": "要剛強"
+      "gloss": "願…堅強"
     },
     {
       "surface": "ידיכם",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "לבני",
-      "gloss": "……的人"
+      "gloss": "…之子"
     },
     {
       "surface": "חיל",
-      "gloss": "勇敢"
+      "gloss": "勇士"
     },
     {
       "surface": "כי",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "מת",
-      "gloss": "已經死了"
+      "gloss": "死了"
     },
     {
       "surface": "אדניכם",
@@ -70,12 +49,12 @@
     },
     {
       "surface": "וגם",
-      "gloss": "並且"
+      "gloss": "也"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "我"
+      "marks": "我（受膏的對象，即大衛）"
     },
     {
       "surface": "משחו",
@@ -98,6 +77,6 @@
       "gloss": "治理他們"
     }
   ],
-  "timestamp": "2026-10-16T06:21:23.210679953Z",
+  "timestamp": "2026-10-16T22:10:10.155311026Z",
   "model": "glm-5.3"
 }

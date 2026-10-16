@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "成對的限制詞「只是…惟獨」，譯作「卻只」，直譯會生硬。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "邱壇的祭司",
-      "rationale": "כהני הבמות 是「諸邱壇的祭司」，指在各地邱壇供職的祭司，非耶路撒冷聖殿的祭司。"
-    }
-  ],
-  "translation": "只是邱壇的祭司不登上雅威的祭壇〈，那祭壇〉在耶路撒冷；他們只在弟兄中間吃無酵餅。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c493ed7b8e435d9efa04da4508e918ad2850d751de332aa995d4b506d4460edf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/23\/9-12.1792134336415.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "只是邱壇的祭司不得上到耶路撒冷雅威的壇，他們只在不生育之物中間喫無酵餅——⟨即⟩在他們弟兄中間喫無酵餅。",
   "tokens": [
     {
       "surface": "אך",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "יעלו",
-      "gloss": "登上"
+      "gloss": "上到"
     },
     {
       "surface": "כהני",
@@ -46,15 +25,15 @@
     },
     {
       "surface": "הבמות",
-      "gloss": "邱壇"
+      "gloss": "邱壇的"
     },
     {
       "surface": "אל",
-      "gloss": "上到"
+      "gloss": "到"
     },
     {
       "surface": "מזבח",
-      "gloss": "祭壇"
+      "gloss": "壇"
     },
     {
       "surface": "יהוה",
@@ -62,19 +41,19 @@
     },
     {
       "surface": "בירושלם",
-      "gloss": "在耶路撒冷"
+      "gloss": "耶路撒冷"
     },
     {
       "surface": "כי",
-      "gloss": "卻"
-    },
-    {
-      "surface": "אם",
       "gloss": "只"
     },
     {
+      "surface": "אם",
+      "gloss": "（與כי連用）唯有"
+    },
+    {
       "surface": "אכלו",
-      "gloss": "吃"
+      "gloss": "喫"
     },
     {
       "surface": "מצות",
@@ -82,13 +61,13 @@
     },
     {
       "surface": "בתוך",
-      "gloss": "在…中間"
+      "gloss": "在……中間"
     },
     {
       "surface": "אחיהם",
       "gloss": "他們的弟兄"
     }
   ],
-  "timestamp": "2026-10-16T07:05:36.415808283Z",
+  "timestamp": "2026-10-16T22:07:23.461168691Z",
   "model": "glm-5.3"
 }

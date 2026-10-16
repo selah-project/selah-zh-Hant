@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "מיסך",
-      "rationale": "מיסך（有蓋的廊子）在整部塔納赫僅出現於此。"
-    },
-    {
-      "kind": "crux",
-      "subject": "הסב",
-      "rationale": "「轉移／移去」的方向不明：KJV 作 from，ASV\/JPS 作 unto；句法殘缺，眾譯本各執一端。"
-    },
-    {
-      "kind": "crux",
-      "subject": "השבת",
-      "rationale": "「安息日的廊子」所指不明：或為安息日供祭司使用的有蓋通道。"
-    }
-  ],
-  "translation": "又因亞述王的緣故，他把殿中所建那安息日的廊子，以及雅威殿外側的王入口，都移去了。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a5cc649ff12461568591e7b1c8d6e1868461dac114d3a43ed9d460bf9604a7bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/16\/17-20.1792134080750.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他又因亞述王的緣故，把安息日的廊子——他們在殿中所建的——以及王的外邊入口，從雅威的殿中挪移了 ⟨את⟩ ⟨את⟩。",
   "tokens": [
     {
       "surface": "ואת",
@@ -48,11 +22,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "所"
     },
     {
       "surface": "בנו",
-      "gloss": "他們所建"
+      "gloss": "建的"
     },
     {
       "surface": "בבית",
@@ -61,7 +35,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "王的入口"
+      "marks": "王的外邊入口"
     },
     {
       "surface": "מבוא",
@@ -73,11 +47,11 @@
     },
     {
       "surface": "החיצונה",
-      "gloss": "外側的"
+      "gloss": "外邊的"
     },
     {
       "surface": "הסב",
-      "gloss": "移去"
+      "gloss": "挪移了"
     },
     {
       "surface": "בית",
@@ -85,11 +59,11 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "雅威"
+      "gloss": "雅威的"
     },
     {
       "surface": "מפני",
-      "gloss": "因…的緣故"
+      "gloss": "因……的緣故"
     },
     {
       "surface": "מלך",
@@ -100,6 +74,6 @@
       "gloss": "亞述"
     }
   ],
-  "timestamp": "2026-10-16T07:01:20.751701878Z",
+  "timestamp": "2026-10-16T22:06:16.524610844Z",
   "model": "glm-5.3"
 }

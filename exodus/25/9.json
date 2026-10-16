@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "樣式（第一處）",
-      "rationale": "中文語序需將受詞「樣式」提前，「我指示你」之後以破折號引出受詞內容"
-    },
-    {
-      "kind": "you",
-      "subject": "摩西",
-      "rationale": "本節為雅威對摩西的直接吩咐，間接向你們（以色列眾人）發令"
-    }
-  ],
-  "translation": "凡我指示 ⟨את⟩ 你的——會幕的樣式和 ⟨את⟩ 一切器具的樣式——你們都要照樣製造。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ee373294631b19d6f72f876a528b328eb08cf3d35438145d3cf68c8988146930",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/25\/9-12.1792126243376.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "凡我所指示你⟨את⟩的——會幕的樣式和 ⟨את⟩ 一切器具的樣式——你們都要照樣製造。",
   "tokens": [
     {
       "surface": "ככל",
@@ -46,13 +25,13 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ 你",
       "marks": "你"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "樣式"
+      "marks": "會幕的樣式"
     },
     {
       "surface": "תבנית",
@@ -64,8 +43,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "樣式"
+      "gloss": "和 ⟨את⟩",
+      "marks": "一切器具的樣式"
     },
     {
       "surface": "תבנית",
@@ -85,9 +64,9 @@
     },
     {
       "surface": "תעשו",
-      "gloss": "你們都要製造"
+      "gloss": "製造"
     }
   ],
-  "timestamp": "2026-10-16T04:50:43.376800421Z",
+  "timestamp": "2026-10-16T22:18:56.432495767Z",
   "model": "glm-5.3"
 }

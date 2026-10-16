@@ -5,33 +5,12 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "限制語「乃是／只有」，與前面的不可連用；中文以「只有」承接雙重否定"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יומתו\/ימות",
-      "rationale": "「死」字根三次重複，是申24:16引文的節奏；中文以「處死／而死」部分保留"
-    }
-  ],
-  "translation": "但殺人者的兒子，他沒有處死；正如摩西妥拉書上所寫的，雅威曾吩咐說：「父親不可因兒子被處死，兒子也不可因父親被處死；各人要因自己的罪而死。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "666aade11f6e9f51f009f133d1470e309fc583f9b03c8bae941dd356f8f4ef0f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/14\/5-8.1792133980579.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "至於殺人者的兒子，他沒有處死，正如摩西妥拉書上所寫的，雅威曾吩咐說：『父親不可因兒子被處死，兒子也不可因父親被處死；各人要因自己的罪而死。』",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "兒子"
+      "marks": "殺人者的兒子"
     },
     {
       "surface": "בני",
@@ -39,11 +18,11 @@
     },
     {
       "surface": "המכים",
-      "gloss": "殺人的"
+      "gloss": "殺人者"
     },
     {
       "surface": "לא",
-      "gloss": "沒有"
+      "gloss": "不"
     },
     {
       "surface": "המית",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "בספר",
-      "gloss": "在……書上"
+      "gloss": "在書上"
     },
     {
       "surface": "תורת",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "曾"
+      "gloss": "那"
     },
     {
       "surface": "צוה",
@@ -127,7 +106,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "只有"
+      "gloss": ""
     },
     {
       "surface": "איש",
@@ -139,9 +118,9 @@
     },
     {
       "surface": "ימות",
-      "gloss": "而死"
+      "gloss": "死"
     }
   ],
-  "timestamp": "2026-10-16T06:59:40.580519688Z",
+  "timestamp": "2026-10-16T22:05:49.866358625Z",
   "model": "glm-5.3"
 }

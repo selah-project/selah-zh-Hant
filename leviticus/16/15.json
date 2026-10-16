@@ -5,37 +5,16 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "שעיר",
-      "rationale": "字面是「多毛的（公山羊）」，非角色名，本譯作「公山羊」"
-    },
-    {
-      "kind": "crux",
-      "subject": "חטאת",
-      "rationale": "同一希伯來詞兼指「罪」與「贖罪祭」——此處是祭物義"
-    }
-  ],
-  "translation": "他要宰殺 ⟨את⟩ 那為百姓作贖罪祭的公山羊，把 ⟨את⟩ 牠的血帶進幔子內，並要照他對公牛的血所行的，將 ⟨את⟩ 牠彈在櫃蓋上和櫃蓋前面。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "599dd9c9827c6af35139595dfc9803e5ec7682da8900d6118de49e069c81a5c1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/16\/13-16.1792127093891.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他要宰殺 ⟨את⟩ 那隻為百姓作贖罪祭的公山羊，把牠的血帶進幔子內，用牠的血照著對公牛的血所行的而行，把血彈在施恩座上面和施恩座前面。",
   "tokens": [
     {
       "surface": "ושחט",
-      "gloss": "並宰殺"
+      "gloss": "他要宰殺"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "公山羊"
+      "marks": "那隻…公山羊"
     },
     {
       "surface": "שעיר",
@@ -43,19 +22,19 @@
     },
     {
       "surface": "החטאת",
-      "gloss": "贖罪祭"
+      "gloss": "贖罪祭的"
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "為"
     },
     {
       "surface": "לעם",
-      "gloss": "為百姓"
+      "gloss": "百姓"
     },
     {
       "surface": "והביא",
-      "gloss": "並帶進"
+      "gloss": "把…帶進"
     },
     {
       "surface": "את",
@@ -68,11 +47,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "到"
+      "gloss": "進"
     },
     {
       "surface": "מבית",
-      "gloss": "……之內"
+      "gloss": "之內"
     },
     {
       "surface": "לפרכת",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "ועשה",
-      "gloss": "並要行"
+      "gloss": "用…而行"
     },
     {
       "surface": "את",
@@ -93,7 +72,7 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "照"
+      "gloss": "照著"
     },
     {
       "surface": "עשה",
@@ -101,7 +80,7 @@
     },
     {
       "surface": "לדם",
-      "gloss": "對……的血"
+      "gloss": "對…的血"
     },
     {
       "surface": "הפר",
@@ -109,30 +88,30 @@
     },
     {
       "surface": "והזה",
-      "gloss": "並彈"
+      "gloss": "把血彈"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩牠",
-      "marks": "牠（的血）彈在櫃蓋上"
+      "gloss": "⟨אתו⟩",
+      "marks": "牠（指血）"
     },
     {
       "surface": "על",
-      "gloss": "在……之上"
+      "gloss": "在…上面"
     },
     {
       "surface": "הכפרת",
-      "gloss": "櫃蓋"
+      "gloss": "施恩座"
     },
     {
       "surface": "ולפני",
-      "gloss": "和……前面"
+      "gloss": "和…前面"
     },
     {
       "surface": "הכפרת",
-      "gloss": "櫃蓋"
+      "gloss": "施恩座"
     }
   ],
-  "timestamp": "2026-10-16T05:04:53.893172962Z",
+  "timestamp": "2026-10-16T22:49:18.644329357Z",
   "model": "glm-5.3"
 }

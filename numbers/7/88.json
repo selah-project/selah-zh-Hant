@@ -5,44 +5,23 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "אתו 是 את 的帶後綴形（「它＋את」），指向「壇」，譯文中以受詞語序吸收，記號保留為⟨את⟩"
-    },
-    {
-      "kind": "measurement",
-      "subject": "平安祭牲總數",
-      "rationale": "二十四公牛＋六十公綿羊＋六十公山羊＋六十羊羔＝204隻"
-    }
-  ],
-  "translation": "作平安祭之祭牲的牛的一切：公牛二十四隻、公綿羊六十隻、公山羊六十隻、一歲的公羊羔六十隻。這是在壇受膏以後，壇的奉獻禮之物。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ed9be7f4eb6500bdaef6b46fe0ddfad43ff947297b8eb0b9dfa22f32f8146818",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/7\/85-88.1792127709328.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "平安祭牲畜的總數：公牛二十四隻、公綿羊六十隻、公山羊六十隻、一歲的公綿羊羔六十隻。這是祭壇受膏之後⟨את⟩它的奉獻之禮。",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "並一切"
+      "gloss": "總數／所有"
     },
     {
       "surface": "בקר",
-      "gloss": "牛"
+      "gloss": "牲畜（牛群）"
     },
     {
       "surface": "זבח",
-      "gloss": "祭牲"
+      "gloss": "祭"
     },
     {
       "surface": "השלמים",
-      "gloss": "平安祭的"
+      "gloss": "平安祭"
     },
     {
       "surface": "עשרים",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "וארבעה",
-      "gloss": "又四"
+      "gloss": "四"
     },
     {
       "surface": "פרים",
@@ -74,11 +53,11 @@
     },
     {
       "surface": "כבשים",
-      "gloss": "公羊羔"
+      "gloss": "綿羊羔"
     },
     {
       "surface": "בני",
-      "gloss": "一歲的"
+      "gloss": "…之子（一歲的）"
     },
     {
       "surface": "שנה",
@@ -94,15 +73,15 @@
     },
     {
       "surface": "חנכת",
-      "gloss": "奉獻禮"
+      "gloss": "奉獻之禮"
     },
     {
       "surface": "המזבח",
-      "gloss": "壇的"
+      "gloss": "祭壇"
     },
     {
       "surface": "אחרי",
-      "gloss": "在……以後"
+      "gloss": "之後"
     },
     {
       "surface": "המשח",
@@ -111,9 +90,9 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "牠（指壇）"
+      "marks": "它（祭壇）"
     }
   ],
-  "timestamp": "2026-10-16T05:15:09.329632439Z",
+  "timestamp": "2026-10-16T22:56:30.491572965Z",
   "model": "glm-5.3"
 }

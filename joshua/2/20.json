@@ -5,23 +5,7 @@
   "book": "joshua",
   "lang": "zh-Hant",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "secret",
-      "subject": "使命保密",
-      "rationale": "探子以保密為誓約解除的條件"
-    }
-  ],
-  "translation": "你若把我們這話說出去，我們就脫離你所使我們起的誓，成為無罪的。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "3bf79038383a1b8df82cf196a9b51832a16726ee9dc5cd6270c3e47eca5edc64",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/2\/17-20.1792129528068.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你若把⟨את⟩我們這話說出去，我們就必從你所叫我們起的誓中得為無辜。",
   "tokens": [
     {
       "surface": "ואם",
@@ -46,15 +30,15 @@
     },
     {
       "surface": "והיינו",
-      "gloss": "我們就成為"
+      "gloss": "我們就必"
     },
     {
       "surface": "נקים",
-      "gloss": "無罪的"
+      "gloss": "為無辜"
     },
     {
       "surface": "משבעתך",
-      "gloss": "脫離你所起的誓"
+      "gloss": "從你的誓"
     },
     {
       "surface": "אשר",
@@ -62,9 +46,9 @@
     },
     {
       "surface": "השבעתנו",
-      "gloss": "你使我們起誓"
+      "gloss": "你叫我們起的"
     }
   ],
-  "timestamp": "2026-10-16T05:45:28.069972985Z",
+  "timestamp": "2026-10-16T22:43:49.375219799Z",
   "model": "glm-5.3"
 }

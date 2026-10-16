@@ -5,37 +5,11 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ויקב",
-      "rationale": "נקב 罕見動詞：字面「刺穿」，傳統讀作「指名褻瀆」；七十士譯本作「稱呼那名」，撒瑪利亞五經作「咒詛」"
-    },
-    {
-      "kind": "hapax",
-      "subject": "ויקב",
-      "rationale": "נקב 作「褻瀆」義在全塔納赫僅此一處"
-    },
-    {
-      "kind": "secret",
-      "subject": "השם",
-      "rationale": "「那名」未指明內容——文本刻意不寫出那被褻瀆的名"
-    }
-  ],
-  "translation": "那以色列婦人的兒子褻瀆 ⟨את⟩ 名，並且咒詛；他們就把他帶到摩西那裡。他母親的名字叫示羅密，是但支派底伯利的女兒。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "047fa15ed21e9e729c53e9308fb1c673d0f8cf731bc1e88d3858209807430370",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/24\/9-12.1792127270474.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "那以色列婦人的兒子褻瀆了 ⟨את⟩ 那名，並且咒詛；他們就把他帶到摩西那裡。（他母親的名字是示羅密，是底伯利的女兒，屬但支派。）",
   "tokens": [
     {
       "surface": "ויקב",
-      "gloss": "褻瀆（刺穿）"
+      "gloss": "褻瀆了"
     },
     {
       "surface": "בן",
@@ -47,12 +21,12 @@
     },
     {
       "surface": "הישראלית",
-      "gloss": "那以色列婦人"
+      "gloss": "以色列"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "名"
+      "marks": "那名"
     },
     {
       "surface": "השם",
@@ -64,12 +38,12 @@
     },
     {
       "surface": "ויביאו",
-      "gloss": "他們帶"
+      "gloss": "他們就把他帶到"
     },
     {
       "surface": "אתו",
       "gloss": "⟨אתו⟩",
-      "marks": "他"
+      "marks": "到摩西那裡"
     },
     {
       "surface": "אל",
@@ -81,11 +55,11 @@
     },
     {
       "surface": "ושם",
-      "gloss": "而名字"
+      "gloss": "並名字"
     },
     {
       "surface": "אמו",
-      "gloss": "他母親"
+      "gloss": "他母親的"
     },
     {
       "surface": "שלמית",
@@ -108,6 +82,6 @@
       "gloss": "但"
     }
   ],
-  "timestamp": "2026-10-16T05:07:50.475406173Z",
+  "timestamp": "2026-10-16T22:49:56.083539381Z",
   "model": "glm-5.3"
 }

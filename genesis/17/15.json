@@ -5,36 +5,15 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to 亞伯拉罕",
-      "rationale": "以羅欣直接對亞伯拉罕說話，命令他改稱妻子的名。"
-    },
-    {
-      "kind": "addition",
-      "subject": "才是",
-      "rationale": "כִּי שָׂרָה שְׁמָהּ 直譯「因為撒拉她的名」；中文加「才是」以傳達宣告語氣。"
-    }
-  ],
-  "translation": "以羅欣（神）對亞伯拉罕說：「至於你的妻子撒萊，不可再稱她的名為撒萊，因為撒拉才是她的名。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "bd70323f7013dc768a279706e7a0a734fca4f182081ac9899ddff6f8d6046068",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/17\/13-16.1792124845707.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "以羅欣對亞伯拉罕說：「至於你妻子撒萊，不可再稱 ⟨את⟩ 她的名字為撒萊，因為撒拉是她的名字。」",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "說了"
+      "gloss": "說"
     },
     {
       "surface": "אלהים",
-      "gloss": "以羅欣（神）"
+      "gloss": "以羅欣"
     },
     {
       "surface": "אל",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "אשתך",
-      "gloss": "你的妻子"
+      "gloss": "你妻子"
     },
     {
       "surface": "לא",
@@ -63,11 +42,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "她的名"
+      "marks": "她的名字"
     },
     {
       "surface": "שמה",
-      "gloss": "她的名"
+      "gloss": "她的名字"
     },
     {
       "surface": "שרי",
@@ -83,9 +62,9 @@
     },
     {
       "surface": "שמה",
-      "gloss": "她的名"
+      "gloss": "她的名字"
     }
   ],
-  "timestamp": "2026-10-16T04:27:25.708944367Z",
+  "timestamp": "2026-10-16T22:27:28.157876641Z",
   "model": "glm-5.3"
 }

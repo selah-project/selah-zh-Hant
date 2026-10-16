@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "提斐薩",
-      "rationale": "有學者認為應讀作「他撒」（得撒，tappuah 之誤）：米拿現從得撒出發攻打得撒四境更合地理邏輯；傳統讀法為幼發拉底河畔的提斐薩。"
-    },
-    {
-      "kind": "hapax",
-      "subject": "ההרותיה",
-      "rationale": "הֶהָרוֹת「懷孕的婦人」此形僅見於此（另參王下8:12同形），字面保留其殘酷畫面。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "פתח\/בקע",
-      "rationale": "「不開（城門）」對「剖開（腹）」——同一個「開」的意象正反對照，中文以「開城／剖開」保留。"
-    }
-  ],
-  "translation": "那時，米拿現擊打 ⟨את⟩ 提斐薩和 ⟨את⟩ 城中所有的人，以及 ⟨את⟩ 它的四境，從得撒起，因為他們不向他開城；他就擊打它，把城中所有懷孕的婦人都剖開了。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c848ea2fb89bc3a7c2b945b8a6c93f448734ceb47af97c6c2e372f5a5d81e15e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/15\/14-16.1792142478585.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "那時，米拿現擊打了 ⟨את⟩ 提斐薩和 ⟨את⟩ 其中所有的人，以及從得撒起它的四境；因為它沒有向他開門，他就擊打它，把 ⟨את⟩ 其中所有懷孕的婦人都剖開了。",
   "tokens": [
     {
       "surface": "אז",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "יכה",
-      "gloss": "擊打"
+      "gloss": "擊打了"
     },
     {
       "surface": "מנחם",
@@ -56,12 +30,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "城中所有的人"
+      "gloss": "和⟨את⟩",
+      "marks": "其中所有的人"
     },
     {
       "surface": "כל",
-      "gloss": "所有…的"
+      "gloss": "所有"
     },
     {
       "surface": "אשר",
@@ -73,7 +47,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "以及⟨את⟩",
       "marks": "它的四境"
     },
     {
@@ -82,7 +56,7 @@
     },
     {
       "surface": "מתרצה",
-      "gloss": "從得撒"
+      "gloss": "從得撒起"
     },
     {
       "surface": "כי",
@@ -90,15 +64,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "不"
+      "gloss": "沒有"
     },
     {
       "surface": "פתח",
-      "gloss": "開（城）"
+      "gloss": "開門"
     },
     {
       "surface": "ויך",
-      "gloss": "擊打"
+      "gloss": "他就擊打"
     },
     {
       "surface": "את",
@@ -118,6 +92,6 @@
       "gloss": "剖開"
     }
   ],
-  "timestamp": "2026-10-16T09:21:18.588039328Z",
+  "timestamp": "2026-10-16T22:05:50.484076906Z",
   "model": "glm-5.3"
 }

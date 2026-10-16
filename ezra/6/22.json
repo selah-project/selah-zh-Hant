@@ -5,42 +5,11 @@
   "book": "ezra",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈就是〉",
-      "rationale": "中文同位語需要連接詞，希伯來文以 construct 連接「以羅欣的殿——以色列的以羅欣」"
-    },
-    {
-      "kind": "crux",
-      "subject": "亞述王",
-      "rationale": "波斯時期經文稱「亞述王」——或指波斯王襲用亞述帝國舊銜（如 KJV 註），或按整體帝國之稱；經文照寫，不加解釋"
-    },
-    {
-      "kind": "substitution",
-      "subject": "מצות",
-      "gloss rationale": "字面為「無酵的甜餅」，譯作固定節名「除酵節」"
-    },
-    {
-      "kind": "measurement",
-      "subject": "七日",
-      "rationale": "節期日數的明確計數"
-    }
-  ],
-  "translation": "他們歡歡喜喜地守除酵節七日，因為雅威使他們喜樂，又使亞述王的心傾向他們，使他們的手在以色列的以羅欣、〈就是〉以羅欣的殿的工作上堅固。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "33cb85166db28eef2ae1bfbc2c2005bc44bb2a5bbb16baa2412f4c7409040926",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/6\/21-22.1792147777472.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們守除酵節七日，滿有喜樂，因為雅威使他們喜樂，又使亞述王的心轉向他們，堅固他們的手，作以羅欣——以色列的以羅欣——之殿的工程。",
   "tokens": [
     {
       "surface": "ויעשו",
-      "gloss": "守了"
+      "gloss": "他們守"
     },
     {
       "surface": "חג",
@@ -48,7 +17,7 @@
     },
     {
       "surface": "מצות",
-      "gloss": "除酵"
+      "gloss": "除酵節"
     },
     {
       "surface": "שבעת",
@@ -60,7 +29,7 @@
     },
     {
       "surface": "בשמחה",
-      "gloss": "歡歡喜喜地"
+      "gloss": "滿有喜樂"
     },
     {
       "surface": "כי",
@@ -76,7 +45,7 @@
     },
     {
       "surface": "והסב",
-      "gloss": "使……轉向"
+      "gloss": "又使……轉向"
     },
     {
       "surface": "לב",
@@ -96,7 +65,7 @@
     },
     {
       "surface": "לחזק",
-      "gloss": "使……堅固"
+      "gloss": "堅固"
     },
     {
       "surface": "ידיהם",
@@ -104,7 +73,7 @@
     },
     {
       "surface": "במלאכת",
-      "gloss": "在……的工作中"
+      "gloss": "作……的工程"
     },
     {
       "surface": "בית",
@@ -116,13 +85,13 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "……的以羅欣"
+      "gloss": "以羅欣"
     },
     {
       "surface": "ישראל",
-      "gloss": "以色列"
+      "gloss": "以色列的"
     }
   ],
-  "timestamp": "2026-10-16T10:49:37.473259492Z",
+  "timestamp": "2026-10-16T22:26:41.858442522Z",
   "model": "glm-5.3"
 }

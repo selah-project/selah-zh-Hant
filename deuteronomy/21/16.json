@@ -5,54 +5,33 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על פני",
-      "rationale": "字面「在…的面之上」，即「當著…的面／排在…之前」。"
-    },
-    {
-      "kind": "measurement",
-      "subject": "לבכר",
-      "rationale": "本節關乎長子名分與產業分配的法定次序，屬承受制度的規定。"
-    }
-  ],
-  "translation": "那麼，到了他使他的兒子承受 ⟨את⟩ 他一切產業的日子，他不可立 ⟨את⟩ 蒙愛之妻的兒子為長子，排在被惡之妻的兒子——那長子——面前。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "2a32c3936654e6efe2a2ca34729192468634b9d0c6e697075eb4efbd5720e432",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/21\/13-16.1792128991920.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "到了他使 ⟨את⟩ 他兒子們承受產業的日子，就是他所有的 ⟨את⟩ 那一切，他不可立 ⟨את⟩ 那被愛之婦的兒子為長子，在那被恨之婦的兒子——那長子——面前。",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "那麼"
+      "gloss": "到了"
     },
     {
       "surface": "ביום",
-      "gloss": "在…的日子"
+      "gloss": "在……的日子"
     },
     {
       "surface": "הנחילו",
-      "gloss": "他使…承受產業"
+      "gloss": "他使……承受產業"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他的兒子"
+      "marks": "他兒子們"
     },
     {
       "surface": "בניו",
-      "gloss": "他的兒子"
+      "gloss": "他兒子們"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那一切所有的"
+      "marks": "那一切他所有的"
     },
     {
       "surface": "אשר",
@@ -64,7 +43,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "他的"
+      "gloss": "他"
     },
     {
       "surface": "לא",
@@ -72,16 +51,16 @@
     },
     {
       "surface": "יוכל",
-      "gloss": "他能"
+      "gloss": "他不能"
     },
     {
       "surface": "לבכר",
-      "gloss": "立為長子"
+      "gloss": "立……為長子"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "蒙愛之妻的兒子"
+      "marks": "那被愛之婦的兒子"
     },
     {
       "surface": "בן",
@@ -89,11 +68,11 @@
     },
     {
       "surface": "האהובה",
-      "gloss": "蒙愛之妻的"
+      "gloss": "那被愛的（婦人）"
     },
     {
       "surface": "על",
-      "gloss": "在…之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "פני",
@@ -105,13 +84,13 @@
     },
     {
       "surface": "השנואה",
-      "gloss": "被惡之妻的"
+      "gloss": "那被恨的（婦人）"
     },
     {
       "surface": "הבכר",
       "gloss": "那長子"
     }
   ],
-  "timestamp": "2026-10-16T05:36:31.922109508Z",
+  "timestamp": "2026-10-16T22:14:08.586679585Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "三十人",
-      "rationale": "受邀者人數被點算"
-    },
-    {
-      "kind": "substitution",
-      "subject": "廳房",
-      "rationale": "לשכה 是建築中的房間（儲藏、用膳或住宿用），無單一固定譯法"
-    }
-  ],
-  "translation": "撒母耳領了 ⟨את⟩ 掃羅和 ⟨ואת⟩ 他的僕人，帶他們進入廳房，使〈他們〉在受邀的人中坐首位；他們約有三十人。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "88561222bcb605aca7e0f93cd2e633a631bca7efc5704c639632b6b6296854e6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/9\/21-24.1792130947330.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "撒母耳領了 ⟨את⟩ 掃羅和 ⟨את את⟩ ⟨את⟩ 他的僕人，帶他們進入廳房，在受邀者的首位給他們安排座位；他們約有三十人。",
   "tokens": [
     {
       "surface": "ויקח",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨ואת⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的僕人"
     },
     {
@@ -64,7 +43,7 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "使……得"
+      "gloss": "給"
     },
     {
       "surface": "להם",
@@ -76,11 +55,11 @@
     },
     {
       "surface": "בראש",
-      "gloss": "在首位"
+      "gloss": "在……的首位"
     },
     {
       "surface": "הקרואים",
-      "gloss": "受邀的人"
+      "gloss": "受邀者"
     },
     {
       "surface": "והמה",
@@ -88,13 +67,13 @@
     },
     {
       "surface": "כשלשים",
-      "gloss": "約三十"
+      "gloss": "約有三十"
     },
     {
       "surface": "איש",
       "gloss": "人"
     }
   ],
-  "timestamp": "2026-10-16T06:09:07.331760441Z",
+  "timestamp": "2026-10-16T22:02:50.547041392Z",
   "model": "glm-5.3"
 }

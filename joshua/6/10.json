@@ -5,33 +5,7 @@
   "book": "joshua",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "對以色列百姓",
-      "rationale": "約書亞直接吩咐百姓，禁令與許可皆以第二人稱複數發出。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "תריעו…הריעו…והריעתם",
-      "rationale": "根 רוע 三次出現：禁令「不可呼喊」、命令「呼喊！」、應許「你們才呼喊」，首尾呼應。"
-    },
-    {
-      "kind": "addition",
-      "subject": "「你們的」與「才」",
-      "rationale": "中文語法需要的主語與時序詞，希伯來文由動詞變化承擔。"
-    }
-  ],
-  "translation": "約書亞吩咐 ⟨את⟩ 百姓說：「你們不可呼喊，也不可讓人聽見你們的聲音，不可有話從你們口中出來，直到我對你們說『呼喊！』的那日，你們才呼喊。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "394fc078a3e4aedf636a5f5ce1cfef312692e2f6f9914fc4cf641908e055cffb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/6\/9-12.1792129452956.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "約書亞吩咐 ⟨את⟩ 百姓說：「你們不可呼喊，也不可讓人聽見你們的聲音，也不可有一句話從你們口中出來，直到我對你們說『呼喊！』的那日，那時你們才呼喊。」",
   "tokens": [
     {
       "surface": "ואת",
@@ -81,7 +55,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "不可"
+      "gloss": "也不可"
     },
     {
       "surface": "יצא",
@@ -93,7 +67,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "話"
+      "gloss": "一句話"
     },
     {
       "surface": "עד",
@@ -105,7 +79,7 @@
     },
     {
       "surface": "אמרי",
-      "gloss": "我說"
+      "gloss": "我……說"
     },
     {
       "surface": "אליכם",
@@ -117,9 +91,9 @@
     },
     {
       "surface": "והריעתם",
-      "gloss": "你們才呼喊"
+      "gloss": "那時你們才呼喊"
     }
   ],
-  "timestamp": "2026-10-16T05:44:12.957831358Z",
+  "timestamp": "2026-10-16T22:45:17.675800993Z",
   "model": "glm-5.3"
 }

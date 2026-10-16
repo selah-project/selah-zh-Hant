@@ -5,23 +5,7 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "以利亞對眾民說",
-      "rationale": "命令式直接吩咐：「拿住……不容逃脫」"
-    }
-  ],
-  "translation": "以利亞對他們說：「你們拿住巴力的先知，不容一人逃脫。」他們就拿住了他們，以利亞把他們帶下基順溪邊，在那裏殺了他們。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "e73263b2b224ed270ab18371faed27b323945380c3fc4ae3262dbdbd1b3b0a08",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/18\/37-40.1792133254413.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "以利亞對他們說：「你們要拿住 ⟨את⟩ 巴力的眾先知，不可讓一人逃脫。」他們就拿住了他們，以利亞把他們帶下到基順溪邊，在那裡宰殺了他們。",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -37,20 +21,20 @@
     },
     {
       "surface": "תפשו",
-      "gloss": "拿住"
+      "gloss": "你們要拿住"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "巴力的先知"
+      "marks": "巴力的眾先知"
     },
     {
       "surface": "נביאי",
-      "gloss": "先知"
+      "gloss": "眾先知"
     },
     {
       "surface": "הבעל",
-      "gloss": "巴力"
+      "gloss": "巴力的"
     },
     {
       "surface": "איש",
@@ -58,7 +42,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "不容"
+      "gloss": "不可"
     },
     {
       "surface": "ימלט",
@@ -66,7 +50,7 @@
     },
     {
       "surface": "מהם",
-      "gloss": "從他們中間"
+      "gloss": "從他們之中"
     },
     {
       "surface": "ויתפשום",
@@ -74,7 +58,7 @@
     },
     {
       "surface": "ויורדם",
-      "gloss": "帶下"
+      "gloss": "把他們帶下"
     },
     {
       "surface": "אליהו",
@@ -94,13 +78,13 @@
     },
     {
       "surface": "וישחטם",
-      "gloss": "殺了他們"
+      "gloss": "宰殺了他們"
     },
     {
       "surface": "שם",
-      "gloss": "在那裏"
+      "gloss": "在那裡"
     }
   ],
-  "timestamp": "2026-10-16T06:47:34.414746263Z",
+  "timestamp": "2026-10-16T21:58:18.858528949Z",
   "model": "glm-5.3"
 }

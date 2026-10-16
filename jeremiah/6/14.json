@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שלום שלום ואין שלום",
-      "rationale": "「平安」三次出現，前兩次重複宣告、第三次否定，中文保留三重重複。"
-    },
-    {
-      "kind": "crux",
-      "subject": "על נקלה",
-      "rationale": "和合本「輕輕忽忽」：或作「以不足為道的方式」，亦有古卷讀法連於「我百姓的女兒」（בת עמי），如武加大所反映。"
-    }
-  ],
-  "translation": "他們輕忽地醫治了我百姓的破碎，說：「平安了，平安了」，其實沒有平安。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c3cd0603c714e7103dc1f4c6d8d4157dea16fbe37e83a626a7a1b94b90ea575f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/6\/13-16.1792136206591.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們輕輕地醫治了我百姓的 ⟨את⟩ 破碎，說：「平安了，平安了」——其實沒有平安。",
   "tokens": [
     {
       "surface": "וירפאו",
@@ -35,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我百姓的破碎"
+      "marks": "破碎"
     },
     {
       "surface": "שבר",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "נקלה",
-      "gloss": "輕忽地"
+      "gloss": "輕輕地"
     },
     {
       "surface": "לאמר",
@@ -74,6 +53,6 @@
       "gloss": "平安"
     }
   ],
-  "timestamp": "2026-10-16T07:36:46.592091922Z",
+  "timestamp": "2026-10-16T22:41:20.378368488Z",
   "model": "glm-5.3"
 }

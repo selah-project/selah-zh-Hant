@@ -5,76 +5,55 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לפני יהוה",
-      "rationale": "字面「雅威的面」，譯作「雅威面前」。"
-    },
-    {
-      "kind": "addition",
-      "subject": "牠們",
-      "rationale": "אתם 是帶後綴的受詞記號（⟨אותם⟩家族），中文補「牠們」以成句。"
-    }
-  ],
-  "translation": "他要取⟨את⟩那兩隻公山羊，使牠們站在雅威面前，在會幕的門口。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "944eda1228738cb0d634cd8c362a87d7b9f0c1241d839c15bf5b819456315147",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/16\/5-8.1792127028557.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他要取 ⟨את⟩ 兩隻公山羊，使牠們站在雅威面前，會幕的入口處。",
   "tokens": [
     {
-      "surface": "ולקח",
-      "gloss": "取"
+      "surface": "וְלָקַח",
+      "gloss": "他要取"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "那兩隻公山羊"
+      "marks": "兩隻公山羊"
     },
     {
-      "surface": "שני",
+      "surface": "שְׁנֵי",
       "gloss": "兩隻"
     },
     {
-      "surface": "השעירם",
+      "surface": "הַשְּׂעִירִם",
       "gloss": "公山羊"
     },
     {
-      "surface": "והעמיד",
-      "gloss": "使牠們站立"
+      "surface": "וְהֶעֱמִיד",
+      "gloss": "使牠們站在"
     },
     {
-      "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "牠們（兩隻公山羊）"
+      "surface": "אֹתָם",
+      "gloss": "⟨את⟩",
+      "marks": "雅威面前"
     },
     {
-      "surface": "לפני",
+      "surface": "לִפְנֵי",
       "gloss": "面前"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָה",
       "gloss": "雅威"
     },
     {
-      "surface": "פתח",
-      "gloss": "門口"
+      "surface": "פֶּתַח",
+      "gloss": "入口處"
     },
     {
-      "surface": "אהל",
-      "gloss": "會幕（帳棚）"
+      "surface": "אֹהֶל",
+      "gloss": "會幕"
     },
     {
-      "surface": "מועד",
-      "gloss": "相會之幕"
+      "surface": "מוֹעֵד",
+      "gloss": "會幕"
     }
   ],
-  "timestamp": "2026-10-16T05:03:48.558129992Z",
+  "timestamp": "2026-10-16T22:49:29.167328588Z",
   "model": "glm-5.3"
 }

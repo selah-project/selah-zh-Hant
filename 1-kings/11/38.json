@@ -5,37 +5,11 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "在我眼中看為正",
-      "rationale": "הישר בעיני 直譯「在我眼中為正直」，中文沿用此慣用語"
-    },
-    {
-      "kind": "addition",
-      "subject": "事必如此",
-      "rationale": "והיה 為條件句引語，中文補出以成句"
-    },
-    {
-      "kind": "you",
-      "subject": "耶羅波安",
-      "rationale": "全節為條件性應許，直接對耶羅波安說話"
-    }
-  ],
-  "translation": "你若聽從我所吩咐你的一切，行在我的道路上，行我眼中看為正的事，遵守我的律例和我的誡命，正如我僕人大衛所行的，我就必與你同在，必為你建立堅固的家，如我為大衛所建立的一樣，必將以色列賜給你⟨את⟩。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "20cf7c07f798e517e3acdffd5c6cf3dcb7ddd0c8536ac7f56d4b4cdcb9cd901f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/11\/37-40.1792132990179.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你若聽從我所吩咐 ⟨את⟩ 你的一切，行在我的道路上，行我眼中看為正直的事，謹守我的律例和我的誡命，正如我僕人大衛所行的，我就必與你同在，必為你建立堅固的家，正如我為大衛所建立的，也必將 ⟨את⟩ 以色列賜給你。",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "事必如此"
+      "gloss": "就必"
     },
     {
       "surface": "אם",
@@ -48,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我所吩咐你的一切"
+      "marks": "你所吩咐我的一切"
     },
     {
       "surface": "כל",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "אצוך",
-      "gloss": "我吩咐你的"
+      "gloss": "我吩咐你"
     },
     {
       "surface": "והלכת",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "הישר",
-      "gloss": "正的事"
+      "gloss": "正直的事"
     },
     {
       "surface": "בעיני",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "לשמור",
-      "gloss": "遵守"
+      "gloss": "謹守"
     },
     {
       "surface": "חקותי",
@@ -108,11 +82,11 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "我的僕人"
+      "gloss": "我僕人"
     },
     {
       "surface": "והייתי",
-      "gloss": "我就必成為"
+      "gloss": "我就必"
     },
     {
       "surface": "עמך",
@@ -136,7 +110,7 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "如"
+      "gloss": "正如"
     },
     {
       "surface": "בניתי",
@@ -148,11 +122,11 @@
     },
     {
       "surface": "ונתתי",
-      "gloss": "我必賜給"
+      "gloss": "我必賜"
     },
     {
       "surface": "לך",
-      "gloss": "你"
+      "gloss": "給你"
     },
     {
       "surface": "את",
@@ -164,6 +138,6 @@
       "gloss": "以色列"
     }
   ],
-  "timestamp": "2026-10-16T06:43:10.180636494Z",
+  "timestamp": "2026-10-16T21:58:08.056495351Z",
   "model": "glm-5.3"
 }

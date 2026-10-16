@@ -5,52 +5,36 @@
   "book": "micah",
   "lang": "zh-Hant",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "הנהלאה",
-      "rationale": "נהלה（被遠逐的）此形在塔納赫中僅見於此"
-    }
-  ],
-  "translation": "我必使瘸腿的成為餘民，使被遠逐的成為強盛之國；雅威必在錫安山作王治理他們，從今直到永遠。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "7f87565b349dc80012fa70b7aebb8aa033c465e0096602a9ea374f1e4a352b08",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/micah\/4\/5-8.1792139980536.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我必使 ⟨את⟩ 那瘸腿的成為餘民，那被驅逐的成為強盛之國；雅威必在他們之上作王，在錫安山上，從今時直到永遠。",
   "tokens": [
     {
       "surface": "ושמתי",
-      "gloss": "我必使……成為"
+      "gloss": "我必使"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "瘸腿的"
+      "marks": "那瘸腿的"
     },
     {
       "surface": "הצלעה",
-      "gloss": "瘸腿的"
+      "gloss": "那瘸腿的"
     },
     {
       "surface": "לשארית",
-      "gloss": "餘民"
+      "gloss": "成為餘民"
     },
     {
       "surface": "והנהלאה",
-      "gloss": "被遠逐的"
+      "gloss": "那被驅逐的"
     },
     {
       "surface": "לגוי",
-      "gloss": "之國"
+      "gloss": "成為……之國"
     },
     {
       "surface": "עצום",
-      "gloss": "強盛"
+      "gloss": "強盛的"
     },
     {
       "surface": "ומלך",
@@ -62,11 +46,11 @@
     },
     {
       "surface": "עליהם",
-      "gloss": "治理他們"
+      "gloss": "在他們之上"
     },
     {
       "surface": "בהר",
-      "gloss": "在……山"
+      "gloss": "在……山上"
     },
     {
       "surface": "ציון",
@@ -74,7 +58,7 @@
     },
     {
       "surface": "מעתה",
-      "gloss": "從今"
+      "gloss": "從今時"
     },
     {
       "surface": "ועד",
@@ -85,6 +69,6 @@
       "gloss": "永遠"
     }
   ],
-  "timestamp": "2026-10-16T08:39:40.536995063Z",
+  "timestamp": "2026-10-16T22:52:02.041652415Z",
   "model": "glm-5.3"
 }

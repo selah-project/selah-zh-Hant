@@ -5,28 +5,7 @@
   "book": "2-chronicles",
   "lang": "zh-Hant",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "官長",
-      "rationale": "שוטר 字面為記錄員／督察，此處譯作官長"
-    },
-    {
-      "kind": "addition",
-      "subject": "之一",
-      "rationale": "משרי המלך 為複數，指王眾官長中的一位，中文補「之一」"
-    }
-  ],
-  "translation": "烏西雅有一支作戰的軍隊，按編隊出戰的兵，數目按他們的登記，由書記耶利和官長瑪西雅經手，在王的官長哈拿尼雅手下。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "93955407d1c63eeed1654ef7935f54857872ba4bee969f3d336825122d4fcc51",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/26\/11-12.1792150026876.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "烏西雅有作戰的軍隊，按編隊出戰，人數照他們的統計，由書記耶利和官員瑪西雅經手，在王的一位首領哈拿尼雅手下。",
   "tokens": [
     {
       "surface": "ויהי",
@@ -42,19 +21,19 @@
     },
     {
       "surface": "עשה",
-      "gloss": "作"
+      "gloss": "作戰的"
     },
     {
       "surface": "מלחמה",
-      "gloss": "戰"
+      "gloss": "戰爭"
     },
     {
       "surface": "יוצאי",
-      "gloss": "出戰的"
+      "gloss": "出"
     },
     {
       "surface": "צבא",
-      "gloss": "兵"
+      "gloss": "出征"
     },
     {
       "surface": "לגדוד",
@@ -62,15 +41,15 @@
     },
     {
       "surface": "במספר",
-      "gloss": "按…數目"
+      "gloss": "照……的數目"
     },
     {
       "surface": "פקדתם",
-      "gloss": "他們的登記"
+      "gloss": "他們的統計"
     },
     {
       "surface": "ביד",
-      "gloss": "由…經手"
+      "gloss": "由……經手"
     },
     {
       "surface": "יעואל",
@@ -81,20 +60,16 @@
       "gloss": "書記"
     },
     {
-      "surface": "ו",
-      "gloss": "和"
-    },
-    {
-      "surface": "מעשיהו",
+      "surface": "ומעשיהו",
       "gloss": "瑪西雅"
     },
     {
       "surface": "השוטר",
-      "gloss": "官長"
+      "gloss": "官員"
     },
     {
       "surface": "על",
-      "gloss": "在…手下"
+      "gloss": "在……之下"
     },
     {
       "surface": "יד",
@@ -106,13 +81,13 @@
     },
     {
       "surface": "משרי",
-      "gloss": "官長之一"
+      "gloss": "首領之一"
     },
     {
       "surface": "המלך",
       "gloss": "王的"
     }
   ],
-  "timestamp": "2026-10-16T11:27:06.876985608Z",
+  "timestamp": "2026-10-16T22:03:45.940020846Z",
   "model": "glm-5.3"
 }

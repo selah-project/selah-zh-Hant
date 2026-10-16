@@ -5,28 +5,7 @@
   "book": "1-chronicles",
   "lang": "zh-Hant",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "六十歲",
-      "rationale": "記希斯崙娶妻時的年歲。"
-    },
-    {
-      "kind": "idiom",
-      "subject": "בן ששים שנה",
-      "rationale": "直譯「六十歲之子」，即六十歲的人。"
-    }
-  ],
-  "translation": "後來，希斯崙進到瑪吉的女兒——基列之父〈那裡〉——那裡去；他娶了她，那時他是六十歲；她給他生了⟨את⟩西割。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "6cdf964d06b405ba928c9883a91d37b5554a7cbd71e3802289c528d02cca780a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/2\/21-24.1792148346547.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "後來，希斯崙進了瑪吉的女兒──基列的父親──那裡，娶了她；那時他六十歲，她為他生了 ⟨את⟩ 細割。",
   "tokens": [
     {
       "surface": "ואחר",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "進到"
+      "gloss": "進了"
     },
     {
       "surface": "חצרון",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "到"
+      "gloss": "到……那裡"
     },
     {
       "surface": "בת",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "אבי",
-      "gloss": "之父"
+      "gloss": "父親"
     },
     {
       "surface": "גלעד",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "……歲的人"
+      "gloss": "……歲"
     },
     {
       "surface": "ששים",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "שנה",
-      "gloss": "歲"
+      "gloss": "年"
     },
     {
       "surface": "ותלד",
@@ -90,18 +69,22 @@
     },
     {
       "surface": "לו",
-      "gloss": "給他"
+      "gloss": "為他"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "西割"
+      "marks": "細割"
     },
     {
       "surface": "שגוב",
-      "gloss": "西割"
+      "gloss": "細割"
     }
   ],
-  "timestamp": "2026-10-16T10:59:06.548406195Z",
-  "model": "glm-5.3"
+  "timestamp": "2026-10-16T21:56:48.127765531Z",
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

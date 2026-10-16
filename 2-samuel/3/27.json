@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "החומש",
-      "rationale": "字面『第五（肋）』，實指腹部／下腹：KJV「第五肋」、JPS「鼠蹊」、ASV「身體」"
-    },
-    {
-      "kind": "crux",
-      "subject": "עשהאל",
-      "rational": "עשה＋אל 兩個token組成專名亞撒黑，各token皆有 gloss"
-    },
-    {
-      "kind": "addition",
-      "subject": "〈這是〉",
-      "rationale": "中文需繫詞連接因果，希伯來文無"
-    }
-  ],
-  "translation": "押尼珥回到希伯崙，約押把他引到城門中間，要與他私下說話，就在那裡擊打他的腹部，他就死了——〈這是〉因他兄弟亞撒黑的血。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "5f79440de16903dc2230ce547381bfd1d19ec3c4958f5ce70272fd5c52758832",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/3\/25-28.1792131695217.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "押尼珥回到希伯崙，約押把他拉到城門当中，要與他私下說話，就在那裡擊打他的腹部，他就死了——這是為了他兄弟亞撒黑的血。",
   "tokens": [
     {
       "surface": "וישב",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "ויטהו",
-      "gloss": "把他引到一邊"
+      "gloss": "把他拉到一旁"
     },
     {
       "surface": "יואב",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "תוך",
-      "gloss": "中間"
+      "gloss": "当中"
     },
     {
       "surface": "השער",
@@ -71,12 +45,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩他",
-      "marks": "押尼珥"
+      "gloss": "⟨את⟩",
+      "marks": "他"
     },
     {
       "surface": "בשלי",
-      "gloss": "私下"
+      "gloss": "私下地"
     },
     {
       "surface": "ויכהו",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "בדם",
-      "gloss": "因……的血"
+      "gloss": "為了……的血"
     },
     {
       "surface": "עשה",
@@ -104,13 +78,13 @@
     },
     {
       "surface": "אל",
-      "gloss": "亞撒黑（名之一部）"
+      "gloss": "（亞撒黑的一部分）"
     },
     {
       "surface": "אחיו",
-      "gloss": "他的兄弟"
+      "gloss": "他兄弟"
     }
   ],
-  "timestamp": "2026-10-16T06:21:35.218910576Z",
+  "timestamp": "2026-10-16T22:10:35.503339426Z",
   "model": "glm-5.3"
 }

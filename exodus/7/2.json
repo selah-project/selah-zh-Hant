@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כל אשר",
-      "rationale": "את 只標記 כל，「一切」本身即受詞；中文加「話」以成句。"
-    },
-    {
-      "kind": "addition",
-      "subject": "必",
-      "rationale": "中文語氣需要「就必」，希伯來文僅作וְשִׁלַּח。"
-    }
-  ],
-  "translation": "你要說出我所吩咐你的一切話，你哥哥亞倫要對法老說，他就必差遣 ⟨את⟩ 以色列人離開他的地。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ee71af541d7458f4d1e20d0686b0bca12acbecdb09fdec292f50d49715435935",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/7\/1-4.1792125801879.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你要說出 ⟨את⟩ 我吩咐你的一切話；你的哥哥亞倫要對法老說，他就會差遣 ⟨את⟩ 以色列的子孫離開他的地。」",
   "tokens": [
     {
       "surface": "אתה",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "תדבר",
-      "gloss": "要說出"
+      "gloss": "要說"
     },
     {
       "surface": "את",
@@ -58,8 +37,8 @@
       "gloss": "亞倫"
     },
     {
-      "surface": "אחיק",
-      "gloss": "你哥哥"
+      "surface": "אחיך",
+      "gloss": "你的哥哥"
     },
     {
       "surface": "ידבר",
@@ -75,16 +54,16 @@
     },
     {
       "surface": "ושלח",
-      "gloss": "他就必差遣"
+      "gloss": "他就會差遣"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "以色列人"
+      "marks": "以色列的子孫"
     },
     {
       "surface": "בני",
-      "gloss": "…的人"
+      "gloss": "的子孫"
     },
     {
       "surface": "ישראל",
@@ -95,6 +74,6 @@
       "gloss": "離開他的地"
     }
   ],
-  "timestamp": "2026-10-16T04:43:21.880641100Z",
+  "timestamp": "2026-10-16T22:21:20.847447412Z",
   "model": "glm-5.3"
 }

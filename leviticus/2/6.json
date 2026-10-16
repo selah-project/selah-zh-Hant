@@ -5,63 +5,42 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "פתות／פתים",
-      "rationale": "動詞「掰」與名詞「碎片」同根，中文以「掰成碎片」保留其呼應"
-    },
-    {
-      "kind": "addition",
-      "subject": "它",
-      "rationale": "中文需賓語代詞，希伯來文由⟨את⟩標記"
-    }
-  ],
-  "translation": "你要把它掰成碎片，澆油在其上；這是素祭。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "16c89a26376a241ad035c7e866c2c3fbb5f05f783cbfb95f71b6da5858b11717",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/2\/5-8.1792126625816.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你要把 ⟨את⟩ 它掰成一塊一塊的碎片，並把油澆在上面；它是素祭。",
   "tokens": [
     {
-      "surface": "פתות",
-      "gloss": "掰成"
+      "surface": "פָּת֥וֹת",
+      "gloss": "掰成碎片"
     },
     {
-      "surface": "אתה",
+      "surface": "אֹתָהּ֙",
       "gloss": "⟨את⟩",
-      "marks": "它（素祭餅）"
+      "marks": "它（那餅）"
     },
     {
-      "surface": "פתים",
-      "gloss": "碎片"
+      "surface": "פִּתִּ֔ים",
+      "gloss": "一塊一塊的碎片"
     },
     {
-      "surface": "ויצקת",
-      "gloss": "澆"
+      "surface": "וְיָצַקְתָּ֥",
+      "gloss": "並澆"
     },
     {
-      "surface": "עליה",
-      "gloss": "在其上"
+      "surface": "עָלֶ֖יהָ",
+      "gloss": "在它上面"
     },
     {
-      "surface": "שמן",
+      "surface": "שָֽׁׁמֶן",
       "gloss": "油"
     },
     {
-      "surface": "מנחה",
+      "surface": "מִנְחָ֖ה",
       "gloss": "素祭"
     },
     {
-      "surface": "הוא",
-      "gloss": "這是"
+      "surface": "הִֽוא",
+      "gloss": "它是"
     }
   ],
-  "timestamp": "2026-10-16T04:57:05.817016809Z",
+  "timestamp": "2026-10-16T22:49:21.972585406Z",
   "model": "glm-5.3"
 }

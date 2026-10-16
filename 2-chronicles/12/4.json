@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "zh-Hant",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "堅固城",
-      "rationale": "המצרות 字面是「設防之城」（圍城土壘／壁壘），中文以「堅固城」表其設防之義"
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "gloss": "關係代名詞由中文「的」字結構吸收，略去"
-    }
-  ],
-  "translation": "他攻取了 ⟨את⟩ 猶大的堅固城，一路來到耶路撒冷。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "0335d5440a18d7dc4dcd9d32c47047f3fc45861eb7b5f25379bbf32a4c2c7da1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/12\/1-4.1792149278511.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他攻取了⟨את⟩猶大〈屬〉堅固的城，來到耶路撒冷。",
   "tokens": [
     {
       "surface": "וילכד",
-      "gloss": "攻取了"
+      "gloss": "他攻取了"
     },
     {
       "surface": "את",
@@ -43,19 +22,19 @@
     },
     {
       "surface": "המצרות",
-      "gloss": "堅固"
+      "gloss": "堅固的（堡壘）"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "〈屬〉"
     },
     {
       "surface": "ליהודה",
-      "gloss": "猶大的"
+      "gloss": "猶大"
     },
     {
       "surface": "ויבא",
-      "gloss": "來到"
+      "gloss": "他來到"
     },
     {
       "surface": "עד",
@@ -66,6 +45,6 @@
       "gloss": "耶路撒冷"
     }
   ],
-  "timestamp": "2026-10-16T11:14:38.512454783Z",
+  "timestamp": "2026-10-16T22:03:04.776654325Z",
   "model": "glm-5.3"
 }

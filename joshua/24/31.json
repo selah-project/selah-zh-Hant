@@ -5,28 +5,7 @@
   "book": "joshua",
   "lang": "zh-Hant",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "האריכו ימים",
-      "rationale": "字面「使日子長」，即長壽"
-    },
-    {
-      "kind": "addition",
-      "subject": "都",
-      "rationale": "中文需要時間副詞表述 כל ימי「全部日子」的持續義"
-    }
-  ],
-  "translation": "約書亞在世的日子，以及那些在約書亞之後長壽、並且知道雅威為以色列所行一切事的長老在世的日子，以色列一直都事奉雅威。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "650da16a52120dcaeb57aae3d07a8a38fecb1a7b4cc5162b697474b45a27c6ea",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/24\/29-32.1792130079149.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "以色列事奉 ⟨את⟩ 雅威，在約書亞的一切日子，也在眾長老的一切日子——那些在約書亞之後長壽、並且認識 ⟨את⟩ 雅威為以色列所行一切作為的長老。",
   "tokens": [
     {
       "surface": "ויעבד",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "全都"
+      "gloss": "一切"
     },
     {
       "surface": "ימי",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "以及全都"
+      "gloss": "也在……的一切"
     },
     {
       "surface": "ימי",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "הזקנים",
-      "gloss": "長老"
+      "gloss": "眾長老"
     },
     {
       "surface": "אשר",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "之後"
+      "gloss": "在……之後"
     },
     {
       "surface": "יהושע",
@@ -95,12 +74,12 @@
     },
     {
       "surface": "ידעו",
-      "gloss": "知道"
+      "gloss": "認識"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "雅威的一切作為"
+      "marks": "雅威所行的一切作為"
     },
     {
       "surface": "כל",
@@ -120,13 +99,13 @@
     },
     {
       "surface": "עשה",
-      "gloss": "行的"
+      "gloss": "行"
     },
     {
       "surface": "לישראל",
       "gloss": "為以色列"
     }
   ],
-  "timestamp": "2026-10-16T05:54:39.150571805Z",
+  "timestamp": "2026-10-16T22:44:48.231352026Z",
   "model": "glm-5.3"
 }

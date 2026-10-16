@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "歸回在你頭上",
-      "rationale": "希伯來成語：惡行如回力般返回行惡者頭上；中文按字面保留"
-    },
-    {
-      "kind": "you",
-      "subject": "所羅門對示每",
-      "rationale": "王直接宣告對示每的判決"
-    }
-  ],
-  "translation": "王又對示每說：「你自己知道你心裡所知道的一切惡事，就是你向我父大衛所行的；雅威必把你的惡歸回在你頭上。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "d37254abe441847c829956ba9785e712efa6f9698a49fe962f3ef438b8dfa8c1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/2\/41-44.1792132550740.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "王對示每說：「你自己知道 ⟨את⟩ 你心所知道的一切惡事，就是你向我父親大衛所行的；雅威必使你的惡歸回 ⟨את⟩ 在你頭上。」",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "又說"
+      "gloss": "說"
     },
     {
       "surface": "המלך",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "……的"
+      "gloss": "所"
     },
     {
       "surface": "ידע",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "לבבך",
-      "gloss": "你心裡"
+      "gloss": "你的心"
     },
     {
       "surface": "אשר",
@@ -91,11 +70,11 @@
     },
     {
       "surface": "אבי",
-      "gloss": "我父"
+      "gloss": "我父親"
     },
     {
       "surface": "והשיב",
-      "gloss": "必歸回"
+      "gloss": "必使……歸回"
     },
     {
       "surface": "יהוה",
@@ -112,9 +91,9 @@
     },
     {
       "surface": "בראשך",
-      "gloss": "在你頭上"
+      "gloss": "在你的頭上"
     }
   ],
-  "timestamp": "2026-10-16T06:35:50.742298353Z",
+  "timestamp": "2026-10-16T21:58:59.436282499Z",
   "model": "glm-5.3"
 }

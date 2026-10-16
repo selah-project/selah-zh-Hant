@@ -5,33 +5,7 @@
   "book": "1-chronicles",
   "lang": "zh-Hant",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "一千／七千／二萬／一百",
-      "rationale": "本節全是俘獲數目的清點"
-    },
-    {
-      "kind": "crux",
-      "subject": "七千騎兵",
-      "rationale": "撒下8:4作「一千七百」，與代上「七千」數字不同，著名異文"
-    },
-    {
-      "kind": "substitution",
-      "subject": "砍斷蹄筋",
-      "rationale": "ויעקר字面為「連根拔起」，用於牲口指砍斷蹄筋使之失效"
-    }
-  ],
-  "translation": "大衛從他那裏擄獲了一千輛戰車、七千名騎兵、二萬名步兵；大衛將所有戰車的馬全都砍斷蹄筋，只留下一百輛戰車的馬。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b66dd8990192fa8811abf5a0dc0f96ffa02afd2855977afc9212a9a28ec156fd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/18\/1-4.1792148845266.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "大衛從他那裡擄獲了一千輛戰車、七千名騎兵、兩萬名步兵；大衛又砍斷 ⟨את⟩ 所有的馬的腿筋，只留下其中一百輛戰車⟨的馬⟩。",
   "tokens": [
     {
       "surface": "וילכד",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ממנו",
-      "gloss": "從他那裏"
+      "gloss": "從他那裡"
     },
     {
       "surface": "אלף",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "רכב",
-      "gloss": "戰車"
+      "gloss": "輛戰車"
     },
     {
       "surface": "ושבעת",
-      "gloss": "七"
+      "gloss": "和七千"
     },
     {
       "surface": "אלפים",
@@ -63,19 +37,19 @@
     },
     {
       "surface": "פרשים",
-      "gloss": "騎兵"
+      "gloss": "名騎兵"
     },
     {
       "surface": "ועשרים",
-      "gloss": "二十"
+      "gloss": "和兩萬"
     },
     {
       "surface": "אלף",
-      "gloss": "千"
+      "gloss": "萬"
     },
     {
       "surface": "איש",
-      "gloss": "人"
+      "gloss": "名"
     },
     {
       "surface": "רגלי",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "ויעקר",
-      "gloss": "砍斷蹄筋"
+      "gloss": "又砍斷腿筋"
     },
     {
       "surface": "דויד",
@@ -92,11 +66,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "所有戰車的馬"
+      "marks": "所有的馬"
     },
     {
       "surface": "כל",
-      "gloss": "所有"
+      "gloss": "所有的"
     },
     {
       "surface": "הרכב",
@@ -104,11 +78,11 @@
     },
     {
       "surface": "ויותר",
-      "gloss": "留下"
+      "gloss": "只留下"
     },
     {
       "surface": "ממנו",
-      "gloss": "從其中"
+      "gloss": "其中"
     },
     {
       "surface": "מאה",
@@ -116,9 +90,9 @@
     },
     {
       "surface": "רכב",
-      "gloss": "戰車"
+      "gloss": "輛戰車"
     }
   ],
-  "timestamp": "2026-10-16T11:07:25.268086061Z",
+  "timestamp": "2026-10-16T21:56:41.253592657Z",
   "model": "glm-5.3"
 }

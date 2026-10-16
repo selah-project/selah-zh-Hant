@@ -5,54 +5,28 @@
   "book": "job",
   "lang": "zh-Hant",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "חלילה לי",
-      "rationale": "字面「願這對我是被褻瀆的事」，慣用語譯為「我絕不敢／斷不容我」。"
-    },
-    {
-      "kind": "elision",
-      "subject": "אם",
-      "rationale": "חלילה לי אם 是一個否認句構中的虛詞，中文以語氣吸收，不逐字譯出。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "אגוע",
-      "rationale": "字面「呼出最後一口氣」，譯「斷氣」保留呼吸的圖像。"
-    }
-  ],
-  "translation": "我絕不敢稱你們為義，直到我斷氣；我必不將我的純全從我身上除去。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "0934fe33eea176bbf262959dfada883b99561d0ad27bccec034829090a68ff18",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/27\/5-8.1792146282180.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我絕不容許自己稱你們為義——我若稱 ⟨את⟩ 你們為義，直到我斷氣之日，我絕不撇下⟨我的⟩純全離開我。",
   "tokens": [
     {
       "surface": "חלילה",
-      "gloss": "絕不敢"
+      "gloss": "絕不容許"
     },
     {
       "surface": "לי",
-      "gloss": "我"
+      "gloss": "我自己"
     },
     {
       "surface": "אם",
-      "gloss": "⟨若⟩"
+      "gloss": "若"
     },
     {
       "surface": "אצדיק",
-      "gloss": "稱…為義"
+      "gloss": "稱……為義"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩你們",
-      "marks": "你們（約伯的三位朋友）"
+      "gloss": "⟨את⟩",
+      "marks": "你們"
     },
     {
       "surface": "עד",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "אגוע",
-      "gloss": "斷氣"
+      "gloss": "我斷氣"
     },
     {
       "surface": "לא",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "אסיר",
-      "gloss": "除去"
+      "gloss": "撇下"
     },
     {
       "surface": "תמתי",
@@ -76,9 +50,9 @@
     },
     {
       "surface": "ממני",
-      "gloss": "從我身上"
+      "gloss": "離開我"
     }
   ],
-  "timestamp": "2026-10-16T10:24:42.180876709Z",
+  "timestamp": "2026-10-16T22:42:26.270373256Z",
   "model": "glm-5.3"
 }

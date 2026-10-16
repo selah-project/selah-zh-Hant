@@ -5,32 +5,11 @@
   "book": "proverbs",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "和好",
-      "rationale": "שלם本義「完整、平安」，使役式意為「使歸和平」；譯「和好」取其使役義"
-    },
-    {
-      "kind": "addition",
-      "subject": "雅威（第二處）",
-      "rationale": "原文首尾一氣，主語僅隱含於動詞ישלם，中文需補出"
-    }
-  ],
-  "translation": "人的道路若蒙雅威喜悅，雅威也使他的仇敵與他和好。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "3f3f2b6eb85bb179256fc399fbce0e6b8a36fede4dad8df4aeea82b7ea42199b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/16\/5-8.1792145467342.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威喜悅一人的道路時，連他的仇敵也必與他和睦相處 ⟨אתו⟩。",
   "tokens": [
     {
       "surface": "ברצות",
-      "gloss": "若蒙……喜悅"
+      "gloss": "喜悅"
     },
     {
       "surface": "יהוה",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "人"
+      "gloss": "一人"
     },
     {
-      "surface": "גם",
-      "gloss": "也"
+      "surface": "םם",
+      "gloss": "連……也"
     },
     {
       "surface": "אויביו",
@@ -54,14 +33,14 @@
     },
     {
       "surface": "ישלם",
-      "gloss": "使……和好"
+      "gloss": "和睦相處"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "他（與他和好）"
+      "marks": "他"
     }
   ],
-  "timestamp": "2026-10-16T10:11:07.343383801Z",
+  "timestamp": "2026-10-16T22:56:52.647166405Z",
   "model": "glm-5.3"
 }

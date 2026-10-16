@@ -5,27 +5,11 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "直到晚上",
-      "rationale": "不潔有明確的時間界限——日落為期限"
-    }
-  ],
-  "translation": "在房子被封閉的日子裡，凡進那房子的人必不潔淨，直到晚上。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "226193c91355b95727e1298c6773228d58e7c30fcd8c1c43e6fcb895f3372090",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/14\/45-48.1792126982780.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "凡在封閉⟨את⟩它的日子裡進入那房子的，必不潔淨到晚上。",
   "tokens": [
     {
       "surface": "והבא",
-      "gloss": "凡進去的人"
+      "gloss": "凡進入的"
     },
     {
       "surface": "אל",
@@ -37,20 +21,20 @@
     },
     {
       "surface": "כל",
-      "gloss": "全部"
+      "gloss": "凡"
     },
     {
       "surface": "ימי",
-      "gloss": "…的日子"
+      "gloss": "日子裡"
     },
     {
       "surface": "הסגיר",
-      "gloss": "被封閉"
+      "gloss": "封閉"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "它（那房子）"
+      "marks": "它（指那房子）"
     },
     {
       "surface": "יטמא",
@@ -58,13 +42,13 @@
     },
     {
       "surface": "עד",
-      "gloss": "直到"
+      "gloss": "到"
     },
     {
       "surface": "הערב",
       "gloss": "晚上"
     }
   ],
-  "timestamp": "2026-10-16T05:03:02.781938343Z",
+  "timestamp": "2026-10-16T22:48:44.102633488Z",
   "model": "glm-5.3"
 }

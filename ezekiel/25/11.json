@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "引導詞「知道…我是」在中文中以句式吸收，不另譯"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨是⟩",
-      "rationale": "希伯來文無繫詞（אני יהוה＝我雅威），中文補出"
-    },
-    {
-      "kind": "hapax",
-      "subject": "שפטים",
-      "rationale": "שֶׁפֶט『判決／刑罰』於塔納赫僅見於此處與25:17"
-    }
-  ],
-  "translation": "我必在摩押施行審判，他們就知道我⟨是⟩雅威。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "d97118e3b6fca6f0ec5d0dc03c86237b93eb74212fc9add6c852de3f2efb3136",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/25\/9-12.1792138528709.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我要在摩押施行刑罰，他們就知道我是雅威。",
   "tokens": [
     {
       "surface": "ובמואב",
@@ -39,19 +13,19 @@
     },
     {
       "surface": "אעשה",
-      "gloss": "我必施行"
+      "gloss": "我要施行"
     },
     {
       "surface": "שפטים",
-      "gloss": "審判"
+      "gloss": "刑罰"
     },
     {
-      "surface": "וידעו",
+      "surface": "ידעו",
       "gloss": "他們就知道"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "⟨that⟩"
     },
     {
       "surface": "אני",
@@ -62,6 +36,6 @@
       "gloss": "雅威"
     }
   ],
-  "timestamp": "2026-10-16T08:15:28.710805952Z",
+  "timestamp": "2026-10-16T22:23:23.868678545Z",
   "model": "glm-5.3"
 }

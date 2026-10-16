@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "המעט",
-      "rationale": "直譯「這算少嗎」，希伯來反問慣用法，意即「你做得還不夠嗎」。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "以換取",
-      "rationale": "תחת 直譯「在…之下／代替」，此處意為「作為交換」，故譯「以換取」。"
-    }
-  ],
-  "translation": "利亞對她說：「你奪走了我的丈夫，還算小事嗎？還要奪走我兒子的風茄嗎？」拉結說：「那麼，今夜他就與你同寢，以換取你兒子的風茄。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "0446f70864e3991b592f6828ba120ab5829639625bf79a2d09e521c79c8f3542",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/30\/13-16.1792125181790.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "利亞對她說：「你奪取 ⟨את⟩ 我的丈夫還以為小事嗎？又要連我兒子的風茄也拿去嗎？」拉結說：「那麼，今夜他就與你同寢，為著你兒子的風茄。」",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "המעט",
-      "gloss": "算小事嗎"
+      "gloss": "小事嗎"
     },
     {
       "surface": "קחתך",
-      "gloss": "你奪走了"
+      "gloss": "你奪取"
     },
     {
       "surface": "את",
@@ -55,16 +34,16 @@
     },
     {
       "surface": "ולקחת",
-      "gloss": "還要奪走"
+      "gloss": "又要拿去"
     },
     {
       "surface": "גם",
-      "gloss": "還"
+      "gloss": "也"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我兒子的風茄"
+      "marks": "風茄"
     },
     {
       "surface": "דודאי",
@@ -100,7 +79,7 @@
     },
     {
       "surface": "תחת",
-      "gloss": "以換取"
+      "gloss": "為著"
     },
     {
       "surface": "דודאי",
@@ -111,6 +90,6 @@
       "gloss": "你兒子的"
     }
   ],
-  "timestamp": "2026-10-16T04:33:01.792065957Z",
+  "timestamp": "2026-10-16T22:29:08.660077812Z",
   "model": "glm-5.3"
 }

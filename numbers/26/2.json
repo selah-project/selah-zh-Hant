@@ -5,50 +5,24 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "שאו את ראש",
-      "rationale": "直譯「抬起…的頭」，意為統計人數；中文作「統計頭數」保留「頭」字"
-    },
-    {
-      "kind": "measurement",
-      "subject": "人口統計",
-      "rationale": "數點二十歲以上能服役者的命令"
-    },
-    {
-      "kind": "invitation",
-      "subject": "שאו（命令式）",
-      "rationale": "對摩西與以利亞撒的命令：你們要統計"
-    }
-  ],
-  "translation": "「你們要將以色列人全會眾的頭數〈按各人父家〉統計出來，凡二十歲以上的，凡在以色列中能出去服役的，都要按他們的父家計算。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "9f791db1380c77a7650ba7abcb71779213d542ef6b50378c002d1ea6d780ff41",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/26\/1-4.1792128162059.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你們要數點 ⟨את⟩ 以色列人全會眾的頭數，從二十歲以上的，按他們父家的〈家〉，一切在以色列中能出去〈當兵〉服役的。",
   "tokens": [
     {
       "surface": "שאו",
-      "gloss": "你們要抬起"
+      "gloss": "你們要數點"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "頭數（全會眾的總數）"
+      "marks": "以色列人全會眾的頭數"
     },
     {
       "surface": "ראש",
-      "gloss": "頭"
+      "gloss": "頭數"
     },
     {
       "surface": "כל",
-      "gloss": "全部"
+      "gloss": "全"
     },
     {
       "surface": "עדת",
@@ -56,7 +30,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "…的子孫"
+      "gloss": "人（之子）"
     },
     {
       "surface": "ישראל",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "מבן",
-      "gloss": "從…歲"
+      "gloss": "從…歲（之子）"
     },
     {
       "surface": "עשרים",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "שנה",
-      "gloss": "歲"
+      "gloss": "歲（年）"
     },
     {
       "surface": "ומעלה",
@@ -84,11 +58,11 @@
     },
     {
       "surface": "אבתם",
-      "gloss": "他們的父親"
+      "gloss": "他們的父家"
     },
     {
       "surface": "כל",
-      "gloss": "凡"
+      "gloss": "一切"
     },
     {
       "surface": "יצא",
@@ -103,6 +77,6 @@
       "gloss": "在以色列中"
     }
   ],
-  "timestamp": "2026-10-16T05:22:42.060032055Z",
+  "timestamp": "2026-10-16T22:54:35.920140949Z",
   "model": "glm-5.3"
 }

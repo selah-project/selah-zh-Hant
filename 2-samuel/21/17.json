@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "以色列的燈",
-      "rationale": "נר ישראל 以燈喻王的性命與家系，照字面保留"
-    },
-    {
-      "kind": "you",
-      "subject": "大衛",
-      "rationale": "大衛的人直接向他起誓立禁令"
-    }
-  ],
-  "translation": "洗魯雅的兒子亞比篩幫助了他，擊打了那非利士人，把他殺死了。那時大衛的人向他起誓說：「你不可再與⟨את⟩我們一同出去打仗，免得你把以色列的燈熄滅了。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "eff696a0868f12bbf66ca6806a19c1c8b560b88bd6bfc3fae46da5e3b266fc6e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/21\/17-20.1792132283753.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "亞比篩‧洗魯雅的兒子幫助了他，擊打了 ⟨את⟩ 那非利士人，把他殺死了。那時大衛的人向他起誓，說：「你不可再與我們一同出戰，免得你熄滅 ⟨את⟩ 以色列的燈。」",
   "tokens": [
     {
       "surface": "ויעזר",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ויך",
-      "gloss": "擊打"
+      "gloss": "擊打了"
     },
     {
       "surface": "את",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "וימיתהו",
-      "gloss": "把他殺死"
+      "gloss": "把他殺死了"
     },
     {
       "surface": "אז",
@@ -95,7 +74,7 @@
     },
     {
       "surface": "תצא",
-      "gloss": "出去"
+      "gloss": "出"
     },
     {
       "surface": "עוד",
@@ -103,15 +82,15 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "與⟨את⟩我們"
+      "gloss": "⟨את⟩我們"
     },
     {
       "surface": "למלחמה",
-      "gloss": "打仗"
+      "gloss": "出戰"
     },
     {
       "surface": "ולא",
-      "gloss": "免得"
+      "gloss": "免得你…不"
     },
     {
       "surface": "תכבה",
@@ -131,6 +110,6 @@
       "gloss": "以色列"
     }
   ],
-  "timestamp": "2026-10-16T06:31:23.754166985Z",
+  "timestamp": "2026-10-16T22:10:16.924535607Z",
   "model": "glm-5.3"
 }

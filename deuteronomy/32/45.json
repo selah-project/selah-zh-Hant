@@ -5,27 +5,11 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "是",
-      "rationale": "中文需重述動詞以成句，希伯來文只用一個 לדבר"
-    }
-  ],
-  "translation": "摩西講完了這一切的話，是向全以色列講的。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "eadb19df1627ef46fd13f593e58f2cf8eaa8992b41aabaabbb9c1d1c7ac52c95",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/32\/45-48.1792129327151.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "摩西說完了這一切的話，是向以色列眾人說的 ⟨את⟩ 這一切的話。",
   "tokens": [
     {
       "surface": "ויכל",
-      "gloss": "講完了"
+      "gloss": "說完了"
     },
     {
       "surface": "משה",
@@ -33,12 +17,12 @@
     },
     {
       "surface": "לדבר",
-      "gloss": "講"
+      "gloss": "說"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "這一切的話"
+      "marks": "這一切的話（以色列眾人）"
     },
     {
       "surface": "כל",
@@ -46,11 +30,11 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "的話"
+      "gloss": "話"
     },
     {
       "surface": "האלה",
-      "gloss": "這些"
+      "gloss": "這"
     },
     {
       "surface": "אל",
@@ -58,13 +42,13 @@
     },
     {
       "surface": "כל",
-      "gloss": "全"
+      "gloss": "眾"
     },
     {
       "surface": "ישראל",
       "gloss": "以色列"
     }
   ],
-  "timestamp": "2026-10-16T05:42:07.152393277Z",
+  "timestamp": "2026-10-16T22:15:27.645762787Z",
   "model": "glm-5.3"
 }

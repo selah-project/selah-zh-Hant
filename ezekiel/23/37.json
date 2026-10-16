@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "火",
-      "rationale": "希伯來文只說「使其經過給它們」，經過火是本段（16:20、20:31）的背景；「火」字以 ⟨火⟩ 標出為譯者所補"
-    },
-    {
-      "kind": "crux",
-      "subject": "לאכלה",
-      "rationale": "「作食物」：欽定本作「吞吃他們」，楊氏直譯作「給它們作食物」——誰吃？偶像（給偶像作食物）還是火吞吃兒女，譯者自古分歧"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נאפו…נאפו",
-      "rationale": "「行了姦淫」一詞在本節重複兩次，身體的姦淫與拜偶像的姦淫同一動詞，中文以重複保留"
-    }
-  ],
-  "translation": "因為她們行了姦淫，手上有血，又與她們的偶像行了姦淫；甚至將她們給我所生的兒女 ⟨את⟩ 使其經過⟨火⟩獻給牠們作食物。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "bb35a8f3ae852229e5dbfa8bd287b55223b028a4270c4ad6b6aae9972dc4f24a",
-    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/ezekiel/23/37-40.1792138520342.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "因為她們行了姦淫，血在她們手中，她們與 ⟨את⟩ 她們的偶像行了姦淫，並且也把 ⟨את⟩ 她們為我所生的兒女使經過⟨火⟩給它們作食物。",
   "tokens": [
     {
       "surface": "כי",
@@ -43,15 +17,15 @@
     },
     {
       "surface": "ודם",
-      "gloss": "而有血"
+      "gloss": "而血"
     },
     {
       "surface": "בידיהן",
-      "gloss": "在她們手上"
+      "gloss": "在她們手中"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "與 ⟨את⟩",
       "marks": "她們的偶像"
     },
     {
@@ -64,7 +38,7 @@
     },
     {
       "surface": "וגם",
-      "gloss": "甚至"
+      "gloss": "並且也"
     },
     {
       "surface": "את",
@@ -85,11 +59,11 @@
     },
     {
       "surface": "לי",
-      "gloss": "給我"
+      "gloss": "為我"
     },
     {
       "surface": "העבירו",
-      "gloss": "使其經過"
+      "gloss": "使經過"
     },
     {
       "surface": "להם",
@@ -100,10 +74,6 @@
       "gloss": "作食物"
     }
   ],
-  "timestamp": "2026-10-16T08:15:20.343302622Z",
-  "model": "glm-5.3",
-  "s2t": {
-    "date": "2026-10-16",
-    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
-  }
+  "timestamp": "2026-10-16T22:23:33.545961723Z",
+  "model": "glm-5.3"
 }

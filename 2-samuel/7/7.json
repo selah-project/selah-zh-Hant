@@ -5,48 +5,27 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הדבר דברתי את אחד שבטי ישראל",
-      "rationale": "此處 את 是「與…同」（近旁義，非受詞記號）：『我可曾對一個支派說過一句話』——疑問句延續至下文；各譯本或讀作受詞記號。"
-    },
-    {
-      "kind": "alternative",
-      "subject": "לא בניתם",
-      "rationale": "希伯來文直述『你們沒有建造』，但語境為反詰『為何不…』。"
-    }
-  ],
-  "translation": "在我往來行走於以色列眾人之間的一切地方，我曾對以色列眾支派中那受我吩咐牧養 ⟨את⟩ 我民 ⟨את⟩ 以色列的那一個支派，說過一句話，說：『你們為何不為我建造香柏木的殿宇呢？』",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b1ef885071b0e92929955911a85d1e3be452551a1c2c5ffcb0af6c864f7f98f3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/7\/5-8.1792131840446.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "在我與以色列眾子同行的一切地方，我曾與以色列眾支派中的哪一個說過一句話——就是我所吩咐牧養我民以色列的——說：你們為什麼沒有為我建造香柏木的房子呢？",
   "tokens": [
     {
       "surface": "בכל",
-      "gloss": "在一切"
+      "gloss": "在……的一切"
     },
     {
       "surface": "אשר",
-      "gloss": "…的地方"
+      "gloss": "⟨地方⟩"
     },
     {
       "surface": "התהלכתי",
-      "gloss": "我往來行走"
+      "gloss": "我同行"
     },
     {
       "surface": "בכל",
-      "gloss": "在…眾"
+      "gloss": "與眾"
     },
     {
       "surface": "בני",
-      "gloss": "…人"
+      "gloss": "子"
     },
     {
       "surface": "ישראל",
@@ -58,16 +37,16 @@
     },
     {
       "surface": "דברתי",
-      "gloss": "我說過"
+      "gloss": "我曾說過"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那一個支派"
+      "marks": "哪一個（以色列眾支派中的一支）"
     },
     {
       "surface": "אחד",
-      "gloss": "一個"
+      "gloss": "哪一個"
     },
     {
       "surface": "שבטי",
@@ -79,11 +58,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "就是"
     },
     {
       "surface": "צויתי",
-      "gloss": "我吩咐"
+      "gloss": "我所吩咐"
     },
     {
       "surface": "לרעות",
@@ -113,11 +92,11 @@
     },
     {
       "surface": "למה",
-      "gloss": "為何"
+      "gloss": "為什麼"
     },
     {
       "surface": "לא",
-      "gloss": "不"
+      "gloss": "沒有"
     },
     {
       "surface": "בניתם",
@@ -129,13 +108,13 @@
     },
     {
       "surface": "בית",
-      "gloss": "殿宇"
+      "gloss": "房子"
     },
     {
       "surface": "ארזים",
-      "gloss": "香柏木的"
+      "gloss": "香柏木"
     }
   ],
-  "timestamp": "2026-10-16T06:24:00.448011770Z",
+  "timestamp": "2026-10-16T22:11:35.063678909Z",
   "model": "glm-5.3"
 }

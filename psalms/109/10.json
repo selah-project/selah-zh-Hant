@@ -5,36 +5,15 @@
   "book": "psalms",
   "lang": "zh-Hant",
   "chapter": 109,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ונוע ינועו",
-      "rationale": "不定式絕對加動詞的同根重疊，表「不斷流離」；中文以「流離飄蕩」兩詞並置仿其強調"
-    },
-    {
-      "kind": "addition",
-      "subject": "餅",
-      "rationale": "「餅」為中文語意所需之賓語，希伯來文僅言「尋求」"
-    }
-  ],
-  "translation": "願他的兒子流離飄蕩、行乞求食，從他們的荒涼廢墟中尋求〈餅〉。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "94cd45839afb4e4cfb4d4e8f8dc3bf8f154331fa90421d73371b3a1ad80fad4e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/109\/9-10.1792149940557.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "願他的兒子流離飄蕩，四處乞求，從他們的荒廢之處尋求〈食物〉。",
   "tokens": [
     {
       "surface": "ונוע",
-      "gloss": "願…飄蕩"
+      "gloss": "流離飄蕩"
     },
     {
       "surface": "ינועו",
-      "gloss": "流離"
+      "gloss": "飄蕩"
     },
     {
       "surface": "בניו",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "ושאלו",
-      "gloss": "行乞求食"
+      "gloss": "乞求"
     },
     {
       "surface": "ודרשו",
@@ -50,9 +29,9 @@
     },
     {
       "surface": "מחרבותיהם",
-      "gloss": "從他們的荒涼廢墟"
+      "gloss": "從他們的荒廢之處"
     }
   ],
-  "timestamp": "2026-10-16T11:25:40.557905736Z",
+  "timestamp": "2026-10-16T22:57:48.064555306Z",
   "model": "glm-5.3"
 }

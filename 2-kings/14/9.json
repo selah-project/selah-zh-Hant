@@ -5,42 +5,11 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "差遣人",
-      "rationale": "וישלח直譯「差遣」，中文按敘事習慣補「人」"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "החוח",
-      "rationale": "蒺藜對香柏樹的寓言，以極小對極大諷刺亞瑪謝的自大"
-    },
-    {
-      "kind": "you",
-      "subject": "對亞瑪謝",
-      "rationale": "整段引語是約阿施對猶大王亞瑪謝的直接嘲諷"
-    },
-    {
-      "kind": "substitution",
-      "subject": "黎巴嫩的野獸",
-      "rationale": "原文「田野的野獸」，寓言框架內作黎巴嫩"
-    }
-  ],
-  "translation": "以色列王約阿施差遣人去見猶大王亞瑪謝，說：「黎巴嫩的蒺藜曾差遣人去見黎巴嫩的香柏樹，說：『將你的女兒給我兒子為妻。』後有黎巴嫩的野獸經過，把 ⟨את⟩ 蒺藜踐踏了。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "79f467376183c28b72dd2cf392ec7129f17760c8fe22176f7423bbde43e6a6ad",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/14\/9-12.1792133906804.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "以色列王約阿施差派人去見猶大王亞瑪謝，說：「黎巴嫩的蒺藜曾差派〈人〉去見黎巴嫩的香柏樹，說：『將你⟨את⟩的女兒給我兒子為妻。』後有黎巴嫩的田野走獸經過，踐踏了⟨את⟩那蒺藜。」",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "差遣"
+      "gloss": "差派"
     },
     {
       "surface": "יהואש",
@@ -76,19 +45,19 @@
     },
     {
       "surface": "החוח",
-      "gloss": "蒺藜"
+      "gloss": "那蒺藜"
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "那在"
     },
     {
       "surface": "בלבנון",
-      "gloss": "在黎巴嫩"
+      "gloss": "黎巴嫩的"
     },
     {
       "surface": "שלח",
-      "gloss": "差遣"
+      "gloss": "曾差派"
     },
     {
       "surface": "אל",
@@ -96,15 +65,15 @@
     },
     {
       "surface": "הארז",
-      "gloss": "香柏樹"
+      "gloss": "那香柏樹"
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "那在"
     },
     {
       "surface": "בלבנון",
-      "gloss": "在黎巴嫩"
+      "gloss": "黎巴嫩的"
     },
     {
       "surface": "לאמר",
@@ -125,7 +94,7 @@
     },
     {
       "surface": "לבני",
-      "gloss": "給我兒子"
+      "gloss": "我兒子"
     },
     {
       "surface": "לאשה",
@@ -137,7 +106,7 @@
     },
     {
       "surface": "חית",
-      "gloss": "野獸"
+      "gloss": "走獸"
     },
     {
       "surface": "השדה",
@@ -145,26 +114,26 @@
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "那在"
     },
     {
       "surface": "בלבנון",
-      "gloss": "在黎巴嫩"
+      "gloss": "黎巴嫩的"
     },
     {
       "surface": "ותרמס",
-      "gloss": "踐踏"
+      "gloss": "踐踏了"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "蒺藜"
+      "marks": "那蒺藜"
     },
     {
       "surface": "החוח",
-      "gloss": "蒺藜"
+      "gloss": "那蒺藜"
     }
   ],
-  "timestamp": "2026-10-16T06:58:26.805800341Z",
+  "timestamp": "2026-10-16T22:05:56.593468479Z",
   "model": "glm-5.3"
 }

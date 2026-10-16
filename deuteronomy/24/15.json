@@ -5,38 +5,11 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ואליו הוא נשא את נפשו",
-      "rationale": "KJV\/ASV「他把心放在其上」vs 直譯「他向它舉起性命」——即他以性命換取工錢、靠它糊口（參 24:6 押磨石之例）。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "נפשו",
-      "rationale": "נפש是性命／生命氣息，非不朽的「靈魂」。"
-    },
-    {
-      "kind": "elision",
-      "subject": "ולא",
-      "gloss-field": "",
-      "rationale": "「免得」吸收了否定的語氣，中文難以逐字重現。"
-    }
-  ],
-  "translation": "要在他做工的日子給他工錢，日頭不可落在他身上〈還未得工錢〉，因為他困苦，他把性命〈都〉押在工錢上；免得他向你哀求、呼求雅威，罪就歸在你身上。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "6aaea6d8910b8e00cf423ccccbde75dab512cc0914e1836a2a4df4845ad17941",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/24\/13-16.1792129086326.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "要在當日給他工錢，日頭不可落在他身上還未給；因為他窮困，他的性命 ⟨את⟩ 是他向這工錢仰望的，免得他向雅威哀求控告你，你便有了罪。",
   "tokens": [
     {
       "surface": "ביומו",
-      "gloss": "在他的日子"
+      "gloss": "在他的日子（當日）"
     },
     {
       "surface": "תתן",
@@ -48,11 +21,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "不可"
+      "gloss": "而不可"
     },
     {
       "surface": "תבוא",
-      "gloss": "落在"
+      "gloss": "落下"
     },
     {
       "surface": "עליו",
@@ -68,7 +41,7 @@
     },
     {
       "surface": "עני",
-      "gloss": "困苦"
+      "gloss": "窮困的"
     },
     {
       "surface": "הוא",
@@ -76,7 +49,7 @@
     },
     {
       "surface": "ואליו",
-      "gloss": "向著它"
+      "gloss": "而向它（工錢）"
     },
     {
       "surface": "הוא",
@@ -84,12 +57,12 @@
     },
     {
       "surface": "נשא",
-      "gloss": "舉起、押上"
+      "gloss": "仰望／擔負"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他的性命"
+      "marks": "他的性命（נפשו）"
     },
     {
       "surface": "נפשו",
@@ -97,19 +70,19 @@
     },
     {
       "surface": "ולא",
-      "gloss": "免得……不"
+      "gloss": "免得不"
     },
     {
       "surface": "יקרא",
-      "gloss": "他呼求"
+      "gloss": "他哀求"
     },
     {
       "surface": "עליך",
-      "gloss": "對抗你"
+      "gloss": "控告你"
     },
     {
       "surface": "אל",
-      "gloss": "向著"
+      "gloss": "向"
     },
     {
       "surface": "יהוה",
@@ -128,6 +101,6 @@
       "gloss": "罪"
     }
   ],
-  "timestamp": "2026-10-16T05:38:06.327844504Z",
+  "timestamp": "2026-10-16T22:14:15.670871515Z",
   "model": "glm-5.3"
 }

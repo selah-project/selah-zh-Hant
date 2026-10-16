@@ -5,38 +5,7 @@
   "book": "jeremiah",
   "lang": "zh-Hant",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ביד גדליהו",
-      "rationale": "「因基大利」：或作「在基大利旁邊／連同基大利」（耶41:2 明說基大利被殺），諸譯本分歧。"
-    },
-    {
-      "kind": "crux",
-      "subject": "עשה",
-      "rationale": "王上15:22 記亞撒「眾民」掘池；此處動詞主語為亞撒王，譯作「所挖的」。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ביד",
-      "rationale": "字面「藉手」，中譯作「因」。"
-    },
-    {
-      "kind": "elision",
-      "subject": "הוא אשר",
-      "rationale": "強調代詞加關係詞，中譯以複指「那坑」承接。"
-    }
-  ],
-  "translation": "至於那坑——以實瑪利把⟨את⟩所有他所擊殺之人的屍首扔在那裡，就是他因基大利而擊殺的——那坑是亞撒王因以色列王巴沙所挖的；以實瑪利·尼探雅的兒子用被殺的人將它填滿了。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "88c0c5e1f141ce8db6c7e42557bf42aa0328ee61806f77fd49ed734ec7e489a4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/41\/9-12.1792137284401.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "至於以實瑪利在那裡扔進 ⟨את⟩ 所有屍首的那坑——就是他所擊殺、連同基大利之人的屍首——那坑原是亞撒王因以色列王巴沙的緣故所造的；以實瑪利・尼探雅的兒子用被殺的人填滿了 ⟨אתו⟩。",
   "tokens": [
     {
       "surface": "והבור",
@@ -44,11 +13,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "——"
+      "gloss": "的"
     },
     {
       "surface": "השליך",
-      "gloss": "扔"
+      "gloss": "扔進"
     },
     {
       "surface": "שם",
@@ -73,19 +42,19 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "之人的"
+      "gloss": "的人"
     },
     {
       "surface": "אשר",
-      "gloss": "他所"
+      "gloss": "的"
     },
     {
       "surface": "הכה",
-      "gloss": "擊殺"
+      "gloss": "他所擊殺"
     },
     {
       "surface": "ביד",
-      "gloss": "因"
+      "gloss": "連同"
     },
     {
       "surface": "גדליהו",
@@ -93,15 +62,15 @@
     },
     {
       "surface": "הוא",
-      "gloss": "那坑"
+      "gloss": "那"
     },
     {
       "surface": "אשר",
-      "gloss": "是"
+      "gloss": "的"
     },
     {
       "surface": "עשה",
-      "gloss": "所挖的"
+      "gloss": "所造的"
     },
     {
       "surface": "המלך",
@@ -113,7 +82,7 @@
     },
     {
       "surface": "מפני",
-      "gloss": "因"
+      "gloss": "因……的緣故"
     },
     {
       "surface": "בעשא",
@@ -129,8 +98,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "它（那坑）"
+      "gloss": "⟨אתו⟩",
+      "marks": "被殺的人（所填之物）"
     },
     {
       "surface": "מלא",
@@ -153,6 +122,6 @@
       "gloss": "被殺的人"
     }
   ],
-  "timestamp": "2026-10-16T07:54:44.402324104Z",
+  "timestamp": "2026-10-16T22:40:12.240731229Z",
   "model": "glm-5.3"
 }

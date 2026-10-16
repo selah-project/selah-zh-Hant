@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "כרת",
-      "rationale": "字面是「切約」（在切開的肉塊之間立約），中文慣用「立約」；「切」的畫面失落。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שם…שם",
-      "rationale": "「在那裡安放…在那裡有約」，שם 兩次重複，強調約櫃所在之處。"
-    }
-  ],
-  "translation": "我又在那裡為櫃預備了地方，那裡有雅威的約，就是他在領我們的祖先出埃及地的時候，與我們的祖先所立的。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "aa28da6106495960b6f25e40efbc56f7b27b9827e93385863a3acbb500a77bf6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/8\/21-24.1792132874344.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我也在那裡安置了位置，給約櫃——雅威的約就在其中，就是他領我們祖先出埃及地的時候，與我們祖先所立的約。",
   "tokens": [
     {
       "surface": "ואשם",
-      "gloss": "我又…安放"
+      "gloss": "我也…安置"
     },
     {
       "surface": "שם",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "מקום",
-      "gloss": "地方"
+      "gloss": "位置"
     },
     {
       "surface": "לארון",
-      "gloss": "為櫃"
+      "gloss": "給約櫃"
     },
     {
       "surface": "אשר",
-      "gloss": "在那裡"
+      "gloss": "就是"
     },
     {
       "surface": "שם",
-      "gloss": "有"
+      "gloss": "在其中"
     },
     {
       "surface": "ברית",
@@ -58,15 +37,15 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "雅威的"
+      "gloss": "雅威"
     },
     {
       "surface": "אשר",
-      "gloss": "就是…所立的"
+      "gloss": "…的約"
     },
     {
       "surface": "כרת",
-      "gloss": "立（原文「切」）"
+      "gloss": "所立"
     },
     {
       "surface": "עם",
@@ -78,22 +57,22 @@
     },
     {
       "surface": "בהוציאו",
-      "gloss": "在…領出…的時候"
+      "gloss": "當他領…出"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "他們（我們的祖先）"
+      "marks": "他們"
     },
     {
       "surface": "מארץ",
-      "gloss": "從…地"
+      "gloss": "埃及地"
     },
     {
       "surface": "מצרים",
       "gloss": "埃及"
     }
   ],
-  "timestamp": "2026-10-16T06:41:14.345061966Z",
+  "timestamp": "2026-10-16T21:59:44.498825497Z",
   "model": "glm-5.3"
 }

@@ -5,46 +5,25 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨人⟩",
-      "rationale": "יוציא 是無指定主語的第三人稱單數，中文需補『人』"
-    },
-    {
-      "kind": "substitution",
-      "subject": "贖罪",
-      "rationale": "כפר 本義『遮蓋』，引申贖罪，中文取通行譯法"
-    }
-  ],
-  "translation": "⟨人⟩要把 ⟨את⟩ 作贖罪祭的公牛犢和 ⟨את⟩ 作贖罪祭的公山羊——牠們的血曾被帶進聖所贖罪——搬到營外，用火焚燒 ⟨את⟩ 牠們的皮、⟨את⟩ 牠們的肉和 ⟨את⟩ 牠們的糞。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "0f6d8bf77077f86897720c9059ce3f4c68f1b45c8d074a519075b5c784d8bfd7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/16\/25-28.1792127105270.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "至於⟨את⟩贖罪祭的公牛和⟨את⟩贖罪祭的公山羊——牠們的血既已帶進聖所行贖罪之禮——就要把牠們搬到營外，用火焚燒牠們的皮、肉和糞。",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "公牛犢"
+      "marks": "贖罪祭的公牛"
     },
     {
       "surface": "פר",
-      "gloss": "公牛犢"
+      "gloss": "公牛"
     },
     {
       "surface": "החטאת",
-      "gloss": "作贖罪祭的"
+      "gloss": "贖罪祭的"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "公山羊"
+      "marks": "贖罪祭的公山羊"
     },
     {
       "surface": "שעיר",
@@ -52,15 +31,15 @@
     },
     {
       "surface": "החטאת",
-      "gloss": "作贖罪祭的"
+      "gloss": "贖罪祭的"
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "……的"
     },
     {
       "surface": "הובא",
-      "gloss": "曾被帶進"
+      "gloss": "被帶進"
     },
     {
       "surface": "את",
@@ -73,7 +52,7 @@
     },
     {
       "surface": "לכפר",
-      "gloss": "贖罪"
+      "gloss": "行贖罪之禮"
     },
     {
       "surface": "בקדש",
@@ -81,7 +60,7 @@
     },
     {
       "surface": "יוציא",
-      "gloss": "搬到外面"
+      "gloss": "就要搬出"
     },
     {
       "surface": "אל",
@@ -97,7 +76,7 @@
     },
     {
       "surface": "ושרפו",
-      "gloss": "用火焚燒"
+      "gloss": "並要焚燒"
     },
     {
       "surface": "באש",
@@ -131,6 +110,6 @@
       "gloss": "牠們的糞"
     }
   ],
-  "timestamp": "2026-10-16T05:05:05.271199635Z",
+  "timestamp": "2026-10-16T22:49:36.481779564Z",
   "model": "glm-5.3"
 }

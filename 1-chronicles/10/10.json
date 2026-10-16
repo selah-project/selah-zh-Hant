@@ -5,45 +5,24 @@
   "book": "1-chronicles",
   "lang": "zh-Hant",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "眾神",
-      "rationale": "אלהיהם在此指非利士人的眾神，異教語境用「神明」，不用「以羅欣」"
-    },
-    {
-      "kind": "substitution",
-      "subject": "頭骨",
-      "rationale": "גלגלתו字面是「他的頭骨」，多數譯本作「他的頭」"
-    }
-  ],
-  "translation": "他們把 ⟨את⟩ 他的軍器放在他們的神明（眾神）的廟裡，又把 ⟨את⟩ 他的頭骨釘在大袞廟裡。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "4af851862c85f72b30c0a31452168cad91a854e5f39a406b705e992f97bdf75f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/10\/9-12.1792148677704.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們把 ⟨את⟩ 他的兵器放在他們神明的廟裡，又把 ⟨את⟩ 他的頭骨釘在 大袞 的廟裡。",
   "tokens": [
     {
       "surface": "וישימו",
-      "gloss": "放置"
+      "gloss": "他們把…放置"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他的軍器"
+      "marks": "他的兵器"
     },
     {
       "surface": "כליו",
-      "gloss": "他的軍器"
+      "gloss": "他的兵器"
     },
     {
       "surface": "בית",
-      "gloss": "廟／ house"
+      "gloss": "廟"
     },
     {
       "surface": "אלהיהם",
@@ -60,7 +39,7 @@
     },
     {
       "surface": "תקעו",
-      "gloss": "釘上"
+      "gloss": "釘"
     },
     {
       "surface": "בית",
@@ -71,6 +50,6 @@
       "gloss": "大袞"
     }
   ],
-  "timestamp": "2026-10-16T11:04:37.704907740Z",
+  "timestamp": "2026-10-16T21:56:04.456169375Z",
   "model": "glm-5.3"
 }

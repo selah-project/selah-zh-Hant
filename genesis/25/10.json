@@ -5,35 +5,19 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "是…的",
-      "rationale": "中文判斷句需動詞「是」，希伯來文的關係句無動詞。"
-    }
-  ],
-  "translation": "那田是亞伯拉罕從赫的子孫那裡買來的；亞伯拉罕和他妻子撒拉都葬在那裡。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "de05087e2ce424be23747e2d43c6088eb990d1b5c91fc9e32be64c963da95786",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/25\/9-12.1792125039632.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "那田地是亞伯拉罕向赫的兒子們買來的；亞伯拉罕和他的妻子撒拉都葬在那裡。",
   "tokens": [
     {
       "surface": "השדה",
-      "gloss": "那田"
+      "gloss": "那田地"
     },
     {
       "surface": "אשר",
-      "gloss": "（那田）"
+      "gloss": "是"
     },
     {
       "surface": "קנה",
-      "gloss": "買了"
+      "gloss": "買來的"
     },
     {
       "surface": "אברהם",
@@ -41,11 +25,12 @@
     },
     {
       "surface": "מאת",
-      "gloss": "從⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "向赫的兒子們"
     },
     {
       "surface": "בני",
-      "gloss": "子孫"
+      "gloss": "兒子們"
     },
     {
       "surface": "חת",
@@ -57,7 +42,7 @@
     },
     {
       "surface": "קבר",
-      "gloss": "葬了"
+      "gloss": "葬"
     },
     {
       "surface": "אברהם",
@@ -69,9 +54,9 @@
     },
     {
       "surface": "אשתו",
-      "gloss": "他妻子"
+      "gloss": "他的妻子"
     }
   ],
-  "timestamp": "2026-10-16T04:30:39.633495332Z",
+  "timestamp": "2026-10-16T22:28:21.178229166Z",
   "model": "glm-5.3"
 }

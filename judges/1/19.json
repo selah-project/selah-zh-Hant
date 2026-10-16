@@ -5,37 +5,11 @@
   "book": "judges",
   "lang": "zh-Hant",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "יהי יהוה את",
-      "rationale": "「雅威與……同在」是希伯來慣用語，非字面的位置陳述；此處את為介詞，仍以 ⟨את⟩ 記號保留。"
-    },
-    {
-      "kind": "crux",
-      "subject": "כי לא להוריש",
-      "rationale": "「不能趕出」的主詞與語氣有爭議：KJV作「他不能」，YLT作「並非（神的旨意）要趕出」；כי 難以定位。"
-    },
-    {
-      "kind": "addition",
-      "subject": "他們",
-      "rationale": "中文需明示主詞「他們」（猶大人），希伯來文由動詞形態承載。"
-    }
-  ],
-  "translation": "雅威與猶大同在，他們就佔了山區，卻不能趕出谷中的居民，因為他們有鐵車。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "290862e9a05af5639074b8211d654953005dcbf5ebb379d23f7a2e84bd7a776f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/1\/17-20.1792130074850.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威與猶大同在，猶大就佔取了 ⟨את⟩ 山地；卻未能趕出谷中的居民，因為他們有鐵戰車。",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "……與……同在（發生）"
+      "gloss": "事情發生"
     },
     {
       "surface": "יהוה",
@@ -52,33 +26,33 @@
     },
     {
       "surface": "וירש",
-      "gloss": "佔了"
+      "gloss": "就佔取了"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "山區"
+      "marks": "山地"
     },
     {
       "surface": "ההר",
-      "gloss": "山區"
+      "gloss": "山地"
     },
     {
       "surface": "כי",
-      "gloss": "卻（因為）"
+      "gloss": "卻"
     },
     {
       "surface": "לא",
-      "gloss": "不能"
+      "gloss": "未能"
     },
     {
-      "surface": "להוריש",
+      "surface": "להורישׁ",
       "gloss": "趕出"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "居民"
+      "marks": "谷中的居民"
     },
     {
       "surface": "ישבי",
@@ -86,7 +60,7 @@
     },
     {
       "surface": "העמק",
-      "gloss": "谷"
+      "gloss": "谷中"
     },
     {
       "surface": "כי",
@@ -94,7 +68,7 @@
     },
     {
       "surface": "רכב",
-      "gloss": "車"
+      "gloss": "戰車"
     },
     {
       "surface": "ברזל",
@@ -105,6 +79,6 @@
       "gloss": "他們有"
     }
   ],
-  "timestamp": "2026-10-16T05:54:34.851292515Z",
+  "timestamp": "2026-10-16T22:45:47.524396937Z",
   "model": "glm-5.3"
 }

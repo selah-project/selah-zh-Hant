@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "是為了",
-      "rationale": "希伯來文לתת的不定式構造中文需補出目的語氣"
-    },
-    {
-      "kind": "measurement",
-      "subject": "שלשת המלכים",
-      "rationale": "三王之數的點算"
-    }
-  ],
-  "translation": "以色列王說：「哀哉！雅威召集這三位王，是要把他們交在摩押手中。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "858259e49cdb4caad24f2b628b9fd189bca89096455c2c8f68deca18e6a385ac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/3\/9-12.1792133482148.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "以色列王說：「哀哉！雅威召了這三位王來，要把他們⟨את⟩交在摩押手中。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "因為"
+      "gloss": "⟨因為⟩"
     },
     {
       "surface": "קרא",
-      "gloss": "召集"
+      "gloss": "召了"
     },
     {
       "surface": "יהוה",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "לשלשת",
-      "gloss": "三"
+      "gloss": "三位"
     },
     {
       "surface": "המלכים",
@@ -70,12 +49,12 @@
     },
     {
       "surface": "לתת",
-      "gloss": "要交"
+      "gloss": "要……交"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "他們"
+      "marks": "他們——交在摩押手中"
     },
     {
       "surface": "ביד",
@@ -86,6 +65,6 @@
       "gloss": "摩押"
     }
   ],
-  "timestamp": "2026-10-16T06:51:22.149201217Z",
+  "timestamp": "2026-10-16T22:07:43.861466553Z",
   "model": "glm-5.3"
 }

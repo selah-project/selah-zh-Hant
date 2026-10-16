@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ויחרם／חרמה",
-      "rationale": "地名「何珥瑪」（חרמה）直接出自「盡行毀滅」（חרם）——毀滅成了地名，雙關在中文裡只剩譯名"
-    },
-    {
-      "kind": "addition",
-      "subject": "以色列就",
-      "rationale": "ויחרם 主語承前有歧義（雅威或以色列），中文須指明，本譯取以色列為動作者"
-    }
-  ],
-  "translation": "雅威聽了以色列的聲音，把迦南人交出來，以色列就把他們和他們的城盡行毀滅；那地方便名叫何珥瑪。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "5a5565236b19cab88eba94ea7deea28af558303e9fb9ad29fdfd29f46756ddd5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/21\/1-4.1792128019560.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威垂聽了以色列的聲音，把迦南人交出來；以色列滅絕歸獻了他們和他們的城邑，就稱那地方的名字為何珥瑪。",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "聽了"
+      "gloss": "垂聽了"
     },
     {
       "surface": "יהוה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "בקול",
-      "gloss": "……的聲音"
+      "gloss": "聲音"
     },
     {
       "surface": "ישראל",
@@ -59,29 +38,29 @@
     },
     {
       "surface": "ויחרם",
-      "gloss": "就盡行毀滅"
+      "gloss": "滅絕歸獻了"
     },
     {
       "surface": "אתהם",
-      "gloss": "⟨אתהם⟩",
+      "gloss": "⟨את⟩",
       "marks": "他們"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨ואת⟩",
-      "marks": "他們的城"
+      "gloss": "⟨את⟩",
+      "marks": "他們的城邑"
     },
     {
       "surface": "עריהם",
-      "gloss": "他們的城"
+      "gloss": "他們的城邑"
     },
     {
       "surface": "ויקרא",
-      "gloss": "名叫"
+      "gloss": "稱了"
     },
     {
       "surface": "שם",
-      "gloss": "名"
+      "gloss": "名字"
     },
     {
       "surface": "המקום",
@@ -92,6 +71,6 @@
       "gloss": "何珥瑪"
     }
   ],
-  "timestamp": "2026-10-16T05:20:19.561894545Z",
+  "timestamp": "2026-10-16T22:54:28.480054638Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "joshua",
   "lang": "zh-Hant",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לפי חרב",
-      "rationale": "字面「刀的口」，即刀刃；中文作「刀口」保留畫面"
-    },
-    {
-      "kind": "substitution",
-      "subject": "性命",
-      "rationale": "נפש 是氣息／活物，非不朽的「靈魂」"
-    },
-    {
-      "kind": "addition",
-      "subject": "就是",
-      "rationale": "中文關係句需要連接詞，希伯來文 אשר 兼作關係代名詞"
-    }
-  ],
-  "translation": "雅威也把立拿和⟨אותה⟩它的王交在以色列手中；他們用刀口擊打了⟨את⟩它的王，又擊殺其中所有的性命，沒有留下一個倖存者；他怎樣待耶利哥的王，也照樣待立拿的王。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c17f947eba72f35fcdd535f44e8d4db02b5235738980d3292d353fc9b8b212fa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/10\/29-32.1792129732681.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威也把 ⟨את⟩ 它交在以色列手中，連 ⟨את⟩ 它的王也交了；他們用刀口擊殺了它，並 ⟨את⟩ 其中所有的活口；他沒在其中留下一個倖存者，他怎樣待耶利哥的王，也照樣待它的王。",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "把……交在"
+      "gloss": "把…交了"
     },
     {
       "surface": "יהוה",
@@ -48,11 +22,11 @@
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "立拿"
+      "marks": "它（立拿城）"
     },
     {
       "surface": "ביד",
-      "gloss": "在……手中"
+      "gloss": "在…手中"
     },
     {
       "surface": "ישראל",
@@ -69,11 +43,11 @@
     },
     {
       "surface": "ויכה",
-      "gloss": "擊打"
+      "gloss": "擊殺了"
     },
     {
       "surface": "לפי",
-      "gloss": "刀口"
+      "gloss": "…口"
     },
     {
       "surface": "חרב",
@@ -82,7 +56,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "所有的性命"
+      "marks": "所有的活口"
     },
     {
       "surface": "כל",
@@ -90,11 +64,11 @@
     },
     {
       "surface": "הנפש",
-      "gloss": "性命"
+      "gloss": "活口"
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "那…的"
     },
     {
       "surface": "בה",
@@ -118,29 +92,29 @@
     },
     {
       "surface": "ויעש",
-      "gloss": "他照樣待"
+      "gloss": "他行了"
     },
     {
       "surface": "למלכה",
-      "gloss": "待它的王"
+      "gloss": "對它的王"
     },
     {
       "surface": "כאשר",
-      "gloss": "怎樣"
+      "gloss": "照…那樣"
     },
     {
       "surface": "עשה",
-      "gloss": "行了"
+      "gloss": "所行的"
     },
     {
       "surface": "למלך",
-      "gloss": "待……的王"
+      "gloss": "對…的王"
     },
     {
       "surface": "יריחו",
       "gloss": "耶利哥"
     }
   ],
-  "timestamp": "2026-10-16T05:48:52.682756819Z",
+  "timestamp": "2026-10-16T22:43:09.136268607Z",
   "model": "glm-5.3"
 }

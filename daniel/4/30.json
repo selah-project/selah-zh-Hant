@@ -5,37 +5,11 @@
   "book": "daniel",
   "lang": "zh-Hant",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "גשמה",
-      "rationale": "גושם 字面是「身體／軀幹」，和合本作「身體」恰當"
-    },
-    {
-      "kind": "elision",
-      "subject": "די",
-      "rationale": "關係詞 די 由中文語序承擔"
-    },
-    {
-      "kind": "addition",
-      "subject": "被動標記",
-      "rationale": "טריד、יצטבע 中文以「被」表達被動，希伯來文動詞本身含被動"
-    }
-  ],
-  "translation": "在那時刻，這話應驗在尼布甲尼撒身上：他從人群中被趕出，像牛一樣吃草，他的身體被天上的露水濕透，直到他的頭髮長得像鷹的羽毛，指甲像鳥爪。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "156a992b1f65104b118a6db8fc648c1a93988b9f5ea0de2564b85f63880cb15f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/daniel\/4\/29-32.1792147573177.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "就在那時刻，這話臨到尼布甲尼撒身上：他被趕離人群，像牛一樣吃草，他的身體被天上的露水浸濕，直到他的頭髮長得如同鷹的羽毛，他的指甲如同鳥爪。",
   "tokens": [
     {
       "surface": "בה",
-      "gloss": "在……之時"
+      "gloss": "在"
     },
     {
       "surface": "שעתא",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "ספת",
-      "gloss": "應驗"
+      "gloss": "臨到……身上"
     },
     {
       "surface": "על",
-      "gloss": "在……身上"
+      "gloss": "在……之上"
     },
     {
       "surface": "נבוכדנצר",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "ומן",
-      "gloss": "從"
+      "gloss": "並從"
     },
     {
       "surface": "אנשא",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "ועשבא",
-      "gloss": "草"
+      "gloss": "並草"
     },
     {
       "surface": "כתורין",
@@ -83,19 +57,19 @@
     },
     {
       "surface": "ומטל",
-      "gloss": "被……的露水"
+      "gloss": "並露水"
     },
     {
       "surface": "שמיא",
-      "gloss": "天上"
+      "gloss": "天上的"
     },
     {
       "surface": "גשמה",
       "gloss": "他的身體"
     },
     {
-      "surface": "יצצטבע",
-      "gloss": "濕透"
+      "surface": "יצטבע",
+      "gloss": "被浸濕"
     },
     {
       "surface": "עד",
@@ -103,7 +77,7 @@
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "⟨以至⟩"
     },
     {
       "surface": "שערה",
@@ -111,7 +85,7 @@
     },
     {
       "surface": "כנשרין",
-      "gloss": "像鷹"
+      "gloss": "如同鷹"
     },
     {
       "surface": "רבה",
@@ -119,13 +93,13 @@
     },
     {
       "surface": "וטפרוהי",
-      "gloss": "他的指甲"
+      "gloss": "並他的指甲"
     },
     {
       "surface": "כצפרין",
-      "gloss": "像鳥爪"
+      "gloss": "如同鳥爪"
     }
   ],
-  "timestamp": "2026-10-16T10:46:13.178000159Z",
+  "timestamp": "2026-10-16T22:12:45.079921576Z",
   "model": "glm-5.3"
 }

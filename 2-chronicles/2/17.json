@@ -5,93 +5,67 @@
   "book": "2-chronicles",
   "lang": "zh-Hant",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "人數清點",
-      "rationale": "本節為工匠人數的統計：七萬扛抬、八萬鑿石、三千六百監工。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "監工",
-      "rationale": "מנצחים 字面為「傑出者、督管者」，譯作監工以表其監督職分。"
-    },
-    {
-      "kind": "idiom",
-      "subject": "他立了",
-      "rationale": "ויעש 直譯「他做了」，此處慣用義為「他指派／設立」。"
-    }
-  ],
-  "translation": "他從他們中間立了七萬個扛抬〈的〉、八萬個在山上鑿石〈的〉、以及三千六百個監工，來督使⟨את⟩百姓做工。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "d56b8dd247f9779b264ba1b6cef808154145f37b8c3ff4a24bd838856e3a416e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/2\/17-17.1792149004919.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他從他們之中立了七萬人作扛抬者，八萬人作山中鑿石者，三千六百人作監督，要使 ⟨את⟩ 百姓做工。",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "他立了"
+      "gloss": "立了"
     },
     {
       "surface": "מהם",
-      "gloss": "從他們中間"
+      "gloss": "從他們之中"
     },
     {
       "surface": "שבעים",
-      "gloss": "七萬"
+      "gloss": "七十"
     },
     {
       "surface": "אלף",
-      "gloss": "（千）"
+      "gloss": "萬"
     },
     {
       "surface": "סבל",
-      "gloss": "扛抬〈的〉"
+      "gloss": "扛抬者"
     },
     {
       "surface": "ושמנים",
-      "gloss": "八萬"
+      "gloss": "八十"
     },
     {
       "surface": "אלף",
-      "gloss": "（千）"
+      "gloss": "萬"
     },
     {
       "surface": "חצב",
-      "gloss": "鑿石〈的〉"
+      "gloss": "鑿石者"
     },
     {
       "surface": "בהר",
-      "gloss": "在山上"
+      "gloss": "在山中"
     },
     {
       "surface": "ושלשת",
-      "gloss": "三千"
+      "gloss": "三"
     },
     {
       "surface": "אלפים",
-      "gloss": "（千）"
+      "gloss": "千"
     },
     {
       "surface": "ושש",
-      "gloss": "六百"
+      "gloss": "六"
     },
     {
       "surface": "מאות",
-      "gloss": "（百）"
+      "gloss": "百"
     },
     {
       "surface": "מנצחים",
-      "gloss": "監工"
+      "gloss": "監督"
     },
     {
       "surface": "להעביד",
-      "gloss": "來督使做工"
+      "gloss": "要使…做工"
     },
     {
       "surface": "את",
@@ -103,6 +77,6 @@
       "gloss": "百姓"
     }
   ],
-  "timestamp": "2026-10-16T11:10:04.919782947Z",
+  "timestamp": "2026-10-16T22:03:11.774781022Z",
   "model": "glm-5.3"
 }

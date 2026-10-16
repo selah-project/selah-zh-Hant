@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "後半句的說話者",
-      "rationale": "傳統譯本（KJV、ASV）認為「米非波設在我席上喫」是大衛說的；JPS 視為敘事者的陳述"
-    },
-    {
-      "kind": "you",
-      "subject": "對王",
-      "rationale": "洗巴直接向王回話，前半是引語"
-    }
-  ],
-  "translation": "洗巴對王說：「我主我王怎樣吩咐他僕人，你僕人就必照樣行。」米非波設在我席上喫，如同王一個兒子一樣。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "92e506908e76c7329a70c7b19ebbceca20b025681e4220f305d13049803c4805",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/9\/9-12.1792131801747.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "洗巴對王說：「我主我王怎樣吩咐⟨את⟩他的僕人，僕人就照樣行；米非波設必在我主的席上吃飯，如同王的眾子中的一位。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "ככל",
-      "gloss": "照……一切"
+      "gloss": "照一切"
     },
     {
       "surface": "אשר",
-      "gloss": "所……的"
+      "gloss": "所"
     },
     {
       "surface": "יצוה",
@@ -62,16 +41,16 @@
     },
     {
       "surface": "המלך",
-      "gloss": "我王"
+      "gloss": "王"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他僕人"
+      "marks": "他的僕人"
     },
     {
       "surface": "עבדו",
-      "gloss": "他僕人"
+      "gloss": "他的僕人"
     },
     {
       "surface": "כן",
@@ -79,11 +58,11 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "必行"
+      "gloss": "行"
     },
     {
       "surface": "עבדך",
-      "gloss": "你僕人"
+      "gloss": "你的僕人"
     },
     {
       "surface": "ומפיבשת",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "אכל",
-      "gloss": "喫"
+      "gloss": "吃飯"
     },
     {
       "surface": "על",
@@ -99,21 +78,21 @@
     },
     {
       "surface": "שלחני",
-      "gloss": "我席上"
+      "gloss": "我的席"
     },
     {
       "surface": "כאחד",
-      "gloss": "如同一個"
+      "gloss": "如同一位"
     },
     {
       "surface": "מבני",
-      "gloss": "兒子"
+      "gloss": "眾子中"
     },
     {
       "surface": "המלך",
-      "gloss": "王的"
+      "gloss": "王"
     }
   ],
-  "timestamp": "2026-10-16T06:23:21.749108086Z",
+  "timestamp": "2026-10-16T22:11:34.663911799Z",
   "model": "glm-5.3"
 }

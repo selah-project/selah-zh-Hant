@@ -5,28 +5,7 @@
   "book": "2-chronicles",
   "lang": "zh-Hant",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "התרים",
-      "rationale": "或作「遊歷者」（为贸易四处巡视之人），诸本或译 chapmen／traffickers。"
-    },
-    {
-      "kind": "measurement",
-      "subject": "金银收入清单",
-      "rationale": "列举黄金来源：商人、阿拉伯诸王、各省省长。"
-    }
-  ],
-  "translation": "此外還有遊歷〈的〉商人所帶來的，以及阿拉伯諸王和各地的省長所帶來給所羅門的金銀。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ed74386c79c2606b92095c6a3600b2c60dbc8c86ace6139c53df08e99eb51652",
-    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/2-chronicles/9/13-16.1792149250859.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "此外，還有那些遊歷商旅和商人所帶來的；阿拉伯的眾王和各地的省長也把金銀帶給所羅門。",
   "tokens": [
     {
       "surface": "לבד",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "מאנשי",
-      "gloss": "…的人"
+      "gloss": "那些…的人"
     },
     {
       "surface": "התרים",
-      "gloss": "遊歷"
+      "gloss": "遊歷商旅"
     },
     {
       "surface": "והסחרים",
@@ -46,15 +25,15 @@
     },
     {
       "surface": "מביאים",
-      "gloss": "帶來的"
+      "gloss": "所帶來的"
     },
     {
       "surface": "וכל",
-      "gloss": "以及一切"
+      "gloss": "以及所有"
     },
     {
       "surface": "מלכי",
-      "gloss": "諸王"
+      "gloss": "…的眾王"
     },
     {
       "surface": "ערב",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "地"
+      "gloss": "各地的"
     },
     {
       "surface": "מביאים",
@@ -85,10 +64,6 @@
       "gloss": "給所羅門"
     }
   ],
-  "timestamp": "2026-10-16T11:14:10.860635049Z",
-  "model": "glm-5.3",
-  "s2t": {
-    "date": "2026-10-16",
-    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
-  }
+  "timestamp": "2026-10-16T22:05:02.914628631Z",
+  "model": "glm-5.3"
 }

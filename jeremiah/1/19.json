@@ -5,36 +5,15 @@
   "book": "jeremiah",
   "lang": "zh-Hant",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אתך",
-      "rationale": "此處 אִתְּךָ 是介詞「與你同在」（H854），非受詞記號 את（H853），故不加 ⟨את⟩ 記號"
-    },
-    {
-      "kind": "promise",
-      "subject": "拯救",
-      "rationale": "להצילך 不定詞附代詞詞尾：「（我與你同在）為要拯救你」——同在的目的"
-    }
-  ],
-  "translation": "他們要攻擊你，卻不能勝過你，因為我與你同在——雅威說——要拯救你。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "01911bf39988c42a8df8d7d7c506888bfa260d4a0c6098784f68fbb19416463d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/1\/17-19.1792135960772.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們必攻擊你，卻不能勝過你，因為我與 ⟨את⟩ 你同在——這是雅威的話——要拯救你。",
   "tokens": [
     {
       "surface": "ונלחמו",
-      "gloss": "他們要攻擊"
+      "gloss": "他們必攻擊"
     },
     {
       "surface": "אליך",
-      "gloss": "你"
+      "gloss": "攻擊你"
     },
     {
       "surface": "ולא",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "說"
+      "gloss": "的話"
     },
     {
       "surface": "יהוה",
@@ -73,6 +52,6 @@
       "gloss": "要拯救你"
     }
   ],
-  "timestamp": "2026-10-16T07:32:40.773672112Z",
+  "timestamp": "2026-10-16T22:36:10.411374731Z",
   "model": "glm-5.3"
 }

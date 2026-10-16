@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "正在發作",
-      "rationale": "希伯來文的 היה 在此表示持續狀態，中文需補助動詞以成句"
-    },
-    {
-      "kind": "substitution",
-      "subject": "חרטמים",
-      "rationale": "字面為「畫符者」（按星象畫線圈者），中文沿用和合本「行法術的」"
-    }
-  ],
-  "translation": "行法術的不能站在摩西面前，因為潰瘍〈正在發作〉——那潰瘍長在行法術的身上，也長在所有埃及人身上。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "581fcbeb5f6bef89bc7959ac6d6eac1c54558aaffbdc0330ee3aa4bd3abe3829",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/9\/9-12.1792125832295.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "行法術的不能站在摩西面前，因為瘡災在他們身上、也在全埃及身上〈כִּי〉；因為瘡生在行法術的身上和全埃及人身上。",
   "tokens": [
     {
       "surface": "ולא",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "יכלו",
-      "gloss": "……能夠"
+      "gloss": "能夠"
     },
     {
       "surface": "החרטמים",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "לעמד",
-      "gloss": "站在"
+      "gloss": "站"
     },
     {
       "surface": "לפני",
-      "gloss": "……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "משה",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "מפני",
-      "gloss": "因為……的緣故"
+      "gloss": "因為"
     },
     {
       "surface": "השחין",
-      "gloss": "那潰瘍"
+      "gloss": "瘡"
     },
     {
       "surface": "כי",
@@ -66,25 +45,25 @@
     },
     {
       "surface": "היה",
-      "gloss": "正在發作"
+      "gloss": "生在"
     },
     {
       "surface": "השחין",
-      "gloss": "那潰瘍"
+      "gloss": "瘡"
     },
     {
       "surface": "בחרטמם",
-      "gloss": "長在行法術的身上"
+      "gloss": "在行法術的身上"
     },
     {
       "surface": "ובכל",
-      "gloss": "和在所有……身上"
+      "gloss": "和在全"
     },
     {
       "surface": "מצרים",
-      "gloss": "埃及人"
+      "gloss": "埃及"
     }
   ],
-  "timestamp": "2026-10-16T04:43:52.296897406Z",
+  "timestamp": "2026-10-16T22:21:55.787260944Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ונשפטתי אתכם",
-      "rationale": "Niphal『我被審判／我彼此爭訟』：和合本作『與你們相爭』，直譯近於『與你們同受審判』"
-    },
-    {
-      "kind": "elision",
-      "subject": "第二個 אתכם",
-      "rationale": "此處 את（H854）是『與』，非受詞記號，故不帶 ⟨את⟩ 標記"
-    }
-  ],
-  "translation": "我必將你們帶到萬民的曠野，在那裡與你們面對面地受審判。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "e1e647a4e008bf21d9dcaff0656403b2a6b70eae36fe96cbbd69081d11b36008",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/20\/33-36.1792138401131.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我必帶 ⟨את⟩ 你們進入眾民⟨的⟩曠野，在那裡與你們⟨面對面⟩面對面⟨地⟩審判你們。",
   "tokens": [
     {
       "surface": "והבאתי",
@@ -39,7 +18,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "到"
+      "gloss": "進入"
     },
     {
       "surface": "מדבר",
@@ -47,15 +26,16 @@
     },
     {
       "surface": "העמים",
-      "gloss": "萬民的"
+      "gloss": "眾民"
     },
     {
       "surface": "ונשפטתי",
-      "gloss": "我必受審判"
+      "gloss": "我必審判"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ 與你們"
+      "gloss": "⟨את⟩",
+      "marks": "你們"
     },
     {
       "surface": "שם",
@@ -74,6 +54,6 @@
       "gloss": "面"
     }
   ],
-  "timestamp": "2026-10-16T08:13:21.133110187Z",
+  "timestamp": "2026-10-16T22:23:00.875940664Z",
   "model": "glm-5.3"
 }

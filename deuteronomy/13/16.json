@@ -5,41 +5,15 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "刀口",
-      "rationale": "לפי חרב 直譯「刀的口」，中譯習慣作「刀口」"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הכה תכה",
-      "rationale": "不定式絕對＋不定式未完成的疊用，表「務要擊殺」的強調結構"
-    },
-    {
-      "kind": "substitution",
-      "subject": "滅絕淨盡",
-      "rationale": "חרם 是「當滅之物」的獻予毀滅，宗教性禁令，非單純殺滅"
-    }
-  ],
-  "translation": "你就要用刀口擊殺⟨את⟩那城的居民；把那城和其中所有的，連牠的牲畜，都滅絕淨盡，用刀口。 ",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "16c60cc1dfe89d277b407e9512ffe46793da95fb1fb3079ddc3bcffb44d72756",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/13\/13-16.1792128804661.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你務要擊殺 ⟨את⟩ 那城的居民，用刀口〈徹底滅絕〉；將 ⟨אתה⟩ 那城和 ⟨ואת⟩ 其中所有的，以及 ⟨ואת⟩ 牠的牲畜，都用刀口滅絕。",
   "tokens": [
     {
       "surface": "הכה",
-      "gloss": "擊殺"
+      "gloss": "務要擊殺"
     },
     {
       "surface": "תכה",
-      "gloss": "務要擊殺"
+      "gloss": "擊殺"
     },
     {
       "surface": "את",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "לפי",
-      "gloss": "用……口"
+      "gloss": "用刀口"
     },
     {
       "surface": "חרב",
@@ -68,16 +42,16 @@
     },
     {
       "surface": "החרם",
-      "gloss": "滅絕淨盡"
+      "gloss": "徹底滅絕"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨אתה⟩",
       "marks": "那城"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨ואת⟩",
       "marks": "其中所有的"
     },
     {
@@ -86,30 +60,30 @@
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "其中"
     },
     {
       "surface": "בה",
-      "gloss": "在其中"
+      "gloss": "在它裡面"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨ואת⟩",
       "marks": "牠的牲畜"
     },
     {
       "surface": "בהמתה",
-      "gloss": "牠的牲畜"
+      "gloss": "牲畜"
     },
     {
       "surface": "לפי",
-      "gloss": "用……口"
+      "gloss": "用刀口"
     },
     {
       "surface": "חרב",
       "gloss": "刀"
     }
   ],
-  "timestamp": "2026-10-16T05:33:24.662768006Z",
+  "timestamp": "2026-10-16T22:13:16.126599537Z",
   "model": "glm-5.3"
 }

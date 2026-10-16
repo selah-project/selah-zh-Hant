@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "你們以為",
-      "rationale": "המעט מכם 直譯「在你們那是小的嗎」，中文需動詞補足語氣"
-    },
-    {
-      "kind": "you",
-      "subject": "可拉眾子",
-      "rationale": "摩西對利未子孫的直接責問，呼應第8節「以色列的子孫啊，要聽」"
-    }
-  ],
-  "translation": "你們以為小事嗎？以色列的以羅欣從以色列的會眾中將你們分別出來，使你們親近⟨את⟩祂，辦理雅威會幕的事務，又站在會眾面前事奉他們——",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "644dc5f635863d06b20d16c2529df2fad0b7fa1836c177984444bf8fc0fb836c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/16\/9-12.1792127891137.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "在你們看來這是小事嗎？以色列的以羅欣將 ⟨את⟩ 你們從以色列的會眾中分別出來，使 ⟨את⟩ 你們親近他自己，為要事奉雅威會幕的職事，又站在會眾面前服事他們。",
   "tokens": [
     {
       "surface": "המעט",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "因為"
+      "gloss": "⟨嗎⟩"
     },
     {
       "surface": "הבדיל",
@@ -50,16 +29,16 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "以色列"
+      "gloss": "以色列的"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩你們",
-      "marks": "以色列的以羅欣分別出來的對象"
+      "gloss": "⟨את⟩ 你們",
+      "marks": "你們"
     },
     {
       "surface": "מעדת",
-      "gloss": "從……會眾"
+      "gloss": "從……的會眾"
     },
     {
       "surface": "ישראל",
@@ -67,29 +46,29 @@
     },
     {
       "surface": "להקריב",
-      "gloss": "使親近"
+      "gloss": "使……親近"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩你們",
-      "marks": "親近的對象"
+      "gloss": "⟨את⟩ 你們",
+      "marks": "你們"
     },
     {
       "surface": "אליו",
-      "gloss": "祂"
+      "gloss": "他自己"
     },
     {
       "surface": "לעבד",
-      "gloss": "辦理"
+      "gloss": "為要事奉"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "雅威會幕的事務"
+      "marks": "雅威會幕的職事"
     },
     {
       "surface": "עבדת",
-      "gloss": "事務"
+      "gloss": "職事"
     },
     {
       "surface": "משכן",
@@ -105,7 +84,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "העדה",
@@ -113,9 +92,9 @@
     },
     {
       "surface": "לשרתם",
-      "gloss": "事奉他們"
+      "gloss": "服事他們"
     }
   ],
-  "timestamp": "2026-10-16T05:18:11.138103642Z",
+  "timestamp": "2026-10-16T22:53:35.231246357Z",
   "model": "glm-5.3"
 }

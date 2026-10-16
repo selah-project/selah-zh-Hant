@@ -5,41 +5,20 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "連",
-      "rationale": "על 字面為「在……之上」，此處指脂油連著胸，譯作「連」"
-    },
-    {
-      "kind": "substitution",
-      "subject": "搖祭",
-      "rationale": "תנופה 字面為「搖動、揮動」，是禮償動作名詞，譯作搖祭"
-    }
-  ],
-  "translation": "他要親手帶來雅威的火祭——⟨את⟩ 脂油連 ⟨את⟩ 胸，要把 ⟨את⟩ 胸帶來，在雅威面前搖一搖，作搖祭。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c428945c0500d8fec1e932a13dfd8954068f89c14f7b9c113f222bc982b4f4e2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/7\/29-32.1792126760382.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他要親手獻上雅威的火祭：把脂油連同胸帶來，將 ⟨את⟩ 胸帶到，為要搖一搖，作搖祭在雅威面前 ⟨אתו⟩ 搖動。",
   "tokens": [
     {
       "surface": "ידיו",
-      "gloss": "他要親手"
+      "gloss": "他的手（親手）"
     },
     {
       "surface": "תביאינה",
-      "gloss": "帶來"
+      "gloss": "要帶來"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "雅威的火祭"
+      "marks": "火祭"
     },
     {
       "surface": "אשי",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "雅威的"
+      "gloss": "雅威"
     },
     {
       "surface": "את",
@@ -60,7 +39,7 @@
     },
     {
       "surface": "על",
-      "gloss": "連"
+      "gloss": "在……之上（連同）"
     },
     {
       "surface": "החזה",
@@ -68,7 +47,7 @@
     },
     {
       "surface": "יביאנו",
-      "gloss": "要把……帶來"
+      "gloss": "要帶來它"
     },
     {
       "surface": "את",
@@ -81,16 +60,16 @@
     },
     {
       "surface": "להניף",
-      "gloss": "在……面前搖一搖"
+      "gloss": "為要搖動"
     },
     {
       "surface": "אתו",
       "gloss": "⟨אתו⟩",
-      "marks": "胸"
+      "marks": "它（胸）"
     },
     {
       "surface": "תנופה",
-      "gloss": "作搖祭"
+      "gloss": "搖祭"
     },
     {
       "surface": "לפני",
@@ -101,6 +80,6 @@
       "gloss": "雅威"
     }
   ],
-  "timestamp": "2026-10-16T04:59:20.383021044Z",
+  "timestamp": "2026-10-16T22:50:55.556391610Z",
   "model": "glm-5.3"
 }

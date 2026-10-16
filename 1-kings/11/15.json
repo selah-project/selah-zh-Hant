@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "דוד את אדום",
-      "rationale": "את此處為介詞『與、在一起』（H854）而非受詞記號，『大衛與以東（同在）』；亦有譯作『在以東』"
-    },
-    {
-      "kind": "alternative",
-      "subject": "ויך כל זכר",
-      "rationale": "擊殺男丁一事按原文語序在埋葬之後，諸譯本多將時間順序重排"
-    }
-  ],
-  "translation": "大衛在以東的時候，元帥約押上去埋葬⟨את⟩被殺的人，就在以東擊殺了所有的男丁——這事發生在從前。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "703b0e48ff8657bc1adbed01aac2320fc23f5f2a4be4a7b9285925df463ecb71",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/11\/13-16.1792132953708.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "大衛在以東的時候——那時元帥約押上去要埋葬 ⟨את⟩ 被殺的人，就擊殺了 ⟨את⟩ 以東所有的男丁——這事發生了。",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "這事發生在從前"
+      "gloss": "發生了"
     },
     {
       "surface": "בהיות",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ 與",
+      "gloss": "⟨את⟩",
       "marks": "以東"
     },
     {
@@ -67,7 +46,7 @@
     },
     {
       "surface": "לקבר",
-      "gloss": "埋葬"
+      "gloss": "要埋葬"
     },
     {
       "surface": "את",
@@ -95,6 +74,6 @@
       "gloss": "在以東"
     }
   ],
-  "timestamp": "2026-10-16T06:42:33.709373572Z",
+  "timestamp": "2026-10-16T21:57:22.095998946Z",
   "model": "glm-5.3"
 }

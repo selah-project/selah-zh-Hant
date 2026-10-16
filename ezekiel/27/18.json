@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ברב／מרב",
-      "rationale": "兩個『多』字首尾倒置，中文無法保留此迴文式的重複。"
-    },
-    {
-      "kind": "addition",
-      "subject": "〈交易〉",
-      "rationale": "中文句末需補一個動詞以成句，希伯來文以名詞短語並列。"
-    }
-  ],
-  "translation": "大馬士革因你許多的貨物、因你各樣豐厚的財富，作你的商人，以黑本的酒和潔白的羊毛〈交易〉。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "332b4a14755d7a8a9173d6a2d9ada812b92fa8c05fd028dcc0117ee378e2b6bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/27\/17-20.1792138678506.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "大馬士革因你許多的貨物、因各樣財寶的豐盛，作你的商人，以黑本〈את〉的酒和潔白的羊毛〈את〉交易。",
   "tokens": [
     {
       "surface": "דמשק",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "ברב",
-      "gloss": "因……許多"
+      "gloss": "因…的豐盛"
     },
     {
       "surface": "מעשיך",
-      "gloss": "你的貨物"
+      "gloss": "你的貨物（作為）"
     },
     {
       "surface": "מרב",
-      "gloss": "因……豐厚"
+      "gloss": "因…的豐盛"
     },
     {
       "surface": "כל",
@@ -54,15 +33,15 @@
     },
     {
       "surface": "הון",
-      "gloss": "財富"
+      "gloss": "財寶"
     },
     {
       "surface": "ביין",
-      "gloss": "以酒"
+      "gloss": "以…的酒"
     },
     {
       "surface": "חלבון",
-      "gloss": "黑本的"
+      "gloss": "黑本"
     },
     {
       "surface": "וצמר",
@@ -73,6 +52,6 @@
       "gloss": "潔白的"
     }
   ],
-  "timestamp": "2026-10-16T08:17:58.507453038Z",
+  "timestamp": "2026-10-16T22:23:29.933467193Z",
   "model": "glm-5.3"
 }

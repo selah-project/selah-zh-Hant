@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "帶到",
-      "rationale": "「放在車上」隱含運送至耶路撒冷，中文補「帶到」使動作完整。"
-    },
-    {
-      "kind": "you",
-      "subject": "敘事",
-      "rationale": "本節是安葬記錄：與列祖同葬於大衛城，是猶大王葬禮的固定格式（measurement 類的禮制記錄）。"
-    }
-  ],
-  "translation": "他的臣僕把他放在車上，帶到耶路撒冷，將 ⟨אתו⟩ 他葬在他的墳墓裡，與他列祖同在大衛城。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "4331c243e126435067b1215914bd95429227b2d810c04b2907013378c0b29985",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/9\/25-28.1792133869288.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他的僕人們把他放上⟨את⟩車，送往耶路撒冷，把他葬在他的墓地裡，與他列祖同在，在大衛的城中。",
   "tokens": [
     {
       "surface": "וירכבו",
-      "gloss": "他們把……放在車上帶"
+      "gloss": "放上車"
     },
     {
       "surface": "אתו",
@@ -39,7 +18,7 @@
     },
     {
       "surface": "עבדיו",
-      "gloss": "他的臣僕"
+      "gloss": "他的僕人們"
     },
     {
       "surface": "ירושלמה",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "ויקברו",
-      "gloss": "將……葬"
+      "gloss": "葬"
     },
     {
       "surface": "אתו",
@@ -56,7 +35,7 @@
     },
     {
       "surface": "בקברתו",
-      "gloss": "在他的墳墓裡"
+      "gloss": "在他的墓地裡"
     },
     {
       "surface": "עם",
@@ -68,13 +47,13 @@
     },
     {
       "surface": "בעיר",
-      "gloss": "在……城"
+      "gloss": "在城中"
     },
     {
       "surface": "דוד",
       "gloss": "大衛"
     }
   ],
-  "timestamp": "2026-10-16T06:57:49.289842528Z",
+  "timestamp": "2026-10-16T22:08:23.372558341Z",
   "model": "glm-5.3"
 }

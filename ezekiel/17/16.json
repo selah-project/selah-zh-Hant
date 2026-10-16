@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אם לא",
-      "rationale": "「若不」是誓詞強調語（＝確然、必如此），譯作「確然」。"
-    },
-    {
-      "kind": "idiom",
-      "subject": "חי אני",
-      "rationale": "「我活著」是雅威指自己生命起誓的公式，保留字面。"
-    }
-  ],
-  "translation": "我活著，阿多奈雅威說：確然，他藐視了那立 ⟨את⟩ 他作王之王的誓言，背棄了與 ⟨את⟩ 他所立的約，在巴比倫之中、在那王的地方，他必死。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "98c3f92e4a1c2f0d6b2e28990b4282db1eaefde61a9c225cf59cd559b382f964",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/17\/13-16.1792138341546.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我活著——阿多奈雅威的話：他必在立他作王的那王之處，就是他藐視 ⟨את⟩ 那王的誓言、又違背 ⟨את⟩ 那約的那一位，在巴比倫當中與他一同死去。",
   "tokens": [
     {
       "surface": "חי",
-      "gloss": "活著"
+      "gloss": "我活著"
     },
     {
       "surface": "אני",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "說（宣言）"
+      "gloss": "的話"
     },
     {
       "surface": "אדני",
@@ -54,19 +33,19 @@
     },
     {
       "surface": "לא",
-      "gloss": "不（確然）"
+      "gloss": "不"
     },
     {
       "surface": "במקום",
-      "gloss": "在…地方"
+      "gloss": "在……之處"
     },
     {
       "surface": "המלך",
-      "gloss": "王"
+      "gloss": "那王"
     },
     {
       "surface": "הממליך",
-      "gloss": "立…作王的"
+      "gloss": "立他作王"
     },
     {
       "surface": "אתו",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "那…的"
+      "gloss": "就是"
     },
     {
       "surface": "בזה",
@@ -84,7 +63,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他的誓言"
+      "marks": "那王的誓言"
     },
     {
       "surface": "אלתו",
@@ -92,16 +71,16 @@
     },
     {
       "surface": "ואשר",
-      "gloss": "並那…的"
+      "gloss": "又"
     },
     {
       "surface": "הפר",
-      "gloss": "背棄"
+      "gloss": "違背"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他的約"
+      "marks": "那約"
     },
     {
       "surface": "בריתו",
@@ -109,12 +88,11 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "他"
+      "gloss": "⟨את⟩ 與他一同"
     },
     {
       "surface": "בתוך",
-      "gloss": "在…之中"
+      "gloss": "在……當中"
     },
     {
       "surface": "בבל",
@@ -122,9 +100,9 @@
     },
     {
       "surface": "ימות",
-      "gloss": "必死"
+      "gloss": "死去"
     }
   ],
-  "timestamp": "2026-10-16T08:12:21.547831950Z",
+  "timestamp": "2026-10-16T22:22:32.291964418Z",
   "model": "glm-5.3"
 }

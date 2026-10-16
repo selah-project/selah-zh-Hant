@@ -5,41 +5,15 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "תשכל",
-      "rationale": "「使喪子」語幹或指「荒廢、消滅」——KJV『毀滅』與 JPS『喪子』兩傳統之爭。"
-    },
-    {
-      "kind": "addition",
-      "subject": "都必滅亡",
-      "rationale": "希伯來文以平行名詞組收尾，動詞由上文承續，中文補出。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "גם…גם…עם",
-      "rationale": "三重「與」的排比——少年、少女、嬰孩、老人無一倖免。"
-    }
-  ],
-  "translation": "外面有刀劍使人喪子，內室裡有恐懼；少年人與少女、吃奶的嬰孩與白髮的老人〈都必滅亡〉。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "8d1b1549e239f3380cd48fafebfae17d476469fb90b7d3f5f3e2b986e774c252",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/32\/25-28.1792129354540.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "在外面，刀劍必使人喪子；在內室裡，必有驚惶——少年人也罷，少女也罷，吃奶的與白髮之人〈都必遭害〉。",
   "tokens": [
     {
       "surface": "מחוץ",
-      "gloss": "外面"
+      "gloss": "在外面"
     },
     {
       "surface": "תשכל",
-      "gloss": "使喪子"
+      "gloss": "必使人喪子"
     },
     {
       "surface": "חרב",
@@ -47,15 +21,15 @@
     },
     {
       "surface": "ומחדרים",
-      "gloss": "內室裡"
+      "gloss": "在內室裡"
     },
     {
       "surface": "אימה",
-      "gloss": "恐懼"
+      "gloss": "驚惶"
     },
     {
       "surface": "גם",
-      "gloss": "與"
+      "gloss": "也"
     },
     {
       "surface": "בחור",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "גם",
-      "gloss": "與"
+      "gloss": "也"
     },
     {
       "surface": "בתולה",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "יונק",
-      "gloss": "吃奶的嬰孩"
+      "gloss": "吃奶的"
     },
     {
       "surface": "עם",
@@ -79,13 +53,13 @@
     },
     {
       "surface": "איש",
-      "gloss": "老人"
+      "gloss": "…之人"
     },
     {
       "surface": "שיבה",
-      "gloss": "白髮的"
+      "gloss": "白髮"
     }
   ],
-  "timestamp": "2026-10-16T05:42:34.541222783Z",
+  "timestamp": "2026-10-16T22:14:54.493865990Z",
   "model": "glm-5.3"
 }

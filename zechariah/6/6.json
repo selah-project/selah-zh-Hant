@@ -5,41 +5,15 @@
   "book": "zechariah",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈車〉",
-      "rationale": "希伯來文只作「在其中」，受詞（馬或車）承上文省略，中文補出「車」以成句"
-    },
-    {
-      "kind": "substitution",
-      "subject": "השחרים",
-      "rationale": "字面為「黑色的」（יוצאים 的顏色系列：黑、白、斑）"
-    },
-    {
-      "kind": "substitution",
-      "subject": "התימן",
-      "rationale": "字面「右手邊之地」，即南方，因人面朝東立"
-    }
-  ],
-  "translation": "套著黑馬的〈車〉往北方之地去，白馬跟在牠們後面出來，有斑點的馬往南方之地去。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "7df23a8c6f971657e148a061574fec0d51f6c80c97112701353658eaabe3b0df",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/zechariah\/6\/5-8.1792143032631.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "黑馬在其中，牠們出來往北方之地去；白馬出來跟在牠們後面；有斑紋的馬出來往南方之地去。",
   "tokens": [
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "⟨其中⟩"
     },
     {
       "surface": "בה",
-      "gloss": "套著〈牠〉的"
+      "gloss": "在其中"
     },
     {
       "surface": "הסוסים",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "יצאים",
-      "gloss": "往……去"
+      "gloss": "出來"
     },
     {
       "surface": "אל",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "在"
+      "gloss": "往"
     },
     {
       "surface": "אחריהם",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "והברדים",
-      "gloss": "有斑點的馬"
+      "gloss": "有斑紋的馬"
     },
     {
       "surface": "יצאו",
@@ -102,6 +76,6 @@
       "gloss": "南方"
     }
   ],
-  "timestamp": "2026-10-16T09:30:32.631851888Z",
+  "timestamp": "2026-10-16T23:00:30.149561642Z",
   "model": "glm-5.3"
 }

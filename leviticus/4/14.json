@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "牛群之子",
-      "rationale": "בן בקר 直譯「牛群之子」，即幼公牛；保留原語形"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חטאת",
-      "rationale": "同一詞既是「罪」又是「贖罪祭」，雙關在中文分作兩詞而失落"
-    }
-  ],
-  "translation": "他們所犯的罪被知道以後，會眾就要獻上一頭公牛、牛群之子，作為贖罪祭，把牠帶到會幕面前。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ca35e64c611faff472765432311c5cc022d981e9b81e37d107e10da35f5cdd86",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/4\/13-16.1792126735374.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們所犯的罪被知道了，會眾就要獻一頭公牛犢作為贖罪祭，把⟨את⟩牠帶到會幕面前。",
   "tokens": [
     {
       "surface": "ונודעה",
-      "gloss": "被知道以後"
+      "gloss": "被知道了"
     },
     {
       "surface": "החטאת",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "所……的"
+      "gloss": "所犯的"
     },
     {
       "surface": "חטאו",
-      "gloss": "他們所犯"
+      "gloss": "他們犯了"
     },
     {
       "surface": "עליה",
-      "gloss": "關於牠"
+      "gloss": "在其上"
     },
     {
       "surface": "והקריבו",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "……之子"
+      "gloss": "…之子"
     },
     {
       "surface": "בקר",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "והביאו",
-      "gloss": "把牠帶到"
+      "gloss": "並要帶"
     },
     {
       "surface": "אתו",
@@ -83,17 +62,17 @@
     },
     {
       "surface": "לפני",
-      "gloss": "……面前"
+      "gloss": "面前"
     },
     {
       "surface": "אהל",
-      "gloss": "會幕"
+      "gloss": "帳幕"
     },
     {
       "surface": "מועד",
-      "gloss": "相會之（幕）"
+      "gloss": "會晤"
     }
   ],
-  "timestamp": "2026-10-16T04:58:55.374858312Z",
+  "timestamp": "2026-10-16T22:50:46.870223384Z",
   "model": "glm-5.3"
 }

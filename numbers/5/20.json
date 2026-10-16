@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "שכבתו",
-      "rationale": "字面是「他的躺臥／同寢之舉」，中文以「同寢」承擔此委婉語"
-    },
-    {
-      "kind": "crux",
-      "subject": "תחת אישך",
-      "rationale": "同5:19：「在丈夫權下」與「背著丈夫」兩讀並存"
-    },
-    {
-      "kind": "you",
-      "subject": "to the woman",
-      "rationale": "誓詞的下半段，仍直接對那婦人說"
-    }
-  ],
-  "translation": "至於你，若你在丈夫以下偏了邪、玷污了自己，有男人在丈夫之外把他的同寢給了你——",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "005556ea9a99564df05e19861dc81b09e09b0043e3d73bbc773cd4f1460d9ebe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/5\/17-20.1792127635364.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "但你若背著你的丈夫偏行了，若被玷污了，有男人在你身上行了 ⟨את⟩ 他同寢之事——除了你的丈夫以外——",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "至於你"
+      "gloss": "但你"
     },
     {
       "surface": "כי",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "שטית",
-      "gloss": "偏了邪"
+      "gloss": "偏行了"
     },
     {
       "surface": "תחת",
-      "gloss": "在……以下"
+      "gloss": "背著"
     },
     {
       "surface": "אישך",
@@ -55,19 +29,19 @@
     },
     {
       "surface": "וכי",
-      "gloss": "又若"
+      "gloss": "若"
     },
     {
       "surface": "נטמאת",
-      "gloss": "玷污了自己"
+      "gloss": "被玷污了"
     },
     {
       "surface": "ויתן",
-      "gloss": "給了"
+      "gloss": "行了"
     },
     {
       "surface": "איש",
-      "gloss": "男人"
+      "gloss": "有男人"
     },
     {
       "surface": "בך",
@@ -76,21 +50,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他的同寢"
+      "marks": "他同寢之事"
     },
     {
       "surface": "שכבתו",
-      "gloss": "他的同寢"
+      "gloss": "他同寢之事"
     },
     {
       "surface": "מבלעדי",
-      "gloss": "在……之外"
+      "gloss": "除了……以外"
     },
     {
       "surface": "אישך",
       "gloss": "你的丈夫"
     }
   ],
-  "timestamp": "2026-10-16T05:13:55.366173322Z",
+  "timestamp": "2026-10-16T22:56:36.126088582Z",
   "model": "glm-5.3"
 }

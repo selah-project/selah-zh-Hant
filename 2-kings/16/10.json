@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "提革拉毗列色",
-      "rationale": "תגלת פלאסר 兩個詞元合成一人名，取和合本通行寫法"
-    },
-    {
-      "kind": "elision",
-      "subject": "לקראת",
-      "rationale": "「前往……迎接」合併成中文一個動詞結構，לקראת 的字面是「相對、相迎」"
-    }
-  ],
-  "translation": "亞哈斯王前往大馬士革迎接亞述王提革拉毗列色，看見了 ⟨את⟩ 在大馬士革的祭壇，亞哈斯王就把祭壇的樣式、⟨את⟩ 它的形狀和一切的作法，送到烏利亞祭司那裡。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "26a99f8254fe96002a3a6109c9c948d983ad2976ffddd3e4d43fbf48fb200aff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/16\/10-12.1792142482843.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "亞哈斯王去大馬士革迎接亞述王提革拉・毗列色，看見了 ⟨את⟩ 那座在大馬士革的祭壇；亞哈斯王就差遣⟨人⟩到烏利亞祭司那裏，將 ⟨את⟩ 祭壇的樣式和 ⟨את⟩ 它的形狀，連同它一切的工法，都送了去。",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "前往"
+      "gloss": "去"
     },
     {
       "surface": "המלך",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "תגלת",
-      "gloss": "提革拉"
+      "gloss": "提革拉・"
     },
     {
       "surface": "פלאסר",
@@ -71,7 +50,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "祭壇"
+      "marks": "那座祭壇"
     },
     {
       "surface": "המזבח",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "וישלח",
-      "gloss": "就……送到"
+      "gloss": "就差遣"
     },
     {
       "surface": "המלך",
@@ -112,7 +91,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "祭壇的樣式"
+      "marks": "樣式"
     },
     {
       "surface": "דמות",
@@ -124,7 +103,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "它的形狀"
     },
     {
@@ -133,13 +112,13 @@
     },
     {
       "surface": "לכל",
-      "gloss": "一切的"
+      "gloss": "連同它一切的"
     },
     {
       "surface": "מעשהו",
-      "gloss": "作法"
+      "gloss": "工法"
     }
   ],
-  "timestamp": "2026-10-16T09:21:22.844282699Z",
+  "timestamp": "2026-10-16T22:06:01.918187831Z",
   "model": "glm-5.3"
 }

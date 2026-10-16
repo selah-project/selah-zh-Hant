@@ -5,33 +5,12 @@
   "book": "esther",
   "lang": "zh-Hant",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "抄本",
-      "rationale": "פתשגן 是波斯語藉詞，指文書的抄本"
-    },
-    {
-      "kind": "hapax",
-      "subject": "הדת",
-      "rationale": "דת 多見於以斯帖記等波斯時期經卷，指王的法令"
-    }
-  ],
-  "translation": "他又把在書珊頒布、要除滅他們的法令文書的抄本交給他，要給以斯帖看，向她說明，並囑咐她進去見王，向王懇求，在王面前為她的本族之民求情。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ba5c112211ac4f9b594524261378a6c0fb947db8182c689de5888a532ac8a99e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/esther\/4\/5-8.1792147194160.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他又把在書珊頒布要滅絕他們的那法令文本的抄本給了他，為要給以斯帖看，向她講明，並囑咐她進到王那裡，向王懇求，在王面前為她的族人求情。",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "抄本"
+      "marks": "法令文本的抄本"
     },
     {
       "surface": "פתשגן",
@@ -39,7 +18,7 @@
     },
     {
       "surface": "כתב",
-      "gloss": "文書"
+      "gloss": "文本"
     },
     {
       "surface": "הדת",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "那"
     },
     {
       "surface": "נתן",
@@ -59,11 +38,11 @@
     },
     {
       "surface": "להשמידם",
-      "gloss": "要除滅他們"
+      "gloss": "要滅絕他們"
     },
     {
       "surface": "נתן",
-      "gloss": "交給"
+      "gloss": "給"
     },
     {
       "surface": "לו",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "להראות",
-      "gloss": "要給…看"
+      "gloss": "給…看"
     },
     {
       "surface": "את",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "ולהגיד",
-      "gloss": "並向她說明"
+      "gloss": "並向她講明"
     },
     {
       "surface": "לה",
@@ -100,11 +79,11 @@
     },
     {
       "surface": "לבוא",
-      "gloss": "進去"
+      "gloss": "進到"
     },
     {
       "surface": "אל",
-      "gloss": "見"
+      "gloss": "到…那裡"
     },
     {
       "surface": "המלך",
@@ -132,9 +111,9 @@
     },
     {
       "surface": "עמה",
-      "gloss": "她的本族之民"
+      "gloss": "她的族人"
     }
   ],
-  "timestamp": "2026-10-16T10:39:54.161776743Z",
+  "timestamp": "2026-10-16T22:16:55.558760223Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "את（第一處）",
-      "rationale": "第一個את指向כל הרעה，中文語序中譯為賓語前置而未以記號呈現，第二個את保留"
-    },
-    {
-      "kind": "you",
-      "subject": "對百姓",
-      "rationale": "撒母耳直接向以色列百姓說話"
-    },
-    {
-      "kind": "invitation",
-      "subject": "不要懼怕……總要盡心事奉",
-      "rationale": "命令式勸勉，召喚百姓轉向雅威"
-    }
-  ],
-  "translation": "撒母耳對百姓說：「不要懼怕，你們行了這一切惡事，只是不可偏離雅威，總要盡心事奉 ⟨את⟩ 雅威。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c74917b27445638ffc111107d1585ce34ca4dc9e6730b1ce43d6d8f307567e21",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/12\/17-20.1792131010961.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "撒母耳對百姓說：「不要懼怕，你們行了這一切惡事，只是不可轉離、不跟從雅威，總要盡你們全心事奉⟨את⟩雅威。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -68,7 +42,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "這一切惡事"
+      "marks": "這一切"
     },
     {
       "surface": "כל",
@@ -92,11 +66,11 @@
     },
     {
       "surface": "תסורו",
-      "gloss": "偏離"
+      "gloss": "轉離"
     },
     {
       "surface": "מאחרי",
-      "gloss": "從……之後"
+      "gloss": "不跟從"
     },
     {
       "surface": "יהוה",
@@ -117,13 +91,13 @@
     },
     {
       "surface": "בכל",
-      "gloss": "以全部"
+      "gloss": "盡"
     },
     {
       "surface": "לבבכם",
-      "gloss": "你們的心"
+      "gloss": "全心"
     }
   ],
-  "timestamp": "2026-10-16T06:10:10.962779363Z",
+  "timestamp": "2026-10-16T22:00:24.079830570Z",
   "model": "glm-5.3"
 }

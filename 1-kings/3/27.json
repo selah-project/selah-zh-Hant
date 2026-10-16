@@ -5,23 +5,7 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "是",
-      "rationale": "希伯來文無繫詞，היא אמו直譯「她——他的母親」"
-    }
-  ],
-  "translation": "王回答說：「把活孩子給她，不可將他處死——她⟨是⟩他的母親。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ecdd2f0eb860736a6866a395935254e30403f39ef7e60882d270ade41a63d6de",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/3\/25-28.1792132584296.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "王回答說：「你們把 ⟨את⟩ 這活著的孩子給她，不可將他處死——她⟨是⟩他的母親。」",
   "tokens": [
     {
       "surface": "ויען",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "תנו",
-      "gloss": "給"
+      "gloss": "你們把…給"
     },
     {
       "surface": "לה",
@@ -46,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "活孩子"
+      "marks": "這活著的孩子"
     },
     {
       "surface": "הילוד",
@@ -66,7 +50,7 @@
     },
     {
       "surface": "תמיתהו",
-      "gloss": "將他殺了"
+      "gloss": "將他…死"
     },
     {
       "surface": "היא",
@@ -77,6 +61,6 @@
       "gloss": "他的母親"
     }
   ],
-  "timestamp": "2026-10-16T06:36:24.297322691Z",
+  "timestamp": "2026-10-16T21:59:20.075793743Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "命令語氣",
-      "rationale": "中文以「要……」表達希伯來文祈使式"
-    },
-    {
-      "kind": "you",
-      "subject": "對撒督、拿單、比拿雅",
-      "rationale": "大衛直接吩咐三位臣僕"
-    }
-  ],
-  "translation": "王對他們說：「你們要帶著你們主人的僕人，使我兒子所羅門騎上我的騾子，送他下到基訓去。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "2789c05c5fb2b46ab7d9e7a84c3b8ed7459663cbdfcbaf1e5e81624f59fcb3af",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/1\/33-36.1792132488116.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "王對他們說：「帶著你們主人的僕人⟨與你們同去⟩，使⟨את⟩我兒子所羅門騎上⟨那⟩屬於我的母騾，帶⟨את⟩他下到基訓去。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "קחו",
-      "gloss": "要帶"
+      "gloss": "帶"
     },
     {
       "surface": "עמכם",
-      "gloss": "帶著你們"
+      "gloss": "與你們"
     },
     {
       "surface": "את",
@@ -59,11 +38,11 @@
     },
     {
       "surface": "אדניכם",
-      "gloss": "你們主人的"
+      "gloss": "你們的主人"
     },
     {
       "surface": "והרכבתם",
-      "gloss": "要使……騎上"
+      "gloss": "使……騎上"
     },
     {
       "surface": "את",
@@ -76,15 +55,15 @@
     },
     {
       "surface": "בני",
-      "gloss": "我兒子"
+      "gloss": "我的兒子"
     },
     {
       "surface": "על",
-      "gloss": "騎上"
+      "gloss": "在……上"
     },
     {
       "surface": "הפרדה",
-      "gloss": "騾子"
+      "gloss": "母騾"
     },
     {
       "surface": "אשר",
@@ -92,16 +71,16 @@
     },
     {
       "surface": "לי",
-      "gloss": "我的"
+      "gloss": "屬於我的"
     },
     {
       "surface": "והורדתם",
-      "gloss": "要送他下去"
+      "gloss": "帶……下去"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "所羅門"
+      "marks": "他"
     },
     {
       "surface": "אל",
@@ -112,6 +91,6 @@
       "gloss": "基訓"
     }
   ],
-  "timestamp": "2026-10-16T06:34:48.116804733Z",
+  "timestamp": "2026-10-16T21:57:16.804353986Z",
   "model": "glm-5.3"
 }

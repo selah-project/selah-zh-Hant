@@ -5,58 +5,32 @@
   "book": "2-chronicles",
   "lang": "zh-Hant",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "העדות",
-      "rationale": "「見證」諸本或作王的徽章（jps: insignia）、或作律法書副本、或作出 13:9 之命定書；本譯照字面「見證」"
-    },
-    {
-      "kind": "substitution",
-      "subject": "願王萬歲",
-      "rationale": "יחי המלך 字面是「願王活著」，中文以「萬歲」為固定祝辭"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "受膏者",
-      "rationale": "וימשחהו「膏他」與משיח「受膏者」同根：王的登基由膏立定義，與掃羅、大衛同一詞形"
-    }
-  ],
-  "translation": "他們帶出 ⟨את⟩ 王的兒子，給他戴上 ⟨את⟩ 冠冕和 ⟨את⟩ 見證，立他作王；耶何耶大和他的眾子膏了他，他們就說：「願王萬歲！」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "4ac3316a02fa7bdb2528bd2e2b444201d7c6de0655be2fa912ba48cad16754f4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/23\/10-11.1792150037924.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們把王的孩子帶出來，把冠冕戴在他頭上，又把法版給他，立他作王；耶何耶大和他的眾子膏他，說：「願王萬歲！」",
   "tokens": [
     {
       "surface": "ויוציאו",
-      "gloss": "他們帶出"
+      "gloss": "帶出"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "王的兒子"
+      "marks": "王的孩子"
     },
     {
       "surface": "בן",
-      "gloss": "兒子"
+      "gloss": "孩子"
     },
     {
       "surface": "המלך",
-      "gloss": "王"
+      "gloss": "王的"
     },
     {
       "surface": "ויתנו",
-      "gloss": "給……戴上"
+      "gloss": "給"
     },
     {
       "surface": "עליו",
-      "gloss": "在他身上"
+      "gloss": "在他頭上"
     },
     {
       "surface": "את",
@@ -69,25 +43,25 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "見證"
+      "gloss": "和⟨את⟩",
+      "marks": "法版"
     },
     {
       "surface": "העדות",
-      "gloss": "見證"
+      "gloss": "法版"
     },
     {
       "surface": "וימליכו",
-      "gloss": "立……作王"
+      "gloss": "立他作王"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨אתו⟩",
       "marks": "他"
     },
     {
       "surface": "וימשחהו",
-      "gloss": "膏了他"
+      "gloss": "膏他"
     },
     {
       "surface": "יהוידע",
@@ -99,17 +73,17 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "他們就說"
+      "gloss": "說"
     },
     {
       "surface": "יחי",
-      "gloss": "願……活"
+      "gloss": "願……萬歲"
     },
     {
       "surface": "המלך",
       "gloss": "王"
     }
   ],
-  "timestamp": "2026-10-16T11:27:17.925362717Z",
+  "timestamp": "2026-10-16T22:03:28.700297258Z",
   "model": "glm-5.3"
 }

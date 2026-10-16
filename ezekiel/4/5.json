@@ -5,36 +5,15 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "三百九十天",
-      "rationale": "年數換算為日數的算術，一年抵一天。"
-    },
-    {
-      "kind": "crux",
-      "subject": "三百九十",
-      "rationale": "390 對應以色列罪孽年數的算法，古今譯本與抄本（LXX 作190）各異。"
-    }
-  ],
-  "translation": "我已將他們罪孽的年日定給你——按日子的數目，三百九十天；你要擔當以色列家的罪孽。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "5b3e78c809d6b2e885eac2adc32807b6346dc0be1971def5e47b633dd3158197",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/4\/5-8.1792137953177.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "而我已將 ⟨את⟩ 他們罪孽的年數歸給你，按日子的數目——三百九十日；你要擔當以色列家的罪孽。",
   "tokens": [
     {
       "surface": "ואני",
-      "gloss": "我"
+      "gloss": "而"
     },
     {
       "surface": "נתתי",
-      "gloss": "已定給"
+      "gloss": "我已將……歸給"
     },
     {
       "surface": "לך",
@@ -43,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "年日"
+      "marks": "年數"
     },
     {
       "surface": "שני",
-      "gloss": "年日"
+      "gloss": "年數"
     },
     {
       "surface": "עונם",
@@ -63,19 +42,19 @@
     },
     {
       "surface": "שלש",
-      "gloss": "三"
+      "gloss": "三百"
     },
     {
       "surface": "מאות",
-      "gloss": "百"
+      "gloss": "（百）"
     },
     {
       "surface": "ותשעים",
-      "gloss": "和九十"
+      "gloss": "又九十"
     },
     {
       "surface": "יום",
-      "gloss": "天"
+      "gloss": "日"
     },
     {
       "surface": "ונשאת",
@@ -94,6 +73,6 @@
       "gloss": "以色列"
     }
   ],
-  "timestamp": "2026-10-16T08:05:53.178110841Z",
+  "timestamp": "2026-10-16T22:25:12.642869882Z",
   "model": "glm-5.3"
 }

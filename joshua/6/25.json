@@ -5,33 +5,12 @@
   "book": "joshua",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "使者",
-      "rationale": "המלאכים在此指人間的探子，非天使；和合本作「使者」，此處指約書亞打發的人"
-    },
-    {
-      "kind": "elision",
-      "subject": "至於",
-      "rationale": "希伯來文以 ואת 開首引出賓語前置結構，中文以「至於」承接"
-    }
-  ],
-  "translation": "至於喇合那妓女，並⟨את⟩她父家，並⟨את⟩她所有的一切，約書亞都讓她們存活；她就住在以色列之中，直到今日，因為她藏了約書亞打發去窺探⟨את⟩耶利哥的使者。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a6a6485352707eee21d69188f1a0c9587a947c41684df6ed5ad0047e2f9e8dd1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/6\/25-27.1792129566300.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "至於妓女喇合與⟨את⟩她父家的人並⟨את⟩她一切所有的，約書亞使他們存活；她就住在以色列當中，直到今日，因為她藏了約書亞派去窺探⟨את⟩耶利哥的使者。",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "喇合那妓女"
+      "marks": "喇合"
     },
     {
       "surface": "רחב",
@@ -39,12 +18,12 @@
     },
     {
       "surface": "הזונה",
-      "gloss": "那妓女"
+      "gloss": "妓女"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "她父家"
+      "marks": "父家"
     },
     {
       "surface": "בית",
@@ -52,12 +31,12 @@
     },
     {
       "surface": "אביה",
-      "gloss": "她的父親"
+      "gloss": "她父親"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "她所有的一切"
+      "marks": "一切所有的"
     },
     {
       "surface": "כל",
@@ -69,11 +48,11 @@
     },
     {
       "surface": "לה",
-      "gloss": "她的"
+      "gloss": "她有的"
     },
     {
       "surface": "החיה",
-      "gloss": "讓……存活"
+      "gloss": "使存活"
     },
     {
       "surface": "יהושע",
@@ -81,11 +60,11 @@
     },
     {
       "surface": "ותשב",
-      "gloss": "她就住在"
+      "gloss": "她就住"
     },
     {
       "surface": "בקרב",
-      "gloss": "在……之中"
+      "gloss": "在當中"
     },
     {
       "surface": "ישראל",
@@ -126,7 +105,7 @@
     },
     {
       "surface": "שלח",
-      "gloss": "打發"
+      "gloss": "派去"
     },
     {
       "surface": "יהושע",
@@ -134,7 +113,7 @@
     },
     {
       "surface": "לרגל",
-      "gloss": "去窺探"
+      "gloss": "窺探"
     },
     {
       "surface": "את",
@@ -146,6 +125,6 @@
       "gloss": "耶利哥"
     }
   ],
-  "timestamp": "2026-10-16T05:46:06.300744857Z",
+  "timestamp": "2026-10-16T22:44:57.690823258Z",
   "model": "glm-5.3"
 }

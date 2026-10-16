@@ -5,32 +5,11 @@
   "book": "ecclesiastes",
   "lang": "zh-Hant",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "的那一位",
-      "rationale": "希伯來文以關係子句指「尚未存在者」，中文需加中心語。"
-    },
-    {
-      "kind": "mystery",
-      "subject": "尚未存在者",
-      "rationale": "傳道者宣告未曾出生者勝過死人與活人，是全書最暗的悖論式宣告之一。"
-    }
-  ],
-  "translation": "而比這兩者更好的，是那尚未存在、未曾看見 ⟨את⟩ 日光之下所行之惡事的那一位。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "f6af2180538e3ce9e80a385de2e970bd47ac6839f9cc9947c1c6a73ee71573bd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/4\/1-4.1792146994364.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "而這兩者之外，更好的是那尚未存在的——比這兩者都好——就是那未曾看見 ⟨את⟩ 那惡事、即在日頭之下所行的惡事的人。",
   "tokens": [
     {
       "surface": "וטוב",
-      "gloss": "而更好"
+      "gloss": "更好"
     },
     {
       "surface": "משניהם",
@@ -39,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那一位"
+      "marks": "那尚未存在的（那未曾存在的人）"
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "就是那"
     },
     {
       "surface": "עדן",
-      "gloss": "至今"
+      "gloss": "尚未"
     },
     {
       "surface": "לא",
@@ -72,11 +51,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "惡事"
+      "marks": "那惡事"
     },
     {
       "surface": "המעשה",
-      "gloss": "事"
+      "gloss": "那…事"
     },
     {
       "surface": "הרע",
@@ -84,21 +63,21 @@
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "即"
     },
     {
       "surface": "נעשה",
-      "gloss": "行的"
+      "gloss": "所行的"
     },
     {
       "surface": "תחת",
-      "gloss": "在……之下"
+      "gloss": "在…之下"
     },
     {
       "surface": "השמש",
-      "gloss": "日光"
+      "gloss": "日頭"
     }
   ],
-  "timestamp": "2026-10-16T10:36:34.365466337Z",
+  "timestamp": "2026-10-16T22:16:33.780824014Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ידע תדע",
-      "rationale": "動詞重複加強：「知道你要知道」，中文以「確實知道」表達，疊語的形式失落。"
-    },
-    {
-      "kind": "you",
-      "subject": "to David",
-      "rationale": "亞吉直接向大衛說話，宣告他必須隨軍出戰。"
-    },
-    {
-      "kind": "crux",
-      "subject": "אתי",
-      "rationale": "此 את 是「與、近」的介詞（H854），非受詞記號（H853）；仍按規保留 ⟨את⟩ 標記。"
-    }
-  ],
-  "translation": "在那些日子，非利士人聚集他們的軍營，要出戰攻打以色列。亞吉對大衛說：「你要確實知道，你和你的人要隨我一同出營作戰。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "01b4ed8b808cd60963a2e881c7445ab5371f86cc1f2f6a8af384f184e9c2c419",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/28\/1-4.1792131536847.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "那些日子，非利士人聚集 ⟨את⟩ 他們的軍營，組成軍隊，要與以色列爭戰。亞吉對大衛說：「你要確實知道，你和你的人必隨我一同出營。」",
   "tokens": [
     {
       "surface": "ויהי",
@@ -64,15 +38,15 @@
     },
     {
       "surface": "לצבא",
-      "gloss": "出戰"
+      "gloss": "組成軍隊"
     },
     {
       "surface": "להלחם",
-      "gloss": "要作戰"
+      "gloss": "要爭戰"
     },
     {
       "surface": "בישראל",
-      "gloss": "攻打以色列"
+      "gloss": "與以色列"
     },
     {
       "surface": "ויאמר",
@@ -96,15 +70,15 @@
     },
     {
       "surface": "תדע",
-      "gloss": "你要確實知道"
+      "gloss": "你確實知道"
     },
     {
       "surface": "כי",
-      "gloss": "知道"
+      "gloss": "確實"
     },
     {
       "surface": "אתי",
-      "gloss": "隨⟨את⟩我"
+      "gloss": "⟨את⟩隨我"
     },
     {
       "surface": "תצא",
@@ -123,6 +97,6 @@
       "gloss": "和你的人"
     }
   ],
-  "timestamp": "2026-10-16T06:18:56.848214130Z",
+  "timestamp": "2026-10-16T22:02:08.058046470Z",
   "model": "glm-5.3"
 }

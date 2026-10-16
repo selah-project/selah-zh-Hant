@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "外人",
-      "rationale": "הזר 指未受膏立為祭司者（非亞倫後裔），不一定是「陌生人」；JPS 譯 common man 較貼近。"
-    },
-    {
-      "kind": "addition",
-      "subject": "若",
-      "rationale": "הקרב 是分詞「那就近的」，中文加「若」以表條件語氣。"
-    }
-  ],
-  "translation": "你要派定 ⟨את⟩ 亞倫和 ⟨את⟩ 他的兒子們，他們要謹守自己的祭司職分；外人若就近，必被治死。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "93b481a4f8bd6fab686fa6dd2b859e127539f22b96e2d84e36b96bf6c279c18b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/3\/9-12.1792127500907.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你要數點 ⟨את⟩ 亞倫和 ⟨את⟩ 他的眾子，他們要看守 ⟨את⟩ 自己的祭司職分；凡擅自靠近的外人必被治死。",
   "tokens": [
     {
       "surface": "ואת",
@@ -40,19 +19,19 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "他的兒子們"
+      "marks": "他的眾子"
     },
     {
       "surface": "בניו",
-      "gloss": "他的兒子們"
+      "gloss": "他的眾子"
     },
     {
       "surface": "תפקד",
-      "gloss": "你要派定"
+      "gloss": "你要數點"
     },
     {
       "surface": "ושמרו",
-      "gloss": "他們要謹守"
+      "gloss": "他們要看守"
     },
     {
       "surface": "את",
@@ -61,7 +40,7 @@
     },
     {
       "surface": "כהנתם",
-      "gloss": "祭司職分"
+      "gloss": "自己的祭司職分"
     },
     {
       "surface": "והזר",
@@ -69,13 +48,13 @@
     },
     {
       "surface": "הקרב",
-      "gloss": "若就近"
+      "gloss": "擅自靠近的"
     },
     {
       "surface": "יומת",
       "gloss": "必被治死"
     }
   ],
-  "timestamp": "2026-10-16T05:11:40.908599114Z",
+  "timestamp": "2026-10-16T22:54:59.642597723Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "judges",
   "lang": "zh-Hant",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "דמו",
-      "rationale": "字根義為「比擬、視為」，此處意為「定意、存心」，非「思想」的抽象義。"
-    },
-    {
-      "kind": "crux",
-      "subject": "ענו",
-      "rationale": "ענה 此處為性暴力的委婉語，諸譯本作「凌辱／玷污」，中文不可譯作一般「苦待」。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "בעלי הגבעה",
-      "rationale": "「基比亞的眾主人」原文語序將אותי（我）前置於動詞前，強調受害者身分，中文語序無法保留此倒裝。"
-    }
-  ],
-  "translation": "基比亞的主人們起來攻擊我，夜間圍繞房子對付我；他們定意要殺害 ⟨את⟩ 我，並凌辱了 ⟨את⟩ 我的妾，她就死了。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "2806584d19cd92ba378db9dc821264bc51d6e8abfcd2abc42ef861565c77f4f6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/20\/5-8.1792130651871.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "基比亞的人起來攻擊我，夜間圍繞⟨את⟩房子攻擊我；他們想要殺⟨את⟩我，又凌辱⟨את⟩我的妾，她就死了。",
   "tokens": [
     {
       "surface": "ויקמו",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "בעלי",
-      "gloss": "主人們"
+      "gloss": "的人"
     },
     {
       "surface": "הגבעה",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "עלי",
-      "gloss": "對付我"
+      "gloss": "攻擊我"
     },
     {
       "surface": "את",
@@ -72,20 +46,20 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩",
-      "marks": "我"
+      "gloss": "⟨את⟩我",
+      "marks": "想要殺的我"
     },
     {
       "surface": "דמו",
-      "gloss": "定意"
+      "gloss": "他們想要"
     },
     {
       "surface": "להרג",
-      "gloss": "殺害"
+      "gloss": "殺"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "又⟨את⟩",
       "marks": "我的妾"
     },
     {
@@ -101,6 +75,6 @@
       "gloss": "她就死了"
     }
   ],
-  "timestamp": "2026-10-16T06:04:11.872466055Z",
+  "timestamp": "2026-10-16T22:46:52.196695658Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "job",
   "lang": "zh-Hant",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈它〉",
-      "rationale": "יקצרהו 的後綴 הו 指回所種的奸惡，中文以〈它〉補足"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "耕種—撒播—收割",
-      "rationale": "農事隱喻一以貫之：種什麼收什麼，何西阿 8:7、箴 22:8 同調"
-    },
-    {
-      "kind": "substitution",
-      "subject": "עמל",
-      "rationale": "עמל 本義是勞苦、辛勞，此處是所撒的『種子』，譯『勞苦』保留字面"
-    }
-  ],
-  "translation": "據我所見：耕種奸惡的、撒播勞苦的，必收割〈它〉。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "651daa9554ff663b765f401e04b5a09d155f23b9e7c5d81a545cd120ce53e323",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/4\/5-8.1792145758375.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "正如我所見：耕犁奸惡的、撒播患難的，都收割⟨את⟩它。",
   "tokens": [
     {
       "surface": "כאשר",
-      "gloss": "據"
+      "gloss": "正如"
     },
     {
       "surface": "ראיתי",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "חרשי",
-      "gloss": "耕種……的"
+      "gloss": "耕犁的"
     },
     {
       "surface": "און",
@@ -51,17 +25,18 @@
     },
     {
       "surface": "וזרעי",
-      "gloss": "和撒播……的"
+      "gloss": "和撒播的"
     },
     {
       "surface": "עמל",
-      "gloss": "勞苦"
+      "gloss": "患難"
     },
     {
       "surface": "יקצרהו",
-      "gloss": "必收割它"
+      "gloss": "收割它",
+      "marks": "它"
     }
   ],
-  "timestamp": "2026-10-16T10:15:58.376822249Z",
+  "timestamp": "2026-10-16T22:42:34.780718932Z",
   "model": "glm-5.3"
 }

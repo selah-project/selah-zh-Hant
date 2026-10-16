@@ -5,58 +5,37 @@
   "book": "psalms",
   "lang": "zh-Hant",
   "chapter": 83,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "求你",
-      "rationale": "祈使句語氣由上下文補出主語"
-    },
-    {
-      "kind": "substitution",
-      "subject": "河谷",
-      "rationale": "נחל是冬汛河谷，非常年大河"
-    }
-  ],
-  "translation": "求你待他們如待米甸，如待西西拉、如待耶賓，在基順河〈谷〉。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "4d68588690c2e339ec328024aca5ab55546f99503f443c98eeacd1737939e6bd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/83\/9-12.1792144332929.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "求你向他們行，如同⟨對⟩米甸一樣，如同西西拉，如同耶賓，在基順河的溪谷一樣。",
   "tokens": [
     {
       "surface": "עשה",
-      "gloss": "待"
+      "gloss": "行"
     },
     {
       "surface": "להם",
-      "gloss": "他們"
+      "gloss": "向他們"
     },
     {
       "surface": "כמדין",
-      "gloss": "如待米甸"
+      "gloss": "如同米甸"
     },
     {
       "surface": "כסיסרא",
-      "gloss": "如待西西拉"
+      "gloss": "如同西西拉"
     },
     {
       "surface": "כיבין",
-      "gloss": "如待耶賓"
+      "gloss": "如同耶賓"
     },
     {
       "surface": "בנחל",
-      "gloss": "在河〈谷〉"
+      "gloss": "在溪谷"
     },
     {
       "surface": "קישון",
       "gloss": "基順"
     }
   ],
-  "timestamp": "2026-10-16T09:52:12.929819073Z",
+  "timestamp": "2026-10-16T22:59:35.405821352Z",
   "model": "glm-5.3"
 }

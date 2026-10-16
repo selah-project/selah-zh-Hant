@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "被掛的人是以羅欣所咒詛的",
-      "rationale": "קללת אלהים 可解作「以羅欣的咒詛」（受咒詛）或「被以羅欣輕蔑之物」；LXX 與後世讀法亦有分歧"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "קבור תקברנו",
-      "rationale": "不定式絕對加動詞的同根重疊，表「務必要埋葬」的強調，中文以「務要」補足"
-    },
-    {
-      "kind": "addition",
-      "subject": "過夜",
-      "rationale": "תלין 本義為留宿過夜，中文明言"
-    }
-  ],
-  "translation": "他的屍首不可留在木頭上過夜，務要在當日把他埋葬，因為被掛的人是雅威所咒詛的；這樣你就不玷污雅威——你的以羅欣賜給你為產業的地。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "de4438439f57b1e3f591dfd8af4db18626b5c941a47c9432bc2b56b179899765",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/21\/21-23.1792128913291.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他的屍體不可留在木頭上過夜，因為你當在那日將他埋葬，因為被掛的人是以羅欣所咒詛的；你不可使雅威你以羅欣賜給你為產業的⟨את⟩你的地污穢。",
   "tokens": [
     {
       "surface": "לא",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "תלין",
-      "gloss": "留宿"
+      "gloss": "留……過夜"
     },
     {
       "surface": "נבלתו",
-      "gloss": "他的屍首"
+      "gloss": "他的屍體"
     },
     {
       "surface": "על",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "העץ",
-      "gloss": "那木頭"
+      "gloss": "木頭"
     },
     {
       "surface": "כי",
@@ -59,11 +33,11 @@
     },
     {
       "surface": "קבור",
-      "gloss": "務要埋葬"
+      "gloss": "埋葬"
     },
     {
       "surface": "תקברנו",
-      "gloss": "把他埋葬"
+      "gloss": "你要埋葬他"
     },
     {
       "surface": "ביום",
@@ -87,15 +61,15 @@
     },
     {
       "surface": "תלוי",
-      "gloss": "被掛的"
+      "gloss": "被掛的人"
     },
     {
       "surface": "ולא",
-      "gloss": "這樣你就不"
+      "gloss": "而不可"
     },
     {
       "surface": "תטמא",
-      "gloss": "玷污"
+      "gloss": "使……污穢"
     },
     {
       "surface": "את",
@@ -108,7 +82,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "那"
     },
     {
       "surface": "יהוה",
@@ -131,6 +105,6 @@
       "gloss": "為產業"
     }
   ],
-  "timestamp": "2026-10-16T05:35:13.292754129Z",
+  "timestamp": "2026-10-16T22:14:10.875057319Z",
   "model": "glm-5.3"
 }

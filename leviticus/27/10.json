@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "המר ימיר",
-      "rationale": "不定詞絕對式加強語氣，「確實換」；中文以「確實」表達"
-    },
-    {
-      "kind": "crux",
-      "subject": "יחליף\/ימיר",
-      "rationale": "兩個近義動詞「更換／交換」，各譯一詞以保留原文的成對"
-    }
-  ],
-  "translation": "不可更換牠，也不可交換牠——好的換壞的，或壞的換好的。他若確實用一隻牲畜換另一隻牲畜，那麼牠以及牠的替代物都必成為聖。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "e174fe90c7428d0f767fae28221089bd4291412d7cfd52f5551113b1989b8244",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/27\/9-12.1792127355403.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "不可更換牠，也不可替換⟨את⟩牠——好的換壞的，或壞的換好的；他若確實以牲畜替換牲畜，那麼牠和牠的替換物都要成為聖。",
   "tokens": [
     {
       "surface": "לא",
@@ -42,12 +21,12 @@
     },
     {
       "surface": "ימיר",
-      "gloss": "交換"
+      "gloss": "替換"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "牠"
+      "marks": "牠（牲畜）"
     },
     {
       "surface": "טוב",
@@ -71,27 +50,27 @@
     },
     {
       "surface": "ואם",
-      "gloss": "他若"
+      "gloss": "若"
     },
     {
       "surface": "המר",
-      "gloss": "確實"
+      "gloss": "確實替換"
     },
     {
       "surface": "ימיר",
-      "gloss": "換"
+      "gloss": "替換"
     },
     {
       "surface": "בהמה",
-      "gloss": "一隻牲畜"
+      "gloss": "牲畜"
     },
     {
       "surface": "בבהמה",
-      "gloss": "另一隻牲畜"
+      "gloss": "以牲畜"
     },
     {
       "surface": "והיה",
-      "gloss": "那麼…就"
+      "gloss": "那麼……成為"
     },
     {
       "surface": "הוא",
@@ -99,17 +78,17 @@
     },
     {
       "surface": "ותמורתו",
-      "gloss": "以及牠的替代物"
+      "gloss": "和牠的替換物"
     },
     {
       "surface": "יהיה",
-      "gloss": "都必成為"
+      "gloss": "要成為"
     },
     {
       "surface": "קדש",
       "gloss": "聖"
     }
   ],
-  "timestamp": "2026-10-16T05:09:15.404026612Z",
+  "timestamp": "2026-10-16T22:50:18.915670422Z",
   "model": "glm-5.3"
 }

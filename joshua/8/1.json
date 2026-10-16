@@ -5,28 +5,7 @@
   "book": "joshua",
   "lang": "zh-Hant",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "都",
-      "rationale": "中文語感需要的總括詞，希伯來文未言"
-    },
-    {
-      "kind": "you",
-      "subject": "to 約書亞",
-      "rationale": "雅威直接向約書亞說話，命令與應許並列"
-    }
-  ],
-  "translation": "雅威對約書亞說：「不要懼怕，也不要驚惶；你要帶著全體戰士，起來，上艾城去。看，我已將艾城的王和他的百姓、他的城和他的地，都交在你手中。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "8f22ff8e03a78d4be1455485096c1d50cd81157e2b640c5c0e1aec7450d05e74",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/8\/1-4.1792129646522.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威對約書亞說：「不要害怕，也不要驚惶；你要帶著⟨את⟩所有作戰的兵民同去，起來，上艾城去。看哪，我已將艾城的王和他的百姓、他的城、他的地，都交在你手中：⟨את⟩艾城的王、⟨את⟩他的百姓、⟨את⟩他的城、⟨את⟩他的地。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "תירא",
-      "gloss": "懼怕"
+      "gloss": "害怕"
     },
     {
       "surface": "ואל",
@@ -66,24 +45,24 @@
     },
     {
       "surface": "עמך",
-      "gloss": "與你"
+      "gloss": "同去"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "全體戰士"
+      "marks": "所有作戰的兵民"
     },
     {
       "surface": "כל",
-      "gloss": "全體"
+      "gloss": "所有"
     },
     {
       "surface": "עם",
-      "gloss": "戰士之民"
+      "gloss": "兵民"
     },
     {
       "surface": "המלחמה",
-      "gloss": "戰爭的"
+      "gloss": "作戰的"
     },
     {
       "surface": "וקום",
@@ -99,11 +78,11 @@
     },
     {
       "surface": "ראה",
-      "gloss": "看"
+      "gloss": "看哪"
     },
     {
       "surface": "נתתי",
-      "gloss": "我已賜下"
+      "gloss": "我已交"
     },
     {
       "surface": "בידך",
@@ -150,6 +129,6 @@
       "gloss": "他的地"
     }
   ],
-  "timestamp": "2026-10-16T05:47:26.523136242Z",
+  "timestamp": "2026-10-16T22:45:16.030677730Z",
   "model": "glm-5.3"
 }

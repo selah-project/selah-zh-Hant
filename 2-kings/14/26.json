@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "עצור ועזוב",
-      "rationale": "傳統譯「無人被囚、無人被棄」；另有解作「無論為奴的或自由的」，意思存爭。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "עצור／עזוב／עזר",
-      "rationale": "三個相近音的詞連用（被囚／被棄／幫助者），希伯來文的頭韻效果在中文中失落。"
-    }
-  ],
-  "translation": "因為雅威看見以色列的苦情極其悲苦：無人被囚、無人被棄，也沒有幫助者給以色列。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "d093b066989eccba0ba6c44a06b7dee63ba01adc30dd6ad57a2f7167d71bd449",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/14\/25-28.1792133980651.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "因為雅威看見了 ⟨את⟩ 以色列的困苦——極其苦澀；既沒有被囚禁的，也沒有被撇下的，也沒有幫助以色列的。",
   "tokens": [
     {
       "surface": "כי",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "ראה",
-      "gloss": "看見"
+      "gloss": "看見了"
     },
     {
       "surface": "יהוה",
@@ -43,19 +22,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "以色列的苦情"
+      "marks": "以色列的困苦"
     },
     {
       "surface": "עני",
-      "gloss": "苦情"
+      "gloss": "困苦"
     },
     {
       "surface": "ישראל",
-      "gloss": "以色列的"
+      "gloss": "以色列"
     },
     {
       "surface": "מרה",
-      "gloss": "悲苦"
+      "gloss": "苦澀"
     },
     {
       "surface": "מאד",
@@ -63,19 +42,19 @@
     },
     {
       "surface": "ואפס",
-      "gloss": "無"
+      "gloss": "既沒有"
     },
     {
       "surface": "עצור",
-      "gloss": "被囚的"
+      "gloss": "被囚禁的"
     },
     {
       "surface": "ואפס",
-      "gloss": "無"
+      "gloss": "也沒有"
     },
     {
       "surface": "עזוב",
-      "gloss": "被棄的"
+      "gloss": "被撇下的"
     },
     {
       "surface": "ואין",
@@ -83,13 +62,13 @@
     },
     {
       "surface": "עזר",
-      "gloss": "幫助者"
+      "gloss": "幫助…的"
     },
     {
       "surface": "לישראל",
-      "gloss": "給以色列"
+      "gloss": "以色列"
     }
   ],
-  "timestamp": "2026-10-16T06:59:40.652843610Z",
+  "timestamp": "2026-10-16T22:05:35.469911218Z",
   "model": "glm-5.3"
 }

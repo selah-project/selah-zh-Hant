@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "第九年",
-      "rationale": "以何細亞在位年數標定事件時間。"
-    },
-    {
-      "kind": "crux",
-      "subject": "נהר גוזן",
-      "rationale": "「歌散河」或「哈博河邊的歌散」：屬地歸屬各譯本有異（KJV「歌散的河」對 JPS「歌散地的哈博河」）。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ויגל",
-      "rationale": "字面為「剝露、羞辱地除去」，此處作「使被擄」之專門用法。"
-    }
-  ],
-  "translation": "在何細亞第九年，亞述王攻取了 ⟨את⟩ 撒瑪利亞，把 ⟨את⟩ 以色列人擄到亞述，使他們住在哈臘、哈博河邊的歌散，以及瑪代的城邑。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "852fdb5e274ddf0ff9bd6a76950809d0986685b149ff09802316f767e645441d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/17\/5-8.1792134076700.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "何細亞第九年，亞述王攻取了 ⟨את⟩ 撒馬利亞，把以色列人擄到亞述，安置他們在哈臘、歌散河邊的哈博，以及瑪代的城邑。",
   "tokens": [
     {
       "surface": "בשנת",
-      "gloss": "在……之年"
+      "gloss": "在……年"
     },
     {
       "surface": "התשיעית",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "לכד",
-      "gloss": "攻取"
+      "gloss": "攻取了"
     },
     {
       "surface": "מלך",
@@ -60,20 +34,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "撒瑪利亞"
+      "marks": "撒馬利亞"
     },
     {
       "surface": "שמרון",
-      "gloss": "撒瑪利亞"
+      "gloss": "撒馬利亞"
     },
     {
       "surface": "ויגל",
-      "gloss": "擄走"
+      "gloss": "擄到"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "以色列人"
+      "marks": "以色列"
     },
     {
       "surface": "ישראל",
@@ -81,15 +55,15 @@
     },
     {
       "surface": "אשורה",
-      "gloss": "到亞述"
+      "gloss": "亞述（之地）"
     },
     {
       "surface": "וישב",
-      "gloss": "使他們住"
+      "gloss": "安置"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "他們"
     },
     {
@@ -110,13 +84,13 @@
     },
     {
       "surface": "וערי",
-      "gloss": "的城邑"
+      "gloss": "城邑"
     },
     {
       "surface": "מדי",
       "gloss": "瑪代"
     }
   ],
-  "timestamp": "2026-10-16T07:01:16.701521031Z",
+  "timestamp": "2026-10-16T22:06:08.626915781Z",
   "model": "glm-5.3"
 }

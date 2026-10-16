@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "裸露之處",
-      "rationale": "ערות 字面是「赤裸」，指地的防務弱點；和合本譯「羞怯」、BSB 譯 vulnerable"
-    },
-    {
-      "kind": "addition",
-      "subject": "從前",
-      "rationale": "中文時態需要，希伯來文僅用完成式"
-    },
-    {
-      "kind": "you",
-      "subject": "對哥哥們",
-      "rationale": "約瑟直接指控他的哥哥們是探子"
-    }
-  ],
-  "translation": "約瑟想起了他從前所做關於他們的夢，就對他們說：「你們是探子，來是要窺探這地的裸露之處。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "20893f1178f5edcecf90cc0f62f9e81309e79d3fd1d5b42dd0098e90cc1d52a3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/42\/9-12.1792125463050.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "約瑟想起他曾向他們做過的那些夢，就對他們說：「你們是探子，是來窺探這地〈的〉裸露之處的。」",
   "tokens": [
     {
       "surface": "ויזכר",
@@ -44,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "夢"
+      "marks": "那些夢"
     },
     {
       "surface": "החלמות",
-      "gloss": "夢"
+      "gloss": "那些夢"
     },
     {
       "surface": "אשר",
-      "gloss": "所…的"
+      "gloss": "他曾向他們做過的"
     },
     {
       "surface": "חלם",
@@ -60,11 +34,11 @@
     },
     {
       "surface": "להם",
-      "gloss": "關於他們"
+      "gloss": "向他們"
     },
     {
       "surface": "ויאמר",
-      "gloss": "就說"
+      "gloss": "就對……說"
     },
     {
       "surface": "אלהם",
@@ -76,16 +50,16 @@
     },
     {
       "surface": "אתם",
-      "gloss": "你們"
+      "gloss": "你們是"
     },
     {
       "surface": "לראות",
-      "gloss": "要窺探"
+      "gloss": "來窺探"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "裸露之處"
+      "marks": "這地的裸露之處"
     },
     {
       "surface": "ערות",
@@ -100,6 +74,6 @@
       "gloss": "你們來"
     }
   ],
-  "timestamp": "2026-10-16T04:37:43.051072418Z",
+  "timestamp": "2026-10-16T22:30:58.538505450Z",
   "model": "glm-5.3"
 }

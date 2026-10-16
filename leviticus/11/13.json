@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הנשר",
-      "rationale": "傳統譯「鷹」，今多認為是兀鷲類；此處作「鵰」涵蓋大型猛禽。"
-    },
-    {
-      "kind": "hapax",
-      "subject": "העזניה",
-      "rationale": "全塔納赫僅見於此，確切鳥種不明，或為魚鵰或白尾海鵰。"
-    },
-    {
-      "kind": "addition",
-      "subject": "是",
-      "rationale": "希伯來文無繫動詞，中文需補「是」。"
-    }
-  ],
-  "translation": "這些飛禽中，你們要以為可憎：牠們不可吃，牠們是可憎之物：⟨את⟩ 鵰、⟨את⟩ 禿鵰，和 ⟨את⟩ 海鵰。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "d3d0184346def9ce19653054fc240a4e7c449dba372d5bf4ba2acc167f77440e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/11\/13-16.1792126813870.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "飛鳥中你們要憎惡的乃是這些：牠們不可吃，牠們是可憎之物：⟨את⟩ 鵰、⟨את⟩ 佩雷斯鷹、⟨את⟩ 阿茲尼亞鷹。",
   "tokens": [
     {
       "surface": "ואת",
@@ -44,7 +18,7 @@
     },
     {
       "surface": "תשקצו",
-      "gloss": "你們要以為可憎"
+      "gloss": "你們要憎惡"
     },
     {
       "surface": "מן",
@@ -52,15 +26,15 @@
     },
     {
       "surface": "העוף",
-      "gloss": "飛禽"
+      "gloss": "飛鳥"
     },
     {
       "surface": "לא",
-      "gloss": "不"
+      "gloss": "不可"
     },
     {
       "surface": "יאכלו",
-      "gloss": "可吃"
+      "gloss": "吃"
     },
     {
       "surface": "שקץ",
@@ -82,22 +56,22 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "禿鵰"
+      "marks": "佩雷斯鷹"
     },
     {
       "surface": "הפרס",
-      "gloss": "禿鵰"
+      "gloss": "佩雷斯鷹"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "海鵰"
+      "marks": "阿茲尼亞鷹"
     },
     {
       "surface": "העזניה",
-      "gloss": "海鵰"
+      "gloss": "阿茲尼亞鷹"
     }
   ],
-  "timestamp": "2026-10-16T05:00:13.871251377Z",
+  "timestamp": "2026-10-16T22:48:35.496377372Z",
   "model": "glm-5.3"
 }

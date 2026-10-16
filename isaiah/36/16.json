@@ -5,33 +5,7 @@
   "book": "isaiah",
   "lang": "zh-Hant",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ברכה",
-      "rationale": "字面為「祝福」（即和好禮／禮物）；KJV「以禮物立約」、ASV\/JPS「與我和好」——本譯取「立約」以保留締約動作"
-    },
-    {
-      "kind": "idiom",
-      "subject": "איש גפנו ואיש תאנתו",
-      "rationale": "「各人自己的葡萄樹和無花果樹」是《塔納赫》安居的固定意象（王上 4:25；彌 4:4），亞述以此誘降"
-    },
-    {
-      "kind": "addition",
-      "subject": "אתי",
-      "rationale": "原文 עשו אתי ברכה 中的 אתי 是「與我」，形式與受詞記號 את 相同，此處保留 ⟨את⟩ 並以「與我」譯出"
-    }
-  ],
-  "translation": "不要聽希西家的話，因為亞述王如此說：你們要與我立約，出來歸我；各人吃自己葡萄樹的果子，各人吃自己無花果樹的果子，各人喝自己井裡的水——",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a5c0a0767553c57025230e79412b86ab375c25c98a768553ed9cf08d15ccd5c9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/36\/13-16.1792135324697.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "不要聽希西家的話，因為亞述王如此說：你們與我立約，出來歸我，各人吃自己的葡萄、自己的無花果，各人喝自己井裡的水。",
   "tokens": [
     {
       "surface": "אל",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "תשמעו",
-      "gloss": "你們要聽"
+      "gloss": "聽"
     },
     {
       "surface": "אל",
@@ -71,11 +45,12 @@
     },
     {
       "surface": "עשו",
-      "gloss": "你們要立"
+      "gloss": "立"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "與我之約（ברכה）"
     },
     {
       "surface": "ברכה",
@@ -83,7 +58,7 @@
     },
     {
       "surface": "וצאו",
-      "gloss": "你們要出來"
+      "gloss": "出來"
     },
     {
       "surface": "אלי",
@@ -91,7 +66,7 @@
     },
     {
       "surface": "ואכלו",
-      "gloss": "你們要吃"
+      "gloss": "吃"
     },
     {
       "surface": "איש",
@@ -111,7 +86,7 @@
     },
     {
       "surface": "ושתו",
-      "gloss": "你們要喝"
+      "gloss": "喝"
     },
     {
       "surface": "איש",
@@ -119,13 +94,13 @@
     },
     {
       "surface": "מי",
-      "gloss": "……的水"
+      "gloss": "水"
     },
     {
       "surface": "בורו",
       "gloss": "自己的井"
     }
   ],
-  "timestamp": "2026-10-16T07:22:04.698991486Z",
+  "timestamp": "2026-10-16T22:34:42.618020706Z",
   "model": "glm-5.3"
 }

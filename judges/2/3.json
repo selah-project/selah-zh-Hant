@@ -5,41 +5,19 @@
   "book": "judges",
   "lang": "zh-Hant",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "לצדים",
-      "rationale": "צד意為「側旁／肋旁」，字面「作你們的側旁之物」；和合作「肋旁的荊棘」（參民33:55），JPS作「網羅」——此處取「側旁的阻礙」存其形"
-    },
-    {
-      "kind": "substitution",
-      "subject": "למוקש",
-      "gloss": "",
-      "rationale": "捕捉動物的圈套，譯「網羅」以存其捕捉意象"
-    }
-  ],
-  "translation": "因此我又說：我必不將他們從你們面前趕出；他們必作你們肋旁的〈阻礙〉，他們的神明必作你們的網羅。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "f4d98866d0660774491603ae922cb4a9aa7100e7d9f72585df464d40164fe51c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/2\/1-4.1792130091539.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我也曾說：我必不趕出 ⟨את⟩ 他們、使他們離開你們面前；他們必在你們肋旁成為你們的對敵，他們的神明必成為你們的網羅。」",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "因此又"
+      "gloss": "我也"
     },
     {
       "surface": "אמרתי",
-      "gloss": "我說"
+      "gloss": "曾說"
     },
     {
       "surface": "לא",
-      "gloss": "不"
+      "gloss": "必不"
     },
     {
       "surface": "אגרש",
@@ -52,7 +30,7 @@
     },
     {
       "surface": "מפניכם",
-      "gloss": "從你們面前"
+      "gloss": "離開你們面前"
     },
     {
       "surface": "והיו",
@@ -60,11 +38,11 @@
     },
     {
       "surface": "לכם",
-      "gloss": "對你們"
+      "gloss": "你們的"
     },
     {
       "surface": "לצדים",
-      "gloss": "側旁的阻礙（敵對者）"
+      "gloss": "肋旁的對敵"
     },
     {
       "surface": "ואלהיהם",
@@ -76,13 +54,17 @@
     },
     {
       "surface": "לכם",
-      "gloss": "對你們"
+      "gloss": "你們的"
     },
     {
       "surface": "למוקש",
-      "gloss": "網羅（陷阱）"
+      "gloss": "網羅"
     }
   ],
-  "timestamp": "2026-10-16T05:54:51.540932942Z",
-  "model": "glm-5.3"
+  "timestamp": "2026-10-16T22:46:52.876763069Z",
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

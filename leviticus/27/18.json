@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על פי",
-      "rationale": "字面「按……的口」，意為「按數目」；直譯會誤導"
-    },
-    {
-      "kind": "measurement",
-      "subject": "reckoning",
-      "rationale": "祭司按剩餘年數計算銀價，屬計量條例"
-    }
-  ],
-  "translation": "若他在禧年之後將他的田地分別為聖，祭司就要為他計算 ⟨את⟩ 銀子，按剩下的年數、直到禧年之 year 來計算，並從你的估價中減除。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c202af0f32b682b1bd8d2c4546fe97d260143a8af2f6609ec89e6d7ce79c965f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/27\/17-20.1792127386303.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他若在禧年之後將他的田地分別為聖，祭司就要為他計算 ⟨את⟩ 銀子的數目，按著剩下的年數、直到禧年之年份，從你的估價中扣減。",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "若"
+      "gloss": "他若"
     },
     {
       "surface": "אחר",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "על",
-      "gloss": "按"
+      "gloss": "按著"
     },
     {
       "surface": "פי",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "שנת",
-      "gloss": "……之年"
+      "gloss": "……的年份"
     },
     {
       "surface": "היבל",
@@ -99,13 +78,13 @@
     },
     {
       "surface": "ונגרע",
-      "gloss": "就減除"
+      "gloss": "就扣減"
     },
     {
       "surface": "מערכך",
       "gloss": "從你的估價"
     }
   ],
-  "timestamp": "2026-10-16T05:09:46.304060665Z",
+  "timestamp": "2026-10-16T22:50:33.909901491Z",
   "model": "glm-5.3"
 }

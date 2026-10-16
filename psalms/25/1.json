@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "zh-Hant",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "生命氣息",
-      "rationale": "נפש是呼吸的生命整體，不是希臘式不朽的「靈魂」"
-    },
-    {
-      "kind": "addition",
-      "subject": "的〈詩〉",
-      "rationale": "לדוד是標題行，補「詩」字以成自然中文"
-    },
-    {
-      "kind": "invitation",
-      "subject": "向雅威的禱告",
-      "rationale": "全詩以直接向雅威呼求開始"
-    }
-  ],
-  "translation": "大衛的〈詩〉。雅威啊，我向你舉起我的生命氣息。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "56d834fc48cd39fa425568609f45759f0e111a0509b1b30db4b1353c12ed8308",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/25\/1-4.1792143466876.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "大衛的〈詩〉。雅威啊，我向你舉起我的生命。",
   "tokens": [
     {
       "surface": "לדוד",
@@ -43,17 +17,17 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "雅威"
+      "gloss": "雅威啊"
     },
     {
       "surface": "נפשי",
-      "gloss": "我的生命氣息"
+      "gloss": "我的生命"
     },
     {
       "surface": "אשא",
       "gloss": "我舉起"
     }
   ],
-  "timestamp": "2026-10-16T09:37:46.878151832Z",
+  "timestamp": "2026-10-16T22:58:44.234706764Z",
   "model": "glm-5.3"
 }

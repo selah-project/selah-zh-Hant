@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "獻給",
-      "rationale": "לאלהיהם 字面是「給他們的神明」，中文加「獻」以成自然句"
-    },
-    {
-      "kind": "substitution",
-      "subject": "可憎之事",
-      "rationale": "תועבה 是禮儀上令人憎惡之物，常與偶像崇拜相連"
-    },
-    {
-      "kind": "you",
-      "subject": "對以色列",
-      "rationale": "禁令直接向以色列發出"
-    }
-  ],
-  "translation": "你不可向雅威——你的以羅欣——這樣行，因為雅威所恨惡的一切可憎之事，他們向他們的神明行了；他們甚至把他們的兒子和 ⟨את⟩ 他們的女兒用火焚燒，獻給他們的神明。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "736f215c98bf7c1bc335c9393193470da507e1d3d7ba05e8b317e2cb7e8eff15",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/12\/29-31.1792128820612.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你不可向雅威你的以羅欣這樣行，因為雅威所恨惡的一切可憎之事，他們都向他們的神明行了，甚至他們也把他們的兒子和⟨את⟩他們的女兒在火中焚燒，獻給他們的神明。",
   "tokens": [
     {
       "surface": "לא",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "你這樣行"
+      "gloss": "行"
     },
     {
       "surface": "כן",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "עשו",
-      "gloss": "他們行了"
+      "gloss": "行了"
     },
     {
       "surface": "לאלהיהם",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "גם",
-      "gloss": "甚至"
+      "gloss": "甚至……也"
     },
     {
       "surface": "את",
@@ -104,7 +78,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨ואת⟩",
+      "gloss": "⟨את⟩",
       "marks": "他們的女兒"
     },
     {
@@ -113,17 +87,17 @@
     },
     {
       "surface": "ישרפו",
-      "gloss": "他們焚燒"
+      "gloss": "焚燒"
     },
     {
       "surface": "באש",
-      "gloss": "用火"
+      "gloss": "在火中"
     },
     {
       "surface": "לאלהיהם",
-      "gloss": "獻給他們的神明"
+      "gloss": "給他們的神明"
     }
   ],
-  "timestamp": "2026-10-16T05:33:40.614037491Z",
+  "timestamp": "2026-10-16T22:13:05.085611352Z",
   "model": "glm-5.3"
 }

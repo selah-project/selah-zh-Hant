@@ -5,23 +5,7 @@
   "book": "proverbs",
   "lang": "zh-Hant",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "那位",
-      "rationale": "中文需補名詞以指明造物主"
-    }
-  ],
-  "translation": "欺壓貧寒人的，是辱罵⟨את⟩造他的那位；恩待窮乏人的，是尊榮⟨את⟩他。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "fba42c40bf9affc3fdd5d2f40c5d3e593b95c68d1abe959f275af7a4f559c92b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/proverbs\/14\/29-32.1792145396482.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "欺壓貧乏人的，是辱罵造⟨את⟩他的那一位；恩待窮乏人的，是尊榮⟨את⟩他的那一位。",
   "tokens": [
     {
       "surface": "עשק",
@@ -29,20 +13,15 @@
     },
     {
       "surface": "דל",
-      "gloss": "貧寒人"
+      "gloss": "貧乏人"
     },
     {
       "surface": "חרף",
       "gloss": "辱罵"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "造他的那位"
-    },
-    {
       "surface": "עשהו",
-      "gloss": "造他的那位"
+      "gloss": "造他的那一位"
     },
     {
       "surface": "ומכבדו",
@@ -57,6 +36,6 @@
       "gloss": "窮乏人"
     }
   ],
-  "timestamp": "2026-10-16T10:09:56.483761285Z",
+  "timestamp": "2026-10-16T22:56:58.664506049Z",
   "model": "glm-5.3"
 }

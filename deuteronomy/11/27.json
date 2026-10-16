@@ -5,41 +5,20 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨就是⟩",
-      "rationale": "中文需要連接詞銜接上節的「祝福與咒詛」，希伯來文無此字"
-    },
-    {
-      "kind": "crux",
-      "subject": "אשר",
-      "rationale": "關係詞兼作條件句「若」：KJV「if」對 YLT「when」，本譯取條件義"
-    }
-  ],
-  "translation": "⟨就是⟩那祝福——你們若聽從雅威你們以羅欣的誡命，就是我今日所吩咐你們的：",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a580d3b918aab859bea1fbb8c5d74578c1f424889aa8aa38792c920dfdb8e3e4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/11\/25-28.1792128696345.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨את⟩ 祝福——只要你們聽從雅威你們以羅欣的誡命，就是我今日吩咐⟨את⟩你們的。",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那祝福"
+      "marks": "祝福"
     },
     {
       "surface": "הברכה",
-      "gloss": "那祝福"
+      "gloss": "祝福"
     },
     {
       "surface": "אשר",
-      "gloss": "——若"
+      "gloss": "只要"
     },
     {
       "surface": "תשמעו",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "歸向"
+      "gloss": "⟨向⟩"
     },
     {
       "surface": "מצות",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "你們的以羅欣"
+      "gloss": "你們以羅欣"
     },
     {
       "surface": "אשר",
@@ -71,17 +50,18 @@
     },
     {
       "surface": "מצוה",
-      "gloss": "所吩咐的"
+      "gloss": "吩咐"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ 你們"
+      "gloss": "⟨את⟩你們",
+      "marks": "你們"
     },
     {
       "surface": "היום",
       "gloss": "今日"
     }
   ],
-  "timestamp": "2026-10-16T05:31:36.346174126Z",
+  "timestamp": "2026-10-16T22:13:03.524082414Z",
   "model": "glm-5.3"
 }

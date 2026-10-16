@@ -5,42 +5,11 @@
   "book": "zechariah",
   "lang": "zh-Hant",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הצום",
-      "rationale": "「禁食對象」難點：原文名詞作疑問句核心——『你們禁食，豈是禁食給我嗎？』諸譯本處理各異。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "צמתם／צמתני",
-      "rationale": "同一動詞字根 צום 重複，末句加上尾綴「我」與獨立代詞 אני 雙重強調，中文以『豈是為我』保留。"
-    },
-    {
-      "kind": "you",
-      "subject": "以色列全地的百姓與祭司",
-      "rationale": "直接向百姓與祭司發問。"
-    },
-    {
-      "kind": "measurement",
-      "subject": "七十年",
-      "rationale": "明確的年數計算。"
-    }
-  ],
-  "translation": "「你要對全地的百姓說，也對祭司們說：這七十年來，你們在第五月和第七月禁食哀悼——你們禁食，豈是為我〈就是為我〉禁食嗎？",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "cd9eac0da49561c5e02cc5d3e781fed677bace510fb409453cf1344b91dc08d8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/zechariah\/7\/5-8.1792143016367.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你要對這地的全體百姓和祭司們說：這七十年來，你們在第五月和第七月禁食哀悼——這禁食難道是為我〈而守〉的嗎？是我嗎？",
   "tokens": [
     {
       "surface": "אמר",
-      "gloss": "你要說"
+      "gloss": "你要……說"
     },
     {
       "surface": "אל",
@@ -48,7 +17,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "全"
+      "gloss": "全體"
     },
     {
       "surface": "עם",
@@ -56,11 +25,11 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "那地的"
+      "gloss": "這地的"
     },
     {
       "surface": "ואל",
-      "gloss": "也對"
+      "gloss": "和"
     },
     {
       "surface": "הכהנים",
@@ -72,7 +41,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "既然"
+      "gloss": "⟨這⟩"
     },
     {
       "surface": "צמתם",
@@ -80,7 +49,7 @@
     },
     {
       "surface": "וספוד",
-      "gloss": "並且哀悼"
+      "gloss": "和哀悼"
     },
     {
       "surface": "בחמישי",
@@ -92,7 +61,7 @@
     },
     {
       "surface": "וזה",
-      "gloss": "而這"
+      "gloss": "這"
     },
     {
       "surface": "שבעים",
@@ -104,17 +73,17 @@
     },
     {
       "surface": "הצום",
-      "gloss": "〈就是為我〉"
+      "gloss": "這禁食"
     },
     {
       "surface": "צמתני",
-      "gloss": "你們禁食"
+      "gloss": "你們是為我禁食嗎"
     },
     {
       "surface": "אני",
-      "gloss": "我"
+      "gloss": "是我嗎"
     }
   ],
-  "timestamp": "2026-10-16T09:30:16.367631022Z",
+  "timestamp": "2026-10-16T23:00:39.360506949Z",
   "model": "glm-5.3"
 }

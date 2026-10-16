@@ -5,67 +5,46 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "魯阿",
-      "rationale": "רוח 譯作魯阿（靈），指推動活物與輪子的生命之氣，非三一語境的「聖靈」"
-    },
-    {
-      "kind": "crux",
-      "subject": "אותם",
-      "rationale": "此處 את 帶複數詞尾，或作受詞記號「這些」，或作介詞「與他們」；諸本多取後者"
-    }
-  ],
-  "translation": "他們站住，這些也站住；他們上升，這些也與⟨אותם⟩一同上升，因為活物的魯阿（靈）在其中。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ac88f0b970f06e8c998758bae41c9e3d160f47969c750fe0d7145b75842eecd6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/10\/17-20.1792138071769.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們站立的時候，〈這些輪〉也站立；他們升起的時候，〈這些輪〉也與他們一同升起⟨את⟩，因為活物的魯阿在他們裡面。",
   "tokens": [
     {
-      "surface": "בעמדם",
-      "gloss": "他們站住時"
+      "surface": "בְּעָמְדָם",
+      "gloss": "他們站立的時候"
     },
     {
-      "surface": "יעמדו",
-      "gloss": "這些也站住"
+      "surface": "יַעֲמֹדוּ",
+      "gloss": "也站立"
     },
     {
-      "surface": "וברומם",
-      "gloss": "他們上升時"
+      "surface": "וּבְרוֹמָם",
+      "gloss": "他們升起的時候"
     },
     {
-      "surface": "ירומו",
-      "gloss": "這些也上升"
+      "surface": "יֵרוֹמּוּ",
+      "gloss": "也與他們一同升起"
     },
     {
-      "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "這些（輪子）與他們（基路伯）一同"
+      "surface": "אוֹתָם",
+      "gloss": "⟨את⟩",
+      "marks": "他們（這些輪）"
     },
     {
-      "surface": "כי",
+      "surface": "כִּי",
       "gloss": "因為"
     },
     {
-      "surface": "רוח",
-      "gloss": "魯阿（靈）"
+      "surface": "רוּחַ",
+      "gloss": "魯阿"
     },
     {
-      "surface": "החיה",
+      "surface": "הַחַיָּה",
       "gloss": "活物的"
     },
     {
-      "surface": "בהם",
-      "gloss": "在其中"
+      "surface": "בָּהֶם",
+      "gloss": "在他們裡面"
     }
   ],
-  "timestamp": "2026-10-16T08:07:51.770751682Z",
+  "timestamp": "2026-10-16T22:21:52.314927358Z",
   "model": "glm-5.3"
 }

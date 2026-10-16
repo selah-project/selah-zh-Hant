@@ -5,33 +5,7 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "人",
-      "rationale": "נֶפֶשׁ 直譯是「生命／氣息之體」，此處指被殺的人"
-    },
-    {
-      "kind": "idiom",
-      "subject": "לְפִי עֵדִים",
-      "rationale": "直譯「憑見證人的口」，即按見證人的供詞定案"
-    },
-    {
-      "kind": "measurement",
-      "subject": "一個見證人",
-      "rationale": "定死罪須至少兩個見證，本節明定數目門檻"
-    }
-  ],
-  "translation": "凡殺了人的，要憑幾個見證人的口，把那殺人的處死；只是一個見證人不可指證〈את〉人致死。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "fc41b4f3b3fe6b8f9417977bfe62ce77c6fc5b92d574ea5e6b197b77cd4e3207",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/35\/29-32.1792128445209.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "凡打死人的，殺人者要憑見證人的口被處死；但一個見證人不可作證指證一條性命，〈使〉他〈被處〉死。",
   "tokens": [
     {
       "surface": "כל",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "מכה",
-      "gloss": "殺了人的"
+      "gloss": "打死人的"
     },
     {
       "surface": "נפש",
-      "gloss": "人"
+      "gloss": "人（性命）"
     },
     {
       "surface": "לפי",
@@ -55,20 +29,20 @@
     },
     {
       "surface": "ירצח",
-      "gloss": "處死"
+      "gloss": "被處死"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那殺人的"
+      "marks": "殺人者"
     },
     {
       "surface": "הרצח",
-      "gloss": "那殺人的"
+      "gloss": "殺人者"
     },
     {
       "surface": "ועד",
-      "gloss": "而見證人"
+      "gloss": "見證人"
     },
     {
       "surface": "אחד",
@@ -80,17 +54,17 @@
     },
     {
       "surface": "יענה",
-      "gloss": "指證"
+      "gloss": "作證"
     },
     {
       "surface": "בנפש",
-      "gloss": "人"
+      "gloss": "指證一條性命"
     },
     {
       "surface": "למות",
-      "gloss": "致死"
+      "gloss": "死"
     }
   ],
-  "timestamp": "2026-10-16T05:27:25.210731834Z",
+  "timestamp": "2026-10-16T22:56:05.504179072Z",
   "model": "glm-5.3"
 }

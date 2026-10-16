@@ -5,23 +5,7 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 48,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "有人",
-      "rationale": "希伯來文只說「有人說」，中文需補出不定主語"
-    }
-  ],
-  "translation": "這些事以後，有人告訴約瑟說：「看哪，你父親病了。」他就帶著兩個兒子瑪拿西和以法蓮一同去⟨見雅各⟩。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "2f42d7c4c02da72b0a3ff8d74d42a768e81d27161043102e3cb1f3cb94549c9c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/48\/1-4.1792125613014.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "這些事以後，有人對約瑟說：「看哪，你的父親病了。」他就帶著 ⟨את⟩ 自己的兩個兒子，就是 ⟨את⟩ 瑪拿西和 ⟨את⟩ 以法蓮，一同前去。",
   "tokens": [
     {
       "surface": "ויהי",
@@ -41,7 +25,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "有人說"
+      "gloss": "說"
     },
     {
       "surface": "ליוסף",
@@ -66,7 +50,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "兩個兒子"
+      "marks": "自己的兩個兒子"
     },
     {
       "surface": "שני",
@@ -74,7 +58,7 @@
     },
     {
       "surface": "בניו",
-      "gloss": "他的兒子"
+      "gloss": "兒子"
     },
     {
       "surface": "עמו",
@@ -91,7 +75,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "和⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以法蓮"
     },
     {
@@ -99,6 +83,6 @@
       "gloss": "以法蓮"
     }
   ],
-  "timestamp": "2026-10-16T04:40:13.014770592Z",
+  "timestamp": "2026-10-16T22:31:57.437034371Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "מכלול",
-      "rationale": "全然華美／完全，僅見於此處（與39:4同根）"
-    },
-    {
-      "kind": "substitution",
-      "subject": "תפשי חרבות",
-      "rationale": "直譯『握刀者』，非『揮舞』；『拿著』更貼近詞形"
-    },
-    {
-      "kind": "elision",
-      "subject": "אותך",
-      "gloss": "受詞記號附加代詞形，屬⟨את⟩家族"
-    }
-  ],
-  "translation": "我必使你轉回，把鉤子安在你的兩腮，將你和你全部的軍隊——馬和騎兵，他們全都穿著全然華美的裝束，一大隊人拿著大盾和小盾，他們全都揮舞刀劍——帶出來。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "63ba2c2326d2feccb2c1b68ae65c0ceccbc8126d11679a95ed6f5070e039dcf0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/38\/1-4.1792138978962.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我必使你轉回，把鉤子安在你的兩頰，我必領你出來，連同 ⟨את⟩ 你全軍的軍隊、馬匹和騎兵，他們全都穿著完備的裝束，一大群會眾，拿著大盾和小盾，他們全都握著刀劍。",
   "tokens": [
     {
       "surface": "ושובבתיך",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "ונתתי",
-      "gloss": "我必安放"
+      "gloss": "我必放"
     },
     {
       "surface": "חחים",
@@ -47,25 +21,25 @@
     },
     {
       "surface": "בלחייך",
-      "gloss": "在你的兩腮"
+      "gloss": "在你的兩頰"
     },
     {
       "surface": "והוצאתי",
-      "gloss": "我必帶出"
+      "gloss": "我必領……出來"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩你",
+      "gloss": "⟨את⟩",
       "marks": "你"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "你全部的軍隊"
+      "marks": "你全軍的軍隊、馬匹和騎兵"
     },
     {
       "surface": "כל",
-      "gloss": "全部的"
+      "gloss": "全部"
     },
     {
       "surface": "חילך",
@@ -73,7 +47,7 @@
     },
     {
       "surface": "סוסים",
-      "gloss": "馬"
+      "gloss": "馬匹"
     },
     {
       "surface": "ופרשים",
@@ -85,7 +59,7 @@
     },
     {
       "surface": "מכלול",
-      "gloss": "全然華美"
+      "gloss": "完備的裝束"
     },
     {
       "surface": "כלם",
@@ -93,11 +67,11 @@
     },
     {
       "surface": "קהל",
-      "gloss": "一隊人"
+      "gloss": "會眾"
     },
     {
       "surface": "רב",
-      "gloss": "大的"
+      "gloss": "一大群"
     },
     {
       "surface": "צנה",
@@ -109,7 +83,7 @@
     },
     {
       "surface": "תפשי",
-      "gloss": "拿著…的"
+      "gloss": "握著"
     },
     {
       "surface": "חרבות",
@@ -120,6 +94,6 @@
       "gloss": "他們全都"
     }
   ],
-  "timestamp": "2026-10-16T08:22:58.963039764Z",
+  "timestamp": "2026-10-16T22:25:15.681910499Z",
   "model": "glm-5.3"
 }

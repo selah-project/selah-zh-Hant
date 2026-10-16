@@ -5,65 +5,39 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "חמאה",
-      "rationale": "「乳酪」：חמאה 是凝乳／酸奶類食品，非現代奶油。"
-    },
-    {
-      "kind": "hapax",
-      "subject": "שפות",
-      "rationale": "שפות（濾過的奶酪）僅見於此處（與 17:29 撒下 17:29 同節；另見伯 10:10 之動詞），是罕見詞。"
-    },
-    {
-      "kind": "addition",
-      "subject": "給他們",
-      "rationale": "לאכול 原文為不定詞「吃」，中文補出承受者。"
-    }
-  ],
-  "translation": "還有蜂蜜、乳酪、羊群和牛的奶酪，他們送到大衛和與他同在的百姓面前，給他們吃；因為他們說：「這百姓在曠野又餓、又疲乏、又渴。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ad80ee17e5ed0af436d794e08767f346f10d018b304876747af69c815cd1646b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/17\/29-29.1792132012425.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "又帶來蜂蜜、奶酪、綿羊、和乳酪⟨את⟩給大衛和與他同在的百姓吃，因為他們說：「這百姓在曠野又餓、又疲乏、又渴。」",
   "tokens": [
     {
       "surface": "ודבש",
-      "gloss": "還有蜂蜜"
+      "gloss": "蜂蜜"
     },
     {
       "surface": "וחמאה",
-      "gloss": "乳酪"
-    },
-    {
-      "surface": "וצאן",
-      "gloss": "羊群"
-    },
-    {
-      "surface": "ושפות",
       "gloss": "奶酪"
     },
     {
+      "surface": "וצאן",
+      "gloss": "綿羊"
+    },
+    {
+      "surface": "ושפות",
+      "gloss": "乳酪"
+    },
+    {
       "surface": "בקר",
-      "gloss": "牛的"
+      "gloss": "牛群"
     },
     {
       "surface": "הגישו",
-      "gloss": "他們送到……面前"
+      "gloss": "帶來"
     },
     {
       "surface": "לדוד",
-      "gloss": "大衛"
+      "gloss": "給大衛"
     },
     {
       "surface": "ולעם",
-      "gloss": "和……的百姓"
+      "gloss": "和百姓"
     },
     {
       "surface": "אשר",
@@ -72,11 +46,11 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "與他同在"
+      "marks": "與他同在的百姓"
     },
     {
       "surface": "לאכול",
-      "gloss": "給他們吃"
+      "gloss": "吃"
     },
     {
       "surface": "כי",
@@ -96,17 +70,17 @@
     },
     {
       "surface": "ועיף",
-      "gloss": "又疲乏"
+      "gloss": "疲乏"
     },
     {
       "surface": "וצמא",
-      "gloss": "又渴"
+      "gloss": "渴"
     },
     {
       "surface": "במדבר",
       "gloss": "在曠野"
     }
   ],
-  "timestamp": "2026-10-16T06:26:52.426123425Z",
+  "timestamp": "2026-10-16T22:09:41.490245078Z",
   "model": "glm-5.3"
 }

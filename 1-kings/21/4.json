@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "סר",
-      "rationale": "סַר「鬱鬱不樂」在整部塔納赫中僅出現於此"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨那⟩",
-      "rationale": "אשר 關係詞在中文定語結構中以「那」字引導"
-    }
-  ],
-  "translation": "亞哈回到他的宮殿，因耶斯列人拿伯對他所說的話——他說「我必不將⟨את⟩我祖先的產業給你」——就鬱鬱不樂、慍怒；他躺在床上，把臉轉過去，不肯吃飯。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "43996b67bab36963950fd87267c1b0858f6b5de5696a1e2760850a9c1fe623a8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/21\/1-4.1792133355497.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "亞哈回到他的家中，因為耶斯列人拿伯對他所說的話——就是說：「我必不把⟨את⟩我列祖的產業給你」——他就慍怒而憤恨。他躺在床榻上，轉過⟨את⟩他的臉，不肯吃飯。",
   "tokens": [
     {
       "surface": "ויבא",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "ביתו",
-      "gloss": "他的宮殿"
+      "gloss": "他的家"
     },
     {
       "surface": "סר",
-      "gloss": "鬱鬱不樂"
+      "gloss": "慍怒"
     },
     {
       "surface": "וזעף",
-      "gloss": "慍怒"
+      "gloss": "憤恨"
     },
     {
       "surface": "על",
@@ -58,15 +37,15 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "的話"
+      "gloss": "話"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨那⟩"
+      "gloss": "就是"
     },
     {
       "surface": "דבר",
-      "gloss": "所說的"
+      "gloss": "說"
     },
     {
       "surface": "אליו",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "他說"
+      "gloss": "說"
     },
     {
       "surface": "לא",
@@ -90,16 +69,16 @@
     },
     {
       "surface": "אתן",
-      "gloss": "我必給"
+      "gloss": "我必不給"
     },
     {
       "surface": "לך",
-      "gloss": "你"
+      "gloss": "給你"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我祖先的產業"
+      "marks": "我列祖的產業"
     },
     {
       "surface": "נחלת",
@@ -107,11 +86,11 @@
     },
     {
       "surface": "אבותי",
-      "gloss": "我祖先的"
+      "gloss": "我列祖的"
     },
     {
       "surface": "וישכב",
-      "gloss": "躺下"
+      "gloss": "躺"
     },
     {
       "surface": "על",
@@ -119,7 +98,7 @@
     },
     {
       "surface": "מטתו",
-      "gloss": "他的床"
+      "gloss": "他的床榻"
     },
     {
       "surface": "ויסב",
@@ -147,6 +126,6 @@
       "gloss": "飯"
     }
   ],
-  "timestamp": "2026-10-16T06:49:15.499767041Z",
+  "timestamp": "2026-10-16T21:59:01.078294748Z",
   "model": "glm-5.3"
 }

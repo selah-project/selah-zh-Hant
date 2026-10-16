@@ -5,37 +5,11 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "神人",
-      "rationale": "איש אלהים 直譯「以羅欣的人」，是先知的稱號。"
-    },
-    {
-      "kind": "addition",
-      "subject": "是",
-      "rationale": "中文需加判斷動詞連接「有一位神人」與「他是受尊敬的」。"
-    },
-    {
-      "kind": "you",
-      "subject": "to Saul",
-      "rationale": "僕人回答掃羅的直接對話。"
-    }
-  ],
-  "translation": "僕人對他說：「看哪，這城裡有一位神人，他是受尊敬的人；凡他所說的，必然應驗。現在我們往那裡去吧，或許他能將我們所當走的路指示我們。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "e2ae22e0ece85592c9e5f4681464eff7d49a61e3fb7f94b55d053f06029d84a5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/9\/5-8.1792131036940.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他對他說：「看哪，請看，這城裡有一位以羅欣的人（神人），這人受敬重，凡他所說的必定應驗。現在我們往那裡去罷，或許他會指示我們 ⟨את⟩ 我們當走的路，就是我們所要走的那條。」",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "說"
+      "gloss": "他……說"
     },
     {
       "surface": "לו",
@@ -47,19 +21,19 @@
     },
     {
       "surface": "נא",
-      "gloss": "⟨請⟩"
+      "gloss": "請看"
     },
     {
       "surface": "איש",
-      "gloss": "人"
+      "gloss": "一位……人"
     },
     {
       "surface": "אלהים",
-      "gloss": "以羅欣的神人"
+      "gloss": "以羅欣"
     },
     {
       "surface": "בעיר",
-      "gloss": "在城"
+      "gloss": "在城裡"
     },
     {
       "surface": "הזאת",
@@ -67,11 +41,11 @@
     },
     {
       "surface": "והאיש",
-      "gloss": "那人"
+      "gloss": "這人"
     },
     {
       "surface": "נכבד",
-      "gloss": "受尊敬"
+      "gloss": "受敬重"
     },
     {
       "surface": "כל",
@@ -87,11 +61,11 @@
     },
     {
       "surface": "בוא",
-      "gloss": "必然"
+      "gloss": "來"
     },
     {
       "surface": "יבוא",
-      "gloss": "應驗"
+      "gloss": "必來"
     },
     {
       "surface": "עתה",
@@ -99,7 +73,7 @@
     },
     {
       "surface": "נלכה",
-      "gloss": "我們去吧"
+      "gloss": "我們去罷"
     },
     {
       "surface": "שם",
@@ -111,7 +85,7 @@
     },
     {
       "surface": "יגיד",
-      "gloss": "指示"
+      "gloss": "他會指示"
     },
     {
       "surface": "לנו",
@@ -120,7 +94,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我們的路"
+      "marks": "我們當走的路"
     },
     {
       "surface": "דרכנו",
@@ -128,17 +102,17 @@
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "就是"
     },
     {
       "surface": "הלכנו",
-      "gloss": "我們所走的"
+      "gloss": "我們要走的"
     },
     {
       "surface": "עליה",
-      "gloss": "在其上"
+      "gloss": "在那條路上"
     }
   ],
-  "timestamp": "2026-10-16T06:10:36.941251171Z",
+  "timestamp": "2026-10-16T22:03:00.266113542Z",
   "model": "glm-5.3"
 }

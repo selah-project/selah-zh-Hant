@@ -5,41 +5,15 @@
   "book": "isaiah",
   "lang": "zh-Hant",
   "chapter": 39,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "נכתה",
-      "rationale": "「香料／珍寶」一詞在《塔納赫》中僅出現於此，字義晦暗"
-    },
-    {
-      "kind": "crux",
-      "subject": "בית כליו",
-      "rationale": "直譯「他器皿之家」，和合作「軍械庫」，實指一切庫藏器物"
-    },
-    {
-      "kind": "addition",
-      "subject": "使者",
-      "rationale": "「歡迎他們」原文僅為「在他們身上歡喜」，中文補出款待之意"
-    }
-  ],
-  "translation": "希西家歡迎他們，把他們看作前來的使者；他就把寶庫、銀子、金子、香料、上好的油，和他一切的器皿，以及他府庫中一切所找到的，都給他們看——他家中和他全國之內，沒有一樣東西希西家沒有給他們看的。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "92cf5a8618657adb8e6650f5fc5d2d46d3593d873834521b4e7e0bd18ae2b604",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/39\/1-4.1792135365021.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "希西家因他們歡喜，就把他的寶物庫、銀子、金子、香料和美好的油，以及他的一切器械之庫、他府庫中所 finding 的一切，都給他們看：在他家中、在他全國之內，沒有一樣東西希西家沒有給他們看。",
   "tokens": [
     {
       "surface": "וישמח",
-      "gloss": "歡迎"
+      "gloss": "歡喜"
     },
     {
       "surface": "עליהם",
-      "gloss": "他們"
+      "gloss": "因他們"
     },
     {
       "surface": "חזקיהו",
@@ -52,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "寶庫"
+      "marks": "他的寶物庫"
     },
     {
       "surface": "בית",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "נכתה",
-      "gloss": "寶"
+      "gloss": "寶物"
     },
     {
       "surface": "את",
@@ -73,7 +47,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "金子"
     },
     {
@@ -82,7 +56,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "香料"
     },
     {
@@ -91,8 +65,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "上好的油"
+      "gloss": "和⟨את⟩",
+      "marks": "美好的油"
     },
     {
       "surface": "השמן",
@@ -100,12 +74,12 @@
     },
     {
       "surface": "הטוב",
-      "gloss": "上好的"
+      "gloss": "美好的"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "他一切的器皿"
+      "gloss": "和⟨את⟩",
+      "marks": "他的一切器械"
     },
     {
       "surface": "כל",
@@ -113,16 +87,16 @@
     },
     {
       "surface": "בית",
-      "gloss": "屋"
+      "gloss": "庫"
     },
     {
       "surface": "כליו",
-      "gloss": "他的器皿"
+      "gloss": "他的器械"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "他所找到的一切"
+      "gloss": "和⟨את⟩",
+      "marks": "所 finding 的一切"
     },
     {
       "surface": "כל",
@@ -134,7 +108,7 @@
     },
     {
       "surface": "נמצא",
-      "gloss": "找到的"
+      "gloss": "finding"
     },
     {
       "surface": "באצרתיו",
@@ -142,7 +116,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "不"
+      "gloss": "沒有"
     },
     {
       "surface": "היה",
@@ -154,7 +128,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "……的"
     },
     {
       "surface": "לא",
@@ -174,13 +148,13 @@
     },
     {
       "surface": "ובכל",
-      "gloss": "和他一切"
+      "gloss": "以及在……一切之內"
     },
     {
       "surface": "ממשלתו",
-      "gloss": "全國之內"
+      "gloss": "他的全國"
     }
   ],
-  "timestamp": "2026-10-16T07:22:45.022838519Z",
+  "timestamp": "2026-10-16T22:34:33.601492066Z",
   "model": "glm-5.3"
 }

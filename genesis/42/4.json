@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "同去",
-      "rationale": "希伯來文以 ⟨את⟩ אחיו 表「與哥哥們（一起）」，中文需補動詞"
-    },
-    {
-      "kind": "substitution",
-      "subject": "אסון",
-      "rationale": "字面「傷害／不幸」，譯作「災禍」"
-    }
-  ],
-  "translation": "至於約瑟的弟弟便雅憫，雅各沒有打發他和 ⟨את⟩ 他的哥哥們同去，因為他說：「恐怕災禍臨到他。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "547d547c27efad83795ca3814cf075a8efaa862db5947442577c73cf11dec6d9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/42\/1-4.1792125512997.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "至於 ⟨את⟩ 便雅憫——約瑟的弟弟——雅各沒有打發他與 ⟨את⟩ 他哥哥們同去，因為他說：「恐怕他遭遇災禍。」",
   "tokens": [
     {
       "surface": "ואת",
@@ -39,7 +18,7 @@
     },
     {
       "surface": "אחי",
-      "gloss": "的弟弟"
+      "gloss": "弟弟"
     },
     {
       "surface": "יוסף",
@@ -60,11 +39,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他的哥哥們"
+      "marks": "他哥哥們"
     },
     {
       "surface": "אחיו",
-      "gloss": "他的哥哥們"
+      "gloss": "他哥哥們"
     },
     {
       "surface": "כי",
@@ -80,13 +59,13 @@
     },
     {
       "surface": "יקראנו",
-      "gloss": "臨到"
+      "gloss": "遭遇"
     },
     {
       "surface": "אסון",
       "gloss": "災禍"
     }
   ],
-  "timestamp": "2026-10-16T04:38:32.999049842Z",
+  "timestamp": "2026-10-16T22:30:54.430402079Z",
   "model": "glm-5.3"
 }

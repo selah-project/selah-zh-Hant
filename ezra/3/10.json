@@ -5,32 +5,11 @@
   "book": "ezra",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על ידי דויד",
-      "rationale": "直譯「藉大衛的手」，指大衛所定的禮拜規制；補「所定規」以明"
-    },
-    {
-      "kind": "addition",
-      "subject": "拿著",
-      "rationale": "希伯來文僅用介詞 בְ（以、用）表示樂器附於其人，中文補動詞"
-    }
-  ],
-  "translation": "建造的人立了 ⟨את⟩ 雅威殿的根基，祭司們便身穿禮服、拿著號角站立，利未人——亞薩的子孫——拿著鈸，要照以色列王大衛的手〈所定規〉讚美 ⟨את⟩ 雅威。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "e50f29beca522b63caee52edb49c1b47981a7344cd8052f24f1d54a07be77f2a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezra\/3\/9-12.1792147886626.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "建造的人立定了雅威殿的根基之後，祭司們身穿禮服、拿著號角站在自己的位上，利未人亞薩的子孫拿著鈸，要照以色列王大衛的手〈所定的〉頌讚雅威。",
   "tokens": [
     {
       "surface": "ויסדו",
-      "gloss": "立了根基"
+      "gloss": "立定了根基"
     },
     {
       "surface": "הבנים",
@@ -39,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "雅威殿"
+      "marks": "雅威殿（的根基）"
     },
     {
       "surface": "היכל",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "ויעמידו",
-      "gloss": "使站立"
+      "gloss": "使……站立"
     },
     {
       "surface": "הכהנים",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "的子孫"
+      "gloss": "子孫"
     },
     {
       "surface": "אסף",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "להלל",
-      "gloss": "讚美"
+      "gloss": "要頌讚"
     },
     {
       "surface": "את",
@@ -100,7 +79,7 @@
     },
     {
       "surface": "ידי",
-      "gloss": "的手"
+      "gloss": "……的手"
     },
     {
       "surface": "דויד",
@@ -115,6 +94,6 @@
       "gloss": "以色列"
     }
   ],
-  "timestamp": "2026-10-16T10:51:26.627203574Z",
+  "timestamp": "2026-10-16T22:26:33.688944633Z",
   "model": "glm-5.3"
 }

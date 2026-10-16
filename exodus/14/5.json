@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "有人",
-      "rationale": "希伯來被動式 ויגד 無施事者，中文加「有人」"
-    },
-    {
-      "kind": "alternative",
-      "subject": "向著百姓回轉",
-      "rationale": "אל העם 亦可譯「反對百姓」，視乎回轉的方向"
-    },
-    {
-      "kind": "you",
-      "subject": "法老與臣僕",
-      "rationale": "引語直接指向說話者自身的行動"
-    }
-  ],
-  "translation": "有人告訴埃及王說：「百姓逃走了。」法老和他臣僕的心向著百姓回轉，他們就說：「我們做的是什麼呢？我們竟容以色列離開我們的服事。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "3be1bc6c89d2271f94a5569615599a241f06bf4442354e41ebd92e68b54e9c6f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/14\/5-8.1792125925799.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "有人告訴埃及王，說百姓逃走了。法老和他臣僕的心向著百姓翻轉，他們就說：「我們做了這事，算什麼呢？我們竟把 ⟨את⟩ 以色列從服事我們之中打發走了。」",
   "tokens": [
     {
       "surface": "ויגד",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "למלך",
-      "gloss": "王"
+      "gloss": "給…王"
     },
     {
       "surface": "מצרים",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "ויהפך",
-      "gloss": "回轉"
+      "gloss": "就翻轉了"
     },
     {
       "surface": "לבב",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "ועבדיו",
-      "gloss": "他的臣僕"
+      "gloss": "和他的臣僕"
     },
     {
       "surface": "אל",
@@ -99,11 +73,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "竟"
+      "gloss": "竟然"
     },
     {
       "surface": "שלחנו",
-      "gloss": "我們容……離開"
+      "gloss": "我們打發走了"
     },
     {
       "surface": "את",
@@ -116,9 +90,9 @@
     },
     {
       "surface": "מעבדנו",
-      "gloss": "離開我們的服事"
+      "gloss": "從服事我們"
     }
   ],
-  "timestamp": "2026-10-16T04:45:25.800683903Z",
+  "timestamp": "2026-10-16T22:18:14.188434585Z",
   "model": "glm-5.3"
 }

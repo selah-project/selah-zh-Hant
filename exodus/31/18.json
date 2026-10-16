@@ -5,37 +5,11 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "法版",
-      "rationale": "העדת 直譯「見證」，和合本「法版」沿用並加括註"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "此處 אתו 是介詞「與他」（H854）而非受詞記號，照常規標記但中文以「與他」譯出"
-    },
-    {
-      "kind": "you",
-      "subject": "摩西",
-      "rationale": "本節敘事聚焦摩西為領受法版之對象"
-    }
-  ],
-  "translation": "他在西奈山與摩西說完了話，就賜給摩西兩塊法版，就是石版，其上寫著以羅欣的指頭所刻的字。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "0f8ad6a11f7c2f987950f19a3404b0a212673d186b2dd5fde73572986c11d585",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/31\/17-18.1792126424618.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他與摩西在西奈山上說完了話，就賜給他兩塊法版，就是石版，其上以以羅欣的指頭所刻寫的見證之版。",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "他就賜給"
+      "gloss": "賜給"
     },
     {
       "surface": "אל",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "ככלתו",
-      "gloss": "當他完了"
+      "gloss": "當……說完了"
     },
     {
       "surface": "לדבר",
@@ -55,11 +29,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩與他"
+      "gloss": "⟨את⟩",
+      "marks": "他（摩西）"
     },
     {
       "surface": "בהר",
-      "gloss": "在山上"
+      "gloss": "在……山上"
     },
     {
       "surface": "סיני",
@@ -71,11 +46,11 @@
     },
     {
       "surface": "לחת",
-      "gloss": "塊……版"
+      "gloss": "版"
     },
     {
       "surface": "העדת",
-      "gloss": "法版（見證）"
+      "gloss": "見證的"
     },
     {
       "surface": "לחת",
@@ -87,17 +62,17 @@
     },
     {
       "surface": "כתבים",
-      "gloss": "寫著……的字"
+      "gloss": "刻寫的"
     },
     {
       "surface": "באצבע",
-      "gloss": "用指頭"
+      "gloss": "以……指頭"
     },
     {
       "surface": "אלהים",
       "gloss": "以羅欣"
     }
   ],
-  "timestamp": "2026-10-16T04:53:44.619731042Z",
+  "timestamp": "2026-10-16T22:19:52.481844208Z",
   "model": "glm-5.3"
 }

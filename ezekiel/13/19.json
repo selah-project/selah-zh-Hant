@@ -5,49 +5,24 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "性命",
-      "rationale": "נפש 是氣息／生命之力，可被殺死、可被救活，非哲學性的「靈魂」"
-    },
-    {
-      "kind": "addition",
-      "subject": "就是那些",
-      "rationale": "שמעי כזב 為分詞短語「聽謊言的」，中文加破折號引語使其成為同位語"
-    },
-    {
-      "kind": "you",
-      "subject": "眾女子",
-      "rationale": "延續上節對說預言女子們的直接控訴"
-    }
-  ],
-  "translation": "妳們為了幾把大麥、幾片餅，就在我百姓中間褻瀆我，殺死不該死的性命，救活不該活的性命；妳們向我百姓——那些聽謊言的——說謊。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b0f51e720d19c2a4324ac4e4491ea16d8b4560df6b977c84ff528c4a8e385559",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/13\/17-20.1792138155860.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你們為了幾把大麥、幾塊餅，就在我子民中間褻瀆了 ⟨את⟩ 我，要殺死不該死的性命，又要救活不該活的性命；你們向我民說謊，他們竟是聽信謊言的。",
   "tokens": [
     {
       "surface": "ותחללנה",
-      "gloss": "妳們褻瀆"
+      "gloss": "你們褻瀆了"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ 我"
+      "gloss": "⟨את⟩",
+      "marks": "我"
     },
     {
       "surface": "אל",
-      "gloss": "在……中間"
+      "gloss": "在…中間"
     },
     {
       "surface": "עמי",
-      "gloss": "我的百姓"
+      "gloss": "我子民"
     },
     {
       "surface": "בשעלי",
@@ -59,7 +34,7 @@
     },
     {
       "surface": "ובפתותי",
-      "gloss": "又為了幾片"
+      "gloss": "又為了幾塊"
     },
     {
       "surface": "לחם",
@@ -67,7 +42,7 @@
     },
     {
       "surface": "להמית",
-      "gloss": "去殺死"
+      "gloss": "要殺死"
     },
     {
       "surface": "נפשות",
@@ -75,7 +50,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "那些"
     },
     {
       "surface": "לא",
@@ -87,7 +62,7 @@
     },
     {
       "surface": "ולחיות",
-      "gloss": "又去救活"
+      "gloss": "又要救活"
     },
     {
       "surface": "נפשות",
@@ -95,7 +70,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "那些"
     },
     {
       "surface": "לא",
@@ -107,21 +82,21 @@
     },
     {
       "surface": "בכזבכם",
-      "gloss": "用妳們的謊言"
+      "gloss": "你們說謊"
     },
     {
       "surface": "לעמי",
-      "gloss": "向我百姓"
+      "gloss": "向我民"
     },
     {
       "surface": "שמעי",
-      "gloss": "那些聽"
+      "gloss": "聽信"
     },
     {
       "surface": "כזב",
       "gloss": "謊言"
     }
   ],
-  "timestamp": "2026-10-16T08:09:15.861621378Z",
+  "timestamp": "2026-10-16T22:22:06.114080154Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "別的神明",
-      "rationale": "異教諸神語境，אלהים אחרים 用「別的神明」而非「以羅欣」"
-    },
-    {
-      "kind": "addition",
-      "subject": "我",
-      "rationale": "צויתי 是第一人稱單數「我吩咐」，說話者是雅威"
-    }
-  ],
-  "translation": "去事奉別的神明，向他們下拜，或拜日頭，或拜月亮，或拜天上的萬象——這是我沒有吩咐過的——",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "e9b94d43cecdca996ba506d597951075fcd2c4829a758a2008a479aa130d0044",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/17\/1-4.1792129002851.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "去事奉別的神明，向它們下拜，或向太陽，或向月亮，或向天上萬象的一切，就是我所沒有吩咐的——",
   "tokens": [
     {
       "surface": "וילך",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "להם",
-      "gloss": "向他們"
+      "gloss": "向它們"
     },
     {
       "surface": "ולשמש",
-      "gloss": "或拜日頭"
+      "gloss": "或向太陽"
     },
     {
       "surface": "או",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "לירח",
-      "gloss": "拜月亮"
+      "gloss": "向月亮"
     },
     {
       "surface": "או",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "לכל",
-      "gloss": "或拜"
+      "gloss": "向……的一切"
     },
     {
       "surface": "צבא",
@@ -78,11 +57,11 @@
     },
     {
       "surface": "השמים",
-      "gloss": "天上的"
+      "gloss": "天上"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "就是"
     },
     {
       "surface": "לא",
@@ -90,9 +69,9 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "我吩咐過"
+      "gloss": "吩咐"
     }
   ],
-  "timestamp": "2026-10-16T05:36:42.852984726Z",
+  "timestamp": "2026-10-16T22:13:36.834334313Z",
   "model": "glm-5.3"
 }

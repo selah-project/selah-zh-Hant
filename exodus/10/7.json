@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "הטרם תדע",
-      "rationale": "反問語氣「你還不知道嗎」，直譯「未曾你知道」"
-    },
-    {
-      "kind": "you",
-      "subject": "to Pharaoh",
-      "rationale": "法老的僕人直接向法老進言"
-    },
-    {
-      "kind": "substitution",
-      "subject": "網羅",
-      "rationale": "למוקש 本義捕捉動物的陷阱，喻意絆腳的禍患"
-    }
-  ],
-  "translation": "法老的僕人們對他說：「這人要作我們的網羅到幾時呢？把這些人差去，讓他們事奉 ⟨את⟩ 雅威他們的以羅欣吧。你還不知道埃及已經滅亡了嗎？」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "0aafd8b0a088a4caccfe9fd46fedbdcbe70f92ecb1744fef52422b51d821dba4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/10\/5-8.1792125876260.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "法老的臣僕對他說：「這人要作我們的網羅到幾時呢？把這些人差走，讓他們事奉⟨את⟩雅威他們的以羅欣吧。你還不知道埃及已經滅亡了嗎？」",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "僕人們"
+      "gloss": "臣僕"
     },
     {
       "surface": "פרעה",
-      "gloss": "法老的"
+      "gloss": "法老"
     },
     {
       "surface": "אליו",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "לנו",
-      "gloss": "我們的"
+      "gloss": "我們"
     },
     {
       "surface": "למוקש",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "שלח",
-      "gloss": "差去"
+      "gloss": "差走"
     },
     {
       "surface": "את",
@@ -113,17 +87,17 @@
     },
     {
       "surface": "כי",
-      "gloss": "嗎"
+      "gloss": "嗎／已經"
     },
     {
       "surface": "אבדה",
-      "gloss": "已經滅亡"
+      "gloss": "滅亡了"
     },
     {
       "surface": "מצרים",
       "gloss": "埃及"
     }
   ],
-  "timestamp": "2026-10-16T04:44:36.262724859Z",
+  "timestamp": "2026-10-16T22:17:26.622840457Z",
   "model": "glm-5.3"
 }

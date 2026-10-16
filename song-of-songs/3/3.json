@@ -5,36 +5,15 @@
   "book": "song-of-songs",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "引語框架",
-      "rationale": "希伯來文直接引語無引入句，中文加「遇見我：」銜接"
-    },
-    {
-      "kind": "you",
-      "subject": "看守的人",
-      "rationale": "女子向城中看守者的直接提問"
-    }
-  ],
-  "translation": "巡行城中看守的人遇見我：「你們可曾看見⟨את⟩我心所愛慕的？」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "28b12a73fd5bfd486d8a9d2d94fc38500a8728a64f568cb32b0096d2ac727c5e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/song-of-songs\/3\/1-4.1792146611221.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "城中巡行的看守們遇見了我：你們見過 ⟨את⟩ 我性命所愛的嗎？",
   "tokens": [
     {
       "surface": "מצאוני",
-      "gloss": "遇見我"
+      "gloss": "遇見了我"
     },
     {
       "surface": "השמרים",
-      "gloss": "看守的人"
+      "gloss": "看守們"
     },
     {
       "surface": "הסבבים",
@@ -42,26 +21,26 @@
     },
     {
       "surface": "בעיר",
-      "gloss": "城中"
+      "gloss": "在城中"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我心所愛慕的"
+      "marks": "我性命所愛的"
     },
     {
       "surface": "שאהבה",
-      "gloss": "所愛慕的"
+      "gloss": "所愛的"
     },
     {
       "surface": "נפשי",
-      "gloss": "我的生命（נפש）"
+      "gloss": "我性命"
     },
     {
       "surface": "ראיתם",
-      "gloss": "你們可曾看見"
+      "gloss": "你們見過"
     }
   ],
-  "timestamp": "2026-10-16T10:30:11.222025072Z",
+  "timestamp": "2026-10-16T22:59:54.078316276Z",
   "model": "glm-5.3"
 }

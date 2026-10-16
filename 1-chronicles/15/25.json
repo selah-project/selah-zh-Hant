@@ -5,28 +5,7 @@
   "book": "1-chronicles",
   "lang": "zh-Hant",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "全都",
-      "rationale": "כל未在原文，但參與者整體的意味由語境補出，以⟨⟩方式未標記於譯文故此處省略"
-    },
-    {
-      "kind": "substitution",
-      "subject": "千夫長",
-      "rationale": "שרי האלפים字面為「千的官長」，即統領千人的首領"
-    }
-  ],
-  "translation": "於是，大衛和以色列的長老並千夫長前去，要將雅威約的櫃從俄別‧以東家抬上來，全都懷著喜樂。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "401c764ff6c5563256b5ccba86547f4dde8e9758ca25d69dfcd872aac6e89813",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/15\/25-28.1792148810936.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "於是大衛和以色列的長老並千夫長們前去，要將雅威約的櫃從俄別以東家抬上來，〈他們〉歡歡喜喜地行。其實經文直述：大衛、以色列的長伯、與千夫長們，就是那些去將雅威約的⟨את⟩櫃從俄別以東家歡歡喜喜抬上來的人——以下為正式譯文：於是大衛、以色列的長老、和千夫長們前去，歡歡喜喜地將雅威約的⟨את⟩櫃從俄別以東家抬上來。",
   "tokens": [
     {
       "surface": "ויהי",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "וזקני",
-      "gloss": "和……的長老"
+      "gloss": "和…的長老"
     },
     {
       "surface": "ישראל",
@@ -46,24 +25,24 @@
     },
     {
       "surface": "ושרי",
-      "gloss": "並……的官長"
+      "gloss": "和…的首領"
     },
     {
       "surface": "האלפים",
-      "gloss": "千夫長"
+      "gloss": "千"
     },
     {
       "surface": "ההלכים",
-      "gloss": "前去"
+      "gloss": "那些前去的人"
     },
     {
       "surface": "להעלות",
-      "gloss": "要……抬上來"
+      "gloss": "要抬上來"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "雅威約的櫃"
+      "marks": "櫃"
     },
     {
       "surface": "ארון",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "家"
+      "gloss": "…的家"
     },
     {
       "surface": "עבד",
@@ -95,9 +74,9 @@
     },
     {
       "surface": "בשמחה",
-      "gloss": "懷著喜樂"
+      "gloss": "歡歡喜喜地"
     }
   ],
-  "timestamp": "2026-10-16T11:06:50.936828221Z",
+  "timestamp": "2026-10-16T21:56:22.958430569Z",
   "model": "glm-5.3"
 }

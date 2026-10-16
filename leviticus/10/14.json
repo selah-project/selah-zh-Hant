@@ -5,23 +5,7 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתך",
-      "rationale": "此 את 為介詞「與」（H854），非受詞記號，故不寫作 ⟨את⟩ 於譯文中"
-    }
-  ],
-  "translation": "搖祭的胸和舉祭的腿，你們要在潔淨的地方吃：你和你兒子們、你女兒們與你一同；因為你的分和你兒子們的分已從以色列人的平安祭牲中賜下。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "bf67e2b3f90f9e28f6eda989acfc8d6645cb3c699a410bdb77e140424d3a7f8d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/10\/13-16.1792126898915.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "搖祭的胸和舉祭的腿，你們要在潔淨的地方吃；你和你的兒子、你的女兒⟨要⟩與你一同吃，因為這是你當得的份，也是你兒子們當得的份，這是從以色列人的平安祭牲中賜給你的。",
   "tokens": [
     {
       "surface": "ואת",
@@ -34,7 +18,7 @@
     },
     {
       "surface": "התנופה",
-      "gloss": "搖祭"
+      "gloss": "搖祭的"
     },
     {
       "surface": "ואת",
@@ -47,7 +31,7 @@
     },
     {
       "surface": "התרומה",
-      "gloss": "舉祭"
+      "gloss": "舉祭的"
     },
     {
       "surface": "תאכלו",
@@ -55,11 +39,11 @@
     },
     {
       "surface": "במקום",
-      "gloss": "在…地方"
+      "gloss": "在……地方"
     },
     {
       "surface": "טהור",
-      "gloss": "潔淨"
+      "gloss": "潔淨的"
     },
     {
       "surface": "אתה",
@@ -67,15 +51,15 @@
     },
     {
       "surface": "ובניך",
-      "gloss": "和你兒子們"
+      "gloss": "和你的兒子"
     },
     {
       "surface": "ובנתיך",
-      "gloss": "和你女兒們"
+      "gloss": "和你的女兒"
     },
     {
       "surface": "אתך",
-      "gloss": "與你⟨את⟩"
+      "gloss": "與你一同⟨את⟩"
     },
     {
       "surface": "כי",
@@ -83,11 +67,11 @@
     },
     {
       "surface": "חקך",
-      "gloss": "你的分"
+      "gloss": "你當得的份"
     },
     {
       "surface": "וחק",
-      "gloss": "和…的分"
+      "gloss": "也是……當得的份"
     },
     {
       "surface": "בניך",
@@ -95,25 +79,25 @@
     },
     {
       "surface": "נתנו",
-      "gloss": "已賜下"
+      "gloss": "被賜給"
     },
     {
       "surface": "מזבחי",
-      "gloss": "從…祭牲"
+      "gloss": "從……祭牲"
     },
     {
       "surface": "שלמי",
-      "gloss": "平安祭"
+      "gloss": "平安祭的"
     },
     {
       "surface": "בני",
-      "gloss": "…之子"
+      "gloss": "……的子孫"
     },
     {
       "surface": "ישראל",
       "gloss": "以色列"
     }
   ],
-  "timestamp": "2026-10-16T05:01:38.917051459Z",
+  "timestamp": "2026-10-16T22:48:22.269206089Z",
   "model": "glm-5.3"
 }

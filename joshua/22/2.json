@@ -5,36 +5,15 @@
   "book": "joshua",
   "lang": "zh-Hant",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to the two and a half tribes",
-      "rationale": "約書亞直接向流便、迦得、瑪拿西半支派說話"
-    },
-    {
-      "kind": "idiom",
-      "subject": "聽從我的話",
-      "rationale": "בקולי字面是「在我的聲音裡」，希伯來文的聽從成語"
-    }
-  ],
-  "translation": "對他們說：「你們遵守了雅威的僕人摩西吩咐你們的一切話，也聽從了我的話，遵行我所吩咐你們的一切。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ca54f9ab1978407f5adefa5fe4c96feb1e825526a2f5c1b2fcc8ccef35879936",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/22\/1-4.1792129951215.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "對他們說：「你們遵守了雅威的僕人摩西所吩咐 ⟨את⟩ 你們的一切話，又聽從我的聲音，遵行我所吩咐 ⟨את⟩ 你們的一切。」",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "對……說"
+      "gloss": "說"
     },
     {
       "surface": "אליהם",
-      "gloss": "他們"
+      "gloss": "對他們"
     },
     {
       "surface": "אתם",
@@ -63,7 +42,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ 你們"
+      "gloss": "⟨את⟩你們",
+      "marks": "你們"
     },
     {
       "surface": "משה",
@@ -79,11 +59,11 @@
     },
     {
       "surface": "ותשמעו",
-      "gloss": "也聽從了"
+      "gloss": "又聽從"
     },
     {
       "surface": "בקולי",
-      "gloss": "我的話"
+      "gloss": "我的聲音"
     },
     {
       "surface": "לכל",
@@ -95,13 +75,14 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "我……吩咐"
+      "gloss": "我吩咐的"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ 你們"
+      "gloss": "⟨את⟩你們",
+      "marks": "你們"
     }
   ],
-  "timestamp": "2026-10-16T05:52:31.216651634Z",
+  "timestamp": "2026-10-16T22:43:57.033063454Z",
   "model": "glm-5.3"
 }

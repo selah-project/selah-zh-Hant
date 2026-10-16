@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "תשברו",
-      "rationale": "字根為『買糧』（עבר שבר 糧食貿易），譯作『買』"
-    },
-    {
-      "kind": "you",
-      "subject": "以色列",
-      "rationale": "命令直接對以色列民說話"
-    }
-  ],
-  "translation": "你們要用銀子向他們買食物吃，也要用銀子向他們買水喝。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "5dc1972f40ea857d7469fe562033be4c4cdf44cc71ef397159c659e566bc8f9b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/2\/5-8.1792128517812.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "食物你們要用銀子向他們買 ⟨את⟩ 來吃，水也要用銀子向他們買 ⟨את⟩ 來喝。",
   "tokens": [
     {
       "surface": "אכל",
@@ -38,7 +17,8 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "⟨את⟩他們"
+      "gloss": "⟨את⟩",
+      "marks": "向他們買的食物"
     },
     {
       "surface": "בכסף",
@@ -46,7 +26,7 @@
     },
     {
       "surface": "ואכלתם",
-      "gloss": "吃"
+      "gloss": "來吃"
     },
     {
       "surface": "וגם",
@@ -62,7 +42,8 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "⟨את⟩他們"
+      "gloss": "⟨את⟩",
+      "marks": "向他們買的水"
     },
     {
       "surface": "בכסף",
@@ -70,9 +51,9 @@
     },
     {
       "surface": "ושתיתם",
-      "gloss": "喝"
+      "gloss": "來喝"
     }
   ],
-  "timestamp": "2026-10-16T05:28:37.813529440Z",
+  "timestamp": "2026-10-16T22:13:31.195110071Z",
   "model": "glm-5.3"
 }

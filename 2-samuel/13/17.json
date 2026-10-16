@@ -5,27 +5,11 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "暗嫩對僕人說",
-      "rationale": "直接對話中的命令，加添的受詞對象明確"
-    }
-  ],
-  "translation": "他喚了 ⟨את⟩ 他的僕人、那伺候他的少年，說：「請把這女人從我這裡趕出去，送到外面，又在她後面把門閂上。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "982c3a6b8c872c1125c0df883629ee3b6124045fec9952a8b33ab21ef1e8e2d2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/13\/17-20.1792131982825.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他呼叫 ⟨את⟩ 他的僕人，就是伺候他的那少年，說：「請把這女人從我這裏打發出去，到外頭去，並且在她身後把門閂上。」",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "喚了"
+      "gloss": "他呼叫"
     },
     {
       "surface": "את",
@@ -34,11 +18,11 @@
     },
     {
       "surface": "נערו",
-      "gloss": "他的少年"
+      "gloss": "他的僕人"
     },
     {
       "surface": "משרתו",
-      "gloss": "伺候他的"
+      "gloss": "伺候他的那少年"
     },
     {
       "surface": "ויאמר",
@@ -46,7 +30,7 @@
     },
     {
       "surface": "שלחו",
-      "gloss": "趕出去"
+      "gloss": "打發出去"
     },
     {
       "surface": "נא",
@@ -63,15 +47,15 @@
     },
     {
       "surface": "מעלי",
-      "gloss": "從我這裡"
+      "gloss": "從我這裏"
     },
     {
       "surface": "החוצה",
-      "gloss": "外面"
+      "gloss": "到外頭去"
     },
     {
       "surface": "ונעל",
-      "gloss": "閂上"
+      "gloss": "並且把門閂上"
     },
     {
       "surface": "הדלת",
@@ -79,9 +63,9 @@
     },
     {
       "surface": "אחריה",
-      "gloss": "在她後面"
+      "gloss": "在她身後"
     }
   ],
-  "timestamp": "2026-10-16T06:26:22.826477357Z",
+  "timestamp": "2026-10-16T22:09:13.405936079Z",
   "model": "glm-5.3"
 }

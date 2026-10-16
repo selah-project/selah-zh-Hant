@@ -5,36 +5,15 @@
   "book": "micah",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "關係代名詞由「其中的」承接，不另立詞。"
-    },
-    {
-      "kind": "addition",
-      "subject": "是",
-      "rationale": "末句希伯來文無繫詞，中文補「是」。"
-    }
-  ],
-  "translation": "城中的富人滿了強暴，其居民言語虛謊，他們的舌頭在他們口中〈是〉詭詐的。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "14ecb6a1b26b324bf8125e185a8da189ca560aabba32e9cbc819594ea1fbcee0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/micah\/6\/9-12.1792142619607.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "因為城中的富戶滿了強暴，城中的居民言語虛謊，他們的舌頭詭詐在他們口中。",
   "tokens": [
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "因為"
     },
     {
       "surface": "עשיריה",
-      "gloss": "其中的富人"
+      "gloss": "城中的富戶"
     },
     {
       "surface": "מלאו",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "וישביה",
-      "gloss": "其居民"
+      "gloss": "城中的居民"
     },
     {
       "surface": "דברו",
@@ -62,13 +41,13 @@
     },
     {
       "surface": "רמיה",
-      "gloss": "詭詐的"
+      "gloss": "詭詐"
     },
     {
       "surface": "בפיהם",
       "gloss": "在他們口中"
     }
   ],
-  "timestamp": "2026-10-16T09:23:39.609982806Z",
+  "timestamp": "2026-10-16T22:51:58.703162105Z",
   "model": "glm-5.3"
 }

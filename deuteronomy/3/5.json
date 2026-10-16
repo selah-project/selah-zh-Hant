@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "translation",
-      "subject": "דלתים",
-      "rationale": "דלתים是雙數形式，兩扇門的門扇"
-    },
-    {
-      "kind": "crux",
-      "subject": "הפרזי",
-      "rationale": "'未設防的城鎮'或'鄉村的'（perizi 地區的開放村鎮）；多數譯本譯為 '無城牆的村鎮'"
-    }
-  ],
-  "translation": "這些城全都是設防之城，有高牆、門閂和門閂以外的〈分工〉：高牆、雙門和橫閂；此外還有許多無城牆的村莊之城的數目極多。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "7fdecd3e31d39c3a581d97a4227d29da53af390a76e2be05ab0fb479a279ce31",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/3\/5-8.1792128502037.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "這些城全是設防的城，有高牆、門扇和門閂，此外還有許多無牆的鄉村之城，極其眾多。",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "全都是"
+      "gloss": "全"
     },
     {
       "surface": "אלה",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "בצרות",
-      "gloss": "設防之城"
+      "gloss": "設防的"
     },
     {
       "surface": "חומה",
-      "gloss": "高牆"
+      "gloss": "牆"
     },
     {
       "surface": "גבהה",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "דלתים",
-      "gloss": "雙門"
+      "gloss": "門扇"
     },
     {
       "surface": "ובריח",
-      "gloss": "和橫閂"
+      "gloss": "和門閂"
     },
     {
       "surface": "לבד",
@@ -66,11 +45,11 @@
     },
     {
       "surface": "מערי",
-      "gloss": "……的城"
+      "gloss": "之城"
     },
     {
       "surface": "הפרזי",
-      "gloss": "無城牆的村莊"
+      "gloss": "無牆的鄉村"
     },
     {
       "surface": "הרבה",
@@ -78,9 +57,9 @@
     },
     {
       "surface": "מאד",
-      "gloss": "極多"
+      "gloss": "極其眾多"
     }
   ],
-  "timestamp": "2026-10-16T05:28:22.037839510Z",
+  "timestamp": "2026-10-16T22:14:40.081004466Z",
   "model": "glm-5.3"
 }

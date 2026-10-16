@@ -5,41 +5,15 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ואת בניהם ילמדון",
-      "rationale": "原文以受詞前置強調「他們的兒子」，中文語序調整後以「他們的兒子」置於句末"
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "回述以色列站立雅威面前的那日，直接對「你」說話"
-    },
-    {
-      "kind": "measurement",
-      "subject": "יום",
-      "rationale": "標定具體日子——何烈山立約之日"
-    }
-  ],
-  "translation": "就是你站在雅威你的以羅欣（神）面前的那日，在何烈山，雅威對我說：你要為我招聚 ⟨את⟩ 百姓，我要使他們聽見 ⟨את⟩ 我的話，使他們在地上活著的所有日子學習敬畏我，並教訓他們的兒子。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "e7594eb7a7ab4aa5745c8cb6a7a44ab2b85fb01332cbc5f8576cbb2f3167bab6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/4\/9-12.1792128592142.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你站在雅威你的以羅欣面前、在何烈山的那日子，就是雅威對我說：「你要為我招聚 ⟨את⟩ 百姓，我要使他們聽 ⟨את⟩ 我的話語，使他們在我使他們活在地上的所有日子學習敬畏 ⟨את⟩ 我，並教導 ⟨את⟩ 他們的兒女」的那日子。",
   "tokens": [
     {
       "surface": "יום",
-      "gloss": "……的日子"
+      "gloss": "日子"
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "那"
     },
     {
       "surface": "עמדת",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "הקהל",
-      "gloss": "你要招聚"
+      "gloss": "招聚"
     },
     {
       "surface": "לי",
@@ -91,17 +65,17 @@
       "gloss": "百姓"
     },
     {
-      "surface": "וואשמעם",
-      "gloss": "我要使他們聽見"
+      "surface": "ואשמעם",
+      "gloss": "我要使他們聽"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我的話"
+      "marks": "我的話語"
     },
     {
       "surface": "דברי",
-      "gloss": "我的話"
+      "gloss": "我的話語"
     },
     {
       "surface": "אשר",
@@ -122,7 +96,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "所有的"
+      "gloss": "所有"
     },
     {
       "surface": "הימים",
@@ -130,7 +104,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "……的"
+      "gloss": "那"
     },
     {
       "surface": "הם",
@@ -142,7 +116,7 @@
     },
     {
       "surface": "על",
-      "gloss": "在……之上"
+      "gloss": "在"
     },
     {
       "surface": "האדמה",
@@ -150,18 +124,18 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "他們的兒子"
+      "gloss": "並⟨את⟩",
+      "marks": "他們的兒女"
     },
     {
       "surface": "בניהם",
-      "gloss": "他們的兒子"
+      "gloss": "他們的兒女"
     },
     {
       "surface": "ילמדון",
-      "gloss": "他們要教訓"
+      "gloss": "他們要教導"
     }
   ],
-  "timestamp": "2026-10-16T05:29:52.143816293Z",
+  "timestamp": "2026-10-16T22:15:54.396763987Z",
   "model": "glm-5.3"
 }

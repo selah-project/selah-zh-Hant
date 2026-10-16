@@ -5,48 +5,27 @@
   "book": "2-chronicles",
   "lang": "zh-Hant",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈留〉",
-      "rationale": "ויהי שם 直譯「它在那裡」，中文補一動詞以成句"
-    },
-    {
-      "kind": "idiom",
-      "subject": "直到今日",
-      "rationale": "עד היום הזה 是敘事者的編輯按語，表示寫作當時槓仍在那裡"
-    }
-  ],
-  "translation": "他們使槓伸長，槓頭在內殿面向之處從櫃那裡可以看見，在外面卻看不見；槓〈留〉在那裡，直到今日。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "9aa70dd20b0b1dd4f1b8af9e804409546115661b11745f43ca68522b6ccaf07b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/5\/9-12.1792149189448.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "槓子甚長，槓頭在內殿前從櫃那裏可以看見，在外面卻看不見；它們〈留〉在那裏，直到今日。",
   "tokens": [
     {
       "surface": "ויאריכו",
-      "gloss": "他們使…伸長"
+      "gloss": "甚長"
     },
     {
       "surface": "הבדים",
-      "gloss": "槓"
+      "gloss": "槓子"
     },
     {
       "surface": "ויראו",
-      "gloss": "被看見"
+      "gloss": "可以看見"
     },
     {
       "surface": "ראשי",
-      "gloss": "頭"
+      "gloss": "槓頭"
     },
     {
       "surface": "הבדים",
-      "gloss": "槓"
+      "gloss": "槓子"
     },
     {
       "surface": "מן",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "על",
-      "gloss": "在…之前"
+      "gloss": "在……前"
     },
     {
       "surface": "פני",
-      "gloss": "面向之處"
+      "gloss": "面前"
     },
     {
       "surface": "הדביר",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "יראו",
-      "gloss": "被看見"
+      "gloss": "看見"
     },
     {
       "surface": "החוצה",
@@ -82,11 +61,11 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "〈事情是〉"
+      "gloss": "〈留〉在"
     },
     {
       "surface": "שם",
-      "gloss": "在那裡"
+      "gloss": "在那裏"
     },
     {
       "surface": "עד",
@@ -101,6 +80,6 @@
       "gloss": "這"
     }
   ],
-  "timestamp": "2026-10-16T11:13:09.449119701Z",
+  "timestamp": "2026-10-16T22:04:29.896041935Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨את⟩跟隨他",
-      "rationale": "אתו 此處為介詞「與他同在」，中文以「跟隨他」表達"
-    },
-    {
-      "kind": "idiom",
-      "subject": "雙重否定",
-      "rationale": "希伯來文「沒有一人缺席、沒有渡過的」是強調式雙重否定，意即全都過了河"
-    },
-    {
-      "kind": "measurement",
-      "subject": "沒有一人",
-      "rationale": "清點人數：全營無一遺漏"
-    }
-  ],
-  "translation": "於是大衛起來，和所有跟隨他的人民，都渡過了 ⟨את⟩ 約旦河；直到天亮的時候，沒有一人缺席、沒有渡過 ⟨את⟩ 約旦河的。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "d7ecdda80f8bfca4f13817209edcb061966a2b15561bea0ab5b6517c19d8cbc9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/17\/21-24.1792132111641.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "於是大衛起來，和他一起的全體人民也起來，他們渡過了 ⟨את⟩ 約旦河；直到天亮的時候，沒有一人缺席——凡屬他們的，沒有一人不曾渡過 ⟨את⟩ 約旦河。",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "起來"
+      "gloss": "於是……起來"
     },
     {
       "surface": "דוד",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "和所有"
+      "gloss": "和全體"
     },
     {
       "surface": "העם",
@@ -51,15 +25,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩跟隨他"
+      "gloss": "⟨את⟩ 與他一起"
     },
     {
       "surface": "ויעברו",
-      "gloss": "渡過了"
+      "gloss": "他們渡過了"
     },
     {
       "surface": "את",
@@ -88,11 +62,11 @@
     },
     {
       "surface": "אחד",
-      "gloss": "一人"
+      "gloss": "一個"
     },
     {
       "surface": "לא",
-      "gloss": "沒有"
+      "gloss": "不"
     },
     {
       "surface": "נעדר",
@@ -100,11 +74,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "凡"
     },
     {
       "surface": "לא",
-      "gloss": "沒有"
+      "gloss": "不曾"
     },
     {
       "surface": "עבר",
@@ -120,6 +94,6 @@
       "gloss": "約旦河"
     }
   ],
-  "timestamp": "2026-10-16T06:28:31.642638494Z",
+  "timestamp": "2026-10-16T22:09:49.984754913Z",
   "model": "glm-5.3"
 }

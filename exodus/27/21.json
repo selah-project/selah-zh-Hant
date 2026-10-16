@@ -5,41 +5,15 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "מאת",
-      "rationale": "מאת 在此是介詞「出自」（H854），非受詞記號；但依規則以 ⟨את⟩ 標示其字形"
-    },
-    {
-      "kind": "crux",
-      "subject": "מאת בני ישראל",
-      "rationale": "「出自以色列人」可解作燈油由以色列人供應，或此定例由他們世世遵守"
-    },
-    {
-      "kind": "substitution",
-      "subject": "העדת",
-      "rationale": "「見證」指法櫃中的法版，和合本作「法櫃的幔子」以達意"
-    }
-  ],
-  "translation": "在會幕裡、在法櫃的幔子外面，亞倫和他的兒子們要從晚上到早晨在雅威面前整理 ⟨אתו⟩ 它；這是他們世世代代永遠的定例，出自以色列人的 ⟨את⟩ 〈之手〉。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "f30aaa4d88b14b1e8fc58500f0de710ee7274dcb5ef135ef2b1596f4f231e82b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/27\/21-21.1792126213988.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "在會幕裡、帷幔之外——那帷幔在見證之物上——亞倫和他的眾子要從晚上到早晨在雅威面前整理 ⟨את⟩ 它；這是他們世世代代永遠的定例，由以色列眾子 ⟨את⟩ ⟨所守⟩。",
   "tokens": [
     {
       "surface": "באהל",
-      "gloss": "在會幕裡"
+      "gloss": "在帳棚裡"
     },
     {
       "surface": "מועד",
-      "gloss": "會幕"
+      "gloss": "會幕（聚會之幕）"
     },
     {
       "surface": "מחוץ",
@@ -47,19 +21,19 @@
     },
     {
       "surface": "לפרכת",
-      "gloss": "幔子"
+      "gloss": "帷幔之外"
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "那"
     },
     {
       "surface": "על",
-      "gloss": "在…之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "העדת",
-      "gloss": "法櫃的見證"
+      "gloss": "見證之物"
     },
     {
       "surface": "יערך",
@@ -68,7 +42,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "它（燈）"
+      "marks": "它（指燈）"
     },
     {
       "surface": "אהרן",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "ובניו",
-      "gloss": "和他的兒子們"
+      "gloss": "和他的眾子"
     },
     {
       "surface": "מערב",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "在…面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "יהוה",
@@ -112,17 +86,17 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ 出自"
+      "gloss": "由 ⟨את⟩"
     },
     {
       "surface": "בני",
-      "gloss": "…的兒子們"
+      "gloss": "眾子"
     },
     {
       "surface": "ישראל",
       "gloss": "以色列"
     }
   ],
-  "timestamp": "2026-10-16T04:50:13.988817541Z",
+  "timestamp": "2026-10-16T22:19:09.843241271Z",
   "model": "glm-5.3"
 }

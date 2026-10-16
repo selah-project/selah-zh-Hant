@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "zh-Hant",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "לא דברתי",
-      "rationale": "「我沒有吩咐…關於燔祭」（並非沒有設立祭禮）與「我所吩咐的不單是祭禮」（BSB 的『不僅僅』）兩讀之爭。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "דברי עולה וזבח",
-      "rationale": "字面「燔祭和祭物的話語／事」，中文以「關於…的話」勉強對齊。"
-    }
-  ],
-  "translation": "因為在我領他們出埃及地的那日，我沒有對你們的列祖說話，也沒有吩咐他們關於燔祭和祭物的話，",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "8a803c1d405f5b1d7a019403cebc581b1361f7aeda2e06d93631bdaae9d60753",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/7\/21-24.1792136370612.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "因為我沒有向 ⟨את⟩ 你們的祖先說話，也沒有吩咐他們——在我領他們出埃及地的那日子——關於燔祭和祭牲的事〈上〉，",
   "tokens": [
     {
       "surface": "כי",
@@ -38,20 +17,20 @@
     },
     {
       "surface": "דברתי",
-      "gloss": "我說話"
+      "gloss": "我……說話"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "你們的列祖"
+      "marks": "你們的祖先"
     },
     {
       "surface": "אבותיכם",
-      "gloss": "你們的列祖"
+      "gloss": "你們的祖先"
     },
     {
       "surface": "ולא",
-      "gloss": "也不"
+      "gloss": "也沒有"
     },
     {
       "surface": "צויתים",
@@ -59,20 +38,20 @@
     },
     {
       "surface": "ביום",
-      "gloss": "在…的日子"
+      "gloss": "在……的日子"
     },
     {
       "surface": "הוציא",
-      "gloss": "領出"
+      "gloss": "我領……出"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "他們"
+      "gloss": "⟨את⟩他們",
+      "marks": "出埃及地"
     },
     {
       "surface": "מארץ",
-      "gloss": "從…地"
+      "gloss": "從……地"
     },
     {
       "surface": "מצרים",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "דברי",
-      "gloss": "…的話"
+      "gloss": "……的事"
     },
     {
       "surface": "עולה",
@@ -92,9 +71,9 @@
     },
     {
       "surface": "וזבח",
-      "gloss": "和祭物"
+      "gloss": "和祭牲"
     }
   ],
-  "timestamp": "2026-10-16T07:39:30.613745411Z",
+  "timestamp": "2026-10-16T22:41:33.898701973Z",
   "model": "glm-5.3"
 }

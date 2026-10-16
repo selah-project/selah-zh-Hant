@@ -5,37 +5,11 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "יש אלהים לישראל",
-      "rationale": "字面「有神（給）以色列」，即「以色列有神」；介詞ל各譯本或作「在以色列中」或作「為以色列」。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "פגר",
-      "rationale": "原文名詞單數「屍首」，指整個營的屍體；欽定本複數化為「屍體們」。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "היום הזה ×2",
-      "rationale": "「今天」在節中重複兩次，強調即時性，中文保留兩次。"
-    }
-  ],
-  "translation": "今天雅威必將你交在我手裡，我必擊打你，割下你的頭顱；今天我必把非利士軍營的屍首給空中的飛鳥和地上的野獸，使全地都知道以色列有以羅欣。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "9e521234a842e7f8e35bad6847d26d15556d57f26aa1522c46e88c8b91a6303e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/17\/45-48.1792131275675.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "今日雅威必將你交在我手中，我必擊打你，將 ⟨את⟩ 你的頭從你身上取下，今日我必將非利士人軍營的屍首給空中的飛鳥和地上的走獸，好叫全地都知道以色列有以羅欣。",
   "tokens": [
     {
       "surface": "היום",
-      "gloss": "今天"
+      "gloss": "今日"
     },
     {
       "surface": "הזה",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "יסגרך",
-      "gloss": "必將你交出"
+      "gloss": "必將你交在"
     },
     {
       "surface": "יהוה",
@@ -51,20 +25,20 @@
     },
     {
       "surface": "בידי",
-      "gloss": "在我手裡"
+      "gloss": "在我手中"
     },
     {
       "surface": "והכיתך",
-      "gloss": "必擊打你"
+      "gloss": "我必擊打你"
     },
     {
       "surface": "והסרתי",
-      "gloss": "我必割下"
+      "gloss": "我必取下"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "你的頭顱"
+      "marks": "你的頭"
     },
     {
       "surface": "ראשך",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "ונתתי",
-      "gloss": "我必給"
+      "gloss": "我必將……給"
     },
     {
       "surface": "פגר",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "מחנה",
-      "gloss": "軍營的"
+      "gloss": "軍營"
     },
     {
       "surface": "פלשתים",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "היום",
-      "gloss": "今天"
+      "gloss": "今日"
     },
     {
       "surface": "הזה",
@@ -108,7 +82,7 @@
     },
     {
       "surface": "ולחית",
-      "gloss": "和……野獸"
+      "gloss": "和……走獸"
     },
     {
       "surface": "הארץ",
@@ -116,7 +90,7 @@
     },
     {
       "surface": "וידעו",
-      "gloss": "使……都知道"
+      "gloss": "就知道"
     },
     {
       "surface": "כל",
@@ -128,7 +102,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "知道"
+      "gloss": "都"
     },
     {
       "surface": "יש",
@@ -140,9 +114,9 @@
     },
     {
       "surface": "לישראל",
-      "gloss": "屬以色列"
+      "gloss": "以色列"
     }
   ],
-  "timestamp": "2026-10-16T06:14:35.676410868Z",
+  "timestamp": "2026-10-16T22:00:52.559641318Z",
   "model": "glm-5.3"
 }

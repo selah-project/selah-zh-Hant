@@ -5,32 +5,11 @@
   "book": "zechariah",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "魯阿",
-      "rationale": "רוחי 譯「我的魯阿（靈）」，不用「聖靈」一詞"
-    },
-    {
-      "kind": "crux",
-      "subject": "הניחו",
-      "rationale": "נוח 或作「使安息／平息」（KJV quieted、JPS eased）：北方（巴比倫）之行已平息了雅威之靈的怒氣"
-    }
-  ],
-  "translation": "他又呼喚 ⟨את⟩ 我，對我說話，說：「看哪，那些往北方之地去的，已使我的魯阿（靈）在北方之地得享安息。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "7df23a8c6f971657e148a061574fec0d51f6c80c97112701353658eaabe3b0df",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/zechariah\/6\/5-8.1792143032631.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他呼喚 ⟨את⟩ 我，對我說話，說：「看哪，那些往北方之地去的，已使我的魯阿（氣息）在北方之地得了安息。」",
   "tokens": [
     {
       "surface": "ויזעק",
-      "gloss": "他又呼喚"
+      "gloss": "他呼喚"
     },
     {
       "surface": "אתי",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "地"
+      "gloss": "之地"
     },
     {
       "surface": "צפון",
@@ -71,16 +50,16 @@
     },
     {
       "surface": "הניחו",
-      "gloss": "已使……得享安息"
+      "gloss": "已使……得了安息"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我的魯阿（靈）"
+      "marks": "我的魯阿"
     },
     {
       "surface": "רוחי",
-      "gloss": "我的魯阿（靈）"
+      "gloss": "我的魯阿（氣息）"
     },
     {
       "surface": "בארץ",
@@ -91,6 +70,6 @@
       "gloss": "北方"
     }
   ],
-  "timestamp": "2026-10-16T09:30:32.632290743Z",
+  "timestamp": "2026-10-16T23:00:31.060777858Z",
   "model": "glm-5.3"
 }

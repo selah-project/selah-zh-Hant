@@ -5,23 +5,7 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "吹號的號筒",
-      "rationale": "חצצרות התרועה 直譯「呼喊之號筒」，指作戰吶喊信號用的號角"
-    }
-  ],
-  "translation": "摩西就打發他們出征，每支派一千人，把他們和⟨את⟩非尼哈——以利亞撒祭司的兒子——一併打發出征；聖所的器皿和吹號的號筒都在他手中。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "fb41bd6be292e6fa64d8bf030d7b3e4512f2729431bb1e2288a54d3f1fe39442",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/31\/5-8.1792128351724.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "摩西打發他們 ⟨את⟩ 上陣，每支派一千人；他們 ⟨את⟩ 並亞倫祭司的兒子以利亞撒的兒子非尼哈 ⟨את⟩ 一同上陣，帶著聖所的器皿和號角的警號在他手中。",
   "tokens": [
     {
       "surface": "וישלח",
@@ -29,8 +13,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "他們（那十二千人）"
+      "gloss": "他們 ⟨את⟩",
+      "marks": "他們（所打發的人）"
     },
     {
       "surface": "משה",
@@ -46,15 +30,16 @@
     },
     {
       "surface": "לצבא",
-      "gloss": "出征"
+      "gloss": "上陣"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ 他們"
+      "gloss": "他們 ⟨את⟩",
+      "marks": "他們"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ 並",
       "marks": "非尼哈"
     },
     {
@@ -75,7 +60,7 @@
     },
     {
       "surface": "לצבא",
-      "gloss": "出征"
+      "gloss": "上陣"
     },
     {
       "surface": "וכלי",
@@ -87,17 +72,17 @@
     },
     {
       "surface": "וחצצרות",
-      "gloss": "和號筒"
+      "gloss": "和號角"
     },
     {
       "surface": "התרועה",
-      "gloss": "吹號的"
+      "gloss": "警號"
     },
     {
       "surface": "בידו",
       "gloss": "在他手中"
     }
   ],
-  "timestamp": "2026-10-16T05:25:51.725356553Z",
+  "timestamp": "2026-10-16T22:55:22.417877431Z",
   "model": "glm-5.3"
 }

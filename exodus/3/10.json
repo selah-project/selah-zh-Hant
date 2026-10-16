@@ -5,41 +5,15 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לכה",
-      "gloss": "「你要來」為字面直譯；傳統譯作「來吧」，是命令式邀請。"
-    },
-    {
-      "kind": "invitation",
-      "subject": "לכה",
-      "rationale": "命令式「來」是召喚的言語行動——差遣的開端。"
-    },
-    {
-      "kind": "you",
-      "subject": "to Moses",
-      "rationale": "雅威直接向摩西發出使命。"
-    }
-  ],
-  "translation": "如今你要來，我要差遣你到法老那裡，使你把我的百姓以色列人從埃及領出來。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "e4912d4abe58af61acda9fc87730e73ba1cb9a99192637d9db537351e5c05d0c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/3\/9-12.1792125772273.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "現在，你來吧，我要差遣你到法老那裡，你要把我的百姓⟨את⟩——以色列的兒子們——從埃及領出來。」",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "如今"
+      "gloss": "現在"
     },
     {
       "surface": "לכה",
-      "gloss": "你要來"
+      "gloss": "你來吧"
     },
     {
       "surface": "ואשלחך",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "והוצא",
-      "gloss": "使你領出"
+      "gloss": "你要領出來"
     },
     {
       "surface": "את",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "人"
+      "gloss": "的兒子們"
     },
     {
       "surface": "ישראל",
@@ -79,6 +53,6 @@
       "gloss": "從埃及"
     }
   ],
-  "timestamp": "2026-10-16T04:42:52.275262388Z",
+  "timestamp": "2026-10-16T22:19:29.895606653Z",
   "model": "glm-5.3"
 }

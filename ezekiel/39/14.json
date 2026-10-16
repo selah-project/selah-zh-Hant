@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 39,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אנשי תמיד",
-      "rationale": "「常設的人員」（受雇的埋葬隊）vs「持續巡查的人」——各譯本分歧處"
-    },
-    {
-      "kind": "measurement",
-      "subject": "שבעה חדשים",
-      "rationale": "七個月的期限，並測量到其末"
-    }
-  ],
-  "translation": "他們要分出常設的人員，走遍全地埋葬〈את〉那些經過的人和〈את〉那留在地面上的遺骸，為要潔淨這地；到了七個月末，他們要巡查。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "f8a13aa95c731a54b0783a2efe3d7e3c11c17a09f55739be2ad7aba17e640759",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/39\/13-16.1792138999228.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們要分出常設的人員，在遍地巡行埋葬——他們要埋葬 ⟨את⟩ 那些巡行的人⟨所遇見⟩留在地面上的 ⟨את⟩ 遺骸，為要潔淨那地；從七個月末了起，他們要仔細搜查。",
   "tokens": [
     {
       "surface": "ואנשי",
-      "gloss": "他們要分出人員"
+      "gloss": "人員"
     },
     {
       "surface": "תמיד",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "יבדילו",
-      "gloss": "分別出來"
+      "gloss": "分出"
     },
     {
       "surface": "עברים",
-      "gloss": "經過"
+      "gloss": "巡行"
     },
     {
       "surface": "בארץ",
-      "gloss": "走遍全地"
+      "gloss": "在遍地"
     },
     {
       "surface": "מקברים",
@@ -55,20 +34,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那些經過的人"
+      "marks": "那些巡行的人"
     },
     {
       "surface": "העברים",
-      "gloss": "經過的人"
+      "gloss": "那些巡行的人"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那留在地面上的遺骸"
+      "marks": "遺骸（留在地面上的）"
     },
     {
       "surface": "הנותרים",
-      "gloss": "留下的"
+      "gloss": "遺骸（剩下的）"
     },
     {
       "surface": "על",
@@ -76,19 +55,19 @@
     },
     {
       "surface": "פני",
-      "gloss": "面上"
+      "gloss": "面"
     },
     {
       "surface": "הארץ",
-      "gloss": "地的"
+      "gloss": "那地"
     },
     {
       "surface": "לטהרה",
-      "gloss": "為要潔淨她"
+      "gloss": "為要潔淨那地"
     },
     {
       "surface": "מקצה",
-      "gloss": "到了……末"
+      "gloss": "末了"
     },
     {
       "surface": "שבעה",
@@ -100,9 +79,9 @@
     },
     {
       "surface": "יחקרו",
-      "gloss": "他們要巡查"
+      "gloss": "他們要仔細搜查"
     }
   ],
-  "timestamp": "2026-10-16T08:23:19.229076341Z",
+  "timestamp": "2026-10-16T22:25:02.484065092Z",
   "model": "glm-5.3"
 }

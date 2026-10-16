@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "對以東王",
-      "rationale": "本節是外交口信，直接稱呼「你」的對象是以東王"
-    },
-    {
-      "kind": "substitution",
-      "subject": "臨到我們",
-      "rationale": "מצאתנו 直譯「找到了我們」，中文以「臨到／遭遇」化解擬人語感"
-    }
-  ],
-  "translation": "摩西從加低斯差遣使者去見以東王，說：「你的兄弟以色列這樣說：你知道我們所遭遇的一切困苦，",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "d8a4b4c02a93cb1d2628a3f988a8dfb7561269ae465454a4713f2afec71e76f8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/20\/13-16.1792128001064.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "摩西從加低斯差遣使者去見以東王：「你弟弟以色列如此說：你知道 ⟨את⟩ 我們所遭遇的一切勞苦，」",
   "tokens": [
     {
       "surface": "וישלח",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "כה",
-      "gloss": "這樣"
+      "gloss": "如此"
     },
     {
       "surface": "אמר",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "אחיך",
-      "gloss": "你的兄弟"
+      "gloss": "你弟弟"
     },
     {
       "surface": "ישראל",
@@ -83,7 +62,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "一切困苦"
+      "marks": "我們所遭遇的一切勞苦"
     },
     {
       "surface": "כל",
@@ -91,17 +70,17 @@
     },
     {
       "surface": "התלאה",
-      "gloss": "困苦"
+      "gloss": "勞苦"
     },
     {
       "surface": "אשר",
-      "gloss": "所遭遇的"
+      "gloss": "所……的"
     },
     {
       "surface": "מצאתנו",
-      "gloss": "臨到我們"
+      "gloss": "遭遇我們"
     }
   ],
-  "timestamp": "2026-10-16T05:20:01.065309888Z",
+  "timestamp": "2026-10-16T22:54:04.933778505Z",
   "model": "glm-5.3"
 }

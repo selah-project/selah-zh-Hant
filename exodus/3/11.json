@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מי אנכי",
-      "rationale": "「我是誰」是希伯來的自謙疑問，中文成語恰好對應。"
-    },
-    {
-      "kind": "crux",
-      "subject": "אנכי vs הואא",
-      "rationale": "此處摩西用 אנכי（較強調的「我」），與 3:14 雅威的 אהיה 同根呼應的前奏。"
-    }
-  ],
-  "translation": "摩西對以羅欣說：「我是誰，竟能去見法老，把以色列人從埃及領出來呢？」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "e4912d4abe58af61acda9fc87730e73ba1cb9a99192637d9db537351e5c05d0c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/3\/9-12.1792125772273.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "摩西對以羅欣說：「我算誰，竟要去見法老，竟要把⟨את⟩以色列的兒子們從埃及領出來？」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "竟"
+      "gloss": "竟要"
     },
     {
       "surface": "אלך",
@@ -70,20 +49,20 @@
     },
     {
       "surface": "וכי",
-      "gloss": "又竟"
+      "gloss": "竟要"
     },
     {
       "surface": "אוציא",
-      "gloss": "領出"
+      "gloss": "領出來"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "以色列人"
+      "marks": "以色列的兒子們"
     },
     {
       "surface": "בני",
-      "gloss": "人"
+      "gloss": "兒子們"
     },
     {
       "surface": "ישראל",
@@ -94,6 +73,6 @@
       "gloss": "從埃及"
     }
   ],
-  "timestamp": "2026-10-16T04:42:52.275597584Z",
+  "timestamp": "2026-10-16T22:19:37.569181968Z",
   "model": "glm-5.3"
 }

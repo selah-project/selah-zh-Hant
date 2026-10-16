@@ -5,28 +5,7 @@
   "book": "judges",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "燒盡",
-      "rationale": "ותאכל 直譯「吃了」，中文以「燒盡」保留火吞吃祭物的畫面"
-    },
-    {
-      "kind": "idiom",
-      "subject": "從他眼前消失",
-      "rationale": "מעיניו 直譯「從他的眼睛」，即不再被看見"
-    }
-  ],
-  "translation": "雅威的使者伸出手中所拿的杖頭，觸了肉和無酵餅，就有火從磐石中上來，燒盡了 ⟨את⟩ 肉和 ⟨את⟩ 無酵餅；雅威的使者就從他眼前消失了。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "67546ca4032b372bcd4ad36ac1dff91f4ed6a146346355d2e69576b7c3668cdb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/6\/21-24.1792130178747.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威的使者伸出 ⟨את⟩ 手中杖的末端，觸了那肉和無酵餅；火就從磐石中升起來，燒盡了 ⟨את⟩ 那肉和 ⟨את⟩ 無酵餅。雅威的使者就從他眼前離去了。",
   "tokens": [
     {
       "surface": "וישלח",
@@ -43,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "杖頭"
+      "marks": "手中杖的末端"
     },
     {
       "surface": "קצה",
-      "gloss": "……頭"
+      "gloss": "末端"
     },
     {
       "surface": "המשענת",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "所拿的"
+      "gloss": "所"
     },
     {
       "surface": "בידו",
@@ -67,15 +46,15 @@
     },
     {
       "surface": "בבשר",
-      "gloss": "肉"
+      "gloss": "那肉"
     },
     {
       "surface": "ובמצות",
-      "gloss": "無酵餅"
+      "gloss": "和無酵餅"
     },
     {
       "surface": "ותעל",
-      "gloss": "上來"
+      "gloss": "升起來"
     },
     {
       "surface": "האש",
@@ -96,11 +75,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "肉"
+      "marks": "那肉"
     },
     {
       "surface": "הבשר",
-      "gloss": "肉"
+      "gloss": "那肉"
     },
     {
       "surface": "ואת",
@@ -128,6 +107,6 @@
       "gloss": "從他眼前"
     }
   ],
-  "timestamp": "2026-10-16T05:56:18.748175487Z",
+  "timestamp": "2026-10-16T22:47:24.347730434Z",
   "model": "glm-5.3"
 }

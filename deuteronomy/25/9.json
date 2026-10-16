@@ -5,36 +5,15 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "建立家室",
-      "rationale": "בנה בית「建立他哥哥的家」指為亡兄生子立後、延續家系，非指蓋房屋"
-    },
-    {
-      "kind": "crux",
-      "subject": "יבמתו",
-      "rationale": "יבמת本義是「小叔的妻子（妯娌）」；此處處境指亡夫的遺孀，譯作「寡婦」"
-    }
-  ],
-  "translation": "於是他兄弟的寡婦要在長老眼前走近他，脫下他腳上的鞋，吐唾沫在他臉上，回答說：「那不為他哥哥建立家室的人，就要這樣待他。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "7369d287e76f72dcaebff46f62ebe7e519d5637ba313f83d3084c85a7c309bf8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/25\/9-12.1792129053606.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他兄弟的遺孀要在他眼前、在長老面前走上前來，脫下他腳上的鞋，吐唾沫在他臉上，回答說：「對那不為兄弟建立家室的人，就要這樣待他。」",
   "tokens": [
     {
       "surface": "ונגשה",
-      "gloss": "走近"
+      "gloss": "走上前來"
     },
     {
       "surface": "יבמתו",
-      "gloss": "他兄弟的寡婦"
+      "gloss": "他的兄弟遺孀"
     },
     {
       "surface": "אליו",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "לעיני",
-      "gloss": "在眼前"
+      "gloss": "在……眼前"
     },
     {
       "surface": "הזקנים",
-      "gloss": "長老們"
+      "gloss": "長老"
     },
     {
       "surface": "וחלצה",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "מעל",
-      "gloss": "從"
+      "gloss": "從……之上"
     },
     {
       "surface": "רגלו",
@@ -82,11 +61,11 @@
     },
     {
       "surface": "ככה",
-      "gloss": "就這樣"
+      "gloss": "就要這樣"
     },
     {
       "surface": "יעשה",
-      "gloss": "被對待"
+      "gloss": "待他"
     },
     {
       "surface": "לאיש",
@@ -107,7 +86,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他哥哥的家室"
+      "marks": "家室"
     },
     {
       "surface": "בית",
@@ -115,9 +94,9 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "他哥哥的"
+      "gloss": "他兄弟的"
     }
   ],
-  "timestamp": "2026-10-16T05:37:33.606783094Z",
+  "timestamp": "2026-10-16T22:14:10.218366479Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "2-chronicles",
   "lang": "zh-Hant",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ותהפך ותלך",
-      "rationale": "直譯「她轉過身來、走了」，即「動身返回」之意。"
-    },
-    {
-      "kind": "addition",
-      "subject": "禮物",
-      "rationale": "「她帶給王的」原文未明言「禮物」一詞，中文補足語意。"
-    }
-  ],
-  "translation": "所羅門王將示巴女王所求、所喜悅的一切都賜給她，此外又有她帶給王的禮物；於是她轉身回到自己的地去了，她和她的臣僕。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "80047b16f8f9869d4ef4bd39028b700192a3b929c2e9cb301db5a79cf27f3991",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/9\/9-12.1792149248563.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "所羅門王將示巴女王所求的一切、她所喜悅的⟨את⟩都賜給她，此外還加上她帶來給王的禮物。於是她轉身回去，她和她的臣僕往自己的地去了。",
   "tokens": [
     {
       "surface": "והמלך",
@@ -51,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "所求所喜悅的一切"
+      "marks": "一切她所喜悅的"
     },
     {
       "surface": "כל",
@@ -67,19 +46,19 @@
     },
     {
       "surface": "שאלה",
-      "gloss": "求"
+      "gloss": "她求的"
     },
     {
       "surface": "מלבד",
-      "gloss": "此外又有"
+      "gloss": "此外"
     },
     {
       "surface": "אשר",
-      "gloss": "她"
+      "gloss": "所"
     },
     {
       "surface": "הביאה",
-      "gloss": "帶給"
+      "gloss": "她帶來的"
     },
     {
       "surface": "אל",
@@ -91,15 +70,15 @@
     },
     {
       "surface": "ותהפך",
-      "gloss": "她轉身"
+      "gloss": "於是她轉身"
     },
     {
       "surface": "ותלך",
-      "gloss": "回到"
+      "gloss": "回去"
     },
     {
       "surface": "לארצה",
-      "gloss": "自己的地"
+      "gloss": "往自己的地"
     },
     {
       "surface": "היא",
@@ -110,6 +89,6 @@
       "gloss": "和她的臣僕"
     }
   ],
-  "timestamp": "2026-10-16T11:14:08.564640061Z",
+  "timestamp": "2026-10-16T22:05:10.221080448Z",
   "model": "glm-5.3"
 }

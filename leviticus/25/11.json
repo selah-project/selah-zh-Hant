@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "נזיריה",
-      "rationale": "נזר字面為「分別出來之物」——未修剪的葡萄（KJV undressed vines）與分別為聖之果（ylt separated things）之爭。"
-    },
-    {
-      "kind": "addition",
-      "subject": "〈一年〉",
-      "rationale": "中文需補名詞；希伯來文 שנה已隱於句構。"
-    },
-    {
-      "kind": "measurement",
-      "subject": "第五十年",
-      "rationale": "禧年年限的重申。"
-    }
-  ],
-  "translation": "這禧年是第五十年，是你們的〈一年〉：你們不可撒種，也不可收割自生的，也不可修理〈採摘〉未修剪的葡萄樹。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "9c3360af99f28ed494964a26737d076c89e5bc4552227a53ddbf154e20495d0a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/25\/9-12.1792127269852.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "這是禧年，是第五十年，這年要歸你們⟨為聖⟩；你們不可撒種，也不可收割它自生的莊稼，也不可摘取它未修剪葡萄樹上的葡萄。",
   "tokens": [
     {
       "surface": "יובל",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "שנת",
-      "gloss": "……之年"
+      "gloss": "……年"
     },
     {
       "surface": "החמשים",
@@ -55,11 +29,11 @@
     },
     {
       "surface": "תהיה",
-      "gloss": "是"
+      "gloss": "要歸"
     },
     {
       "surface": "לכם",
-      "gloss": "你們的"
+      "gloss": "你們"
     },
     {
       "surface": "לא",
@@ -80,11 +54,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "自生的"
+      "marks": "它自生的莊稼"
     },
     {
       "surface": "ספיחיה",
-      "gloss": "自生的"
+      "gloss": "它自生的莊稼"
     },
     {
       "surface": "ולא",
@@ -92,18 +66,18 @@
     },
     {
       "surface": "תבצרו",
-      "gloss": "採摘葡萄"
+      "gloss": "摘取葡萄"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "未修剪之果"
+      "marks": "它未修剪樹上的葡萄"
     },
     {
       "surface": "נזריה",
-      "gloss": "未修剪之果"
+      "gloss": "它未修剪樹上的葡萄"
     }
   ],
-  "timestamp": "2026-10-16T05:07:49.854178420Z",
+  "timestamp": "2026-10-16T22:50:32.940334853Z",
   "model": "glm-5.3"
 }

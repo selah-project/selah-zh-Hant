@@ -5,42 +5,11 @@
   "book": "judges",
   "lang": "zh-Hant",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ואצרפנו",
-      "rationale": "צרף 本義「熔煉金屬」：和合本作「察驗」，意譯本作「篩選」——冶金意象對飲水測試"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ואצרפנו",
-      "rationale": "單數後綴「我要熔煉他」指全體百姓，中文按語境譯「他們」"
-    },
-    {
-      "kind": "you",
-      "subject": "雅威對基甸",
-      "rationale": "雅威直接向基甸下指令"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ילך的重複",
-      "rationale": "「去」字在本節出現六次，正反兩次對句形成篩選的錘擊節奏"
-    }
-  ],
-  "translation": "雅威對基甸說：「百姓還是太多；你要帶他們下到水邊，我要在那裡為你察驗他們。將來我對你說『這人要與你同去』的，他就與你同去；凡我對你說『這人不可與你同去』的，他就不可去。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "bac4f7d8a929995e390d1bb600574bcefaa15bd0778d0bc58bb3c6b14e1dab01",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/7\/1-4.1792130260776.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威對基甸說：「人民還是太多；你要帶 ⟨את⟩ 他們下到水邊，我要在那裡為你熬煉他們。凡我對你說：『這人要與你同去』的，他就與你同去；凡我對你說：『這人不可與你同去』的，他就不去。」",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "於是說"
+      "gloss": "說"
     },
     {
       "surface": "יהוה",
@@ -60,7 +29,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "百姓"
+      "gloss": "人民"
     },
     {
       "surface": "רב",
@@ -68,12 +37,12 @@
     },
     {
       "surface": "הורד",
-      "gloss": "你要帶……下去"
+      "gloss": "帶……下"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "他們"
+      "gloss": "⟨את⟩",
+      "marks": "他們（人民）"
     },
     {
       "surface": "אל",
@@ -85,7 +54,7 @@
     },
     {
       "surface": "ואצרפנו",
-      "gloss": "我要察驗他"
+      "gloss": "我要熬煉"
     },
     {
       "surface": "לך",
@@ -97,15 +66,15 @@
     },
     {
       "surface": "והיה",
-      "gloss": "將來……的時候"
-    },
-    {
-      "surface": "אשר",
       "gloss": "凡"
     },
     {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
       "surface": "אמר",
-      "gloss": "我說"
+      "gloss": "說"
     },
     {
       "surface": "אליך",
@@ -117,11 +86,11 @@
     },
     {
       "surface": "ילך",
-      "gloss": "要與你同去"
+      "gloss": "要去"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ 與你同在"
+      "gloss": "⟨את⟩ 與你同"
     },
     {
       "surface": "הוא",
@@ -129,15 +98,15 @@
     },
     {
       "surface": "ילך",
-      "gloss": "就與你同去"
+      "gloss": "去"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ 與你同在"
+      "gloss": "⟨את⟩ 與你同去"
     },
     {
       "surface": "וכל",
-      "gloss": "而凡"
+      "gloss": "凡"
     },
     {
       "surface": "אשר",
@@ -145,7 +114,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "我說"
+      "gloss": "說"
     },
     {
       "surface": "אליך",
@@ -161,11 +130,11 @@
     },
     {
       "surface": "ילך",
-      "gloss": "不可與你同去"
+      "gloss": "可去"
     },
     {
       "surface": "עמך",
-      "gloss": "與你一起"
+      "gloss": "與你同"
     },
     {
       "surface": "הוא",
@@ -180,6 +149,6 @@
       "gloss": "去"
     }
   ],
-  "timestamp": "2026-10-16T05:57:40.779245350Z",
+  "timestamp": "2026-10-16T22:48:12.983777622Z",
   "model": "glm-5.3"
 }

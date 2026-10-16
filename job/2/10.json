@@ -5,32 +5,11 @@
   "book": "job",
   "lang": "zh-Hant",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "豈不…嗎",
-      "rationale": "希伯來文以 גם…לא 的反問結構，中文以反問句式補足語氣。"
-    },
-    {
-      "kind": "you",
-      "subject": "約伯對他的妻子說",
-      "rationale": "直接向特定對象發言。"
-    }
-  ],
-  "translation": "他對她說：「你說話像愚頑婦人中的一個所說的。我們從以羅欣手中領受 ⟨את⟩ 善，豈不領受 ⟨ואת⟩ 惡嗎？」在這一切的事上，約伯沒有以嘴唇犯罪。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "5f8f1a10775fe3c80875475fb5fa109b4e8355bb7580934029c869c434ddd4e7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/2\/9-12.1792145827035.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他對她說：「你說話像愚妄的婦人中的一位所說的。難道我們要從以羅欣手中領受 ⟨את⟩ 美福，卻不領受 ⟨את⟩ 災禍嗎？」在這一切的事上，約伯並沒有以他的嘴唇犯罪。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "於是他說"
+      "gloss": "他說"
     },
     {
       "surface": "אליה",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "כדבר",
-      "gloss": "如…說話"
+      "gloss": "像……說話"
     },
     {
       "surface": "אחת",
-      "gloss": "一個"
+      "gloss": "一位"
     },
     {
       "surface": "הנבלות",
-      "gloss": "愚頑的婦人"
+      "gloss": "愚妄的婦人"
     },
     {
       "surface": "תדברי",
@@ -54,24 +33,24 @@
     },
     {
       "surface": "גם",
-      "gloss": "豈"
+      "gloss": "難道"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "善"
+      "marks": "美福"
     },
     {
       "surface": "הטוב",
-      "gloss": "善"
+      "gloss": "美福"
     },
     {
       "surface": "נקבל",
-      "gloss": "我們領受"
+      "gloss": "我們要領受"
     },
     {
       "surface": "מאת",
-      "gloss": "從⟨את⟩"
+      "gloss": "從……手中 ⟨את⟩"
     },
     {
       "surface": "האלהים",
@@ -79,12 +58,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨ואת⟩",
-      "marks": "惡"
+      "gloss": "⟨את⟩",
+      "marks": "災禍"
     },
     {
       "surface": "הרע",
-      "gloss": "惡"
+      "gloss": "災禍"
     },
     {
       "surface": "לא",
@@ -92,19 +71,19 @@
     },
     {
       "surface": "נקבל",
-      "gloss": "領受"
+      "gloss": "我們領受"
     },
     {
       "surface": "בכל",
-      "gloss": "在一切"
+      "gloss": "在這一切"
     },
     {
       "surface": "זאת",
-      "gloss": "這"
+      "gloss": "的事上"
     },
     {
       "surface": "לא",
-      "gloss": "不"
+      "gloss": "沒有"
     },
     {
       "surface": "חטא",
@@ -116,9 +95,9 @@
     },
     {
       "surface": "בשפתיו",
-      "gloss": "以嘴唇"
+      "gloss": "以他的嘴唇"
     }
   ],
-  "timestamp": "2026-10-16T10:17:07.036577623Z",
+  "timestamp": "2026-10-16T22:42:05.117949619Z",
   "model": "glm-5.3"
 }

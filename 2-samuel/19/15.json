@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "人",
-      "rationale": "「差派人」的「人」字為中文語法所補，希伯來文只說「他們差遣到王那裡」"
-    },
-    {
-      "kind": "invitation",
-      "subject": "你回來吧",
-      "rationale": "猶大眾人以命令式呼喚王歸回"
-    }
-  ],
-  "translation": "他使猶大眾人的心傾向如同一人，他們就差派人到王那裡說：「你回來吧，你和你的眾僕人。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "e5b8ed1afdc95732665fdb2e7b2180debf2b559016d4fc85d84a7071c324b87e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/19\/13-16.1792132229661.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他扭轉了 ⟨את⟩ 猶大眾人的心，如同一個人的心；於是他們派人對王說：「王啊，請回來，你和你的眾僕人都回來。」",
   "tokens": [
     {
       "surface": "ויט",
-      "gloss": "他就使……傾向"
+      "gloss": "扭轉了"
     },
     {
       "surface": "את",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "所有的"
+      "gloss": "眾"
     },
     {
       "surface": "איש",
@@ -55,19 +34,19 @@
     },
     {
       "surface": "כאיש",
-      "gloss": "如同一人"
+      "gloss": "如同一個人"
     },
     {
       "surface": "אחד",
-      "gloss": "一人"
+      "gloss": "一個"
     },
     {
       "surface": "וישלחו",
-      "gloss": "他們就差派人"
+      "gloss": "於是他們派人"
     },
     {
       "surface": "אל",
-      "gloss": "到……那裡"
+      "gloss": "對"
     },
     {
       "surface": "המלך",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "שוב",
-      "gloss": "回來吧"
+      "gloss": "回來"
     },
     {
       "surface": "אתה",
@@ -83,13 +62,13 @@
     },
     {
       "surface": "וכל",
-      "gloss": "和所有的"
+      "gloss": "和你的眾"
     },
     {
       "surface": "עבדיך",
-      "gloss": "你的僕人"
+      "gloss": "僕人"
     }
   ],
-  "timestamp": "2026-10-16T06:30:29.662351253Z",
+  "timestamp": "2026-10-16T22:10:00.231820750Z",
   "model": "glm-5.3"
 }

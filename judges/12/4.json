@@ -5,32 +5,11 @@
   "book": "judges",
   "lang": "zh-Hant",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "פליטי אפרים אתם גלעד",
-      "rationale": "以法蓮辱罵基列人為『以法蓮的逃亡者』（KJV\/JPS），或如 Wycliffe 反讀為『基列是被逐出的以法蓮人』；罵句引發內戰。"
-    },
-    {
-      "kind": "elision",
-      "subject": "וילחם את",
-      "rationale": "此處 את 為介詞「與……爭戰」，非受詞記號，故以「與」譯出而不加記號。"
-    }
-  ],
-  "translation": "於是耶弗他聚集 ⟨את⟩ 基列所有的人，與以法蓮爭戰；基列的人擊打以法蓮，因為以法蓮人曾說：「你們基列人在以法蓮中間、在瑪拿西中間，不過是以法蓮的逃亡者。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "2ae1f282aa3d26a9e234f86191bba42cd9e56e0b08507a39e9c72bca81aacf91",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/12\/1-4.1792130514614.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "耶弗他召集了 ⟨את⟩ 基列所有的勇士，與以法蓮爭戰；基列人擊打了以法蓮人，因為他們曾說：「你們基列人在以法蓮中、在瑪拿西中，不過是以法蓮的逃亡者。」",
   "tokens": [
     {
       "surface": "ויקבץ",
-      "gloss": "他聚集"
+      "gloss": "召集了"
     },
     {
       "surface": "יפתח",
@@ -39,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "基列所有的人"
+      "marks": "基列所有的勇士"
     },
     {
       "surface": "כל",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "的人"
+      "gloss": "勇士"
     },
     {
       "surface": "גלעד",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "וילחם",
-      "gloss": "他爭戰"
+      "gloss": "與……爭戰"
     },
     {
       "surface": "את",
@@ -68,11 +47,11 @@
     },
     {
       "surface": "ויכו",
-      "gloss": "他們擊打"
+      "gloss": "擊打了"
     },
     {
       "surface": "אנשי",
-      "gloss": "的人"
+      "gloss": "人"
     },
     {
       "surface": "גלעד",
@@ -81,11 +60,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "以法蓮"
+      "marks": "以法蓮人"
     },
     {
       "surface": "אפרים",
-      "gloss": "以法蓮"
+      "gloss": "以法蓮人"
     },
     {
       "surface": "כי",
@@ -93,7 +72,7 @@
     },
     {
       "surface": "אמרו",
-      "gloss": "他們曾說"
+      "gloss": "曾說"
     },
     {
       "surface": "פליטי",
@@ -101,7 +80,7 @@
     },
     {
       "surface": "אפרים",
-      "gloss": "以法蓮"
+      "gloss": "以法蓮的"
     },
     {
       "surface": "אתם",
@@ -109,11 +88,11 @@
     },
     {
       "surface": "גלעד",
-      "gloss": "基列"
+      "gloss": "基列人"
     },
     {
       "surface": "בתוך",
-      "gloss": "在中間"
+      "gloss": "在……中"
     },
     {
       "surface": "אפרים",
@@ -121,13 +100,13 @@
     },
     {
       "surface": "בתוך",
-      "gloss": "在中間"
+      "gloss": "在……中"
     },
     {
       "surface": "מנשה",
       "gloss": "瑪拿西"
     }
   ],
-  "timestamp": "2026-10-16T06:01:54.615410602Z",
+  "timestamp": "2026-10-16T22:46:21.469360316Z",
   "model": "glm-5.3"
 }

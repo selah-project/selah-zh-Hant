@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "人",
-      "rationale": "הטמא והטהור指禮儀上不潔／潔淨的人，中文需補「人」字"
-    },
-    {
-      "kind": "substitution",
-      "subject": "瞪羚",
-      "rationale": "צבי是羚羊類動物，非家畜，故不受獻祭條例約束"
-    }
-  ],
-  "translation": "不過，正如瞪羚和鹿怎樣被吃，你也可以照樣吃牠；不潔淨的人和潔淨的人都可以同樣吃⟨牠⟩。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "8d1b3e713cb1d090b5abae5f7fbd39ad84d361799bd94892e407978fa3980d6a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/12\/21-24.1792128790678.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "只是，正如人吃 ⟨את⟩ 瞪羚和 ⟨את⟩ 雄鹿那樣，你也可以照樣吃牠；不潔淨的人 和潔淨的人 都可以一同吃牠。",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "不過"
+      "gloss": "只是"
     },
     {
       "surface": "כאשר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "יאכל",
-      "gloss": "被吃"
+      "gloss": "吃"
     },
     {
       "surface": "את",
@@ -52,11 +31,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "鹿"
+      "marks": "雄鹿"
     },
     {
       "surface": "האיל",
-      "gloss": "鹿"
+      "gloss": "雄鹿"
     },
     {
       "surface": "כן",
@@ -72,17 +51,17 @@
     },
     {
       "surface": "והטהור",
-      "gloss": "和潔淨的人"
+      "gloss": "潔淨的人"
     },
     {
       "surface": "יחדו",
-      "gloss": "都同樣"
+      "gloss": "一同"
     },
     {
       "surface": "יאכלנו",
-      "gloss": "可以吃牠"
+      "gloss": "吃牠"
     }
   ],
-  "timestamp": "2026-10-16T05:33:10.679203206Z",
+  "timestamp": "2026-10-16T22:13:11.949894323Z",
   "model": "glm-5.3"
 }

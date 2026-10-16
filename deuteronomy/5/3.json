@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אתנו",
-      "rationale": "此 את（H854）是「與」的介詞而非受詞記號（H853），同形異詞；譯為「與我們」並保留 ⟨את⟩ 記號"
-    },
-    {
-      "kind": "addition",
-      "subject": "〈立的〉",
-      "rationale": "中文句末需要補出動詞「立」，希伯來由前面的 כרת 承擔"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "כרת…כרת",
-      "rationale": "5:2 與 5:3 重複「切／立約」動詞，強調約是此刻立定的"
-    }
-  ],
-  "translation": "雅威與我們的祖先立這約，不是 ⟨את⟩ 與祖先立的；乃是與我們——我們這些今日在這裡、全都活著的人 ⟨את⟩ 立的。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "24ccd86a492357d5404e135610d0360475aac33abb530a37833f9221eb3add5f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/5\/1-4.1792128629239.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威不是與 ⟨את⟩ 我們的列祖立這約，而是與我們——我們這些今日在此、全都是活著的人——立 ⟨את⟩ 這約。",
   "tokens": [
     {
       "surface": "לא",
@@ -40,15 +14,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我們的祖先"
+      "marks": "我們的列祖"
     },
     {
       "surface": "אבתינו",
-      "gloss": "我們的祖先"
+      "gloss": "我們的列祖"
     },
     {
       "surface": "כרת",
-      "gloss": "立（切）"
+      "gloss": "立（ cut 「切立」之約）"
     },
     {
       "surface": "יהוה",
@@ -69,15 +43,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "乃是"
+      "gloss": "而是"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩與我們"
+      "gloss": "⟨את⟩ 我們"
     },
     {
       "surface": "אנחנו",
-      "gloss": "我們"
+      "gloss": "我們這些"
     },
     {
       "surface": "אלה",
@@ -85,7 +59,7 @@
     },
     {
       "surface": "פה",
-      "gloss": "在這裡"
+      "gloss": "在此"
     },
     {
       "surface": "היום",
@@ -100,6 +74,6 @@
       "gloss": "活著"
     }
   ],
-  "timestamp": "2026-10-16T05:30:29.240131388Z",
+  "timestamp": "2026-10-16T22:15:45.208357134Z",
   "model": "glm-5.3"
 }

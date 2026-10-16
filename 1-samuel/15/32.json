@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "מעדנת",
-      "rationale": "מעדנה 的複數作副詞用法，全塔納赫僅此一處；KJV 'delicately'、ASV 'cheerfully'、JPS 'in chains' 各異"
-    },
-    {
-      "kind": "crux",
-      "subject": "סר מר המות",
-      "rationale": "亞甲以為「死亡的苦楚退去了」（過去式）還是臨近（JPS 'at hand'）——反諷的雙關，下節他即被殺"
-    }
-  ],
-  "translation": "撒母耳說：「把亞瑪力王亞甲帶到我這裡來。」亞甲就歡歡喜喜地〈走〉到他面前。亞甲說：「死亡的苦楚果然退去了。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "3f18b0421dd3e0ed1bb12f5cd1505c7683195b2685a70c11b338d4a6e86b90ee",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/15\/29-32.1792131107585.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "撒母耳說：「把亞瑪力王亞甲帶到我這裡來。」亞甲就歡歡喜喜地走到他面前；亞甲說：「死亡的苦楚確然挪去了。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "הגישו",
-      "gloss": "把……帶到"
+      "gloss": "帶到"
     },
     {
       "surface": "אלי",
@@ -47,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "亞瑪力王亞甲"
+      "marks": "亞甲"
     },
     {
       "surface": "אגג",
@@ -63,11 +42,11 @@
     },
     {
       "surface": "וילך",
-      "gloss": "就走了"
+      "gloss": "就走到"
     },
     {
       "surface": "אליו",
-      "gloss": "到他面前"
+      "gloss": "他面前"
     },
     {
       "surface": "אגג",
@@ -87,11 +66,11 @@
     },
     {
       "surface": "אכן",
-      "gloss": "果然"
+      "gloss": "確然"
     },
     {
       "surface": "סר",
-      "gloss": "退去了"
+      "gloss": "挪去"
     },
     {
       "surface": "מר",
@@ -99,9 +78,9 @@
     },
     {
       "surface": "המות",
-      "gloss": "死亡的"
+      "gloss": "死亡"
     }
   ],
-  "timestamp": "2026-10-16T06:11:47.587152023Z",
+  "timestamp": "2026-10-16T22:00:42.359203086Z",
   "model": "glm-5.3"
 }

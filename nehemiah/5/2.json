@@ -5,40 +5,19 @@
   "book": "nehemiah",
   "lang": "zh-Hant",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "關係詞在中文中以「有人說」的結構吸收，無對應詞。"
-    },
-    {
-      "kind": "alternative",
-      "subject": "ונקחה",
-      "rationale": "可讀作「我們去買」（和合本）或「我們去取」；字面是「取」，也含借貸之意。"
-    }
-  ],
-  "translation": "也有人說：「我們的兒子和女兒眾多，我們去取糧食，好吃，好存活。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "3e4851fd4e7ef30bc5bc4836abad8c6a6d0fede2e092517c8fc697a5af5f4465",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nehemiah\/5\/1-4.1792148040211.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "也有的人說：「我們的兒女眾多，我們要去取得糧食，好吃喝存活。」」",
   "tokens": [
     {
-      "surface": "וגש",
+      "surface": "ויש",
       "gloss": "也有"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "的人"
     },
     {
       "surface": "אמרים",
-      "gloss": "人說"
+      "gloss": "說"
     },
     {
       "surface": "בנינו",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "ונקחה",
-      "gloss": "我們去取"
+      "gloss": "我們要取得"
     },
     {
       "surface": "דגן",
@@ -70,9 +49,9 @@
     },
     {
       "surface": "ונחיה",
-      "gloss": "好存活"
+      "gloss": "存活"
     }
   ],
-  "timestamp": "2026-10-16T10:54:00.212324313Z",
+  "timestamp": "2026-10-16T22:52:35.536480091Z",
   "model": "glm-5.3"
 }

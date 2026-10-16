@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שכב ישכב",
-      "rationale": "不定式絕對加動詞的疊用結構，加強語氣：「確實與她同寢」"
-    },
-    {
-      "kind": "substitution",
-      "subject": "月經污穢",
-      "rationale": "נדה字根是「隔離、排除」，指經期的禮儀不潔狀態"
-    },
-    {
-      "kind": "measurement",
-      "subject": "七天",
-      "rationale": "不潔的時限為七日，與摸她之物僅到晚上不同"
-    }
-  ],
-  "translation": "人若與她同寢，她的月經污穢臨到他身上，他必不潔淨七天；他所躺臥的每一張床都必不潔淨。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "504572687b9da9d4f6863a4a6d774b62d2e121003b4b6971da9b8754c3d8cb1d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/15\/21-24.1792127050150.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "若有人與她同寢，⟨את⟩ 她的月經污穢就臨到他身上，他必不潔淨七天；他躺臥的每一張床都必不潔淨。",
   "tokens": [
     {
       "surface": "ואם",
@@ -39,24 +13,24 @@
     },
     {
       "surface": "שכב",
-      "gloss": "躺臥"
+      "gloss": "確實同寢"
     },
     {
       "surface": "ישכב",
-      "gloss": "同寢"
+      "gloss": "躺臥"
     },
     {
       "surface": "איש",
-      "gloss": "人"
+      "gloss": "有人"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "她"
+      "marks": "她（受詞記號所指）"
     },
     {
       "surface": "ותהי",
-      "gloss": "臨到"
+      "gloss": "就臨到"
     },
     {
       "surface": "נדתה",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "המשכב",
-      "gloss": "張床"
+      "gloss": "床"
     },
     {
       "surface": "אשר",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "ישכב",
-      "gloss": "躺臥"
+      "gloss": "他躺臥"
     },
     {
       "surface": "עליו",
@@ -100,9 +74,9 @@
     },
     {
       "surface": "יטמא",
-      "gloss": "都必不潔淨"
+      "gloss": "必不潔淨"
     }
   ],
-  "timestamp": "2026-10-16T05:04:10.151341931Z",
+  "timestamp": "2026-10-16T22:48:59.479060283Z",
   "model": "glm-5.3"
 }

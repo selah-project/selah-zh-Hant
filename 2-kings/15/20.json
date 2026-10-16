@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ויצא",
-      "rationale": "字面「使……出去」，此處意為「徵收／榨取」銀子。"
-    },
-    {
-      "kind": "measurement",
-      "subject": "五十舍客勒銀子",
-      "rationale": "每人分攤的具體數額。"
-    }
-  ],
-  "translation": "米拿現向以色列徵收這銀子，向所有勇士富戶，每人五十舍客勒銀子，好給亞述王。於是亞述王回去了，沒有留在那地。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a7eaf583d94d65f61c890bb6a731e8479538c4e185b43e15e6d5196f11368561",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/15\/17-20.1792134001347.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "米拿現從以色列、從一切勇士財主身上取出銀子來，給亞述王，每人五十舍客勒銀子；亞述王就回去了，沒有留在那地。",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "他就徵收了"
+      "gloss": "取出"
     },
     {
       "surface": "מנחם",
@@ -39,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "這銀子"
+      "marks": "銀子"
     },
     {
       "surface": "הכסף",
-      "gloss": "這銀子"
+      "gloss": "銀子"
     },
     {
       "surface": "על",
-      "gloss": "向"
+      "gloss": "從……身上"
     },
     {
       "surface": "ישראל",
@@ -55,11 +34,11 @@
     },
     {
       "surface": "על",
-      "gloss": "向"
+      "gloss": "從……身上"
     },
     {
       "surface": "כל",
-      "gloss": "所有"
+      "gloss": "一切"
     },
     {
       "surface": "גבורי",
@@ -67,11 +46,11 @@
     },
     {
       "surface": "החיל",
-      "gloss": "富戶"
+      "gloss": "財主"
     },
     {
       "surface": "לתת",
-      "gloss": "為要給"
+      "gloss": "來給"
     },
     {
       "surface": "למלך",
@@ -99,11 +78,11 @@
     },
     {
       "surface": "אחד",
-      "gloss": "一"
+      "gloss": "一人"
     },
     {
       "surface": "וישב",
-      "gloss": "他就回去了"
+      "gloss": "就回去了"
     },
     {
       "surface": "מלך",
@@ -115,7 +94,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "而沒有"
+      "gloss": "沒有"
     },
     {
       "surface": "עמד",
@@ -130,6 +109,6 @@
       "gloss": "在那地"
     }
   ],
-  "timestamp": "2026-10-16T07:00:01.349431638Z",
+  "timestamp": "2026-10-16T22:06:18.269636551Z",
   "model": "glm-5.3"
 }

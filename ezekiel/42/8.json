@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈長〉",
-      "rationale": "原文第二句僅「一百肘」，無動詞；中文補「長」以成句"
-    },
-    {
-      "kind": "measurement",
-      "subject": "五十肘／一百肘",
-      "rationale": "旁屋與殿前長度的對比丈量，五十肘對一百肘"
-    }
-  ],
-  "translation": "因為屬外院之旁屋的長度是五十肘，而看哪，在殿前面的〈長〉一百肘。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "fd938c5922968df263bd710e4a0007e74253d68c8f95eec7451012d2e33eec22",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/42\/5-8.1792139172450.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "因為那朝向外院的廂房的長度是五十肘，看哪，在殿的前面是一百肘。",
   "tokens": [
     {
       "surface": "כי",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "הלשכות",
-      "gloss": "旁屋"
+      "gloss": "廂房"
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "那"
     },
     {
       "surface": "לחצר",
-      "gloss": "屬於…院子"
+      "gloss": "朝向外院"
     },
     {
       "surface": "החצונה",
-      "gloss": "外面的"
+      "gloss": "外"
     },
     {
       "surface": "חמשים",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "והנה",
-      "gloss": "而看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "על",
-      "gloss": "在…之上"
+      "gloss": "在"
     },
     {
       "surface": "פני",
@@ -85,6 +64,6 @@
       "gloss": "肘"
     }
   ],
-  "timestamp": "2026-10-16T08:26:12.451023040Z",
+  "timestamp": "2026-10-16T22:25:28.429598937Z",
   "model": "glm-5.3"
 }

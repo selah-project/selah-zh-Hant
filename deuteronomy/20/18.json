@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "神明",
-      "rationale": "לאלהיהם指異教諸神，依紀律用「神明」而非以羅欣。"
-    },
-    {
-      "kind": "addition",
-      "subject": "以致",
-      "rationale": "וְחֲטָאתֶם的結果語氣，中文加連詞表明。"
-    }
-  ],
-  "translation": "免得他們教導你們去行他們為自己的神明所行的一切可憎之事，以致你們得罪雅威你們的以羅欣。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "1a1d65c0a3335f74ba6766fac2daffbabbc9c2e411125f6611a255f321d60f00",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/20\/17-20.1792128971393.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "免得他們教導 ⟨את⟩ 你們去行他們為他們的神明所行的一切可憎之事，你們就得罪雅威──你們的以羅欣。",
   "tokens": [
     {
       "surface": "למען",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨它們⟩"
+      "gloss": "（關係詞，融入句中）"
     },
     {
       "surface": "לא",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ 你們",
+      "gloss": "⟨את⟩",
       "marks": "你們"
     },
     {
@@ -63,11 +42,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "那些"
+      "gloss": "（關係詞，融入句中）"
     },
     {
       "surface": "עשו",
-      "gloss": "他們行了"
+      "gloss": "所行的"
     },
     {
       "surface": "לאלהיהם",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "וחטאתם",
-      "gloss": "以致你們得罪"
+      "gloss": "你們就得罪"
     },
     {
       "surface": "ליהוה",
@@ -86,6 +65,6 @@
       "gloss": "你們的以羅欣"
     }
   ],
-  "timestamp": "2026-10-16T05:36:11.394831027Z",
+  "timestamp": "2026-10-16T22:14:00.498436131Z",
   "model": "glm-5.3"
 }

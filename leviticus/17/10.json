@@ -5,37 +5,11 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "我必向……變臉",
-      "rationale": "נתתי פני ב 直譯「我把我的臉放在……之上／對抗」，希伯來憤怒成語。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "性命",
-      "rationale": "נפש 直譯「呼吸的活物、生命氣息」，非希臘式靈魂。"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתה",
-      "rationale": "受詞記號 אתה 指向那吃血的人，中文語序中以記號保留。"
-    }
-  ],
-  "translation": "以色列家中任何人，或寄居在他們中間的寄居者，凡吃任何血的，我必向那吃 ⟨את⟩ 血的性命變臉，把那人從她的民中剪除。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "f19a24019036afff89b4c8810e97f6bf4a2359bc1cad1336dfeb65665e507cfe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/17\/9-12.1792127079346.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "凡以色列家中的人，或寄居在他們中間的寄居者，凡吃任何血的，我必向那吃血的性命變臉，把他從他百姓中間剪除。",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "而任何人"
+      "gloss": "凡……的人"
     },
     {
       "surface": "איש",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "ומן",
-      "gloss": "和從"
+      "gloss": "或從"
     },
     {
       "surface": "הגר",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "הגר",
-      "gloss": "寄居的"
+      "gloss": "寄居"
     },
     {
       "surface": "בתוכם",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "ונתתי",
-      "gloss": "我必設"
+      "gloss": "我必設立"
     },
     {
       "surface": "פני",
@@ -95,16 +69,16 @@
     },
     {
       "surface": "האכלת",
-      "gloss": "吃的"
+      "gloss": "那吃的"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "血"
+      "marks": "那血"
     },
     {
       "surface": "הדם",
-      "gloss": "血"
+      "gloss": "那血"
     },
     {
       "surface": "והכרתי",
@@ -113,17 +87,17 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "從她的民中"
+      "marks": "從他百姓中間"
     },
     {
       "surface": "מקרב",
-      "gloss": "從其中"
+      "gloss": "從……中間"
     },
     {
       "surface": "עמה",
-      "gloss": "她的民"
+      "gloss": "他的百姓"
     }
   ],
-  "timestamp": "2026-10-16T05:04:39.347638029Z",
+  "timestamp": "2026-10-16T22:49:18.642655053Z",
   "model": "glm-5.3"
 }

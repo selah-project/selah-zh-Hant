@@ -5,38 +5,7 @@
   "book": "daniel",
   "lang": "zh-Hant",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כגילכם",
-      "rationale": "גיל 可作「年歲之輪（同齡）」或「喜樂」，諸本取「同齡」，KJV 邊註作「your sort」"
-    },
-    {
-      "kind": "crux",
-      "subject": "זעפים",
-      "rationale": "字根是「沸騰、發怒」，指面色難看——「愁苦」（JPS）與「消瘦」（BSB）兩讀並存"
-    },
-    {
-      "kind": "you",
-      "subject": "對但以理",
-      "rationale": "太監長直接回覆但以理的請求"
-    },
-    {
-      "kind": "elision",
-      "subject": "אדני",
-      "rationale": "אדני 指人（君王），依規則譯「我主」而非「阿多奈」"
-    }
-  ],
-  "translation": "太監長對但以理說：「我懼怕我主君王，就是他派定了 ⟨את⟩ 你們的食物和 ⟨את⟩ 你們的飲料的；何必讓他看見你們的面色，比那些與你們同齡的少年人愁苦呢？這樣，你們就使 ⟨את⟩ 我的頭在王那裡擔罪了。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "cca800926c12a3eedccf394fc6fd6cffd1e650b94aa0a6fa04045bc6e87ad545",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/daniel\/1\/9-12.1792147325760.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "太監長對但以理說：「我懼怕 ⟨את⟩ 我主君王，他已指派 ⟨את⟩ 你們的食物和 ⟨את⟩ 你們的飲料；他為何看見 ⟨את⟩ 你們的面色比你們同齡的少年人愁苦呢？這樣，你們就使 ⟨את⟩ 我的頭在王面前擔罪了。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -44,11 +13,11 @@
     },
     {
       "surface": "שר",
-      "gloss": "長官"
+      "gloss": "長"
     },
     {
       "surface": "הסריסים",
-      "gloss": "太監們"
+      "gloss": "太監"
     },
     {
       "surface": "לדניאל",
@@ -65,7 +34,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我主"
+      "marks": "我主君王"
     },
     {
       "surface": "אדני",
@@ -77,11 +46,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "就是……的"
+      "gloss": "他"
     },
     {
       "surface": "מנה",
-      "gloss": "派定"
+      "gloss": "指派"
     },
     {
       "surface": "את",
@@ -103,7 +72,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "因為"
     },
     {
       "surface": "למה",
@@ -120,7 +89,7 @@
     },
     {
       "surface": "פניכם",
-      "gloss": "你們的面色"
+      "gloss": "你們的面"
     },
     {
       "surface": "זעפים",
@@ -132,15 +101,15 @@
     },
     {
       "surface": "הילדים",
-      "gloss": "那些少年人"
+      "gloss": "少年人"
     },
     {
       "surface": "אשר",
-      "gloss": "就是……的"
+      "gloss": "那些與"
     },
     {
       "surface": "כגילכם",
-      "gloss": "與你們同齡"
+      "gloss": "你們同齡的"
     },
     {
       "surface": "וחיבתם",
@@ -157,9 +126,9 @@
     },
     {
       "surface": "למלך",
-      "gloss": "在王那裡"
+      "gloss": "於王"
     }
   ],
-  "timestamp": "2026-10-16T10:42:05.761141228Z",
+  "timestamp": "2026-10-16T22:12:01.497828953Z",
   "model": "glm-5.3"
 }

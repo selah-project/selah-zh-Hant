@@ -5,44 +5,23 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לא יוסף עוד",
-      "rationale": "直譯「不再添加」＝不再繼續尋找；希伯來慣用『添加』表『繼續做』"
-    },
-    {
-      "kind": "addition",
-      "subject": "有人",
-      "rationale": "被動式 ויגד 中文需施事，補不定指的「有人」"
-    }
-  ],
-  "translation": "有人告訴掃羅，大衛逃到迦特去了，他就不再尋找他。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "527976c3c2d06e0af59fec4758d4ad651b778cfebf7d4266e8a548d0d226bce6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/27\/1-4.1792131563867.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "有人告訴掃羅大衛已逃到迦特，他就不再添加去尋索他。",
   "tokens": [
     {
       "surface": "ויגד",
-      "gloss": "被告知"
+      "gloss": "告訴"
     },
     {
       "surface": "לשאול",
-      "gloss": "給掃羅"
+      "gloss": "掃羅"
     },
     {
       "surface": "כי",
-      "gloss": "說"
+      "gloss": "已"
     },
     {
       "surface": "ברח",
-      "gloss": "逃了"
+      "gloss": "逃"
     },
     {
       "surface": "דוד",
@@ -53,16 +32,12 @@
       "gloss": "迦特"
     },
     {
-      "surface": "ויגד",
-      "gloss": ""
-    },
-    {
       "surface": "ולא",
-      "gloss": "不再"
+      "gloss": "就不再"
     },
     {
       "surface": "יוסף",
-      "gloss": "增添"
+      "gloss": "添加"
     },
     {
       "surface": "עוד",
@@ -70,9 +45,9 @@
     },
     {
       "surface": "לבקשו",
-      "gloss": "尋找他"
+      "gloss": "去尋索他"
     }
   ],
-  "timestamp": "2026-10-16T06:19:23.869416230Z",
+  "timestamp": "2026-10-16T22:02:14.864623700Z",
   "model": "glm-5.3"
 }

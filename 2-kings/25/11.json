@@ -5,37 +5,16 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "הנפלים…נפלו",
-      "rationale": "「投奔者——投奔了」同詞根重複，字面「墜落者——墜落於巴比倫王」；譯文以「逃亡者——投奔」保留關聯。"
-    },
-    {
-      "kind": "translation",
-      "subject": "רב טבחים",
-      "rationale": "字面「屠宰者之長」，沿用「護衛長」。"
-    }
-  ],
-  "translation": "護衛長尼布撒拉旦把城中所剩的百姓、投降巴比倫王的逃亡者，以及其餘的群眾，都擄去了。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "650b1b5144749519842384e6b9d6ed3cc418075f9bdd6a7cf264c2824ea6e756",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/25\/9-12.1792134373366.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "至於 ⟨את⟩ 城中剩下的百姓餘數、⟨את⟩ 那些投投降巴比倫王的投降者、以及 ⟨את⟩ 其餘的民眾，護衛長尼布撒拉旦都擄去〈了〉。",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "城中所剩的百姓"
+      "marks": "剩下的百姓餘數"
     },
     {
       "surface": "יתר",
-      "gloss": "所剩的"
+      "gloss": "餘數"
     },
     {
       "surface": "העם",
@@ -52,11 +31,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "投降巴比倫王的逃亡者"
+      "marks": "投降者"
     },
     {
       "surface": "הנפלים",
-      "gloss": "逃亡者"
+      "gloss": "投降者"
     },
     {
       "surface": "אשר",
@@ -64,11 +43,11 @@
     },
     {
       "surface": "נפלו",
-      "gloss": "投奔"
+      "gloss": "投降"
     },
     {
       "surface": "על",
-      "gloss": "到"
+      "gloss": "歸向"
     },
     {
       "surface": "המלך",
@@ -81,7 +60,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "其餘的群眾"
+      "marks": "其餘的民眾"
     },
     {
       "surface": "יתר",
@@ -89,7 +68,7 @@
     },
     {
       "surface": "ההמון",
-      "gloss": "群眾"
+      "gloss": "民眾"
     },
     {
       "surface": "הגלה",
@@ -108,6 +87,6 @@
       "gloss": "護衛"
     }
   ],
-  "timestamp": "2026-10-16T07:06:13.367331331Z",
+  "timestamp": "2026-10-16T22:07:20.913549003Z",
   "model": "glm-5.3"
 }

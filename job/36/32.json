@@ -5,41 +5,15 @@
   "book": "job",
   "lang": "zh-Hant",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "目標",
-      "rationale": "במפגיע 字面「使之撞擊」，受詞未言明，中文補出目標"
-    },
-    {
-      "kind": "crux",
-      "subject": "כפים",
-      "rationale": "「他用手掌遮蔽光」（雙數）抑或如 KJV「他用雲遮蔽光」（改讀 כפים 為相似的「厚雲」），譯本分歧著名"
-    },
-    {
-      "kind": "substitution",
-      "subject": "光",
-      "rationale": "אור 在此雷暴語境指閃電"
-    }
-  ],
-  "translation": "他用兩手掌遮蔽光，又吩咐它擊中〈目標〉。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a416a156a1bade8ccc93aadc04ba34778396e301de89262bf9ce330b6f06ea57",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/job\/36\/29-32.1792146454883.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他用雙手掌遮蔽了光，又對它下令，使它擊中目標。",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "用"
+      "gloss": "在……之上"
     },
     {
       "surface": "כפים",
-      "gloss": "兩手掌"
+      "gloss": "手掌"
     },
     {
       "surface": "כסה",
@@ -51,17 +25,17 @@
     },
     {
       "surface": "ויצו",
-      "gloss": "又吩咐"
+      "gloss": "又下令"
     },
     {
       "surface": "עליה",
-      "gloss": "它"
+      "gloss": "對它"
     },
     {
       "surface": "במפגיע",
-      "gloss": "擊中〈目標〉"
+      "gloss": "使它擊中目標"
     }
   ],
-  "timestamp": "2026-10-16T10:27:34.884172105Z",
+  "timestamp": "2026-10-16T22:42:13.147775459Z",
   "model": "glm-5.3"
 }

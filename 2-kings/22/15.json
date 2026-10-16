@@ -5,23 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "האישׁ",
-      "rationale": "『那人』——不稱『王』，戶勒大刻意用低調稱呼約西亞；各譯本皆保留『那 man』"
-    }
-  ],
-  "translation": "她對他們說：「雅威以色列的以羅欣如此說：『你們去告訴那差你們到我這裡來的人",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "bcf8ea03a4703de88b9f98c2e660a6bcbb694ce4e748ede8e85f7372ac4f5f4a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/22\/13-16.1792134338099.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "她對他們說：「雅威——以色列的以羅欣——如此說：你們去對那差遣你們到我這裡來的人說：",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -45,7 +29,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "的以羅欣"
+      "gloss": "以羅欣"
     },
     {
       "surface": "ישראל",
@@ -53,11 +37,11 @@
     },
     {
       "surface": "אמרו",
-      "gloss": "你們……告訴"
+      "gloss": "你們要說"
     },
     {
       "surface": "לאיש",
-      "gloss": "那人"
+      "gloss": "對那 人"
     },
     {
       "surface": "אשר",
@@ -65,11 +49,11 @@
     },
     {
       "surface": "שלח",
-      "gloss": "差"
+      "gloss": "差遣了"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩你們",
+      "gloss": "⟨את⟩",
       "marks": "你們"
     },
     {
@@ -77,6 +61,6 @@
       "gloss": "到我這裡來"
     }
   ],
-  "timestamp": "2026-10-16T07:05:38.101006715Z",
+  "timestamp": "2026-10-16T22:06:52.276347984Z",
   "model": "glm-5.3"
 }

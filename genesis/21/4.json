@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "八天",
-      "rationale": "בן שמנת ימים 直譯「八天之子」，是精確的日齡計數"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "צוה אתו 的受詞記號指亞伯拉罕，中文以代詞「他」承接，僅以記號保留"
-    }
-  ],
-  "translation": "亞伯拉罕給以羅欣所吩咐他的，在他的兒子以撒生下來八天的時候，行了割禮 ⟨את⟩ 以撒。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "cd8243c2b20d6e3a961189ee6c25caf43fcc61abdb85e6ece7cf86bd398351e6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/21\/1-4.1792124945524.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "亞伯拉罕給他的兒子以撒行了割禮，他⟨是⟩八天的兒子，正如以羅欣所吩咐他⟨的⟩。",
   "tokens": [
     {
       "surface": "וימל",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "……歲的"
+      "gloss": "兒子"
     },
     {
       "surface": "שמנת",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "照……所吩咐的"
+      "gloss": "正如"
     },
     {
       "surface": "צוה",
@@ -71,14 +50,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "他"
+      "gloss": "⟨את⟩他",
+      "marks": "他（受吩咐的亞伯拉罕）"
     },
     {
       "surface": "אלהים",
       "gloss": "以羅欣"
     }
   ],
-  "timestamp": "2026-10-16T04:29:05.525449078Z",
+  "timestamp": "2026-10-16T22:27:55.236481043Z",
   "model": "glm-5.3"
 }

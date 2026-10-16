@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "zh-Hant",
   "chapter": 54,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈你〉",
-      "rationale": "希伯來文無主語，中文補出"
-    },
-    {
-      "kind": "elision",
-      "subject": "טוב",
-      "rationale": "「善」的主語可指名或指雅威，譯文補「你」以通順"
-    }
-  ],
-  "translation": "我要以甘心祭獻給你；雅威啊，我要稱謝你的名，因為〈你〉本為善。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c9916c3c9d03ce48d8b67c3e61a67a4962c82a16f37458eb3315ee12d2574cf2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/psalms\/54\/5-8.1792143896050.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我要甘心獻祭給你，我要稱謝你的名——雅威，因為它是好的。",
   "tokens": [
     {
       "surface": "בנדבה",
-      "gloss": "以甘心祭"
+      "gloss": "甘心"
     },
     {
       "surface": "אזבחה",
@@ -58,9 +37,9 @@
     },
     {
       "surface": "טוב",
-      "gloss": "本為善"
+      "gloss": "是好的"
     }
   ],
-  "timestamp": "2026-10-16T09:44:56.051010598Z",
+  "timestamp": "2026-10-16T22:59:05.578629984Z",
   "model": "glm-5.3"
 }

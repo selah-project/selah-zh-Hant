@@ -5,59 +5,33 @@
   "book": "2-chronicles",
   "lang": "zh-Hant",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אתו",
-      "rationale": "此處 אתו 是介詞「與他」（H854），非受詞記號；譯文以「與他」融於句中，詞元對齊仍記 ⟨את⟩"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הכביד／הקל",
-      "rationale": "「使沉重」對「使輕省」，一重一輕的對比貫穿 9–11 節"
-    },
-    {
-      "kind": "idiom",
-      "subject": "小拇指比腰粗",
-      "rationale": "קטני 字面為「我的細小」，指小指；比喻力量遠勝父親"
-    }
-  ],
-  "translation": "那與他一同長大的少年人對他說：「你要這樣對那曾對你說話的民說——『你父親使我們的軛沉重，你卻要為我們減輕它』——你要這樣對他們說：『我的小拇指比我父親的腰還粗。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "f88176b44a6d2a9f09a34db517896b256b1709b9215f0d40ba610adbec4bdba9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/10\/9-12.1792149290116.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "與他一起長大的年輕人對他說：「你要這樣對那百姓說，就是對你說話的百姓：『你父親使我們的軛沉重，你卻要減輕我們〈的〉重擔』；你要這樣對他們說：『我的小拇指比我父親的腰還粗。』」",
   "tokens": [
     {
       "surface": "וידברו",
-      "gloss": "他們說"
+      "gloss": "對他說"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩他",
-      "marks": "與他（一同長大／對他說）"
+      "gloss": "⟨את⟩",
+      "marks": "他"
     },
     {
       "surface": "הילדים",
-      "gloss": "少年人"
+      "gloss": "年輕人"
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "就是"
     },
     {
       "surface": "גדלו",
-      "gloss": "一同長大"
+      "gloss": "長大"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩他",
-      "marks": "與他"
+      "gloss": "⟨את⟩",
+      "marks": "他"
     },
     {
       "surface": "לאמר",
@@ -73,15 +47,15 @@
     },
     {
       "surface": "לעם",
-      "gloss": "對那民"
+      "gloss": "對那百姓"
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "他們"
     },
     {
       "surface": "דברו",
-      "gloss": "曾說話"
+      "gloss": "說話"
     },
     {
       "surface": "אליך",
@@ -118,7 +92,7 @@
     },
     {
       "surface": "מעלינו",
-      "gloss": "從我們身上"
+      "gloss": "離開我們"
     },
     {
       "surface": "כה",
@@ -138,7 +112,7 @@
     },
     {
       "surface": "עבה",
-      "gloss": "還粗"
+      "gloss": "粗"
     },
     {
       "surface": "ממתני",
@@ -149,6 +123,6 @@
       "gloss": "我父親"
     }
   ],
-  "timestamp": "2026-10-16T11:14:50.117475650Z",
+  "timestamp": "2026-10-16T22:02:37.922281649Z",
   "model": "glm-5.3"
 }

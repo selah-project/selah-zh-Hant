@@ -5,36 +5,15 @@
   "book": "joshua",
   "lang": "zh-Hant",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ימין ושמאול",
-      "rationale": "「右與左」是希伯來成語，指任何方向的偏離"
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "約書亞對以色列會眾的臨終勸勉，直接的命令語氣"
-    }
-  ],
-  "translation": "你們要非常剛強，謹守並遵行寫在摩西妥拉之書上的一切，不可偏離它，向右或向左。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "5f5a2ed8404013cbe60c3c7ed3c6193131bb971a95de5526e700e35030e42703",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/23\/5-8.1792130002950.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你們要大大剛強，謹守並遵行摩西妥拉書上所寫的一切，不可偏離它，向右或向左。",
   "tokens": [
     {
-      "surface": "ווחזקתם",
+      "surface": "וחזקתם",
       "gloss": "你們要剛強"
     },
     {
-      "surface": "ומאד",
-      "gloss": "非常"
+      "surface": "מאד",
+      "gloss": "大大地"
     },
     {
       "surface": "לשמר",
@@ -42,12 +21,12 @@
     },
     {
       "surface": "ולעשות",
-      "gloss": "遵行"
+      "gloss": "並遵行"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "一切"
+      "marks": "一切（所寫的）"
     },
     {
       "surface": "כל",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "בספר",
-      "gloss": "在……之書上"
+      "gloss": "在……書上"
     },
     {
       "surface": "תורת",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "לבלתי",
-      "gloss": "免得"
+      "gloss": "不可"
     },
     {
       "surface": "סור",
@@ -79,17 +58,17 @@
     },
     {
       "surface": "ממנו",
-      "gloss": "離它"
+      "gloss": "離開它"
     },
     {
       "surface": "ימין",
-      "gloss": "右"
+      "gloss": "向右"
     },
     {
       "surface": "ושמאול",
-      "gloss": "或左"
+      "gloss": "或向左"
     }
   ],
-  "timestamp": "2026-10-16T05:53:22.951104611Z",
+  "timestamp": "2026-10-16T22:44:13.279800560Z",
   "model": "glm-5.3"
 }

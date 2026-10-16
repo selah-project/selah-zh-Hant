@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "以色列",
-      "rationale": "全段咒詛直接向「你」（以色列）發言。"
-    },
-    {
-      "kind": "addition",
-      "subject": "破折號",
-      "rationale": "中文以破折號引出雅威你的以羅欣，作「這名」的同位語。"
-    }
-  ],
-  "translation": "你若不謹守遵行這妥拉書上所寫的一切話，去敬畏這榮耀可畏的名——雅威你的以羅欣——",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "7b75ced901d03558e44795d428faafe94ade63ab081581a537a68576b5b7242f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/28\/57-60.1792129159279.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你若不謹守遵行這妥拉的一切話語——就是寫在這書上的——去敬畏這榮耀可畏的名，雅威你的以羅欣：那麼（申 28:59）",
   "tokens": [
     {
       "surface": "אם",
@@ -38,16 +17,16 @@
     },
     {
       "surface": "תשמר",
-      "gloss": "你謹守"
+      "gloss": "謹守"
     },
     {
       "surface": "לעשות",
-      "gloss": "去遵行"
+      "gloss": "遵行"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "一切話"
+      "marks": "這妥拉的一切話語"
     },
     {
       "surface": "כל",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "דברי",
-      "gloss": "話"
+      "gloss": "話語"
     },
     {
       "surface": "התורה",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "הכתובים",
-      "gloss": "所寫的"
+      "gloss": "寫在……上的"
     },
     {
       "surface": "בספר",
@@ -84,11 +63,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "這名"
+      "marks": "這榮耀可畏的名"
     },
     {
       "surface": "השם",
-      "gloss": "這名"
+      "gloss": "名"
     },
     {
       "surface": "הנכבד",
@@ -96,7 +75,7 @@
     },
     {
       "surface": "והנורא",
-      "gloss": "並可畏的"
+      "gloss": "和可畏的"
     },
     {
       "surface": "הזה",
@@ -116,6 +95,6 @@
       "gloss": "你的以羅欣"
     }
   ],
-  "timestamp": "2026-10-16T05:39:19.279870562Z",
+  "timestamp": "2026-10-16T22:14:47.881045558Z",
   "model": "glm-5.3"
 }

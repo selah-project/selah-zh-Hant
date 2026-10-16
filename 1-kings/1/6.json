@@ -5,41 +5,15 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "他母親",
-      "rationale": "ילדה 是陰性單數動詞，中文需補出主語「他母親」"
-    },
-    {
-      "kind": "crux",
-      "subject": "עצבו",
-      "rationale": "「使他憂愁／得罪他」：KJV『displeased』，YLT『grieved』；字根兼有『攔阻、刺痛』之義"
-    },
-    {
-      "kind": "substitution",
-      "subject": "מימיו",
-      "rationale": "字面「在他的眾日子裡」，譯為「從來」以合中文語感"
-    }
-  ],
-  "translation": "他父親從來沒有使他憂愁，說：「你為甚麼這樣行呢？」他也是個容貌極俊美的人；他母親在押沙龍之後生了他。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "125f51d37982b445ba9b65e316efa7f3b9cace9beb9bf84d25d2aa20ad1723a0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/1\/5-8.1792132450743.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他父親一生從沒有管教過他，說：「你為什麼這樣做？」他也容貌非常俊美，他母親⟨他⟩在押沙龍之後生下了⟨את⟩他。",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "而沒有"
+      "gloss": "從沒有"
     },
     {
       "surface": "עצבו",
-      "gloss": "使他憂愁"
+      "gloss": "管教過他"
     },
     {
       "surface": "אביו",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "מימיו",
-      "gloss": "從他的日子以來（從來）"
+      "gloss": "一生"
     },
     {
       "surface": "לאמר",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "מדוע",
-      "gloss": "為甚麼"
+      "gloss": "為什麼"
     },
     {
       "surface": "ככה",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "עשית",
-      "gloss": "你行了"
+      "gloss": "做"
     },
     {
       "surface": "וגם",
-      "gloss": "而也"
+      "gloss": "也"
     },
     {
       "surface": "הוא",
@@ -83,16 +57,16 @@
     },
     {
       "surface": "מאד",
-      "gloss": "極"
+      "gloss": "非常"
     },
     {
       "surface": "ואתו",
       "gloss": "⟨את⟩",
-      "marks": "他（ילדה 的受詞）"
+      "marks": "他"
     },
     {
       "surface": "ילדה",
-      "gloss": "她生了"
+      "gloss": "生下了"
     },
     {
       "surface": "אחרי",
@@ -103,6 +77,6 @@
       "gloss": "押沙龍"
     }
   ],
-  "timestamp": "2026-10-16T06:34:10.744776957Z",
+  "timestamp": "2026-10-16T21:57:35.942614818Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "掛在木頭上",
-      "rationale": "תלית 指陳屍示眾於木架，非絞刑處死；死者在先，懸掛在後"
-    },
-    {
-      "kind": "addition",
-      "subject": "後",
-      "rationale": "中文時序連接詞，希伯來文以動詞序列表達"
-    }
-  ],
-  "translation": "「若人犯了該死的罪，被處死後，你把他掛在木頭上，",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "de4438439f57b1e3f591dfd8af4db18626b5c941a47c9432bc2b56b179899765",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/21\/21-23.1792128913291.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "若人犯了該受死刑的罪，他被處死以後，你將 ⟨את⟩ 他掛在木頭上，",
   "tokens": [
     {
       "surface": "וכי",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "有"
+      "gloss": "犯了"
     },
     {
       "surface": "באיש",
-      "gloss": "在人身上"
+      "gloss": "在人"
     },
     {
       "surface": "חטא",
@@ -46,19 +25,19 @@
     },
     {
       "surface": "משפט",
-      "gloss": "該受……的判決"
+      "gloss": "該受…審判的"
     },
     {
       "surface": "מות",
-      "gloss": "死"
+      "gloss": "死刑"
     },
     {
       "surface": "והומת",
-      "gloss": "被處死"
+      "gloss": "他被處死"
     },
     {
       "surface": "ותלית",
-      "gloss": "你把……掛"
+      "gloss": "你將…掛"
     },
     {
       "surface": "אתו",
@@ -67,13 +46,13 @@
     },
     {
       "surface": "על",
-      "gloss": "在……上"
+      "gloss": "在…上"
     },
     {
       "surface": "עץ",
       "gloss": "木頭"
     }
   ],
-  "timestamp": "2026-10-16T05:35:13.292529151Z",
+  "timestamp": "2026-10-16T22:14:00.021564269Z",
   "model": "glm-5.3"
 }

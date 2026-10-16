@@ -5,36 +5,15 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "事就發生",
-      "rationale": "ויהי 是強調性的敘事開頭，中文以「……以後」的框架吸收"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חשק\/חפץ",
-      "rationale": "兩個「喜愛、渴望」詞根並用，中文以「喜愛」「喜悅」勉強保留"
-    }
-  ],
-  "translation": "所羅門建造雅威的殿和王宮，以及他所喜愛的一切工程都完畢以後——凡他所喜悅去做的，",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "0ef2bfef0f6b83d0537cdb421d6a8e7a25a6cfa5af3db19c6cba72fe1b8e7bc0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/9\/1-4.1792132868261.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "所羅門建造 ⟨את⟩ 雅威的殿、⟨את⟩ 王宮，以及 ⟨את⟩ 一切他所喜愛想要做的一切工程完畢之後，",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "事就發生"
+      "gloss": "之後"
     },
     {
       "surface": "ככלות",
-      "gloss": "完畢以後"
+      "gloss": "完畢"
     },
     {
       "surface": "שלמה",
@@ -47,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "殿"
+      "marks": "雅威的殿"
     },
     {
       "surface": "בית",
@@ -73,7 +52,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "所喜愛的一切"
+      "marks": "一切他所喜愛"
     },
     {
       "surface": "כל",
@@ -85,21 +64,21 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "所羅門的"
+      "gloss": "所羅門"
     },
     {
       "surface": "אשר",
-      "gloss": "凡"
+      "gloss": "所"
     },
     {
       "surface": "חפץ",
-      "gloss": "所喜悅"
+      "gloss": "想要"
     },
     {
       "surface": "לעשות",
-      "gloss": "去做的"
+      "gloss": "做"
     }
   ],
-  "timestamp": "2026-10-16T06:41:08.261841156Z",
+  "timestamp": "2026-10-16T21:59:52.023424672Z",
   "model": "glm-5.3"
 }

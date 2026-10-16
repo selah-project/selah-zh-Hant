@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אותך",
-      "rationale": "受詞記號את加第二人稱字尾，眾譯本讀作『與你在一起』（同אִתְּךָ）；此處以⟨אותך⟩保留家族記號。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "עלית\/תבוא",
-      "rationale": "『上來』與『來』的動詞連用，暴風與雲的雙重比喻，中文難以保留其音韻重疊。"
-    },
-    {
-      "kind": "you",
-      "subject": "to Gog",
-      "rationale": "本節直接對歌革說話。"
-    }
-  ],
-  "translation": "你必上來，如暴風颳來，如雲遮蓋那地；你必成為⟨那雲⟩——你和你的全軍隊伍，並許多民族與你在一起。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "0637c87906e12778afb735afd14a3302adefe39b955bbd63f4062343ec700a68",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/38\/9-12.1792138955481.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你必上來，如暴風來臨，如雲彩遮蓋那地——你和你所有的翅膀軍隊，並許多民族都與你一起⟨את⟩。",
   "tokens": [
     {
       "surface": "ועלית",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "תבוא",
-      "gloss": "颳來"
+      "gloss": "來臨"
     },
     {
       "surface": "כענן",
-      "gloss": "如雲"
+      "gloss": "如雲彩"
     },
     {
       "surface": "לכסות",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "תהיה",
-      "gloss": "你必成為"
+      "gloss": "你必如"
     },
     {
       "surface": "אתה",
@@ -67,11 +41,11 @@
     },
     {
       "surface": "וכל",
-      "gloss": "和全部"
+      "gloss": "和所有的"
     },
     {
       "surface": "אגפיך",
-      "gloss": "你的軍隊隊伍"
+      "gloss": "你的翅膀軍隊"
     },
     {
       "surface": "ועמים",
@@ -83,10 +57,10 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ ⟨אותך⟩",
+      "gloss": "⟨את⟩",
       "marks": "你"
     }
   ],
-  "timestamp": "2026-10-16T08:22:35.482558921Z",
+  "timestamp": "2026-10-16T22:24:58.167608253Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "重擔",
-      "rationale": "למשא 意為負擔、重載，此處指累贅"
-    },
-    {
-      "kind": "crux",
-      "subject": "與我一同過去",
-      "rationale": "עברת 字面是「過去／經過」，諸譯本或作「與我同行」"
-    }
-  ],
-  "translation": "大衛對他說：「你若與我一同過去，就必成為我的重擔。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "6d0efb5a7e4dd2cb6d53d9e65707822c736260bc892c2fa0db0b8a65e800c34c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/15\/33-36.1792132035381.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "大衛對他說：「你若與我一同過去，你就必成為我身上的重擔。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -50,11 +29,12 @@
     },
     {
       "surface": "אתי",
-      "gloss": "與我⟨את⟩"
+      "gloss": "⟨את⟩與我",
+      "marks": "與我"
     },
     {
       "surface": "והית",
-      "gloss": "就必成為"
+      "gloss": "你就必成為"
     },
     {
       "surface": "עלי",
@@ -62,9 +42,9 @@
     },
     {
       "surface": "למשא",
-      "gloss": "成為重擔"
+      "gloss": "重擔"
     }
   ],
-  "timestamp": "2026-10-16T06:27:15.382214498Z",
+  "timestamp": "2026-10-16T22:09:25.419067227Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,15 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ישא פני",
-      "rationale": "字面「仰起面」，意為悅納、寬待；與前文「平息他的面」「見他的面」三次重複「面」"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "פנים ×3",
-      "rationale": "本節三次出現「面」（平息他的面、見他的面、仰起面），排比結構在譯文中以「面」字保留"
-    },
-    {
-      "kind": "substitution",
-      "subject": "אכפרה",
-      "rationale": "כפר 字面是「遮蓋」，引申贖罪、平息怒氣；此處取「平息」"
-    }
-  ],
-  "translation": "你們還要說：『看哪，你僕人雅各在我們後面。』」因為他心裡說：「我要用先行於我面前的禮物平息他的面，然後我才見他的面；或者他會仰起〈我的〉面。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "1e06ba7227d31125b92a37af8680e8a23c0c7b009b7bfd61fe8923c5cc539ad4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/32\/21-24.1792125219195.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你們也要說：『看哪，你僕人雅各在我們後面。』因為他心裡說：『我要用那在我前頭走去的禮物遮蓋⟨את⟩他的面，然後我再看⟨את⟩他的面，或許他會仰起⟨את⟩我的面。』",
   "tokens": [
     {
       "surface": "ואמרתם",
-      "gloss": "你們還要說"
+      "gloss": "你們也要說"
     },
     {
       "surface": "גם",
-      "gloss": "還"
+      "gloss": "也"
     },
     {
       "surface": "הנה",
@@ -63,15 +37,16 @@
     },
     {
       "surface": "אמר",
-      "gloss": "他說"
+      "gloss": "他心裡說"
     },
     {
       "surface": "אכפרה",
-      "gloss": "我要平息"
+      "gloss": "我要遮蓋"
     },
     {
       "surface": "פניו",
-      "gloss": "他的面"
+      "gloss": "他的面",
+      "marks_gen": null
     },
     {
       "surface": "במנחה",
@@ -79,11 +54,11 @@
     },
     {
       "surface": "ההלכת",
-      "gloss": "那先行於"
+      "gloss": "那走去的"
     },
     {
       "surface": "לפני",
-      "gloss": "我面前的"
+      "gloss": "在我前頭"
     },
     {
       "surface": "ואחרי",
@@ -91,11 +66,11 @@
     },
     {
       "surface": "כן",
-      "gloss": "才"
+      "gloss": "如此"
     },
     {
       "surface": "אראה",
-      "gloss": "我見"
+      "gloss": "我看"
     },
     {
       "surface": "פניו",
@@ -103,7 +78,7 @@
     },
     {
       "surface": "אולי",
-      "gloss": "或者"
+      "gloss": "或許"
     },
     {
       "surface": "ישא",
@@ -111,9 +86,9 @@
     },
     {
       "surface": "פני",
-      "gloss": "面"
+      "gloss": "我的面"
     }
   ],
-  "timestamp": "2026-10-16T04:33:39.195532927Z",
+  "timestamp": "2026-10-16T22:29:37.330600747Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "גאל הדם",
-      "rationale": "「報血仇者」對「血之救贖者」：גאל 本是親屬救贖者一詞，此處指為死者報血的至近親屬"
-    }
-  ],
-  "translation": "他本城的長老就要打發人去，從那裡把 ⟨אתו⟩ 他帶出來，交在報血仇者的手中，將他治死。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "4531df5ee5afc40666663fe120caa595057588c3bb70abc79d9329dd61003470",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/19\/9-12.1792128940028.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他本城的長老要打發人去，從那裡把他抓來，把他交在報血仇者的手中，他就必死。",
   "tokens": [
     {
       "surface": "ושלחו",
-      "gloss": "打發"
+      "gloss": "要打發人去"
     },
     {
       "surface": "זקני",
@@ -33,11 +17,11 @@
     },
     {
       "surface": "עירו",
-      "gloss": "他本城"
+      "gloss": "他本城的"
     },
     {
       "surface": "ולקחו",
-      "gloss": "帶出來"
+      "gloss": "要抓來"
     },
     {
       "surface": "אתו",
@@ -50,20 +34,20 @@
     },
     {
       "surface": "ונתנו",
-      "gloss": "交"
+      "gloss": "要交"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "報血仇者的手中"
+      "marks": "他"
     },
     {
       "surface": "ביד",
-      "gloss": "在…手中"
+      "gloss": "在……手中"
     },
     {
       "surface": "גאל",
-      "gloss": "報血仇者"
+      "gloss": "報血仇者（贖回之親屬）"
     },
     {
       "surface": "הדם",
@@ -71,9 +55,9 @@
     },
     {
       "surface": "ומת",
-      "gloss": "將他治死"
+      "gloss": "他就必死"
     }
   ],
-  "timestamp": "2026-10-16T05:35:40.029384496Z",
+  "timestamp": "2026-10-16T22:13:30.331110130Z",
   "model": "glm-5.3"
 }

@@ -5,31 +5,15 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "流奶與蜜",
-      "rationale": "זבת חלב ודבש 直譯「湧流奶與蜜之地」，是豐饒的固定意象，保留直譯"
-    }
-  ],
-  "translation": "我曾說過：我要領你們上去，脫離埃及的困苦，往迦南人、赫人、亞摩利人、比利洗人、希未人、耶布斯人的地，到那流奶與蜜之地。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "2005100f72f4c77e74267f87ec30189fb5e0dbda32230829456b792831c36db5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/3\/17-20.1792125781285.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我曾說：『我要領你們從埃及的困苦中上來，往迦南人、赫人、亞摩利人、比利洗人、希未人、耶布斯人的地去，往流奶與蜜之地去。』",
   "tokens": [
     {
       "surface": "ואמר",
-      "gloss": "我曾說過"
+      "gloss": "我曾說"
     },
     {
       "surface": "אעלה",
-      "gloss": "我要領上去"
+      "gloss": "我要領……上來"
     },
     {
       "surface": "אתכם",
@@ -38,7 +22,7 @@
     },
     {
       "surface": "מעני",
-      "gloss": "困苦"
+      "gloss": "從困苦"
     },
     {
       "surface": "מצרים",
@@ -78,15 +62,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "到"
+      "gloss": "往"
     },
     {
       "surface": "ארץ",
-      "gloss": "地"
+      "gloss": "之地"
     },
     {
       "surface": "זבת",
-      "gloss": "流淌著的"
+      "gloss": "流"
     },
     {
       "surface": "חלב",
@@ -94,9 +78,13 @@
     },
     {
       "surface": "ודבש",
-      "gloss": "蜜"
+      "gloss": "與蜜"
     }
   ],
-  "timestamp": "2026-10-16T04:43:01.286457399Z",
-  "model": "glm-5.3"
+  "timestamp": "2026-10-16T22:19:43.209118586Z",
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

@@ -5,27 +5,11 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "alternative",
-      "subject": "חשך",
-      "rationale": "חשך可作「攔阻、制止」（約押約束百姓）或「顧惜、存留」（約押饒了百姓）；我取「攔阻」。"
-    }
-  ],
-  "translation": "約押吹響號角，百姓就從追趕以色列人一事上回轉，因為約押攔阻了 ⟨את⟩ 百姓。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "821b156a94c815aa36524c578d346c97aa143cb0a139a59ae304b6a256db2cb1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/18\/13-16.1792132197050.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "約押吹角，百姓就不再追趕以色列人；因為約押約束了 ⟨את⟩ 百姓。",
   "tokens": [
     {
       "surface": "ויתקע",
-      "gloss": "吹響"
+      "gloss": "吹"
     },
     {
       "surface": "יואב",
@@ -33,11 +17,11 @@
     },
     {
       "surface": "בשפר",
-      "gloss": "號角"
+      "gloss": "角"
     },
     {
       "surface": "וישב",
-      "gloss": "回轉"
+      "gloss": "就回轉"
     },
     {
       "surface": "העם",
@@ -49,15 +33,11 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "……之後"
-    },
-    {
-      "surface": "יואב",
-      "gloss": "約押"
+      "gloss": "之後"
     },
     {
       "surface": "ישראל",
-      "gloss": "以色列人"
+      "gloss": "以色列"
     },
     {
       "surface": "כי",
@@ -65,11 +45,11 @@
     },
     {
       "surface": "חשך",
-      "gloss": "攔阻了"
+      "gloss": "約束"
     },
     {
       "surface": "יואב",
-      "gloss": "⟨את⟩ 約押"
+      "gloss": "約押"
     },
     {
       "surface": "את",
@@ -81,6 +61,6 @@
       "gloss": "百姓"
     }
   ],
-  "timestamp": "2026-10-16T06:29:57.052374848Z",
+  "timestamp": "2026-10-16T22:10:07.987078874Z",
   "model": "glm-5.3"
 }

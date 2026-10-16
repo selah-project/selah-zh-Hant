@@ -5,33 +5,7 @@
   "book": "1-chronicles",
   "lang": "zh-Hant",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈水〉",
-      "rationale": "ויתאו 的賓語未明言，中文需補出所渴望之物"
-    },
-    {
-      "kind": "elision",
-      "subject": "בית לחם",
-      "rationale": "雙詞元地名合成一個譯名「伯利恆」，兩個 token 共同對應"
-    },
-    {
-      "kind": "crux",
-      "subject": "בשער",
-      "rationale": "「在城門旁」或作「在城門口」——井確切位置的譯法分歧"
-    }
-  ],
-  "translation": "大衛渴望〈水〉，就說：「誰肯給我水喝，從伯利恆城門旁的井裡打來？」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "d06c681df034431934f61b681cf762dc4b8285148ed3e58a2a579b32a46c7402",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/11\/17-20.1792148728942.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "大衛渴望，就說：「誰能給我水喝，從伯利恆城門旁的井裡打來的水？」",
   "tokens": [
     {
       "surface": "ויתאו",
@@ -59,15 +33,15 @@
     },
     {
       "surface": "מבור",
-      "gloss": "從井"
+      "gloss": "井"
     },
     {
       "surface": "בית",
-      "gloss": "伯利恆"
+      "gloss": "伯"
     },
     {
       "surface": "לחם",
-      "gloss": "伯利恆"
+      "gloss": "利恆"
     },
     {
       "surface": "אשר",
@@ -78,6 +52,6 @@
       "gloss": "在城門旁"
     }
   ],
-  "timestamp": "2026-10-16T11:05:28.943516452Z",
+  "timestamp": "2026-10-16T21:56:09.962080565Z",
   "model": "glm-5.3"
 }

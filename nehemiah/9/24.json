@@ -5,32 +5,11 @@
   "book": "nehemiah",
   "lang": "zh-Hant",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לפניהם",
-      "gloss": "「在他們面前」表征服；直譯保留方位感"
-    },
-    {
-      "kind": "addition",
-      "subject": "連同",
-      "rationale": "中文並列三個⟨את⟩受詞需連接詞，希伯來文以waw連接"
-    }
-  ],
-  "translation": "於是子孫們進去得了 ⟨את⟩ 那地；你使他們面前的當地居民迦南人降卑，把他們連同他們的王、以及那地的萬民，都交在他們手中，讓他們隨意對待他們。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "701397d0545e492041e98fe05aa0d38aa1b1d585cbef05d160cc6b52d63e7b6c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nehemiah\/9\/21-24.1792148147809.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "於是子孫們進來，得了那地為業；你在他們面前制伏了 ⟨את⟩ 那地的居民，就是迦南人，把他們連同 ⟨את⟩ 他們的君王和 ⟨את⟩ 那地的諸民交在他們手中，讓他們隨意對待他們。",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "於是……進去"
+      "gloss": "於是……進來"
     },
     {
       "surface": "הבנים",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "ויירשו",
-      "gloss": "得了"
+      "gloss": "得了……為業"
     },
     {
       "surface": "את",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "ותכנע",
-      "gloss": "你使……降卑"
+      "gloss": "你制伏了"
     },
     {
       "surface": "לפניהם",
@@ -60,7 +39,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "當地居民迦南人"
+      "marks": "那地的居民"
     },
     {
       "surface": "ישבי",
@@ -68,7 +47,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "當地的"
+      "gloss": "那地的"
     },
     {
       "surface": "הכנענים",
@@ -76,29 +55,29 @@
     },
     {
       "surface": "ותתנם",
-      "gloss": "你把……交給"
+      "gloss": "把他們交在"
     },
     {
       "surface": "בידם",
-      "gloss": "在他們手中"
+      "gloss": "他們手中"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "他們的王"
+      "marks": "他們的君王"
     },
     {
       "surface": "מלכיהם",
-      "gloss": "他們的王"
+      "gloss": "他們的君王"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "那地的萬民"
+      "marks": "那地的諸民"
     },
     {
       "surface": "עממי",
-      "gloss": "萬民"
+      "gloss": "諸民"
     },
     {
       "surface": "הארץ",
@@ -106,17 +85,21 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "要對待"
+      "gloss": "讓他們……對待"
     },
     {
       "surface": "בהם",
-      "gloss": "他們"
+      "gloss": "對他們"
     },
     {
       "surface": "כרצונם",
-      "gloss": "隨他們的意"
+      "gloss": "隨他們的心意"
     }
   ],
-  "timestamp": "2026-10-16T10:55:47.810428489Z",
-  "model": "glm-5.3"
+  "timestamp": "2026-10-16T22:52:55.859678815Z",
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

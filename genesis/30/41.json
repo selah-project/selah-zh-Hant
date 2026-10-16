@@ -5,45 +5,19 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "המקשרות",
-      "rationale": "字根 קשר「捆綁」：或指「健壯結實的」母羊，或指「按計畫配合的」；各譯本取「較強壯的」為主。"
-    },
-    {
-      "kind": "hapax",
-      "subject": "רהטים",
-      "rationale": "僅此處與30:38出現，指引水的水槽；字形與「髮綹」同源（平行線條）。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "יחם",
-      "rationale": "字面為「發熱」，指動物發情交配；中譯以「交配」傳其意。"
-    }
-  ],
-  "translation": "每當健壯的羊群交配的時候，雅各就把樹枝放在水槽裡，在羊的眼前，使牠們在樹枝旁交配。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "7def11520fd0a55328150e46a9097a7845e15b54accd58f7ec7c6a23d8a0863c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/30\/41-43.1792125195644.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "每當配搭在一起的羊群發情交配時，雅各就把樹枝放在水槽裡、羊群的眼前，使牠們在樹枝旁交配受孕。",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "每當…的時候"
-    },
-    {
-      "surface": "בכל",
       "gloss": "每當"
     },
     {
+      "surface": "בכל",
+      "gloss": "每"
+    },
+    {
       "surface": "יחם",
-      "gloss": "交配"
+      "gloss": "發情交配時"
     },
     {
       "surface": "הצאן",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "המקשרות",
-      "gloss": "健壯的"
+      "gloss": "配搭在一起的"
     },
     {
       "surface": "ושם",
-      "gloss": "就放"
+      "gloss": "就把…放"
     },
     {
       "surface": "יעקב",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "לעיני",
-      "gloss": "在…的眼前"
+      "gloss": "在…眼前"
     },
     {
       "surface": "הצאן",
@@ -84,13 +58,13 @@
     },
     {
       "surface": "ליחמנה",
-      "gloss": "使牠們交配"
+      "gloss": "使牠們交配受孕"
     },
     {
       "surface": "במקלות",
       "gloss": "在樹枝旁"
     }
   ],
-  "timestamp": "2026-10-16T04:33:15.644987633Z",
+  "timestamp": "2026-10-16T22:29:08.911729278Z",
   "model": "glm-5.3"
 }

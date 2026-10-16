@@ -5,28 +5,7 @@
   "book": "judges",
   "lang": "zh-Hant",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מקומי",
-      "rationale": "原文是單數「我的地方」，眾使者以單數自稱代表全體；譯作「我們的地方」抑直譯「我的地方」，各譯本不同"
-    },
-    {
-      "kind": "addition",
-      "subject": "〈們〉",
-      "rationale": "單數「我的地方」以〈們〉協調中文人稱，原詞形保留"
-    }
-  ],
-  "translation": "以色列差遣使者去見亞摩利王西宏，就是希實本王；以色列對他說：求你容我們從你的地經過，直到我〈們〉的地方。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "8549e9fa2776899b7399572c4befa56a0e1a5093ff21966e7f9358fbe1f72973",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/11\/17-20.1792130495469.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "以色列差遣使者去見亞摩利人的王、希實本王西宏，以色列對他說：「求你容我們穿越你的地，直到我的地方。」",
   "tokens": [
     {
       "surface": "וישלח",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "亞摩利"
+      "gloss": "亞摩利人的"
     },
     {
       "surface": "מלך",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "נעברה",
-      "gloss": "容我們經過"
+      "gloss": "容我們穿越"
     },
     {
       "surface": "נא",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "בארצך",
-      "gloss": "從你的地"
+      "gloss": "你的地"
     },
     {
       "surface": "עד",
@@ -97,6 +76,6 @@
       "gloss": "我的地方"
     }
   ],
-  "timestamp": "2026-10-16T06:01:35.470717128Z",
+  "timestamp": "2026-10-16T22:45:39.911062963Z",
   "model": "glm-5.3"
 }

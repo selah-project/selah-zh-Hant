@@ -5,36 +5,15 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "與他列祖同睡",
-      "rationale": "שכב עם אבתיו「與列祖同睡」是死亡的委婉慣用語"
-    },
-    {
-      "kind": "addition",
-      "subject": "人",
-      "rationale": "ויקברו 主語未明（「他們葬他」），中文以「人」作無定主語"
-    }
-  ],
-  "translation": "亞比雅與他列祖同睡，人把他葬在大衛城；他兒子亞撒接續他作王。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "592292ba27bbb9b76e475724a09624f5659062f79c10a8e0ba7b47de84c8c75f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/15\/5-8.1792133140554.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "亞比雅姆與他列祖同睡，他們把他葬在大衛城；他的兒子亞撒接續他作王。",
   "tokens": [
     {
       "surface": "וישכב",
-      "gloss": "同睡"
+      "gloss": "與…同睡"
     },
     {
       "surface": "אבים",
-      "gloss": "亞比雅"
+      "gloss": "亞比雅姆"
     },
     {
       "surface": "עם",
@@ -46,16 +25,16 @@
     },
     {
       "surface": "ויקברו",
-      "gloss": "人把他葬"
+      "gloss": "他們葬了"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "他"
     },
     {
       "surface": "בעיר",
-      "gloss": "城"
+      "gloss": "在…城"
     },
     {
       "surface": "דוד",
@@ -71,13 +50,13 @@
     },
     {
       "surface": "בנו",
-      "gloss": "他兒子"
+      "gloss": "他的兒子"
     },
     {
       "surface": "תחתיו",
       "gloss": "接續他"
     }
   ],
-  "timestamp": "2026-10-16T06:45:40.555705344Z",
+  "timestamp": "2026-10-16T21:58:20.701223736Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,19 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "עגבים",
-      "rationale": "情愛的話（和合本「甘甜的情話」）vs 戲弄之歌（武加大傳統）：字根是情愛，KJV 譯『大顯愛情』，Geneva 譯『戲謔』"
-    },
-    {
-      "kind": "substitution",
-      "subject": "בצע",
-      "rationale": "字義是「暴力掠奪的不義之利」，和合本作「不義之財」，兼含貪婪與強暴"
-    }
-  ],
-  "translation": "他們來到你這裏，如同百姓前來；我的人民坐在你面前，聽你的話，卻不實行⟨אותם⟩；因為他們口中盡是情愛的話，他們的心追隨不義之財。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b5437fd13561a86ad8a3d2963ef5a781e6f23046766f267b2d2da3c47e93d491",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/33\/29-32.1792138909641.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們來到你這裡，如同百姓 ⟨的⟩ 來到；我的人民坐在你面前，聽 ⟨את⟩ 你的話語，卻不遵行 ⟨את⟩ 它們；因為他們口中作出情愛之言，他們的心追隨自己的不義之利。",
   "tokens": [
     {
       "surface": "ויבואו",
-      "gloss": "他們來"
+      "gloss": "他們來到"
     },
     {
       "surface": "אליך",
-      "gloss": "到你這裏"
+      "gloss": "到你這裡"
     },
     {
       "surface": "כמבוא",
-      "gloss": "如同…前來"
+      "gloss": "如同來到"
     },
     {
       "surface": "עם",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "וישבו",
-      "gloss": "坐"
+      "gloss": "他們坐"
     },
     {
       "surface": "לפניך",
-      "gloss": "你面前"
+      "gloss": "在你面前"
     },
     {
       "surface": "עמי",
@@ -58,20 +37,21 @@
     },
     {
       "surface": "ושמעו",
-      "gloss": "聽"
+      "gloss": "他們聽"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "你的話"
+      "marks": "你的話語"
     },
     {
       "surface": "דבריך",
-      "gloss": "你的話"
+      "gloss": "你的話語"
     },
     {
       "surface": "ואותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩"
+      "gloss": "⟨את⟩它們",
+      "marks": "它們（你的話語）"
     },
     {
       "surface": "לא",
@@ -79,7 +59,7 @@
     },
     {
       "surface": "יעשו",
-      "gloss": "實行"
+      "gloss": "他們遵行"
     },
     {
       "surface": "כי",
@@ -87,11 +67,11 @@
     },
     {
       "surface": "עגבים",
-      "gloss": "情愛的話"
+      "gloss": "情愛之言"
     },
     {
       "surface": "בפיהם",
-      "gloss": "他們口中"
+      "gloss": "在他們口中"
     },
     {
       "surface": "המה",
@@ -99,7 +79,7 @@
     },
     {
       "surface": "עשים",
-      "gloss": "盡是"
+      "gloss": "作出"
     },
     {
       "surface": "אחרי",
@@ -107,7 +87,7 @@
     },
     {
       "surface": "בצעם",
-      "gloss": "不義之財"
+      "gloss": "自己的不義之利"
     },
     {
       "surface": "לבם",
@@ -118,6 +98,6 @@
       "gloss": "行走"
     }
   ],
-  "timestamp": "2026-10-16T08:21:49.642692749Z",
+  "timestamp": "2026-10-16T22:24:29.761322422Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "那裡",
-      "rationale": "中文方位語尾為補足『拿到祭壇』的自然說法"
-    }
-  ],
-  "translation": "祭司要從那婦人手中取 ⟨את⟩ 疑忌的素祭，在雅威面前搖 ⟨את⟩ 這素祭，又拿到祭壇那裡；",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "83033af375bba910e8a53af0d550fb36b8038156f26dd2ca53379b86c492ca56",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/5\/25-28.1792127628676.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "祭司要從那婦人手中取回⟨את⟩嫉妒的素祭，在雅威面前搖⟨את⟩這素祭，又把它拿到壇那裡。",
   "tokens": [
     {
       "surface": "ולקח",
-      "gloss": "要取"
+      "gloss": "取"
     },
     {
       "surface": "הכהן",
@@ -42,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "疑忌的素祭"
+      "marks": "嫉妒的素祭"
     },
     {
       "surface": "מנחת",
@@ -50,11 +34,11 @@
     },
     {
       "surface": "הקנאת",
-      "gloss": "疑忌的"
+      "gloss": "嫉妒的"
     },
     {
       "surface": "והניף",
-      "gloss": "要搖"
+      "gloss": "搖"
     },
     {
       "surface": "את",
@@ -75,22 +59,22 @@
     },
     {
       "surface": "והקריב",
-      "gloss": "又拿到"
+      "gloss": "拿近"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "它（這素祭）"
+      "gloss": "⟨את⟩它",
+      "marks": "素祭（陰性單數受詞）"
     },
     {
       "surface": "אל",
-      "gloss": "到……那裡"
+      "gloss": "到"
     },
     {
       "surface": "המזבח",
-      "gloss": "祭壇"
+      "gloss": "壇"
     }
   ],
-  "timestamp": "2026-10-16T05:13:48.677634557Z",
+  "timestamp": "2026-10-16T22:56:22.142480093Z",
   "model": "glm-5.3"
 }

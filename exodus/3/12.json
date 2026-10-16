@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כי אהיה",
-      "rationale": "「我必與你同在」或作「因為我必與你同在」——כי 可為應許的強調或原因連接詞；與 3:14 的 אהיה אשר אהיה 同字根。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "憑據",
-      "rationale": "האות 是記號、印證；此憑據是未來之事（在此山上事奉）作為差遣的印證，順序上中文後置。"
-    },
-    {
-      "kind": "alternative",
-      "subject": "語序",
-      "rationale": "希伯來語序：憑據句在領出百姓之後；中文將其後置為總結，以合語感。"
-    }
-  ],
-  "translation": "他說：「我必與你同在。你將百姓從埃及領出來之後，你們必在這山上事奉 ⟨את⟩ 以羅欣——這就是你蒙我差遣的憑據。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "e4912d4abe58af61acda9fc87730e73ba1cb9a99192637d9db537351e5c05d0c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/3\/9-12.1792125772273.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他說：「我必與你同在。我差遣了你，這就是給你的憑據：你把 ⟨את⟩ 這民從埃及領出來之後，你們必在這山上事奉 ⟨את⟩ 以羅欣（神）。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "必"
+      "gloss": "既然"
     },
     {
       "surface": "אהיה",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "וזה",
-      "gloss": "這"
+      "gloss": "而這"
     },
     {
       "surface": "לך",
@@ -75,16 +49,16 @@
     },
     {
       "surface": "בהוציאך",
-      "gloss": "你領出來之後"
+      "gloss": "在你領出來的時候"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "百姓"
+      "marks": "這民"
     },
     {
       "surface": "העם",
-      "gloss": "百姓"
+      "gloss": "這民"
     },
     {
       "surface": "ממצרים",
@@ -116,6 +90,6 @@
       "gloss": "這"
     }
   ],
-  "timestamp": "2026-10-16T04:42:52.275967005Z",
+  "timestamp": "2026-10-16T22:19:48.228057435Z",
   "model": "glm-5.3"
 }

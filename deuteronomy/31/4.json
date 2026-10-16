@@ -5,27 +5,11 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "rationale": "受詞記號אתם以⟨אתם⟩保留，中文無對應詞"
-    }
-  ],
-  "translation": "雅威必照他所行於希實本王西宏和巴珊王噩——亞摩利人的王——以及他們的地的，照樣行於他們，就是他所滅絕的。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "93068135cf33ae1e5fc4afae7b6848fcc2a0a396743b2258686252ac2e77c840",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/31\/1-4.1792129371088.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威必待他們如同待希實本王西宏和巴珊王噩，就是亞摩利人的王，以及他們的地一樣；他曾滅絕 ⟨את⟩ 他們。",
   "tokens": [
     {
       "surface": "ועשה",
-      "gloss": "行"
+      "gloss": "必待"
     },
     {
       "surface": "יהוה",
@@ -33,23 +17,23 @@
     },
     {
       "surface": "להם",
-      "gloss": "於他們"
+      "gloss": "他們"
     },
     {
       "surface": "כאשר",
-      "gloss": "照"
+      "gloss": "如同"
     },
     {
       "surface": "עשה",
-      "gloss": "所行"
+      "gloss": "待"
     },
     {
       "surface": "לסיחון",
-      "gloss": "於西宏"
+      "gloss": "西宏"
     },
     {
       "surface": "ולעוג",
-      "gloss": "和於噩"
+      "gloss": "和噩"
     },
     {
       "surface": "מלכי",
@@ -61,7 +45,7 @@
     },
     {
       "surface": "ולארצם",
-      "gloss": "和他們的地"
+      "gloss": "以及他們的地"
     },
     {
       "surface": "אשר",
@@ -69,14 +53,14 @@
     },
     {
       "surface": "השמיד",
-      "gloss": "所滅絕的"
+      "gloss": "他曾滅絕"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "他們"
     }
   ],
-  "timestamp": "2026-10-16T05:42:51.089892049Z",
+  "timestamp": "2026-10-16T22:14:53.414666286Z",
   "model": "glm-5.3"
 }

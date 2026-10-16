@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "的就是……的那事",
-      "rationale": "中文需補出關係子句的先行語，希伯來文的 כי 直接連接"
-    },
-    {
-      "kind": "substitution",
-      "subject": "岳父",
-      "rationale": "חתן 是動詞分詞「結親」，作稱謂指姻親關係，中文以「岳父」定其位"
-    }
-  ],
-  "translation": "米甸的祭司、摩西的岳父葉忒羅，聽見了以羅欣為摩西和以色列——他的百姓——所行的一切事，就是雅威將以色列從埃及領出來〈的那事〉。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "6b2b63caea2c4cca536ce84d213522d4927cb924df5877fce5d6622f95b2e860",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/18\/1-4.1792126091237.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "米甸的祭司、摩西的岳父葉忒羅，聽見了 ⟨את⟩ 以羅欣為摩西和 ⟨את⟩ 他百姓以色列所行的一切事，就是雅威將以色列從埃及領出來⟨這事⟩。",
   "tokens": [
     {
       "surface": "וישמע",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "מדין",
-      "gloss": "米甸的"
+      "gloss": "米甸"
     },
     {
       "surface": "חתן",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "所……的"
+      "gloss": "所"
     },
     {
       "surface": "עשה",
@@ -79,11 +58,11 @@
     },
     {
       "surface": "ולישראל",
-      "gloss": "和為以色列"
+      "gloss": "和以色列"
     },
     {
       "surface": "עמו",
-      "gloss": "他的百姓"
+      "gloss": "他百姓"
     },
     {
       "surface": "כי",
@@ -111,6 +90,6 @@
       "gloss": "從埃及"
     }
   ],
-  "timestamp": "2026-10-16T04:48:11.238445132Z",
+  "timestamp": "2026-10-16T22:18:09.792283127Z",
   "model": "glm-5.3"
 }

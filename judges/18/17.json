@@ -5,32 +5,11 @@
   "book": "judges",
   "lang": "zh-Hant",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "לרגל",
-      "rationale": "此動詞專指偵察、窺探（如民13），與「行走」同音相關。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "特拉菲姆",
-      "rationale": "התרפים 是家族神像，音譯保留其希伯來身份而非譯作抽象的「偶像」。"
-    }
-  ],
-  "translation": "那些去窺探那地的五人就上到那裡去，進去取了 ⟨את⟩ 雕像、⟨את⟩ 以弗得、⟨את⟩ 特拉菲姆和 ⟨את⟩ 鑄像；祭司站在門口，與那束著戰爭兵器的六百個男子⟨一起⟩。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "9e33979c6ea12a25f981f4251d1c1da4c47b66b7fc3b2d1e40678cf429e4c6ff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/18\/17-20.1792130629172.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "那窺探 ⟨את⟩ 那地的五個人上去，進到那裡，拿了 ⟨את⟩ 雕像、⟨את⟩ 以弗得、⟨את⟩ 家族神像和 ⟨את⟩ 鑄像；那祭司站在門口，還有六百個佩帶戰爭器械的人〈也站在那裡〉。",
   "tokens": [
     {
       "surface": "ויעלו",
-      "gloss": "上到"
+      "gloss": "上去"
     },
     {
       "surface": "חמשת",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "……的人"
+      "gloss": "個人"
     },
     {
       "surface": "ההלכים",
-      "gloss": "那些去的"
+      "gloss": "那行走的"
     },
     {
       "surface": "לרגל",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "באו",
-      "gloss": "進去"
+      "gloss": "進入"
     },
     {
       "surface": "שמה",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "לקחו",
-      "gloss": "取了"
+      "gloss": "拿了"
     },
     {
       "surface": "את",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "以弗得"
     },
     {
@@ -89,17 +68,17 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "特拉菲姆"
+      "gloss": "和⟨את⟩",
+      "marks": "家族神像"
     },
     {
       "surface": "התרפים",
-      "gloss": "特拉菲姆"
+      "gloss": "家族神像"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "鑄像"
+      "gloss": "和⟨את⟩",
+      "marks": "铸像"
     },
     {
       "surface": "המסכה",
@@ -107,23 +86,23 @@
     },
     {
       "surface": "והכהן",
-      "gloss": "而祭司"
+      "gloss": "而那祭司"
     },
     {
       "surface": "נצב",
-      "gloss": "站著"
+      "gloss": "站"
     },
     {
       "surface": "פתח",
-      "gloss": "門口"
+      "gloss": "入口"
     },
     {
       "surface": "השער",
-      "gloss": "城門的"
+      "gloss": "那門"
     },
     {
       "surface": "ושש",
-      "gloss": "而六"
+      "gloss": "和六"
     },
     {
       "surface": "מאות",
@@ -131,21 +110,25 @@
     },
     {
       "surface": "האיש",
-      "gloss": "個男子"
+      "gloss": "個人"
     },
     {
       "surface": "החגור",
-      "gloss": "束著的"
+      "gloss": "佩帶的"
     },
     {
       "surface": "כלי",
-      "gloss": "兵器"
+      "gloss": "器械"
     },
     {
       "surface": "המלחמה",
-      "gloss": "戰爭的"
+      "gloss": "戰爭"
     }
   ],
-  "timestamp": "2026-10-16T06:03:49.173033060Z",
-  "model": "glm-5.3"
+  "timestamp": "2026-10-16T22:46:57.619677431Z",
+  "model": "glm-5.3",
+  "s2t": {
+    "date": "2026-10-16",
+    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
+  }
 }

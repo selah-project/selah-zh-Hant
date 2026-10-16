@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ויקבצו\/ויקבץ",
-      "rationale": "同一動詞「聚集」用於兩軍，平行對峙的結構；中文保留重複。"
-    },
-    {
-      "kind": "measurement",
-      "subject": "two camps",
-      "rationale": "兩軍各據一方——書念與基利波——地理對峙佈局，為下文的俯視場景定位。"
-    }
-  ],
-  "translation": "非利士人聚集，前來安營在書念；掃羅聚集以色列眾人，安營在基利波。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "01b4ed8b808cd60963a2e881c7445ab5371f86cc1f2f6a8af384f184e9c2c419",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/28\/1-4.1792131536847.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "非利士人聚集前來，在書念安營；掃羅也聚集了 ⟨את⟩ 全以色列，他們就在基利波安營。",
   "tokens": [
     {
       "surface": "ויקבצו",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ויקבץ",
-      "gloss": "聚集"
+      "gloss": "聚集了"
     },
     {
       "surface": "שאול",
@@ -59,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "以色列眾人"
+      "marks": "全以色列"
     },
     {
       "surface": "כל",
-      "gloss": "眾"
+      "gloss": "全"
     },
     {
       "surface": "ישראל",
@@ -78,6 +57,6 @@
       "gloss": "在基利波"
     }
   ],
-  "timestamp": "2026-10-16T06:18:56.848982227Z",
+  "timestamp": "2026-10-16T22:02:14.498279434Z",
   "model": "glm-5.3"
 }

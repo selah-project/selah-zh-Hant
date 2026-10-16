@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ים",
-      "rationale": "銅「海」是聖殿中巨大的盛水器（王上 7:23），非真的海洋，中文沿用「銅海」保持其形象。"
-    },
-    {
-      "kind": "addition",
-      "subject": "把它們",
-      "rationale": "中文需要受詞代名詞，希伯來文由重複的 ואת 記號承擔。"
-    },
-    {
-      "kind": "measurement",
-      "subject": "青銅",
-      "rationale": "器皿被毀是為稱量運走其金屬，與 25:16「無法稱量」呼應。"
-    }
-  ],
-  "translation": "至於雅威殿中的銅柱、以及盆座和雅威殿中的銅海，迦勒底人把它們打碎了，並把那銅運到巴比倫去。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c7cb550643f972caf7279dd9b8a8f82b3fc0403313a7b5a596b557930b8d142d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/25\/13-16.1792134408713.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "至於雅威殿中的銅柱、銅座和銅海，就是雅威殿裡的那些，迦勒底人打碎了，並把 ⟨את⟩ 它們的銅運到巴比倫去。",
   "tokens": [
     {
       "surface": "ואת",
@@ -40,7 +14,7 @@
     },
     {
       "surface": "עמודי",
-      "gloss": "柱"
+      "gloss": "柱子"
     },
     {
       "surface": "הנחשת",
@@ -48,11 +22,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨所在⟩"
+      "gloss": "就是"
     },
     {
       "surface": "בית",
-      "gloss": "殿"
+      "gloss": "殿中"
     },
     {
       "surface": "יהוה",
@@ -61,11 +35,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "盆座"
+      "marks": "銅座"
     },
     {
       "surface": "המכנות",
-      "gloss": "盆座"
+      "gloss": "座"
     },
     {
       "surface": "ואת",
@@ -82,11 +56,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨所在⟩"
+      "gloss": "就是"
     },
     {
       "surface": "בבית",
-      "gloss": "殿中"
+      "gloss": "在殿裡"
     },
     {
       "surface": "יהוה",
@@ -94,7 +68,7 @@
     },
     {
       "surface": "שברו",
-      "gloss": "打碎"
+      "gloss": "打碎了"
     },
     {
       "surface": "כשדים",
@@ -102,22 +76,22 @@
     },
     {
       "surface": "וישאו",
-      "gloss": "運走"
+      "gloss": "並運走"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那銅"
+      "marks": "它們的銅"
     },
     {
       "surface": "נחשתם",
-      "gloss": "那銅"
+      "gloss": "它們的銅"
     },
     {
       "surface": "בבלה",
       "gloss": "到巴比倫"
     }
   ],
-  "timestamp": "2026-10-16T07:06:48.714748879Z",
+  "timestamp": "2026-10-16T22:07:12.423407547Z",
   "model": "glm-5.3"
 }

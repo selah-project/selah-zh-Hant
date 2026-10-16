@@ -5,124 +5,103 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "את",
-      "rationale": "受詞記號⟨את⟩在譯文中以標號保留，指向「示巴的頭」。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שבע／שב",
-      "rationale": "示巴（שבע）叛亂因角聲而「回散」（ויפצו…שב），名字與結局的音近在中文中失落。"
-    }
-  ],
-  "translation": "那婦人憑她的智慧去見眾民，他們就割下比基里的兒子示巴的頭，拋給約押。他就吹角，眾人就離城分散，各人回自己的帳棚去。約押回耶路撒冷，到王那裡。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "f23f03b26b43d6965d91580b567b05980f41a1d782a80f5b67c164994f2f107a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/20\/21-24.1792132185654.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "那婦人憑她的智慧去見眾民，他們就砍下⟨את⟩比克里兒子示巴的頭，拋給約押。他吹了角，眾人就分散離開那城，各人回⟨自己的⟩帳棚；約押也回耶路撒冷，到王那裡去。",
   "tokens": [
     {
-      "surface": "ותבוא",
-      "gloss": "去見"
-    },
-    {
-      "surface": "האשה",
-      "gloss": "那婦人"
-    },
-    {
-      "surface": "אל",
+      "surface": "וַתָּבֹא",
       "gloss": "去"
     },
     {
-      "surface": "כל",
+      "surface": "הָאִשָּׁה",
+      "gloss": "那婦人"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "去見"
+    },
+    {
+      "surface": "כָּל",
       "gloss": "眾"
     },
     {
-      "surface": "העם",
+      "surface": "הָעָם",
       "gloss": "民"
     },
     {
-      "surface": "בחכמתה",
+      "surface": "בְּחָכְמָתָהּ",
       "gloss": "憑她的智慧"
     },
     {
-      "surface": "ויכרתו",
-      "gloss": "他們就割下"
+      "surface": "וַיִּכְרְתוּ",
+      "gloss": "他們就砍下"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "示巴的頭"
+      "marks": "比克里兒子示巴的頭"
     },
     {
-      "surface": "ראש",
+      "surface": "רֹאשׁ",
       "gloss": "頭"
     },
     {
-      "surface": "שבע",
+      "surface": "שֶׁבַע",
       "gloss": "示巴"
     },
     {
-      "surface": "בן",
+      "surface": "בֵּן",
       "gloss": "兒子"
     },
     {
-      "surface": "בכרי",
-      "gloss": "比基里"
+      "surface": "בִּכְרִי",
+      "gloss": "比克里"
     },
     {
-      "surface": "וישלכו",
+      "surface": "וַיַּשְׁלִיכוּ",
       "gloss": "拋給"
     },
     {
-      "surface": "אל",
+      "surface": "אֶל",
       "gloss": "給"
     },
     {
-      "surface": "יואב",
+      "surface": "יוֹאָב",
       "gloss": "約押"
     },
     {
-      "surface": "ויתקע",
-      "gloss": "他就吹"
+      "surface": "וַיִּתְקַע",
+      "gloss": "他吹了"
     },
     {
-      "surface": "בשופר",
+      "surface": "בַּשּׁוֹפָר",
       "gloss": "角"
     },
     {
-      "surface": "ויפצו",
-      "gloss": "分散"
+      "surface": "וַיָּפֻצוּ",
+      "gloss": "他們就分散"
     },
     {
-      "surface": "מעל",
+      "surface": "מֵעַל",
       "gloss": "離開"
     },
     {
-      "surface": "העיר",
-      "gloss": "城"
+      "surface": "הָעִיר",
+      "gloss": "那城"
     },
     {
-      "surface": "איש",
+      "surface": "אִישׁ",
       "gloss": "各人"
     },
     {
-      "surface": "לאהליו",
-      "gloss": "自己的帳棚"
+      "surface": "לְאֹהָלָיו",
+      "gloss": "回自己的帳棚"
     },
     {
-      "surface": "ויואב",
-      "gloss": "約押"
+      "surface": "וְיוֹאָב",
+      "gloss": "約押也"
     },
     {
-      "surface": "שב",
+      "surface": "שָׁב",
       "gloss": "回"
     },
     {
@@ -130,14 +109,14 @@
       "gloss": "耶路撒冷"
     },
     {
-      "surface": "אל",
+      "surface": "אֶל",
       "gloss": "到"
     },
     {
-      "surface": "המלך",
-      "gloss": "王那裡"
+      "surface": "הַמֶּֽלֶךְ",
+      "gloss": "王"
     }
   ],
-  "timestamp": "2026-10-16T06:29:45.656125297Z",
+  "timestamp": "2026-10-16T22:10:29.635763991Z",
   "model": "glm-5.3"
 }

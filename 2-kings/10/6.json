@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אנשי",
-      "rationale": "「眾子的人」即僕從，中文以「眾子」直承首級所指"
-    },
-    {
-      "kind": "hapax",
-      "subject": "עת־מחר",
-      "rationale": "「明日這時候」為耶戶書信的時限語"
-    }
-  ],
-  "translation": "耶戶又第二次寫信給他們，說：「你們若歸我，聽從我的話，就要取你們主人眾子的首級，明日這時候到耶斯列來見我。」那時王的眾子七十人與這城的大人物同在，由他們教養。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "be1a8a770bff10a9c15a04819da693d976c4ea2f28d5c234a34a1968f393f857",
-    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/2-kings/10/5-8.1792133843893.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他第二次寫信給他們，說：「你們若屬於我，又聽從我的聲音，就把你們主人眾子的這些首級取來，明天這時候到耶斯列見我。」王的眾子七十人與 ⟨את⟩ 城中的尊貴人同在，尊貴人養育 ⟨את⟩ 他們。",
   "tokens": [
     {
       "surface": "ויכתב",
-      "gloss": "寫信"
+      "gloss": "他就寫了"
     },
     {
       "surface": "אליהם",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "ספר",
-      "gloss": "信"
+      "gloss": "一封信"
     },
     {
       "surface": "שנית",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "歸我"
+      "gloss": "屬於我"
     },
     {
       "surface": "אתם",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "ולקלי",
-      "gloss": "聽從我的話"
+      "gloss": "又聽從我的聲音"
     },
     {
       "surface": "אתם",
@@ -70,11 +49,11 @@
     },
     {
       "surface": "שמעים",
-      "gloss": "聽"
+      "gloss": "聽從"
     },
     {
       "surface": "קחו",
-      "gloss": "取"
+      "gloss": "你們要取"
     },
     {
       "surface": "את",
@@ -87,11 +66,11 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "眾人"
+      "gloss": "這些人"
     },
     {
       "surface": "בני",
-      "gloss": "眾子"
+      "gloss": "的眾子"
     },
     {
       "surface": "אדניכם",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "ובאו",
-      "gloss": "來"
+      "gloss": "你們要到"
     },
     {
       "surface": "אלי",
@@ -111,7 +90,7 @@
     },
     {
       "surface": "מחר",
-      "gloss": "明日"
+      "gloss": "明天"
     },
     {
       "surface": "יזרעאלה",
@@ -135,30 +114,26 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ 與"
+      "gloss": "⟨את⟩",
+      "marks": "城中的尊貴人"
     },
     {
       "surface": "גדלי",
-      "gloss": "大人物"
+      "gloss": "尊貴人"
     },
     {
       "surface": "העיר",
-      "gloss": "這城"
+      "gloss": "城中的"
     },
     {
       "surface": "מגדלים",
-      "gloss": "教養"
+      "gloss": "養育"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "他們"
+      "gloss": "⟨את⟩他們"
     }
   ],
-  "timestamp": "2026-10-16T06:57:23.894371787Z",
-  "model": "glm-5.3",
-  "s2t": {
-    "date": "2026-10-16",
-    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
-  }
+  "timestamp": "2026-10-16T23:01:08.681407563Z",
+  "model": "glm-5.3"
 }

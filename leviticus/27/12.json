@@ -5,75 +5,54 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הכהן（第二次）",
-      "rationale": "「按你的估價，祭司啊」——呼格，KJV 譯作 ”who art the priest”；此處以括號標出稱呼"
-    },
-    {
-      "kind": "idiom",
-      "subject": "בין…ובין",
-      "rational": "希伯來文「在…之間與…之間」成對結構，中文作「是…還是…」"
-    }
-  ],
-  "translation": "祭司要估 ⟨את⟩ 牠的價——是好是壞；你〈祭司〉怎樣估價，就怎樣定。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "e174fe90c7428d0f767fae28221089bd4291412d7cfd52f5551113b1989b8244",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/27\/9-12.1792127355403.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "祭司要估定 ⟨את⟩ 牠，或好或壞；祭司怎樣估定你，就怎樣成立。",
   "tokens": [
     {
-      "surface": "והעריך",
-      "gloss": "要估價"
+      "surface": "וְהֶעֱרִיךְ",
+      "gloss": "要估定"
     },
     {
-      "surface": "הכהן",
+      "surface": "הַכֹּהֵן",
       "gloss": "祭司"
     },
     {
-      "surface": "אתה",
+      "surface": "אֹתָהּ",
       "gloss": "⟨את⟩",
       "marks": "牠"
     },
     {
-      "surface": "בין",
-      "gloss": "是"
+      "surface": "בֵּין",
+      "gloss": "在…之間"
     },
     {
-      "surface": "טוב",
+      "surface": "טוֹב",
       "gloss": "好"
     },
     {
-      "surface": "ובין",
-      "gloss": "還是"
+      "surface": "וּבֵין",
+      "gloss": "與…之間"
     },
     {
-      "surface": "רע",
+      "surface": "רַע",
       "gloss": "壞"
     },
     {
-      "surface": "כערכך",
-      "gloss": "怎樣估價"
+      "surface": "כְּעֶרְכְּךָ",
+      "gloss": "按照你的估定"
     },
     {
-      "surface": "הכהן",
-      "gloss": "〈祭司〉"
+      "surface": "הַכֹּהֵן",
+      "gloss": "祭司"
     },
     {
-      "surface": "כן",
-      "gloss": "就那樣"
+      "surface": "כֵּן",
+      "gloss": "如此"
     },
     {
-      "surface": "יהיה",
-      "gloss": "定"
+      "surface": "יִהְיֶה",
+      "gloss": "就成立"
     }
   ],
-  "timestamp": "2026-10-16T05:09:15.404368376Z",
+  "timestamp": "2026-10-16T22:50:33.865942903Z",
   "model": "glm-5.3"
 }

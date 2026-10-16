@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 39,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "呢",
-      "rationale": "中文語氣需要的語氣詞，希伯來文無"
-    },
-    {
-      "kind": "you",
-      "subject": "to his master's wife",
-      "rationale": "約瑟直接對主人之妻說話"
-    },
-    {
-      "kind": "crux",
-      "subject": "איננו",
-      "rationale": "『他不大於我』（KJV\/ASV 以第三人稱指波提乏）或『沒有比我更大的』（更自然的講法）；語境是約瑟論自己的地位"
-    }
-  ],
-  "translation": "在這家中沒有比我更大的，他也沒有留下甚麼不給我，只有你除外，因為你是他的妻子。我怎能行這大惡，得罪以羅欣呢？",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c04e69d437915b05e37efcdb04985358cb19188ba060e1f823988496297f7117",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/39\/9-12.1792125381712.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "在這家裡沒有比我更大的，他沒有留下任何東西不給我，只留下你，因為你是他的妻子⟨את⟩。我怎能行這大惡，得罪以羅欣呢？」",
   "tokens": [
     {
       "surface": "איננו",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "גדול",
-      "gloss": "更大"
+      "gloss": "更大的"
     },
     {
       "surface": "בבית",
-      "gloss": "在……家中"
+      "gloss": "在這家裡"
     },
     {
       "surface": "הזה",
@@ -55,11 +29,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "也沒有"
+      "gloss": "沒有"
     },
     {
       "surface": "חשך",
-      "gloss": "留下不給"
+      "gloss": "留下"
     },
     {
       "surface": "ממני",
@@ -67,20 +41,20 @@
     },
     {
       "surface": "מאומה",
-      "gloss": "甚麼"
+      "gloss": "任何東西"
     },
     {
       "surface": "כי",
-      "gloss": "只有"
+      "gloss": "只"
     },
     {
       "surface": "אם",
-      "gloss": "除外"
+      "gloss": "（除非）"
     },
     {
       "surface": "אותך",
       "gloss": "⟨את⟩",
-      "marks": "你"
+      "marks": "你（除你以外）"
     },
     {
       "surface": "באשר",
@@ -88,7 +62,8 @@
     },
     {
       "surface": "את",
-      "gloss": "你"
+      "gloss": "⟨את⟩",
+      "marks": "你（你是）"
     },
     {
       "surface": "אשתו",
@@ -96,7 +71,7 @@
     },
     {
       "surface": "ואיך",
-      "gloss": "怎能"
+      "gloss": "我怎能"
     },
     {
       "surface": "אעשה",
@@ -123,6 +98,6 @@
       "gloss": "以羅欣"
     }
   ],
-  "timestamp": "2026-10-16T04:36:21.714009417Z",
+  "timestamp": "2026-10-16T22:30:30.368635676Z",
   "model": "glm-5.3"
 }

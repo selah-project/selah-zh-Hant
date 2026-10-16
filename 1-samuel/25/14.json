@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ויעט",
-      "rationale": "字根意為「猛撲、如鷹俯衝」；和合本作「辱罵」，YLt「飛撲」，本譯取「咆哮」保留猛禽撲擊的畫面"
-    },
-    {
-      "kind": "substitution",
-      "subject": "לברך",
-      "rationale": "字面為「祝福／問安」，僕人以敬語稱主人的問安之禮"
-    }
-  ],
-  "translation": "拿八的妻子亞比該那裡，有一個少年人從少年人中出來告訴她說：「看哪，大衛從曠野打發使者來向我主人請安，他卻向他們咆哮。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "f31918c70d8ab991d80eaaa3feb942cda977601c4cac09f9b1e91c21798a190b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/25\/13-16.1792131438663.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "有一個僕人從少年們中告訴了拿八的妻子亞比該，說：「看哪，大衛從曠野打發使者來向我主人問安祝福，他卻向他們怒斥。」",
   "tokens": [
     {
       "surface": "ולאביגיל",
-      "gloss": "亞比該"
+      "gloss": "向亞比該"
     },
     {
       "surface": "אשת",
@@ -42,19 +21,19 @@
     },
     {
       "surface": "הגיד",
-      "gloss": "告訴"
+      "gloss": "告訴了"
     },
     {
       "surface": "נער",
-      "gloss": "一個少年人"
+      "gloss": "一個少年"
     },
     {
       "surface": "אחד",
-      "gloss": "一"
+      "gloss": "一個"
     },
     {
       "surface": "מהנערים",
-      "gloss": "從少年人中"
+      "gloss": "從少年們中"
     },
     {
       "surface": "לאמר",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "לברך",
-      "gloss": "來……請安"
+      "gloss": "來祝福"
     },
     {
       "surface": "את",
@@ -95,13 +74,13 @@
     },
     {
       "surface": "ויעט",
-      "gloss": "咆哮"
+      "gloss": "他卻怒斥"
     },
     {
       "surface": "בהם",
       "gloss": "向他們"
     }
   ],
-  "timestamp": "2026-10-16T06:17:18.664272410Z",
+  "timestamp": "2026-10-16T22:01:54.049464568Z",
   "model": "glm-5.3"
 }

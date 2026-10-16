@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈他〉",
-      "rationale": "希伯來文動詞形已含主語（那位許願者），中文需補出。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "葡萄乾",
-      "rationale": "יבשים字面是「乾的」，指曬乾的葡萄。"
-    }
-  ],
-  "translation": "〈他〉要遠避酒和濃酒；葡萄酒的醋、濃酒的醋都不可喝；任何葡萄的汁都不可喝；鮮葡萄和葡萄乾也不可吃。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "743e64924af960efb46e38b43799081fa4ad958eb3537626317e0b8d19f08eab",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/6\/1-4.1792127638138.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他要遠離酒和濃酒；醋，無論是酒的醋或是濃酒的醋，他都不可喝；任何葡萄浸泡的汁液，他都不可喝；新鮮的葡萄和乾葡萄，他都不可吃。",
   "tokens": [
     {
       "surface": "מיין",
-      "gloss": "酒"
+      "gloss": "要遠離酒"
     },
     {
       "surface": "ושכר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "יזיר",
-      "gloss": "〈他〉要遠避"
+      "gloss": "他要遠離"
     },
     {
       "surface": "חמץ",
@@ -46,15 +25,15 @@
     },
     {
       "surface": "יין",
-      "gloss": "葡萄酒"
+      "gloss": "酒的"
     },
     {
       "surface": "וחמץ",
-      "gloss": "和醋"
+      "gloss": "或是醋"
     },
     {
       "surface": "שכר",
-      "gloss": "濃酒"
+      "gloss": "濃酒的"
     },
     {
       "surface": "לא",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "משרת",
-      "gloss": "……的汁"
+      "gloss": "浸泡的汁液"
     },
     {
       "surface": "ענבים",
@@ -90,11 +69,11 @@
     },
     {
       "surface": "לחים",
-      "gloss": "鮮"
+      "gloss": "新鮮的"
     },
     {
       "surface": "ויבשים",
-      "gloss": "和葡萄乾"
+      "gloss": "和乾的"
     },
     {
       "surface": "לא",
@@ -105,6 +84,6 @@
       "gloss": "吃"
     }
   ],
-  "timestamp": "2026-10-16T05:13:58.139783013Z",
+  "timestamp": "2026-10-16T22:56:40.265664595Z",
   "model": "glm-5.3"
 }

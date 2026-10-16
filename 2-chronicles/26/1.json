@@ -5,40 +5,19 @@
   "book": "2-chronicles",
   "lang": "zh-Hant",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "בן שש עשרה שנה",
-      "rationale": "希伯來文直譯「十六年之子」，中文以年歲慣用語譯出"
-    },
-    {
-      "kind": "measurement",
-      "subject": "שש עשרה שנה",
-      "rationale": "登基年齡十六歲"
-    }
-  ],
-  "translation": "猶大眾民就取了烏西雅——他十六歲——立他作王，代替他父親亞瑪謝。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "7d9a2d034a03135cab36b77fa342f1a2f32669433a2edb137ef85edcdcc7d896",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/26\/1-4.1792149538302.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "猶大全民眾立了 ⟨את⟩ 烏西雅——他十六歲——立他作王，接替他父親亞瑪謝。",
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "取了"
+      "gloss": "立了"
     },
     {
       "surface": "כל",
-      "gloss": "眾"
+      "gloss": "全"
     },
     {
       "surface": "עם",
-      "gloss": "民"
+      "gloss": "民眾"
     },
     {
       "surface": "יהודה",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "歲（之子）"
+      "gloss": "歲"
     },
     {
       "surface": "שש",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "שנה",
-      "gloss": "年"
+      "gloss": "歲"
     },
     {
       "surface": "וימליכו",
@@ -79,12 +58,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "烏西雅"
+      "gloss": "⟨את⟩",
+      "marks": "他"
     },
     {
       "surface": "תחת",
-      "gloss": "代替"
+      "gloss": "接替"
     },
     {
       "surface": "אביו",
@@ -95,6 +74,6 @@
       "gloss": "亞瑪謝"
     }
   ],
-  "timestamp": "2026-10-16T11:18:58.303129595Z",
+  "timestamp": "2026-10-16T22:03:39.052660774Z",
   "model": "glm-5.3"
 }

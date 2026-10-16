@@ -5,54 +5,38 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "פדר",
-      "rationale": "פדר（脂油）在《塔納赫》中僅見於獻祭條例的少數經文，專指牲畜的板油"
-    }
-  ],
-  "translation": "要把牠切成 ⟨אתו⟩ 一塊一塊，連 ⟨את⟩ 頭和 ⟨את⟩ 脂油；祭司要把 ⟨אתם⟩ 這些擺列在壇上火上〈的〉柴上。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "9bd2b52cafa60a50ad3b405c210a2b603f0498b7401045f1b4d9a7b74a1ec319",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/1\/9-12.1792126663032.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "要把牠切成塊子，⟨את⟩ 牠的頭和 ⟨את⟩ 牠的脂油，祭司要把 ⟨את⟩ 這些擺列在壇上火上放的柴上，",
   "tokens": [
     {
       "surface": "ונתח",
-      "gloss": "要切成塊"
+      "gloss": "要切成塊子"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "牠"
+      "marks": "牠的頭和牠的脂油"
     },
     {
       "surface": "לנתחיו",
-      "gloss": "一塊一塊"
+      "gloss": "按牠的塊子"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "頭"
+      "marks": "牠的頭"
     },
     {
       "surface": "ראשו",
-      "gloss": "頭"
+      "gloss": "牠的頭"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "脂油"
+      "marks": "牠的脂油"
     },
     {
       "surface": "פדרו",
-      "gloss": "脂油"
+      "gloss": "牠的脂油"
     },
     {
       "surface": "וערך",
@@ -65,11 +49,11 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "這些"
+      "marks": "這些（頭與脂油）"
     },
     {
       "surface": "על",
-      "gloss": "在…上"
+      "gloss": "在……上"
     },
     {
       "surface": "העצים",
@@ -77,11 +61,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "那"
     },
     {
       "surface": "על",
-      "gloss": "在…上"
+      "gloss": "在……上"
     },
     {
       "surface": "האש",
@@ -89,17 +73,17 @@
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "那"
     },
     {
       "surface": "על",
-      "gloss": "在…上"
+      "gloss": "在……上"
     },
     {
       "surface": "המזבח",
       "gloss": "壇"
     }
   ],
-  "timestamp": "2026-10-16T04:57:43.033763649Z",
+  "timestamp": "2026-10-16T22:48:39.166219377Z",
   "model": "glm-5.3"
 }

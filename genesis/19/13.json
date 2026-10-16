@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "את פני",
-      "rationale": "此處 את 是「靠近」義的介詞（非受詞記號），與 פני 合成「在……面前」，故不標 ⟨את⟩"
-    },
-    {
-      "kind": "substitution",
-      "subject": "毀滅",
-      "rationale": "משחתים／לשחתה 同一詞根 שחת 出現兩次，中文皆作「毀滅」以保持一詞到底"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שחת",
-      "rationale": "本節三次出現 שחת 詞根（毀滅者—毀滅—毀滅它），形成環繞結構"
-    }
-  ],
-  "translation": "因為我們將要毀滅 ⟨את⟩ 這地方，因為他們的哀聲在雅威面前已經大了，雅威差遣我們來毀滅它。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "99189e1901fc68848fd525dfc9b1b98a0af3340c7b9c2f076acf22da63323fc0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/19\/13-16.1792124898581.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "因為我們要毀滅 ⟨את⟩ 這地方，因為他們在雅威面前 ⟨את⟩ 的哀聲已經大了，雅威差遣我們來毀滅它。」",
   "tokens": [
     {
       "surface": "כי",
@@ -56,7 +30,7 @@
     },
     {
       "surface": "הזה",
-      "gloss": "這"
+      "gloss": "這個"
     },
     {
       "surface": "כי",
@@ -72,7 +46,8 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ 在"
+      "gloss": "⟨את⟩",
+      "marks": "雅威的面"
     },
     {
       "surface": "פני",
@@ -95,6 +70,6 @@
       "gloss": "來毀滅它"
     }
   ],
-  "timestamp": "2026-10-16T04:28:18.581884072Z",
+  "timestamp": "2026-10-16T22:27:45.880849851Z",
   "model": "glm-5.3"
 }

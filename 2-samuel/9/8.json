@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כלב מת",
-      "rationale": "「死狗」是希伯來文自貶習語，表極其卑微無用，中文保留直譯"
-    },
-    {
-      "kind": "substitution",
-      "subject": "פנית אל",
-      "rationale": "字面「轉向」，譯作「眷顧」以合語境"
-    }
-  ],
-  "translation": "他又下拜，說：「僕人算什麼，你竟眷顧我這樣一條死狗一般的人呢？」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b2430ab23e4e3277b632c5ee95cb5df372b7c291bc8e1dfc03d75dfd1a533fb0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/9\/5-8.1792131827866.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他俯伏下拜，說：「僕人是什麼人，你竟眷顧 ⟨את⟩ 這死狗一般的人，像我一樣的呢？」",
   "tokens": [
     {
       "surface": "וישתחו",
-      "gloss": "下拜"
+      "gloss": "俯伏下拜"
     },
     {
       "surface": "ויאמר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "算什麼"
+      "gloss": "什麼"
     },
     {
       "surface": "עבדך",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "竟"
+      "gloss": "竟然"
     },
     {
       "surface": "פנית",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "אל",
-      "gloss": " toward"
+      "gloss": "轉向"
     },
     {
       "surface": "הכלב",
-      "gloss": "死狗"
+      "gloss": "這狗"
     },
     {
       "surface": "המת",
@@ -66,13 +45,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "這樣……一般"
+      "gloss": "像"
     },
     {
       "surface": "כמוני",
-      "gloss": "像我"
+      "gloss": "像我一樣的"
     }
   ],
-  "timestamp": "2026-10-16T06:23:47.867327390Z",
+  "timestamp": "2026-10-16T22:11:26.752893487Z",
   "model": "glm-5.3"
 }

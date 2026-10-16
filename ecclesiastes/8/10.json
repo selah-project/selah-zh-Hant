@@ -5,41 +5,15 @@
   "book": "ecclesiastes",
   "lang": "zh-Hant",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "קברים",
-      "rationale": "'被埋葬'（被動分詞）與'墳墓'（名詞複數）讀法分歧；另有讀作 קרבים（靠近聖所）之說"
-    },
-    {
-      "kind": "crux",
-      "subject": "וממקום קדוש יהלכו",
-      "rationale": "主語是誰、動詞時態如何，各家譯本歧異極大：惡人進出聖所（BSB）還是義人離開聖所（ASV\/JPS）"
-    },
-    {
-      "kind": "crux",
-      "subject": "וישתכחו בעיר אשר כן עשו",
-      "rational": "被遺忘的是惡人，還是他們在城中反被稱讚（將 שבח 之異文讀法），譯本分歧"
-    }
-  ],
-  "translation": "於是我又看見惡人被埋葬；他們生前曾進出聖所，在那城裡他們行事如此，〈如今〉卻被遺忘。這也是虛空。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "3965f14a778b1f219bcbcff5d8466f8d59c2570cf7ea3cfa5ce639dcb84d2dff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ecclesiastes\/8\/9-12.1792147071073.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "於是我曾看見惡人被埋葬：他們曾進前來，又從聖所出入往來，而他們竟在那城裡被遺忘——他們曾如此行。這也是虛空。",
   "tokens": [
     {
       "surface": "ובכן",
-      "gloss": "於是又"
+      "gloss": "於是"
     },
     {
       "surface": "ראיתי",
-      "gloss": "我看見"
+      "gloss": "我曾看見"
     },
     {
       "surface": "רשעים",
@@ -51,15 +25,15 @@
     },
     {
       "surface": "ובאו",
-      "gloss": "曾進"
+      "gloss": "他們曾進前來"
     },
     {
       "surface": "וממקום",
-      "gloss": "從……之處"
+      "gloss": "又從⟨那⟩地方"
     },
     {
       "surface": "קדוש",
-      "gloss": "聖"
+      "gloss": "聖所"
     },
     {
       "surface": "יהלכו",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "וישתכחו",
-      "gloss": "卻被遺忘"
+      "gloss": "而他們竟被遺忘"
     },
     {
       "surface": "בעיר",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "在那裡"
+      "gloss": "——"
     },
     {
       "surface": "כן",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "עשו",
-      "gloss": "行事"
+      "gloss": "行"
     },
     {
       "surface": "גם",
@@ -98,6 +72,6 @@
       "gloss": "虛空"
     }
   ],
-  "timestamp": "2026-10-16T10:37:51.073888706Z",
+  "timestamp": "2026-10-16T22:16:33.037342678Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "神明",
-      "rationale": "אלהיהם 此處指外邦諸神，按紀律用「神明」，不用「以羅欣」"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יראים／עבדים",
-      "rationale": "「敬畏」與「事奉」並列的對仗結構，中文保留兩個動詞的張力"
-    }
-  ],
-  "translation": "他們敬畏 ⟨את⟩ 雅威，卻又事奉 ⟨את⟩ 他們的神明，照著雅威從那裡遷移他們所離開之列國的規矩。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "5123703e21274f015e33feb243784e6278305d4b5ddb90c95ad63042c4d4070d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/17\/33-36.1792134044672.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們敬畏 ⟨את⟩ 雅威，卻又事奉 ⟨את⟩ 他們自己的神明，照著雅威從那裡遷移他們之 ⟨את⟩ 前的各國民的規例。",
   "tokens": [
     {
       "surface": "את",
@@ -39,7 +18,7 @@
     },
     {
       "surface": "היו",
-      "gloss": "他們成為"
+      "gloss": "他們"
     },
     {
       "surface": "יראים",
@@ -48,7 +27,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "他們的神明"
+      "marks": "他們自己的神明"
     },
     {
       "surface": "אלהיהם",
@@ -56,7 +35,7 @@
     },
     {
       "surface": "היו",
-      "gloss": "他們成為"
+      "gloss": "他們"
     },
     {
       "surface": "עבדים",
@@ -64,15 +43,15 @@
     },
     {
       "surface": "כמשפט",
-      "gloss": "照著……的規矩"
+      "gloss": "照著…的規例"
     },
     {
       "surface": "הגוים",
-      "gloss": "列國"
+      "gloss": "各國民"
     },
     {
       "surface": "אשר",
-      "gloss": "那些"
+      "gloss": "的"
     },
     {
       "surface": "הגלו",
@@ -88,6 +67,6 @@
       "gloss": "從那裡"
     }
   ],
-  "timestamp": "2026-10-16T07:00:44.673590702Z",
+  "timestamp": "2026-10-16T22:06:05.196519594Z",
   "model": "glm-5.3"
 }

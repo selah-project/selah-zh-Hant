@@ -5,36 +5,15 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אחי אמו",
-      "rationale": "「他母親的兄弟」一句在經文中重複三次，凸顯親屬關係；中文保留三次重複"
-    },
-    {
-      "kind": "idiom",
-      "subject": "פי הבאר",
-      "rationale": "「井的口」為希伯來慣用語，指井口開處"
-    }
-  ],
-  "translation": "雅各看見 ⟨את⟩ 拉結——拉班的女兒，他母親的兄弟——和 ⟨אתו⟩ 拉班他母親的兄弟的羊群，雅各就上前，把石頭從井口輥開，飲了 ⟨אותם⟩ 拉班他母親的兄弟的羊群。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "0a902f14c1f15c2d632590fb0e3714c40ebbcb1ebb0e3fa2311c3f58890e6ff2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/29\/9-12.1792125128008.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "當雅各看見 ⟨את⟩ 拉結——拉班的女兒、他母親的兄弟——以及 ⟨את⟩ 拉班——他母親的兄弟——的羊群時，雅各就上前，把石頭從井口輥開，飲了 ⟨את⟩ 拉班——他母親的兄弟——的羊群。",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "發生了"
+      "gloss": "當……時"
     },
     {
       "surface": "כאשר",
-      "gloss": "當……的時候"
+      "gloss": "當……時"
     },
     {
       "surface": "ראה",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "和⟨את⟩",
+      "gloss": "以及 ⟨את⟩",
       "marks": "羊群"
     },
     {
@@ -113,7 +92,7 @@
     },
     {
       "surface": "מעל",
-      "gloss": "從"
+      "gloss": "從……之上"
     },
     {
       "surface": "פי",
@@ -149,6 +128,6 @@
       "gloss": "他母親的"
     }
   ],
-  "timestamp": "2026-10-16T04:32:08.009600790Z",
+  "timestamp": "2026-10-16T22:29:09.924342833Z",
   "model": "glm-5.3"
 }

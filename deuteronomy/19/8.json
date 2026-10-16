@@ -5,27 +5,11 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "conditional",
-      "subject": "條件句",
-      "rationale": "本節以「若」開頭，條件的結果（加添三城）落在下一節；句子懸而未結"
-    }
-  ],
-  "translation": "雅威你的以羅欣若擴張你的地界，正如他向你列祖所起誓的，又將他應許賜給你列祖的全地賜給你——",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "af648f85f7503a185dc4d6de2d818085a391e30d70cc50edf2e10e22967e8205",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/19\/5-8.1792128949388.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "倘若雅威你的以羅欣擴張你的疆界，正如他向你的列祖所起誓的，並將他曾說過要賜給你列祖的那全地都賜給你——⟨את⟩ 你的疆界、⟨את⟩ 那全地，",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "若"
+      "gloss": "倘若"
     },
     {
       "surface": "ירחיב",
@@ -42,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "你的地界"
+      "marks": "你的疆界"
     },
     {
       "surface": "גבלך",
-      "gloss": "你的地界"
+      "gloss": "你的疆界"
     },
     {
       "surface": "כאשר",
@@ -58,11 +42,11 @@
     },
     {
       "surface": "לאבתיך",
-      "gloss": "向你列祖"
+      "gloss": "向你的列祖"
     },
     {
       "surface": "ונתן",
-      "gloss": "賜給"
+      "gloss": "並賜給"
     },
     {
       "surface": "לך",
@@ -71,33 +55,33 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "全地"
+      "marks": "那全地"
     },
     {
       "surface": "כל",
-      "gloss": "全"
+      "gloss": "全部"
     },
     {
       "surface": "הארץ",
-      "gloss": "地"
+      "gloss": "那地"
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "那"
     },
     {
       "surface": "דבר",
-      "gloss": "應許"
+      "gloss": "說過"
     },
     {
       "surface": "לתת",
-      "gloss": "賜給"
+      "gloss": "要賜給"
     },
     {
       "surface": "לאבתיך",
-      "gloss": "你列祖"
+      "gloss": "你的列祖"
     }
   ],
-  "timestamp": "2026-10-16T05:35:49.390080968Z",
+  "timestamp": "2026-10-16T22:13:39.096443193Z",
   "model": "glm-5.3"
 }

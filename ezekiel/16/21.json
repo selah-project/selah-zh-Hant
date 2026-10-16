@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "火",
-      "rationale": "傳統譯本（如和合本、KJV）添「經火／through the fire」，希伯來文本節無「火」字"
-    },
-    {
-      "kind": "substitution",
-      "subject": "להם 歸給它們",
-      "rationale": "「它們」指前文的偶像，中文以代詞保留原文的含混指向"
-    }
-  ],
-  "translation": "你宰殺了 ⟨את⟩ 你的眾子，又把他們交出來，使他們經過，歸給它們。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "04c8bb08b3ec3732714ea3ff85375fe999c2582d6214ae6e4ee4348f629d39ed",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/16\/21-24.1792138234270.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你宰殺了 ⟨את⟩ 我的兒女，又把他們交出來，使他們經過⟨火⟩歸給他們。",
   "tokens": [
     {
       "surface": "ותשחטי",
@@ -35,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "你的眾子"
+      "marks": "我的兒女"
     },
     {
       "surface": "בני",
-      "gloss": "你的眾子"
+      "gloss": "我的兒女"
     },
     {
       "surface": "ותתנים",
@@ -47,18 +26,18 @@
     },
     {
       "surface": "בהעביר",
-      "gloss": "使之經過"
+      "gloss": "使……經過"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "他們"
+      "marks": "他們（歸給他們）"
     },
     {
       "surface": "להם",
-      "gloss": "歸給它們"
+      "gloss": "歸給他們"
     }
   ],
-  "timestamp": "2026-10-16T08:10:34.271504050Z",
+  "timestamp": "2026-10-16T22:22:19.924152632Z",
   "model": "glm-5.3"
 }

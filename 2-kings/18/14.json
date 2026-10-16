@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "人",
-      "rationale": "וישלח未言明所打發之物，中文需補受詞"
-    },
-    {
-      "kind": "measurement",
-      "subject": "三百他連得銀子、三十他連得金子",
-      "rationale": "進貢的銀金重量清單"
-    },
-    {
-      "kind": "you",
-      "subject": "希西家對亞述王",
-      "rationale": "進貢的求和之言直接向亞述王說出"
-    }
-  ],
-  "translation": "猶大王希西家打發人往拉吉去見亞述王，說：「我犯了罪，求你從我這裡退去；凡你加在我身上的，我都必承擔。」於是亞述王在猶大王希西家身上定了三百他連得銀子、三十他連得金子。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "43c029305de39882329eef63c978ccf8794fea6d3bbac64af55232c566b08ba1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/18\/13-16.1792134052989.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "猶大王希西家差遣使者到拉吉去見亞述王，說：「我犯了罪，求你從我這裏退去；凡你加在我身上的，我都必承擔。」於是亞述王在猶大王希西家身上定了 ⟨את⟩ 三百他連得銀子、三十他連得金子。",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "打發"
+      "gloss": "差遣"
     },
     {
       "surface": "חזקיה",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "去見"
+      "gloss": "到"
     },
     {
       "surface": "מלך",
@@ -79,16 +53,16 @@
     },
     {
       "surface": "מעלי",
-      "gloss": "從我這裡"
+      "gloss": "從我這裏"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "凡你加在我身上的"
+      "marks": "凡你加在我身上的（אשר 一語）"
     },
     {
       "surface": "אשר",
-      "gloss": "……的"
+      "gloss": "凡"
     },
     {
       "surface": "תתן",
@@ -104,7 +78,7 @@
     },
     {
       "surface": "וישם",
-      "gloss": "於是……定了"
+      "gloss": "定了"
     },
     {
       "surface": "מלך",
@@ -159,6 +133,6 @@
       "gloss": "金子"
     }
   ],
-  "timestamp": "2026-10-16T07:00:52.990840832Z",
+  "timestamp": "2026-10-16T22:06:23.817262775Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "isaiah",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "נראה",
-      "rationale": "或作「當摩押顯現（在邱壇上）」（ASV），或被動「當它被看見」；KJV取「當它被看見摩押已疲乏」。"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי（第二個）",
-      "rationale": "重複的連接詞在中文中以一句含納，不另譯出。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "יוכל",
-      "rationale": "字面是「不能」，即祈求無力奏效；譯作不能成就以達意。"
-    }
-  ],
-  "translation": "當摩押在邱壇上顯得疲乏，他必進入他的聖所去祈求，卻不能成就。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "bf9593849a5e5153b36bb4168f6b9b067a8895822ab24fa9211e4cbe4a7827e1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/16\/9-12.1792134853538.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "當摩押在邱壇上顯得疲乏、力竭的時候，他必進入他的聖所去祈禱，卻不能〈成功〉。",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "必發生"
+      "gloss": "必臨到"
     },
     {
       "surface": "כי",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "的時候"
     },
     {
       "surface": "נלאה",
@@ -59,11 +33,11 @@
     },
     {
       "surface": "על",
-      "gloss": "在"
+      "gloss": "在……上"
     },
     {
       "surface": "הבמה",
-      "gloss": "邱壇上"
+      "gloss": "邱壇"
     },
     {
       "surface": "ובא",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "去"
+      "gloss": "到"
     },
     {
       "surface": "מקדשו",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "להתפלל",
-      "gloss": "祈求"
+      "gloss": "去祈禱"
     },
     {
       "surface": "ולא",
@@ -87,9 +61,9 @@
     },
     {
       "surface": "יוכל",
-      "gloss": "能成就"
+      "gloss": "能"
     }
   ],
-  "timestamp": "2026-10-16T07:14:13.539526491Z",
+  "timestamp": "2026-10-16T22:34:02.808440367Z",
   "model": "glm-5.3"
 }

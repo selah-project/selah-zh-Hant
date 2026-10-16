@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אתך",
-      "rationale": "此處 אתך 是 H854 的「與你同在」，非受詞記號 את H853，故不帶 ⟨את⟩ 標記"
-    },
-    {
-      "kind": "you",
-      "subject": "to 亞倫",
-      "rationale": "本節直接向亞倫和他兒子們說話（延續第8節雅威對亞倫的曉諭）"
-    },
-    {
-      "kind": "alternative",
-      "subject": "免得你們死亡",
-      "rationale": "וְלֹא תָמֻתוּ 字面是「你們不可死」，可作目的式（免得）或結果式（這樣你們就不致死亡）"
-    }
-  ],
-  "translation": "「酒和濃酒，你和你兒子們都不可喝，在你們進會幕的時候，免得你們死亡；這是你們世世代代永遠的定例。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "7e2d65fcf001e04082906623344a463529b459d903ef2e418d137a3e6b2cbf8d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/10\/9-12.1792126839781.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "「酒和烈酒，你和你兒子都不可喝，當你們進入會幕的時候，免得你們死亡；這是你們世世代代永遠的定例。",
   "tokens": [
     {
       "surface": "יין",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "ושכר",
-      "gloss": "和濃酒"
+      "gloss": "和烈酒"
     },
     {
       "surface": "אל",
@@ -55,35 +29,35 @@
     },
     {
       "surface": "ובניך",
-      "gloss": "和你兒子們"
+      "gloss": "和你兒子"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ 與你同"
+      "gloss": "⟨את⟩與你同"
     },
     {
       "surface": "בבאכם",
-      "gloss": "在你們進入的時候"
+      "gloss": "當你們進入"
     },
     {
       "surface": "אל",
-      "gloss": "進入"
+      "gloss": "⟨進入⟩"
     },
     {
       "surface": "אהל",
-      "gloss": "帳棚"
-    },
-    {
-      "surface": "מועד",
       "gloss": "會幕"
     },
     {
+      "surface": "מועד",
+      "gloss": "⟨會幕⟩"
+    },
+    {
       "surface": "ולא",
-      "gloss": "免得"
+      "gloss": "免得你們不"
     },
     {
       "surface": "תמתו",
-      "gloss": "你們死亡"
+      "gloss": "死亡"
     },
     {
       "surface": "חקת",
@@ -91,13 +65,13 @@
     },
     {
       "surface": "עולם",
-      "gloss": "永遠"
+      "gloss": "永遠的"
     },
     {
       "surface": "לדרתיכם",
-      "gloss": "你們的世世代代"
+      "gloss": "你們世世代代"
     }
   ],
-  "timestamp": "2026-10-16T05:00:39.782682499Z",
+  "timestamp": "2026-10-16T22:48:42.881176431Z",
   "model": "glm-5.3"
 }

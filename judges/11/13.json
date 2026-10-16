@@ -5,33 +5,7 @@
   "book": "judges",
   "lang": "zh-Hant",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אתהן",
-      "rationale": "陰性複數受詞記號「她們」：各譯本作「那些地／那些城邑」；希伯來文以陰性複數指地。"
-    },
-    {
-      "kind": "measurement",
-      "subject": "疆界",
-      "rationale": "從亞嫩河到雅博河、直到約旦河——河界的三重丈量。"
-    },
-    {
-      "kind": "you",
-      "subject": "對耶弗他",
-      "rationale": "亞捫王藉使者直接向耶弗他提出領土要求。"
-    }
-  ],
-  "translation": "亞捫人的王對耶弗他的使者們說：「因為以色列上來出埃及的時候，奪了我的地，從亞嫩河到雅博河，直到約旦河；現在你要〈把這些地〉歸還，〈以便〉和睦。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "207e6d69b6cf370032646f726189dfb62e3175e9bb796a7b5b27b2733596d7be",
-    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/judges/11/13-16.1792130440674.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "亞捫人的王對耶弗他的使者說：「因為以色列上來出埃及的時候，取了 ⟨את⟩ 我的地，從亞嫩河直到雅博河，直到約旦河；現在你要 ⟨את⟩ 這些地安然歸還。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "的子孫"
+      "gloss": "人的子孫"
     },
     {
       "surface": "עמון",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "מלאכי",
-      "gloss": "使者們"
+      "gloss": "使者"
     },
     {
       "surface": "יפתח",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "לקח",
-      "gloss": "奪了"
+      "gloss": "取了"
     },
     {
       "surface": "ישראל",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "ועד",
-      "gloss": "到"
+      "gloss": "直到"
     },
     {
       "surface": "היבק",
@@ -116,7 +90,7 @@
     },
     {
       "surface": "השיבה",
-      "gloss": "要歸還"
+      "gloss": "歸還"
     },
     {
       "surface": "אתהן",
@@ -125,13 +99,9 @@
     },
     {
       "surface": "בשלום",
-      "gloss": "和睦"
+      "gloss": "安然"
     }
   ],
-  "timestamp": "2026-10-16T06:00:40.675461303Z",
-  "model": "glm-5.3",
-  "s2t": {
-    "date": "2026-10-16",
-    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
-  }
+  "timestamp": "2026-10-16T22:45:48.224602419Z",
+  "model": "glm-5.3"
 }

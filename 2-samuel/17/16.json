@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בערבות המדבר",
-      "rationale": "「曠野的平原」或作「曠野的渡口」（如ASV）；下文勸渡河，渡口之說有據，但ערבה本義是平原"
-    },
-    {
-      "kind": "idiom",
-      "subject": "יבלע",
-      "gloss": "字面「被吞吃」，指全軍覆沒；中文以「被吞滅」保留吞吃的意象"
-    },
-    {
-      "kind": "addition",
-      "subject": "你",
-      "rationale": "שלחו是對眾人的命令，中文以「你要……打發人去」使受话對象明確"
-    }
-  ],
-  "translation": "現在你要趕快打發人去告訴大衛說：『今夜不可停留在曠野的平原，務要渡過去，免得王和跟他在一起的眾民都被吞滅。』」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "608551b73c75d213cca981c7ba1a6ff3541865be5c2bd96ff6d9cb065484eda9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/17\/13-16.1792132143952.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "現在要趕快差人去告訴大衛說：『今夜不可在曠野的平原住宿，務要渡過去，免得王和與他同在的全民事都被吞滅。』",
   "tokens": [
     {
       "surface": "ועתה",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "שלחו",
-      "gloss": "打發人去"
+      "gloss": "要差遣"
     },
     {
       "surface": "מהרה",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "והגידו",
-      "gloss": "告訴"
+      "gloss": "並告訴"
     },
     {
       "surface": "לדוד",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "תלן",
-      "gloss": "停留過夜"
+      "gloss": "住宿"
     },
     {
       "surface": "הלילה",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "המדבר",
-      "gloss": "曠野的"
+      "gloss": "曠野"
     },
     {
       "surface": "וגם",
@@ -83,11 +57,11 @@
     },
     {
       "surface": "עבור",
-      "gloss": "渡過去"
+      "gloss": "渡過"
     },
     {
       "surface": "תעבור",
-      "gloss": "渡過"
+      "gloss": "渡過去"
     },
     {
       "surface": "פן",
@@ -103,7 +77,7 @@
     },
     {
       "surface": "ולכל",
-      "gloss": "和眾"
+      "gloss": "和全"
     },
     {
       "surface": "העם",
@@ -111,13 +85,14 @@
     },
     {
       "surface": "אשר",
-      "gloss": "……的"
+      "gloss": "…的"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩跟隨他"
+      "gloss": "⟨את⟩",
+      "marks": "與他同在的（民）"
     }
   ],
-  "timestamp": "2026-10-16T06:29:03.954213917Z",
+  "timestamp": "2026-10-16T22:09:41.615977951Z",
   "model": "glm-5.3"
 }

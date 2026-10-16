@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "יבמתו",
-      "rationale": "希伯來文「妯娌／弟兄之寡婦」一詞，中文以短語譯出"
-    },
-    {
-      "kind": "you",
-      "subject": "寡婦對長老",
-      "rationale": "本節包含寡婦向長老的直接申訴引語"
-    }
-  ],
-  "translation": "那人若不願意娶他弟兄的寡婦，他弟兄的寡婦就上城門口到長老那裡，說：我丈夫的弟兄不肯在以色列中為他弟兄立名，不願向我盡弟兄的本分。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "d122cc579db97ba7d90f3fe89a70a8e39ca03246f860df52c2ed08939a079c28",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/25\/5-8.1792129100374.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "那男人若不願意娶⟨את⟩他的小叔嫂，他的小叔嫂就要到城門那裡去見長老們，說：『我的小叔不肯在以色列中為他兄弟立名，不肯向我盡小叔的本分。』",
   "tokens": [
     {
       "surface": "ואם",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "האיש",
-      "gloss": "那人"
+      "gloss": "那男人"
     },
     {
       "surface": "לקחת",
@@ -51,31 +30,31 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他弟兄的寡婦"
+      "marks": "他的小叔嫂"
     },
     {
       "surface": "יבמתו",
-      "gloss": "他弟兄的寡婦"
+      "gloss": "他的小叔嫂"
     },
     {
       "surface": "ועלתה",
-      "gloss": "就上去"
+      "gloss": "就要上到"
     },
     {
       "surface": "יבמתו",
-      "gloss": "他弟兄的寡婦"
+      "gloss": "他的小叔嫂"
     },
     {
       "surface": "השערה",
-      "gloss": "城門口"
+      "gloss": "城門"
     },
     {
       "surface": "אל",
-      "gloss": "到"
+      "gloss": "去見"
     },
     {
       "surface": "הזקנים",
-      "gloss": "長老"
+      "gloss": "長老們"
     },
     {
       "surface": "ואמרה",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "יבמי",
-      "gloss": "我丈夫的弟兄"
+      "gloss": "我的小叔"
     },
     {
       "surface": "להקים",
@@ -95,7 +74,7 @@
     },
     {
       "surface": "לאחיו",
-      "gloss": "為他弟兄"
+      "gloss": "為他兄弟"
     },
     {
       "surface": "שם",
@@ -107,7 +86,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "不"
+      "gloss": "不肯"
     },
     {
       "surface": "אבה",
@@ -115,9 +94,9 @@
     },
     {
       "surface": "יבמי",
-      "gloss": "向我盡丈夫弟兄的本分"
+      "gloss": "向我盡小叔的本分"
     }
   ],
-  "timestamp": "2026-10-16T05:38:20.375974093Z",
+  "timestamp": "2026-10-16T22:13:56.405549610Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,19 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "但",
-      "rationale": "כי אם 連用帶轉折警告義，中文需補連詞"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מחמד",
-      "rationale": "מחמד 與「穆罕默德」同根，此處僅為「可羨慕之物」，無任何關聯"
-    }
-  ],
-  "translation": "但明日這個時候，我必差遣我的僕人到你那裡，搜查你的家和僕人的房屋；凡你眼中看為可羨慕的，他們都要下手拿去。』」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ad18bf81e856c659867c26b1555dc215594230598732fc839e89a2139ade54ae",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/20\/5-8.1792133323558.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "不過明日約莫這時候，我必差遣 ⟨את⟩ 我的僕人到你那裡，他們要搜查 ⟨את⟩ 你的家和 ⟨את⟩ 你僕人的房屋；凡你眼所喜愛的一切，他們必放在自己手中，拿去。』",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "但"
+      "gloss": "不過"
     },
     {
       "surface": "אם",
-      "gloss": "若不然"
+      "gloss": "若"
     },
     {
       "surface": "כעת",
-      "gloss": "這個時候"
+      "gloss": "約莫這時候"
     },
     {
       "surface": "מחר",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "וחפשו",
-      "gloss": "搜查"
+      "gloss": "他們要搜查"
     },
     {
       "surface": "את",
@@ -77,7 +56,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "僕人的房屋"
+      "marks": "你僕人的房屋"
     },
     {
       "surface": "בתי",
@@ -85,37 +64,37 @@
     },
     {
       "surface": "עבדיך",
-      "gloss": "你的僕人"
+      "gloss": "你僕人的"
     },
     {
       "surface": "והיה",
-      "gloss": "那麼"
+      "gloss": "必有"
     },
     {
       "surface": "כל",
-      "gloss": "凡"
+      "gloss": "凡……的一切"
     },
     {
       "surface": "מחמד",
-      "gloss": "可羨慕的"
+      "gloss": "所喜愛的"
     },
     {
       "surface": "עיניך",
-      "gloss": "你眼中"
+      "gloss": "你眼"
     },
     {
       "surface": "ישימו",
-      "gloss": "他們要放"
+      "gloss": "他們必放"
     },
     {
       "surface": "בידם",
-      "gloss": "在他們手中"
+      "gloss": "在自己手中"
     },
     {
       "surface": "ולקחו",
       "gloss": "拿去"
     }
   ],
-  "timestamp": "2026-10-16T06:48:43.559433663Z",
+  "timestamp": "2026-10-16T21:58:45.429555532Z",
   "model": "glm-5.3"
 }

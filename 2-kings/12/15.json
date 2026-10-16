@@ -5,23 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "יתנהו",
-      "rationale": "受詞後綴指前節的銀子，中文補出「那銀子」"
-    }
-  ],
-  "translation": "因為那是給做工程的人的，他們用〈它〉修固了 ⟨את⟩ 雅威的殿。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "27feb0e5dd230df3b4916ebcefa483cdcea384dde59304d604633591939c3e15",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/12\/13-16.1792133924434.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "因為他們把銀錢交給做工的人，這些人就以此修固雅威的殿。",
   "tokens": [
     {
       "surface": "כי",
@@ -29,23 +13,23 @@
     },
     {
       "surface": "לעשי",
-      "gloss": "給做……的人"
+      "gloss": "做工的人"
     },
     {
       "surface": "המלאכה",
-      "gloss": "工程"
+      "gloss": "工"
     },
     {
       "surface": "יתנהו",
-      "gloss": "他們把那銀子給"
+      "gloss": "把⟨銀錢⟩交給"
     },
     {
       "surface": "וחזקו",
-      "gloss": "他們修固了"
+      "gloss": "修固"
     },
     {
       "surface": "בו",
-      "gloss": "用它"
+      "gloss": "以"
     },
     {
       "surface": "את",
@@ -61,6 +45,6 @@
       "gloss": "雅威"
     }
   ],
-  "timestamp": "2026-10-16T06:58:44.435640993Z",
+  "timestamp": "2026-10-16T22:05:40.135656085Z",
   "model": "glm-5.3"
 }

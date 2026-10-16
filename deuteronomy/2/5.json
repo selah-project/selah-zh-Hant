@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "עד מדרך כף רגל",
-      "rationale": "直譯『直到腳掌所踏之地』，成語指極小之地，譯作『連腳掌踏地之多也不給』"
-    },
-    {
-      "kind": "you",
-      "subject": "以色列",
-      "rationale": "命令直接對以色列民說話"
-    }
-  ],
-  "translation": "不可與他們爭競，因為我不將他們的地賜給你們，連腳掌踏地之多也不給你們；因為西珥山我已賜給以掃為產業。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "5dc1972f40ea857d7469fe562033be4c4cdf44cc71ef397159c659e566bc8f9b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/2\/5-8.1792128517812.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "不可惹動他們，因為我不將他們的地賜給你們，連腳掌踏之地也不給，因為我已將西珥山賜給以掃為產業⟨את⟩。",
   "tokens": [
     {
       "surface": "אל",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "תתגרו",
-      "gloss": "爭競"
+      "gloss": "惹動"
     },
     {
       "surface": "בם",
-      "gloss": "與他們"
+      "gloss": "他們"
     },
     {
       "surface": "כי",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "אתן",
-      "gloss": "賜給"
+      "gloss": "將……賜給"
     },
     {
       "surface": "לכם",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "連……之多"
+      "gloss": "連……也"
     },
     {
       "surface": "מדרך",
-      "gloss": "腳掌踏地"
+      "gloss": "踏之地"
     },
     {
       "surface": "כף",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "ירשה",
-      "gloss": "為產業"
+      "gloss": "產業"
     },
     {
       "surface": "לעשו",
@@ -106,6 +85,6 @@
       "gloss": "西珥"
     }
   ],
-  "timestamp": "2026-10-16T05:28:37.813275615Z",
+  "timestamp": "2026-10-16T22:13:45.912942878Z",
   "model": "glm-5.3"
 }

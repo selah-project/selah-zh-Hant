@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מכס תרומת יהוה",
-      "rationale": "「貢物，就是雅威的舉祭」：馬所拉斷作同位語（和合本、KJV），也有譯作「歸雅威為舉祭的貢物」"
-    },
-    {
-      "kind": "measurement",
-      "subject": "貢物",
-      "rationale": "戰利品分配與計數的一部分"
-    }
-  ],
-  "translation": "摩西把雅威的貢物中的舉祭歸給亞倫〈不〉祭司以利亞撒，正如雅威所吩咐摩西的。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "07ca5b06e9cfa61f078acfb466a06749e552f8c498ebcce68ccd9d4230382f75",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/31\/41-44.1792128280219.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "摩西將雅威之舉祭的稅捐給了祭司以利亞撒，正如雅威所吩咐 ⟨את⟩ 摩西的。",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "把……歸給"
+      "gloss": "給了"
     },
     {
       "surface": "משה",
@@ -39,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "貢物"
+      "marks": "稅捐"
     },
     {
       "surface": "מכס",
-      "gloss": "貢物"
+      "gloss": "稅捐"
     },
     {
       "surface": "תרומת",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "所吩咐"
+      "gloss": "吩咐"
     },
     {
       "surface": "יהוה",
@@ -83,6 +62,6 @@
       "gloss": "摩西"
     }
   ],
-  "timestamp": "2026-10-16T05:24:40.220547846Z",
+  "timestamp": "2026-10-16T22:55:30.591956505Z",
   "model": "glm-5.3"
 }

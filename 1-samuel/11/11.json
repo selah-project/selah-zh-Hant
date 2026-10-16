@@ -5,37 +5,11 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ראשים",
-      "rationale": "字面是「頭」，作軍事分隊單位譯「隊」，字面形象失去"
-    },
-    {
-      "kind": "measurement",
-      "subject": "三隊",
-      "rationale": "軍隊分為三隊的計數細節"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נשארים／נשארו",
-      "rationale": "「剩下的人」與「沒有留下」同詞根重複，中文部分保留"
-    }
-  ],
-  "translation": "到了次日，掃羅把 ⟨את⟩ 百姓分為三隊，在晨更的時候進入營中，擊打亞捫人，直到日頭熱的時候；剩下的就被打散，他們中間沒有留下兩人在一起。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "53cf25570542505c951b92bd76edc9d4bb62050e171184edbd1287d73d785a32",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/11\/9-12.1792130937030.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "次日，掃羅把⟨את⟩百姓分作三隊；他們在晨更的時候進入營的中間，擊打亞捫人直到日頭炎熱；事情就這樣成了：剩餘的人四散，他們中間沒有留下兩人在一起。",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "到了"
+      "gloss": "事情就發生了"
     },
     {
       "surface": "ממחרת",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "וישם",
-      "gloss": "他分設"
+      "gloss": "把……分作"
     },
     {
       "surface": "שאול",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "בתוך",
-      "gloss": "進入……之中"
+      "gloss": "在中間"
     },
     {
       "surface": "המחנה",
@@ -80,15 +54,15 @@
     },
     {
       "surface": "באשמרת",
-      "gloss": "在晨更"
+      "gloss": "在……更的時候"
     },
     {
       "surface": "הבקר",
-      "gloss": "早晨"
+      "gloss": "晨"
     },
     {
       "surface": "ויכו",
-      "gloss": "他們擊打"
+      "gloss": "擊打"
     },
     {
       "surface": "את",
@@ -97,7 +71,7 @@
     },
     {
       "surface": "עמון",
-      "gloss": "亞捫"
+      "gloss": "亞捫人"
     },
     {
       "surface": "עד",
@@ -105,23 +79,23 @@
     },
     {
       "surface": "חם",
-      "gloss": "熱"
+      "gloss": "炎熱"
     },
     {
       "surface": "היום",
-      "gloss": "白日"
+      "gloss": "日頭"
     },
     {
       "surface": "ויהי",
-      "gloss": "事情發生"
+      "gloss": "事情就成了"
     },
     {
       "surface": "הנשארים",
-      "gloss": "剩下的"
+      "gloss": "剩餘的人"
     },
     {
       "surface": "ויפצו",
-      "gloss": "就被打散"
+      "gloss": "四散"
     },
     {
       "surface": "ולא",
@@ -144,6 +118,6 @@
       "gloss": "在一起"
     }
   ],
-  "timestamp": "2026-10-16T06:08:57.031504401Z",
+  "timestamp": "2026-10-16T22:00:24.288507934Z",
   "model": "glm-5.3"
 }

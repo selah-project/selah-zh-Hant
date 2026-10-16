@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "它",
-      "rationale": "中文需明示被彈的油與血，希伯來文動詞直接及物"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "משחה／ויקדש",
-      "rationale": "膏油（משחה）與成聖（קדש）並列，承接聖職禮中受膏與分別為聖相扣"
-    }
-  ],
-  "translation": "摩西取了膏油，和壇上的血，彈在亞倫身上、他的衣服上，並他兒子和他兒子的衣服上 ⟨אתו⟩；他使亞倫成聖，⟨את⟩ 他的衣服、⟨את⟩ 他兒子、和 ⟨את⟩ 他兒子的衣服 ⟨אתו⟩ 也都成聖。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "e9c0a9c7556e10711889309311c8d321d46ad6f63b7b54de6293c9e889d8e556",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/8\/29-32.1792126894777.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "摩西取了膏油和祭壇上的血，彈在亞倫身上、彈在他的衣服上、彈在他的兒子們身上、並彈在與他一起的兒子們的衣服上；他就使亞倫成聖、使他的衣服成聖、使他的兒子們成聖、並使與他一起的兒子們的衣服成聖。",
   "tokens": [
     {
       "surface": "ויקח",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "משמן",
-      "gloss": "從油"
+      "gloss": "從膏油"
     },
     {
       "surface": "המשחה",
-      "gloss": "膏（膏油）"
+      "gloss": "膏油"
     },
     {
       "surface": "ומן",
@@ -58,19 +37,19 @@
     },
     {
       "surface": "על",
-      "gloss": "在……上"
+      "gloss": "在…上"
     },
     {
       "surface": "המזבח",
-      "gloss": "壇"
+      "gloss": "祭壇"
     },
     {
       "surface": "ויז",
-      "gloss": "彈"
+      "gloss": "彈在…上"
     },
     {
       "surface": "על",
-      "gloss": "在……上"
+      "gloss": "在…上"
     },
     {
       "surface": "אהרן",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "על",
-      "gloss": "在……上"
+      "gloss": "在…上"
     },
     {
       "surface": "בגדיו",
@@ -86,32 +65,32 @@
     },
     {
       "surface": "ועל",
-      "gloss": "和在……上"
+      "gloss": "和在…上"
     },
     {
       "surface": "בניו",
-      "gloss": "他兒子"
+      "gloss": "他的兒子們"
     },
     {
       "surface": "ועל",
-      "gloss": "和在……上"
+      "gloss": "和在…上"
     },
     {
       "surface": "בגדי",
-      "gloss": "……的衣服"
+      "gloss": "…的衣服"
     },
     {
       "surface": "בניו",
-      "gloss": "他兒子"
+      "gloss": "他的兒子們"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "與他一起"
+      "gloss": "⟨את⟩與他一起",
+      "marks": "他的兒子們"
     },
     {
       "surface": "ויקדש",
-      "gloss": "使成聖"
+      "gloss": "使…成聖"
     },
     {
       "surface": "את",
@@ -133,32 +112,32 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "他兒子"
+      "gloss": "和⟨את⟩",
+      "marks": "他的兒子們"
     },
     {
       "surface": "בניו",
-      "gloss": "他兒子"
+      "gloss": "他的兒子們"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "他兒子的衣服"
+      "gloss": "和⟨את⟩",
+      "marks": "…的衣服"
     },
     {
       "surface": "בגדי",
-      "gloss": "……的衣服"
+      "gloss": "…的衣服"
     },
     {
       "surface": "בניו",
-      "gloss": "他兒子"
+      "gloss": "他的兒子們"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "與他一起"
+      "gloss": "⟨את⟩與他一起",
+      "marks": "他的兒子們"
     }
   ],
-  "timestamp": "2026-10-16T05:01:34.778277683Z",
+  "timestamp": "2026-10-16T22:51:45.855056267Z",
   "model": "glm-5.3"
 }

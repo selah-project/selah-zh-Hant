@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "太監",
-      "rationale": "סריס 本義「太監」，和合本作「臣宰／官員」；KJV 作 officer。此處照字面。"
-    },
-    {
-      "kind": "addition",
-      "subject": "要把",
-      "rationale": "希伯來文命令式單獨成句，中文加語氣詞使其成完整命令句。"
-    }
-  ],
-  "translation": "王問那婦人，她就告訴了他。王為她派一個太監，說：「要把屬於她的一切都歸還她，連同 ⟨את⟩ 田裡一切的出產，從她離開 ⟨את⟩ 那地的那一天起，直到如今。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "08b43bbeda870827012506da5fbb7f7451d60caac9b3c0868b93a8ff0e656275",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/8\/5-8.1792133866339.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "王問那婦人，她就向王述說。王就為她指派了一位太監，說：「你要歸還 ⟨את⟩ 她一切所有的，以及 ⟨את⟩ 田間一切的出產，從她離開 ⟨את⟩ 那地的那日起，直到如今。」",
   "tokens": [
     {
       "surface": "וישאל",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "ותספר",
-      "gloss": "她就告訴了"
+      "gloss": "她就述說"
     },
     {
       "surface": "לו",
-      "gloss": "他"
+      "gloss": "向他"
     },
     {
       "surface": "ויתן",
-      "gloss": "派"
+      "gloss": "王就指派"
     },
     {
       "surface": "לה",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "אחד",
-      "gloss": "一個"
+      "gloss": "一位"
     },
     {
       "surface": "לאמר",
@@ -74,12 +53,12 @@
     },
     {
       "surface": "השיב",
-      "gloss": "歸還"
+      "gloss": "你要歸還"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "屬於她的一切"
+      "marks": "她一切所有的"
     },
     {
       "surface": "כל",
@@ -87,16 +66,16 @@
     },
     {
       "surface": "אשר",
-      "gloss": "屬於她的"
+      "gloss": "所"
     },
     {
       "surface": "לה",
-      "gloss": "她"
+      "gloss": "她的"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "田裡一切的出產"
+      "marks": "田間一切的出產"
     },
     {
       "surface": "כל",
@@ -108,11 +87,11 @@
     },
     {
       "surface": "השדה",
-      "gloss": "田裡的"
+      "gloss": "田間的"
     },
     {
       "surface": "מיום",
-      "gloss": "從……那日子"
+      "gloss": "從……的那日"
     },
     {
       "surface": "עזבה",
@@ -136,6 +115,6 @@
       "gloss": "如今"
     }
   ],
-  "timestamp": "2026-10-16T06:57:46.341011748Z",
+  "timestamp": "2026-10-16T22:08:17.653405788Z",
   "model": "glm-5.3"
 }

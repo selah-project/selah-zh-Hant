@@ -5,23 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "יש אותו דבר יהוה",
-      "rationale": "直譯「雅威的話在他那裡」，意即他有從雅威而來的話語"
-    }
-  ],
-  "translation": "約沙法說：「雅威的話在他那裡。」於是以色列王、約沙法和以東王都下到他那裡去。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "858259e49cdb4caad24f2b628b9fd189bca89096455c2c8f68deca18e6a385ac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/3\/9-12.1792133482148.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "約沙法說：「雅威的話在他⟨那裡⟩。」於是以色列王、約沙法和以東王就下到他⟨那裡⟩去。",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,7 +22,7 @@
     {
       "surface": "אותו",
       "gloss": "⟨את⟩",
-      "marks": "雅威的話"
+      "marks": "話（דבר）"
     },
     {
       "surface": "דבר",
@@ -50,11 +34,11 @@
     },
     {
       "surface": "וירדו",
-      "gloss": "下到"
+      "gloss": "就下去"
     },
     {
       "surface": "אליו",
-      "gloss": "他那裡"
+      "gloss": "到他那裡"
     },
     {
       "surface": "מלך",
@@ -66,7 +50,7 @@
     },
     {
       "surface": "ויהושפט",
-      "gloss": "和約沙法"
+      "gloss": "約沙法"
     },
     {
       "surface": "ומלך",
@@ -77,6 +61,6 @@
       "gloss": "以東"
     }
   ],
-  "timestamp": "2026-10-16T06:51:22.149646919Z",
+  "timestamp": "2026-10-16T22:07:45.227396800Z",
   "model": "glm-5.3"
 }

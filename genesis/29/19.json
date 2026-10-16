@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "טוב תתי",
-      "rationale": "直譯「我給她是好的」，即「給你比給別人好」"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שבה／שבע",
-      "rationale": "「住下」（שְׁבָה）與上文「七年」（שֶׁבַע）音近，中譯無法保留"
-    }
-  ],
-  "translation": "拉班說：「我把她給你，勝過把她給別人；你與我同住吧。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "eba67a6f2cf7fef7a58134a2fe9161be3ecdc6bade92f6b6ff970b46f1da86d0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/29\/17-20.1792125143753.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "拉班說：「我把她給你，比把她給別人更好；你就住在我這裡吧。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,16 +17,16 @@
     },
     {
       "surface": "טוב",
-      "gloss": "好"
+      "gloss": "更好"
     },
     {
       "surface": "תתי",
-      "gloss": "我給"
+      "gloss": "我把她給"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "她"
+      "marks": "她（給你）"
     },
     {
       "surface": "לך",
@@ -55,12 +34,12 @@
     },
     {
       "surface": "מתתי",
-      "gloss": "勝過我給"
+      "gloss": "把她給"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "她"
+      "marks": "她（給別人）"
     },
     {
       "surface": "לאיש",
@@ -72,13 +51,13 @@
     },
     {
       "surface": "שבה",
-      "gloss": "住下"
+      "gloss": "住"
     },
     {
       "surface": "עמדי",
-      "gloss": "與我"
+      "gloss": "與我一起"
     }
   ],
-  "timestamp": "2026-10-16T04:32:23.754694665Z",
+  "timestamp": "2026-10-16T22:28:54.855349709Z",
   "model": "glm-5.3"
 }

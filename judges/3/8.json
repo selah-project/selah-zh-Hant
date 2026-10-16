@@ -5,38 +5,7 @@
   "book": "judges",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ויחר אף",
-      "rationale": "字面「鼻孔发热」＝发怒，希伯来怒气生理意象"
-    },
-    {
-      "kind": "idiom",
-      "subject": "וימכרם",
-      "rationale": "「卖了他们」＝交在敌人手中，如卖作奴隶"
-    },
-    {
-      "kind": "measurement",
-      "subject": "八年",
-      "rationale": "服事年期，士师记以年数标示各段压迫"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ארם נהרים",
-      "rationale": "字面「两河之亚兰」（底格里斯与幼发拉底），即米所波大米；נהרים为双数「两河」"
-    }
-  ],
-  "translation": "於是雅威向以色列發怒，把他們賣在米所波大米王古珊利薩田手中；以色列人服事古珊利薩田八年。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b54f8dccaf49c31fc6c03db547f6a9d4864903c8f20f25b334148812779cbeac",
-    "prompt-file": ".selah/sources/translations/prompts/zh-Hant/judges/3/5-8.1792130087667.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威向以色列發怒，就把他們賣在亞蘭·拿哈林的王古珊·利沙田手中；以色列人服事古珊·利沙田八年。",
   "tokens": [
     {
       "surface": "ויחר",
@@ -44,7 +13,7 @@
     },
     {
       "surface": "אף",
-      "gloss": "鼻息〈怒氣〉"
+      "gloss": "怒氣"
     },
     {
       "surface": "יהוה",
@@ -56,11 +25,11 @@
     },
     {
       "surface": "וימכרם",
-      "gloss": "把他們賣了"
+      "gloss": "就把他們賣"
     },
     {
       "surface": "ביד",
-      "gloss": "在…手中"
+      "gloss": "在……手中"
     },
     {
       "surface": "כושן",
@@ -68,7 +37,7 @@
     },
     {
       "surface": "רשעתים",
-      "gloss": "利薩田"
+      "gloss": "利沙田"
     },
     {
       "surface": "מלך",
@@ -80,15 +49,15 @@
     },
     {
       "surface": "נהרים",
-      "gloss": "兩河"
+      "gloss": "拿哈林（兩河）"
     },
     {
       "surface": "ויעבדו",
-      "gloss": "服事了"
+      "gloss": "服事"
     },
     {
       "surface": "בני",
-      "gloss": "…人"
+      "gloss": "……的子孫"
     },
     {
       "surface": "ישראל",
@@ -97,7 +66,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "古珊利萨田"
+      "marks": "古珊·利沙田"
     },
     {
       "surface": "כושן",
@@ -105,7 +74,7 @@
     },
     {
       "surface": "רשעתים",
-      "gloss": "利薩田"
+      "gloss": "利沙田"
     },
     {
       "surface": "שמנה",
@@ -116,10 +85,6 @@
       "gloss": "年"
     }
   ],
-  "timestamp": "2026-10-16T05:54:47.668645712Z",
-  "model": "glm-5.3",
-  "s2t": {
-    "date": "2026-10-16",
-    "rule": "zh-Hant.md: Traditional characters (OpenCC s2tw)"
-  }
+  "timestamp": "2026-10-16T22:47:10.398259670Z",
+  "model": "glm-5.3"
 }

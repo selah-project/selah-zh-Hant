@@ -5,37 +5,16 @@
   "book": "joshua",
   "lang": "zh-Hant",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "他",
-      "rationale": "הקים 的主語原文未明寫（雅威），中文補「他」並以 ⟨…⟩ 標示所添"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ערלים",
-      "rationale": "字面為「未割包皮的、露出包皮的」，中文按術語譯「未受割禮的」"
-    }
-  ],
-  "translation": "而 ⟨ואת⟩ 他們的兒子，他興起代替了他們；⟨אתם⟩ 這些人約書亞給他們行了割禮，因為他們是未受割禮的，因為在路上沒有給他們行過割禮。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "0b61caaeffa52e2ccd2b329534fb2da4ce913a0ab708d9c86b98f947afb0cacc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/5\/5-8.1792129521673.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們的子孫，就是他興起來代替他們的，這些人約書亞給他們行了割禮，因為他們未曾受割禮，因為在路上沒有人給他們行割禮。",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨ואת⟩",
-      "marks": "他們的兒子"
+      "gloss": "⟨את⟩",
+      "marks": "他們的子孫"
     },
     {
       "surface": "בניהם",
-      "gloss": "他們的兒子"
+      "gloss": "他們的子孫"
     },
     {
       "surface": "הקים",
@@ -47,8 +26,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "這些人"
+      "gloss": "⟨את⟩",
+      "marks": "這些人（約書亞所割禮的對象）"
     },
     {
       "surface": "מל",
@@ -64,7 +43,7 @@
     },
     {
       "surface": "ערלים",
-      "gloss": "未受割禮的"
+      "gloss": "未受割禮的人"
     },
     {
       "surface": "היו",
@@ -76,22 +55,22 @@
     },
     {
       "surface": "לא",
-      "gloss": "沒有"
+      "gloss": "不"
     },
     {
       "surface": "מלו",
-      "gloss": "行過割禮"
+      "gloss": "給…行了割禮"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "他們"
+      "gloss": "⟨את⟩",
+      "marks": "他們（受割禮的對象）"
     },
     {
       "surface": "בדרך",
       "gloss": "在路上"
     }
   ],
-  "timestamp": "2026-10-16T05:45:21.674634806Z",
+  "timestamp": "2026-10-16T22:44:47.085203950Z",
   "model": "glm-5.3"
 }

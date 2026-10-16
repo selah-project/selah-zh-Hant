@@ -5,28 +5,7 @@
   "book": "2-chronicles",
   "lang": "zh-Hant",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "回報話",
-      "rationale": "וישב את המלך דבר 直譯「使話回到王那裡」，即帶話回覆，中文作「向王回報」"
-    },
-    {
-      "kind": "you",
-      "subject": "對王",
-      "rationale": "沙番向王直接陳述，引語中「你僕人」是對王的稱呼"
-    }
-  ],
-  "translation": "沙番把 ⟨את⟩ 書卷帶到王那裡，又向王回報說：「凡交在你僕人手中的，他們都正在辦理。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "3c681aeb6429150d91ff40b2b16e6450e15d0fa0ce7eaef39a56fe8730c33174",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/34\/13-16.1792149746457.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "沙番把 ⟨את⟩ 那書卷帶到王那裡，又向王回話說：「凡交在你僕人手中的，他們都在遵行。」",
   "tokens": [
     {
       "surface": "ויבא",
@@ -39,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "書卷"
+      "marks": "那書卷"
     },
     {
       "surface": "הספר",
-      "gloss": "書卷"
+      "gloss": "那書卷"
     },
     {
       "surface": "אל",
-      "gloss": "到……那裡"
+      "gloss": "到"
     },
     {
       "surface": "המלך",
@@ -92,7 +71,7 @@
     },
     {
       "surface": "ביד",
-      "gloss": "……手中"
+      "gloss": "在……手中"
     },
     {
       "surface": "עבדיך",
@@ -104,9 +83,9 @@
     },
     {
       "surface": "עשים",
-      "gloss": "正在辦理"
+      "gloss": "都在遵行"
     }
   ],
-  "timestamp": "2026-10-16T11:22:26.459159822Z",
+  "timestamp": "2026-10-16T22:04:27.106156415Z",
   "model": "glm-5.3"
 }

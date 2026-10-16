@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈就是〉",
-      "rationale": "中文關係句需要連接詞，希伯來文 אשר 此處的從屬語氣由括注補足"
-    },
-    {
-      "kind": "substitution",
-      "subject": "停住",
-      "rationale": "עמדו 字面是「站住」，此處指留在原地不再前進"
-    }
-  ],
-  "translation": "大衛就去了，他和跟他在一起的六百人，來到比梭溪谷，其餘留下的人就停住了。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "2e11ce54202fda946839caa3c84e69ce09fb055b50ca2078aea9357e52f24921",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/30\/9-12.1792131483477.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "大衛就去了，他和與他同在的六百人，來到毕…不——來到比梭溪谷，那留下的人就停在那裡。",
   "tokens": [
     {
       "surface": "וילך",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "他"
+      "gloss": "他自己"
     },
     {
       "surface": "ושש",
-      "gloss": "和六"
+      "gloss": "六"
     },
     {
       "surface": "מאות",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "〈就是〉"
+      "gloss": "就是"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ 〈跟他在一起〉"
+      "gloss": "⟨את⟩ 與他同在"
     },
     {
       "surface": "ויבאו",
@@ -78,13 +57,13 @@
     },
     {
       "surface": "והנותרים",
-      "gloss": "其餘留下的"
+      "gloss": "那留下的人"
     },
     {
       "surface": "עמדו",
-      "gloss": "停住了"
+      "gloss": "停住"
     }
   ],
-  "timestamp": "2026-10-16T06:18:03.478152772Z",
+  "timestamp": "2026-10-16T22:02:29.483322589Z",
   "model": "glm-5.3"
 }

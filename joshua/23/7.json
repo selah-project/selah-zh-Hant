@@ -5,23 +5,7 @@
   "book": "joshua",
   "lang": "zh-Hant",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "תזכירו",
-      "rationale": "或作「使……起誓」（Hiphil 使役），如 KJV「nor cause to swear」；本文取「提說」（Hiphil 稱名）"
-    }
-  ],
-  "translation": "免得你們進入這些國民中間，就是這些仍留在你們中間的，也不可提他們神明的名，不可指著他們起誓，不可事奉他們，也不可向他們下拜。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "5f5a2ed8404013cbe60c3c7ed3c6193131bb971a95de5526e700e35030e42703",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/23\/5-8.1792130002950.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "免得你們混入這些國民中間，就是這些仍留下與⟨את⟩你們同住的；你們不可提他們神明的名，不可指著⟨其名⟩起誓，不可事奉他們，也不可向他們下拜。",
   "tokens": [
     {
       "surface": "לבלתי",
@@ -29,11 +13,11 @@
     },
     {
       "surface": "בוא",
-      "gloss": "進入"
+      "gloss": "混入"
     },
     {
       "surface": "בגוים",
-      "gloss": "這些國民中"
+      "gloss": "這些國民中間"
     },
     {
       "surface": "האלה",
@@ -41,7 +25,7 @@
     },
     {
       "surface": "הנשארים",
-      "gloss": "剩下的"
+      "gloss": "仍留下的"
     },
     {
       "surface": "האלה",
@@ -49,11 +33,12 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩你們"
+      "gloss": "⟨את⟩",
+      "marks": "你們"
     },
     {
       "surface": "ובשם",
-      "gloss": "的名"
+      "gloss": "指著…的名"
     },
     {
       "surface": "אלהיהם",
@@ -65,11 +50,11 @@
     },
     {
       "surface": "תזכירו",
-      "gloss": "提說"
+      "gloss": "提"
     },
     {
       "surface": "ולא",
-      "gloss": "也不可"
+      "gloss": "不可"
     },
     {
       "surface": "תשביעו",
@@ -85,7 +70,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "也不可"
+      "gloss": "不可"
     },
     {
       "surface": "תשתחוו",
@@ -96,6 +81,6 @@
       "gloss": "向他們"
     }
   ],
-  "timestamp": "2026-10-16T05:53:22.951311009Z",
+  "timestamp": "2026-10-16T22:44:12.505068390Z",
   "model": "glm-5.3"
 }

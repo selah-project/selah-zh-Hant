@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "二隻",
-      "rationale": "שנים——成對的數目，本章物種存續的計數"
-    },
-    {
-      "kind": "addition",
-      "subject": "一公一母",
-      "rationale": "זכר ונקבה יהיו 字面是「要成為公和母」，中文加量詞以成句"
-    }
-  ],
-  "translation": "凡活物、各從其類的血肉之軀，你要帶二隻進方舟，使牠們與你一同存活；牠們要成一公一母。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "3e4f4c6099f9308f44020e264da326772f39283a572f0d4b8a1b4c0b70cb4a0c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/6\/17-20.1792124604807.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "凡有血肉的活物，每樣兩隻，你要帶進 ⟨את⟩ 方舟，與你一同存活；牠們要雌雄相配。",
   "tokens": [
     {
       "surface": "ומכל",
-      "gloss": "凡…的一切"
+      "gloss": "凡"
     },
     {
       "surface": "החי",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "מכל",
-      "gloss": "各從"
+      "gloss": "所有"
     },
     {
       "surface": "בשר",
-      "gloss": "血肉之軀"
+      "gloss": "血肉"
     },
     {
       "surface": "שנים",
-      "gloss": "二隻"
+      "gloss": "兩隻"
     },
     {
       "surface": "מכל",
-      "gloss": "各從"
+      "gloss": "每樣"
     },
     {
       "surface": "תביא",
@@ -66,25 +45,26 @@
     },
     {
       "surface": "להחית",
-      "gloss": "使…存活"
+      "gloss": "使存活"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩與你"
+      "gloss": "⟨את⟩ 與你",
+      "marks": "與你（一同）"
     },
     {
       "surface": "זכר",
-      "gloss": "公的"
+      "gloss": "雄"
     },
     {
       "surface": "ונקבה",
-      "gloss": "和母的"
+      "gloss": "雌"
     },
     {
       "surface": "יהיו",
-      "gloss": "要成"
+      "gloss": "牠們要"
     }
   ],
-  "timestamp": "2026-10-16T04:23:24.808217580Z",
+  "timestamp": "2026-10-16T22:32:30.450556750Z",
   "model": "glm-5.3"
 }

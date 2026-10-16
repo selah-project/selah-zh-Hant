@@ -5,37 +5,11 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "敵手",
-      "rationale": "שטן 無定冠詞，是類名詞「反對者」，不是那位撒但；本節與 25 節的敵手皆人所生"
-    },
-    {
-      "kind": "addition",
-      "subject": "所羅門",
-      "rationale": "לו（對他）的「他」是所羅門，中文補出使語境清楚"
-    },
-    {
-      "kind": "elision",
-      "subject": "מאת",
-      "rationale": "מאת＝מן＋את，את 家族成員，以「從⟨את⟩」保留記號"
-    }
-  ],
-  "translation": "以羅欣又使〈所羅門〉興起一個敵手，就是利遜——以利亞大的兒子；他從他主人瑣巴王哈大底謝那裡逃走。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "50e44149a296b467b4feaeb0da6958188ba239c2641611acbd37e758cbc065c1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/11\/21-24.1792132992706.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "以羅欣又為他興起一個對頭，就是⟨את⟩利遜——以利達的兒子；他從他主人瑣巴王哈大底謝那裏逃走了。",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "使……興起"
+      "gloss": "興起"
     },
     {
       "surface": "אלהים",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "לו",
-      "gloss": "對〈所羅門〉"
+      "gloss": "為他"
     },
     {
       "surface": "שטן",
-      "gloss": "敵手"
+      "gloss": "對頭"
     },
     {
       "surface": "את",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "אלידע",
-      "gloss": "以利亞大"
+      "gloss": "以利達"
     },
     {
       "surface": "אשר",
@@ -72,11 +46,12 @@
     },
     {
       "surface": "ברח",
-      "gloss": "逃走"
+      "gloss": "逃走了"
     },
     {
       "surface": "מאת",
-      "gloss": "從⟨את⟩"
+      "gloss": "從……那裏 ⟨את⟩",
+      "marks": "哈大底謝"
     },
     {
       "surface": "הדדעזר",
@@ -95,6 +70,6 @@
       "gloss": "他主人"
     }
   ],
-  "timestamp": "2026-10-16T06:43:12.707164007Z",
+  "timestamp": "2026-10-16T23:01:11.994493479Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "judges",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "雕像",
-      "rationale": "הפסילים 或譯「採石場」（如英譯 quarries），或指偶像；KJV 傳統作 quarries，直譯為「雕刻之物」"
-    },
-    {
-      "kind": "secret",
-      "subject": "דבר סתר",
-      "rationale": "「隱密的事」——סתר 即隱藏、遮蓋之詞，本節的機密是刺殺計畫的引子"
-    }
-  ],
-  "translation": "他自己卻從吉甲旁的雕像那裏轉回來，說：「王啊，我有一件隱密的事要告訴你。」王說：「肅靜。」於是所有侍立在他面前的人都離開了他。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "71105052039f5f09c8f4fea6619bb997cd589300cf39f24fafeffb46cf0cb815",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/3\/17-20.1792130192970.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他本人從靠近 ⟨את⟩ 吉甲的雕像那裡轉身回來，對王說：「王啊，我有一句隱密的話要向你說。」王說：「肅靜。」所有站在他身邊的人就都從他面前出去了。",
   "tokens": [
     {
       "surface": "והוא",
-      "gloss": "他自己"
+      "gloss": "他本人"
     },
     {
       "surface": "שב",
-      "gloss": "轉回"
+      "gloss": "轉身回來"
     },
     {
       "surface": "מן",
@@ -42,15 +21,16 @@
     },
     {
       "surface": "הפסילים",
-      "gloss": "雕像那裏"
+      "gloss": "雕像"
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "靠近"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ 在…旁"
+      "gloss": "⟨את⟩",
+      "marks": "吉甲"
     },
     {
       "surface": "הגלגל",
@@ -62,7 +42,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "一件事"
+      "gloss": "話"
     },
     {
       "surface": "סתר",
@@ -74,7 +54,7 @@
     },
     {
       "surface": "אליך",
-      "gloss": "要告訴你"
+      "gloss": "向你"
     },
     {
       "surface": "המלך",
@@ -94,7 +74,7 @@
     },
     {
       "surface": "מעליו",
-      "gloss": "離開他"
+      "gloss": "從他面前"
     },
     {
       "surface": "כל",
@@ -102,13 +82,13 @@
     },
     {
       "surface": "העמדים",
-      "gloss": "侍立的"
+      "gloss": "站在……的人"
     },
     {
       "surface": "עליו",
-      "gloss": "在他面前"
+      "gloss": "他身邊"
     }
   ],
-  "timestamp": "2026-10-16T05:56:32.971420975Z",
+  "timestamp": "2026-10-16T22:47:31.437682383Z",
   "model": "glm-5.3"
 }

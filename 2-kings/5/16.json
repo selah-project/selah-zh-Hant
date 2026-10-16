@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "永活的雅威…我必不收取",
-      "rationale": "חי־יהוה 加 אם אקח 是起誓套語：「雅威活著，我若收取（願…）」，中文補〈起誓〉並改為直說否定"
-    },
-    {
-      "kind": "addition",
-      "subject": "乃縵",
-      "rationale": "ויפצר בו 的主語由上下文補出，中文需指明"
-    },
-    {
-      "kind": "substitution",
-      "subject": "堅持",
-      "rationale": "ויפצר 字面「向他施壓、催逼」，非單純勸說"
-    }
-  ],
-  "translation": "他說：「永活的雅威——我站在他面前——〈起誓〉，我必不收取。」乃縵堅持要他收下，他卻不肯。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "d68f7b120adcb60107dd17bd4de0339554e4ce5d7a7c8e8e889dd7101faff6a0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/5\/13-16.1792133668528.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他說：「我站在雅威面前，雅威永活，我必不收取。」他再三催促他收取，他卻不肯。",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "חי",
-      "gloss": "永活的"
+      "gloss": "永活"
     },
     {
       "surface": "יהוה",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "——"
+      "gloss": "⟨我站在⟩……的⟨那位⟩"
     },
     {
       "surface": "עמדתי",
@@ -55,33 +29,33 @@
     },
     {
       "surface": "לפניו",
-      "gloss": "他面前"
+      "gloss": "在他面前"
     },
     {
       "surface": "אם",
-      "gloss": "〈若〉"
+      "gloss": "⟨我豈可⟩"
     },
     {
       "surface": "אקח",
-      "gloss": "我收取"
+      "gloss": "收取"
     },
     {
       "surface": "ויפצר",
-      "gloss": "堅持"
+      "gloss": "他再三催促"
     },
     {
       "surface": "בו",
-      "gloss": "要他"
+      "gloss": "他"
     },
     {
       "surface": "לקחת",
-      "gloss": "收下"
+      "gloss": "收取"
     },
     {
       "surface": "וימאן",
-      "gloss": "他卻不肯"
+      "gloss": "他不肯"
     }
   ],
-  "timestamp": "2026-10-16T06:54:28.529714516Z",
+  "timestamp": "2026-10-16T22:07:50.060442491Z",
   "model": "glm-5.3"
 }

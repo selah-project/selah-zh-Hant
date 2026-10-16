@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "眼中看為惡",
-      "rationale": "בעיני字面為「在……的眼中」，中文沿用同一意象"
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "關係詞 אשר 兩次出現，中文以語序承載，不另出字"
-    }
-  ],
-  "translation": "若在你中間、在雅威你的以羅欣賜給你的某一城門中，查出男人或女人，行雅威你的以羅欣眼中看為惡的 ⟨את⟩ 那事，違背了他的約——",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "e9b94d43cecdca996ba506d597951075fcd2c4829a758a2008a479aa130d0044",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/17\/1-4.1792129002851.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "若在你中間、在雅威你的以羅欣賜給你的眾城門之一，被發現有男人或女人，行了雅威你的以羅欣眼中看為惡的事，違背了他的約，",
   "tokens": [
     {
       "surface": "כי",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "ימצא",
-      "gloss": "查出"
+      "gloss": "被發現"
     },
     {
       "surface": "בקרבך",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "באחד",
-      "gloss": "在某一"
+      "gloss": "在……之一"
     },
     {
       "surface": "שעריך",
-      "gloss": "城門中"
+      "gloss": "你的眾城門"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "就是"
     },
     {
       "surface": "יהוה",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "那"
     },
     {
       "surface": "יעשה",
@@ -91,11 +70,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那事（雅威眼中看為惡的）"
+      "marks": "那惡事"
     },
     {
       "surface": "הרע",
-      "gloss": "惡"
+      "gloss": "那惡事"
     },
     {
       "surface": "בעיני",
@@ -118,6 +97,6 @@
       "gloss": "他的約"
     }
   ],
-  "timestamp": "2026-10-16T05:36:42.852814789Z",
+  "timestamp": "2026-10-16T22:13:51.069013513Z",
   "model": "glm-5.3"
 }

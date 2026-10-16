@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "人們",
-      "rationale": "原文動詞無主語（「他們葬了」），中文以無主語句式帶過"
-    },
-    {
-      "kind": "addition",
-      "subject": "〈他〉",
-      "rationale": "原文僅說「來到撒瑪利亞」，中文需受詞主語"
-    }
-  ],
-  "translation": "王死了，〈他〉被運到撒瑪利亞，人們把 ⟨את⟩ 王葬在撒瑪利亞。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "d7d52a1fb407d901162ce45b9057c31b6a465ddeef8348beb04e4ca27b657cd2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/22\/37-40.1792133423500.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "王死了，屍體運到撒瑪利亞，他們把 ⟨את⟩ 王葬在撒瑪利亞。",
   "tokens": [
     {
       "surface": "וימת",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "ויבוא",
-      "gloss": "被運到"
+      "gloss": "運到"
     },
     {
       "surface": "שמרון",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ויקברו",
-      "gloss": "葬了"
+      "gloss": "他們…葬"
     },
     {
       "surface": "את",
@@ -62,6 +41,6 @@
       "gloss": "在撒瑪利亞"
     }
   ],
-  "timestamp": "2026-10-16T06:50:23.500946045Z",
+  "timestamp": "2026-10-16T21:58:45.890054195Z",
   "model": "glm-5.3"
 }

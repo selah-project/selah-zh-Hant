@@ -5,37 +5,11 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אצילה",
-      "rationale": "全書僅見之詞：「肘節」或「大肘」（KJV『大肘』）或「接連處」（JPS）——譯本分歧甚大"
-    },
-    {
-      "kind": "substitution",
-      "subject": "גבה",
-      "rationale": "字面為「高度」，和合本取「高臺」（ASV『raised basement』同路），非抽象高度"
-    },
-    {
-      "kind": "measurement",
-      "subject": "一竿六肘",
-      "rationale": "根基的丈量"
-    }
-  ],
-  "translation": "我又看見殿四圍有高臺；旁屋的根基，一竿之長，即六肘〈的肘節〉。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b6856c6d0ff63df7b77f8a017819fe7cf5a86da3daf9c25783b44dc336b1095f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/41\/5-8.1792139153423.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我又觀看，殿有高臺，四圍環繞；旁屋的根基，量度的竿全長六肘，按接縫處。",
   "tokens": [
     {
       "surface": "וראיתי",
-      "gloss": "我又看見"
+      "gloss": "我又觀看"
     },
     {
       "surface": "לבית",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "מלו",
-      "gloss": "一竿之長（滿量）"
+      "gloss": "全長"
     },
     {
       "surface": "הקנה",
-      "gloss": "竿"
+      "gloss": "量度的竿"
     },
     {
       "surface": "שש",
@@ -79,9 +53,9 @@
     },
     {
       "surface": "אצילה",
-      "gloss": "〈的肘節〉"
+      "gloss": "按接縫處"
     }
   ],
-  "timestamp": "2026-10-16T08:25:53.424623451Z",
+  "timestamp": "2026-10-16T22:25:34.863533293Z",
   "model": "glm-5.3"
 }

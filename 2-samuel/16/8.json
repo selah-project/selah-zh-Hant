@@ -5,37 +5,11 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "והנך ברעתך",
-      "rationale": "或譯「你被自己的惡抓住」；直譯「看哪，你在你的惡中」，中文保持字面並加「落在」"
-    },
-    {
-      "kind": "you",
-      "subject": "示每對大衛說的話",
-      "rationale": "全節為直接斥責性的演說，受話者是大衛王"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "דמים \/ איש הדמים",
-      "rationale": "「流人血的人」與上節咒詛語重複呼應，示每的控告首尾一致"
-    }
-  ],
-  "translation": "雅威已將掃羅家的血都歸在你身上，因為你代替他作了王；雅威已將國交在你兒子押沙龍手裡。看哪，你落在自己的惡中，因為你是流人血的人。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "e8332458151d5a269c83129044611fd8d23856330c98a48e25b50557fd2ac38d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/16\/5-8.1792132074859.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威已使掃羅之家的血債全數歸回你身上，因你替代他作王；雅威已將 ⟨את⟩ 王國交在你兒子押沙龍手中。看哪，你正陷在你的禍患裡，因為你是流人血的人。",
   "tokens": [
     {
       "surface": "השיב",
-      "gloss": "已歸回"
+      "gloss": "已使……歸回"
     },
     {
       "surface": "עליך",
@@ -47,15 +21,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "都"
+      "gloss": "全數"
     },
     {
       "surface": "דמי",
-      "gloss": "血"
+      "gloss": "血債"
     },
     {
       "surface": "בית",
-      "gloss": "家"
+      "gloss": "……之家"
     },
     {
       "surface": "שאול",
@@ -63,19 +37,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "因為"
+      "gloss": "因"
     },
     {
       "surface": "מלכת",
-      "gloss": "你作了王"
+      "gloss": "你作王"
     },
     {
       "surface": "תחתו",
-      "gloss": "代替他"
+      "gloss": "替代他"
     },
     {
       "surface": "ויתן",
-      "gloss": "已將……交"
+      "gloss": "已將……交在"
     },
     {
       "surface": "יהוה",
@@ -84,15 +58,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "國"
+      "marks": "王國"
     },
     {
       "surface": "המלוכה",
-      "gloss": "國"
+      "gloss": "王國"
     },
     {
       "surface": "ביד",
-      "gloss": "在……手裡"
+      "gloss": "在……手中"
     },
     {
       "surface": "אבשלום",
@@ -108,7 +82,7 @@
     },
     {
       "surface": "ברעתך",
-      "gloss": "在自己的惡中"
+      "gloss": "在你的禍患裡"
     },
     {
       "surface": "כי",
@@ -127,6 +101,6 @@
       "gloss": "你"
     }
   ],
-  "timestamp": "2026-10-16T06:27:54.860826552Z",
+  "timestamp": "2026-10-16T22:09:34.940248968Z",
   "model": "glm-5.3"
 }

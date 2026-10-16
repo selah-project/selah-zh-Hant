@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "三十二位王",
-      "rationale": "同盟君王的數目被記下"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ויצר",
-      "rationale": "צור 兼有「圍困」與「築壘」之義，中文只取其一"
-    }
-  ],
-  "translation": "便哈達，亞蘭的王，聚集了他全部的軍力，另有三十二位王與他同在，還有馬和戰車；他上去，圍困撒瑪利亞，向她攻打。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "5fd382057d5ee7188e7467a62c95c6e35ec7f8e69114c37fa7144ed43a5e97f8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/20\/1-4.1792133321780.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "便哈達，亞蘭的王，聚集了 ⟨את⟩ 他全軍的兵力，還有三十二位王與他同在，又有馬匹和戰車；他就上去，圍困撒瑪利亞，與⟨她⟩爭戰。",
   "tokens": [
     {
       "surface": "ובן",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "הדד",
-      "gloss": "便哈達"
+      "gloss": "（名號下半）"
     },
     {
       "surface": "מלך",
@@ -51,23 +30,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他全部的軍力"
+      "marks": "他全軍的兵力"
     },
     {
       "surface": "כל",
-      "gloss": "全部的"
+      "gloss": "全部"
     },
     {
       "surface": "חילו",
-      "gloss": "他的軍力"
+      "gloss": "他的兵力"
     },
     {
       "surface": "ושלשים",
-      "gloss": "三十二"
+      "gloss": "三十"
     },
     {
       "surface": "ושנים",
-      "gloss": "三十二"
+      "gloss": "二"
     },
     {
       "surface": "מלך",
@@ -75,12 +54,11 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩與他同在",
-      "marks": "三十二位王"
+      "gloss": "⟨את⟩他"
     },
     {
       "surface": "וסוס",
-      "gloss": "馬"
+      "gloss": "馬匹"
     },
     {
       "surface": "ורכב",
@@ -88,7 +66,7 @@
     },
     {
       "surface": "ויעל",
-      "gloss": "上去"
+      "gloss": "他就上去"
     },
     {
       "surface": "ויצר",
@@ -104,13 +82,13 @@
     },
     {
       "surface": "וילחם",
-      "gloss": "攻打"
+      "gloss": "爭戰"
     },
     {
       "surface": "בה",
-      "gloss": "向她"
+      "gloss": "與她"
     }
   ],
-  "timestamp": "2026-10-16T06:48:41.781542699Z",
+  "timestamp": "2026-10-16T21:58:41.019005938Z",
   "model": "glm-5.3"
 }

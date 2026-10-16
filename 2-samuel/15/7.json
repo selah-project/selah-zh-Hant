@@ -5,36 +5,15 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "四十年",
-      "rationale": "ארבעים שנה 從何算起不明：自大衛登基、自押沙龍出生、或抄本問題（LXX 作「四年」）"
-    },
-    {
-      "kind": "you",
-      "subject": "to the king（大衛）",
-      "rationale": "押沙龍直接向王請求，נא 為委婉懇求語"
-    }
-  ],
-  "translation": "四十年結束的時候，押沙龍對王說：「求你讓我去，還我在希伯崙向雅威所許的願。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "606240368565fa1d9f3575bceb0650cd202ad6a9cd1e3aa5815ec2365ed34d5b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/15\/5-8.1792132033846.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "四十年之後，押沙龍對王說：「求你容我去，還我所許的願，就是我在希伯崙向雅威所許的 ⟨את⟩ 願。」",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "……的時候"
+      "gloss": "之後發生了"
     },
     {
       "surface": "מקץ",
-      "gloss": "結束"
+      "gloss": "……的盡頭"
     },
     {
       "surface": "ארבעים",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "אלכה",
-      "gloss": "讓我去"
+      "gloss": "容我去"
     },
     {
       "surface": "נא",
@@ -75,7 +54,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我所許的願"
+      "marks": "我所許的願（נדרי）"
     },
     {
       "surface": "נדרי",
@@ -83,11 +62,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "就是"
     },
     {
       "surface": "נדרתי",
-      "gloss": "許的"
+      "gloss": "我所許的"
     },
     {
       "surface": "ליהוה",
@@ -98,6 +77,6 @@
       "gloss": "在希伯崙"
     }
   ],
-  "timestamp": "2026-10-16T06:27:13.847463448Z",
+  "timestamp": "2026-10-16T22:09:26.540636017Z",
   "model": "glm-5.3"
 }

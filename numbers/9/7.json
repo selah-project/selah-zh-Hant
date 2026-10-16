@@ -5,33 +5,7 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "נגרע",
-      "rationale": "字面「被削減／被除去」，諸譯本作「被攔阻」「被排除」。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "נפש אדם",
-      "rationale": "同 9:6，נפש 此處指屍體，非「靈魂」。"
-    },
-    {
-      "kind": "you",
-      "subject": "對摩西",
-      "rationale": "那些人直接向摩西發問，要求答覆。"
-    }
-  ],
-  "translation": "那些人對他說：「我們因人的屍體而不潔淨，為何被拒絕、不能在所定的節期、在以色列人中間獻上雅威的供物呢？」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ec93a7a2e7524f06c6e56cbc30a2ddc503da22f4aedc18b2974187a86cf7d735",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/9\/5-8.1792127705284.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "那些人對他說：「我們因人的死屍而成為不潔的，為何我們被剝奪，不能在所定的節期、在以色列子民中間獻上雅威的祭物⟨את⟩呢？」",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ההמה",
-      "gloss": "正是他們"
+      "gloss": "正是那些"
     },
     {
       "surface": "אליו",
@@ -55,15 +29,15 @@
     },
     {
       "surface": "טמאים",
-      "gloss": "不潔淨"
+      "gloss": "不潔的"
     },
     {
       "surface": "לנפש",
-      "gloss": "因屍體"
+      "gloss": "因死屍"
     },
     {
       "surface": "אדם",
-      "gloss": "人的"
+      "gloss": "人"
     },
     {
       "surface": "למה",
@@ -71,11 +45,11 @@
     },
     {
       "surface": "נגרע",
-      "gloss": "被削減"
+      "gloss": "被剝奪"
     },
     {
       "surface": "לבלתי",
-      "gloss": "以致不能"
+      "gloss": "不能"
     },
     {
       "surface": "הקרב",
@@ -84,15 +58,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "供物"
+      "marks": "雅威的祭物"
     },
     {
       "surface": "קרבן",
-      "gloss": "供物"
+      "gloss": "祭物"
     },
     {
       "surface": "יהוה",
-      "gloss": "雅威的"
+      "gloss": "雅威"
     },
     {
       "surface": "במעדו",
@@ -104,13 +78,13 @@
     },
     {
       "surface": "בני",
-      "gloss": "……的子孫"
+      "gloss": "……的子民"
     },
     {
       "surface": "ישראל",
       "gloss": "以色列"
     }
   ],
-  "timestamp": "2026-10-16T05:15:05.285581311Z",
+  "timestamp": "2026-10-16T22:56:52.655834145Z",
   "model": "glm-5.3"
 }

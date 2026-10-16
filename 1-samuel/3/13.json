@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מקללים להם",
-      "rationale": "諸本分歧：KJV「自取卑賤」、ASV\/JPS「自招咒詛」、BSB「咒詛以羅欣」；希伯來文字面為「為自己招咒詛」。"
-    },
-    {
-      "kind": "crux",
-      "subject": "כהה",
-      "rationale": "「制止」（KJV）與「斥責」（JPS）之別；字根意為變弱，使役為斥責。"
-    }
-  ],
-  "translation": "我已告訴他：我必審判他的家，直到永遠，因他所明知的那罪孽——他知道兒子們自招咒詛，卻不斥責他們。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "6be9d30d54d0c5465046f4359c8277051c27800fa5fa082cc075ef720b31d282",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/3\/13-16.1792130811693.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我已告訴他：我要永遠審判 ⟨את⟩ 他的家，因他所知的罪孽——他知道他的兒子們自招咒詛，他卻沒有斥責他們。",
   "tokens": [
     {
       "surface": "והגדתי",
@@ -71,11 +50,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "所"
     },
     {
       "surface": "ידע",
-      "gloss": "他知道"
+      "gloss": "知道"
     },
     {
       "surface": "כי",
@@ -83,11 +62,11 @@
     },
     {
       "surface": "מקללים",
-      "gloss": "自招咒詛"
+      "gloss": "咒詛"
     },
     {
       "surface": "להם",
-      "gloss": "為自己"
+      "gloss": "他們（自招）"
     },
     {
       "surface": "בניו",
@@ -95,7 +74,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "卻不"
+      "gloss": "卻沒有"
     },
     {
       "surface": "כהה",
@@ -106,6 +85,6 @@
       "gloss": "他們"
     }
   ],
-  "timestamp": "2026-10-16T06:06:51.693978825Z",
+  "timestamp": "2026-10-16T22:02:15.570618982Z",
   "model": "glm-5.3"
 }

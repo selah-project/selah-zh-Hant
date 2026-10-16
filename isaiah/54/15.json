@@ -5,33 +5,7 @@
   "book": "isaiah",
   "lang": "zh-Hant",
   "chapter": 54,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מאותי",
-      "rationale": "את＋מן或作「不是我」（not by me, KJV），或作「出於無有」（אֶפֶס influenced）；此處循אפס取「無有」"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "גור יגור \/ מי גר",
-      "rationale": "同根גור三現：聚集—聚集—同住，雙關在中文中僅存結構"
-    },
-    {
-      "kind": "alternative",
-      "subject": "מי גר אתך עליך יפול",
-      "rationale": "或譯「誰與你同在？攻擊你的必倒下」為問句；或如KJV作「凡聚集攻擊你的必因你倒下」"
-    }
-  ],
-  "translation": "看哪，凡聚集攻擊你的必出於無有，不是我⟨את⟩所召集；誰與你同在？攻擊你的必倒下。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "07029e31779e38e20ce40c5d90e7c0bc6d56c8d23c6e669cd8b4f80e4e214651",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/54\/13-16.1792135663330.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "看哪，即使有人聚集，也必不出於我 ⟨את⟩；凡與你聚集、起來攻擊你的，必在你面前仆倒。",
   "tokens": [
     {
       "surface": "הן",
@@ -47,23 +21,25 @@
     },
     {
       "surface": "אפס",
-      "gloss": "出於無有"
+      "gloss": "必不"
     },
     {
       "surface": "מאותי",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "凡聚集者（מי 誰／凡…者）"
     },
     {
       "surface": "מי",
-      "gloss": "誰"
+      "gloss": "凡…者"
     },
     {
       "surface": "גר",
-      "gloss": "同住"
+      "gloss": "聚集"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩你"
+      "gloss": "⟨את⟩與你",
+      "marks": "你"
     },
     {
       "surface": "עליך",
@@ -71,9 +47,9 @@
     },
     {
       "surface": "יפול",
-      "gloss": "必倒下"
+      "gloss": "必仆倒"
     }
   ],
-  "timestamp": "2026-10-16T07:27:43.330989890Z",
+  "timestamp": "2026-10-16T22:35:35.648385557Z",
   "model": "glm-5.3"
 }

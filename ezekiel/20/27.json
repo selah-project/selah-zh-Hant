@@ -5,36 +5,15 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "מעל בי מעל",
-      "rationale": "במעלם בי מעל——同根詞在前置詞框架中重疊，『以詭詐向我行詭詐』，中文難以保留雙重的迴響。"
-    },
-    {
-      "kind": "you",
-      "subject": "以色列家",
-      "rationale": "命令人子向以色列家傳話，直接稱呼聽眾。"
-    }
-  ],
-  "translation": "因此，人子啊，你要對以色列家說話，對他們說：阿多奈雅威如此說：你們的列祖在這事上又辱罵了⟨אותי⟩我，以悖逆待我，向我行了詭詐。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "bb7c1943b67fa9d013ec401b68a9674d52f2e3084286182fa1abdeaa64fe683e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/20\/25-28.1792138483101.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "所以，人子啊，你要對以色列家說話，對他們說：阿多奈雅威如此說：你們的列祖在這件事上還辱罵了⟨את⟩我，以背信對我行了背信。",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "因此"
+      "gloss": "所以"
     },
     {
       "surface": "דבר",
-      "gloss": "說話"
+      "gloss": "你要說話"
     },
     {
       "surface": "אל",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "ואמרת",
-      "gloss": "你要說"
+      "gloss": "對他們說"
     },
     {
       "surface": "אליהם",
@@ -82,20 +61,20 @@
     },
     {
       "surface": "עוד",
-      "gloss": "又"
+      "gloss": "還"
     },
     {
       "surface": "זאת",
-      "gloss": "在這事上"
+      "gloss": "這件事"
     },
     {
       "surface": "גדפו",
-      "gloss": "辱罵"
+      "gloss": "辱罵了"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ ⟨אותי⟩",
-      "marks": "我"
+      "gloss": "⟨את⟩",
+      "marks": "我（אותי＝את＋我，指向受詞「我」）"
     },
     {
       "surface": "אבותיכם",
@@ -103,17 +82,17 @@
     },
     {
       "surface": "במעלם",
-      "gloss": "以悖逆待"
+      "gloss": "以背信"
     },
     {
       "surface": "בי",
-      "gloss": "向我"
+      "gloss": "對我"
     },
     {
       "surface": "מעל",
-      "gloss": "行詭詐"
+      "gloss": "行了背信"
     }
   ],
-  "timestamp": "2026-10-16T08:14:43.102251715Z",
+  "timestamp": "2026-10-16T22:23:10.132707737Z",
   "model": "glm-5.3"
 }

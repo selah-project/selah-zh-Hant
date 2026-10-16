@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "היצוע",
-      "rationale": "原義為鋪開之物（臥榻），建築上指貼殿而建的廂房側樓，非普通房間。"
-    },
-    {
-      "kind": "measurement",
-      "subject": "五肘",
-      "rationale": "本節記廂房的高度尺寸，屬度量記述。"
-    }
-  ],
-  "translation": "他又在殿的四周建造 ⟨את⟩ 附屬的廂房，高五肘；它貼附於殿，用的是香柏木的木料。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b291258192b9064879a8291a92eedb88d5b66afdef0b548eeb45d4d9e83554b7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/6\/9-12.1792132611900.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他又建造了 ⟨את⟩ 附屬結構，沿著整個殿的周圍，高五肘；它以香柏木的梁木緊貼 ⟨את⟩ 這殿。",
   "tokens": [
     {
       "surface": "ויבן",
@@ -35,19 +14,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "廂房"
+      "marks": "附屬結構"
     },
     {
       "surface": "היצוע",
-      "gloss": "附屬的廂房"
+      "gloss": "附屬結構"
     },
     {
       "surface": "על",
-      "gloss": "在……之上"
+      "gloss": "沿著"
     },
     {
       "surface": "כל",
-      "gloss": "四周"
+      "gloss": "整個"
     },
     {
       "surface": "הבית",
@@ -63,30 +42,30 @@
     },
     {
       "surface": "קומתו",
-      "gloss": "高"
+      "gloss": "高（其高度）"
     },
     {
       "surface": "ויאחז",
-      "gloss": "它貼附於"
+      "gloss": "它緊貼"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "殿"
+      "marks": "這殿"
     },
     {
       "surface": "הבית",
-      "gloss": "殿"
+      "gloss": "這殿"
     },
     {
       "surface": "בעצי",
-      "gloss": "用……的木料"
+      "gloss": "以…的木料"
     },
     {
       "surface": "ארזים",
       "gloss": "香柏木"
     }
   ],
-  "timestamp": "2026-10-16T06:36:51.901894343Z",
+  "timestamp": "2026-10-16T21:59:13.784256091Z",
   "model": "glm-5.3"
 }

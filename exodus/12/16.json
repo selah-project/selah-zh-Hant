@@ -5,38 +5,7 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈所〉〈食物〉",
-      "rationale": "אשר יאאכל 是『所吃的』關係子句，中文需補名詞使句法完整"
-    },
-    {
-      "kind": "substitution",
-      "subject": "人",
-      "rationale": "נפש 此處指『每一個人』（每一張口），非『靈魂』"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מקרא קדש",
-      "rationale": "『聖會』片語在本節重複兩次，形成平行結構"
-    },
-    {
-      "kind": "you",
-      "subject": "以色列人",
-      "rationale": "定例以『歸你們』直接對會眾頒布"
-    }
-  ],
-  "translation": "頭一日要有聖會，第七日也要有聖會歸你們；這兩日之間一切工作都不可做；惟獨各人〈所〉吃的〈食物〉，才可以由你們自己做。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "d771f4f7cfc17c459b829d496b6ef16c26dc32bd0110da486313f39fedd425be",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/12\/13-16.1792125994353.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "第一日當有聖會，第七日也當有聖會歸給你們；這兩日之內，一切的工都不可做，惟有各人〈魂〉所當吃的，才可以做。",
   "tokens": [
     {
       "surface": "וביום",
@@ -44,7 +13,7 @@
     },
     {
       "surface": "הראשון",
-      "gloss": "頭一"
+      "gloss": "第一"
     },
     {
       "surface": "מקרא",
@@ -72,19 +41,19 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "要有"
+      "gloss": "當有"
     },
     {
       "surface": "לכם",
-      "gloss": "歸你們"
+      "gloss": "歸給你們"
     },
     {
       "surface": "כל",
-      "gloss": "一切"
+      "gloss": "一切的"
     },
     {
       "surface": "מלאכה",
-      "gloss": "工作"
+      "gloss": "工"
     },
     {
       "surface": "לא",
@@ -96,19 +65,19 @@
     },
     {
       "surface": "בהם",
-      "gloss": "在這兩日"
+      "gloss": "在這兩日之內"
     },
     {
       "surface": "אך",
-      "gloss": "惟獨"
+      "gloss": "惟有"
     },
     {
       "surface": "אשר",
-      "gloss": "所……的"
+      "gloss": "所當"
     },
     {
       "surface": "יאכל",
-      "gloss": "吃"
+      "gloss": "吃的"
     },
     {
       "surface": "לכל",
@@ -116,25 +85,25 @@
     },
     {
       "surface": "נפש",
-      "gloss": "人"
+      "gloss": "〈魂〉"
     },
     {
       "surface": "הוא",
-      "gloss": "那"
-    },
-    {
-      "surface": "לבדו",
       "gloss": "才"
     },
     {
+      "surface": "לבדו",
+      "gloss": "只"
+    },
+    {
       "surface": "יעשה",
-      "gloss": "可以做"
+      "gloss": "做"
     },
     {
       "surface": "לכם",
-      "gloss": "由你們"
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-10-16T04:46:34.355249101Z",
+  "timestamp": "2026-10-16T22:17:43.303703278Z",
   "model": "glm-5.3"
 }

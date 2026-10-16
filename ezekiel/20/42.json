@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "נשאתי את ידי",
-      "rationale": "「舉手」是起誓的固定姿勢；和合本譯「起誓」，此處保留字面動作"
-    },
-    {
-      "kind": "addition",
-      "subject": "(連詞)",
-      "rationale": "כי 在引語中作引導詞，中文以語序吸收"
-    }
-  ],
-  "translation": "你們就知道我是雅威，當我領 ⟨אתכם⟩ 你們進入以色列的地土，進入我曾舉起 ⟨את⟩ 我的手要賜給你們列祖的那地。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "34386e22e57f714f33942fba29988593e8b24f4805639a0d43e1ec232b83c302",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/20\/41-44.1792138455558.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你們就知道我是雅威，當我領 ⟨את⟩ 你們進入以色列的地土，進入那地，就是我向它舉起 ⟨את⟩ 我的手起誓要將它賜給你們列祖的。",
   "tokens": [
     {
       "surface": "וידעתם",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "(連詞)"
+      "gloss": "（連詞，引出『我是雅威』）"
     },
     {
       "surface": "אני",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "בהביאי",
-      "gloss": "當我領…進入"
+      "gloss": "當我領"
     },
     {
       "surface": "אתכם",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "אדמת",
-      "gloss": "地土"
+      "gloss": "的地土"
     },
     {
       "surface": "ישראל",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "…的"
+      "gloss": "就是"
     },
     {
       "surface": "נשאתי",
@@ -97,13 +76,13 @@
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "那地"
+      "marks": "它（那地）"
     },
     {
       "surface": "לאבותיכם",
       "gloss": "你們列祖"
     }
   ],
-  "timestamp": "2026-10-16T08:14:15.559940003Z",
+  "timestamp": "2026-10-16T22:23:03.087769323Z",
   "model": "glm-5.3"
 }

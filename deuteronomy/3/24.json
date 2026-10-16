@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "阿多奈・雅威",
-      "rationale": "אדני יהוה：和合本作「主耶和華」；本紀律以音譯阿多奈直接保留經文本身的 אדני，不作雅威的替代"
-    },
-    {
-      "kind": "substitution",
-      "subject": "אל",
-      "rationale": "此處 אל 是類名詞「神明」，但依名號表一律音譯為伊勒，問句仍可讀通"
-    },
-    {
-      "kind": "you",
-      "subject": "to 雅威",
-      "rationale": "摩西向雅威的禱告，直接稱呼第二人稱"
-    }
-  ],
-  "translation": "阿多奈・雅威啊，你已開始向你的僕人顯明 ⟨את⟩ 你的偉大和 ⟨את⟩ 你大能的手——天上地下，誰是伊勒，能照你的作為、照你的大能而行？",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b5ada990de1836bf3691b784021a2406ca4d67bd89c68ef9402fd127bfad40e0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/3\/21-24.1792128505590.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "阿多奈雅威啊，你已開始向你的僕人顯明 ⟨את⟩ 你的偉大和 ⟨את⟩ 你大能的手：在天上、在地上，哪有一位伊勒能行如同你的作為、如同你的大能呢？",
   "tokens": [
     {
       "surface": "אדני",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "החלות",
-      "gloss": "已開始"
+      "gloss": "你已開始"
     },
     {
       "surface": "להראות",
@@ -73,7 +47,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "你大能的手"
     },
     {
@@ -86,11 +60,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "——"
+      "gloss": ""
     },
     {
       "surface": "מי",
-      "gloss": "誰"
+      "gloss": "哪有一位"
     },
     {
       "surface": "אל",
@@ -102,11 +76,11 @@
     },
     {
       "surface": "ובארץ",
-      "gloss": "和在地上"
+      "gloss": "在地上"
     },
     {
       "surface": "אשר",
-      "gloss": "……的"
+      "gloss": ""
     },
     {
       "surface": "יעשה",
@@ -114,13 +88,13 @@
     },
     {
       "surface": "כמעשיך",
-      "gloss": "照你的作為"
+      "gloss": "如同你的作為"
     },
     {
       "surface": "וכגבורתך",
-      "gloss": "和照你的大能"
+      "gloss": "如同你的大能"
     }
   ],
-  "timestamp": "2026-10-16T05:28:25.591996231Z",
+  "timestamp": "2026-10-16T22:14:28.064742711Z",
   "model": "glm-5.3"
 }

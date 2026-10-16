@@ -5,33 +5,7 @@
   "book": "joshua",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "關係詞無自然中文對應，由「直到」承擔"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "בחרבה",
-      "rationale": "「乾地」在同一節重複兩次，強調神蹟的實在"
-    },
-    {
-      "kind": "substitution",
-      "subject": "הגוי",
-      "rationale": "指以色列全體百姓（此處非異邦），譯「全國的人」"
-    }
-  ],
-  "translation": "抬著雅威約櫃的祭司們站在約旦河中間的乾地上，站得穩固；全以色列人都從乾地上過去，直到全國的人都過完了 ⟨את⟩ 約旦河。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "93277d7ccb9607ca3ea51a5d35810890bee283867e46230009dcca3845aef5ad",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/3\/17-17.1792129407228.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "抬雅威約櫃的眾祭司站在約旦河中間的乾地上，站立穩固，以色列眾人都在乾地上過去，直到全國的人都過了 ⟨את⟩ 約旦河。",
   "tokens": [
     {
       "surface": "ויעמדו",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "הכהנים",
-      "gloss": "祭司們"
+      "gloss": "眾祭司"
     },
     {
       "surface": "נשאי",
-      "gloss": "抬著"
+      "gloss": "抬……的"
     },
     {
       "surface": "הארון",
@@ -71,11 +45,11 @@
     },
     {
       "surface": "הכן",
-      "gloss": "站得穩固"
+      "gloss": "站立穩固"
     },
     {
       "surface": "וכל",
-      "gloss": "全"
+      "gloss": "而全"
     },
     {
       "surface": "ישראל",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "בחרבה",
-      "gloss": "從乾地上"
+      "gloss": "在乾地上"
     },
     {
       "surface": "עד",
@@ -95,11 +69,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "……之時"
     },
     {
       "surface": "תמו",
-      "gloss": "過完了"
+      "gloss": "完成"
     },
     {
       "surface": "כל",
@@ -107,11 +81,11 @@
     },
     {
       "surface": "הגוי",
-      "gloss": "國的人"
+      "gloss": "國"
     },
     {
       "surface": "לעבר",
-      "gloss": "過"
+      "gloss": "過去"
     },
     {
       "surface": "את",
@@ -123,6 +97,6 @@
       "gloss": "約旦河"
     }
   ],
-  "timestamp": "2026-10-16T05:43:27.229198428Z",
+  "timestamp": "2026-10-16T22:44:32.207885925Z",
   "model": "glm-5.3"
 }

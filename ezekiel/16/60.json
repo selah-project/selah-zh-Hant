@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "עולם",
-      "rationale": "עולם 字根意為「隱藏、超出視界」，指時間不可測度的遠處，譯作「永遠」。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ברית",
-      "rationale": "ברית 三現於 59–60 節：你廢棄的約、我記念的約、我堅立的新約——一詞三折。"
-    }
-  ],
-  "translation": "然而我要記念 ⟨את⟩ 我的約——你年幼日子的約，並要為你堅立永遠的約。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a1fda81d194e0026c30f7362b083394af1ba8b4c067070484f7bb2ebda355e5e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/16\/57-60.1792138267046.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "然而我要記念我 ⟨את⟩ 在你年幼日子與你所立的約，並要為你豎立一個永遠的約。",
   "tokens": [
     {
       "surface": "וזכרתי",
@@ -48,19 +27,19 @@
     {
       "surface": "אותך",
       "gloss": "⟨את⟩",
-      "marks": "你年幼日子的約"
+      "marks": "你年幼的日子"
     },
     {
       "surface": "בימי",
-      "gloss": "在…的日子"
+      "gloss": "在……的日子"
     },
     {
       "surface": "נעוריך",
-      "gloss": "你年幼"
+      "gloss": "你年幼的時候"
     },
     {
       "surface": "והקמותי",
-      "gloss": "並要…堅立"
+      "gloss": "並我要豎立"
     },
     {
       "surface": "לך",
@@ -75,6 +54,6 @@
       "gloss": "永遠"
     }
   ],
-  "timestamp": "2026-10-16T08:11:07.047856451Z",
+  "timestamp": "2026-10-16T22:22:22.223721933Z",
   "model": "glm-5.3"
 }

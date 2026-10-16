@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כזה וכזה תאכל החרב",
-      "rationale": "字面「或這樣或那樣刀劍吞吃」，即戰事無常、刀劍不挑人；中文以「或這樣、或那樣」保留其含混。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "מלחמתך",
-      "rationale": "字面「你的戰爭／戰役」，各譯本多化作「攻勢」或「攻擊」。"
-    },
-    {
-      "kind": "addition",
-      "subject": "那",
-      "rationale": "העיר 帶定冠詞，中文以⟨那⟩標出特定之城。"
-    }
-  ],
-  "translation": "大衛對使者說：「你要這樣對約押說：不要讓這事在你眼中看為惡，因為刀劍或這樣、或那樣地吞吃。你要加強你對⟨那⟩城的攻勢，將它拆毀，並要鼓勵他。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "8be2a52238233720a76a6354d4c9ba04545a14a788a7e77e6916ef0c6f1f79c9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/11\/25-27.1792131905175.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "大衛對報信的人說：「你要這樣對約押說：不要讓 ⟨את⟩ 這事在你眼中看為惡，因為刀劍或這樣吞滅、或那樣吞滅。你要加強你對那城的攻勢，將它拆毀，並要鼓勵他。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "המלאך",
-      "gloss": "使者"
+      "gloss": "報信的人"
     },
     {
       "surface": "כה",
@@ -104,7 +78,7 @@
     },
     {
       "surface": "תאכל",
-      "gloss": "吞吃"
+      "gloss": "吞滅"
     },
     {
       "surface": "החרב",
@@ -124,7 +98,7 @@
     },
     {
       "surface": "העיר",
-      "gloss": "城"
+      "gloss": "那城"
     },
     {
       "surface": "והרסה",
@@ -135,6 +109,6 @@
       "gloss": "並要鼓勵他"
     }
   ],
-  "timestamp": "2026-10-16T06:25:05.176246020Z",
+  "timestamp": "2026-10-16T22:09:17.569433815Z",
   "model": "glm-5.3"
 }

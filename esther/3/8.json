@@ -5,37 +5,11 @@
   "book": "esther",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שוה",
-      "rationale": "字面「對王不等值／不值得」——諸譯本作「無利」「無益」「不划算」；本譯取「無益處」。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "散居隔離",
-      "rationale": "מפזר ומפרד 兩個被動分詞並列（被散開、被隔開），哈曼把離散扭曲成威脅；中文以兩個雙字詞保持並列。"
-    },
-    {
-      "kind": "alternative",
-      "subject": "有一個民族",
-      "rationale": "原文 ישנו עם אחד 語序倒裝（「存在著一民族一個」），哈曼刻意不點名猶大人；譯文保留「一個民族」的匿名的口吻。"
-    }
-  ],
-  "translation": "哈曼對亞哈隨魯王說：「有一個民族，散居隔離在各民族之中，遍及你國的各省；他們的律例與萬族不同，〈ואת〉王的律例他們也不遵行；容讓他們，於王並無益處。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "482ed721e4b89ead203eccdee52a8dfb144cc254d2cb07e56adab0e09040e15b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/esther\/3\/5-8.1792147249631.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "哈曼對王亞哈隨魯說：「有一個民族，散居又離隔在各民族之中，在你王國的各省之中；他們的法令與萬族不同，他們不遵行 ⟨את⟩ 王的法令，容讓他們⟨繼續存在⟩對王也沒有益處。」",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "對…說"
+      "gloss": "說"
     },
     {
       "surface": "המן",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "ומפרד",
-      "gloss": "隔離"
+      "gloss": "又離隔"
     },
     {
       "surface": "בין",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "בכל",
-      "gloss": "在所有"
+      "gloss": "在所有的"
     },
     {
       "surface": "מדינות",
@@ -87,11 +61,11 @@
     },
     {
       "surface": "מלכותך",
-      "gloss": "你的國"
+      "gloss": "你王國的"
     },
     {
       "surface": "ודתיהם",
-      "gloss": "他們的律例"
+      "gloss": "他們的法令"
     },
     {
       "surface": "שנות",
@@ -107,16 +81,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨ואת⟩",
-      "marks": "王的律例"
+      "gloss": "⟨את⟩",
+      "marks": "王的法令"
     },
     {
       "surface": "דתי",
-      "gloss": "律例"
+      "gloss": "法令"
     },
     {
       "surface": "המלך",
-      "gloss": "王的"
+      "gloss": "王"
     },
     {
       "surface": "אינם",
@@ -132,17 +106,17 @@
     },
     {
       "surface": "אין",
-      "gloss": "無"
+      "gloss": "沒有"
     },
     {
       "surface": "שוה",
-      "gloss": "益處（值得）"
+      "gloss": "益處"
     },
     {
       "surface": "להניחם",
       "gloss": "容讓他們"
     }
   ],
-  "timestamp": "2026-10-16T10:40:49.632373686Z",
+  "timestamp": "2026-10-16T22:17:17.887961556Z",
   "model": "glm-5.3"
 }

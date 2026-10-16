@@ -5,37 +5,16 @@
   "book": "2-chronicles",
   "lang": "zh-Hant",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "銅海",
-      "rationale": "הים 直譯 '那海'，指盛水的巨盆；中文加'銅'字以達意"
-    },
-    {
-      "kind": "measurement",
-      "subject": "十二頭牛",
-      "rationale": "器物數目的清點"
-    }
-  ],
-  "translation": "一個銅海，和 ⟨את⟩ 那十二頭牛在它以下。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "2723865abed1ce2cc8f9d3c4705274dfdcb6f38f134fd8a0e66c9ae8b7dfd864",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/4\/13-16.1792149153935.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "一個銅海，和 ⟨את⟩ 海底下 ⟨את⟩ 的十二隻牛。",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那一個海"
+      "marks": "銅海"
     },
     {
       "surface": "הים",
-      "gloss": "那海"
+      "gloss": "海"
     },
     {
       "surface": "אחד",
@@ -44,11 +23,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "那牛"
+      "marks": "十二隻牛"
     },
     {
       "surface": "הבקר",
-      "gloss": "那牛"
+      "gloss": "牛"
     },
     {
       "surface": "שנים",
@@ -60,9 +39,9 @@
     },
     {
       "surface": "תחתיו",
-      "gloss": "在它以下"
+      "gloss": "在它底下"
     }
   ],
-  "timestamp": "2026-10-16T11:12:33.936548734Z",
+  "timestamp": "2026-10-16T22:04:31.345136133Z",
   "model": "glm-5.3"
 }

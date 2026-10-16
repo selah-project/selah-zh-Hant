@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "rationale": "第二個受詞記號指向衣服（穿上它們），中文以受詞「衣服」前置合併表達"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ויפשט\/וילבש",
-      "rationale": "脫下與穿上兩個動詞在26–28節重複對仗，標記祭司職分的轉移"
-    }
-  ],
-  "translation": "摩西把 ⟨את⟩ 亞倫的衣服脫下來，給他兒子以利亞撒穿上；亞倫就死在山頂那裏。摩西和以利亞撒從山上下來。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b99c015fde4d1b5715d0a75f6bdfc8b04a79f9870f86010f4adbb3465cd867b3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/20\/25-28.1792128015249.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "摩西脫下 ⟨את⟩ 亞倫的 ⟨את⟩ 衣服，給 ⟨את⟩ 他的兒子以利亞撒穿上⟨它們⟩；亞倫就死在那裏，在山頂上；摩西和以利亞撒就從山上下來了。",
   "tokens": [
     {
       "surface": "ויפשט",
-      "gloss": "把……脫下來"
+      "gloss": "脫下"
     },
     {
       "surface": "משה",
@@ -60,8 +39,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩它們",
-      "marks": "衣服"
+      "gloss": "⟨את⟩",
+      "marks": "以利亞撒"
     },
     {
       "surface": "את",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "וימת",
-      "gloss": "就死"
+      "gloss": "死了"
     },
     {
       "surface": "אהרן",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "בראש",
-      "gloss": "在頂"
+      "gloss": "在山頂上"
     },
     {
       "surface": "ההר",
@@ -117,6 +96,6 @@
       "gloss": "山"
     }
   ],
-  "timestamp": "2026-10-16T05:20:15.250880331Z",
+  "timestamp": "2026-10-16T22:53:55.872681037Z",
   "model": "glm-5.3"
 }

@@ -5,54 +5,33 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "והפצותי\/וזריתי",
-      "rationale": "「分散」与「撒散（簸散，如扬簸谷粒）」两个近义动词并置，簸谷意象在中文中部分流失。"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "כי在确认识别句式中未单独译出。"
-    }
-  ],
-  "translation": "我必分散⟨את⟩埃及人在列國中，把他們撒散在各地；他們就知道我是雅威。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "27caabe66ff6f2db3b6c6a3a09476166564ea7be195c6696e16d14dc3d70a7f8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/30\/25-26.1792138776170.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我必將 ⟨את⟩ 埃及驅散在列國之中，將他們〈它們〉揚散在各地；他們就必知道我是雅威。",
   "tokens": [
     {
       "surface": "והפצותי",
-      "gloss": "我必分散"
+      "gloss": "我必驅散"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "埃及人"
+      "marks": "埃及"
     },
     {
       "surface": "מצרים",
-      "gloss": "埃及人"
+      "gloss": "埃及"
     },
     {
       "surface": "בגוים",
-      "gloss": "在列國中"
+      "gloss": "在列國之中"
     },
     {
       "surface": "וזריתי",
-      "gloss": "我必撒散"
+      "gloss": "我必揚散"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "他們"
+      "gloss": "⟨את⟩他們",
+      "marks": "他們（即埃及人）"
     },
     {
       "surface": "בארצות",
@@ -60,11 +39,11 @@
     },
     {
       "surface": "וידעו",
-      "gloss": "他們就知道"
+      "gloss": "他們就必知道"
     },
     {
       "surface": "כי",
-      "gloss": "——"
+      "gloss": "〈因為〉"
     },
     {
       "surface": "אני",
@@ -75,6 +54,6 @@
       "gloss": "雅威"
     }
   ],
-  "timestamp": "2026-10-16T08:19:36.171505088Z",
+  "timestamp": "2026-10-16T22:24:09.946481679Z",
   "model": "glm-5.3"
 }

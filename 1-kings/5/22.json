@@ -5,27 +5,11 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ברושים",
-      "rationale": "ברושם樹種不確定：或柏木、或檜木、或扁柏，各家譯法不一"
-    }
-  ],
-  "translation": "希蘭差人去見所羅門，說：「我聽見了你差人送到我這裡的話。我必照你所要的一切，用香柏木和柏木做成。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "6b25392da2cd64be6763a24a82fd6ccd08d5d154d39f7f6c85e98c1ff24094de",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/5\/21-24.1792132729357.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "希蘭差遣人⟨到⟩所羅門那裡，說：「我已聽見你差遣到我這裡來的話；我要照你一切所喜悅的去行，用香柏木和柏木。」",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "差人去"
+      "gloss": "差遣"
     },
     {
       "surface": "חירם",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "見"
+      "gloss": "⟨到⟩……那裡"
     },
     {
       "surface": "שלמה",
@@ -45,24 +29,24 @@
     },
     {
       "surface": "שמעתי",
-      "gloss": "聽見了"
+      "gloss": "我已聽見"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "你所差來的"
+      "marks": "你所差遣的"
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "……的"
     },
     {
       "surface": "שלחת",
-      "gloss": "差人送"
+      "gloss": "你差遣"
     },
     {
       "surface": "אלי",
-      "gloss": "到我這裡"
+      "gloss": "到我這裡來"
     },
     {
       "surface": "אני",
@@ -70,7 +54,7 @@
     },
     {
       "surface": "אעשה",
-      "gloss": "必做成"
+      "gloss": "要行"
     },
     {
       "surface": "את",
@@ -83,7 +67,7 @@
     },
     {
       "surface": "חפצך",
-      "gloss": "你所要的"
+      "gloss": "你所喜悅的"
     },
     {
       "surface": "בעצי",
@@ -91,7 +75,7 @@
     },
     {
       "surface": "ארזים",
-      "gloss": "香柏木"
+      "gloss": "香柏"
     },
     {
       "surface": "ובעצי",
@@ -99,9 +83,9 @@
     },
     {
       "surface": "ברושים",
-      "gloss": "柏木"
+      "gloss": "柏"
     }
   ],
-  "timestamp": "2026-10-16T06:38:49.358095972Z",
+  "timestamp": "2026-10-16T21:59:13.970785056Z",
   "model": "glm-5.3"
 }

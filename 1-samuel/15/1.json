@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Saul",
-      "rationale": "撒母耳直接向掃羅說話，末句命令式「你要聽」是對掃羅的召喚"
-    },
-    {
-      "kind": "idiom",
-      "subject": "לקול דברי יהוה",
-      "rationale": "字面「聽話語的聲音」，希伯來慣用語即聽從"
-    }
-  ],
-  "translation": "撒母耳對掃羅說：「差派我的是雅威，要膏你作王治理他的百姓，治理以色列。現在你要聽從雅威話語的聲音。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "515699c93f8316b01d7fa1de08c0bf88d896bf97bc4beb0b107cae6327e558f5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/15\/1-4.1792131139697.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "撒母耳對掃羅說：「雅威差遣了 ⟨את⟩ 我，膏你作王治理他的百姓，治理以色列。現在你要聽從雅威的話語之聲。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -46,12 +25,12 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩我",
+      "gloss": "⟨את⟩",
       "marks": "我"
     },
     {
       "surface": "שלח",
-      "gloss": "差派"
+      "gloss": "差遣了"
     },
     {
       "surface": "יהוה",
@@ -87,11 +66,11 @@
     },
     {
       "surface": "שמע",
-      "gloss": "你要聽"
+      "gloss": "你要聽從"
     },
     {
       "surface": "לקול",
-      "gloss": "聽從……的聲音"
+      "gloss": "之聲"
     },
     {
       "surface": "דברי",
@@ -102,6 +81,6 @@
       "gloss": "雅威"
     }
   ],
-  "timestamp": "2026-10-16T06:12:19.698704312Z",
+  "timestamp": "2026-10-16T22:00:06.168919571Z",
   "model": "glm-5.3"
 }

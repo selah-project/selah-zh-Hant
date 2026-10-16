@@ -5,27 +5,11 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "את ידם",
-      "rationale": "受詞記號以⟨את⟩保留，指向「他們的手」。"
-    }
-  ],
-  "translation": "那些人伸手出去，把羅特拉進屋內到他們那裡，並關上了那門。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a22d0585e144ec315aaf6f9bb35645a03cc58a1a7516e495636d871d7f1ca5e2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/19\/9-12.1792124856101.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "那些人伸出手來，把羅得拉進屋內到他們那裡，並關上了門；他們伸⟨את⟩手，把⟨את⟩羅得帶進屋裡到他們那裡，又把⟨את⟩門關上。",
   "tokens": [
     {
       "surface": "וישלחו",
-      "gloss": "他們伸出"
+      "gloss": "伸出"
     },
     {
       "surface": "האנשים",
@@ -34,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他們的手"
+      "marks": "手"
     },
     {
       "surface": "ידם",
-      "gloss": "手"
+      "gloss": "他們的手"
     },
     {
       "surface": "ויביאו",
-      "gloss": "把……拉進"
+      "gloss": "帶進"
     },
     {
       "surface": "את",
@@ -59,22 +43,22 @@
     },
     {
       "surface": "הביתה",
-      "gloss": "屋內"
+      "gloss": "進屋裡"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "那門"
+      "marks": "門"
     },
     {
       "surface": "הדלת",
-      "gloss": "那門"
+      "gloss": "門"
     },
     {
       "surface": "סגרו",
-      "gloss": "關上了"
+      "gloss": "關上"
     }
   ],
-  "timestamp": "2026-10-16T04:27:36.102475773Z",
+  "timestamp": "2026-10-16T23:01:19.045402457Z",
   "model": "glm-5.3"
 }

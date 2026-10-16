@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ויהי",
-      "rationale": "敘事轉折詞「發生了」在中文中以直接敘述吸收，未單獨譯出"
-    },
-    {
-      "kind": "substitution",
-      "subject": "על",
-      "rationale": "原文「在……之上」，指位居這民之上，譯作「治理」"
-    }
-  ],
-  "translation": "希蘭聽見了所羅門的話，就大大歡喜，說：「雅威是應當稱頌的，因為他今日賜給大衛一個智慧的兒子，治理這眾多的民。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "6b25392da2cd64be6763a24a82fd6ccd08d5d154d39f7f6c85e98c1ff24094de",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/5\/21-24.1792132729357.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "希蘭聽見 ⟨את⟩ 所羅門的話語，就大大喜樂，說：「雅威是應當稱頌的，因為祂今日賜給大衛一個智慧的兒子，治理這眾多的百姓。」",
   "tokens": [
     {
       "surface": "ויהי",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "כשמע",
-      "gloss": "聽見了"
+      "gloss": "聽見"
     },
     {
       "surface": "חירם",
@@ -43,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "話"
+      "marks": "所羅門的話語"
     },
     {
       "surface": "דברי",
-      "gloss": "話"
+      "gloss": "話語"
     },
     {
       "surface": "שלמה",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "וישמח",
-      "gloss": "歡喜"
+      "gloss": "喜樂"
     },
     {
       "surface": "מאד",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "ברוך",
-      "gloss": "應當稱頌"
+      "gloss": "應當稱頌的"
     },
     {
       "surface": "יהוה",
@@ -103,17 +82,17 @@
     },
     {
       "surface": "העם",
-      "gloss": "民"
+      "gloss": "百姓"
     },
     {
       "surface": "הרב",
-      "gloss": "眾多"
+      "gloss": "眾多的"
     },
     {
       "surface": "הזה",
       "gloss": "這"
     }
   ],
-  "timestamp": "2026-10-16T06:38:49.357797237Z",
+  "timestamp": "2026-10-16T21:59:24.071519268Z",
   "model": "glm-5.3"
 }

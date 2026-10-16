@@ -5,23 +5,7 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "他",
-      "rationale": "חקתיו 的代詞詞尾已含「他的」，中文以獨立代詞補足"
-    }
-  ],
-  "translation": "好叫你敬畏雅威你的以羅欣，謹守他的一切律例和誡命，就是我所吩咐你的——你、你的兒子和你的孫子——在你一生的年日之中，並且好叫你的年日得以長久。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "450205fa0e8c99b45cfa23adcd99956390ed1c9d9dad9b29ece66b7fbd822170",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/6\/1-4.1792128641243.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "好叫你敬畏⟨את⟩雅威你的以羅欣（神），謹守⟨את⟩他的一切律例和誡命，就是我所吩咐你——你和你的兒子、你兒子的兒子——在你一生的全部日子；也好叫你的日子得以長久。",
   "tokens": [
     {
       "surface": "למען",
@@ -29,12 +13,12 @@
     },
     {
       "surface": "תירא",
-      "gloss": "你敬畏"
+      "gloss": "敬畏"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "雅威你的以羅欣"
+      "marks": "雅威"
     },
     {
       "surface": "יהוה",
@@ -51,7 +35,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他的一切律例和誡命"
+      "marks": "他的一切律例"
     },
     {
       "surface": "כל",
@@ -59,7 +43,7 @@
     },
     {
       "surface": "חקתיו",
-      "gloss": "他的律例"
+      "gloss": "律例"
     },
     {
       "surface": "ומצותיו",
@@ -75,7 +59,7 @@
     },
     {
       "surface": "מצוך",
-      "gloss": "吩咐你"
+      "gloss": "所吩咐你"
     },
     {
       "surface": "אתה",
@@ -87,19 +71,19 @@
     },
     {
       "surface": "ובן",
-      "gloss": "和……的兒子"
+      "gloss": "和兒子"
     },
     {
       "surface": "בנך",
-      "gloss": "你的孫子（你兒子的兒子）"
+      "gloss": "你的兒子"
     },
     {
       "surface": "כל",
-      "gloss": "……的全部"
+      "gloss": "全部"
     },
     {
       "surface": "ימי",
-      "gloss": "年日"
+      "gloss": "日子"
     },
     {
       "surface": "חייך",
@@ -107,7 +91,7 @@
     },
     {
       "surface": "ולמען",
-      "gloss": "並且好叫"
+      "gloss": "也好叫"
     },
     {
       "surface": "יארכן",
@@ -115,9 +99,9 @@
     },
     {
       "surface": "ימיך",
-      "gloss": "你的年日"
+      "gloss": "你的日子"
     }
   ],
-  "timestamp": "2026-10-16T05:30:41.244770616Z",
+  "timestamp": "2026-10-16T22:16:15.583395951Z",
   "model": "glm-5.3"
 }

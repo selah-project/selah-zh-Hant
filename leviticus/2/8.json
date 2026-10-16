@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "主語轉換",
-      "rationale": "והקריבה和והגישה的主語是祭司還是獻祭者，譯本有分歧；原文動詞形式可指祭司（參KJV、JPS）"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הקריב／הגיש",
-      "rationale": "兩個「帶近」動詞並用，與「供物」קרבן同根，中文難以顯出"
-    }
-  ],
-  "translation": "你要把用這些做的素祭帶到雅威那裡，祭司要拿它獻上，帶到祭壇前。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "16c89a26376a241ad035c7e866c2c3fbb5f05f783cbfb95f71b6da5858b11717",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/2\/5-8.1792126625816.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你要把這些東西所做的素祭帶到雅威面前，⟨את⟩ 素祭要奉獻給祭司，祭司要把它呈到祭壇前。",
   "tokens": [
     {
       "surface": "והבאת",
-      "gloss": "你要帶"
+      "gloss": "你要帶來"
     },
     {
       "surface": "את",
@@ -43,23 +22,23 @@
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "那"
     },
     {
       "surface": "יעשה",
-      "gloss": "做的"
+      "gloss": "所做的"
     },
     {
       "surface": "מאלה",
-      "gloss": "用這些"
+      "gloss": "從這些東西"
     },
     {
       "surface": "ליהוה",
-      "gloss": "到雅威那裡"
+      "gloss": "給雅威"
     },
     {
       "surface": "והקריבה",
-      "gloss": "拿它獻上"
+      "gloss": "要奉獻它"
     },
     {
       "surface": "אל",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "והגישה",
-      "gloss": "帶到……前"
+      "gloss": "要把它呈上"
     },
     {
       "surface": "אל",
@@ -82,6 +61,6 @@
       "gloss": "祭壇"
     }
   ],
-  "timestamp": "2026-10-16T04:57:05.817358082Z",
+  "timestamp": "2026-10-16T22:49:59.628747029Z",
   "model": "glm-5.3"
 }

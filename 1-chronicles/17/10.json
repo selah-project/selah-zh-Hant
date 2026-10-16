@@ -5,36 +5,15 @@
   "book": "1-chronicles",
   "lang": "zh-Hant",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "בית",
-      "rationale": "本章的樞紐雙關：大衛要為雅威建「殿」（בית），雅威反過來要為大衛建「家室／王朝」（בית），一詞兩面"
-    },
-    {
-      "kind": "you",
-      "subject": "對大衛",
-      "rationale": "拿單傳給大衛的神諭，全章直接向大衛說話"
-    }
-  ],
-  "translation": "自從我吩咐士師治理我民以色列的日子以來，我已使你的一切仇敵降卑；我告訴你：雅威必為你建立家室。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c38e68cae1293cc5cde40c214ebcc71b69d926a17a32f6dcbf8cf55fc953d0b3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/17\/9-12.1792148859025.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "自從我吩咐士師治理我民以色列的那些日子以來，我已使你一切的仇敵降卑。如今我告訴你：雅威必為你建立家室。",
   "tokens": [
     {
       "surface": "ולמימים",
-      "gloss": "自從…的日子以來"
+      "gloss": "自從……的那些日子以來"
     },
     {
       "surface": "אשר",
-      "gloss": "…的"
+      "gloss": "……的"
     },
     {
       "surface": "צויתי",
@@ -58,12 +37,12 @@
     },
     {
       "surface": "והכנעתי",
-      "gloss": "我已使…降卑"
+      "gloss": "我已使……降卑"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "你的一切仇敵"
+      "marks": "你一切的仇敵"
     },
     {
       "surface": "כל",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "ואגד",
-      "gloss": "我告訴"
+      "gloss": "如今我告訴"
     },
     {
       "surface": "לך",
@@ -98,6 +77,6 @@
       "gloss": "雅威"
     }
   ],
-  "timestamp": "2026-10-16T11:07:39.026209988Z",
+  "timestamp": "2026-10-16T21:56:28.523016704Z",
   "model": "glm-5.3"
 }

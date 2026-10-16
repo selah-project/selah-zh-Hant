@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "在營中安營的民",
-      "gloss": "直譯「那聽見的安營之民」，中文語序調整"
-    },
-    {
-      "kind": "substitution",
-      "subject": "背叛",
-      "rationale": "קשר 字面「結盟、綁結」，指密謀作反，譯「背叛」"
-    }
-  ],
-  "translation": "在營中安營的民聽見說：「心利背叛，又擊杀了⟨את⟩王。」以色列眾人就在當日、在營中，立以色列軍隊的元帥暗利作王治理以色列。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "02bdaab2e11b56cc7c8d4a928e26b0c8891045fb69772f50ca88f47af0532f62",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/16\/13-16.1792133139219.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "那安營的百姓聽見人說：「心利背叛了，又擊打了 ⟨את⟩ 王」；全以色列就在那日在營中立 ⟨את⟩ 軍長暗利作王，治理以色列。",
   "tokens": [
     {
       "surface": "וישמע",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "那民"
+      "gloss": "百姓"
     },
     {
       "surface": "החנים",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "קשר",
-      "gloss": "背叛"
+      "gloss": "背叛了"
     },
     {
       "surface": "זמרי",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "הכה",
-      "gloss": "擊殺了"
+      "gloss": "擊打了"
     },
     {
       "surface": "את",
@@ -71,11 +50,11 @@
     },
     {
       "surface": "וימלכו",
-      "gloss": "立…作王"
+      "gloss": "立……作王"
     },
     {
       "surface": "כל",
-      "gloss": "眾人"
+      "gloss": "全"
     },
     {
       "surface": "ישראל",
@@ -84,7 +63,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "暗利"
+      "marks": "軍長暗利"
     },
     {
       "surface": "עמרי",
@@ -92,11 +71,11 @@
     },
     {
       "surface": "שר",
-      "gloss": "元帥"
+      "gloss": "軍長"
     },
     {
       "surface": "צבא",
-      "gloss": "軍隊的"
+      "gloss": "軍隊"
     },
     {
       "surface": "על",
@@ -108,7 +87,7 @@
     },
     {
       "surface": "ביום",
-      "gloss": "在…日"
+      "gloss": "在……那日"
     },
     {
       "surface": "ההוא",
@@ -119,6 +98,6 @@
       "gloss": "在營中"
     }
   ],
-  "timestamp": "2026-10-16T06:45:39.220877558Z",
+  "timestamp": "2026-10-16T21:58:20.818421487Z",
   "model": "glm-5.3"
 }

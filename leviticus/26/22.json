@@ -5,36 +5,15 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "קרי／הכרית",
-      "rationale": "本段以 q-r-y 音串連：קרי（21節）與הכרית（剪除），敵對與剪除的聲響呼應"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ושכלה",
-      "gloss": "字面為『使流產、使喪子』；『使你們喪子』保留喪失兒女之義"
-    }
-  ],
-  "translation": "我要打發 ⟨את⟩ 田野的走獸攻擊你們，使你們喪子，剪除你們的牲畜，使你們人數減少，你們的道路就必荒涼。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b027e0697860b710cfa37db8341b51a67e67796a6967c9f08e1b22ec3bb25349",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/26\/21-24.1792127420990.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我必打發 ⟨את⟩ 田野的走獸到你們中間，牠必使你們喪子；牠必剪除 ⟨את⟩ 你們的牲畜，使你們人數減少，你們的道路就必荒涼。",
   "tokens": [
     {
       "surface": "והשלחתי",
-      "gloss": "我要打發"
+      "gloss": "我必打發"
     },
     {
       "surface": "בכם",
-      "gloss": "攻擊你們"
+      "gloss": "到你們中間"
     },
     {
       "surface": "את",
@@ -51,15 +30,16 @@
     },
     {
       "surface": "ושכלה",
-      "gloss": "使喪子"
+      "gloss": "牠必使你們喪子"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ 你們"
+      "gloss": "⟨אתכם⟩",
+      "marks": "你們（喪子的對象）"
     },
     {
       "surface": "והכריתה",
-      "gloss": "剪除"
+      "gloss": "牠必剪除"
     },
     {
       "surface": "את",
@@ -72,11 +52,12 @@
     },
     {
       "surface": "והמעיטה",
-      "gloss": "使減少"
+      "gloss": "使……減少"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ 你們"
+      "gloss": "⟨אתכם⟩",
+      "marks": "你們（人數減少的對象）"
     },
     {
       "surface": "ונשמו",
@@ -87,6 +68,6 @@
       "gloss": "你們的道路"
     }
   ],
-  "timestamp": "2026-10-16T05:10:20.991804335Z",
+  "timestamp": "2026-10-16T22:50:21.734164751Z",
   "model": "glm-5.3"
 }

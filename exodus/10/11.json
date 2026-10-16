@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כי אותה אתם מבקשים",
-      "rationale": "אתה 是受詞記號：直譯「因為正是它（這事）你們在尋求」；諸本或作「因為這是你們所求的」。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "כן",
-      "rationale": "法老在第10節說「願雅威כן（如此）與你們同在」，此處又說「לא כן（不可如此）」——כן 的重複在中文以「照樣／如此」保留。"
-    },
-    {
-      "kind": "you",
-      "subject": "法老對摩西和亞倫",
-      "rationale": "法老以命令句直接拒絕並驅逐。"
-    }
-  ],
-  "translation": "「不可如此；你們這些壯年人去，事奉雅威吧，因為這是你們〈所求〉的。」於是他們被趕出，離了法老的面。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ee90873ce6996c091a60876c31e586c08f6354397c8e0b15d32cfc5ed7a752ab",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/10\/9-12.1792125876861.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "法老說：『不必如此；現在你們這些壯年人去事奉雅威吧，因為你們所求的正是這個。』於是⟨他⟩把他們從法老面前趕了出去。",
   "tokens": [
     {
       "surface": "לא",
@@ -43,19 +17,19 @@
     },
     {
       "surface": "לכו",
-      "gloss": "你們去"
+      "gloss": "去"
     },
     {
       "surface": "נא",
-      "gloss": "吧"
+      "gloss": "現在"
     },
     {
       "surface": "הגברים",
-      "gloss": "這些壯年人"
+      "gloss": "壯年人"
     },
     {
       "surface": "ועבדו",
-      "gloss": "事奉"
+      "gloss": "並事奉"
     },
     {
       "surface": "את",
@@ -73,7 +47,7 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "你們"
+      "marks": "這個（你們所求的）"
     },
     {
       "surface": "אתם",
@@ -85,7 +59,7 @@
     },
     {
       "surface": "ויגרש",
-      "gloss": "於是他趕出"
+      "gloss": "於是趕出"
     },
     {
       "surface": "אתם",
@@ -94,18 +68,17 @@
     },
     {
       "surface": "מאת",
-      "gloss": "離了⟨את⟩",
-      "marks": "法老的面"
+      "gloss": "⟨את⟩ 從…面前"
     },
     {
       "surface": "פני",
-      "gloss": "的面"
+      "gloss": "面前"
     },
     {
       "surface": "פרעה",
       "gloss": "法老"
     }
   ],
-  "timestamp": "2026-10-16T04:44:36.863132481Z",
+  "timestamp": "2026-10-16T22:17:25.807994110Z",
   "model": "glm-5.3"
 }

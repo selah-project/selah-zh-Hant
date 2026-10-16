@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "同寢",
-      "rationale": "וישכב עמה 直譯「與她同臥」，為委婉語，中文以「同寢」承之"
-    },
-    {
-      "kind": "crux",
-      "subject": "מתקדשת",
-      "rationale": "動詞形為進行式「正在潔淨自己」（如 YLT）或完成式「已得潔淨」（如 KJV）；時態影響敘事時序的理解"
-    }
-  ],
-  "translation": "大衛差遣使者去，把她接來；她來到他那裡，他就與她同寢。（那時她正從自己的不潔中得潔淨。）她就回到自己的家去了。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "87b97f4831e00aaaad12d0be3e3eef3296d096f207bc0e9cbd34062174437279",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/11\/1-4.1792131983722.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "大衛差遣使者，把⟨她⟩接了來；她就來到他那裡，他與她同寢——那時她正從自己的不潔中行潔淨之禮——然後她回到自己的家去了。",
   "tokens": [
     {
       "surface": "וישלח",
@@ -42,15 +21,11 @@
     },
     {
       "surface": "ויקחה",
-      "gloss": "把她接來"
-    },
-    {
-      "surface": "ויתבוא",
-      "gloss": ""
+      "gloss": "把⟨她⟩接了來"
     },
     {
       "surface": "ותבוא",
-      "gloss": "她來到"
+      "gloss": "她就來到"
     },
     {
       "surface": "אליו",
@@ -66,11 +41,11 @@
     },
     {
       "surface": "והיא",
-      "gloss": "而她"
+      "gloss": "那時她"
     },
     {
       "surface": "מתקדשת",
-      "gloss": "得潔淨"
+      "gloss": "正行潔淨之禮"
     },
     {
       "surface": "מטמאתה",
@@ -78,17 +53,17 @@
     },
     {
       "surface": "ותשב",
-      "gloss": "回到"
+      "gloss": "然後她回到"
     },
     {
       "surface": "אל",
-      "gloss": "向"
+      "gloss": "回到"
     },
     {
       "surface": "ביתה",
       "gloss": "自己的家"
     }
   ],
-  "timestamp": "2026-10-16T06:26:23.724540174Z",
+  "timestamp": "2026-10-16T22:09:07.116150776Z",
   "model": "glm-5.3"
 }

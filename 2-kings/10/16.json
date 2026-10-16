@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "耶戶對約拿達",
-      "rationale": "「你與我同來，看看」——命令式的邀請，要約拿達親眼見證"
-    },
-    {
-      "kind": "substitution",
-      "subject": "熱心",
-      "rationale": "קנאה 兼有「嫉妒／熱忱」二義；此處是為雅威而發的烈怒式熱心"
-    }
-  ],
-  "translation": "他說：「你與我 ⟨את⟩ 同來，看看我為雅威所發的熱心。」他們就使他坐上他的戰車。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "cb0993fa46ab74349bd70a6958a8e262ac5f7b40d4123f3fa7db8bf9af49e82a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/10\/13-16.1792133806310.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他說：「你與 ⟨את⟩ 我同來，看我為雅威所發的熱心。」他們就使他坐上 ⟨את⟩ 他的戰車。",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ 與我同"
+      "gloss": "⟨את⟩與我"
     },
     {
       "surface": "וראה",
-      "gloss": "看看"
+      "gloss": "並看"
     },
     {
       "surface": "בקנאתי",
@@ -54,18 +33,18 @@
     },
     {
       "surface": "וירכבו",
-      "gloss": "他們使他坐上"
+      "gloss": "他們使他騎坐"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "他（約拿達）"
+      "gloss": "⟨את⟩",
+      "marks": "他的戰車（他）"
     },
     {
       "surface": "ברכבו",
-      "gloss": "他的戰車"
+      "gloss": "在他的戰車中"
     }
   ],
-  "timestamp": "2026-10-16T06:56:46.312491022Z",
+  "timestamp": "2026-10-16T22:05:03.456013505Z",
   "model": "glm-5.3"
 }

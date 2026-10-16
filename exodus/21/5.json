@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אמר יאמר",
-      "rationale": "動詞重複表「實在說、明說」，中文以「實在」補足強調語氣"
-    },
-    {
-      "kind": "addition",
-      "subject": "我愛",
-      "rationale": "אהבתי 一次，中文重複「我愛」以統攝三個賓語"
-    }
-  ],
-  "translation": "倘若僕人實在說：「我愛我主，我愛我的妻子和我的兒女，我不願自由出去。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "4fb8d9a4ae9dd3e86665aa1bf4f2a60d7ed35013124515229867744d8ecf9064",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/21\/5-8.1792126171376.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "倘若那僕人實在地說：「我愛 ⟨את⟩ 我的主人、⟨את⟩ 我的妻子和 ⟨את⟩ 我的兒女，我不願自由地出去。」",
   "tokens": [
     {
       "surface": "ואם",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "יאמר",
-      "gloss": "實在說"
+      "gloss": "實在地說"
     },
     {
       "surface": "העבד",
-      "gloss": "僕人"
+      "gloss": "那僕人"
     },
     {
       "surface": "אהבתי",
@@ -51,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我主"
+      "marks": "我的主人"
     },
     {
       "surface": "אדני",
-      "gloss": "我主"
+      "gloss": "我的主人"
     },
     {
       "surface": "את",
@@ -68,7 +47,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "我的兒女"
     },
     {
@@ -85,9 +64,9 @@
     },
     {
       "surface": "חפשי",
-      "gloss": "自由"
+      "gloss": "自由地"
     }
   ],
-  "timestamp": "2026-10-16T04:49:31.377124886Z",
+  "timestamp": "2026-10-16T22:18:33.809313736Z",
   "model": "glm-5.3"
 }

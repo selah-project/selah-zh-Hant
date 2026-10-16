@@ -5,33 +5,7 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "העדות",
-      "rationale": "「見證」指法櫃前的見證之處；中文以「法櫃（見證）」保留雙義"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מרי",
-      "rationale": "מרי 既指「苦」也指「悖逆」；「悖逆之子」存其人位義，苦味之雙關略失"
-    },
-    {
-      "kind": "elision",
-      "subject": "לאות",
-      "rationale": "記號是「反對」悖逆之子的；中文補「給」以存方向"
-    }
-  ],
-  "translation": "雅威對摩西說：「把亞倫的杖放回法櫃前，為作看守，給悖逆之子作記號，好使他們的怨言止息，不再向我發出，免得他們死亡。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "2d5bb0ba9fc8c4ced1e3fa32144de1c8163f6a6c3d835767d69c3ddf4dd724ed",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/17\/25-28.1792127943344.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威對摩西說：「把 ⟨את⟩ 亞倫的杖放回法櫃前，作為看守，給悖逆之人的記號，好使他們的怨言止息，不再向我發怨言，免得他們死亡。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -64,11 +38,11 @@
     },
     {
       "surface": "אהרן",
-      "gloss": "亞倫"
+      "gloss": "亞倫的"
     },
     {
       "surface": "לפני",
-      "gloss": "在……面前"
+      "gloss": "在……之前"
     },
     {
       "surface": "העדות",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "למשמרת",
-      "gloss": "為作看守"
+      "gloss": "作為看守"
     },
     {
       "surface": "לאות",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "ותכל",
-      "gloss": "止息"
+      "gloss": "好使止息"
     },
     {
       "surface": "תלונתם",
@@ -100,7 +74,7 @@
     },
     {
       "surface": "מעלי",
-      "gloss": "從我之上"
+      "gloss": "向我（之上）"
     },
     {
       "surface": "ולא",
@@ -111,6 +85,6 @@
       "gloss": "他們死亡"
     }
   ],
-  "timestamp": "2026-10-16T05:19:03.345248919Z",
+  "timestamp": "2026-10-16T22:54:10.444017102Z",
   "model": "glm-5.3"
 }

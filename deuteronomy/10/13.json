@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "to",
-      "rationale": "本節延續10:12對以色列的直接呼籲，列舉雅威的要求"
-    },
-    {
-      "kind": "addition",
-      "subject": "叫",
-      "rationale": "「為要叫你得福」中文需加連接詞表目的"
-    }
-  ],
-  "translation": "謹守雅威的誡命和⟨את⟩他的律例，就是我今日吩咐你的，為要叫你得福。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "32f896c69cffcd09c14dbd825904cfcf2c6fbe5963b6e54df807c7bb4e7242c1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/10\/13-16.1792128672360.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "為要謹守雅威的誡命和⟨את⟩他的律例，就是我今日吩咐你⟨את⟩你的，為要叫你得福。",
   "tokens": [
     {
       "surface": "לשמר",
-      "gloss": "謹守"
+      "gloss": "為要謹守"
     },
     {
       "surface": "את",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "他的律例"
     },
     {
@@ -72,13 +51,13 @@
     },
     {
       "surface": "לטוב",
-      "gloss": "為要得福"
+      "gloss": "為要叫你得福"
     },
     {
       "surface": "לך",
-      "gloss": "你"
+      "gloss": "為你"
     }
   ],
-  "timestamp": "2026-10-16T05:31:12.361663103Z",
+  "timestamp": "2026-10-16T22:12:27.794675136Z",
   "model": "glm-5.3"
 }

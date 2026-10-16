@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "zh-Hant",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לפי חרב",
-      "rationale": "直譯「刀的口」，中文作「刀口」保留意象"
-    },
-    {
-      "kind": "substitution",
-      "subject": "נפש",
-      "rationale": "נפש 是會呼吸的活物，譯「活的性命」而非「靈魂」"
-    }
-  ],
-  "translation": "他攻取了它、⟨את⟩它的王和⟨את⟩它一切的城，用刀口擊打它們，把其中所有活的性命都完全滅絕，沒有留下一個倖存者；正如他向希伯崙所行的，他也這樣向底璧和它的王行，又正如他向立拿和它的王所行的。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "6bb539f0ac75b7c10ed5cb62aef239b0c024aa8b09a9dd20b08f7fafacd18206",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/10\/37-40.1792129717310.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他攻取了它和⟨את⟩它的王，並⟨את⟩它的一切城邑；他們用刀口擊殺他們，把其中所有的人口（נפש）全都滅絕淨盡——他沒有留下一個倖存者。他怎樣待希伯崙，也照樣待底璧和它的王；又怎樣待立拿和它的王。",
   "tokens": [
     {
       "surface": "וילכדה",
-      "gloss": "他攻取了它"
+      "gloss": "攻取了它"
     },
     {
       "surface": "ואת",
@@ -44,7 +23,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "它一切的城"
+      "marks": "它的一切城邑"
     },
     {
       "surface": "כל",
@@ -52,11 +31,11 @@
     },
     {
       "surface": "עריה",
-      "gloss": "它的城"
+      "gloss": "城邑"
     },
     {
       "surface": "ויכום",
-      "gloss": "他們擊打它們"
+      "gloss": "擊殺他們"
     },
     {
       "surface": "לפי",
@@ -68,12 +47,12 @@
     },
     {
       "surface": "ויחרימו",
-      "gloss": "他們完全滅絕"
+      "gloss": "滅絕淨盡"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "所有活的性命"
+      "marks": "所有的人口（נפש）"
     },
     {
       "surface": "כל",
@@ -81,7 +60,7 @@
     },
     {
       "surface": "נפש",
-      "gloss": "活的性命"
+      "gloss": "人口（נפש）"
     },
     {
       "surface": "אשר",
@@ -105,27 +84,27 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "正如"
+      "gloss": "怎樣"
     },
     {
       "surface": "עשה",
-      "gloss": "他所行的"
+      "gloss": "行了"
     },
     {
       "surface": "לחברון",
-      "gloss": "向希伯崙"
+      "gloss": "待希伯崙"
     },
     {
       "surface": "כן",
-      "gloss": "這樣"
+      "gloss": "照樣"
     },
     {
       "surface": "עשה",
-      "gloss": "他行了"
+      "gloss": "行了"
     },
     {
       "surface": "לדברה",
-      "gloss": "向底璧"
+      "gloss": "待底璧"
     },
     {
       "surface": "ולמלכה",
@@ -133,21 +112,21 @@
     },
     {
       "surface": "וכאשר",
-      "gloss": "又正如"
+      "gloss": "又怎樣"
     },
     {
       "surface": "עשה",
-      "gloss": "他所行的"
+      "gloss": "行了"
     },
     {
       "surface": "ללבנה",
-      "gloss": "向立拿"
+      "gloss": "待立拿"
     },
     {
       "surface": "ולמלכה",
       "gloss": "和它的王"
     }
   ],
-  "timestamp": "2026-10-16T05:48:37.311558424Z",
+  "timestamp": "2026-10-16T22:43:10.163222865Z",
   "model": "glm-5.3"
 }

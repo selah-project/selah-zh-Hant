@@ -5,37 +5,16 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ונחם",
-      "rationale": "「得了安慰」是希伯來慣用語：法老見別人同樣下坑，心裡得了苦澀的寬慰，非真正的安慰"
-    },
-    {
-      "kind": "elision",
-      "subject": "אותם",
-      "rationale": "此處אותם實為代名詞「他們」（指29–30節的列國），非單純受詞記號，中文以⟨אותם⟩標示"
-    }
-  ],
-  "translation": "法老要看見⟨אותם⟩，並因自己全軍的群眾——被刀劍刺死的——得了安慰；法老和他的一切軍兵，這是阿多奈雅威的宣告。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "8d20e7485cce3f378d490e4a7c9c84ed329371057383174cf1277606efdef7d6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/32\/29-32.1792138918621.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "法老必看見 ⟨את⟩ 他們，並因他一切被刀劍刺殺的群眾得了安慰——法老和他的全軍，這是阿多奈雅威說的。",
   "tokens": [
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "法老所看見的列國眾人"
+      "gloss": "⟨את⟩",
+      "marks": "他們（他們這些人）"
     },
     {
       "surface": "יראה",
-      "gloss": "要看見"
+      "gloss": "看見"
     },
     {
       "surface": "פרעה",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "ונחם",
-      "gloss": "得了安慰"
+      "gloss": "並得了安慰"
     },
     {
       "surface": "על",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "全"
+      "gloss": "一切"
     },
     {
       "surface": "המונה",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "חללי",
-      "gloss": "被刺死的"
+      "gloss": "被刺殺的"
     },
     {
       "surface": "חרב",
@@ -71,15 +50,15 @@
     },
     {
       "surface": "וכל",
-      "gloss": "和他的一切"
+      "gloss": "和他的全"
     },
     {
       "surface": "חילו",
-      "gloss": "軍兵"
+      "gloss": "軍"
     },
     {
       "surface": "נאם",
-      "gloss": "宣告"
+      "gloss": "說"
     },
     {
       "surface": "אדני",
@@ -90,6 +69,6 @@
       "gloss": "雅威"
     }
   ],
-  "timestamp": "2026-10-16T08:21:58.622973035Z",
+  "timestamp": "2026-10-16T22:24:18.488195619Z",
   "model": "glm-5.3"
 }

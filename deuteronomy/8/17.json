@@ -5,41 +5,15 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "恐怕",
-      "rationale": "承接上文的否定語氣，原文以連接詞開頭，中文需補出警告語氣"
-    },
-    {
-      "kind": "crux",
-      "subject": "חיל",
-      "rationale": "可作「財富、力量、軍隊」；諸譯本多取「財富」，與8:18呼應"
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "摩西對以色列的警告性直接陳述"
-    }
-  ],
-  "translation": "恐怕你心裡說：『我的力量、我手的能力，為我造成了這財富。』",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b48ff8d6402ada310d27768ea942a00c289fb5bf0feef81d39a7987c6200ac34",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/8\/17-20.1792128714966.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "恐怕你心裡說：「我的力量、我手的能力，為我造了 ⟨את⟩ 這財富。」",
   "tokens": [
     {
       "surface": "ואמרת",
-      "gloss": "恐怕你心裡說"
+      "gloss": "恐怕你……說"
     },
     {
       "surface": "בלבבך",
-      "gloss": "在心裡"
+      "gloss": "在你心裡"
     },
     {
       "surface": "כחי",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "ידי",
-      "gloss": "我手的"
+      "gloss": "我手"
     },
     {
       "surface": "עשה",
-      "gloss": "造成了"
+      "gloss": "造了"
     },
     {
       "surface": "לי",
@@ -75,6 +49,6 @@
       "gloss": "這"
     }
   ],
-  "timestamp": "2026-10-16T05:31:54.967393407Z",
+  "timestamp": "2026-10-16T22:16:12.168574126Z",
   "model": "glm-5.3"
 }

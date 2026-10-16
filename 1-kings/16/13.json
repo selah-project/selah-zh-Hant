@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "虛無之物",
-      "rationale": "הבלים 直譯「氣息、虛空」，指偶像如 vapours 般虛無"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חטאו／החטיאו",
-      "rationale": "「犯罪」與「使人犯罪」同根疊用，中文以「所犯的／使…所犯的」保留重複"
-    }
-  ],
-  "translation": "因著巴沙一切的罪，和他兒子以拉一切的罪，就是他們所犯的，並他們使以色列所犯的，惹動雅威、以色列的以羅欣的怒氣，用他們的虛無之物。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "02bdaab2e11b56cc7c8d4a928e26b0c8891045fb69772f50ca88f47af0532f62",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/16\/13-16.1792133139219.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "因著巴沙的一切罪，和他兒子以拉的一切罪，就是他們所犯的，又使 ⟨את⟩ 以色列所犯的，以他們的虛無之事惹動 ⟨את⟩ 雅威、以色列的以羅欣〈發怒〉。",
   "tokens": [
     {
       "surface": "אל",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "一切的"
+      "gloss": "一切"
     },
     {
       "surface": "חטאות",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "וחטאות",
-      "gloss": "的罪"
+      "gloss": "和……的罪"
     },
     {
       "surface": "אלה",
@@ -58,19 +37,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "所……的"
     },
     {
       "surface": "חטאו",
-      "gloss": "他們所犯的"
+      "gloss": "他們犯了"
     },
     {
       "surface": "ואשר",
-      "gloss": "並"
+      "gloss": "又……所"
     },
     {
       "surface": "החטיאו",
-      "gloss": "他們使…所犯的"
+      "gloss": "使……犯罪"
     },
     {
       "surface": "את",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "להכעיס",
-      "gloss": "惹動…的怒氣"
+      "gloss": "惹動……發怒"
     },
     {
       "surface": "את",
@@ -96,7 +75,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "…的以羅欣"
+      "gloss": "……的以羅欣"
     },
     {
       "surface": "ישראל",
@@ -104,9 +83,9 @@
     },
     {
       "surface": "בהבליהם",
-      "gloss": "用他們的虛無之物"
+      "gloss": "以他們的虛無之事"
     }
   ],
-  "timestamp": "2026-10-16T06:45:39.220286234Z",
+  "timestamp": "2026-10-16T21:58:23.258884643Z",
   "model": "glm-5.3"
 }

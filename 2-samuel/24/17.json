@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "zh-Hant",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חטאתי／העויתי",
-      "rationale": "兩個同義動詞並列加強認罪（犯了罪／行了悖逆），אנכי 重複兩次強調「是我」。"
-    },
-    {
-      "kind": "alternative",
-      "subject": "these sheep",
-      "rationale": "הצאן 字面是「羊群」，大衛以牧人自任、百姓為羊；和合本作「這群羊」。"
-    },
-    {
-      "kind": "you",
-      "subject": "to 雅威",
-      "rationale": "大衛直接向雅威發言認罪代求。"
-    }
-  ],
-  "translation": "大衛看見那擊打百姓的天使，就對雅威說話；他說：「看哪，是我犯了罪，是我行了悖逆；這些羊群做了甚麼呢？願你的手攻擊我和我父的家。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a3f0c1af9ca0afbb80ac8ad67ff3a6e686b7856f06508d65765c859b3d24744c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-samuel\/24\/17-20.1792132422736.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "大衛看見那擊打百姓的使者，就對雅威說：「看哪，是我犯了罪，是我行了悖謬；這些羊群做了什麼呢？願你的手攻擊我和我父的家。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -56,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那天使"
+      "marks": "那使者"
     },
     {
       "surface": "המלאך",
-      "gloss": "天使"
+      "gloss": "那使者"
     },
     {
       "surface": "המכה",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "他就說"
+      "gloss": "說"
     },
     {
       "surface": "הנה",
@@ -80,19 +54,19 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "我"
+      "gloss": "是我"
     },
     {
       "surface": "חטאתי",
       "gloss": "犯了罪"
     },
     {
-      "surface": "ו אנכי",
-      "gloss": "而我"
+      "surface": "ואנכי",
+      "gloss": "是我"
     },
     {
       "surface": "העויתי",
-      "gloss": "行了悖逆"
+      "gloss": "行了悖謬"
     },
     {
       "surface": "ואלה",
@@ -104,7 +78,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "甚麼"
+      "gloss": "什麼"
     },
     {
       "surface": "עשו",
@@ -112,7 +86,7 @@
     },
     {
       "surface": "תהי",
-      "gloss": "願…臨到"
+      "gloss": "願……臨到"
     },
     {
       "surface": "נא",
@@ -128,13 +102,13 @@
     },
     {
       "surface": "ובבית",
-      "gloss": "和…的家"
+      "gloss": "和……的家"
     },
     {
       "surface": "אבי",
       "gloss": "我父"
     }
   ],
-  "timestamp": "2026-10-16T06:33:42.737684348Z",
+  "timestamp": "2026-10-16T22:10:55.205209546Z",
   "model": "glm-5.3"
 }

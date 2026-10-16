@@ -5,33 +5,7 @@
   "book": "joshua",
   "lang": "zh-Hant",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "עברת\/העביר",
-      "rationale": "同一詞根連用兩次（你使過、使過），加強語氣；中文以「竟使」補足強調"
-    },
-    {
-      "kind": "you",
-      "subject": "向雅威",
-      "rationale": "約書亞直接向雅威哀告"
-    },
-    {
-      "kind": "crux",
-      "subject": "ולו הואלנו",
-      "rationale": "「但願我們情願」——虛擬語氣歎願，或譯「巴不得我們滿足於住在約旦河那邊」"
-    }
-  ],
-  "translation": "約書亞說：「唉，阿多奈雅威啊，你為何竟使這民過 ⟨את⟩ 約旦河，把我們交在亞摩利人手中，要毀滅我們呢？但願我們情願住在約旦河那邊！」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "ee52f76982f4ca14decf923c60b7470c33893d994e7b8535316f103fc6ded022",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/joshua\/7\/5-8.1792129656806.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "約書亞說：「哀哉！阿多奈雅威啊，你為何⟨竟⟩使這百姓過⟨את⟩約旦河，把我們交在亞摩利人手中，要毀滅我們呢？惟願我們曾甘心安居在約旦河那邊！」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "אהה",
-      "gloss": "唉"
+      "gloss": "哀哉"
     },
     {
       "surface": "אדני",
@@ -63,16 +37,16 @@
     },
     {
       "surface": "העביר",
-      "gloss": "（竟）使……過"
+      "gloss": "⟨竟⟩過"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "這民"
+      "marks": "這百姓"
     },
     {
       "surface": "העם",
-      "gloss": "民"
+      "gloss": "百姓"
     },
     {
       "surface": "הזה",
@@ -89,12 +63,12 @@
     },
     {
       "surface": "לתת",
-      "gloss": "為要交"
+      "gloss": "要交"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩",
-      "marks": "我們"
+      "gloss": "⟨את⟩我們",
+      "marks": "交在亞摩利人手中"
     },
     {
       "surface": "ביד",
@@ -106,19 +80,19 @@
     },
     {
       "surface": "להאבידנו",
-      "gloss": "毀滅我們"
+      "gloss": "要毀滅我們"
     },
     {
       "surface": "ולו",
-      "gloss": "但願"
+      "gloss": "惟願"
     },
     {
       "surface": "הואלנו",
-      "gloss": "我們情願"
+      "gloss": "我們曾甘心"
     },
     {
       "surface": "ונשב",
-      "gloss": "住在"
+      "gloss": "並安居"
     },
     {
       "surface": "בעבר",
@@ -129,6 +103,6 @@
       "gloss": "約旦河"
     }
   ],
-  "timestamp": "2026-10-16T05:47:36.808094616Z",
+  "timestamp": "2026-10-16T22:44:58.098582382Z",
   "model": "glm-5.3"
 }

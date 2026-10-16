@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אחיו",
-      "rationale": "希伯來文作『他的兄弟』，指姪兒羅得"
-    },
-    {
-      "kind": "addition",
-      "subject": "其餘的",
-      "rationale": "העם 僅作『那百姓』，中文加『其餘的』以別於前述婦女"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "השיב\/רכוש",
-      "rationale": "『奪回』（שוב）與『財物』（רכוש）重複出現，形成本節的頭尾呼應結構"
-    }
-  ],
-  "translation": "他奪回了 ⟨את⟩ 全部的財物，也奪回了 ⟨את⟩ 他〈的〉姪兒羅得和他的財物，又奪回了 ⟨את⟩ 婦女們和 ⟨את⟩ 其餘的百姓。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "425d7bee350c0c8414460ae4a0eac6f92d69d45f16eab6fbf948206d520bfc13",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/14\/13-16.1792124767524.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他奪回了 ⟨את⟩ 一切的財物，也帶回 ⟨את⟩ 他的兄弟羅得和羅得的財物，又帶回 ⟨את⟩ 眾女子和 ⟨את⟩ 那民。",
   "tokens": [
     {
       "surface": "וישב",
@@ -40,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "全部的財物"
+      "marks": "一切的財物"
     },
     {
       "surface": "כל",
-      "gloss": "全部的"
+      "gloss": "一切"
     },
     {
       "surface": "הרכש",
@@ -73,7 +47,7 @@
     },
     {
       "surface": "השיב",
-      "gloss": "奪回了"
+      "gloss": "帶回"
     },
     {
       "surface": "וגם",
@@ -82,22 +56,22 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "婦女們"
+      "marks": "眾女子"
     },
     {
       "surface": "הנשים",
-      "gloss": "婦女們"
+      "gloss": "眾女子"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "其餘的百姓"
+      "marks": "那民"
     },
     {
       "surface": "העם",
-      "gloss": "百姓"
+      "gloss": "那民"
     }
   ],
-  "timestamp": "2026-10-16T04:26:07.525547800Z",
+  "timestamp": "2026-10-16T22:27:10.532548363Z",
   "model": "glm-5.3"
 }

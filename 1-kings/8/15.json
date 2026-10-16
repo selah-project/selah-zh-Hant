@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "את",
-      "rationale": "此處 את（H854「與、向」）非受詞記號而是介詞，譯作「向」，不帶記號括號"
-    },
-    {
-      "kind": "substitution",
-      "subject": "מלא",
-      "rationale": "字面「充滿／成就」，譯「成全」以合中文語感"
-    }
-  ],
-  "translation": "他說：「雅威──以色列的以羅欣，是應當稱頌的。他親口向大衛我父說話，親手成全了，說：",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "10ba86f01d7f4300c2161cb60d124891de103b54c4b9961008b499c1f1e86033",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/8\/13-16.1792132860425.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他說：「雅威──以色列的以羅欣──是應當稱頌的，他親口向⟨את⟩我父大衛說話，也親手成就了，說：",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "以色列的以羅欣"
+      "gloss": "的以羅欣"
     },
     {
       "surface": "ישראל",
@@ -62,7 +41,8 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ 向"
+      "gloss": "⟨את⟩",
+      "marks": "我父大衛"
     },
     {
       "surface": "דוד",
@@ -74,17 +54,17 @@
     },
     {
       "surface": "ובידו",
-      "gloss": "親手"
+      "gloss": "也親手"
     },
     {
       "surface": "מלא",
-      "gloss": "成全了"
+      "gloss": "成就了"
     },
     {
       "surface": "לאמר",
       "gloss": "說"
     }
   ],
-  "timestamp": "2026-10-16T06:41:00.426860276Z",
+  "timestamp": "2026-10-16T21:59:43.812169488Z",
   "model": "glm-5.3"
 }

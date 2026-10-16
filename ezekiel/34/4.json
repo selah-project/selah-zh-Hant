@@ -5,76 +5,58 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "五重否定排比",
-      "rationale": "五個「沒有＋動詞」排比（扶助、醫治、包紮、領回、尋找）對比末尾的轄制，結構即控訴"
-    },
-    {
-      "kind": "elision",
-      "subject": "ובפרך",
-      "rationale": "וְבָרֶךְ 懸置句末、無動詞，「用嚴苛」懸垂收尾，中文保留此懸置"
-    }
-  ],
-  "translation": "瘦弱的，你們沒有扶助；有病的，你們沒有醫治；受傷的，你們沒有包紮；被趕散的，你們沒有領回；失喪的，你們沒有尋找；你們反用強暴轄制 ⟨אתם⟩ 他們，用嚴苛。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "bf690e89f003df85ce4769192af2962884b9bcb35a26ec5151f19959a53b1c63",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/34\/1-4.1792138894706.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "衰弱的，你們沒有扶持；患病的，你們沒有醫治；折斷的，你們沒有包紮；被趕散的，你們沒有領回；迷失的，你們沒有尋找——你們反倒用強暴轄制⟨את⟩他們，用嚴苛⟨轄制⟩。",
   "tokens": [
     {
       "surface": "את",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "衰弱的"
     },
     {
       "surface": "הנחלות",
-      "gloss": "瘦弱的"
+      "gloss": "衰弱的"
     },
     {
       "surface": "לא",
-      "gloss": "不"
+      "gloss": "沒有"
     },
     {
       "surface": "חזקתם",
-      "gloss": "你們扶助"
+      "gloss": "扶持"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "患病的"
     },
     {
       "surface": "החולה",
-      "gloss": "有病的"
+      "gloss": "患病的"
     },
     {
       "surface": "לא",
-      "gloss": "不"
+      "gloss": "沒有"
     },
     {
       "surface": "רפאתם",
-      "gloss": "你們醫治"
+      "gloss": "醫治"
     },
     {
       "surface": "ולנשברת",
-      "gloss": "受傷的"
+      "gloss": "折斷的"
     },
     {
       "surface": "לא",
-      "gloss": "不"
+      "gloss": "沒有"
     },
     {
       "surface": "חבשתם",
-      "gloss": "你們包紮"
+      "gloss": "包紮"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "被趕散的"
     },
     {
       "surface": "הנדחת",
@@ -82,27 +64,28 @@
     },
     {
       "surface": "לא",
-      "gloss": "不"
+      "gloss": "沒有"
     },
     {
       "surface": "השבתם",
-      "gloss": "你們領回"
+      "gloss": "領回"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "迷失的"
     },
     {
       "surface": "האבדת",
-      "gloss": "失喪的"
+      "gloss": "迷失的"
     },
     {
       "surface": "לא",
-      "gloss": "不"
+      "gloss": "沒有"
     },
     {
       "surface": "בקשתם",
-      "gloss": "你們尋找"
+      "gloss": "尋找"
     },
     {
       "surface": "ובחזקה",
@@ -110,17 +93,18 @@
     },
     {
       "surface": "רדיתם",
-      "gloss": "你們轄制"
+      "gloss": "轄制"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩"
+      "gloss": "⟨את⟩",
+      "marks": "他們"
     },
     {
       "surface": "ובפרך",
       "gloss": "用嚴苛"
     }
   ],
-  "timestamp": "2026-10-16T08:21:34.707985624Z",
+  "timestamp": "2026-10-16T22:24:36.640244748Z",
   "model": "glm-5.3"
 }

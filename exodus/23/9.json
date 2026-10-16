@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "生命",
-      "rationale": "נפש 是呼吸的生命，英譯常作 soul 或 heart，中譯取「生命」"
-    },
-    {
-      "kind": "you",
-      "subject": "以色列",
-      "rationale": "本節直接向以色列眾人說話（「你們」）"
-    }
-  ],
-  "translation": "不可欺壓寄居的；因為你們知道寄居者的生命，你們曾在埃及地作寄居的。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "6dec472d277ca4b284cf7c1e10c3b415e3e19755dfdfe02f053ff89bf7763595",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/23\/9-12.1792126131803.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "不可欺壓寄居的人，因為你們知道寄居者的性命（נפש 的實感），你們曾在埃及地作寄居的。",
   "tokens": [
     {
       "surface": "וגר",
-      "gloss": "寄居的"
+      "gloss": "寄居的人"
     },
     {
       "surface": "לא",
@@ -51,15 +30,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "寄居者的生命"
+      "marks": "寄居者的性命"
     },
     {
       "surface": "נפש",
-      "gloss": "生命"
+      "gloss": "性命"
     },
     {
       "surface": "הגר",
-      "gloss": "寄居者的"
+      "gloss": "寄居者"
     },
     {
       "surface": "כי",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "הייתם",
-      "gloss": "你們曾"
+      "gloss": "你們曾是"
     },
     {
       "surface": "בארץ",
@@ -82,6 +61,6 @@
       "gloss": "埃及"
     }
   ],
-  "timestamp": "2026-10-16T04:48:51.804299398Z",
+  "timestamp": "2026-10-16T22:18:48.551349666Z",
   "model": "glm-5.3"
 }

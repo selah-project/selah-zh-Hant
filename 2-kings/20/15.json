@@ -5,24 +5,15 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 20,
-  "translation": "他說：「他們在你家中看見了甚麼？」希西家說：「凡我家中所有的，他們都看見了；我的寶庫中沒有一樣東西我沒有給他們看的。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "f6e64e2d65824a065ae85d3d29728f5935025c8c82149b1a313268e8f56d2416",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/20\/13-16.1792134252179.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他說：「他們在你家中看見了什麼？」希西家說：「他們看見了 ⟨את⟩ 我家中的一切；在我的寶庫中，沒有一樣東西是我沒有給他們看的。」",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "說"
+      "gloss": "他說"
     },
     {
       "surface": "מה",
-      "gloss": "甚麼"
+      "gloss": "什麼"
     },
     {
       "surface": "ראו",
@@ -43,15 +34,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "凡我家中所有的"
+      "marks": "我家中的一切"
     },
     {
       "surface": "כל",
-      "gloss": "凡…所有的"
+      "gloss": "一切"
     },
     {
       "surface": "אשר",
-      "gloss": "…的"
+      "gloss": "所…的"
     },
     {
       "surface": "בביתי",
@@ -59,7 +50,7 @@
     },
     {
       "surface": "ראו",
-      "gloss": "都看見了"
+      "gloss": "看見了"
     },
     {
       "surface": "לא",
@@ -90,6 +81,6 @@
       "gloss": "在我的寶庫中"
     }
   ],
-  "timestamp": "2026-10-16T07:04:12.180730668Z",
+  "timestamp": "2026-10-16T22:06:52.351729091Z",
   "model": "glm-5.3"
 }

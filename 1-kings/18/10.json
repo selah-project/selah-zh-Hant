@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "חי יהוה…אם",
-      "rationale": "希伯來起誓公式「永活的雅威……若」，中文以「我指著……起誓」達意"
-    },
-    {
-      "kind": "substitution",
-      "subject": "אדני",
-      "rationale": "指人（亞哈王），譯「我主」而非「阿多奈」"
-    }
-  ],
-  "translation": "我指著永活的雅威——你的以羅欣——起誓：沒有一邦一國，是我主沒有差人去那裡尋找你的；他們說：『不在』；他就叫那國那邦起誓，說實在找不到你。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "4b0c4c5dc21bfd004cf0ce2f3e00097a96ceade25a02410306408cde8f6a2423",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/18\/9-12.1792133196111.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威你的以羅欣活著，若有一國或一邦，我主未曾差人往那裡尋找你；他們說：「不在」，他就叫 ⟨את⟩ 那國和 ⟨את⟩ 那邦起誓，因為實在找不著你。",
   "tokens": [
     {
       "surface": "חי",
-      "gloss": "永活"
+      "gloss": "活著"
     },
     {
       "surface": "יהוה",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "若（起誓語）"
+      "gloss": "若"
     },
     {
       "surface": "יש",
@@ -50,23 +29,23 @@
     },
     {
       "surface": "גוי",
-      "gloss": "一邦"
-    },
-    {
-      "surface": "וממלכה",
       "gloss": "一國"
     },
     {
+      "surface": "וממלכה",
+      "gloss": "或一邦"
+    },
+    {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": ""
     },
     {
       "surface": "לא",
-      "gloss": "不"
+      "gloss": "未曾"
     },
     {
       "surface": "שלח",
-      "gloss": "差人去"
+      "gloss": "差人"
     },
     {
       "surface": "אדני",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "那裡"
+      "gloss": "往那裡"
     },
     {
       "surface": "לבקשך",
@@ -90,12 +69,12 @@
     },
     {
       "surface": "והשביע",
-      "gloss": "叫……起誓"
+      "gloss": "他就叫……起誓"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那國"
+      "marks": "那國（הממלכה）"
     },
     {
       "surface": "הממלכה",
@@ -104,7 +83,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "那邦"
+      "marks": "那邦（הגוי）"
     },
     {
       "surface": "הגוי",
@@ -112,7 +91,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "實在"
+      "gloss": "因為實在"
     },
     {
       "surface": "לא",
@@ -120,9 +99,9 @@
     },
     {
       "surface": "ימצאכה",
-      "gloss": "找到你"
+      "gloss": "找不著你"
     }
   ],
-  "timestamp": "2026-10-16T06:46:36.112977449Z",
+  "timestamp": "2026-10-16T21:58:34.080017249Z",
   "model": "glm-5.3"
 }

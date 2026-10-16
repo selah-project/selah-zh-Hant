@@ -5,41 +5,15 @@
   "book": "daniel",
   "lang": "zh-Hant",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "三年",
-      "rationale": "指定期限三年，期滿才侍立於王前。"
-    },
-    {
-      "kind": "idiom",
-      "subject": "לפני המלך",
-      "rationale": "字面「在王的面之前」，即侍立在王面前服事。"
-    },
-    {
-      "kind": "hapax",
-      "subject": "פתבג",
-      "rationale": "波斯借詞「御膳」，僅見於但以理書。"
-    }
-  ],
-  "translation": "王指派給他們每日的定量，就是王的御膳和他所喝的酒，養育他們三年；期滿之後，他們中間〈有人〉要侍立在王面前。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "2df86f112ae335f1a4105466b12477bf083395ce24b88438cf37e86878e2fd37",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/daniel\/1\/5-8.1792147285978.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "王為他們指定了每日的定量——王餐桌上的珍饈、以及他所喝的酒——要養育他們三年；三年期滿，他們當中〈有些人〉要侍立在王面前。",
   "tokens": [
     {
       "surface": "וימן",
-      "gloss": "指派"
+      "gloss": "指定了定量"
     },
     {
       "surface": "להם",
-      "gloss": "給他們"
+      "gloss": "為他們"
     },
     {
       "surface": "המלך",
@@ -55,23 +29,23 @@
     },
     {
       "surface": "ביומו",
-      "gloss": "逐日"
+      "gloss": "日復一日"
     },
     {
       "surface": "מפת",
-      "gloss": "一份"
+      "gloss": "餐桌上的"
     },
     {
       "surface": "בג",
-      "gloss": "御膳"
+      "gloss": "珍饈"
     },
     {
       "surface": "המלך",
-      "gloss": "王的"
+      "gloss": "王"
     },
     {
       "surface": "ומיין",
-      "gloss": "和酒"
+      "gloss": "以及……酒"
     },
     {
       "surface": "משתיו",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "ולגדלם",
-      "gloss": "養育他們"
+      "gloss": "要養育他們"
     },
     {
       "surface": "שנים",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "ומקצתם",
-      "gloss": "期滿之後他們中間"
+      "gloss": "期滿之後他們當中"
     },
     {
       "surface": "יעמדו",
@@ -106,6 +80,6 @@
       "gloss": "王"
     }
   ],
-  "timestamp": "2026-10-16T10:41:25.979541990Z",
+  "timestamp": "2026-10-16T22:12:01.794938175Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "isaiah",
   "lang": "zh-Hant",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "תאמינו",
-      "rationale": "אמן此處字面為「向右轉」，非「相信」；參各譯本或作「轉向右方」或誤作「信靠」。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "偏向右邊",
-      "rationale": "תאמינו字面是「取右手之路」，中文以「偏向右邊」保留方向意象。"
-    },
-    {
-      "kind": "you",
-      "subject": "以色列",
-      "rationale": "經文直接向聽者發言，呼召其行在正路上。"
-    }
-  ],
-  "translation": "你的耳朵必聽見背後有話說：「這是正路，要行在其中」；你們偏向右邊，或偏向左邊之時〈也必聽見〉。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "554d32760035889ae25d2c76a655812080a171d00419b3d2a7cd052336baef77",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/30\/21-24.1792135168895.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你的耳朵必聽見 ⟨從你後方⟩ 有話說：「這就是那條路，你們要行在其中」；何時你們偏向右，何時你們偏向左。",
   "tokens": [
     {
       "surface": "ואזניך",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "מאחריך",
-      "gloss": "從你背後"
+      "gloss": "從你後方"
     },
     {
       "surface": "לאמר",
@@ -55,15 +29,15 @@
     },
     {
       "surface": "זה",
-      "gloss": "這是"
+      "gloss": "這"
     },
     {
       "surface": "הדרך",
-      "gloss": "正路"
+      "gloss": "那條路"
     },
     {
       "surface": "לכו",
-      "gloss": "要行"
+      "gloss": "你們要行"
     },
     {
       "surface": "בו",
@@ -71,21 +45,21 @@
     },
     {
       "surface": "כי",
-      "gloss": "之時"
+      "gloss": "何時"
     },
     {
       "surface": "תאמינו",
-      "gloss": "偏向右邊"
+      "gloss": "你們偏向右"
     },
     {
       "surface": "וכי",
-      "gloss": "或"
+      "gloss": "何時"
     },
     {
       "surface": "תשמאילו",
-      "gloss": "偏向左邊"
+      "gloss": "你們偏向左"
     }
   ],
-  "timestamp": "2026-10-16T07:19:28.895658736Z",
+  "timestamp": "2026-10-16T22:34:08.570576193Z",
   "model": "glm-5.3"
 }

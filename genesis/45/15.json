@@ -5,36 +5,15 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 45,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "אתו是את的帶代詞形式（與他），中文以「跟」吸收，記號以⟨את⟩標示。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "עליהם",
-      "rationale": "字面「在他們之上」，哭伏其身；中文補「伏在他們身上」以存畫面。"
-    }
-  ],
-  "translation": "他又親吻他眾弟兄，伏在他們身上哭；隨後，他弟兄們就跟他說話。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "6a7e3cc03f8f0e37dd7913e0641362b0a4363f9162151d4d144ca80a6676ca2f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/45\/13-16.1792125591003.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他親嘴親了眾弟兄，又在〈אתו〉他們身上哭；這以後，他的弟兄們就與他說話。",
   "tokens": [
     {
       "surface": "וינשק",
-      "gloss": "他又親吻"
+      "gloss": "他親嘴"
     },
     {
       "surface": "לכל",
-      "gloss": "他眾"
+      "gloss": "眾"
     },
     {
       "surface": "אחיו",
@@ -42,19 +21,19 @@
     },
     {
       "surface": "ויבך",
-      "gloss": "哭"
+      "gloss": "又哭"
     },
     {
       "surface": "עליהם",
-      "gloss": "伏在他們身上"
+      "gloss": "在他們身上"
     },
     {
       "surface": "ואחרי",
-      "gloss": "隨後"
+      "gloss": "這以後"
     },
     {
       "surface": "כן",
-      "gloss": "……之後"
+      "gloss": "之後"
     },
     {
       "surface": "דברו",
@@ -62,13 +41,14 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "他弟兄們"
+      "gloss": "他的弟兄們"
     },
     {
       "surface": "אתו",
-      "gloss": "跟他 ⟨את⟩"
+      "gloss": "⟨אתו⟩",
+      "marks": "他"
     }
   ],
-  "timestamp": "2026-10-16T04:39:51.004607016Z",
+  "timestamp": "2026-10-16T22:31:31.517694876Z",
   "model": "glm-5.3"
 }

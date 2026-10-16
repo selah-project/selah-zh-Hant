@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "才",
-      "rationale": "בשנאת 為「在恨之中」，中文以因果句式「因為……才」表達"
-    },
-    {
-      "kind": "substitution",
-      "subject": "怨言",
-      "rationale": "רגן 指埋怨、不平地嘀咕，欽定本譯 murmur"
-    }
-  ],
-  "translation": "你們在你們的帳棚裡發怨言，說：『雅威因為恨我們，才把我們從埃及地領出來，要把我們交在亞摩利人手中，除滅我們。』",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "48b94d0c530c9153dd626acbc65bfd49b575b7097124b0dd708cea1861387080",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/1\/25-28.1792128544309.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "你們在你們的帳棚裡發怨言，說：「雅威恨我們，所以 ⟨את⟩我們從埃及地帶出來，要把 ⟨את⟩我們交在亞摩利人手中，除滅我們。」",
   "tokens": [
     {
       "surface": "ותרגנו",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "בשנאת",
-      "gloss": "因為恨"
+      "gloss": "恨"
     },
     {
       "surface": "יהוה",
@@ -55,11 +34,11 @@
     },
     {
       "surface": "הוציאנו",
-      "gloss": "領出來"
+      "gloss": "帶出來"
     },
     {
       "surface": "מארץ",
-      "gloss": "從……地"
+      "gloss": "從…地"
     },
     {
       "surface": "מצרים",
@@ -76,7 +55,7 @@
     },
     {
       "surface": "ביד",
-      "gloss": "在……手中"
+      "gloss": "在…手中"
     },
     {
       "surface": "האמרי",
@@ -87,6 +66,6 @@
       "gloss": "除滅我們"
     }
   ],
-  "timestamp": "2026-10-16T05:29:04.311028228Z",
+  "timestamp": "2026-10-16T22:12:37.699086332Z",
   "model": "glm-5.3"
 }

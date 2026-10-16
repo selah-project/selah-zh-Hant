@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "zh-Hant",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "〈他〉",
-      "rationale": "希伯來文省略主語，中文需補出以利亞"
-    },
-    {
-      "kind": "substitution",
-      "subject": "וילכו（走→流）",
-      "rationale": "原文是「水行走環繞祭壇」，以「走」喻流動，中文用「流」"
-    }
-  ],
-  "translation": "水環繞祭壇流〈遍〉，〈他〉也把 ⟨את⟩ 那溝槽灌滿了水。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "6e181a50c7be3ae0ddb4e3bbf164542da036ad17ed6af16a55e27f40751f2b4d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-kings\/18\/33-36.1792133290101.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "水就流動環繞⟨著⟩祭壇四圍，他也把 ⟨את⟩ 溝槽充滿了水。",
   "tokens": [
     {
       "surface": "וילכו",
-      "gloss": "流"
+      "gloss": "流動"
     },
     {
       "surface": "המים",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "סביב",
-      "gloss": "環繞"
+      "gloss": "環繞四圍"
     },
     {
       "surface": "למזבח",
@@ -51,21 +30,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那溝槽"
+      "marks": "溝槽"
     },
     {
       "surface": "התעלה",
-      "gloss": "那溝槽"
+      "gloss": "溝槽"
     },
     {
       "surface": "מלא",
-      "gloss": "灌滿"
+      "gloss": "充滿了"
     },
     {
       "surface": "מים",
       "gloss": "水"
     }
   ],
-  "timestamp": "2026-10-16T06:48:10.102893061Z",
+  "timestamp": "2026-10-16T21:58:13.179559101Z",
   "model": "glm-5.3"
 }

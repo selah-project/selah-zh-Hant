@@ -5,28 +5,7 @@
   "book": "judges",
   "lang": "zh-Hant",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "一隻",
-      "rationale": "בגדי עזים 無冠詞亦無數詞，中文量詞為語法所需"
-    },
-    {
-      "kind": "alternative",
-      "subject": "ויפקד",
-      "rationale": "「探望」為友善之意的譯法；עפקד 亦可用於敵意（審罰），此處語帶雙關，參孫此行既是探望也是清帳"
-    }
-  ],
-  "translation": "過了些日子，到割麥子的時候，參孫帶著一隻山羊羔去探望他的妻子，說：「我要進內室去見我的妻子。」她父親卻不讓他進去。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "30f224efcd21ca825d03e82483f1d056469e46f0753c01fafd7ea64f8d254242",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/15\/1-4.1792130477812.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "過了些日子，到麥子收割的時候，參孫帶著一隻山羊羔去探望 ⟨את⟩ 他的妻子，說：「我要進內室到 ⟨את⟩ 我妻子那裡。」她父親卻不允許他進去。",
   "tokens": [
     {
       "surface": "ויהי",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "בגדי",
-      "gloss": "一隻山羊羔"
+      "gloss": "帶著一隻……羔"
     },
     {
       "surface": "עזים",
@@ -83,15 +62,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "去見"
+      "gloss": "到"
     },
     {
       "surface": "אשתי",
-      "gloss": "我的妻子"
+      "gloss": "我妻子"
     },
     {
       "surface": "החדרה",
-      "gloss": "進內室"
+      "gloss": "內室"
     },
     {
       "surface": "ולא",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "נתנו",
-      "gloss": "讓"
+      "gloss": "允許"
     },
     {
       "surface": "אביה",
@@ -110,6 +89,6 @@
       "gloss": "進去"
     }
   ],
-  "timestamp": "2026-10-16T06:01:17.813075653Z",
+  "timestamp": "2026-10-16T22:46:23.436986698Z",
   "model": "glm-5.3"
 }

@@ -5,84 +5,58 @@
   "book": "haggai",
   "lang": "zh-Hant",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "就是",
-      "rationale": "中文需要關係詞連接「這話」與後面的子句，希伯來文用 אשר 一詞承擔"
-    },
-    {
-      "kind": "substitution",
-      "subject": "魯阿（靈）",
-      "rationale": "רוח 是風／氣息，屬雅威的魯阿，按 D2 音譯並括註 靈"
-    },
-    {
-      "kind": "crux",
-      "subject": "立在約中",
-      "rationale": "כרתי 字面是「剪／切」（立約的慣用語「切約」），與 עמדת「站立」呼應；JPS 讀作「我已堅立那話」，KJV 則視為條件句「照著……我的靈仍住在你們中間」"
-    }
-  ],
-  "translation": "⟨את⟩ 這話，就是我在你們出埃及的時候與你們所立的；我的魯阿（靈）站在你們中間，你們不要害怕。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "5e4e3500ae71cb45ec9fd368eb71c05e736aa845b0f742768916a97495f86783",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/haggai\/2\/5-8.1792142871125.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨這是⟩我與你們剪立的那話，就是你們出埃及的時候〈剪立〉的；我的魯阿（靈）站在你們中間，不要懼怕。",
   "tokens": [
     {
-      "surface": "את",
+      "surface": "אֶֽת",
       "gloss": "⟨את⟩",
-      "marks": "這話"
+      "marks": "那話"
     },
     {
-      "surface": "הדבר",
-      "gloss": "這話"
+      "surface": "הַדָּבָ֞ר",
+      "gloss": "那話"
     },
     {
-      "surface": "אשר",
+      "surface": "אֲשֶׁר",
       "gloss": "就是"
     },
     {
-      "surface": "כרתי",
-      "gloss": "我所立的"
+      "surface": "כָּרַ֤תִּי",
+      "gloss": "我剪立"
     },
     {
-      "surface": "אתכם",
-      "gloss": "⟨את⟩ 你們"
+      "surface": "אִתְּכֶם֙",
+      "gloss": "⟨את⟩你們"
     },
     {
-      "surface": "בצאתכם",
-      "gloss": "你們出的時候"
+      "surface": "בְּצֵאתְכֶ֣ם",
+      "gloss": "你們出去的時候"
     },
     {
-      "surface": "ממצרים",
-      "gloss": "從埃及"
+      "surface": "מִמִּצְרַ֔יִם",
+      "gloss": "出埃及"
     },
     {
-      "surface": "ורוחי",
-      "gloss": "而我的魯阿（靈）"
+      "surface": "וְרוּחִ֖י",
+      "gloss": "我的魯阿（靈）"
     },
     {
-      "surface": "עמדת",
+      "surface": "עֹמֶ֣דֶת",
       "gloss": "站在"
     },
     {
-      "surface": "בתוככם",
-      "gloss": "你們中間"
+      "surface": "בְּתוֹכְכֶ֑ם",
+      "gloss": "在你們中間"
     },
     {
-      "surface": "אל",
+      "surface": "אַל",
       "gloss": "不要"
     },
     {
-      "surface": "תיראו",
-      "gloss": "害怕"
+      "surface": "תִּירָֽאוּ",
+      "gloss": "懼怕"
     }
   ],
-  "timestamp": "2026-10-16T09:27:51.126259405Z",
+  "timestamp": "2026-10-16T22:33:08.008352355Z",
   "model": "glm-5.3"
 }

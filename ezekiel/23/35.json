@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "丟在背後",
-      "rationale": "「丟在背後」是希伯來成語，意為刻意棄絕，中文字面可解"
-    },
-    {
-      "kind": "substitution",
-      "subject": "את",
-      "rationale": "此處את是第二人稱代詞（你），非受詞記號，譯作『你』"
-    }
-  ],
-  "translation": "因此，阿多奈雅威如此說：因為你忘記了⟨אותי⟩，將⟨אותי⟩丟在你背後，所以連你也必擔當你的惡謀和你的淫亂⟨את⟩。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "852751afbcddca23cfac2dfbf11e2e676cc248c145a3baa36d0f146b89d3d8e3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/23\/33-36.1792138548155.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "因此，阿多奈雅威如此說：因為你忘記了 ⟨את⟩ 我，把我拋在你背後，連你也要擔當你的惡謀和 ⟨את⟩ 你的淫行。",
   "tokens": [
     {
       "surface": "לכן",
@@ -58,29 +37,27 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ ⟨אותי⟩",
-      "marks": "雅威（我）"
+      "gloss": "⟨את⟩ 我"
     },
     {
       "surface": "ותשליכי",
-      "gloss": "你將…丟"
+      "gloss": "你拋擲"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ ⟨אותי⟩",
-      "marks": "雅威（我）"
+      "gloss": "⟨את⟩ 我"
     },
     {
       "surface": "אחרי",
-      "gloss": "在…之後"
+      "gloss": "在……之後"
     },
     {
       "surface": "גוך",
-      "gloss": "你的背"
+      "gloss": "你的背後"
     },
     {
       "surface": "וגם",
-      "gloss": "連…也"
+      "gloss": "連……也"
     },
     {
       "surface": "את",
@@ -88,7 +65,7 @@
     },
     {
       "surface": "שאי",
-      "gloss": "必擔當"
+      "gloss": "你要擔當"
     },
     {
       "surface": "זמתך",
@@ -96,14 +73,13 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "你的淫亂"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "תזנותיך",
-      "gloss": "你的淫亂"
+      "gloss": "你的淫行"
     }
   ],
-  "timestamp": "2026-10-16T08:15:48.156782031Z",
+  "timestamp": "2026-10-16T22:23:40.361965545Z",
   "model": "glm-5.3"
 }

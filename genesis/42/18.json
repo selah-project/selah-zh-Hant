@@ -5,27 +5,11 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "神",
-      "rationale": "以羅欣首次出現，依規加括註「神」"
-    }
-  ],
-  "translation": "第三天，約瑟對他們說：「你們這樣行，就得以存活；我敬畏以羅欣（神）。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "d104c970e2a5ef8838e0d24a1eede219368c1bf2f2cabca0d6f4673deafa5572",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/42\/17-20.1792125492753.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "第三天，約瑟對他們說：「我敬畏 ⟨את⟩ 以羅欣；你們這樣行，就可以存活。」",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "他說"
+      "gloss": "說"
     },
     {
       "surface": "אלהם",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "ביום",
-      "gloss": "在…日"
+      "gloss": "在…天"
     },
     {
       "surface": "השלישי",
@@ -45,15 +29,15 @@
     },
     {
       "surface": "זאת",
-      "gloss": "這"
+      "gloss": "這樣"
     },
     {
       "surface": "עשו",
-      "gloss": "你們行"
+      "gloss": "行"
     },
     {
       "surface": "וחיו",
-      "gloss": "就得以存活"
+      "gloss": "就可以存活"
     },
     {
       "surface": "את",
@@ -73,6 +57,6 @@
       "gloss": "敬畏"
     }
   ],
-  "timestamp": "2026-10-16T04:38:12.754584290Z",
+  "timestamp": "2026-10-16T22:30:44.966981532Z",
   "model": "glm-5.3"
 }

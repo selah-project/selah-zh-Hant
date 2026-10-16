@@ -5,33 +5,7 @@
   "book": "nehemiah",
   "lang": "zh-Hant",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "צרינו",
-      "rationale": "צר 字面是「狹窄／困境」，「敵人」是引申義；原文的窄苦畫面在中文裡失去"
-    },
-    {
-      "kind": "substitution",
-      "subject": "המלאכה",
-      "rationale": "字面是「職事／工作」，此處指修建城牆的工程"
-    },
-    {
-      "kind": "secret",
-      "subject": "敵人的密謀",
-      "rationale": "敵人計劃暗中突襲——他們不知不覺時進入其中殺害"
-    }
-  ],
-  "translation": "我們的敵人說：「他們必不知道，也看不見，直到我們進入他們中間，殺了他們，使那工程停息。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "6781bd79e319c577f75d8fc65998cf5cbd79b8410d1c49e17104ff707be1073e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nehemiah\/4\/5-8.1792148084842.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我們的敵人說：「他們不會知道，也看不見，直到我們進入他們中間，殺了他們，使 ⟨את⟩ 那工程止息。」",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "ידעו",
-      "gloss": "他們必知道"
+      "gloss": "會知道"
     },
     {
       "surface": "ולא",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨那時⟩"
+      "gloss": "⟨之時⟩"
     },
     {
       "surface": "נבוא",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "והשבתנו",
-      "gloss": "使停息"
+      "gloss": "使……止息"
     },
     {
       "surface": "את",
@@ -95,6 +69,6 @@
       "gloss": "那工程"
     }
   ],
-  "timestamp": "2026-10-16T10:54:44.843202793Z",
+  "timestamp": "2026-10-16T22:52:44.974420911Z",
   "model": "glm-5.3"
 }

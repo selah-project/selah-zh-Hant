@@ -5,28 +5,7 @@
   "book": "esther",
   "lang": "zh-Hant",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "את כל תקף",
-      "rationale": "「以全權」（和合本、KJV）或「一切權力的事蹟」（JPS）；תקף 字面是「力量、權勢」。"
-    },
-    {
-      "kind": "elision",
-      "subject": "את",
-      "rationale": "第一個 את 的受詞 כל תקף 在語流中由 ⟨את⟩ 標記。"
-    }
-  ],
-  "translation": "王后以斯帖——亞比希勒的女兒——和猶大人末底改以全權寫下，要確立 ⟨את⟩ 這第二封普珥書信。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "17796a276e1347aeeffa4ce98e6c82cc02d9afe24a9f2a6828f880b9979c85b6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/esther\/9\/29-32.1792147340989.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "王后以斯帖，亞比亥的女兒，和猶大人末底改，以全部的權力寫下⟨את⟩這一切，為要確立⟨את⟩這第二封普珥日的信。",
   "tokens": [
     {
       "surface": "ותכתב",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "אביחיל",
-      "gloss": "亞比希勒"
+      "gloss": "亞比亥"
     },
     {
       "surface": "ומרדכי",
@@ -59,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "全權"
+      "marks": "這一切（全部權力）"
     },
     {
       "surface": "כל",
-      "gloss": "全"
+      "gloss": "全部"
     },
     {
       "surface": "תקף",
@@ -71,20 +50,20 @@
     },
     {
       "surface": "לקים",
-      "gloss": "要確立"
+      "gloss": "為要確立"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "普珥書信"
+      "marks": "這第二封普珥日的信"
     },
     {
       "surface": "אגרת",
-      "gloss": "書信"
+      "gloss": "信"
     },
     {
       "surface": "הפורים",
-      "gloss": "普珥的"
+      "gloss": "普珥日"
     },
     {
       "surface": "הזאת",
@@ -95,6 +74,6 @@
       "gloss": "第二"
     }
   ],
-  "timestamp": "2026-10-16T10:42:20.989698647Z",
+  "timestamp": "2026-10-16T22:16:55.638022376Z",
   "model": "glm-5.3"
 }

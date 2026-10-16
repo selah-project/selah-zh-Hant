@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אדני יהוה",
-      "rationale": "先知書套語，譯作『阿多奈雅威』以保留兩個名號的原貌。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נתתיו\/נתתי",
-      "rationale": "『我已給』與『我也將給』同詞呼應，比喻與結論用同一動詞縫合。"
-    }
-  ],
-  "translation": "因此，阿多奈雅威如此說：葡萄樹的木頭怎樣在森林的樹木之中，我已將它交給火焚燒作燃料，我也照樣將耶路撒冷的居民交出。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "396a7e06042617fabdb20be131a463ccf1daa57beaf3a16d48e250191381f8aa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/15\/5-8.1792138257312.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "因此，阿多奈雅威如此說：正如葡萄樹的木料在樹林眾樹之中，我已將它交給火焚燒作食物，我也照樣將 ⟨את⟩ 耶路撒冷的居民交出去。",
   "tokens": [
     {
       "surface": "לכן",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "怎樣"
+      "gloss": "正如"
     },
     {
       "surface": "עץ",
-      "gloss": "木頭"
+      "gloss": "木料"
     },
     {
       "surface": "הגפן",
@@ -62,15 +41,15 @@
     },
     {
       "surface": "בעץ",
-      "gloss": "在……樹木之中"
+      "gloss": "在……樹之中"
     },
     {
       "surface": "היער",
-      "gloss": "森林的"
+      "gloss": "樹林"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨它⟩"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "נתתיו",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "לאכלה",
-      "gloss": "焚燒作燃料"
+      "gloss": "作食物"
     },
     {
       "surface": "כן",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "我也將……交出"
+      "gloss": "我也交了"
     },
     {
       "surface": "את",
@@ -103,9 +82,9 @@
     },
     {
       "surface": "ירושלם",
-      "gloss": "耶路撒冷的"
+      "gloss": "耶路撒冷"
     }
   ],
-  "timestamp": "2026-10-16T08:10:57.313958476Z",
+  "timestamp": "2026-10-16T22:22:00.802556076Z",
   "model": "glm-5.3"
 }

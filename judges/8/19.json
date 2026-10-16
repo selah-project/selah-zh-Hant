@@ -5,23 +5,7 @@
   "book": "judges",
   "lang": "zh-Hant",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "是",
-      "rationale": "希伯来文无系词，中文补「是」"
-    }
-  ],
-  "translation": "他說：「他們是我弟兄，是我母親的兒子。雅威活著，你們若讓他們存活，我必不殺你們。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "1f2e675e8619b8dcfb47faaa0eddca524b2e93d1893900a990aa4b144337b6ad",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/judges\/8\/17-20.1792130319715.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他說：「他們是我的弟兄，是我母親的兒子。雅威活著⟨起誓⟩，只要你們留⟨את⟩他們活著，我就必不殺⟨את⟩你們。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,7 +13,7 @@
     },
     {
       "surface": "אחי",
-      "gloss": "我弟兄"
+      "gloss": "我的弟兄"
     },
     {
       "surface": "בני",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "אמי",
-      "gloss": "我母親的"
+      "gloss": "我的母親"
     },
     {
       "surface": "הם",
@@ -53,16 +37,16 @@
     },
     {
       "surface": "לו",
-      "gloss": "若"
+      "gloss": "只要"
     },
     {
       "surface": "החיתם",
-      "gloss": "讓…存活"
+      "gloss": "留…活著"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "他們（我弟兄）"
+      "marks": "他們"
     },
     {
       "surface": "לא",
@@ -70,7 +54,7 @@
     },
     {
       "surface": "הרגתי",
-      "gloss": "我殺"
+      "gloss": "我就殺"
     },
     {
       "surface": "אתכם",
@@ -78,6 +62,6 @@
       "marks": "你們"
     }
   ],
-  "timestamp": "2026-10-16T05:58:39.716377265Z",
+  "timestamp": "2026-10-16T22:47:40.053980994Z",
   "model": "glm-5.3"
 }

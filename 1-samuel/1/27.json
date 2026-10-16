@@ -5,27 +5,11 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שאלתי\/שאלתי",
-      "rationale": "「祈求」與「所求」同詞根重複，中文以同字保留"
-    }
-  ],
-  "translation": "我為這孩子祈求，雅威已將我所求的賜給了我，就是我從祂那裡所求的。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "2f0a1b144e73c1c25d4ffaa11637c81cf607f9fe224e7495110a247fe88ac3f2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/1\/25-28.1792130765957.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "為著這孩子，我祈求了；雅威賜給了我 ⟨את⟩ 我所求的，就是我從祂那裡求來的。",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "為"
+      "gloss": "為著"
     },
     {
       "surface": "הנער",
@@ -37,11 +21,11 @@
     },
     {
       "surface": "התפללתי",
-      "gloss": "我祈求"
+      "gloss": "我祈求了"
     },
     {
       "surface": "ויתן",
-      "gloss": "賜給了"
+      "gloss": "賜了"
     },
     {
       "surface": "יהוה",
@@ -49,7 +33,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "我"
+      "gloss": "給我"
     },
     {
       "surface": "את",
@@ -66,13 +50,13 @@
     },
     {
       "surface": "שאלתי",
-      "gloss": "我所求的"
+      "gloss": "我求來的"
     },
     {
       "surface": "מעמו",
       "gloss": "從祂那裡"
     }
   ],
-  "timestamp": "2026-10-16T06:06:05.958513643Z",
+  "timestamp": "2026-10-16T22:00:06.676420219Z",
   "model": "glm-5.3"
 }

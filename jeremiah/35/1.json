@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "zh-Hant",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "那裡",
-      "rationale": "中文需要方位詞，希伯來文只用介詞 מאת"
-    },
-    {
-      "kind": "you",
-      "subject": "耶利米",
-      "rationale": "雅威的話直接臨到耶利米，叙事框架指向先知本人"
-    }
-  ],
-  "translation": "在猶大王約西亞的兒子約雅敬的日子，從雅威那裡臨到耶利米的話，說：",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c5a63b4c1703e1bfb7b0639a655569b502daf91bd1b9fb4ba04ba8e69dd183bf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/jeremiah\/35\/1-4.1792137104466.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "雅威臨到耶利米的話，就是在猶大王約西亞的兒子約雅敬日子裡的，說：",
   "tokens": [
     {
       "surface": "הדבר",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "向"
+      "gloss": "到"
     },
     {
       "surface": "ירמיהו",
@@ -50,7 +29,8 @@
     },
     {
       "surface": "מאת",
-      "gloss": "從⟨את⟩"
+      "gloss": "從⟨את⟩",
+      "marks": "雅威"
     },
     {
       "surface": "יהוה",
@@ -58,7 +38,7 @@
     },
     {
       "surface": "בימי",
-      "gloss": "在……的日子"
+      "gloss": "日子裡"
     },
     {
       "surface": "יהויקים",
@@ -85,6 +65,6 @@
       "gloss": "說"
     }
   ],
-  "timestamp": "2026-10-16T07:51:44.467285888Z",
+  "timestamp": "2026-10-16T22:39:09.743076261Z",
   "model": "glm-5.3"
 }

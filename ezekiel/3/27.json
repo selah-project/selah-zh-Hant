@@ -5,42 +5,16 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "השמע ישמע \/ והחדל יחדל",
-      "rationale": "不定絕對形加限定動詞的疊用：『聽的就聽、罷休的就罷休』，中文以重複動詞保留節奏"
-    },
-    {
-      "kind": "you",
-      "subject": "to Ezekiel",
-      "rationale": "雅威對以西結應許開他的口，並藉他向以色列家說話"
-    },
-    {
-      "kind": "crux",
-      "subject": "阿多奈雅威",
-      "rationale": "אדני יהוה 依紀律分別音譯為『阿多奈雅威』，不用『主耶和華』或『主上帝』"
-    }
-  ],
-  "translation": "但當我對你說話的時候，我必開 ⟨את⟩ 你的口，你就要對他們說：阿多奈雅威如此說：肯聽的就聽，罷休的就任他罷休，因為他們是叛逆之家。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "525798db7df2497909d540db492d829022dfc0e3c7f744c8c74e633dc8a10b6f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/3\/25-27.1792137928997.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "當我對你說話的時候，我必開 ⟨את⟩ 你的口，你就對他們說：阿多奈雅威如此說：肯聽的，就讓他聽；不肯聽的，就讓他不聽；因為他們是悖逆之家。",
   "tokens": [
     {
       "surface": "ובדברי",
-      "gloss": "而當我說話"
+      "gloss": "當我……說話"
     },
     {
       "surface": "אותך",
       "gloss": "⟨את⟩",
-      "marks": "你（說話的對象）"
+      "marks": "我開你的口這動作所及的你"
     },
     {
       "surface": "אפתח",
@@ -57,7 +31,7 @@
     },
     {
       "surface": "ואמרת",
-      "gloss": "你就要說"
+      "gloss": "你就說"
     },
     {
       "surface": "אליהם",
@@ -81,19 +55,19 @@
     },
     {
       "surface": "השמע",
-      "gloss": "那肯聽的"
+      "gloss": "肯聽的"
     },
     {
       "surface": "ישמע",
-      "gloss": "就聽"
+      "gloss": "讓他聽"
     },
     {
       "surface": "והחדל",
-      "gloss": "而那罷休的"
+      "gloss": "不肯聽的"
     },
     {
       "surface": "יחדל",
-      "gloss": "就任他罷休"
+      "gloss": "讓他不聽"
     },
     {
       "surface": "כי",
@@ -101,17 +75,17 @@
     },
     {
       "surface": "בית",
-      "gloss": "…之家"
+      "gloss": "……之家"
     },
     {
       "surface": "מרי",
-      "gloss": "叛逆"
+      "gloss": "悖逆"
     },
     {
       "surface": "המה",
-      "gloss": "他們乃是"
+      "gloss": "他們"
     }
   ],
-  "timestamp": "2026-10-16T08:05:28.998798281Z",
+  "timestamp": "2026-10-16T22:23:49.578027120Z",
   "model": "glm-5.3"
 }

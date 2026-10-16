@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "קדש ׁקדשים",
-      "rationale": "字面為「聖的聖物」，希伯來文的疊名最高級；譯作「至聖之物」。"
-    },
-    {
-      "kind": "alternative",
-      "subject": "כחטאת האשם הוא לכהן",
-      "rationale": "「如同贖罪祭，贖愆祭歸祭司」也可讀作「贖罪祭怎樣歸祭司，贖愆祭也怎樣歸祭司」。"
-    }
-  ],
-  "translation": "他要在宰殺贖罪祭和燔祭的地方宰殺 ⟨את⟩ 那羊羔，在聖處；因為贖愆祭如同贖罪祭一樣歸祭司，它是至聖之物。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "b11f18e47f81d439321057a275afa8702d4cc7dcb1e6b20a022b0b2d8181d049",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/14\/13-16.1792126990276.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他要在宰殺贖罪祭和燔祭的地方，就是在聖所的地方，宰殺 ⟨את⟩ 這羊羔；因為贖愆祭要歸給祭司，像贖罪祭一樣，它是至聖的。",
   "tokens": [
     {
       "surface": "ושחט",
@@ -35,15 +14,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那羊羔"
+      "marks": "這羊羔"
     },
     {
       "surface": "הכבש",
-      "gloss": "那羊羔"
+      "gloss": "這羊羔"
     },
     {
       "surface": "במקום",
-      "gloss": "在…的地方"
+      "gloss": "在……的地方"
     },
     {
       "surface": "אשר",
@@ -73,11 +52,11 @@
     },
     {
       "surface": "במקום",
-      "gloss": "在…之處"
+      "gloss": "在……的地方"
     },
     {
       "surface": "הקדש",
-      "gloss": "聖處"
+      "gloss": "聖所"
     },
     {
       "surface": "כי",
@@ -85,7 +64,7 @@
     },
     {
       "surface": "כחטאת",
-      "gloss": "如同贖罪祭"
+      "gloss": "像贖罪祭"
     },
     {
       "surface": "האשם",
@@ -97,7 +76,7 @@
     },
     {
       "surface": "לכהן",
-      "gloss": "歸祭司"
+      "gloss": "歸給祭司"
     },
     {
       "surface": "קדש",
@@ -105,13 +84,13 @@
     },
     {
       "surface": "קדשים",
-      "gloss": "至聖之物"
+      "gloss": "至聖"
     },
     {
       "surface": "הוא",
-      "gloss": "它"
+      "gloss": "它是"
     }
   ],
-  "timestamp": "2026-10-16T05:03:10.277319759Z",
+  "timestamp": "2026-10-16T22:49:05.689073288Z",
   "model": "glm-5.3"
 }

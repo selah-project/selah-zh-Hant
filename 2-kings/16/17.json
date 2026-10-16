@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "המסגרות",
-      "rationale": "「鑲邊／邊框」與「嵌板」之爭：KJV 作 borders，BSB 作 frames，字根是「包圍之物」。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "הים",
-      "rationale": "原文直稱「那海」，指所羅門聖殿的巨大銅盆；譯文保留「銅海」。"
-    },
-    {
-      "kind": "hapax",
-      "subject": "מיסך",
-      "rationale": "（見下節）מיסך 僅出現於下一節。"
-    }
-  ],
-  "translation": "亞哈斯王砍下了盆座的鑲邊，又把盆從上面挪去；至於那銅海，他把它從海底下那銅牛上取下來，放在石頭的鋪石地上。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a5cc649ff12461568591e7b1c8d6e1868461dac114d3a43ed9d460bf9604a7bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/16\/17-20.1792134080750.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "亞哈斯王砍下 ⟨את⟩ 底座的鑲板邊框，將盆從其上挪去；又把 ⟨את⟩ 銅海從其下的銅牛上取下來，將它安放在石頭鋪的地上。",
   "tokens": [
     {
       "surface": "ויקצץ",
-      "gloss": "砍下了"
+      "gloss": "砍下"
     },
     {
       "surface": "המלך",
@@ -48,15 +22,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "盆座的鑲邊"
+      "marks": "底座的鑲板邊框"
     },
     {
       "surface": "המסגרות",
-      "gloss": "鑲邊"
+      "gloss": "鑲板邊框"
     },
     {
       "surface": "המכנות",
-      "gloss": "盆座"
+      "gloss": "底座"
     },
     {
       "surface": "ויסר",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "מעליהם",
-      "gloss": "從它們上面"
+      "gloss": "從其上"
     },
     {
       "surface": "ואת",
@@ -78,7 +52,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "那銅海"
+      "marks": "銅海"
     },
     {
       "surface": "הים",
@@ -90,7 +64,7 @@
     },
     {
       "surface": "מעל",
-      "gloss": "從…上面"
+      "gloss": "從"
     },
     {
       "surface": "הבקר",
@@ -106,16 +80,16 @@
     },
     {
       "surface": "תחתיה",
-      "gloss": "在它底下"
+      "gloss": "在其下"
     },
     {
       "surface": "ויתן",
-      "gloss": "放"
+      "gloss": "安放"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "它（那海）"
+      "marks": "它（銅海）"
     },
     {
       "surface": "על",
@@ -127,9 +101,9 @@
     },
     {
       "surface": "אבנים",
-      "gloss": "石頭的"
+      "gloss": "石頭"
     }
   ],
-  "timestamp": "2026-10-16T07:01:20.751471870Z",
+  "timestamp": "2026-10-16T22:06:00.817673985Z",
   "model": "glm-5.3"
 }

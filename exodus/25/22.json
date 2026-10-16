@@ -5,37 +5,11 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ונועדתי \/ מועד",
-      "rationale": "「相會」與「會幕」（אהל מועד，25:9）同根——相會之處即會幕之名"
-    },
-    {
-      "kind": "substitution",
-      "subject": "法版櫃",
-      "rationale": "ארן העדת直譯「見證之櫃」"
-    },
-    {
-      "kind": "addition",
-      "subject": "告訴",
-      "rationale": "中文需要一個述語動詞引出對以色列人的吩咐，希伯來文以介詞אל承擔"
-    }
-  ],
-  "translation": "我要在那裡與你相會，並從施恩座上、從法版櫃上二基路伯中間，與你說話；我要將⟨את⟩一切所吩咐你的、告訴以色列人。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "8f3da9a96ded92aff1e44a51f99980d11128af44174d87290a1ce7edbc9ce615",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/25\/21-24.1792126242193.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我要在那裡與你相會，從施恩座上、從法櫃上二基路伯之間，與你說話，就是我所要吩咐⟨את⟩你的一切事，都要傳給以色列人。",
   "tokens": [
     {
       "surface": "ונועדתי",
-      "gloss": "我要……相會"
+      "gloss": "我要…相會"
     },
     {
       "surface": "לך",
@@ -47,15 +21,15 @@
     },
     {
       "surface": "ודברתי",
-      "gloss": "並……說話"
+      "gloss": "我要…說話"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩與你"
+      "gloss": "⟨את⟩ 與你"
     },
     {
       "surface": "מעל",
-      "gloss": "從……上"
+      "gloss": "從…上"
     },
     {
       "surface": "הכפרת",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "מבין",
-      "gloss": "從……中間"
+      "gloss": "從…之間"
     },
     {
       "surface": "שני",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "על",
-      "gloss": "在……上"
+      "gloss": "在…上"
     },
     {
       "surface": "ארן",
@@ -87,42 +61,43 @@
     },
     {
       "surface": "העדת",
-      "gloss": "法版的"
+      "gloss": "法櫃的見證"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "一切"
+      "marks": "一切事"
     },
     {
       "surface": "כל",
-      "gloss": "一切"
+      "gloss": "一切事"
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "就是"
     },
     {
       "surface": "אצוה",
-      "gloss": "我吩咐"
+      "gloss": "我要吩咐"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩你"
+      "gloss": "⟨את⟩你",
+      "marks": "給以色列人的吩咐"
     },
     {
       "surface": "אל",
-      "gloss": "向"
+      "gloss": "給"
     },
     {
       "surface": "בני",
-      "gloss": "……之子"
+      "gloss": "…的子孫"
     },
     {
       "surface": "ישראל",
       "gloss": "以色列"
     }
   ],
-  "timestamp": "2026-10-16T04:50:42.194455646Z",
+  "timestamp": "2026-10-16T22:18:59.940040236Z",
   "model": "glm-5.3"
 }

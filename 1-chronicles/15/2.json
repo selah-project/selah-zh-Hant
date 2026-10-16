@@ -5,28 +5,7 @@
   "book": "1-chronicles",
   "lang": "zh-Hant",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "希伯來文「כי……אם」句式意為「除了……以外不可」，中文以「除了……以外」表達"
-    },
-    {
-      "kind": "you",
-      "subject": "以色列",
-      "rationale": "大衛的宣告向全以色列發出，規定誰可抬櫃"
-    }
-  ],
-  "translation": "那時大衛說：「除了利未人以外，不可抬以羅欣的櫃，因為雅威揀選了他們，要他們抬雅威的櫃，又永遠事奉他。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "bfedc40ce8e0d9d1664d5ab4b2a9b78692873ea38ebd49e539e679daa45f0c60",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-chronicles\/15\/1-4.1792148806528.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "那時，大衛說：「除了利未人以外，不可抬以羅欣的櫃，因為雅威揀選了他們，要他們抬雅威的櫃，又要他們事奉⟨他⟩，直到永遠。」",
   "tokens": [
     {
       "surface": "אז",
@@ -51,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "以羅欣的櫃"
+      "marks": "櫃"
     },
     {
       "surface": "ארון",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "以羅欣"
+      "gloss": "以羅欣的"
     },
     {
       "surface": "כי",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "除了"
+      "gloss": "除了……以外"
     },
     {
       "surface": "הלוים",
@@ -91,12 +70,12 @@
     },
     {
       "surface": "לשאת",
-      "gloss": "抬"
+      "gloss": "要……抬"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "雅威的櫃"
+      "marks": "櫃"
     },
     {
       "surface": "ארון",
@@ -104,11 +83,11 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "雅威"
+      "gloss": "雅威的"
     },
     {
       "surface": "ולשרתו",
-      "gloss": "又事奉他"
+      "gloss": "又要事奉他"
     },
     {
       "surface": "עד",
@@ -119,6 +98,6 @@
       "gloss": "永遠"
     }
   ],
-  "timestamp": "2026-10-16T11:06:46.528927104Z",
+  "timestamp": "2026-10-16T21:56:22.092087059Z",
   "model": "glm-5.3"
 }

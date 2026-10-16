@@ -5,45 +5,24 @@
   "book": "amos",
   "lang": "zh-Hant",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שבות",
-      "rationale": "'被擄之地歸回'（回復原狀）vs '被擄之民歸回'（俘虜回家）；兩讀皆有據"
-    },
-    {
-      "kind": "addition",
-      "subject": "其中",
-      "rationale": "希伯來文以所有格代名詞表達，中文補「其中」以通順"
-    }
-  ],
-  "translation": "我要使我民以色列的被擄之地歸回；他們必重建荒涼的城邑，住在其中；必栽種葡萄園，喝其中的酒；必造園子，吃其中的果子。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "362b49c061b2a51ec834214c28e8912e0e106a2870fda8803f35e644eb0616bd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/amos\/9\/13-15.1792139772997.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我必使我的百姓以色列恢復 ⟨את⟩ 被擄的光景；他們必建造荒涼的城邑，並住在其中；必栽種葡萄園，喝 ⟨את⟩ 其中的酒；必修造園子，吃 ⟨את⟩ 其中的果子。",
   "tokens": [
     {
       "surface": "ושבתי",
-      "gloss": "我要使……歸回"
+      "gloss": "我必使……恢復"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "被擄之地"
+      "marks": "被擄的光景"
     },
     {
       "surface": "שבות",
-      "gloss": "被擄之地"
+      "gloss": "被擄的光景"
     },
     {
       "surface": "עמי",
-      "gloss": "我民"
+      "gloss": "我的百姓"
     },
     {
       "surface": "ישראל",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "ובנו",
-      "gloss": "他們必重建"
+      "gloss": "他們必建造"
     },
     {
       "surface": "ערים",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "וישבו",
-      "gloss": "住在其中"
+      "gloss": "並住在其中"
     },
     {
       "surface": "ונטעו",
@@ -84,11 +63,11 @@
     },
     {
       "surface": "יינם",
-      "gloss": "他們的酒"
+      "gloss": "其中的酒"
     },
     {
       "surface": "ועשו",
-      "gloss": "必造"
+      "gloss": "必修造"
     },
     {
       "surface": "גנות",
@@ -105,9 +84,9 @@
     },
     {
       "surface": "פריהם",
-      "gloss": "它們的果子"
+      "gloss": "其中的果子"
     }
   ],
-  "timestamp": "2026-10-16T08:36:12.998745073Z",
+  "timestamp": "2026-10-16T22:12:07.329166627Z",
   "model": "glm-5.3"
 }

@@ -5,45 +5,24 @@
   "book": "amos",
   "lang": "zh-Hant",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "四十年",
-      "rationale": "曠野年數被明確計數。"
-    },
-    {
-      "kind": "predicate-you",
-      "subject": "以色列",
-      "rationale": "直接的「你們」，追述出埃及與曠野。"
-    }
-  ],
-  "translation": "我將你們從埃及地領上來，在曠野引導你們四十年，為要使你們得亞摩利人之地為業。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "43d2e154267841f210e7ca85ba64e9495a4a05f5cbcb119e33166a3c35f0bb66",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/amos\/2\/9-12.1792139620026.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "而我──是我領你們上來，離開埃及地，又在曠野引導你們四十年，使你們得亞摩利人之地⟨את⟩。",
   "tokens": [
     {
       "surface": "ואנכי",
-      "gloss": "而我──我"
+      "gloss": "而我"
     },
     {
       "surface": "העליתי",
-      "gloss": "將……領上來"
+      "gloss": "領……上來"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ 你們",
+      "gloss": "⟨את⟩你們",
       "marks": "你們"
     },
     {
       "surface": "מארץ",
-      "gloss": "從……地"
+      "gloss": "離開……地"
     },
     {
       "surface": "מצרים",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "ואולך",
-      "gloss": "引導"
+      "gloss": "引導行走"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ 你們",
+      "gloss": "⟨את⟩你們",
       "marks": "你們"
     },
     {
@@ -64,7 +43,7 @@
     },
     {
       "surface": "ארבעים",
-      "gloss": "四十"
+      "gloss": "四十年"
     },
     {
       "surface": "שנה",
@@ -72,7 +51,7 @@
     },
     {
       "surface": "לרשת",
-      "gloss": "為要……得為業"
+      "gloss": "為要佔得"
     },
     {
       "surface": "את",
@@ -88,6 +67,6 @@
       "gloss": "亞摩利人的"
     }
   ],
-  "timestamp": "2026-10-16T08:33:40.027973516Z",
+  "timestamp": "2026-10-16T22:11:11.440212024Z",
   "model": "glm-5.3"
 }

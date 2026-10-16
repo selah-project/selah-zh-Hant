@@ -5,48 +5,27 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "南地",
-      "rationale": "נגב是專有地名「內蓋夫／南地」，非普通方位詞"
-    },
-    {
-      "kind": "addition",
-      "subject": "給",
-      "rationale": "לאשר的ל承接上節送禮之語，中文補「給」以通"
-    }
-  ],
-  "translation": "給在伯特利的、給在南地拉末的、給在雅提珥的，",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "328136d43f54c64c44541612a0154d5845f1165281984a29fb3135e41b3f218b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/30\/25-28.1792131456011.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "給那在伯特利的，給那在南地拉末的，給那在雅提珥的，",
   "tokens": [
     {
       "surface": "לאשר",
-      "gloss": "給在…的"
+      "gloss": "給那在……的"
     },
     {
       "surface": "בבית",
-      "gloss": "伯特"
+      "gloss": "在伯特利"
     },
     {
       "surface": "אל",
-      "gloss": " El"
+      "gloss": "伯特(利)"
     },
     {
       "surface": "ולאשר",
-      "gloss": "給在…的"
+      "gloss": "給那在……的"
     },
     {
       "surface": "ברמות",
-      "gloss": "拉末"
+      "gloss": "在拉末"
     },
     {
       "surface": "נגב",
@@ -54,13 +33,13 @@
     },
     {
       "surface": "ולאשר",
-      "gloss": "給在…的"
+      "gloss": "給那在……的"
     },
     {
       "surface": "ביתר",
-      "gloss": "雅提珥"
+      "gloss": "在雅提珥"
     }
   ],
-  "timestamp": "2026-10-16T06:17:36.012962620Z",
+  "timestamp": "2026-10-16T22:02:13.279509563Z",
   "model": "glm-5.3"
 }

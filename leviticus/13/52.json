@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ושרף…תשרף",
-      "rationale": "首尾以同一動詞「焚燒」呼應，希伯來文的司法判決式重複，中文以重複「焚燒」保留"
-    },
-    {
-      "kind": "crux",
-      "subject": "ממארת",
-      "rationale": "與 51 節同一罕用詞，「苦／侵蝕性的」痲瘋，此處同譯「惡性」以一詞到底"
-    }
-  ],
-  "translation": "他就要焚燒 ⟨את⟩ 那衣服，無論是經線或緯線，是羊毛的或麻布的，或是 ⟨את⟩ 任何有災病的皮子物件；因為這是惡性的痲瘋，要在火中焚燒。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "c3f3fb3cfe6bc46e48d8bee2923ff07dbc3bcd1ca224ae0cdb2e4a163eac9cbe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/13\/49-52.1792126973494.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他要用火焚燒 ⟨את⟩ 那衣服，或 ⟨את⟩ 那經線，或 ⟨את⟩ 那緯線，無論是羊毛的或是麻布的，或 ⟨את⟩ 一切皮做的器物，其中有災病的；因為那是頑惡的大痲瘋，要在火中焚燒。",
   "tokens": [
     {
       "surface": "ושרף",
-      "gloss": "就要焚燒"
+      "gloss": "要焚燒"
     },
     {
       "surface": "את",
@@ -43,16 +22,16 @@
     },
     {
       "surface": "או",
-      "gloss": "無論是"
+      "gloss": "或"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "經線"
+      "marks": "那經線"
     },
     {
       "surface": "השתי",
-      "gloss": "經線"
+      "gloss": "那經線"
     },
     {
       "surface": "או",
@@ -61,11 +40,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "緯線"
+      "marks": "那緯線"
     },
     {
       "surface": "הערב",
-      "gloss": "緯線"
+      "gloss": "那緯線"
     },
     {
       "surface": "בצמר",
@@ -81,36 +60,36 @@
     },
     {
       "surface": "או",
-      "gloss": "或是"
+      "gloss": "或"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "任何皮子物件"
+      "marks": "一切皮做的器物"
     },
     {
       "surface": "כל",
-      "gloss": "任何"
+      "gloss": "一切"
     },
     {
       "surface": "כלי",
-      "gloss": "物件"
+      "gloss": "器物"
     },
     {
       "surface": "העור",
-      "gloss": "皮子"
+      "gloss": "皮做的"
     },
     {
       "surface": "אשר",
-      "gloss": "凡"
+      "gloss": "其中有"
     },
     {
       "surface": "יהיה",
-      "gloss": "有"
+      "gloss": "在"
     },
     {
       "surface": "בו",
-      "gloss": "在其中"
+      "gloss": "其中"
     },
     {
       "surface": "הנגע",
@@ -122,15 +101,15 @@
     },
     {
       "surface": "צרעת",
-      "gloss": "痲瘋"
+      "gloss": "大痲瘋"
     },
     {
       "surface": "ממארת",
-      "gloss": "惡性的"
+      "gloss": "頑惡的"
     },
     {
       "surface": "הוא",
-      "gloss": "這是"
+      "gloss": "那是"
     },
     {
       "surface": "באש",
@@ -138,9 +117,9 @@
     },
     {
       "surface": "תשרף",
-      "gloss": "焚燒"
+      "gloss": "要焚燒"
     }
   ],
-  "timestamp": "2026-10-16T05:02:53.495295725Z",
+  "timestamp": "2026-10-16T22:49:10.030847824Z",
   "model": "glm-5.3"
 }

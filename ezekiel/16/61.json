@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "不是出於你的約",
-      "rationale": "מבריתך：『藉著你的約』（KJV）vs『因著你的約』（JPS）——蒙恢復不是因她原有之約的條款"
-    },
-    {
-      "kind": "substitution",
-      "subject": "比你大的、比你小的",
-      "rationale": "גדלות\/קטנות兼指年長年幼與城邦大小（撒瑪利亞與所多瑪）"
-    }
-  ],
-  "translation": "那時你必追想 ⟨את⟩ 你的道路，並在你接待 ⟨את⟩ 你的姊妹——那些比你大的和那些比你小的——時蒙羞；我必將她們賜給你作女兒，卻不是出於你的約。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "2060adbec9291fb9ef3c8b60eef53e2ffd9974608992951854dd0e54dd9517e6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/16\/61-63.1792138220331.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "那時你要追想 ⟨את⟩ 你的道路，並要抱愧，當你接待 ⟨את⟩ 你的姊妹們——那些比你大的和那些比你小的——我要把她們賜給你歸你為女兒，卻不是出於你的約。",
   "tokens": [
     {
       "surface": "וזכרת",
-      "gloss": "你必追想"
+      "gloss": "你要追想"
     },
     {
       "surface": "את",
@@ -43,24 +22,24 @@
     },
     {
       "surface": "ונכלמת",
-      "gloss": "蒙羞"
+      "gloss": "並要抱愧"
     },
     {
       "surface": "בקחתך",
-      "gloss": "在你接待時"
+      "gloss": "當你接待"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "你的姊妹"
+      "marks": "你的姊妹們"
     },
     {
       "surface": "אחותיך",
-      "gloss": "你的姊妹"
+      "gloss": "你的姊妹們"
     },
     {
       "surface": "הגדלות",
-      "gloss": "比你大的"
+      "gloss": "那些比你大的"
     },
     {
       "surface": "ממך",
@@ -72,7 +51,7 @@
     },
     {
       "surface": "הקטנות",
-      "gloss": "比你小的"
+      "gloss": "那些比你小的"
     },
     {
       "surface": "ממך",
@@ -80,12 +59,12 @@
     },
     {
       "surface": "ונתתי",
-      "gloss": "我必將……賜給"
+      "gloss": "我要把她們賜給"
     },
     {
       "surface": "אתהן",
       "gloss": "⟨את⟩她們",
-      "marks": "她們"
+      "marks": "她們（你的姊妹們）"
     },
     {
       "surface": "לך",
@@ -93,7 +72,7 @@
     },
     {
       "surface": "לבנות",
-      "gloss": "作女兒"
+      "gloss": "歸你為女兒"
     },
     {
       "surface": "ולא",
@@ -104,6 +83,6 @@
       "gloss": "出於你的約"
     }
   ],
-  "timestamp": "2026-10-16T08:10:20.331992660Z",
+  "timestamp": "2026-10-16T22:22:16.439997293Z",
   "model": "glm-5.3"
 }

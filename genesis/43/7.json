@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 43,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שאול שאל",
-      "rationale": "不定式絕對式重複「問了又問」，強調追問之切，中文以「確實問」補足。"
-    },
-    {
-      "kind": "idiom",
-      "subject": "על פי",
-      "rationale": "「按著…的口」即「照這些話的內容／一字一句」，字面直譯會誤導。"
-    },
-    {
-      "kind": "hapax",
-      "subject": "הידוע נדע",
-      "rationale": "「我們豈能確實知道」為反問句式，強調他們無從預見約瑟的要求。"
-    }
-  ],
-  "translation": "他們說：那人確實問到我們和我們的親屬，說：你們的父親還在嗎？你們有兄弟嗎？我們就照這些話一一告訴他；我們豈能知道他會說：把你們的兄弟帶下來呢？",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "692cfbd8a7d3d3b511c3aa0d14fa5db0379457ef893882cf05cdf9044a89595d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/43\/5-8.1792125551430.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們說：「那人詳細查問我們和我們的親屬，說：『你們的父親還在嗎？你們有兄弟嗎？』我們就照這些話的口吻告訴了他。我們豈能知道他會說：『把你們的兄弟帶下來』呢？」",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "שאול",
-      "gloss": "確實問"
+      "gloss": "查問"
     },
     {
       "surface": "שאל",
-      "gloss": "問"
+      "gloss": "詳細查問"
     },
     {
       "surface": "האיש",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "לנו",
-      "gloss": "到我們"
+      "gloss": "我們"
     },
     {
       "surface": "ולמולדתנו",
@@ -99,7 +73,7 @@
     },
     {
       "surface": "פי",
-      "gloss": "…的內容"
+      "gloss": "口吻"
     },
     {
       "surface": "הדברים",
@@ -111,15 +85,15 @@
     },
     {
       "surface": "הידוע",
-      "gloss": "豈能確實"
+      "gloss": "豈能知道"
     },
     {
       "surface": "נדע",
-      "gloss": "知道"
+      "gloss": "我們知道"
     },
     {
       "surface": "כי",
-      "gloss": "…嗎"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "יאמר",
@@ -139,6 +113,6 @@
       "gloss": "你們的兄弟"
     }
   ],
-  "timestamp": "2026-10-16T04:39:11.432158652Z",
+  "timestamp": "2026-10-16T22:31:39.936217342Z",
   "model": "glm-5.3"
 }

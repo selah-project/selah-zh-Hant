@@ -5,37 +5,11 @@
   "book": "nehemiah",
   "lang": "zh-Hant",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "的人",
-      "rationale": "希伯來文形容詞נאמנים作名詞述語，中文補「的人」以成句"
-    },
-    {
-      "kind": "substitution",
-      "subject": "孫子",
-      "rationale": "第二個בן字面仍是「兒子」，中文世系慣例譯作「孫子」"
-    },
-    {
-      "kind": "measurement",
-      "subject": "聖職人員名單",
-      "rationale": "本節列出管理倉庫者四人及其譜系，屬名冊性質"
-    }
-  ],
-  "translation": "我立示利米雅祭司、文士撒督，和利未人毗大雅管理倉庫；在他們手下的有哈難，他是撒刻的兒子、瑪他尼的孫子，因為他們被算為忠信〈的人〉，他們的職分是分給他們的弟兄。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "0ab7823c728c5fd118a8c466f18998579ff087bd60c4f5eba5c7274e0cc4bc60",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nehemiah\/13\/13-16.1792148275386.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我立了司庫管理庫房：祭司示利米雅、文士撒督，以及利未人中的毗大雅；在他們手下的還有哈南，他是撒刻的兒子、瑪他尼的孫子；因為他們被算為忠信，他們的職分是分給他們的弟兄。",
   "tokens": [
     {
       "surface": "ואוצרה",
-      "gloss": "我立…管理倉庫"
+      "gloss": "我立了司庫"
     },
     {
       "surface": "על",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "אוצרות",
-      "gloss": "倉庫"
+      "gloss": "庫房"
     },
     {
       "surface": "שלמיה",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "ופדיה",
-      "gloss": "毗大雅"
+      "gloss": "以及毗大雅"
     },
     {
       "surface": "מן",
-      "gloss": "從"
+      "gloss": "中的"
     },
     {
       "surface": "הלוים",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "חנן",
-      "gloss": "哈難"
+      "gloss": "哈南"
     },
     {
       "surface": "בן",
@@ -126,6 +100,6 @@
       "gloss": "他們的弟兄"
     }
   ],
-  "timestamp": "2026-10-16T10:57:55.386762338Z",
+  "timestamp": "2026-10-16T22:52:11.868361778Z",
   "model": "glm-5.3"
 }

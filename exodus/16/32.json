@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "העמר",
-      "rationale": "俄梅珥是乾量單位（約2.2公升），量器成為記念的憑據。"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתכם",
-      "rationale": "兩處 אתכם 既是受詞記號又是代詞，中文以「你們」承擔，記號功能難以兩全。"
-    }
-  ],
-  "translation": "摩西說：「雅威所吩咐的話乃是這樣：要盛滿一俄梅珥的嗎哪，留給你們的後代，為要使他們看見 ⟨את⟩ 我在曠野領你們出埃及地的時候所給你們吃的食物。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "dc64eb92fd66c561715791ee4c52d4ee26b946a0cf6c7b958822b20cca9f2675",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/exodus\/16\/29-32.1792126050739.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "摩西說：「這是雅威所吩咐的話：裝滿一俄梅珥〈的嗎哪〉留存下來，給你們的世代作守存的憑據，為要叫他們看見 ⟨את⟩ 我在曠野使你們吃的食物，就是我領你們出埃及地的時候所賜的。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "מלא",
-      "gloss": "盛滿"
+      "gloss": "裝滿"
     },
     {
       "surface": "העמר",
@@ -66,15 +45,15 @@
     },
     {
       "surface": "ממנו",
-      "gloss": "的嗎哪"
+      "gloss": "其中的嗎哪"
     },
     {
       "surface": "למשמרת",
-      "gloss": "留存"
+      "gloss": "作守存的憑據"
     },
     {
       "surface": "לדרתיכם",
-      "gloss": "給你們的後代"
+      "gloss": "給你們的世代"
     },
     {
       "surface": "למען",
@@ -82,12 +61,12 @@
     },
     {
       "surface": "יראו",
-      "gloss": "使他們看見"
+      "gloss": "叫他們看見"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "食物"
+      "marks": "食物（嗎哪）"
     },
     {
       "surface": "הלחם",
@@ -99,11 +78,11 @@
     },
     {
       "surface": "האכלתי",
-      "gloss": "給你們吃的"
+      "gloss": "我使你們吃"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ 你們"
+      "gloss": "⟨את⟩你們"
     },
     {
       "surface": "במדבר",
@@ -111,21 +90,21 @@
     },
     {
       "surface": "בהוציאי",
-      "gloss": "當我領……出"
+      "gloss": "在我領…出的時候"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ 你們"
+      "gloss": "⟨את⟩你們"
     },
     {
       "surface": "מארץ",
-      "gloss": "從……地"
+      "gloss": "出埃及地"
     },
     {
       "surface": "מצרים",
       "gloss": "埃及"
     }
   ],
-  "timestamp": "2026-10-16T04:47:30.741337336Z",
+  "timestamp": "2026-10-16T22:17:55.740842557Z",
   "model": "glm-5.3"
 }

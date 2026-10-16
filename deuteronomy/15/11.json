@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "פתח תפתח",
-      "rationale": "不定式絕對加未完成的疊用，加強語氣「總要張開」"
-    },
-    {
-      "kind": "crux",
-      "subject": "עניך／אבינך",
-      "rationale": "兩個「貧窮」同義詞並列（困苦人、窮乏人），各譯本次序不一；照原文次序保留"
-    }
-  ],
-  "translation": "因為窮乏人不會從這地上斷絕，所以我吩咐你說：總要向你弟兄、向你困苦的人和窮乏人張開你的手，在你的地上。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "fbb08bcabab7bc6f9dae348b1c49d1977f430cc1d972dc1d15d1c7f8e82a9bc6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/15\/9-12.1792128819522.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "因為困苦人不會從這地中止息，所以我吩咐你，說：你要向你的弟兄、向你的貧窮人和你地上的困苦人大大張開 ⟨את⟩ 你的手。",
   "tokens": [
     {
       "surface": "כי",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "יחדל",
-      "gloss": "會斷絕"
+      "gloss": "中止息"
     },
     {
       "surface": "אביון",
-      "gloss": "窮乏人"
+      "gloss": "困苦人"
     },
     {
       "surface": "מקרב",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "על",
-      "gloss": "因"
+      "gloss": "因此（על כן 之上）"
     },
     {
       "surface": "כן",
@@ -74,11 +53,11 @@
     },
     {
       "surface": "פתח",
-      "gloss": "總要張開"
+      "gloss": "張開（不定式絕對）"
     },
     {
       "surface": "תפתח",
-      "gloss": "張開"
+      "gloss": "你要張開"
     },
     {
       "surface": "את",
@@ -91,21 +70,21 @@
     },
     {
       "surface": "לאחיך",
-      "gloss": "向你弟兄"
+      "gloss": "向你的弟兄"
     },
     {
       "surface": "לעניך",
-      "gloss": "向你困苦的人"
+      "gloss": "向你的貧窮人"
     },
     {
       "surface": "ולאבינך",
-      "gloss": "和向你窮乏人"
+      "gloss": "和你的困苦人"
     },
     {
       "surface": "בארצך",
       "gloss": "在你的地上"
     }
   ],
-  "timestamp": "2026-10-16T05:33:39.524131992Z",
+  "timestamp": "2026-10-16T22:13:36.769254534Z",
   "model": "glm-5.3"
 }

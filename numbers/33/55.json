@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "צנינם",
-      "rationale": "「荊棘」一詞僅出現於此處（塔納赫中唯一一次）"
-    },
-    {
-      "kind": "idiom",
-      "subject": "眼中的刺、肋旁的荊棘",
-      "rationale": "希伯來慣用語，指持續的攪擾與痛苦，中文保留其意象直譯"
-    },
-    {
-      "kind": "you",
-      "subject": "以色列人",
-      "rationale": "摩西對以色列全會眾的警告性直接勸誡"
-    }
-  ],
-  "translation": "你們若不從面前趕出 ⟨את⟩ 那地的居民，那麼你們讓他們剩下的人，必成為你們眼中的刺、你們肋旁的荊棘，他們必在那地擾害你們，就是你們所住的那地。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "271d51b1c5efc2127a38b76c7f0b3edbb651f21fa81fb0fa4bab7239afca6321",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/33\/53-56.1792128436915.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "倘若你們不把那地的居民從你們面前趕出去，那麼你們讓他們存留的，就必成為你們眼中的刺、你們肋旁的荊棘，在你們所居住的那地上擾害你們。",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "若"
+      "gloss": "倘若"
     },
     {
       "surface": "לא",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "תורישו",
-      "gloss": "你們趕出"
+      "gloss": "趕出去"
     },
     {
       "surface": "את",
@@ -56,7 +30,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "那地的"
+      "gloss": "那地"
     },
     {
       "surface": "מפניכם",
@@ -64,19 +38,19 @@
     },
     {
       "surface": "והיה",
-      "gloss": "那麼必成為"
+      "gloss": "就必成為"
     },
     {
       "surface": "אשר",
-      "gloss": "那（些）"
+      "gloss": "所"
     },
     {
       "surface": "תותירו",
-      "gloss": "你們讓剩下"
+      "gloss": "你們讓存留的"
     },
     {
       "surface": "מהם",
-      "gloss": "從他們"
+      "gloss": "他們之中"
     },
     {
       "surface": "לשכים",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "ולצנינם",
-      "gloss": "和荊棘"
+      "gloss": "並荊棘"
     },
     {
       "surface": "בצדיכם",
@@ -96,11 +70,12 @@
     },
     {
       "surface": "וצררו",
-      "gloss": "他們必擾害"
+      "gloss": "擾害"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩ 你們"
+      "gloss": "⟨את⟩你們",
+      "marks": "你們"
     },
     {
       "surface": "על",
@@ -108,11 +83,11 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "那地上"
+      "gloss": "那地"
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "之上"
     },
     {
       "surface": "אתם",
@@ -120,13 +95,13 @@
     },
     {
       "surface": "ישבים",
-      "gloss": "所住的"
+      "gloss": "居住"
     },
     {
       "surface": "בה",
       "gloss": "在其中"
     }
   ],
-  "timestamp": "2026-10-16T05:27:16.917100480Z",
+  "timestamp": "2026-10-16T22:55:53.489249123Z",
   "model": "glm-5.3"
 }

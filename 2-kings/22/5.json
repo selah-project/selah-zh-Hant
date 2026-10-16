@@ -5,36 +5,15 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "銀子",
-      "rationale": "原文此節僅用代詞 אתו「它」，中文需補出所交之物"
-    },
-    {
-      "kind": "substitution",
-      "subject": "破損之處",
-      "rationale": "בדק 本義是建築物的缺口、裂縫，此處指殿宇需要修補之處"
-    }
-  ],
-  "translation": "交在那些奉派在雅威殿中監督工程之人的手裡，他們再把銀子交給在雅威殿中辦工程的人，用來修補殿的破損之處。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a7b31c510590939885653d7304a6775ab28d3297de1941ad67cc96b6ac108acf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/22\/5-8.1792134264247.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他們要把銀子交在受派管理雅威殿中工程之督工的手裡，他們又要把 ⟨את⟩ 銀子交給在雅威殿中辦理工程的人，用來修固殿宇的破損之處。",
   "tokens": [
     {
       "surface": "ויתנה",
-      "gloss": "交"
+      "gloss": "他們要交"
     },
     {
       "surface": "על",
-      "gloss": "在……之上"
+      "gloss": "在"
     },
     {
       "surface": "יד",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "עשי",
-      "gloss": "辦工程的人"
+      "gloss": "辦理……的人"
     },
     {
       "surface": "המלאכה",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "המפקדים",
-      "gloss": "奉派監督的"
+      "gloss": "受派督管的"
     },
     {
       "surface": "בבית",
@@ -62,16 +41,16 @@
     },
     {
       "surface": "ויתנו",
-      "gloss": "他們再交"
+      "gloss": "他們又要交"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "銀子（給辦工程的人）"
+      "marks": "銀子（交給辦理工程的人）"
     },
     {
       "surface": "לעשי",
-      "gloss": "給辦工程的人"
+      "gloss": "給辦理的人"
     },
     {
       "surface": "המלאכה",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "לחזק",
-      "gloss": "用來修補"
+      "gloss": "用來修固"
     },
     {
       "surface": "בדק",
@@ -99,9 +78,9 @@
     },
     {
       "surface": "הבית",
-      "gloss": "殿"
+      "gloss": "殿宇"
     }
   ],
-  "timestamp": "2026-10-16T07:04:24.248337649Z",
+  "timestamp": "2026-10-16T22:06:38.779869448Z",
   "model": "glm-5.3"
 }

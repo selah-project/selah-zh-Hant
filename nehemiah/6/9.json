@@ -5,28 +5,7 @@
   "book": "nehemiah",
   "lang": "zh-Hant",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨你⟩",
-      "rationale": "חזק 是命令式，受話者未寫明；欽定本添「O God」，希伯來文無此字"
-    },
-    {
-      "kind": "elision",
-      "subject": "אותנו",
-      "gloss": "原文受詞記號家族成員，以 ⟨אותנו⟩ 標示"
-    }
-  ],
-  "translation": "因為他們全都使我們懼怕，說：「他們的手必從工程鬆懈，工程就不得完成。」現在，⟨你⟩堅固⟨את⟩我的手。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "f984801729d723dbf0f9f5887ca49dacd26e3a470c32430727e5faa8441e9c6d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/nehemiah\/6\/9-12.1792148059813.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "因為他們全都在恐嚇我們，說：「他們的手必從那工作上鬆弛下來，工作就不能完成。」現在求你使我的手堅強。 אוֹתָ֨נוּ֙ חַזֵּ֥ק",
   "tokens": [
     {
       "surface": "כי",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "מיראים",
-      "gloss": "使懼怕"
+      "gloss": "在恐嚇"
     },
     {
       "surface": "אותנו",
-      "gloss": "⟨את⟩ ⟨אותנו⟩",
+      "gloss": "⟨את⟩",
       "marks": "我們"
     },
     {
@@ -51,7 +30,7 @@
     },
     {
       "surface": "ירפו",
-      "gloss": "必鬆懈"
+      "gloss": "必鬆弛下來"
     },
     {
       "surface": "ידיהם",
@@ -63,15 +42,15 @@
     },
     {
       "surface": "המלאכה",
-      "gloss": "工程"
+      "gloss": "那工作"
     },
     {
       "surface": "ולא",
-      "gloss": "而不"
+      "gloss": "而…不"
     },
     {
       "surface": "תעשה",
-      "gloss": "得完成"
+      "gloss": "能完成"
     },
     {
       "surface": "ועתה",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "חזק",
-      "gloss": "堅固"
+      "gloss": "使…堅強"
     },
     {
       "surface": "את",
@@ -91,6 +70,6 @@
       "gloss": "我的手"
     }
   ],
-  "timestamp": "2026-10-16T10:54:19.814300307Z",
+  "timestamp": "2026-10-16T22:52:51.745156103Z",
   "model": "glm-5.3"
 }

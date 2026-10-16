@@ -5,27 +5,11 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "受詞標號 אתו 以 ⟨אתו⟩ 標記保留，指向西緬"
-    }
-  ],
-  "translation": "他從他們那裡轉開，哭了；然後回到他們那裡，對他們說話，就從他們中間拿走 ⟨את⟩ 西緬，在他們眼前把他捆綁起來。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "edb09b9d8fb3fdfa3fd6a3ca91b8cf63e3791071989974a20b12d9f736c19c66",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/42\/21-24.1792125493598.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他從他們那裡轉開，哭了；然後回到他們那裡，對他們說話，就從他們中間取了 ⟨את⟩ 西緬，在他們眼前把他捆綁起來。",
   "tokens": [
     {
       "surface": "ויסב",
-      "gloss": "他轉開"
+      "gloss": "轉開"
     },
     {
       "surface": "מעליהם",
@@ -41,7 +25,7 @@
     },
     {
       "surface": "אלהם",
-      "gloss": "對他們"
+      "gloss": "他們那裡"
     },
     {
       "surface": "וידבר",
@@ -53,11 +37,11 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "拿走"
+      "gloss": "取了"
     },
     {
       "surface": "מאתם",
-      "gloss": "⟨את⟩ 從他們中間"
+      "gloss": "從他們中間 ⟨את⟩"
     },
     {
       "surface": "את",
@@ -75,13 +59,13 @@
     {
       "surface": "אתו",
       "gloss": "⟨אתו⟩",
-      "marks": "西緬"
+      "marks": "他（西緬）"
     },
     {
       "surface": "לעיניהם",
       "gloss": "在他們眼前"
     }
   ],
-  "timestamp": "2026-10-16T04:38:13.599978492Z",
+  "timestamp": "2026-10-16T22:30:37.475155235Z",
   "model": "glm-5.3"
 }

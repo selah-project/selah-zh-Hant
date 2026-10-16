@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "嗎",
-      "rationale": "中文疑問句需要語氣詞，希伯來文以語序與語境表疑問。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שלם בואך",
-      "rationale": "「平安是你的來到嗎」——閃語見面問安慣用語，直譯保留其結構。"
-    }
-  ],
-  "translation": "撒母耳就照雅威所說的話行了，來到伯利恆。城裡的長老戰戰兢兢地迎接他，說：「你是平安來的嗎？」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "6cff96d454d016e01c77892dd5e25096fa8ea6673eb0cbbf5617ef551412177e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/16\/1-4.1792131151048.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "撒母耳就行了雅威所說的 ⟨את⟩ 那話，來到伯利恆。城裡的長老戰戰兢兢地迎接他，說：「你平安地來嗎？」",
   "tokens": [
     {
       "surface": "ויעש",
@@ -39,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "雅威所說的話"
+      "marks": "那話（אשר דבר יהוה）"
     },
     {
       "surface": "אשר",
-      "gloss": "所……的"
+      "gloss": "所"
     },
     {
       "surface": "דבר",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "伯（首字）"
+      "gloss": "伯"
     },
     {
       "surface": "לחם",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "ויחרדו",
-      "gloss": "戰戰兢兢"
+      "gloss": "戰戰兢兢地"
     },
     {
       "surface": "זקני",
@@ -86,7 +65,7 @@
       "gloss": "說"
     },
     {
-      "surface": "שלם",
+      "surface": "שלום",
       "gloss": "平安"
     },
     {
@@ -94,6 +73,6 @@
       "gloss": "你的來到"
     }
   ],
-  "timestamp": "2026-10-16T06:12:31.050271510Z",
+  "timestamp": "2026-10-16T22:00:41.043602091Z",
   "model": "glm-5.3"
 }

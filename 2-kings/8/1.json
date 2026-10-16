@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "饑荒臨到",
-      "rationale": "קרא לרעב字面是「呼叫饑荒」，雅威召喚饑荒如召喚僕人；中譯取「宣告……臨到」以存其意"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "וגורי\/תגורי",
-      "rationale": "同詞根גור重複：寄居——你能寄居，中文以重複「寄居」保留"
-    },
-    {
-      "kind": "measurement",
-      "subject": "七年",
-      "rationale": "饑荒的期限被明確定為七年"
-    }
-  ],
-  "translation": "以利沙曾對那婦人——他曾使她兒子復活——說：「起來，你和你的家都走吧，去你能寄居的地方寄居，因為雅威已宣告饑荒臨到，這饑荒也必臨到這地七年。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "168f7387fedcea57ec622e000f8dc7b7097a97b4019af522a33ee47e5b8443f9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/8\/1-4.1792133776299.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "以利沙曾對那婦人——他曾使 ⟨את⟩ 她兒子活過來——說：「起來，你和你的全家都去，寄居在你可寄居的地方，因為雅威已召饑荒來，饑荒也必臨到這地七年。」",
   "tokens": [
     {
       "surface": "ואלישע",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "曾對……說"
+      "gloss": "曾……說"
     },
     {
       "surface": "אל",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "她"
+      "gloss": "——她"
     },
     {
       "surface": "החיה",
-      "gloss": "使……復活"
+      "gloss": "使……活過來"
     },
     {
       "surface": "את",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "בנה",
-      "gloss": "兒子"
+      "gloss": "她兒子"
     },
     {
       "surface": "לאמר",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "ולכי",
-      "gloss": "走吧"
+      "gloss": "去"
     },
     {
       "surface": "אתי",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "וביתך",
-      "gloss": "和你的家"
+      "gloss": "和你的全家"
     },
     {
       "surface": "וגורי",
@@ -92,11 +66,11 @@
     },
     {
       "surface": "באשר",
-      "gloss": "在……之處"
+      "gloss": "在……的地方"
     },
     {
       "surface": "תגורי",
-      "gloss": "你能寄居"
+      "gloss": "你可寄居"
     },
     {
       "surface": "כי",
@@ -104,7 +78,7 @@
     },
     {
       "surface": "קרא",
-      "gloss": "已宣告"
+      "gloss": "已召"
     },
     {
       "surface": "יהוה",
@@ -112,7 +86,7 @@
     },
     {
       "surface": "לרעב",
-      "gloss": "臨到饑荒"
+      "gloss": "饑荒來"
     },
     {
       "surface": "וגם",
@@ -120,7 +94,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "臨到"
+      "gloss": "必臨到"
     },
     {
       "surface": "אל",
@@ -139,6 +113,6 @@
       "gloss": "年"
     }
   ],
-  "timestamp": "2026-10-16T06:56:16.300525404Z",
+  "timestamp": "2026-10-16T22:08:27.652496650Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "zh-Hant",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "נסה",
-      "rationale": "「他不曾試過」——試的對象是刀還是全套軍裝？各譯本有異；希伯來文單數動詞無受詞"
-    },
-    {
-      "kind": "you",
-      "subject": "大衛對掃羅說",
-      "rationale": "大衛直接向掃羅說話"
-    }
-  ],
-  "translation": "大衛把刀佩在戰袍外面，試著行走，因為他不曾試過。大衛對掃羅說：「我不能穿這些行走，因為我不曾試過。」大衛就把它們從身上脫了下來。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "91409f6713b3f633e1cdce9609014cda832ee4d807e53961cee60bc9545922a6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/1-samuel\/17\/37-40.1792131232056.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "大衛把 ⟨את⟩ 他的刀束在衣服之上，嘗試行走，因為他沒有試過。大衛對掃羅說：「我不能穿著這些行走，因為我沒有試過牠們。」大衛就把牠們從身上脫下來。",
   "tokens": [
     {
       "surface": "ויחגר",
-      "gloss": "佩上"
+      "gloss": "束上"
     },
     {
       "surface": "דוד",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "למדיו",
-      "gloss": "他的戰袍"
+      "gloss": "他的衣服"
     },
     {
       "surface": "ויאל",
-      "gloss": "試著"
+      "gloss": "嘗試"
     },
     {
       "surface": "ללכת",
@@ -95,7 +74,7 @@
     },
     {
       "surface": "אוכל",
-      "gloss": "能"
+      "gloss": "能夠"
     },
     {
       "surface": "ללכת",
@@ -103,7 +82,7 @@
     },
     {
       "surface": "באלה",
-      "gloss": "穿這些"
+      "gloss": "穿著這些"
     },
     {
       "surface": "כי",
@@ -119,7 +98,7 @@
     },
     {
       "surface": "ויסרם",
-      "gloss": "把它們脫下"
+      "gloss": "把牠們脫下"
     },
     {
       "surface": "דוד",
@@ -130,6 +109,6 @@
       "gloss": "從他身上"
     }
   ],
-  "timestamp": "2026-10-16T06:13:52.057913859Z",
+  "timestamp": "2026-10-16T22:00:34.262092925Z",
   "model": "glm-5.3"
 }

@@ -5,44 +5,23 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "僕婢",
-      "rationale": "中文需補出賣買的對象，原文僅說「從他們買」"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "תושבים\/גרים",
-      "rationale": "定居者與寄居者並列，兩個身分詞交錯出現於45–47節"
-    }
-  ],
-  "translation": "也要從寄居在你們中間的外人〈就是〉定居者的子孫買僕婢，從他們在你們地上所生的家族〈中買〉；他們要歸你們作產業。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "28a7ffe09a56485bef6b6209ef777444e3baaf7d109136ccd0b572894270db24",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/25\/45-48.1792142387309.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "此外，也要從寄居在你們中間的寄居者之子、從他們在你們境內所生的家族，買⟨他們⟩得為產業；他們要歸你們作產業。",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "也要"
+      "gloss": "此外，也要"
     },
     {
       "surface": "מבני",
-      "gloss": "從……的子孫"
+      "gloss": "從……之子"
     },
     {
       "surface": "התושבים",
-      "gloss": "定居者"
+      "gloss": "寄居者"
     },
     {
       "surface": "הגרים",
-      "gloss": "寄居的"
+      "gloss": "寄居在"
     },
     {
       "surface": "עמכם",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "תקנו",
-      "gloss": "買"
+      "gloss": "買得"
     },
     {
       "surface": "וממשפחתם",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "עמכם",
-      "gloss": "與你們"
+      "gloss": "與你們同在的"
     },
     {
       "surface": "אשר",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "בארצכם",
-      "gloss": "在你們地上"
+      "gloss": "在你們的地"
     },
     {
       "surface": "והיו",
@@ -93,6 +72,6 @@
       "gloss": "作產業"
     }
   ],
-  "timestamp": "2026-10-16T09:19:47.310626890Z",
+  "timestamp": "2026-10-16T22:50:18.877518708Z",
   "model": "glm-5.3"
 }

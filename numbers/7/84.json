@@ -5,36 +5,15 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "十二",
-      "rationale": "十二支派首領的器皿總計：銀盤、銀碗、金勺各十二"
-    },
-    {
-      "kind": "elision",
-      "subject": "מאת",
-      "gloss-rationale": "מאת 與 אתו 相鄰，前者為介詞「從」，後者為受詞記號⟨את⟩"
-    }
-  ],
-  "translation": "這是祭壇奉獻之日、就是受膏之時、以色列眾首領所獻的：銀盤十二個、銀碗十二個、金勺十二個。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "6d14fdc16a5dee2df0b4a43c9715d077bfbced8322bcc9ba8c687a688def0d81",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/7\/81-84.1792127660666.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "這是祭壇奉獻⟨את⟩之禮，在它受膏的日子，出自以色列的眾首領：銀盤十二、銀碗十二、金碟十二。",
   "tokens": [
     {
       "surface": "זאת",
-      "gloss": "這"
+      "gloss": "這是"
     },
     {
       "surface": "חנכת",
-      "gloss": "奉獻"
+      "gloss": "奉獻之禮"
     },
     {
       "surface": "המזבח",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "ביום",
-      "gloss": "之日"
+      "gloss": "在…的日子"
     },
     {
       "surface": "המשח",
@@ -51,11 +30,11 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "祭壇"
+      "marks": "它（祭壇）"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ 從"
+      "gloss": "⟨את⟩ 出自"
     },
     {
       "surface": "נשיאי",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "קערת",
-      "gloss": "盤"
+      "gloss": "銀盤"
     },
     {
       "surface": "כסף",
@@ -75,15 +54,15 @@
     },
     {
       "surface": "שתים",
-      "gloss": "十二"
+      "gloss": "十二（二）"
     },
     {
       "surface": "עשרה",
-      "gloss": "個"
+      "gloss": "（十）"
     },
     {
       "surface": "מזרקי",
-      "gloss": "碗"
+      "gloss": "銀碗"
     },
     {
       "surface": "כסף",
@@ -91,15 +70,15 @@
     },
     {
       "surface": "שנים",
-      "gloss": "十二"
+      "gloss": "十二（二）"
     },
     {
       "surface": "עשר",
-      "gloss": "個"
+      "gloss": "（十）"
     },
     {
       "surface": "כפות",
-      "gloss": "勺"
+      "gloss": "金碟"
     },
     {
       "surface": "זהב",
@@ -107,13 +86,13 @@
     },
     {
       "surface": "שתים",
-      "gloss": "十二"
+      "gloss": "十二（二）"
     },
     {
       "surface": "עשרה",
-      "gloss": "個"
+      "gloss": "（十）"
     }
   ],
-  "timestamp": "2026-10-16T05:14:20.667344050Z",
+  "timestamp": "2026-10-16T22:56:23.362455949Z",
   "model": "glm-5.3"
 }

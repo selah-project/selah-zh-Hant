@@ -5,37 +5,16 @@
   "book": "ezekiel",
   "lang": "zh-Hant",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שפטים",
-      "rationale": "『審判』與下一節『我必審判』（אשפוט）同根，懲罰即判决的執行。"
-    },
-    {
-      "kind": "you",
-      "subject": "耶路撒冷的居民",
-      "rationale": "全節以第二人複數直斥城中之民。"
-    }
-  ],
-  "translation": "我必將你們從其中帶出來，把你們交在陌生人手中，我必在你們中間施行審判⟨את⟩。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "dca516053340c76d833f5c105edfd8f7e88e362be0e11a1e029b1cd3b2c02949",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/ezekiel\/11\/9-12.1792138042881.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我必將 ⟨את⟩ 你們從其中帶出，將 ⟨את⟩ 你們交在陌生人手中，且必在你們中間施行審判。",
   "tokens": [
     {
       "surface": "והוצאתי",
-      "gloss": "我必帶出來"
+      "gloss": "我必帶出"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "你們"
+      "marks": "你們（從其中帶出的對象）"
     },
     {
       "surface": "מתוכה",
@@ -43,12 +22,12 @@
     },
     {
       "surface": "ונתתי",
-      "gloss": "我必交"
+      "gloss": "我必交在"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "你們"
+      "marks": "你們（交在陌生人手中的對象）"
     },
     {
       "surface": "ביד",
@@ -71,6 +50,6 @@
       "gloss": "審判"
     }
   ],
-  "timestamp": "2026-10-16T08:07:22.881633404Z",
+  "timestamp": "2026-10-16T22:22:01.613262411Z",
   "model": "glm-5.3"
 }

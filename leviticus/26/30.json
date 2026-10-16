@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "性命",
-      "rationale": "נפש是氣息、生命之力，非希臘式「靈魂」；此處以「性命」存其形"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "פגריכם\/פגרי גלוליכם",
-      "rationale": "同一「屍首」一詞疊用於人與偶像——拜死者與死者同臥的反諷，中文重複「屍首」以保留"
-    },
-    {
-      "kind": "crux",
-      "subject": "חמניכם",
-      "rationale": "חמן是日頭柱像（敬日之石柱），和合作「日像」，另有譯本作香壇"
-    }
-  ],
-  "translation": "我要毀滅 ⟨את⟩ 你們的邱壇，我要砍除 ⟨את⟩ 你們的日像，我要把你們的屍首扔在你們偶像的屍首上，我的性命必厭棄 ⟨אתכם⟩ 你們。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "43007b8eb34bf413626886be0e0ccdee843167019b9fcb501a9e8b0bd46ccdc7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/26\/29-32.1792127397581.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "我要毀滅⟨את⟩你們的邱壇，我要砍除⟨את⟩你們的日像柱，我要把你們的屍首放在你們偶像的屍首上；我〈的〉性命必厭棄⟨אתכם⟩你們。",
   "tokens": [
     {
       "surface": "והשמדתי",
@@ -53,15 +27,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "你們的日像"
+      "marks": "你們的日像柱"
     },
     {
       "surface": "חמניכם",
-      "gloss": "你們的日像"
+      "gloss": "你們的日像柱"
     },
     {
       "surface": "ונתתי",
-      "gloss": "我要把……扔在"
+      "gloss": "我要放"
     },
     {
       "surface": "את",
@@ -74,15 +48,15 @@
     },
     {
       "surface": "על",
-      "gloss": "在……上"
+      "gloss": "在…上"
     },
     {
       "surface": "פגרי",
-      "gloss": "……的屍首"
+      "gloss": "…的屍首"
     },
     {
       "surface": "גלוליכם",
-      "gloss": "你們偶像的"
+      "gloss": "你們的偶像"
     },
     {
       "surface": "וגעלה",
@@ -98,6 +72,6 @@
       "marks": "你們"
     }
   ],
-  "timestamp": "2026-10-16T05:09:57.582011727Z",
+  "timestamp": "2026-10-16T22:50:19.857732827Z",
   "model": "glm-5.3"
 }

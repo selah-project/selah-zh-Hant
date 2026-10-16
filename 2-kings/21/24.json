@@ -5,23 +5,7 @@
   "book": "2-kings",
   "lang": "zh-Hant",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "עם הארץ",
-      "rationale": "「那地的民」在本節重複兩次，強調平民處決叛黨並另立新王的行動"
-    }
-  ],
-  "translation": "那地的民擊殺了⟨את⟩一切陰謀反叛亞們王的人；那地的民立他兒子約西亞接續他作王。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "24d7565cf64b5d2e2109029b9d60ef795493d6ecb3391cff7668484714e89971",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-kings\/21\/21-24.1792134217788.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "那地的民擊殺了 ⟨את⟩ 一切背叛亞們王的人；那地的民立 ⟨את⟩ 他兒子約西亞接續他作王。",
   "tokens": [
     {
       "surface": "ויך",
@@ -29,16 +13,16 @@
     },
     {
       "surface": "עם",
-      "gloss": "…之民"
+      "gloss": "民"
     },
     {
       "surface": "הארץ",
-      "gloss": "那地"
+      "gloss": "那地的"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "一切陰謀反叛的人"
+      "marks": "一切背叛亞們王的人"
     },
     {
       "surface": "כל",
@@ -46,11 +30,11 @@
     },
     {
       "surface": "הקשרים",
-      "gloss": "陰謀反叛的人"
+      "gloss": "背叛的人"
     },
     {
       "surface": "על",
-      "gloss": "反"
+      "gloss": "背叛"
     },
     {
       "surface": "המלך",
@@ -62,15 +46,15 @@
     },
     {
       "surface": "וימליכו",
-      "gloss": "立…作王"
+      "gloss": "立……作王"
     },
     {
       "surface": "עם",
-      "gloss": "…之民"
+      "gloss": "民"
     },
     {
       "surface": "הארץ",
-      "gloss": "那地"
+      "gloss": "那地的"
     },
     {
       "surface": "את",
@@ -90,6 +74,6 @@
       "gloss": "接續他"
     }
   ],
-  "timestamp": "2026-10-16T07:03:37.789544201Z",
+  "timestamp": "2026-10-16T22:06:44.981877240Z",
   "model": "glm-5.3"
 }

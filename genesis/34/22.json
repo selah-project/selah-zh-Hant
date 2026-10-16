@@ -5,23 +5,7 @@
   "book": "genesis",
   "lang": "zh-Hant",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אתנו",
-      "rationale": "此處 את 為介詞「與」，非受詞記號，譯作「與我們」並依規保留 ⟨את⟩ 標記"
-    }
-  ],
-  "translation": "惟有在這件事上，那些人才肯應允我們與我們同住、成為一族人：我們中間所有的男丁都受割禮，像他們那樣受了割禮。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "23860be52fcba231d83b894d1860d109c6890593c93c0c1549e60c6c94b6adef",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/genesis\/34\/21-24.1792125343439.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "惟有在這個條件下，那些人才肯應允我們與我們同住，成為一個民族：我們中間所有的男性都受割禮，像他們一樣受了割禮。",
   "tokens": [
     {
       "surface": "אך",
@@ -29,11 +13,11 @@
     },
     {
       "surface": "בזאת",
-      "gloss": "在這件事上"
+      "gloss": "在這個條件下"
     },
     {
       "surface": "יאתו",
-      "gloss": "才肯應允"
+      "gloss": "應允"
     },
     {
       "surface": "לנו",
@@ -45,11 +29,12 @@
     },
     {
       "surface": "לשבת",
-      "gloss": "與…同住"
+      "gloss": "同住"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩我們"
+      "gloss": "⟨את⟩我們",
+      "marks": "我們"
     },
     {
       "surface": "להיות",
@@ -57,7 +42,7 @@
     },
     {
       "surface": "לעם",
-      "gloss": "一族人"
+      "gloss": "一個民族"
     },
     {
       "surface": "אחד",
@@ -77,11 +62,11 @@
     },
     {
       "surface": "זכר",
-      "gloss": "男丁"
+      "gloss": "男性"
     },
     {
       "surface": "כאשר",
-      "gloss": "像"
+      "gloss": "像……一樣"
     },
     {
       "surface": "הם",
@@ -92,6 +77,6 @@
       "gloss": "受了割禮"
     }
   ],
-  "timestamp": "2026-10-16T04:35:43.440954712Z",
+  "timestamp": "2026-10-16T22:30:04.395762241Z",
   "model": "glm-5.3"
 }

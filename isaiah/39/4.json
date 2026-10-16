@@ -5,36 +5,15 @@
   "book": "isaiah",
   "lang": "zh-Hant",
   "chapter": 39,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "以賽亞",
-      "rationale": "原文只作「他說」，中文補出說話者以避免歧義"
-    },
-    {
-      "kind": "you",
-      "subject": "希西家",
-      "rationale": "以賽亞繼續直接質問，追問使者所見"
-    }
-  ],
-  "translation": "以賽亞說：「他們在你家中看見了甚麼？」希西家說：「凡我家中所有的，他們都看見了；在我的寶庫中，沒有一樣東西我沒有給他們看的。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "92cf5a8618657adb8e6650f5fc5d2d46d3593d873834521b4e7e0bd18ae2b604",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/isaiah\/39\/1-4.1792135365021.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他說：「他們在你家中看見了什麼？」希西家說：「他們看見了 ⟨את⟩ 我家中的一切；在我的寶庫中，沒有一樣東西是我沒有給他們看的。」",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "說"
+      "gloss": "他說"
     },
     {
       "surface": "מה",
-      "gloss": "甚麼"
+      "gloss": "什麼"
     },
     {
       "surface": "ראו",
@@ -55,27 +34,27 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "凡我家中所有的"
+      "marks": "我家中的一切"
     },
     {
       "surface": "כל",
-      "gloss": "凡……一切"
+      "gloss": "一切"
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "בביתי",
-      "gloss": "在我的家中"
+      "gloss": "在我家中"
     },
     {
       "surface": "ראו",
-      "gloss": "他們都看見了"
+      "gloss": "看見了"
     },
     {
       "surface": "לא",
-      "gloss": "不"
+      "gloss": "沒有"
     },
     {
       "surface": "היה",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "所"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "לא",
@@ -95,13 +74,13 @@
     },
     {
       "surface": "הראיתים",
-      "gloss": "我給他們看"
+      "gloss": "給他們看"
     },
     {
       "surface": "באוצרתי",
       "gloss": "在我的寶庫中"
     }
   ],
-  "timestamp": "2026-10-16T07:22:45.023203680Z",
+  "timestamp": "2026-10-16T22:34:38.979663669Z",
   "model": "glm-5.3"
 }

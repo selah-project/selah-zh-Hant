@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מוסבת שם",
-      "rationale ": "「名字被改換的」：附屬片語修飾巴力‧米翁，各譯本或作插入語、或作定語"
-    },
-    {
-      "kind": "substitution",
-      "subject": "בשמת",
-      "rationale": "原文僅「以名字」，譯作「用別的名字」以符合語境；ויקראו 未完成式譯為過去敘述"
-    }
-  ],
-  "translation": "以及 ⟨את⟩ 尼波、⟨את⟩ 巴力‧米翁（名字已改換的）和 ⟨את⟩ 西比瑪；他們給所建造的城另起了新名字。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "421c52d2ef615303ba2de46b9dce7ccc5970458a96aacbf73113a873f7dcaf2e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/32\/37-40.1792128300432.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "以及 ⟨את⟩ 尼波、⟨את⟩ 巴力‧免（名字已被更改）以及 ⟨את⟩ 西比瑪；他們用名字稱呼 ⟨את⟩ 他們所建造之各城的名字。",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "以及 ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "尼波"
     },
     {
@@ -40,7 +19,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "巴力‧米翁"
+      "marks": "巴力‧免"
     },
     {
       "surface": "בעל",
@@ -48,11 +27,11 @@
     },
     {
       "surface": "מעון",
-      "gloss": "米翁"
+      "gloss": "免"
     },
     {
       "surface": "מוסבת",
-      "gloss": "被改換的"
+      "gloss": "已被更改"
     },
     {
       "surface": "שם",
@@ -60,7 +39,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "和 ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "西比瑪"
     },
     {
@@ -73,7 +52,7 @@
     },
     {
       "surface": "בשמת",
-      "gloss": "用別的名字"
+      "gloss": "用名字"
     },
     {
       "surface": "את",
@@ -86,17 +65,17 @@
     },
     {
       "surface": "הערים",
-      "gloss": "那些城"
+      "gloss": "各城"
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "所"
     },
     {
       "surface": "בנו",
-      "gloss": "他們所建造的"
+      "gloss": "他們建造的"
     }
   ],
-  "timestamp": "2026-10-16T05:25:00.433202210Z",
+  "timestamp": "2026-10-16T22:55:34.149322173Z",
   "model": "glm-5.3"
 }

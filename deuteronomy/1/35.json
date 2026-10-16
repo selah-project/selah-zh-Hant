@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "zh-Hant",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אם יראה",
-      "rationale": "起誓的條件式否定：「若有看見的」（絕無一人）；諸譯本多以「必無一人看見」意譯"
-    },
-    {
-      "kind": "substitution",
-      "subject": "美地",
-      "rationale": "הטובה 直譯「好的／美好的」，此處按上下文作「美地」"
-    }
-  ],
-  "translation": "這些人中間，連一個人也不得看見那美地——這邪惡的世代——就是我起誓要賜給你們列祖的那地，若有看見的，",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "5dc452bdaab97c29b94c3dff9d95f836b91d055c9d319ac542689dc77794cd1f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/deuteronomy\/1\/33-36.1792128479775.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "「這邪惡世代的人中，若有一人得見那美地——我曾起誓要賜給⟨את⟩那地給你們祖先的——我必不讓他看見。」",
   "tokens": [
     {
       "surface": "אם",
@@ -34,15 +13,15 @@
     },
     {
       "surface": "יראה",
-      "gloss": "看見"
+      "gloss": "得見"
     },
     {
-      "surface": "איש",
-      "gloss": "一個人"
+      "surface": "אישׁ",
+      "gloss": "一人"
     },
     {
       "surface": "באנשים",
-      "gloss": "在……人中間"
+      "gloss": "…的人中"
     },
     {
       "surface": "האלה",
@@ -75,21 +54,21 @@
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "——…的"
     },
     {
       "surface": "נשבעתי",
-      "gloss": "我起誓"
+      "gloss": "我曾起誓"
     },
     {
       "surface": "לתת",
-      "gloss": "賜給"
+      "gloss": "要賜給"
     },
     {
       "surface": "לאבתיכם",
-      "gloss": "你們的列祖"
+      "gloss": "你們祖先"
     }
   ],
-  "timestamp": "2026-10-16T05:27:59.776405880Z",
+  "timestamp": "2026-10-16T22:12:34.007521815Z",
   "model": "glm-5.3"
 }

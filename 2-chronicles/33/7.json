@@ -5,44 +5,28 @@
   "book": "2-chronicles",
   "lang": "zh-Hant",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "論到這殿說",
-      "rationale": "希伯來文אשר אמר אלהים אל直接引語前無明確引導語，中文加「論到…說」以銜接。"
-    }
-  ],
-  "translation": "他又把雕刻的像——他所造的偶像——放進以羅欣的殿裡；以羅欣曾對大衛和他兒子所羅門論到這殿說：在這殿裡、在耶路撒冷——我從以色列眾支派中所揀選的——我必永遠立 ⟨את⟩ 我的名。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "fc9dbf3d838b99badf6acf155bfc92f5cc6b1c9858e3109166ffd1935c7d5a7b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/2-chronicles\/33\/5-8.1792149769202.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "他將自己所造之偶像的雕像放在以羅欣的殿中——這殿是以羅欣曾對大衛和他兒子所羅門說過的：「在這殿裡，和在我從以色列眾支派中所揀選的耶路撒冷，我必永遠安放 ⟨את⟩ 我的名。」",
   "tokens": [
     {
       "surface": "וישם",
-      "gloss": "他又放"
+      "gloss": "放置"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "雕刻的像"
+      "marks": "雕像"
     },
     {
       "surface": "פסל",
-      "gloss": "雕刻的像"
+      "gloss": "雕像"
     },
     {
       "surface": "הסמל",
-      "gloss": "偶像"
+      "gloss": "偶像的"
     },
     {
       "surface": "אשר",
-      "gloss": "他所…的"
+      "gloss": "他所造的"
     },
     {
       "surface": "עשה",
@@ -50,7 +34,7 @@
     },
     {
       "surface": "בבית",
-      "gloss": "在殿裡"
+      "gloss": "在……殿中"
     },
     {
       "surface": "האלהים",
@@ -58,11 +42,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "論到…的"
+      "gloss": "這殿是"
     },
     {
       "surface": "אמר",
-      "gloss": "曾說"
+      "gloss": "說過"
     },
     {
       "surface": "אלהים",
@@ -102,15 +86,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "…的"
+      "gloss": "（那）"
     },
     {
       "surface": "בחרתי",
-      "gloss": "我所揀選"
+      "gloss": "我所揀選的"
     },
     {
       "surface": "מכל",
-      "gloss": "從…眾"
+      "gloss": "從……眾"
     },
     {
       "surface": "שבטי",
@@ -122,7 +106,7 @@
     },
     {
       "surface": "אשים",
-      "gloss": "我必立"
+      "gloss": "我必安放"
     },
     {
       "surface": "את",
@@ -138,6 +122,6 @@
       "gloss": "永遠"
     }
   ],
-  "timestamp": "2026-10-16T11:22:49.203629535Z",
+  "timestamp": "2026-10-16T22:04:20.059445605Z",
   "model": "glm-5.3"
 }

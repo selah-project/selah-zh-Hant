@@ -5,41 +5,20 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "用石頭打死",
-      "rationale": "רגמו 直譯「投擲石頭」，中文以「用石頭打死」補足語義"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ידיהם\/ראשו",
-      "rationale": "按手在頭上的動作是見證的禮儀，將罪歸於當事人"
-    }
-  ],
-  "translation": "「把那咒詛 ⟨את⟩ 的人帶到營外，凡聽見的人都要按手在他的頭上，全會眾要用石頭打死他。」",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "2a67669dd2498a209861ab6443f3a40175ed9f58b1df0152939da521fa82efb2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/24\/13-16.1792127263587.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "把那咒詛的帶到營外，凡聽見的人都要按手在他頭上，然後全會眾要用石頭打死他。",
   "tokens": [
     {
       "surface": "הוצא",
-      "gloss": "帶出"
+      "gloss": "把…帶出"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那咒詛的人"
+      "marks": "那咒詛的"
     },
     {
       "surface": "המקלל",
-      "gloss": "那咒詛的人"
+      "gloss": "那咒詛的"
     },
     {
       "surface": "אל",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "וסמכו",
-      "gloss": "要按"
+      "gloss": "都要按"
     },
     {
       "surface": "כל",
@@ -76,11 +55,11 @@
     },
     {
       "surface": "על",
-      "gloss": "在"
+      "gloss": "在…上"
     },
     {
       "surface": "ראשו",
-      "gloss": "他的頭上"
+      "gloss": "他的頭"
     },
     {
       "surface": "ורגמו",
@@ -100,6 +79,6 @@
       "gloss": "會眾"
     }
   ],
-  "timestamp": "2026-10-16T05:07:43.588711125Z",
+  "timestamp": "2026-10-16T22:49:56.571825560Z",
   "model": "glm-5.3"
 }

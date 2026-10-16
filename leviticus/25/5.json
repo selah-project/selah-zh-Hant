@@ -5,46 +5,20 @@
   "book": "leviticus",
   "lang": "zh-Hant",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "נזירך",
-      "rationale": "「你分別出來的葡萄樹」：譯作「未修剪的葡萄樹」（和合本）或「你許願分別的」（拿細耳式），兩讀並存。"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ספיח",
-      "rationale": "自落自長的莊稼——一個罕見的農事詞，指無人撒種而自生的作物。"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "תקצור\/תבצר",
-      "rationale": "兩個收割動詞（קצר\/בצר）形成對偶禁令，中文以「收割／摘取」平行。"
-    }
-  ],
-  "translation": "你收成中自長的莊稼不可收割，你未修剪之樹上的葡萄也不可摘取：這是地的安息休耕之年。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "a41bade2eac609d4621619da794c6d8244eac84883d27511db8ea86e6074f80d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/leviticus\/25\/5-8.1792127277865.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨את⟩ 你收割之後自生的穀物，你不可收割；⟨את⟩ 你未修剪的葡萄樹的葡萄，你不可摘取；這是地向著安息的安息年。",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "自長的莊稼"
+      "marks": "自生的穀物"
     },
     {
       "surface": "ספיח",
-      "gloss": "自長的莊稼"
+      "gloss": "自生的穀物"
     },
     {
       "surface": "קצירך",
-      "gloss": "你的收成"
+      "gloss": "你的收割"
     },
     {
       "surface": "לא",
@@ -65,7 +39,7 @@
     },
     {
       "surface": "נזירך",
-      "gloss": "你未修剪之樹"
+      "gloss": "你未修剪的（葡萄樹）"
     },
     {
       "surface": "לא",
@@ -77,21 +51,21 @@
     },
     {
       "surface": "שנת",
-      "gloss": "…之年"
+      "gloss": "…年"
     },
     {
       "surface": "שבתון",
-      "gloss": "安息休耕"
+      "gloss": "安息"
     },
     {
       "surface": "יהיה",
-      "gloss": "這是"
+      "gloss": "是"
     },
     {
       "surface": "לארץ",
-      "gloss": "給地"
+      "gloss": "向著地"
     }
   ],
-  "timestamp": "2026-10-16T05:07:57.866093965Z",
+  "timestamp": "2026-10-16T22:50:23.719959902Z",
   "model": "glm-5.3"
 }

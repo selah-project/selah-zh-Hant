@@ -5,42 +5,16 @@
   "book": "numbers",
   "lang": "zh-Hant",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "תחת אישך",
-      "rationale": "「在丈夫以下」或「背著丈夫」或「代替丈夫」；各譯本分歧"
-    },
-    {
-      "kind": "elision",
-      "subject": "הנקי 的主語",
-      "rationale": "希伯來文動詞無人稱主語，中文補出「這苦水就免了你」的因果結構"
-    },
-    {
-      "kind": "you",
-      "subject": "to the woman",
-      "rationale": "祭司直接對那婦人說話的誓詞"
-    }
-  ],
-  "translation": "祭司要叫她起誓，對那婦人說：若沒有男人與你同寢，你若沒有在丈夫以下偏邪以致污穢，這致咒詛的苦水就免了你。",
-  "provenance": {
-    "system-sha256": "e1f4fae4ce8cfb1a23910348e9cb27d95ea13e4e6aeefc012702f20805bbc1db",
-    "user-sha256": "005556ea9a99564df05e19861dc81b09e09b0043e3d73bbc773cd4f1460d9ebe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/zh-Hant\/numbers\/5\/17-20.1792127635364.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "祭司要叫 ⟨את⟩ 她起誓，對那婦人說：「若沒有男人與你 ⟨את⟩ 同寢，你若沒有污穢地偏離在你丈夫之下，你便可免受這些致咒詛的苦水。」",
   "tokens": [
     {
       "surface": "והשביע",
-      "gloss": "要叫……起誓"
+      "gloss": "要叫…起誓"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "她"
+      "marks": "她（祭司使之起誓的對象）"
     },
     {
       "surface": "הכהן",
@@ -48,7 +22,7 @@
     },
     {
       "surface": "ואמר",
-      "gloss": "說"
+      "gloss": "並說"
     },
     {
       "surface": "אל",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "不"
+      "gloss": "沒有"
     },
     {
       "surface": "שכב",
@@ -77,7 +51,7 @@
     {
       "surface": "אתך",
       "gloss": "⟨את⟩",
-      "marks": "你"
+      "marks": "你（男人同寢的對象）"
     },
     {
       "surface": "ואם",
@@ -85,11 +59,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "不"
+      "gloss": "沒有"
     },
     {
       "surface": "שטית",
-      "gloss": "偏邪"
+      "gloss": "偏離"
     },
     {
       "surface": "טמאה",
@@ -97,7 +71,7 @@
     },
     {
       "surface": "תחת",
-      "gloss": "在……以下"
+      "gloss": "在…之下"
     },
     {
       "surface": "אישך",
@@ -105,11 +79,11 @@
     },
     {
       "surface": "הנקי",
-      "gloss": "免了"
+      "gloss": "你可免受"
     },
     {
       "surface": "ממי",
-      "gloss": "從……水"
+      "gloss": "…的水"
     },
     {
       "surface": "המרים",
@@ -124,6 +98,6 @@
       "gloss": "這些"
     }
   ],
-  "timestamp": "2026-10-16T05:13:55.366006946Z",
+  "timestamp": "2026-10-16T22:56:44.657480040Z",
   "model": "glm-5.3"
 }
